@@ -1,0 +1,68 @@
+{
+  "id": 186584223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-81.462262,39.411508,-81.462262,39.411508",
+    "geom:latitude":39.411508,
+    "geom:longitude":-81.462262,
+    "iso:country":"US",
+    "sg:address":"315 Harmar St",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 373 0192",
+    "sg:postcode":"45750",
+    "sg:province":"OH",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731683,
+        102083343,
+        85824023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NZwdImOSPLYM4tCC1kzx3_39.411508_-81.462262@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"03e6514304846ffc5e9f1907093cf92a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731683,
+            "neighbourhood_id":85824023,
+            "region_id":85688589,
+            "venue_id":186584223
+        }
+    ],
+    "wof:id":186584223,
+    "wof:lastmodified":1449050537,
+    "wof:name":"Knight Masonary",
+    "wof:parent_id":85824023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [-81.462262,39.411508,-81.462262,39.411508],
+  "geometry": {"coordinates":[-81.462262,39.411508],"type":"Point"}
+}

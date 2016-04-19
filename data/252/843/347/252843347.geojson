@@ -1,0 +1,68 @@
+{
+  "id": 252843347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-81.175333,39.987516,-81.175333,39.987516",
+    "geom:latitude":39.987516,
+    "geom:longitude":-81.175333,
+    "iso:country":"US",
+    "sg:address":"112 N Arch St",
+    "sg:city":"Barnesville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 425 4200",
+    "sg:postcode":"43713",
+    "sg:province":"OH",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731341,
+        102082591,
+        85805801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vNi2W9fy2uPALyKy3tUs4_39.987516_-81.175333@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"42db8578f9daf5804c8bd5f9fc586587",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082591,
+            "locality_id":101731341,
+            "neighbourhood_id":85805801,
+            "region_id":85688589,
+            "venue_id":252843347
+        }
+    ],
+    "wof:id":252843347,
+    "wof:lastmodified":1449005505,
+    "wof:name":"Buckeye Mortgage Co",
+    "wof:parent_id":85805801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [-81.175333,39.987516,-81.175333,39.987516],
+  "geometry": {"coordinates":[-81.175333,39.987516],"type":"Point"}
+}

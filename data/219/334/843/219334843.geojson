@@ -1,0 +1,66 @@
+{
+  "id": 219334843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-81.4538,39.412426,-81.4538,39.412426",
+    "geom:latitude":39.412426,
+    "geom:longitude":-81.4538,
+    "iso:country":"US",
+    "sg:address":"170 Front St",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 373 9463",
+    "sg:postcode":"45750",
+    "sg:province":"OH",
+    "sg:tags":[
+        "winery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731683,
+        102083343,
+        85824023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12vaYd4soCNa7taaTN50v7_39.412426_-81.453800@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f7e1b554feff3cf939888593f5ae7e36",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731683,
+            "neighbourhood_id":85824023,
+            "region_id":85688589,
+            "venue_id":219334843
+        }
+    ],
+    "wof:id":219334843,
+    "wof:lastmodified":1449071433,
+    "wof:name":"Marietta Wine Cellar",
+    "wof:parent_id":85824023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "winery"
+    ]
+},
+  "bbox": [-81.4538,39.412426,-81.4538,39.412426],
+  "geometry": {"coordinates":[-81.4538,39.412426],"type":"Point"}
+}

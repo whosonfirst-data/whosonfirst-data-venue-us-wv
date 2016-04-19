@@ -1,0 +1,68 @@
+{
+  "id": 270459543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-80.761288,39.96719,-80.761288,39.96719",
+    "geom:latitude":39.96719,
+    "geom:longitude":-80.761288,
+    "iso:country":"US",
+    "sg:address":"126 Kennedy Ln",
+    "sg:city":"Shadyside",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 676 1572",
+    "sg:postcode":"43947",
+    "sg:province":"OH",
+    "sg:tags":[
+        "contracting",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731341,
+        102082591,
+        85805801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3C2dsPNjS4z59NCz8s2Fnb_39.967190_-80.761288@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c199024d09974e6db8a3ecc4f7617a1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082591,
+            "locality_id":101731341,
+            "neighbourhood_id":85805801,
+            "region_id":85688589,
+            "venue_id":270459543
+        }
+    ],
+    "wof:id":270459543,
+    "wof:lastmodified":1449009635,
+    "wof:name":"Carol Electric Inc",
+    "wof:parent_id":85805801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contracting",
+        "electrical"
+    ]
+},
+  "bbox": [-80.761288,39.96719,-80.761288,39.96719],
+  "geometry": {"coordinates":[-80.761288,39.96719],"type":"Point"}
+}

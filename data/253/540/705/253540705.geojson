@@ -1,0 +1,71 @@
+{
+  "id": 253540705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-81.453933,39.412352,-81.453933,39.412352",
+    "geom:latitude":39.412352,
+    "geom:longitude":-81.453933,
+    "iso:country":"US",
+    "sg:address":"167 Front St",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 373 2739",
+    "sg:postcode":"45750",
+    "sg:province":"OH",
+    "sg:tags":[
+        "brewery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731683,
+        102083343,
+        85824023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PnfpBHWvJ0AKfjCOZHSEw_39.412352_-81.453933@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"64914bc5e25598683c1f5fdb312343c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731683,
+            "neighbourhood_id":85824023,
+            "region_id":85688589,
+            "venue_id":253540705
+        }
+    ],
+    "wof:id":253540705,
+    "wof:lastmodified":1449063988,
+    "wof:name":"Marietta Brewing Co",
+    "wof:parent_id":85824023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brewery"
+    ]
+},
+  "bbox": [-81.453933,39.412352,-81.453933,39.412352],
+  "geometry": {"coordinates":[-81.453933,39.412352],"type":"Point"}
+}

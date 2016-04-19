@@ -1,0 +1,67 @@
+{
+  "id": 202791949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-81.614505,39.279555,-81.614505,39.279555",
+    "geom:latitude":39.279555,
+    "geom:longitude":-81.614505,
+    "iso:country":"US",
+    "sg:address":"2607 Washington Blvd",
+    "sg:city":"Belpre",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 423 7600",
+    "sg:postcode":"45714",
+    "sg:province":"OH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        102083343,
+        85845495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VbgFjhOPdq1dC6Dhz01ys_39.279555_-81.614505@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3e563dbe2484c25c4fab33339eb80793",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":-1,
+            "neighbourhood_id":85845495,
+            "region_id":85688589,
+            "venue_id":202791949
+        }
+    ],
+    "wof:id":202791949,
+    "wof:lastmodified":1449062073,
+    "wof:name":"Rockland Service Ctr",
+    "wof:parent_id":85845495,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-81.614505,39.279555,-81.614505,39.279555],
+  "geometry": {"coordinates":[-81.614505,39.279555],"type":"Point"}
+}

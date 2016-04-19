@@ -1,0 +1,68 @@
+{
+  "id": 186610355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-81.178531,39.968727,-81.178531,39.968727",
+    "geom:latitude":39.968727,
+    "geom:longitude":-81.178531,
+    "iso:country":"US",
+    "sg:address":"60110 Somerton Hwy",
+    "sg:city":"Barnesville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 425 2078",
+    "sg:postcode":"43713",
+    "sg:province":"OH",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731341,
+        102082591,
+        85805801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IkF6orKONkzalDfe8FHW5_39.968727_-81.178531@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dfde1a43bd2a511da179ff41b9e2946f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082591,
+            "locality_id":101731341,
+            "neighbourhood_id":85805801,
+            "region_id":85688589,
+            "venue_id":186610355
+        }
+    ],
+    "wof:id":186610355,
+    "wof:lastmodified":1449052987,
+    "wof:name":"R & C Moore Trucking Ltd",
+    "wof:parent_id":85805801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [-81.178531,39.968727,-81.178531,39.968727],
+  "geometry": {"coordinates":[-81.178531,39.968727],"type":"Point"}
+}

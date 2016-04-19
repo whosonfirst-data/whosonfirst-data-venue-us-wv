@@ -1,0 +1,68 @@
+{
+  "id": 269873077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-80.714729,40.099172,-80.714729,40.099172",
+    "geom:latitude":40.099172,
+    "geom:longitude":-80.714729,
+    "iso:country":"US",
+    "sg:address":"607 N 1st St",
+    "sg:city":"Martins Ferry",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 633 5153",
+    "sg:postcode":"43935",
+    "sg:province":"OH",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731295,
+        102082621,
+        85851939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LwrqsZW6MSfiMsHUkU9im_40.099172_-80.714729@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3d6cdf38aaf5871e5c2c49a24ee462ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85851939,
+            "region_id":85688589,
+            "venue_id":269873077
+        }
+    ],
+    "wof:id":269873077,
+    "wof:lastmodified":1449036646,
+    "wof:name":"ABF",
+    "wof:parent_id":85851939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [-80.714729,40.099172,-80.714729,40.099172],
+  "geometry": {"coordinates":[-80.714729,40.099172],"type":"Point"}
+}

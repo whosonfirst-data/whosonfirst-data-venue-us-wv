@@ -1,0 +1,70 @@
+{
+  "id": 219893209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-80.745829,40.015846,-80.745829,40.015846",
+    "geom:latitude":40.015846,
+    "geom:longitude":-80.745829,
+    "iso:country":"US",
+    "sg:address":"520 33rd St",
+    "sg:city":"Bellaire",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 676 2529",
+    "sg:postcode":"43906",
+    "sg:province":"OH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731341,
+        102082591,
+        85805801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58Hw93W2cNzad9LAaDryW6_40.015846_-80.745829@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5abfd88a7d817a9f26123c6e3f51a85e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082591,
+            "locality_id":101731341,
+            "neighbourhood_id":85805801,
+            "region_id":85688589,
+            "venue_id":219893209
+        }
+    ],
+    "wof:id":219893209,
+    "wof:lastmodified":1449073258,
+    "wof:name":"J & L Auto Body",
+    "wof:parent_id":85805801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [-80.745829,40.015846,-80.745829,40.015846],
+  "geometry": {"coordinates":[-80.745829,40.015846],"type":"Point"}
+}

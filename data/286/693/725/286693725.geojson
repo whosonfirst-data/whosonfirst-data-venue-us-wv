@@ -1,0 +1,73 @@
+{
+  "id": 286693725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-81.183605,39.98498,-81.183605,39.98498",
+    "geom:latitude":39.98498,
+    "geom:longitude":-81.183605,
+    "iso:country":"US",
+    "sg:address":"400 Carrie Ave",
+    "sg:city":"Barnesville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 425 3648",
+    "sg:postcode":"43713",
+    "sg:province":"OH",
+    "sg:tags":[
+        "home",
+        "skilled",
+        "intermediate",
+        "convalescent"
+    ],
+    "sg:website":"www.barnesvillehealthcare.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731341,
+        102082591,
+        85805801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CdWU9mNMhywWRhrXLBnXk_39.984980_-81.183605@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b10914a96e25438e0dab73582267ab76",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082591,
+            "locality_id":101731341,
+            "neighbourhood_id":85805801,
+            "region_id":85688589,
+            "venue_id":286693725
+        }
+    ],
+    "wof:id":286693725,
+    "wof:lastmodified":1449015339,
+    "wof:name":"Barnesville Health Care Center",
+    "wof:parent_id":85805801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "skilled",
+        "intermediate",
+        "convalescent"
+    ]
+},
+  "bbox": [-81.183605,39.98498,-81.183605,39.98498],
+  "geometry": {"coordinates":[-81.183605,39.98498],"type":"Point"}
+}

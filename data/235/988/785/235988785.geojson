@@ -1,0 +1,68 @@
+{
+  "id": 235988785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-80.744813,40.010577,-80.744813,40.010577",
+    "geom:latitude":40.010577,
+    "geom:longitude":-80.744813,
+    "iso:country":"US",
+    "sg:address":"200 W 26th St",
+    "sg:city":"Bellaire",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 676 8545",
+    "sg:postcode":"43906",
+    "sg:province":"OH",
+    "sg:tags":[
+        "demolition",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731341,
+        102082591,
+        85805801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31k0VL4IHRj2iucrvTogrF_40.010577_-80.744813@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5e5b7c20dc6b3b78cf6cb8e9586aae12",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082591,
+            "locality_id":101731341,
+            "neighbourhood_id":85805801,
+            "region_id":85688589,
+            "venue_id":235988785
+        }
+    ],
+    "wof:id":235988785,
+    "wof:lastmodified":1449008382,
+    "wof:name":"Demolition Man",
+    "wof:parent_id":85805801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "demolition",
+        "contractor"
+    ]
+},
+  "bbox": [-80.744813,40.010577,-80.744813,40.010577],
+  "geometry": {"coordinates":[-80.744813,40.010577],"type":"Point"}
+}

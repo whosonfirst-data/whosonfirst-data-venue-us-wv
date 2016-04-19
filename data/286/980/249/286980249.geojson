@@ -1,0 +1,66 @@
+{
+  "id": 286980249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-81.171564,39.988014,-81.171564,39.988014",
+    "geom:latitude":39.988014,
+    "geom:longitude":-81.171564,
+    "iso:country":"US",
+    "sg:address":"425 E Church St",
+    "sg:city":"Barnesville",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 425 3634",
+    "sg:postcode":"43713",
+    "sg:province":"OH",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731341,
+        102082591,
+        85805801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uYCvO060wHV9rwnU7evOy_39.988014_-81.171564@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"df3e7bbd4fe0d28e9eb56bbf645824b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082591,
+            "locality_id":101731341,
+            "neighbourhood_id":85805801,
+            "region_id":85688589,
+            "venue_id":286980249
+        }
+    ],
+    "wof:id":286980249,
+    "wof:lastmodified":1449015373,
+    "wof:name":"City Cab",
+    "wof:parent_id":85805801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [-81.171564,39.988014,-81.171564,39.988014],
+  "geometry": {"coordinates":[-81.171564,39.988014],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 219931239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-81.582018,39.273649,-81.582018,39.273649",
+    "geom:latitude":39.273649,
+    "geom:longitude":-81.582018,
+    "iso:country":"US",
+    "sg:address":"125 Lee St",
+    "sg:city":"Belpre",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 423 9640",
+    "sg:postcode":"45714",
+    "sg:province":"OH",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        102083343,
+        85845495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4StuoN6LFq2ym3EpNsi2VM_39.273649_-81.582018@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"615ede71adfb8234f9325b958ffff46a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":-1,
+            "neighbourhood_id":85845495,
+            "region_id":85688589,
+            "venue_id":219931239
+        }
+    ],
+    "wof:id":219931239,
+    "wof:lastmodified":1449073598,
+    "wof:name":"Specialist & Diagnostic Center",
+    "wof:parent_id":85845495,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [-81.582018,39.273649,-81.582018,39.273649],
+  "geometry": {"coordinates":[-81.582018,39.273649],"type":"Point"}
+}

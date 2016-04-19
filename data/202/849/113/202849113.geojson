@@ -1,0 +1,66 @@
+{
+  "id": 202849113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-81.459511,39.41148,-81.459511,39.41148",
+    "geom:latitude":39.41148,
+    "geom:longitude":-81.459511,
+    "iso:country":"US",
+    "sg:address":"123 Maple St",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 373 6407",
+    "sg:postcode":"45750",
+    "sg:province":"OH",
+    "sg:tags":[
+        "collectible"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731683,
+        102083343,
+        85824023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Dlt1LKfvcG5H2maeKDQO8_39.411480_-81.459511@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fc17b03e7f8729db99d9fd86adab017d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731683,
+            "neighbourhood_id":85824023,
+            "region_id":85688589,
+            "venue_id":202849113
+        }
+    ],
+    "wof:id":202849113,
+    "wof:lastmodified":1449060577,
+    "wof:name":"Jims Cola & Advg Memorabilia",
+    "wof:parent_id":85824023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "collectible"
+    ]
+},
+  "bbox": [-81.459511,39.41148,-81.459511,39.41148],
+  "geometry": {"coordinates":[-81.459511,39.41148],"type":"Point"}
+}

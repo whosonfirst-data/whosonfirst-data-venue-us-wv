@@ -1,0 +1,68 @@
+{
+  "id": 236663897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-80.74138,40.018271,-80.74138,40.018271",
+    "geom:latitude":40.018271,
+    "geom:longitude":-80.74138,
+    "iso:country":"US",
+    "sg:address":"3609 Belmont St",
+    "sg:city":"Bellaire",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 676 4812",
+    "sg:postcode":"43906",
+    "sg:province":"OH",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731341,
+        102082591,
+        85805801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5l2LBDTH6MIyBZAAWPSnrU_40.018271_-80.741380@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"20abdf91ed178301e3bf2fe2f503fa81",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082591,
+            "locality_id":101731341,
+            "neighbourhood_id":85805801,
+            "region_id":85688589,
+            "venue_id":236663897
+        }
+    ],
+    "wof:id":236663897,
+    "wof:lastmodified":1449004198,
+    "wof:name":"Peter Lancione MD",
+    "wof:parent_id":85805801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-80.74138,40.018271,-80.74138,40.018271],
+  "geometry": {"coordinates":[-80.74138,40.018271],"type":"Point"}
+}

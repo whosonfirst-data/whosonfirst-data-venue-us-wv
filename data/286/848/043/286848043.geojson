@@ -1,0 +1,67 @@
+{
+  "id": 286848043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-82.357953,38.449852,-82.357953,38.449852",
+    "geom:latitude":38.449852,
+    "geom:longitude":-82.357953,
+    "iso:country":"US",
+    "sg:address":"21602 State Rte 243",
+    "sg:city":"Proctorville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 886 5009",
+    "sg:postcode":"45669",
+    "sg:province":"OH",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        102083329,
+        85868299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ImCiHWuIxR5cTz5HarxOz_38.449852_-82.357953@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6b66430f1eb6ff7b3bf5541d4fccee27",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":-1,
+            "neighbourhood_id":85868299,
+            "region_id":85688589,
+            "venue_id":286848043
+        }
+    ],
+    "wof:id":286848043,
+    "wof:lastmodified":1449015583,
+    "wof:name":"Riverview Apartments",
+    "wof:parent_id":85868299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [-82.357953,38.449852,-82.357953,38.449852],
+  "geometry": {"coordinates":[-82.357953,38.449852],"type":"Point"}
+}

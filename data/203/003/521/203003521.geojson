@@ -1,0 +1,66 @@
+{
+  "id": 203003521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-81.455799,39.414409,-81.455799,39.414409",
+    "geom:latitude":39.414409,
+    "geom:longitude":-81.455799,
+    "iso:country":"US",
+    "sg:address":"282 Front St",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 373 0347",
+    "sg:postcode":"45750",
+    "sg:province":"OH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731683,
+        102083343,
+        85824023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HPP8EzQfS1ksK8pQgejFk_39.414409_-81.455799@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"46afee8d54c5d3a99c56d1460b8e2432",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731683,
+            "neighbourhood_id":85824023,
+            "region_id":85688589,
+            "venue_id":203003521
+        }
+    ],
+    "wof:id":203003521,
+    "wof:lastmodified":1449026723,
+    "wof:name":"Sugden Book Store Inc",
+    "wof:parent_id":85824023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-81.455799,39.414409,-81.455799,39.414409],
+  "geometry": {"coordinates":[-81.455799,39.414409],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 202624127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-81.037748,40.019141,-81.037748,40.019141",
+    "geom:latitude":40.019141,
+    "geom:longitude":-81.037748,
+    "iso:country":"US",
+    "sg:address":"42416 Noon Rd",
+    "sg:city":"Belmont",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 484 4550",
+    "sg:postcode":"43718",
+    "sg:province":"OH",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731341,
+        102082591,
+        85805801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LzDWDX8q7L49l21zdXtDn_40.019141_-81.037748@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2bcc8f9e56fba3be3de77e7a2555674f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082591,
+            "locality_id":101731341,
+            "neighbourhood_id":85805801,
+            "region_id":85688589,
+            "venue_id":202624127
+        }
+    ],
+    "wof:id":202624127,
+    "wof:lastmodified":1449061831,
+    "wof:name":"Large Animal Veterinary Svc",
+    "wof:parent_id":85805801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-81.037748,40.019141,-81.037748,40.019141],
+  "geometry": {"coordinates":[-81.037748,40.019141],"type":"Point"}
+}

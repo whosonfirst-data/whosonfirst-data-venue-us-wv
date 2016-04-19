@@ -1,0 +1,66 @@
+{
+  "id": 186340127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-81.455992,39.420901,-81.455992,39.420901",
+    "geom:latitude":39.420901,
+    "geom:longitude":-81.455992,
+    "iso:country":"US",
+    "sg:address":"408 4th St",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 000 1111",
+    "sg:postcode":"45750",
+    "sg:province":"OH",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731683,
+        102083343,
+        85824023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aLjJvhNOWZKgD874ggB5C_39.420901_-81.455992@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0e352dc9525780b40e1635fe83a7a9d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731683,
+            "neighbourhood_id":85824023,
+            "region_id":85688589,
+            "venue_id":186340127
+        }
+    ],
+    "wof:id":186340127,
+    "wof:lastmodified":1449052398,
+    "wof:name":"Stanleyville Police Dept",
+    "wof:parent_id":85824023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-81.455992,39.420901,-81.455992,39.420901],
+  "geometry": {"coordinates":[-81.455992,39.420901],"type":"Point"}
+}

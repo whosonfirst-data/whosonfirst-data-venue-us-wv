@@ -1,0 +1,68 @@
+{
+  "id": 270107015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-81.451117,39.411827,-81.451117,39.411827",
+    "geom:latitude":39.411827,
+    "geom:longitude":-81.451117,
+    "iso:country":"US",
+    "sg:address":"118 2nd St",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 373 3517",
+    "sg:postcode":"45750",
+    "sg:province":"OH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731683,
+        102083343,
+        85824023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Of4i4r8UQubKuQn3LJAK2_39.411827_-81.451117@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2ca5eececcdc94d03da49486d10b66f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731683,
+            "neighbourhood_id":85824023,
+            "region_id":85688589,
+            "venue_id":270107015
+        }
+    ],
+    "wof:id":270107015,
+    "wof:lastmodified":1449008674,
+    "wof:name":"New Weihl Repair Svc",
+    "wof:parent_id":85824023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-81.451117,39.411827,-81.451117,39.411827],
+  "geometry": {"coordinates":[-81.451117,39.411827],"type":"Point"}
+}

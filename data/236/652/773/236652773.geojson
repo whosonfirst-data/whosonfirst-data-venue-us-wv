@@ -1,0 +1,67 @@
+{
+  "id": 236652773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-81.437506,39.413023,-81.437506,39.413023",
+    "geom:latitude":39.413023,
+    "geom:longitude":-81.437506,
+    "iso:country":"US",
+    "sg:address":"802 Wayne St",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 568 4094",
+    "sg:postcode":"45750",
+    "sg:province":"OH",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        102083343,
+        85838519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62k71GUZsjlW4jtqyL2CJR_39.413023_-81.437506@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cc206cfb5c04e2d7d4dd4feef8ac53a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":-1,
+            "neighbourhood_id":85838519,
+            "region_id":85688589,
+            "venue_id":236652773
+        }
+    ],
+    "wof:id":236652773,
+    "wof:lastmodified":1449003843,
+    "wof:name":"Dauphin Orthopedic & Sport Med",
+    "wof:parent_id":85838519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-81.437506,39.413023,-81.437506,39.413023],
+  "geometry": {"coordinates":[-81.437506,39.413023],"type":"Point"}
+}

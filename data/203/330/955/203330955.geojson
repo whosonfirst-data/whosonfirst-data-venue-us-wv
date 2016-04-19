@@ -1,0 +1,66 @@
+{
+  "id": 203330955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-81.178476,39.988168,-81.178476,39.988168",
+    "geom:latitude":39.988168,
+    "geom:longitude":-81.178476,
+    "iso:country":"US",
+    "sg:address":"127 W Main St",
+    "sg:city":"Barnesville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 425 1591",
+    "sg:postcode":"43713",
+    "sg:province":"OH",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731341,
+        102082591,
+        85805801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29QbmsbcWSygpPs7zKz2uV_39.988168_-81.178476@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"10f0c7a9cc022ed140ecadb4bf70bba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082591,
+            "locality_id":101731341,
+            "neighbourhood_id":85805801,
+            "region_id":85688589,
+            "venue_id":203330955
+        }
+    ],
+    "wof:id":203330955,
+    "wof:lastmodified":1449025878,
+    "wof:name":"Philip M Primmer DDS",
+    "wof:parent_id":85805801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-81.178476,39.988168,-81.178476,39.988168],
+  "geometry": {"coordinates":[-81.178476,39.988168],"type":"Point"}
+}

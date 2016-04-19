@@ -1,0 +1,68 @@
+{
+  "id": 186442223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-81.453484,39.411872,-81.453484,39.411872",
+    "geom:latitude":39.411872,
+    "geom:longitude":-81.453484,
+    "iso:country":"US",
+    "sg:address":"191 Front St",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 374 0544",
+    "sg:postcode":"45750",
+    "sg:province":"OH",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731683,
+        102083343,
+        85824023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64YhBLDjn5PxYQGLTuq1or_39.411872_-81.453484@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"56e38af268bc9e6b2219e170ffba7173",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731683,
+            "neighbourhood_id":85824023,
+            "region_id":85688589,
+            "venue_id":186442223
+        }
+    ],
+    "wof:id":186442223,
+    "wof:lastmodified":1449051549,
+    "wof:name":"Computer Store Of Marietta",
+    "wof:parent_id":85824023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [-81.453484,39.411872,-81.453484,39.411872],
+  "geometry": {"coordinates":[-81.453484,39.411872],"type":"Point"}
+}

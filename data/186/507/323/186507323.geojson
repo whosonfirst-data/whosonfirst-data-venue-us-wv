@@ -1,0 +1,65 @@
+{
+  "id": 186507323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-81.622947,39.279587,-81.622947,39.279587",
+    "geom:latitude":39.279587,
+    "geom:longitude":-81.622947,
+    "iso:country":"US",
+    "sg:address":"2939 Washington Blvd",
+    "sg:city":"Belpre",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 423 5515",
+    "sg:postcode":"45714",
+    "sg:province":"OH",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        102083343,
+        85845495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nNuBpvEg31ZF9pNbT25t0_39.279587_-81.622947@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c49b2e7735e9d4c0a98fa8b70a798ae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":-1,
+            "neighbourhood_id":85845495,
+            "region_id":85688589,
+            "venue_id":186507323
+        }
+    ],
+    "wof:id":186507323,
+    "wof:lastmodified":1449051746,
+    "wof:name":"Transport Tank Trailers Svc",
+    "wof:parent_id":85845495,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [-81.622947,39.279587,-81.622947,39.279587],
+  "geometry": {"coordinates":[-81.622947,39.279587],"type":"Point"}
+}

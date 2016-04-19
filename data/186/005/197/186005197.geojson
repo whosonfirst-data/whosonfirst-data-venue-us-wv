@@ -1,0 +1,67 @@
+{
+  "id": 186005197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-82.370442,38.440673,-82.370442,38.440673",
+    "geom:latitude":38.440673,
+    "geom:longitude":-82.370442,
+    "iso:country":"US",
+    "sg:address":"246 Co Rd 403",
+    "sg:city":"Proctorville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 886 9632",
+    "sg:postcode":"45669",
+    "sg:province":"OH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        102083329,
+        85868299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18BXsE7c5VJDCDFSaFMR2w_38.440673_-82.370442@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d255219e49d7d0d9649c903a441bf4e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":-1,
+            "neighbourhood_id":85868299,
+            "region_id":85688589,
+            "venue_id":186005197
+        }
+    ],
+    "wof:id":186005197,
+    "wof:lastmodified":1449052812,
+    "wof:name":"Ward's Service Ctr",
+    "wof:parent_id":85868299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-82.370442,38.440673,-82.370442,38.440673],
+  "geometry": {"coordinates":[-82.370442,38.440673],"type":"Point"}
+}

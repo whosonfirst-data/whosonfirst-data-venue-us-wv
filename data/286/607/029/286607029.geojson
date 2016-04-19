@@ -1,0 +1,66 @@
+{
+  "id": 286607029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-81.189283,39.993303,-81.189283,39.993303",
+    "geom:latitude":39.993303,
+    "geom:longitude":-81.189283,
+    "iso:country":"US",
+    "sg:address":"100 Hospital Dr",
+    "sg:city":"Barnesville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 425 5160",
+    "sg:postcode":"43713",
+    "sg:province":"OH",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731341,
+        102082591,
+        85805801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ISkJYfzE8UBm4657HvZco_39.993303_-81.189283@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"62849a6885ceb97cd0fbaaa204350e5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082591,
+            "locality_id":101731341,
+            "neighbourhood_id":85805801,
+            "region_id":85688589,
+            "venue_id":286607029
+        }
+    ],
+    "wof:id":286607029,
+    "wof:lastmodified":1449015560,
+    "wof:name":"Barnesville Family Health Ctr",
+    "wof:parent_id":85805801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [-81.189283,39.993303,-81.189283,39.993303],
+  "geometry": {"coordinates":[-81.189283,39.993303],"type":"Point"}
+}

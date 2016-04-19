@@ -1,0 +1,66 @@
+{
+  "id": 202915811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-81.143073,40.019612,-81.143073,40.019612",
+    "geom:latitude":40.019612,
+    "geom:longitude":-81.143073,
+    "iso:country":"US",
+    "sg:address":"63555 Aries Ln",
+    "sg:city":"Barnesville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 425 3579",
+    "sg:postcode":"43713",
+    "sg:province":"OH",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731341,
+        102082591,
+        85805801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DD8wgCo2ha4ZA3N1wnXlD_40.019612_-81.143073@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bd25b9f2bbaf60d63952fbfb203a322b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082591,
+            "locality_id":101731341,
+            "neighbourhood_id":85805801,
+            "region_id":85688589,
+            "venue_id":202915811
+        }
+    ],
+    "wof:id":202915811,
+    "wof:lastmodified":1449062609,
+    "wof:name":"East Ohio Surveying Co",
+    "wof:parent_id":85805801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [-81.143073,40.019612,-81.143073,40.019612],
+  "geometry": {"coordinates":[-81.143073,40.019612],"type":"Point"}
+}

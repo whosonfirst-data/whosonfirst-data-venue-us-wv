@@ -1,0 +1,68 @@
+{
+  "id": 236270271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-80.715703,40.100509,-80.715703,40.100509",
+    "geom:latitude":40.100509,
+    "geom:longitude":-80.715703,
+    "iso:country":"US",
+    "sg:address":"655 Main St",
+    "sg:city":"Martins Ferry",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 633 3832",
+    "sg:postcode":"43935",
+    "sg:province":"OH",
+    "sg:tags":[
+        "depository",
+        "banking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731295,
+        102082621,
+        85851939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eH44jOAKPIn9AYZ4wq25i_40.100509_-80.715703@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3ef1abc6aab62235f6fc5faef06e37e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85851939,
+            "region_id":85688589,
+            "venue_id":236270271
+        }
+    ],
+    "wof:id":236270271,
+    "wof:lastmodified":1449002117,
+    "wof:name":"America Check Exchange",
+    "wof:parent_id":85851939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "depository",
+        "banking"
+    ]
+},
+  "bbox": [-80.715703,40.100509,-80.715703,40.100509],
+  "geometry": {"coordinates":[-80.715703,40.100509],"type":"Point"}
+}

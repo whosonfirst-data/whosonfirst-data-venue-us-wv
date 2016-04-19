@@ -1,0 +1,68 @@
+{
+  "id": 185942497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-81.073931,40.020929,-81.073931,40.020929",
+    "geom:latitude":40.020929,
+    "geom:longitude":-81.073931,
+    "iso:country":"US",
+    "sg:address":"101 Maple Ave",
+    "sg:city":"Bethesda",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 484 1704",
+    "sg:postcode":"43719",
+    "sg:province":"OH",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731341,
+        102082591,
+        85805801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2R1NJMfyGI9tmaH7sNf6gq_40.020929_-81.073931@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bf55505003321bab3de2cad9a8f90341",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082591,
+            "locality_id":101731341,
+            "neighbourhood_id":85805801,
+            "region_id":85688589,
+            "venue_id":185942497
+        }
+    ],
+    "wof:id":185942497,
+    "wof:lastmodified":1449007356,
+    "wof:name":"Kevins Marathon",
+    "wof:parent_id":85805801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [-81.073931,40.020929,-81.073931,40.020929],
+  "geometry": {"coordinates":[-81.073931,40.020929],"type":"Point"}
+}

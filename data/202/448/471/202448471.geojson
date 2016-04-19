@@ -1,0 +1,68 @@
+{
+  "id": 202448471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-81.150552,39.991643,-81.150552,39.991643",
+    "geom:latitude":39.991643,
+    "geom:longitude":-81.150552,
+    "iso:country":"US",
+    "sg:address":"61761 Roosevelt Rd",
+    "sg:city":"Barnesville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 425 3699",
+    "sg:postcode":"43713",
+    "sg:province":"OH",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731341,
+        102082591,
+        85805801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18bfIhpSZi8GIZbMCWWsbh_39.991643_-81.150552@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"36d13a8e6d5899262a9908a1afd01735",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082591,
+            "locality_id":101731341,
+            "neighbourhood_id":85805801,
+            "region_id":85688589,
+            "venue_id":202448471
+        }
+    ],
+    "wof:id":202448471,
+    "wof:lastmodified":1449062522,
+    "wof:name":"Lucas Storage",
+    "wof:parent_id":85805801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [-81.150552,39.991643,-81.150552,39.991643],
+  "geometry": {"coordinates":[-81.150552,39.991643],"type":"Point"}
+}

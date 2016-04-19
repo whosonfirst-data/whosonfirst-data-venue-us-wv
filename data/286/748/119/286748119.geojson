@@ -1,0 +1,68 @@
+{
+  "id": 286748119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-81.460112,39.414493,-81.460112,39.414493",
+    "geom:latitude":39.414493,
+    "geom:longitude":-81.460112,
+    "iso:country":"US",
+    "sg:address":"415 Gilman Ave",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 376 9977",
+    "sg:postcode":"45750",
+    "sg:province":"OH",
+    "sg:tags":[
+        "automotive",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731683,
+        102083343,
+        85824023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zOrQalaJN8YD9XtnJRELA_39.414493_-81.460112@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8d82a8c15f5e18cb6ddd20a2aa1e4984",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731683,
+            "neighbourhood_id":85824023,
+            "region_id":85688589,
+            "venue_id":286748119
+        }
+    ],
+    "wof:id":286748119,
+    "wof:lastmodified":1449017390,
+    "wof:name":"Marietta Joint & Clutch",
+    "wof:parent_id":85824023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "supply"
+    ]
+},
+  "bbox": [-81.460112,39.414493,-81.460112,39.414493],
+  "geometry": {"coordinates":[-81.460112,39.414493],"type":"Point"}
+}

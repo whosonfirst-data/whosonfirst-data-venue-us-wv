@@ -1,0 +1,66 @@
+{
+  "id": 202653933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-81.175301,39.981685,-81.175301,39.981685",
+    "geom:latitude":39.981685,
+    "geom:longitude":-81.175301,
+    "iso:country":"US",
+    "sg:address":"435 S Lincoln Ave",
+    "sg:city":"Barnesville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 425 1280",
+    "sg:postcode":"43713",
+    "sg:province":"OH",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731341,
+        102082591,
+        85805801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YF5omaabgykQFyKRgdoKL_39.981685_-81.175301@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6ffad9fb460b8fd529edc0ff27736591",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082591,
+            "locality_id":101731341,
+            "neighbourhood_id":85805801,
+            "region_id":85688589,
+            "venue_id":202653933
+        }
+    ],
+    "wof:id":202653933,
+    "wof:lastmodified":1449060294,
+    "wof:name":"Barnesville Common Apartments",
+    "wof:parent_id":85805801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [-81.175301,39.981685,-81.175301,39.981685],
+  "geometry": {"coordinates":[-81.175301,39.981685],"type":"Point"}
+}

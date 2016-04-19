@@ -1,0 +1,68 @@
+{
+  "id": 253359041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-80.746085,39.969826,-80.746085,39.969826",
+    "geom:latitude":39.969826,
+    "geom:longitude":-80.746085,
+    "iso:country":"US",
+    "sg:address":"3900 Grand Ave",
+    "sg:city":"Shadyside",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 676 6661",
+    "sg:postcode":"43947",
+    "sg:province":"OH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731341,
+        102082591,
+        85805801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jgOQPk06onWN7CBnSKGVp_39.969826_-80.746085@1294180530"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b9def2f6e0203aaf9aabb7e34969db97",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082591,
+            "locality_id":101731341,
+            "neighbourhood_id":85805801,
+            "region_id":85688589,
+            "venue_id":253359041
+        }
+    ],
+    "wof:id":253359041,
+    "wof:lastmodified":1449062778,
+    "wof:name":"Newhart's Body Shop",
+    "wof:parent_id":85805801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-80.746085,39.969826,-80.746085,39.969826],
+  "geometry": {"coordinates":[-80.746085,39.969826],"type":"Point"}
+}
