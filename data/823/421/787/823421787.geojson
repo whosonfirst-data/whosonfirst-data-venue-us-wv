@@ -1,0 +1,72 @@
+{
+  "id": 823421787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.968572,39.585014,-79.968572,39.585014",
+    "geom:latitude":39.585014,
+    "geom:longitude":-79.968572,
+    "iso:country":"US",
+    "sg:address":"304 Scott Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 285 3120",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "rehab",
+        "government"
+    ],
+    "sg:website":"www.wvbep.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13NBOqA02qATww7LKCLTem_39.585014_-79.968572@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433535,
+    "wof:geomhash":"4168d8e04f83da4c6744d0de3895459a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823421787
+        }
+    ],
+    "wof:id":823421787,
+    "wof:lastmodified":1463433535,
+    "wof:name":"Job Service",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehab",
+        "government"
+    ]
+},
+  "bbox": [
+    -79.968572,
+    39.585014,
+    -79.968572,
+    39.585014
+],
+  "geometry": {"coordinates":[-79.96857199999999,39.585014],"type":"Point"}
+}

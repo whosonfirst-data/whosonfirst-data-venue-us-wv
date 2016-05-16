@@ -1,0 +1,73 @@
+{
+  "id": 823425703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.057961,37.362553,-81.057961,37.362553",
+    "geom:latitude":37.362553,
+    "geom:longitude":-81.057961,
+    "iso:country":"US",
+    "sg:address":"750 Oakvale Rd",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 3048",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4A7ihG57yvSRSsRDfiPsXc_37.362553_-81.057961@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433687,
+    "wof:geomhash":"29ce9dc8fd7e2c56e422ec161aa5352e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823425703
+        }
+    ],
+    "wof:id":823425703,
+    "wof:lastmodified":1463433687,
+    "wof:name":"Exxon",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -81.057961,
+    37.362553,
+    -81.057961,
+    37.362553
+],
+  "geometry": {"coordinates":[-81.05796100000001,37.362553],"type":"Point"}
+}

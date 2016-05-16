@@ -1,0 +1,73 @@
+{
+  "id": 823447829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.986289,39.462662,-77.986289,39.462662",
+    "geom:latitude":39.462662,
+    "geom:longitude":-77.986289,
+    "iso:country":"US",
+    "sg:address":"1617 W King St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 8099",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "filling",
+        "station"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13XtidrUAYexJnt1QlXzKS_39.462662_-77.986289@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434729,
+    "wof:geomhash":"8b57af48ca17dfca514d0ba0a79988dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823447829
+        }
+    ],
+    "wof:id":823447829,
+    "wof:lastmodified":1463434729,
+    "wof:name":"Sheetz 155",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "filling",
+        "station"
+    ]
+},
+  "bbox": [
+    -77.986289,
+    39.462662,
+    -77.986289,
+    39.462662
+],
+  "geometry": {"coordinates":[-77.986289,39.462662],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823403487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.994083,37.492623,-80.994083,37.492623",
+    "geom:latitude":37.492623,
+    "geom:longitude":-80.994083,
+    "iso:country":"US",
+    "sg:address":"106 Via Ln",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 384 7860",
+    "sg:postcode":"24712",
+    "sg:province":"WV",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74PFLJPKZC5GG6tfCRlfdp_37.492623_-80.994083@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432731,
+    "wof:geomhash":"5801489021ae0f86e9869907681fe1c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823403487
+        }
+    ],
+    "wof:id":823403487,
+    "wof:lastmodified":1463432731,
+    "wof:name":"Albert Roger",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -80.994083,
+    37.492623,
+    -80.994083,
+    37.492623
+],
+  "geometry": {"coordinates":[-80.994083,37.492623],"type":"Point"}
+}

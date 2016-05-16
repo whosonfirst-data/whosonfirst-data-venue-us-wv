@@ -1,0 +1,73 @@
+{
+  "id": 823381217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.964906,39.652071,-79.964906,39.652071",
+    "geom:latitude":39.652071,
+    "geom:longitude":-79.964906,
+    "iso:country":"US",
+    "sg:address":"501 Van Voorhis Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 0140",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "senior",
+        "housing",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SvotgD1PWenhUilLHgUgI_39.652071_-79.964906@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431697,
+    "wof:geomhash":"ff8b145b33ccbc661f248ebf3eaa55ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823381217
+        }
+    ],
+    "wof:id":823381217,
+    "wof:lastmodified":1463431697,
+    "wof:name":"Friendship Manor",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "senior",
+        "housing",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -79.964906,
+    39.652071,
+    -79.964906,
+    39.652071
+],
+  "geometry": {"coordinates":[-79.964906,39.652071],"type":"Point"}
+}

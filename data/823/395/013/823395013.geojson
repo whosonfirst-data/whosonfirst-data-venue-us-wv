@@ -1,0 +1,72 @@
+{
+  "id": 823395013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.137239,38.841249,-82.137239,38.841249",
+    "geom:latitude":38.841249,
+    "geom:longitude":-82.137239,
+    "iso:country":"US",
+    "sg:address":"305 3rd St",
+    "sg:city":"Point Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 675 5872",
+    "sg:postcode":"25550",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grocer"
+    ],
+    "sg:website":"www.shopfoodland.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85983229,
+        102083675,
+        85824533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uy1AhaBUr6oDuVraFtZsq_38.841249_-82.137239@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432325,
+    "wof:geomhash":"20ee512ec6448a59d394e1a739c44abf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "neighbourhood_id":85824533,
+            "region_id":85688485,
+            "venue_id":823395013
+        }
+    ],
+    "wof:id":823395013,
+    "wof:lastmodified":1463432325,
+    "wof:name":"Twin Rivers Foodland",
+    "wof:parent_id":85824533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -82.137239,
+    38.841249,
+    -82.137239,
+    38.841249
+],
+  "geometry": {"coordinates":[-82.13723899999999,38.841249],"type":"Point"}
+}

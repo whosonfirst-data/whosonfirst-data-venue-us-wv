@@ -1,0 +1,71 @@
+{
+  "id": 823419039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.696069,38.3688,-81.696069,38.3688",
+    "geom:latitude":38.3688,
+    "geom:longitude":-81.696069,
+    "iso:country":"US",
+    "sg:address":"300 7th Ave",
+    "sg:city":"South Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 5189",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2m1h11AyTer0vbSLYpSX9O_38.368800_-81.696069@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433428,
+    "wof:geomhash":"57a14ed6f055d8e10c50eaceb953c68e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823419039
+        }
+    ],
+    "wof:id":823419039,
+    "wof:lastmodified":1463433428,
+    "wof:name":"Mound Cleaners Inc",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -81.696069,
+    38.3688,
+    -81.696069,
+    38.3688
+],
+  "geometry": {"coordinates":[-81.69606899999999,38.3688],"type":"Point"}
+}

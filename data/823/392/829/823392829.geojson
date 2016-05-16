@@ -1,0 +1,71 @@
+{
+  "id": 823392829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.563294,40.612845,-80.563294,40.612845",
+    "geom:latitude":40.612845,
+    "geom:longitude":-80.563294,
+    "iso:country":"US",
+    "sg:address":"443 Carolina Ave",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 3124",
+    "sg:postcode":"26034",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4caXVPM7V7gxjpX9NsxvlJ_40.612845_-80.563294@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432218,
+    "wof:geomhash":"2721a51ad541cad8f5aa4ba4d570563f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823392829
+        }
+    ],
+    "wof:id":823392829,
+    "wof:lastmodified":1463432218,
+    "wof:name":"Gun Room The",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -80.563294,
+    40.612845,
+    -80.563294,
+    40.612845
+],
+  "geometry": {"coordinates":[-80.563294,40.612845],"type":"Point"}
+}

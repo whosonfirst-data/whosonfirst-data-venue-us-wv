@@ -1,0 +1,75 @@
+{
+  "id": 823388735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.633552,38.348676,-81.633552,38.348676",
+    "geom:latitude":38.348676,
+    "geom:longitude":-81.633552,
+    "iso:country":"US",
+    "sg:address":"1031 Quarrier St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 1410",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iW39wws1asCkMVb4gpNhM_38.348676_-81.633552@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432015,
+    "wof:geomhash":"6afd2a6631392e5d276c0ff0b1dad6a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823388735
+        }
+    ],
+    "wof:id":823388735,
+    "wof:lastmodified":1463432015,
+    "wof:name":"John A B Holt MD",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.633552,
+    38.348676,
+    -81.633552,
+    38.348676
+],
+  "geometry": {"coordinates":[-81.63355199999999,38.348676],"type":"Point"}
+}

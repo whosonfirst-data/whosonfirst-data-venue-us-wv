@@ -1,0 +1,71 @@
+{
+  "id": 823384229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.095382,38.224026,-80.095382,38.224026",
+    "geom:latitude":38.224026,
+    "geom:longitude":-80.095382,
+    "iso:country":"US",
+    "sg:address":"102 8th St",
+    "sg:city":"Marlinton",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 799 7127",
+    "sg:postcode":"24954",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731759,
+        102082613,
+        85805067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MjwBp078EKkFRxLQ20H9o_38.224026_-80.095382@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431818,
+    "wof:geomhash":"7f314e334c093570f89beb1cf448b6bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082613,
+            "locality_id":101731759,
+            "neighbourhood_id":85805067,
+            "region_id":85688589,
+            "venue_id":823384229
+        }
+    ],
+    "wof:id":823384229,
+    "wof:lastmodified":1463431818,
+    "wof:name":"House Of Style",
+    "wof:parent_id":85805067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -80.095382,
+    38.224026,
+    -80.095382,
+    38.224026
+],
+  "geometry": {"coordinates":[-80.095382,38.224026],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 823393081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.533746,38.40531,-81.533746,38.40531",
+    "geom:latitude":38.40531,
+    "geom:longitude":-81.533746,
+    "iso:country":"US",
+    "sg:address":"4506 Pennsylvania Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 000 1111",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4B3S5u094IqMPZIabjfa4X_38.405310_-81.533746@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432234,
+    "wof:geomhash":"f410d9b56d4f323bb7cba0b4b0f18288",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823393081
+        }
+    ],
+    "wof:id":823393081,
+    "wof:lastmodified":1463432234,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.533746,
+    38.40531,
+    -81.533746,
+    38.40531
+],
+  "geometry": {"coordinates":[-81.53374599999999,38.40531],"type":"Point"}
+}

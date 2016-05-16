@@ -1,0 +1,71 @@
+{
+  "id": 823424649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.565508,38.275208,-81.565508,38.275208",
+    "geom:latitude":38.275208,
+    "geom:longitude":-81.565508,
+    "iso:country":"US",
+    "sg:address":"5701 Church Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 9200",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0r0twZlIJ1hTGHXZ7aLB1n_38.275208_-81.565508@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433646,
+    "wof:geomhash":"f423f7053f6be8299649907868436b4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823424649
+        }
+    ],
+    "wof:id":823424649,
+    "wof:lastmodified":1463433646,
+    "wof:name":"Rand Community Ctr",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -81.565508,
+    38.275208,
+    -81.565508,
+    38.275208
+],
+  "geometry": {"coordinates":[-81.56550799999999,38.275208],"type":"Point"}
+}

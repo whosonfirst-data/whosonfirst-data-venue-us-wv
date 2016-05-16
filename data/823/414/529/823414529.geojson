@@ -1,0 +1,73 @@
+{
+  "id": 823414529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.976482,39.660915,-79.976482,39.660915",
+    "geom:latitude":39.660915,
+    "geom:longitude":-79.976482,
+    "iso:country":"US",
+    "sg:address":"1370 Western Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 598 2500",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pfumuKpPQBLBUJR1qp18z_39.660915_-79.976482@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433206,
+    "wof:geomhash":"938ac2741c9783f86f0c454068093fc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851419,
+            "region_id":85688589,
+            "venue_id":823414529
+        }
+    ],
+    "wof:id":823414529,
+    "wof:lastmodified":1463433206,
+    "wof:name":"Gregory A Lacy DDS",
+    "wof:parent_id":85851419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -79.976482,
+    39.660915,
+    -79.976482,
+    39.660915
+],
+  "geometry": {"coordinates":[-79.976482,39.660915],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823447447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.644686,38.386798,-81.644686,38.386798",
+    "geom:latitude":38.386798,
+    "geom:longitude":-81.644686,
+    "iso:country":"US",
+    "sg:address":"1724 Sugar Creek Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 5512",
+    "sg:postcode":"25312",
+    "sg:province":"WV",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UxpFpg8StXBnG5ncSjuqz_38.386798_-81.644686@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434710,
+    "wof:geomhash":"0e3cf390ad49348c3c153d3472e71b34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823447447
+        }
+    ],
+    "wof:id":823447447,
+    "wof:lastmodified":1463434710,
+    "wof:name":"Fisher's Concrete",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.644686,
+    38.386798,
+    -81.644686,
+    38.386798
+],
+  "geometry": {"coordinates":[-81.64468599999999,38.386798],"type":"Point"}
+}

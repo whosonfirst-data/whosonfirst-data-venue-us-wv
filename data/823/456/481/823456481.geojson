@@ -1,0 +1,79 @@
+{
+  "id": 823456481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.594296,40.320787,-80.594296,40.320787",
+    "geom:latitude":40.320787,
+    "geom:longitude":-80.594296,
+    "iso:country":"US",
+    "sg:address":"422 Rose St",
+    "sg:city":"Follansbee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 527 4323",
+    "sg:postcode":"26037",
+    "sg:province":"WV",
+    "sg:tags":[
+        "system",
+        "specialty",
+        "heating",
+        "contractor",
+        "air conditioning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dos5a422IucokqENwmXOH_40.320787_-80.594296@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435114,
+    "wof:geomhash":"59fd40d76fdd78f4d7106f7d953c540f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823456481
+        }
+    ],
+    "wof:id":823456481,
+    "wof:lastmodified":1463435114,
+    "wof:name":"Hot N Cold Hvac",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system",
+        "specialty",
+        "heating",
+        "contractor",
+        "air conditioning"
+    ]
+},
+  "bbox": [
+    -80.594296,
+    40.320787,
+    -80.594296,
+    40.320787
+],
+  "geometry": {"coordinates":[-80.594296,40.320787],"type":"Point"}
+}

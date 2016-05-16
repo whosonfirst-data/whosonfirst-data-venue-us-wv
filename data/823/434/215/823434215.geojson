@@ -1,0 +1,73 @@
+{
+  "id": 823434215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.098872,37.367562,-81.098872,37.367562",
+    "geom:latitude":37.367562,
+    "geom:longitude":-81.098872,
+    "iso:country":"US",
+    "sg:address":"1205 Mercer St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 384 7040",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7azhPQSCBylZbNK7CWGXTs_37.367562_-81.098872@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434081,
+    "wof:geomhash":"fc91b9a90027c24bf1b4db69ee39c087",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823434215
+        }
+    ],
+    "wof:id":823434215,
+    "wof:lastmodified":1463434081,
+    "wof:name":"Pettrey's Store-It",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -81.098872,
+    37.367562,
+    -81.098872,
+    37.367562
+],
+  "geometry": {"coordinates":[-81.098872,37.367562],"type":"Point"}
+}

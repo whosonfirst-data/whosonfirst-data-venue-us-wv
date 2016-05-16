@@ -1,0 +1,71 @@
+{
+  "id": 823421173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.731664,38.362921,-81.731664,38.362921",
+    "geom:latitude":38.362921,
+    "geom:longitude":-81.731664,
+    "iso:country":"US",
+    "sg:address":"500 Westmoreland Office Park",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 7275",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VtsCAU4AZej9ylsUoPZY9_38.362921_-81.731664@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433512,
+    "wof:geomhash":"cc1fff3d78a6fc29c87db6898375d138",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823421173
+        }
+    ],
+    "wof:id":823421173,
+    "wof:lastmodified":1463433512,
+    "wof:name":"World Com",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -81.731664,
+    38.362921,
+    -81.731664,
+    38.362921
+],
+  "geometry": {"coordinates":[-81.73166399999999,38.362921],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823374929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.040249,39.152677,-80.040249,39.152677",
+    "geom:latitude":39.152677,
+    "geom:longitude":-80.040249,
+    "iso:country":"US",
+    "sg:address":"112 N Main St",
+    "sg:city":"Philippi",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 457 2502",
+    "sg:postcode":"26416",
+    "sg:province":"WV",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04EkpEQTicDkYG167PzALK_39.152677_-80.040249@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431400,
+    "wof:geomhash":"a2d0bad8c57512808203e15d07efa916",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823374929
+        }
+    ],
+    "wof:id":823374929,
+    "wof:lastmodified":1463431400,
+    "wof:name":"Rich Oil Co",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -80.040249,
+    39.152677,
+    -80.040249,
+    39.152677
+],
+  "geometry": {"coordinates":[-80.040249,39.152677],"type":"Point"}
+}

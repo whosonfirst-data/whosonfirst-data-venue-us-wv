@@ -1,0 +1,76 @@
+{
+  "id": 823375497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.157223,37.975598,-81.157223,37.975598",
+    "geom:latitude":37.975598,
+    "geom:longitude":-81.157223,
+    "iso:country":"US",
+    "sg:address":"601 Jones Ave",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 469 4875",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wellness",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OnkbsuprUSJWf4ouvJoWO_37.975598_-81.157223@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431437,
+    "wof:geomhash":"c046412a01959a90f202d8eaf5c4ff4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823375497
+        }
+    ],
+    "wof:id":823375497,
+    "wof:lastmodified":1463431437,
+    "wof:name":"Collins Wellness Center",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wellness",
+        "program"
+    ]
+},
+  "bbox": [
+    -81.157223,
+    37.975598,
+    -81.157223,
+    37.975598
+],
+  "geometry": {"coordinates":[-81.157223,37.975598],"type":"Point"}
+}

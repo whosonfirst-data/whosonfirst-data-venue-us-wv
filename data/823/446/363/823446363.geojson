@@ -1,0 +1,71 @@
+{
+  "id": 823446363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.168794,37.891548,-81.168794,37.891548",
+    "geom:latitude":37.891548,
+    "geom:longitude":-81.168794,
+    "iso:country":"US",
+    "sg:address":"65 S Mill Ave",
+    "sg:city":"Mount Hope",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 256 1990",
+    "sg:postcode":"25880",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731505,
+        102083359,
+        85852821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VAaLWQW1bKgOFt8UJFpIf_37.891548_-81.168794@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434667,
+    "wof:geomhash":"39a5a421781655e983be311c9e5417a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "locality_id":101731505,
+            "neighbourhood_id":85852821,
+            "region_id":85688589,
+            "venue_id":823446363
+        }
+    ],
+    "wof:id":823446363,
+    "wof:lastmodified":1463434667,
+    "wof:name":"Steak Escape",
+    "wof:parent_id":85852821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -81.168794,
+    37.891548,
+    -81.168794,
+    37.891548
+],
+  "geometry": {"coordinates":[-81.16879400000001,37.891548],"type":"Point"}
+}

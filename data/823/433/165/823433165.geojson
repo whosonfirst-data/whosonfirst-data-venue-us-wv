@@ -1,0 +1,71 @@
+{
+  "id": 823433165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.391563,38.411491,-82.391563,38.411491",
+    "geom:latitude":38.411491,
+    "geom:longitude":-82.391563,
+    "iso:country":"US",
+    "sg:address":"3031 Wallace Cir",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 522 2304",
+    "sg:postcode":"25705",
+    "sg:province":"WV",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083329,
+        85868301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TfyD6BCaZZpqTzIWPKhYR_38.411491_-82.391563@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434025,
+    "wof:geomhash":"4c955df9d2a7d5f1834b82f49e067a68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731553,
+            "neighbourhood_id":85868301,
+            "region_id":85688589,
+            "venue_id":823433165
+        }
+    ],
+    "wof:id":823433165,
+    "wof:lastmodified":1463434025,
+    "wof:name":"Asbury Woods Development",
+    "wof:parent_id":85868301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -82.391563,
+    38.411491,
+    -82.391563,
+    38.411491
+],
+  "geometry": {"coordinates":[-82.391563,38.411491],"type":"Point"}
+}

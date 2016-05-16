@@ -1,0 +1,69 @@
+{
+  "id": 823372423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.978107,39.632785,-79.978107,39.632785",
+    "geom:latitude":39.632785,
+    "geom:longitude":-79.978107,
+    "iso:country":"US",
+    "sg:address":"771 Fairmont Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 0338",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818601,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rplGfWKYbk6z7XcCUMhVN_39.632785_-79.978107@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431300,
+    "wof:geomhash":"ecdb1ef46f845faa8f638b619345ca5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85818601,
+            "region_id":85688589,
+            "venue_id":823372423
+        }
+    ],
+    "wof:id":823372423,
+    "wof:lastmodified":1463431300,
+    "wof:name":"Morgantown Mortuary Service",
+    "wof:parent_id":85818601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -79.978107,
+    39.632785,
+    -79.978107,
+    39.632785
+],
+  "geometry": {"coordinates":[-79.97810699999999,39.632785],"type":"Point"}
+}

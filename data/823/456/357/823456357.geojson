@@ -1,0 +1,73 @@
+{
+  "id": 823456357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.569221,40.203967,-80.569221,40.203967",
+    "geom:latitude":40.203967,
+    "geom:longitude":-80.569221,
+    "iso:country":"US",
+    "sg:address":"103 West St",
+    "sg:city":"Bethany",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 829 4223",
+    "sg:postcode":"26032",
+    "sg:province":"WV",
+    "sg:tags":[
+        "housing",
+        "student"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mennQSD70hppYq7nUAtdc_40.203967_-80.569221@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435110,
+    "wof:geomhash":"c6023bf90cbc3880309ad098e7483915",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823456357
+        }
+    ],
+    "wof:id":823456357,
+    "wof:lastmodified":1463435110,
+    "wof:name":"Alpha Delta Kappa Sororit",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housing",
+        "student"
+    ]
+},
+  "bbox": [
+    -80.569221,
+    40.203967,
+    -80.569221,
+    40.203967
+],
+  "geometry": {"coordinates":[-80.569221,40.203967],"type":"Point"}
+}

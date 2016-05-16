@@ -1,0 +1,75 @@
+{
+  "id": 823450475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.695439,40.076709,-80.695439,40.076709",
+    "geom:latitude":40.076709,
+    "geom:longitude":-80.695439,
+    "iso:country":"US",
+    "sg:address":"842 National Rd",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 232 3410",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85830083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13avF5emqcfWgWIX58MsVM_40.076709_-80.695439@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434833,
+    "wof:geomhash":"53e8b5d6e3a785f0e458cd8e64a284e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85830083,
+            "region_id":85688589,
+            "venue_id":823450475
+        }
+    ],
+    "wof:id":823450475,
+    "wof:lastmodified":1463434833,
+    "wof:name":"CVS",
+    "wof:parent_id":85830083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -80.695439,
+    40.076709,
+    -80.695439,
+    40.076709
+],
+  "geometry": {"coordinates":[-80.69543899999999,40.076709],"type":"Point"}
+}

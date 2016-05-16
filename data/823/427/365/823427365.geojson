@@ -1,0 +1,73 @@
+{
+  "id": 823427365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.098673,37.366173,-81.098673,37.366173",
+    "geom:latitude":37.366173,
+    "geom:longitude":-81.098673,
+    "iso:country":"US",
+    "sg:address":"219 Walnut St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 9888",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "mail",
+        "order"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Hr7abZPr2Gv8PE0KGPPYs_37.366173_-81.098673@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433765,
+    "wof:geomhash":"4ffb6d32baa8e0c9022c7f37ec523597",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823427365
+        }
+    ],
+    "wof:id":823427365,
+    "wof:lastmodified":1463433765,
+    "wof:name":"Petite Wardrobe Inc",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "order"
+    ]
+},
+  "bbox": [
+    -81.098673,
+    37.366173,
+    -81.098673,
+    37.366173
+],
+  "geometry": {"coordinates":[-81.09867300000001,37.366173],"type":"Point"}
+}

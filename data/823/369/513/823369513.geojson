@@ -1,0 +1,71 @@
+{
+  "id": 823369513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.158916,39.481831,-80.158916,39.481831",
+    "geom:latitude":39.481831,
+    "geom:longitude":-80.158916,
+    "iso:country":"US",
+    "sg:address":"1116 Locust Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 6415",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sekYmPTCBSifx5giGHrRm_39.481831_-80.158916@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431151,
+    "wof:geomhash":"d68b6532455613a050377dc1d09b8af1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823369513
+        }
+    ],
+    "wof:id":823369513,
+    "wof:lastmodified":1463431151,
+    "wof:name":"Campus Apartments",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -80.158916,
+    39.481831,
+    -80.158916,
+    39.481831
+],
+  "geometry": {"coordinates":[-80.158916,39.481831],"type":"Point"}
+}

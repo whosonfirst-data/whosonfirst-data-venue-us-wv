@@ -1,0 +1,75 @@
+{
+  "id": 823378837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.964444,39.451161,-77.964444,39.451161",
+    "geom:latitude":39.451161,
+    "geom:longitude":-77.964444,
+    "iso:country":"US",
+    "sg:address":"109 E Addition St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 2744",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Re5vUoYZiaR4hgUVZrSfW_39.451161_-77.964444@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431589,
+    "wof:geomhash":"748ea315356dc1428f2a49bdafea87cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823378837
+        }
+    ],
+    "wof:id":823378837,
+    "wof:lastmodified":1463431589,
+    "wof:name":"Whyte's Electric",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -77.964444,
+    39.451161,
+    -77.964444,
+    39.451161
+],
+  "geometry": {"coordinates":[-77.964444,39.451161],"type":"Point"}
+}

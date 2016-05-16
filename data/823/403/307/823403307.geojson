@@ -1,0 +1,75 @@
+{
+  "id": 823403307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.633339,38.349902,-81.633339,38.349902",
+    "geom:latitude":38.349902,
+    "geom:longitude":-81.633339,
+    "iso:country":"US",
+    "sg:address":"231 Hale St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 344 5141",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bAWqYYBy6QrwSzhFOJPG4_38.349902_-81.633339@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432724,
+    "wof:geomhash":"c3a43c5512569658dd9cbe2ccd1c0a2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823403307
+        }
+    ],
+    "wof:id":823403307,
+    "wof:lastmodified":1463432724,
+    "wof:name":"Kanawha County Housing Auth",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [
+    -81.633339,
+    38.349902,
+    -81.633339,
+    38.349902
+],
+  "geometry": {"coordinates":[-81.63333900000001,38.349902],"type":"Point"}
+}

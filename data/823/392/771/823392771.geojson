@@ -1,0 +1,72 @@
+{
+  "id": 823392771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.755438,38.36587,-81.755438,38.36587",
+    "geom:latitude":38.36587,
+    "geom:longitude":-81.755438,
+    "iso:country":"US",
+    "sg:address":"511 28th St",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 766 6601",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "steel"
+    ],
+    "sg:website":"www.charlestonsteel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XrT3UnpjwltVLD2lx2U75_38.365870_-81.755438@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432216,
+    "wof:geomhash":"d9c0d13734716e681f6c97fb0cfbaab2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823392771
+        }
+    ],
+    "wof:id":823392771,
+    "wof:lastmodified":1463432216,
+    "wof:name":"Charleston Steel Co",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel"
+    ]
+},
+  "bbox": [
+    -81.755438,
+    38.36587,
+    -81.755438,
+    38.36587
+],
+  "geometry": {"coordinates":[-81.755438,38.36587],"type":"Point"}
+}

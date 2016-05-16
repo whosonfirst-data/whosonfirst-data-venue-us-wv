@@ -1,0 +1,69 @@
+{
+  "id": 823454635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.968564,39.479195,-77.968564,39.479195",
+    "geom:latitude":39.479195,
+    "geom:longitude":-77.968564,
+    "iso:country":"US",
+    "sg:address":"1055 Rock Cliff Dr",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 1149",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "welder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85846047,
+        102083367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37b9iAd12jZHDayLLmrcUb_39.479195_-77.968564@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435042,
+    "wof:geomhash":"8e64f2d33784afd015e641187520af99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "neighbourhood_id":85846047,
+            "region_id":85688589,
+            "venue_id":823454635
+        }
+    ],
+    "wof:id":823454635,
+    "wof:lastmodified":1463435042,
+    "wof:name":"D & L Weld, Inc.",
+    "wof:parent_id":85846047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welder"
+    ]
+},
+  "bbox": [
+    -77.968564,
+    39.479195,
+    -77.968564,
+    39.479195
+],
+  "geometry": {"coordinates":[-77.968564,39.479195],"type":"Point"}
+}

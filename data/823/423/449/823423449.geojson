@@ -1,0 +1,66 @@
+{
+  "id": 823423449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.140438,39.49659,-80.140438,39.49659",
+    "geom:latitude":39.49659,
+    "geom:longitude":-80.140438,
+    "iso:country":"US",
+    "sg:address":"650 Bellview Blvd",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 367 0114",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wXwPyWTwjWeNgQ6R6bYx0_39.496590_-80.140438@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433599,
+    "wof:geomhash":"f40859f9dcfe253408345d9d1d79f2ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823423449
+        }
+    ],
+    "wof:id":823423449,
+    "wof:lastmodified":1463433599,
+    "wof:name":"Bellview Market",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.140438,
+    39.49659,
+    -80.140438,
+    39.49659
+],
+  "geometry": {"coordinates":[-80.140438,39.49659],"type":"Point"}
+}

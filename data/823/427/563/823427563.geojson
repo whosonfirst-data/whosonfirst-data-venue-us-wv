@@ -1,0 +1,75 @@
+{
+  "id": 823427563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.194628,37.787009,-81.194628,37.787009",
+    "geom:latitude":37.787009,
+    "geom:longitude":-81.194628,
+    "iso:country":"US",
+    "sg:address":"651 Ewart Ave",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 252 6528",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oJFvL32SyNmCy4JOXnRjQ_37.787009_-81.194628@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433772,
+    "wof:geomhash":"6345301c6aa3115414426f11cee39580",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823427563
+        }
+    ],
+    "wof:id":823427563,
+    "wof:lastmodified":1463433772,
+    "wof:name":"Southern West Virginia Paving",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.194628,
+    37.787009,
+    -81.194628,
+    37.787009
+],
+  "geometry": {"coordinates":[-81.19462799999999,37.787009],"type":"Point"}
+}

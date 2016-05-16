@@ -1,0 +1,71 @@
+{
+  "id": 823404273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.470483,39.04998,-80.470483,39.04998",
+    "geom:latitude":39.04998,
+    "geom:longitude":-80.470483,
+    "iso:country":"US",
+    "sg:address":"393 Monroe St",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 269 5120",
+    "sg:postcode":"26452",
+    "sg:province":"WV",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731403,
+        102083339,
+        85808257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LhvJNw71bTi4d2CBwLcj6_39.049980_-80.470483@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432773,
+    "wof:geomhash":"e4bd2b96a58e982cce0961f9eff96133",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083339,
+            "locality_id":101731403,
+            "neighbourhood_id":85808257,
+            "region_id":85688589,
+            "venue_id":823404273
+        }
+    ],
+    "wof:id":823404273,
+    "wof:lastmodified":1463432773,
+    "wof:name":"K&M Trucking Inc",
+    "wof:parent_id":85808257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -80.470483,
+    39.04998,
+    -80.470483,
+    39.04998
+],
+  "geometry": {"coordinates":[-80.470483,39.04998],"type":"Point"}
+}

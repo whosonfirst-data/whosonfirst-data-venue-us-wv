@@ -1,0 +1,71 @@
+{
+  "id": 823445797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.347158,38.488982,-81.347158,38.488982",
+    "geom:latitude":38.488982,
+    "geom:longitude":-81.347158,
+    "iso:country":"US",
+    "sg:address":"103 1st St",
+    "sg:city":"Clendenin",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 548 4192",
+    "sg:postcode":"25045",
+    "sg:province":"WV",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40beD1A3Cq3Jc0f6pRoPaO_38.488982_-81.347158@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434626,
+    "wof:geomhash":"a8aa7030b65c03a60da4d996422aca92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823445797
+        }
+    ],
+    "wof:id":823445797,
+    "wof:lastmodified":1463434626,
+    "wof:name":"Town Of Clendenin",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -81.347158,
+    38.488982,
+    -81.347158,
+    38.488982
+],
+  "geometry": {"coordinates":[-81.34715799999999,38.488982],"type":"Point"}
+}

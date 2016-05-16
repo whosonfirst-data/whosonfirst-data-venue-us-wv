@@ -1,0 +1,76 @@
+{
+  "id": 823369665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.559987,39.283678,-80.559987,39.283678",
+    "geom:latitude":39.283678,
+    "geom:longitude":-80.559987,
+    "iso:country":"US",
+    "sg:address":"64 Valley St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 782 3462",
+    "sg:postcode":"26426",
+    "sg:province":"WV",
+    "sg:tags":[
+        "tire",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85810773,
+        102082619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7G3YmDowQYarIrd39IuR7R_39.283678_-80.559987@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431157,
+    "wof:geomhash":"d9ace9b481ea010cfbaa741e2fb65851",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "neighbourhood_id":85810773,
+            "region_id":85688589,
+            "venue_id":823369665
+        }
+    ],
+    "wof:id":823369665,
+    "wof:lastmodified":1463431157,
+    "wof:name":"B & B Tire & Auto Repair Inc",
+    "wof:parent_id":85810773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire",
+        "general"
+    ]
+},
+  "bbox": [
+    -80.559987,
+    39.283678,
+    -80.559987,
+    39.283678
+],
+  "geometry": {"coordinates":[-80.55998700000001,39.283678],"type":"Point"}
+}

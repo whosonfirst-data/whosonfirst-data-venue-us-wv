@@ -1,0 +1,71 @@
+{
+  "id": 823378513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.565871,38.253111,-81.565871,38.253111",
+    "geom:latitude":38.253111,
+    "geom:longitude":-81.565871,
+    "iso:country":"US",
+    "sg:address":"2007 W Riverview Dr",
+    "sg:city":"Belle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 1175",
+    "sg:postcode":"25015",
+    "sg:province":"WV",
+    "sg:tags":[
+        "transportation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mFLySCi8uy6gXdnekUJ81_38.253111_-81.565871@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431577,
+    "wof:geomhash":"c16e1027e77d3fb42fab4dea0618f3e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823378513
+        }
+    ],
+    "wof:id":823378513,
+    "wof:lastmodified":1463431577,
+    "wof:name":"Marmet Lock & Dam",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transportation"
+    ]
+},
+  "bbox": [
+    -81.565871,
+    38.253111,
+    -81.565871,
+    38.253111
+],
+  "geometry": {"coordinates":[-81.565871,38.253111],"type":"Point"}
+}

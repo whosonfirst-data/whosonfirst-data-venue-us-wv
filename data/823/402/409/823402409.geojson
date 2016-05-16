@@ -1,0 +1,71 @@
+{
+  "id": 823402409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.023477,39.342114,-80.023477,39.342114",
+    "geom:latitude":39.342114,
+    "geom:longitude":-80.023477,
+    "iso:country":"US",
+    "sg:address":"254 W Washington St",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 265 2488",
+    "sg:postcode":"26354",
+    "sg:province":"WV",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731717,
+        102083351,
+        85855577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gmpUI24MIH1gu7QdSpfSI_39.342114_-80.023477@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432690,
+    "wof:geomhash":"b9a09016a685a920ef2ad0f7c56861b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083351,
+            "locality_id":101731717,
+            "neighbourhood_id":85855577,
+            "region_id":85688589,
+            "venue_id":823402409
+        }
+    ],
+    "wof:id":823402409,
+    "wof:lastmodified":1463432690,
+    "wof:name":"Johns Construction Inc",
+    "wof:parent_id":85855577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -80.023477,
+    39.342114,
+    -80.023477,
+    39.342114
+],
+  "geometry": {"coordinates":[-80.023477,39.342114],"type":"Point"}
+}

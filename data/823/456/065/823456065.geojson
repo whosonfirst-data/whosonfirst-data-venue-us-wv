@@ -1,0 +1,91 @@
+{
+  "id": 823456065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.191963,37.766129,-81.191963,37.766129",
+    "geom:latitude":37.766129,
+    "geom:longitude":-81.191963,
+    "iso:country":"US",
+    "sg:address":"200 Veterans Ave",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 255 2121",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical",
+        "surgery"
+    ],
+    "sg:website":"http://www.va.gov/health/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AAIh6o0UOPGp9ZMxauR38_37.766129_-81.191963@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435098,
+    "wof:geomhash":"db733d7272f330552c4b96650f96140f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823456065
+        }
+    ],
+    "wof:id":823456065,
+    "wof:lastmodified":1463435098,
+    "wof:name":"Beckley VA Medical Center",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "surgery"
+    ]
+},
+  "bbox": [
+    -81.191963,
+    37.766129,
+    -81.191963,
+    37.766129
+],
+  "geometry": {"coordinates":[-81.191963,37.766129],"type":"Point"}
+}

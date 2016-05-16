@@ -1,0 +1,71 @@
+{
+  "id": 823405753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.140005,38.839494,-82.140005,38.839494",
+    "geom:latitude":38.839494,
+    "geom:longitude":-82.140005,
+    "iso:country":"US",
+    "sg:address":"22 Main St",
+    "sg:city":"Point Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 772 4646",
+    "sg:postcode":"25550",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85983229,
+        102083675,
+        85824533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tXYimrDlPVkN2O5akP3DY_38.839494_-82.140005@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432848,
+    "wof:geomhash":"13860be0837f7dd0617329ffbdac506b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "neighbourhood_id":85824533,
+            "region_id":85688485,
+            "venue_id":823405753
+        }
+    ],
+    "wof:id":823405753,
+    "wof:lastmodified":1463432848,
+    "wof:name":"Wine Goblet & Spirits",
+    "wof:parent_id":85824533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wine"
+    ]
+},
+  "bbox": [
+    -82.140005,
+    38.839494,
+    -82.140005,
+    38.839494
+],
+  "geometry": {"coordinates":[-82.140005,38.839494],"type":"Point"}
+}

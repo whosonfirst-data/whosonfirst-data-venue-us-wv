@@ -1,0 +1,71 @@
+{
+  "id": 823436057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.302109,37.800545,-80.302109,37.800545",
+    "geom:latitude":37.800545,
+    "geom:longitude":-80.302109,
+    "iso:country":"US",
+    "sg:address":"209 Pine Gap Rd",
+    "sg:city":"White Sulphur Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 536 4477",
+    "sg:postcode":"24986",
+    "sg:province":"WV",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CSF2yFx6TmTZeBkLFBalA_37.800545_-80.302109@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434177,
+    "wof:geomhash":"63648bc891bb228fcd05d8ee9b835e51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823436057
+        }
+    ],
+    "wof:id":823436057,
+    "wof:lastmodified":1463434177,
+    "wof:name":"Feury Red Body Shop Inc",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -80.302109,
+    37.800545,
+    -80.302109,
+    37.800545
+],
+  "geometry": {"coordinates":[-80.302109,37.800545],"type":"Point"}
+}

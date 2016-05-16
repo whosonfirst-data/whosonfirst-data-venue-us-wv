@@ -1,0 +1,84 @@
+{
+  "id": 823452815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.139065,38.841515,-82.139065,38.841515",
+    "geom:latitude":38.841515,
+    "geom:longitude":-82.139065,
+    "iso:country":"US",
+    "sg:address":"204 3rd St",
+    "sg:city":"Point Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/lewis/91556-bennigans-grill--tavern/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 675 5227",
+    "sg:postcode":"25550",
+    "sg:province":"WV",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "pub",
+        "soup",
+        "american",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85983229,
+        102083675,
+        85824533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0V1ctefHznsRFsbiZr4xQB_38.841515_-82.139065@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434921,
+    "wof:geomhash":"acf1900eff3da7f2e457a3012eb28101",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "neighbourhood_id":85824533,
+            "region_id":85688485,
+            "venue_id":823452815
+        }
+    ],
+    "wof:id":823452815,
+    "wof:lastmodified":1463434921,
+    "wof:name":"Bennigan's Grill & Tavern",
+    "wof:parent_id":85824533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "pub",
+        "soup",
+        "american",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -82.139065,
+    38.841515,
+    -82.139065,
+    38.841515
+],
+  "geometry": {"coordinates":[-82.139065,38.841515],"type":"Point"}
+}

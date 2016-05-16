@@ -1,0 +1,73 @@
+{
+  "id": 823452187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.592149,40.394939,-80.592149,40.394939",
+    "geom:latitude":40.394939,
+    "geom:longitude":-80.592149,
+    "iso:country":"US",
+    "sg:address":"3920 Main St",
+    "sg:city":"Weirton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 748 2511",
+    "sg:postcode":"26062",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wine",
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731371,
+        102082633,
+        85832497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_764xBQtEQc7jvfchLxKZAs_40.395131_-80.591905@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463434897,
+    "wof:geomhash":"c55d55459bca278d401fabf89a7afa95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731371,
+            "neighbourhood_id":85832497,
+            "region_id":85688589,
+            "venue_id":823452187
+        }
+    ],
+    "wof:id":823452187,
+    "wof:lastmodified":1463434897,
+    "wof:name":"Tri State Discount Liquors",
+    "wof:parent_id":85832497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wine",
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -80.592149,
+    40.394939,
+    -80.592149,
+    40.394939
+],
+  "geometry": {"coordinates":[-80.59214900000001,40.394939],"type":"Point"}
+}

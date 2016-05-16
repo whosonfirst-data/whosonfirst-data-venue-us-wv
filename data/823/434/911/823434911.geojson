@@ -1,0 +1,75 @@
+{
+  "id": 823434911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.759889,38.369277,-81.759889,38.369277",
+    "geom:latitude":38.369277,
+    "geom:longitude":-81.759889,
+    "iso:country":"US",
+    "sg:address":"2900 Charles Ave",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 2201",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vnNAKh22OY8Bpmfr3tESY_38.369277_-81.759889@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434122,
+    "wof:geomhash":"d0c78e318184ffc4aae50586c5007ca7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823434911
+        }
+    ],
+    "wof:id":823434911,
+    "wof:lastmodified":1463434122,
+    "wof:name":"Dunbar Storage Co",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ]
+},
+  "bbox": [
+    -81.759889,
+    38.369277,
+    -81.759889,
+    38.369277
+],
+  "geometry": {"coordinates":[-81.759889,38.369277],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823397533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.647195,38.359751,-81.647195,38.359751",
+    "geom:latitude":38.359751,
+    "geom:longitude":-81.647195,
+    "iso:country":"US",
+    "sg:address":"321 Virginia St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 346 9441",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QEkr1A8wiWEvajg7AHNRI_38.359751_-81.647195@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432456,
+    "wof:geomhash":"083f70473e8c40e862940b326c251fe5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823397533
+        }
+    ],
+    "wof:id":823397533,
+    "wof:lastmodified":1463432456,
+    "wof:name":"Charleston Lincoln Mercury Inc",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -81.647195,
+    38.359751,
+    -81.647195,
+    38.359751
+],
+  "geometry": {"coordinates":[-81.647195,38.359751],"type":"Point"}
+}

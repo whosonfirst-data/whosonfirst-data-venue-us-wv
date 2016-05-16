@@ -1,0 +1,73 @@
+{
+  "id": 823391445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.576106,39.243221,-81.576106,39.243221",
+    "geom:latitude":39.243221,
+    "geom:longitude":-81.576106,
+    "iso:country":"US",
+    "sg:address":"1025 Gihon Rd",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 428 5678",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "towing",
+        "recovery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85829881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LPHGPETYRiR3xIZjmTe4t_39.243221_-81.576106@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432140,
+    "wof:geomhash":"b0366396bca92ad06b66419aab7983f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85829881,
+            "region_id":85688589,
+            "venue_id":823391445
+        }
+    ],
+    "wof:id":823391445,
+    "wof:lastmodified":1463432140,
+    "wof:name":"Rockys Towing & Recovery",
+    "wof:parent_id":85829881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing",
+        "recovery"
+    ]
+},
+  "bbox": [
+    -81.576106,
+    39.243221,
+    -81.576106,
+    39.243221
+],
+  "geometry": {"coordinates":[-81.576106,39.243221],"type":"Point"}
+}

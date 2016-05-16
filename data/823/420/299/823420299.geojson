@@ -1,0 +1,73 @@
+{
+  "id": 823420299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.894296,38.535548,-81.894296,38.535548",
+    "geom:latitude":38.535548,
+    "geom:longitude":-81.894296,
+    "iso:country":"US",
+    "sg:address":"1 Main St",
+    "sg:city":"Winfield",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 586 3750",
+    "sg:postcode":"25213",
+    "sg:province":"WV",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731321,
+        102083381,
+        85868329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Es2iA5ADSeP1svnHBry8f_38.535548_-81.894296@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433480,
+    "wof:geomhash":"39caf296af67c8b934ee2e1d25ebbe4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731321,
+            "neighbourhood_id":85868329,
+            "region_id":85688589,
+            "venue_id":823420299
+        }
+    ],
+    "wof:id":823420299,
+    "wof:lastmodified":1463433480,
+    "wof:name":"Winfield Town Mayor's Office",
+    "wof:parent_id":85868329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -81.894296,
+    38.535548,
+    -81.894296,
+    38.535548
+],
+  "geometry": {"coordinates":[-81.894296,38.535548],"type":"Point"}
+}

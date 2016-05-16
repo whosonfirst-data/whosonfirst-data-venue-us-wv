@@ -1,0 +1,71 @@
+{
+  "id": 823403335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.525846,38.214352,-81.525846,38.214352",
+    "geom:latitude":38.214352,
+    "geom:longitude":-81.525846,
+    "iso:country":"US",
+    "sg:address":"13706 Maccorkle Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 6565",
+    "sg:postcode":"25315",
+    "sg:province":"WV",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gc42GMxoGjoVvZNxYDTqL_38.214352_-81.525846@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432725,
+    "wof:geomhash":"b5b76351f09d5e75ff95672f1d4f576d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823403335
+        }
+    ],
+    "wof:id":823403335,
+    "wof:lastmodified":1463432725,
+    "wof:name":"White's Appliance & Repair",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -81.525846,
+    38.214352,
+    -81.525846,
+    38.214352
+],
+  "geometry": {"coordinates":[-81.525846,38.214352],"type":"Point"}
+}

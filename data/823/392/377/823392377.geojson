@@ -1,0 +1,71 @@
+{
+  "id": 823392377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.966882,39.456864,-77.966882,39.456864",
+    "geom:latitude":39.456864,
+    "geom:longitude":-77.966882,
+    "iso:country":"US",
+    "sg:address":"310 W King St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 262 2700",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DnvIxhlyAkzaS9jtZag5f_39.456864_-77.966882@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432195,
+    "wof:geomhash":"c9c3e62ccc750527c86b1b3c8ee86f87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823392377
+        }
+    ],
+    "wof:id":823392377,
+    "wof:lastmodified":1463432195,
+    "wof:name":"Monroe Mortgage Co Inc",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -77.966882,
+    39.456864,
+    -77.966882,
+    39.456864
+],
+  "geometry": {"coordinates":[-77.966882,39.456864],"type":"Point"}
+}

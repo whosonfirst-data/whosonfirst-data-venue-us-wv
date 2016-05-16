@@ -1,0 +1,73 @@
+{
+  "id": 823388807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.240064,38.42379,-82.240064,38.42379",
+    "geom:latitude":38.42379,
+    "geom:longitude":-82.240064,
+    "iso:country":"US",
+    "sg:address":"120 Forest Dr",
+    "sg:city":"Ona",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 736 6789",
+    "sg:postcode":"25545",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85816671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sqMW1x2lmHeJoQy1HIVUO_38.423790_-82.240064@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432019,
+    "wof:geomhash":"ee31e14598cc17fb45c6bdb2fd35aff8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85816671,
+            "region_id":85688589,
+            "venue_id":823388807
+        }
+    ],
+    "wof:id":823388807,
+    "wof:lastmodified":1463432019,
+    "wof:name":"I & L Properties LLC",
+    "wof:parent_id":85816671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -82.240064,
+    38.42379,
+    -82.240064,
+    38.42379
+],
+  "geometry": {"coordinates":[-82.240064,38.42379],"type":"Point"}
+}

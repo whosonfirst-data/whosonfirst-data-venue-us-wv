@@ -1,0 +1,75 @@
+{
+  "id": 823376423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.628057,38.355907,-81.628057,38.355907",
+    "geom:latitude":38.355907,
+    "geom:longitude":-81.628057,
+    "iso:country":"US",
+    "sg:address":"1010 Young St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 525 3890",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Tkz7RYekoXEhYneVoygR2_38.355907_-81.628057@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431479,
+    "wof:geomhash":"90ea2635bb624f45ce20692f901a2460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823376423
+        }
+    ],
+    "wof:id":823376423,
+    "wof:lastmodified":1463431479,
+    "wof:name":"Graybar Electric Huntington",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.628057,
+    38.355907,
+    -81.628057,
+    38.355907
+],
+  "geometry": {"coordinates":[-81.628057,38.355907],"type":"Point"}
+}

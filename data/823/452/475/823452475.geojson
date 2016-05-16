@@ -1,0 +1,76 @@
+{
+  "id": 823452475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.563287,38.306656,-81.563287,38.306656",
+    "geom:latitude":38.306656,
+    "geom:longitude":-81.563287,
+    "iso:country":"US",
+    "sg:address":"6303 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/belle/195886-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 5052",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ltkYMSXTyrUwpPSbYPz6v_38.306656_-81.563287@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434908,
+    "wof:geomhash":"2446ec357dc04aa433616afec817fb2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823452475
+        }
+    ],
+    "wof:id":823452475,
+    "wof:lastmodified":1463434908,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -81.563287,
+    38.306656,
+    -81.563287,
+    38.306656
+],
+  "geometry": {"coordinates":[-81.563287,38.306656],"type":"Point"}
+}

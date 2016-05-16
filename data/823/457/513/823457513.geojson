@@ -1,0 +1,89 @@
+{
+  "id": 823457513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.957527,39.63224,-79.957527,39.63224",
+    "geom:latitude":39.63224,
+    "geom:longitude":-79.957527,
+    "iso:country":"US",
+    "sg:address":"100 Fayette St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Military Area",
+            "subcategory":"Armory",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 7667",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EnU5hEgjxyD0GLQrj4zS8_39.632240_-79.957527@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435162,
+    "wof:geomhash":"c39d8fb724d56adb0f4f1629b89fea92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851489,
+            "region_id":85688589,
+            "venue_id":823457513
+        }
+    ],
+    "wof:id":823457513,
+    "wof:lastmodified":1463435162,
+    "wof:name":"Invisible Fence Of West Virgin",
+    "wof:parent_id":85851489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -79.957527,
+    39.63224,
+    -79.957527,
+    39.63224
+],
+  "geometry": {"coordinates":[-79.957527,39.63224],"type":"Point"}
+}

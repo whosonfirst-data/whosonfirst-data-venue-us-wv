@@ -1,0 +1,75 @@
+{
+  "id": 823438769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.156998,37.811053,-81.156998,37.811053",
+    "geom:latitude":37.811053,
+    "geom:longitude":-81.156998,
+    "iso:country":"US",
+    "sg:address":"827 Stanaford Rd",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 253 3648",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3br5hVCHi5FrDxry2OyPWR_37.811053_-81.156998@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434312,
+    "wof:geomhash":"91c8c6d404cb8931901c8138b7545b03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823438769
+        }
+    ],
+    "wof:id":823438769,
+    "wof:lastmodified":1463434312,
+    "wof:name":"Light House Electric",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.156998,
+    37.811053,
+    -81.156998,
+    37.811053
+],
+  "geometry": {"coordinates":[-81.156998,37.811053],"type":"Point"}
+}

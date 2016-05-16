@@ -1,0 +1,71 @@
+{
+  "id": 823390999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.351634,38.801013,-81.351634,38.801013",
+    "geom:latitude":38.801013,
+    "geom:longitude":-81.351634,
+    "iso:country":"US",
+    "sg:address":"403 Market St",
+    "sg:city":"Spencer",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 927 5483",
+    "sg:postcode":"25276",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731535,
+        102083399,
+        85868331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fWsqIbX5GljL6qO241Zw9_38.801013_-81.351634@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432120,
+    "wof:geomhash":"bb2744ed35846a1f9473ae31433640a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083399,
+            "locality_id":101731535,
+            "neighbourhood_id":85868331,
+            "region_id":85688589,
+            "venue_id":823390999
+        }
+    ],
+    "wof:id":823390999,
+    "wof:lastmodified":1463432120,
+    "wof:name":"Mane Cut",
+    "wof:parent_id":85868331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.351634,
+    38.801013,
+    -81.351634,
+    38.801013
+],
+  "geometry": {"coordinates":[-81.351634,38.801013],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 823406169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.556171,39.284742,-80.556171,39.284742",
+    "geom:latitude":39.284742,
+    "geom:longitude":-80.556171,
+    "iso:country":"US",
+    "sg:address":"51 Ross St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 782 1646",
+    "sg:postcode":"26426",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85810773,
+        102082619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4l9ttiZVnps8zdy3Tt9LKd_39.284742_-80.556171@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432864,
+    "wof:geomhash":"e7c49d0b0d4716167cd65f40cb0beb0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "neighbourhood_id":85810773,
+            "region_id":85688589,
+            "venue_id":823406169
+        }
+    ],
+    "wof:id":823406169,
+    "wof:lastmodified":1463432864,
+    "wof:name":"Pro Appliance Bev Installation",
+    "wof:parent_id":85810773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -80.556171,
+    39.284742,
+    -80.556171,
+    39.284742
+],
+  "geometry": {"coordinates":[-80.55617100000001,39.284742],"type":"Point"}
+}

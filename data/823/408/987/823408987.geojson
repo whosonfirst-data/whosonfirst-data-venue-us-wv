@@ -1,0 +1,71 @@
+{
+  "id": 823408987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.520671,38.317316,-81.520671,38.317316",
+    "geom:latitude":38.317316,
+    "geom:longitude":-81.520671,
+    "iso:country":"US",
+    "sg:address":"504 Campbells Creek Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 1761",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1J0ke4H2JLGWuijuubvTa2_38.317316_-81.520671@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432985,
+    "wof:geomhash":"d09f140ef79a5e4b018a5743f2c3202c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823408987
+        }
+    ],
+    "wof:id":823408987,
+    "wof:lastmodified":1463432985,
+    "wof:name":"Perdue's IGA",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -81.520671,
+    38.317316,
+    -81.520671,
+    38.317316
+],
+  "geometry": {"coordinates":[-81.52067099999999,38.317316],"type":"Point"}
+}

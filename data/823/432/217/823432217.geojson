@@ -1,0 +1,66 @@
+{
+  "id": 823432217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.003026,39.678693,-80.003026,39.678693",
+    "geom:latitude":39.678693,
+    "geom:longitude":-80.003026,
+    "iso:country":"US",
+    "sg:address":"789 Bethel Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 598 5700",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731749,
+        102082587,
+        85807277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08QEgWMkzwqJeOLKkAbLNT_39.678693_-80.003026@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433975,
+    "wof:geomhash":"92cf400f6adc83a0687f5f8ec1e89d91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731749,
+            "neighbourhood_id":85807277,
+            "region_id":85688589,
+            "venue_id":823432217
+        }
+    ],
+    "wof:id":823432217,
+    "wof:lastmodified":1463433975,
+    "wof:name":"Xtremeclean",
+    "wof:parent_id":85807277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.003026,
+    39.678693,
+    -80.003026,
+    39.678693
+],
+  "geometry": {"coordinates":[-80.00302600000001,39.678693],"type":"Point"}
+}

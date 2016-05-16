@@ -1,0 +1,73 @@
+{
+  "id": 823421219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.171355,37.3472,-81.171355,37.3472",
+    "geom:latitude":37.3472,
+    "geom:longitude":-81.171355,
+    "iso:country":"US",
+    "sg:address":"373 Rosemary St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 1912",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3265A0F0YDesP2841ZzEU6_37.347200_-81.171355@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433514,
+    "wof:geomhash":"ac341686242acfb0910ec718a52c1832",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823421219
+        }
+    ],
+    "wof:id":823421219,
+    "wof:lastmodified":1463433514,
+    "wof:name":"H & H Machine",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.171355,
+    37.3472,
+    -81.171355,
+    37.3472
+],
+  "geometry": {"coordinates":[-81.17135500000001,37.3472],"type":"Point"}
+}

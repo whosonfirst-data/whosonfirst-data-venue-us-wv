@@ -1,0 +1,71 @@
+{
+  "id": 823424815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.509978,38.323423,-81.509978,38.323423",
+    "geom:latitude":38.323423,
+    "geom:longitude":-81.509978,
+    "iso:country":"US",
+    "sg:address":"684 Campbells Creek Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 8327",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54g4k4SdiqmVeemq76ONv5_38.323423_-81.509978@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433652,
+    "wof:geomhash":"4415d6586d67b0d601d5c54ba7b9a924",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823424815
+        }
+    ],
+    "wof:id":823424815,
+    "wof:lastmodified":1463433652,
+    "wof:name":"Carl McCormick",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -81.509978,
+    38.323423,
+    -81.509978,
+    38.323423
+],
+  "geometry": {"coordinates":[-81.509978,38.323423],"type":"Point"}
+}

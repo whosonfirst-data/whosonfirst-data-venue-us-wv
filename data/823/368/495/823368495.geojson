@@ -1,0 +1,77 @@
+{
+  "id": 823368495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.57507,38.315479,-81.57507,38.315479",
+    "geom:latitude":38.315479,
+    "geom:longitude":-81.57507,
+    "iso:country":"US",
+    "sg:address":"5212 Washington Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 549 8131",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "restoration",
+        "cleaning",
+        "patio",
+        "deck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TtPufVO3yDu0Lf4pyPYM8_38.315479_-81.575070@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431116,
+    "wof:geomhash":"a006df724ccd4e3d96147925f970faec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823368495
+        }
+    ],
+    "wof:id":823368495,
+    "wof:lastmodified":1463431116,
+    "wof:name":"Clean Wash",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "restoration",
+        "cleaning",
+        "patio",
+        "deck"
+    ]
+},
+  "bbox": [
+    -81.57507,
+    38.315479,
+    -81.57507,
+    38.315479
+],
+  "geometry": {"coordinates":[-81.57507,38.315479],"type":"Point"}
+}

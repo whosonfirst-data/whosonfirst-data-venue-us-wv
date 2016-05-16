@@ -1,0 +1,85 @@
+{
+  "id": 823456973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.614407,40.263996,-80.614407,40.263996",
+    "geom:latitude":40.263996,
+    "geom:longitude":-80.614407,
+    "iso:country":"US",
+    "sg:address":"834 Charles St",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 9806",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "fraternal",
+        "sorority",
+        "housing",
+        "student",
+        "fraternity"
+    ],
+    "sg:website":"http://www.elks.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LA8g4vgHWWBqGXL7LnaxQ_40.263996_-80.614407@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435136,
+    "wof:geomhash":"2cd44cfc2b13460315c57ed5b182a564",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823456973
+        }
+    ],
+    "wof:id":823456973,
+    "wof:lastmodified":1463435136,
+    "wof:name":"Elks Club 1553",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal",
+        "sorority",
+        "housing",
+        "student",
+        "fraternity"
+    ]
+},
+  "bbox": [
+    -80.614407,
+    40.263996,
+    -80.614407,
+    40.263996
+],
+  "geometry": {"coordinates":[-80.614407,40.263996],"type":"Point"}
+}

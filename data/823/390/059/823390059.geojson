@@ -1,0 +1,71 @@
+{
+  "id": 823390059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.910079,38.522996,-81.910079,38.522996",
+    "geom:latitude":38.522996,
+    "geom:longitude":-81.910079,
+    "iso:country":"US",
+    "sg:address":"9301 State Rte 34",
+    "sg:city":"Winfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 586 0490",
+    "sg:postcode":"25213",
+    "sg:province":"WV",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868323,
+        102083381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BXijMbmS0CICqgq69TfHH_38.522996_-81.910079@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432079,
+    "wof:geomhash":"3b9dffdb3ccf9332e6af6e0bda11136c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "neighbourhood_id":85868323,
+            "region_id":85688589,
+            "venue_id":823390059
+        }
+    ],
+    "wof:id":823390059,
+    "wof:lastmodified":1463432079,
+    "wof:name":"Best Friends Animal Hospital",
+    "wof:parent_id":85868323,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -81.910079,
+    38.522996,
+    -81.910079,
+    38.522996
+],
+  "geometry": {"coordinates":[-81.910079,38.522996],"type":"Point"}
+}

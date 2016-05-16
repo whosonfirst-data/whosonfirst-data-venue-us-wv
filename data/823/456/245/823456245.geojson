@@ -1,0 +1,78 @@
+{
+  "id": 823456245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.667215,40.052837,-80.667215,40.052837",
+    "geom:latitude":40.052837,
+    "geom:longitude":-80.667215,
+    "iso:country":"US",
+    "sg:address":"9 Patricia Dr",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 242 2787",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85840717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ELczSnjVBSyVB9VyGWcBO_40.052837_-80.667215@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435105,
+    "wof:geomhash":"14a130222a528d4a4554d2e6e1d32f78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85840717,
+            "region_id":85688589,
+            "venue_id":823456245
+        }
+    ],
+    "wof:id":823456245,
+    "wof:lastmodified":1463435105,
+    "wof:name":"W A Investments",
+    "wof:parent_id":85840717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -80.667215,
+    40.052837,
+    -80.667215,
+    40.052837
+],
+  "geometry": {"coordinates":[-80.667215,40.052837],"type":"Point"}
+}

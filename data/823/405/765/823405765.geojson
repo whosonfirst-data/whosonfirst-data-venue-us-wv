@@ -1,0 +1,71 @@
+{
+  "id": 823405765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.578215,38.399418,-82.578215,38.399418",
+    "geom:latitude":38.399418,
+    "geom:longitude":-82.578215,
+    "iso:country":"US",
+    "sg:address":"1425 Chestnut St",
+    "sg:city":"Kenova",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 3086",
+    "sg:postcode":"25530",
+    "sg:province":"WV",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731517,
+        102083365,
+        85806071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mj46O7bt5EdqsihgVjkpO_38.399418_-82.578215@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432849,
+    "wof:geomhash":"47609deae7e19d88c4c2324b17abc7e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731517,
+            "neighbourhood_id":85806071,
+            "region_id":85688589,
+            "venue_id":823405765
+        }
+    ],
+    "wof:id":823405765,
+    "wof:lastmodified":1463432849,
+    "wof:name":"Disabled American Veterans",
+    "wof:parent_id":85806071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military"
+    ]
+},
+  "bbox": [
+    -82.578215,
+    38.399418,
+    -82.578215,
+    38.399418
+],
+  "geometry": {"coordinates":[-82.578215,38.399418],"type":"Point"}
+}

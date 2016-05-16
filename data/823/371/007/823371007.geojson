@@ -1,0 +1,71 @@
+{
+  "id": 823371007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.126278,39.479071,-80.126278,39.479071",
+    "geom:latitude":39.479071,
+    "geom:longitude":-80.126278,
+    "iso:country":"US",
+    "sg:address":"822 Morgantown Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 4740",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6goukVNYSc3uzEXpalRX2E_39.479071_-80.126278@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431214,
+    "wof:geomhash":"87b0476b370168969293b277969bbb43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823371007
+        }
+    ],
+    "wof:id":823371007,
+    "wof:lastmodified":1463431214,
+    "wof:name":"Marion Electric Co Inc",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -80.126278,
+    39.479071,
+    -80.126278,
+    39.479071
+],
+  "geometry": {"coordinates":[-80.126278,39.479071],"type":"Point"}
+}

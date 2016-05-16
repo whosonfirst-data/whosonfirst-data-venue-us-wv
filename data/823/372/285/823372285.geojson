@@ -1,0 +1,71 @@
+{
+  "id": 823372285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.040877,39.343679,-80.040877,39.343679",
+    "geom:latitude":39.343679,
+    "geom:longitude":-80.040877,
+    "iso:country":"US",
+    "sg:address":"828 W Main St",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 265 0004",
+    "sg:postcode":"26354",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731717,
+        102083351,
+        85855577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TEAdP0INP71nRyTAkOdPK_39.343679_-80.040877@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431295,
+    "wof:geomhash":"084b9c3383f02d03e6303d5c6c5f072d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083351,
+            "locality_id":101731717,
+            "neighbourhood_id":85855577,
+            "region_id":85688589,
+            "venue_id":823372285
+        }
+    ],
+    "wof:id":823372285,
+    "wof:lastmodified":1463431295,
+    "wof:name":"Looking Glass",
+    "wof:parent_id":85855577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -80.040877,
+    39.343679,
+    -80.040877,
+    39.343679
+],
+  "geometry": {"coordinates":[-80.04087699999999,39.343679],"type":"Point"}
+}

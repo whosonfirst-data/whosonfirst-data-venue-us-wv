@@ -1,0 +1,69 @@
+{
+  "id": 823395619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.963055,39.664019,-79.963055,39.664019",
+    "geom:latitude":39.664019,
+    "geom:longitude":-79.963055,
+    "iso:country":"US",
+    "sg:address":"350 Wedgewood Dr",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 8949",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58ELBZHVM0hCxXjHIDOyXN_39.664019_-79.963055@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432357,
+    "wof:geomhash":"6bf8e492cbecf9da37179d20ba239f58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823395619
+        }
+    ],
+    "wof:id":823395619,
+    "wof:lastmodified":1463432357,
+    "wof:name":"Sterling University Ridge",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -79.963055,
+    39.664019,
+    -79.963055,
+    39.664019
+],
+  "geometry": {"coordinates":[-79.963055,39.664019],"type":"Point"}
+}

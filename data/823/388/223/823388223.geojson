@@ -1,0 +1,73 @@
+{
+  "id": 823388223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.979453,39.47494,-77.979453,39.47494",
+    "geom:latitude":39.47494,
+    "geom:longitude":-77.979453,
+    "iso:country":"US",
+    "sg:address":"2010 Oates Dr",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 264 9485",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85846047,
+        102083367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qvMII4ZXYin7o3tvOKT7E_39.474940_-77.979453@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431981,
+    "wof:geomhash":"810196ab8245cbac0fd578a6a2950eb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "neighbourhood_id":85846047,
+            "region_id":85688589,
+            "venue_id":823388223
+        }
+    ],
+    "wof:id":823388223,
+    "wof:lastmodified":1463431981,
+    "wof:name":"Panhandle Crdio Vascular Assoc",
+    "wof:parent_id":85846047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -77.979453,
+    39.47494,
+    -77.979453,
+    39.47494
+],
+  "geometry": {"coordinates":[-77.97945300000001,39.47494],"type":"Point"}
+}

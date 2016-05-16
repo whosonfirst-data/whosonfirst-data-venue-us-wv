@@ -1,0 +1,71 @@
+{
+  "id": 823445651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.32602,38.418028,-82.32602,38.418028",
+    "geom:latitude":38.418028,
+    "geom:longitude":-82.32602,
+    "iso:country":"US",
+    "sg:address":"3 Congressional Way",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 733 5027",
+    "sg:postcode":"25705",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85865435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4c7QLZwWyl7Gz0lyNYccoY_38.418028_-82.326020@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434620,
+    "wof:geomhash":"c076ce3edcb448de263f4c81bafddf57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85865435,
+            "region_id":85688589,
+            "venue_id":823445651
+        }
+    ],
+    "wof:id":823445651,
+    "wof:lastmodified":1463434620,
+    "wof:name":"Tap Vending",
+    "wof:parent_id":85865435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator"
+    ]
+},
+  "bbox": [
+    -82.32602,
+    38.418028,
+    -82.32602,
+    38.418028
+],
+  "geometry": {"coordinates":[-82.32602,38.418028],"type":"Point"}
+}

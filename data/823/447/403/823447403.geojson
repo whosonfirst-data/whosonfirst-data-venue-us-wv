@@ -1,0 +1,73 @@
+{
+  "id": 823447403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.659546,38.455566,-81.659546,38.455566",
+    "geom:latitude":38.455566,
+    "geom:longitude":-81.659546,
+    "iso:country":"US",
+    "sg:address":"433 Wolf Pen Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 984 3471",
+    "sg:postcode":"25312",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NgGaDeo6Z61iPxPBJco4a_38.455566_-81.659546@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434708,
+    "wof:geomhash":"f954112e8955ce971e004288dd3557e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823447403
+        }
+    ],
+    "wof:id":823447403,
+    "wof:lastmodified":1463434708,
+    "wof:name":"Smitty's Used Auto Parts",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -81.659546,
+    38.455566,
+    -81.659546,
+    38.455566
+],
+  "geometry": {"coordinates":[-81.65954600000001,38.455566],"type":"Point"}
+}

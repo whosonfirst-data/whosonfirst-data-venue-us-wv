@@ -1,0 +1,73 @@
+{
+  "id": 823424257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.139783,38.834286,-82.139783,38.834286",
+    "geom:latitude":38.834286,
+    "geom:longitude":-82.139783,
+    "iso:country":"US",
+    "sg:address":"112 Chestnut St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 675 6200",
+    "sg:postcode":"25106",
+    "sg:province":"WV",
+    "sg:tags":[
+        "saddlery",
+        "harness"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85983229,
+        102083675,
+        85824533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1L3biWopCcyqQ5kLvM4Qw7_38.834286_-82.139783@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433632,
+    "wof:geomhash":"6184be8f51c7ae85f64915dd9d205821",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "neighbourhood_id":85824533,
+            "region_id":85688485,
+            "venue_id":823424257
+        }
+    ],
+    "wof:id":823424257,
+    "wof:lastmodified":1463433632,
+    "wof:name":"Crabtree Custom Tack",
+    "wof:parent_id":85824533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saddlery",
+        "harness"
+    ]
+},
+  "bbox": [
+    -82.139783,
+    38.834286,
+    -82.139783,
+    38.834286
+],
+  "geometry": {"coordinates":[-82.13978299999999,38.834286],"type":"Point"}
+}

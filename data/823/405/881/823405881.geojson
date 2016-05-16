@@ -1,0 +1,73 @@
+{
+  "id": 823405881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.147151,39.478341,-80.147151,39.478341",
+    "geom:latitude":39.478341,
+    "geom:longitude":-80.147151,
+    "iso:country":"US",
+    "sg:address":"500 Virginia Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 8099",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VxbvI8CjyIcMD3PxC7CPp_39.478341_-80.147151@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432854,
+    "wof:geomhash":"a53f10262512dce88b55d9d75d4470a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823405881
+        }
+    ],
+    "wof:id":823405881,
+    "wof:lastmodified":1463432854,
+    "wof:name":"Three Rivers Iron Metal",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [
+    -80.147151,
+    39.478341,
+    -80.147151,
+    39.478341
+],
+  "geometry": {"coordinates":[-80.14715099999999,39.478341],"type":"Point"}
+}

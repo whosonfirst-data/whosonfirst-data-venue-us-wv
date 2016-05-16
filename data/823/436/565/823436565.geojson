@@ -1,0 +1,71 @@
+{
+  "id": 823436565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.9699,39.064554,-78.9699,39.064554",
+    "geom:latitude":39.064554,
+    "geom:longitude":-78.9699,
+    "iso:country":"US",
+    "sg:address":"205 N Main St",
+    "sg:city":"Moorefield",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 538 6286",
+    "sg:postcode":"26836",
+    "sg:province":"WV",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731279,
+        102082645,
+        85851815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SNPekJ7J1L9fz2cIBOUw9_39.064554_-78.969900@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434201,
+    "wof:geomhash":"5f38baba2307ed46795efb19949ebeef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082645,
+            "locality_id":101731279,
+            "neighbourhood_id":85851815,
+            "region_id":85688589,
+            "venue_id":823436565
+        }
+    ],
+    "wof:id":823436565,
+    "wof:lastmodified":1463434201,
+    "wof:name":"Loyal Order Of Moose",
+    "wof:parent_id":85851815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -78.9699,
+    39.064554,
+    -78.9699,
+    39.064554
+],
+  "geometry": {"coordinates":[-78.9699,39.064554],"type":"Point"}
+}

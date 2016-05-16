@@ -1,0 +1,75 @@
+{
+  "id": 823447995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.034448,38.431113,-82.034448,38.431113",
+    "geom:latitude":38.431113,
+    "geom:longitude":-82.034448,
+    "iso:country":"US",
+    "sg:address":"2517 Virginia Ave",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 562 9897",
+    "sg:postcode":"25526",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731829,
+        102083381,
+        85868321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gW48os96LN8xXf4BJqcrB_38.431113_-82.034448@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434740,
+    "wof:geomhash":"a333ea0a24cfd9ef22183262b36783c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731829,
+            "neighbourhood_id":85868321,
+            "region_id":85688589,
+            "venue_id":823447995
+        }
+    ],
+    "wof:id":823447995,
+    "wof:lastmodified":1463434740,
+    "wof:name":"Elkins Transport Inc",
+    "wof:parent_id":85868321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -82.034448,
+    38.431113,
+    -82.034448,
+    38.431113
+],
+  "geometry": {"coordinates":[-82.034448,38.431113],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 823453597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.962585,39.626315,-79.962585,39.626315",
+    "geom:latitude":39.626315,
+    "geom:longitude":-79.962585,
+    "iso:country":"US",
+    "sg:address":"150 Clay St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/central/139711-sicilias-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 284 0001",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5X8xRBqg82cY4AT4IiqJvM_39.626315_-79.962585@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434953,
+    "wof:geomhash":"b762dd0a4a0d3d49e5c4b3a74c8b603a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823453597
+        }
+    ],
+    "wof:id":823453597,
+    "wof:lastmodified":1463434953,
+    "wof:name":"Sicilia's Pizzeria",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -79.962585,
+    39.626315,
+    -79.962585,
+    39.626315
+],
+  "geometry": {"coordinates":[-79.962585,39.626315],"type":"Point"}
+}

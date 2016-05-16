@@ -1,0 +1,73 @@
+{
+  "id": 823454013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.136784,38.844448,-82.136784,38.844448",
+    "geom:latitude":38.844448,
+    "geom:longitude":-82.136784,
+    "iso:country":"US",
+    "sg:address":"335 6th St",
+    "sg:city":"Point Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/lewis/206645-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"25550",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85983229,
+        102083675,
+        85824533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Oz9jrLL6MIUho4zCtqema_38.844463_-82.136883@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434990,
+    "wof:geomhash":"d58630c978276d51a76eb2f7534a63b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "neighbourhood_id":85824533,
+            "region_id":85688485,
+            "venue_id":823454013
+        }
+    ],
+    "wof:id":823454013,
+    "wof:lastmodified":1463434990,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85824533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -82.136784,
+    38.844448,
+    -82.136784,
+    38.844448
+],
+  "geometry": {"coordinates":[-82.13678400000001,38.844448],"type":"Point"}
+}

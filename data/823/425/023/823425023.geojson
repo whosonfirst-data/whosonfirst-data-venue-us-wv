@@ -1,0 +1,73 @@
+{
+  "id": 823425023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.150377,37.819716,-81.150377,37.819716",
+    "geom:latitude":37.819716,
+    "geom:longitude":-81.150377,
+    "iso:country":"US",
+    "sg:address":"1233 Stanaford Rd",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 253 3112",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1z7PieFCTx3CwnhuVbqAwv_37.819716_-81.150377@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433660,
+    "wof:geomhash":"d51d0995c4113bd6b170ee426981cddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823425023
+        }
+    ],
+    "wof:id":823425023,
+    "wof:lastmodified":1463433660,
+    "wof:name":"Stanley Welding",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -81.150377,
+    37.819716,
+    -81.150377,
+    37.819716
+],
+  "geometry": {"coordinates":[-81.15037700000001,37.819716],"type":"Point"}
+}

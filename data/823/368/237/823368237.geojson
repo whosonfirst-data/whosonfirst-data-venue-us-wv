@@ -1,0 +1,71 @@
+{
+  "id": 823368237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.535462,38.230146,-81.535462,38.230146",
+    "geom:latitude":38.230146,
+    "geom:longitude":-81.535462,
+    "iso:country":"US",
+    "sg:address":"1126 E Dupont Ave",
+    "sg:city":"Belle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 4211",
+    "sg:postcode":"25015",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4euvlDcVBZnSQvFjX8pG1J_38.230146_-81.535462@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431107,
+    "wof:geomhash":"ad410d84ddce77f9f9b31ca6d523a98a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823368237
+        }
+    ],
+    "wof:id":823368237,
+    "wof:lastmodified":1463431107,
+    "wof:name":"Fidler & Frame Funeral Home",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -81.535462,
+    38.230146,
+    -81.535462,
+    38.230146
+],
+  "geometry": {"coordinates":[-81.535462,38.230146],"type":"Point"}
+}

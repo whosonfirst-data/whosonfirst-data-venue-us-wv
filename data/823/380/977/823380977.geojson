@@ -1,0 +1,71 @@
+{
+  "id": 823380977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.716321,38.383768,-81.716321,38.383768",
+    "geom:latitude":38.383768,
+    "geom:longitude":-81.716321,
+    "iso:country":"US",
+    "sg:address":"4225 Washington St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 746 6220",
+    "sg:postcode":"25313",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1U1cGh5MAey6LbNft1r1J7_38.383768_-81.716321@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431689,
+    "wof:geomhash":"970dbd72bf3364ab0c808a87ec2e0884",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823380977
+        }
+    ],
+    "wof:id":823380977,
+    "wof:lastmodified":1463431689,
+    "wof:name":"Tim Koontz Automotive",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -81.716321,
+    38.383768,
+    -81.716321,
+    38.383768
+],
+  "geometry": {"coordinates":[-81.71632099999999,38.383768],"type":"Point"}
+}

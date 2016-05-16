@@ -1,0 +1,70 @@
+{
+  "id": 823453635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.962174,39.622718,-79.962174,39.622718",
+    "geom:latitude":39.622718,
+    "geom:longitude":-79.962174,
+    "iso:country":"US",
+    "sg:address":"321 S High St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/central/222764-boston-beanery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 0165",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UDmMM5870WyKVXy6qlyKD_39.622718_-79.962174@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434954,
+    "wof:geomhash":"0b83b5bf61ca0076c8a94b1f9452f92c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823453635
+        }
+    ],
+    "wof:id":823453635,
+    "wof:lastmodified":1463434954,
+    "wof:name":"Boston Beanery",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -79.962174,
+    39.622718,
+    -79.962174,
+    39.622718
+],
+  "geometry": {"coordinates":[-79.962174,39.622718],"type":"Point"}
+}

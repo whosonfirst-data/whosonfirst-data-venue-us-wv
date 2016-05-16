@@ -1,0 +1,73 @@
+{
+  "id": 823411965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.989056,39.456084,-77.989056,39.456084",
+    "geom:latitude":39.456084,
+    "geom:longitude":-77.989056,
+    "iso:country":"US",
+    "sg:address":"990 Foxcroft Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 262 9960",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6I01Be7MqyPOcwmb3gK7Vb_39.456084_-77.989056@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433102,
+    "wof:geomhash":"8240794e88ee3676181660b3f330ca68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823411965
+        }
+    ],
+    "wof:id":823411965,
+    "wof:lastmodified":1463433102,
+    "wof:name":"Ultimate Shine",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -77.989056,
+    39.456084,
+    -77.989056,
+    39.456084
+],
+  "geometry": {"coordinates":[-77.98905600000001,39.456084],"type":"Point"}
+}

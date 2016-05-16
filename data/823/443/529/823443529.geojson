@@ -1,0 +1,71 @@
+{
+  "id": 823443529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.271383,39.297136,-80.271383,39.297136",
+    "geom:latitude":39.297136,
+    "geom:longitude":-80.271383,
+    "iso:country":"US",
+    "sg:address":"11 Garden Cir",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 3600",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ppWJAGjXTrP1wn07rxUGj_39.297136_-80.271383@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434525,
+    "wof:geomhash":"7c35631706a49d1a9ce5e7bd32406744",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823443529
+        }
+    ],
+    "wof:id":823443529,
+    "wof:lastmodified":1463434525,
+    "wof:name":"Nugget Software Systems",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [
+    -80.271383,
+    39.297136,
+    -80.271383,
+    39.297136
+],
+  "geometry": {"coordinates":[-80.271383,39.297136],"type":"Point"}
+}

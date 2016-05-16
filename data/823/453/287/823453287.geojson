@@ -1,0 +1,74 @@
+{
+  "id": 823453287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.608479,40.276156,-80.608479,40.276156",
+    "geom:latitude":40.276156,
+    "geom:longitude":-80.608479,
+    "iso:country":"US",
+    "sg:address":"1411 Commerce St",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/wellsburg/71752-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 2470",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DbMJ2KCRe9W6b4ewcsUvg_40.276156_-80.608479@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434941,
+    "wof:geomhash":"c2e8ea1232a39763cecb7216ad999266",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823453287
+        }
+    ],
+    "wof:id":823453287,
+    "wof:lastmodified":1463434941,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -80.608479,
+    40.276156,
+    -80.608479,
+    40.276156
+],
+  "geometry": {"coordinates":[-80.608479,40.276156],"type":"Point"}
+}

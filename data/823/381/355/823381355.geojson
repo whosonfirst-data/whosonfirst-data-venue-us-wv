@@ -1,0 +1,69 @@
+{
+  "id": 823381355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.149318,37.972668,-81.149318,37.972668",
+    "geom:latitude":37.972668,
+    "geom:longitude":-81.149318,
+    "iso:country":"US",
+    "sg:address":"201 Jones Ave",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 465 5361",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AGIETZZuVlimQTiWVrAih_37.972668_-81.149318@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431703,
+    "wof:geomhash":"cdf6bcd1c10f7c273210695c4050f4e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823381355
+        }
+    ],
+    "wof:id":823381355,
+    "wof:lastmodified":1463431703,
+    "wof:name":"Robert J Skoretz DMD",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -81.149318,
+    37.972668,
+    -81.149318,
+    37.972668
+],
+  "geometry": {"coordinates":[-81.14931799999999,37.972668],"type":"Point"}
+}

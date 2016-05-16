@@ -1,0 +1,71 @@
+{
+  "id": 823413765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.584307,38.352015,-81.584307,38.352015",
+    "geom:latitude":38.352015,
+    "geom:longitude":-81.584307,
+    "iso:country":"US",
+    "sg:address":"103 Woodbridge Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 6381",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jJtryxKes4HHW2OnRf3MU_38.352015_-81.584307@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433165,
+    "wof:geomhash":"9b653b6dc48fba4465a2a535b388ba31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823413765
+        }
+    ],
+    "wof:id":823413765,
+    "wof:lastmodified":1463433165,
+    "wof:name":"Ricardo Flippin",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -81.584307,
+    38.352015,
+    -81.584307,
+    38.352015
+],
+  "geometry": {"coordinates":[-81.584307,38.352015],"type":"Point"}
+}

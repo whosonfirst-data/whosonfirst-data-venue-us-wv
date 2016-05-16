@@ -1,0 +1,73 @@
+{
+  "id": 823381071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.238017,37.252519,-81.238017,37.252519",
+    "geom:latitude":37.252519,
+    "geom:longitude":-81.238017,
+    "iso:country":"US",
+    "sg:address":"1549 Stadium Dr",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 327 3461",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38mMsjRRgpwqw7nFyobh3m_37.252519_-81.238017@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431692,
+    "wof:geomhash":"181e0da3f2442ef7ab855011dbfb38eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823381071
+        }
+    ],
+    "wof:id":823381071,
+    "wof:lastmodified":1463431692,
+    "wof:name":"T Keith Edwards MD",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.238017,
+    37.252519,
+    -81.238017,
+    37.252519
+],
+  "geometry": {"coordinates":[-81.238017,37.252519],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 823440703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.748186,38.331714,-81.748186,38.331714",
+    "geom:latitude":38.331714,
+    "geom:longitude":-81.748186,
+    "iso:country":"US",
+    "sg:address":"1429 Chestnut St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 7202",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "truck",
+        "trailer",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PplE28lhBFgNT3pFyDwGm_38.331714_-81.748186@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434396,
+    "wof:geomhash":"50cf3f203b8f961ce2da7d6a5578c6ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823440703
+        }
+    ],
+    "wof:id":823440703,
+    "wof:lastmodified":1463434396,
+    "wof:name":"Michael McCallister",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "trailer",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -81.748186,
+    38.331714,
+    -81.748186,
+    38.331714
+],
+  "geometry": {"coordinates":[-81.748186,38.331714],"type":"Point"}
+}

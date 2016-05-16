@@ -1,0 +1,71 @@
+{
+  "id": 823396103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.135932,38.850544,-82.135932,38.850544",
+    "geom:latitude":38.850544,
+    "geom:longitude":-82.135932,
+    "iso:country":"US",
+    "sg:address":"1114 Viand St",
+    "sg:city":"Point Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 675 1698",
+    "sg:postcode":"25550",
+    "sg:province":"WV",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85983229,
+        102083675,
+        85824533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yVA3RbKvi6bVu8UXHsh1f_38.850544_-82.135932@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432378,
+    "wof:geomhash":"947970b168bf5501a0045977da6a4673",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "neighbourhood_id":85824533,
+            "region_id":85688485,
+            "venue_id":823396103
+        }
+    ],
+    "wof:id":823396103,
+    "wof:lastmodified":1463432378,
+    "wof:name":"Tobacco King",
+    "wof:parent_id":85824533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -82.135932,
+    38.850544,
+    -82.135932,
+    38.850544
+],
+  "geometry": {"coordinates":[-82.135932,38.850544],"type":"Point"}
+}

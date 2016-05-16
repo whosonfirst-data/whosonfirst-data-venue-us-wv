@@ -1,0 +1,73 @@
+{
+  "id": 823423511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.835823,38.923752,-79.835823,38.923752",
+    "geom:latitude":38.923752,
+    "geom:longitude":-79.835823,
+    "iso:country":"US",
+    "sg:address":"100 Bell St",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 637 8000",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "residential",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7F2ELGiUoLbHQbDtSHiAPB_38.923752_-79.835823@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433601,
+    "wof:geomhash":"85c904db7e2fbf543e5427768f6d144e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823423511
+        }
+    ],
+    "wof:id":823423511,
+    "wof:lastmodified":1463433601,
+    "wof:name":"Elkins Mountain School",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "care"
+    ]
+},
+  "bbox": [
+    -79.835823,
+    38.923752,
+    -79.835823,
+    38.923752
+],
+  "geometry": {"coordinates":[-79.835823,38.923752],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 823455287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.999992,39.375221,-77.999992,39.375221",
+    "geom:latitude":39.375221,
+    "geom:longitude":-77.999992,
+    "iso:country":"US",
+    "sg:address":"231 Valentine Dr",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Mobile Phones",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 229 1311",
+    "sg:postcode":"25405",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TQpyHZJEVvq7jr6kmgL8W_39.375221_-77.999992@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435069,
+    "wof:geomhash":"a682f79c01d307e6f04092236b3ce493",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823455287
+        }
+    ],
+    "wof:id":823455287,
+    "wof:lastmodified":1463435069,
+    "wof:name":"Eastern Homes Inc",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -77.999992,
+    39.375221,
+    -77.999992,
+    39.375221
+],
+  "geometry": {"coordinates":[-77.99999200000001,39.375221],"type":"Point"}
+}

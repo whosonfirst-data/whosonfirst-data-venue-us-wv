@@ -1,0 +1,73 @@
+{
+  "id": 823382639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.959347,39.639776,-79.959347,39.639776",
+    "geom:latitude":39.639776,
+    "geom:longitude":-79.959347,
+    "iso:country":"US",
+    "sg:address":"432 Beechurst Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 1000",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hfXcp75Xkf5Z0S8oIOLeZ_39.639776_-79.959347@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431761,
+    "wof:geomhash":"e5e7c2f6201433b39770c58ae5738f6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851489,
+            "region_id":85688589,
+            "venue_id":823382639
+        }
+    ],
+    "wof:id":823382639,
+    "wof:lastmodified":1463431761,
+    "wof:name":"Citgo",
+    "wof:parent_id":85851489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -79.959347,
+    39.639776,
+    -79.959347,
+    39.639776
+],
+  "geometry": {"coordinates":[-79.95934699999999,39.639776],"type":"Point"}
+}

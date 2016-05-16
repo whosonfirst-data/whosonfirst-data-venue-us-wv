@@ -1,0 +1,71 @@
+{
+  "id": 823381147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.68431,38.363113,-81.68431,38.363113",
+    "geom:latitude":38.363113,
+    "geom:longitude":-81.68431,
+    "iso:country":"US",
+    "sg:address":"220 Quincy St",
+    "sg:city":"South Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 6958",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WU9rBAJt8ZClSiv1ffd16_38.363113_-81.684310@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431695,
+    "wof:geomhash":"21f96fbf4491fb52e44ed0893b080ebc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823381147
+        }
+    ],
+    "wof:id":823381147,
+    "wof:lastmodified":1463431695,
+    "wof:name":"Michael E Mayes",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -81.68431,
+    38.363113,
+    -81.68431,
+    38.363113
+],
+  "geometry": {"coordinates":[-81.68431,38.363113],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823422385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.975049,39.453024,-77.975049,39.453024",
+    "geom:latitude":39.453024,
+    "geom:longitude":-77.975049,
+    "iso:country":"US",
+    "sg:address":"617 Winchester Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 264 4549",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zRQhoMBNbGHwze1CpeFON_39.453024_-77.975049@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433555,
+    "wof:geomhash":"f4e85a5142d4b8d94ecaaf151c4cf5cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823422385
+        }
+    ],
+    "wof:id":823422385,
+    "wof:lastmodified":1463433555,
+    "wof:name":"City Financial Corp",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -77.975049,
+    39.453024,
+    -77.975049,
+    39.453024
+],
+  "geometry": {"coordinates":[-77.975049,39.453024],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823439915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.559673,38.290074,-81.559673,38.290074",
+    "geom:latitude":38.290074,
+    "geom:longitude":-81.559673,
+    "iso:country":"US",
+    "sg:address":"4810 Kanawha Blvd E",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 0181",
+    "sg:postcode":"25312",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SsEngdkY8Y3tDr6zb0bTp_38.290074_-81.559673@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434361,
+    "wof:geomhash":"b536177d0da5ecca9d92f73b9dee59df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823439915
+        }
+    ],
+    "wof:id":823439915,
+    "wof:lastmodified":1463434361,
+    "wof:name":"Dave's Tire Svc",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -81.559673,
+    38.290074,
+    -81.559673,
+    38.290074
+],
+  "geometry": {"coordinates":[-81.559673,38.290074],"type":"Point"}
+}

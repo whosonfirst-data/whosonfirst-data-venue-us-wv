@@ -1,0 +1,72 @@
+{
+  "id": 823452505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.713942,38.322587,-81.713942,38.322587",
+    "geom:latitude":38.322587,
+    "geom:longitude":-81.713942,
+    "iso:country":"US",
+    "sg:address":"2525 Mountaineer Blvd",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/davis-creek/214055-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 746 7722",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09pHwdXnjOqORv9kDn81P3_38.322587_-81.713942@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434910,
+    "wof:geomhash":"bec87cac60673684a511c03cec8e72f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823452505
+        }
+    ],
+    "wof:id":823452505,
+    "wof:lastmodified":1463434910,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -81.713942,
+    38.322587,
+    -81.713942,
+    38.322587
+],
+  "geometry": {"coordinates":[-81.713942,38.322587],"type":"Point"}
+}

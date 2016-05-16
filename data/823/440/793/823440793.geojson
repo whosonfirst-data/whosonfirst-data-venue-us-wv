@@ -1,0 +1,73 @@
+{
+  "id": 823440793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.197357,37.77105,-81.197357,37.77105",
+    "geom:latitude":37.77105,
+    "geom:longitude":-81.197357,
+    "iso:country":"US",
+    "sg:address":"110 Raleigh Ave",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 253 5227",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "counseling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wAKeWAlcuQpJuVn672Ii7_37.771050_-81.197357@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434399,
+    "wof:geomhash":"361dab4bfbed67c951ed4d753ad2be02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823440793
+        }
+    ],
+    "wof:id":823440793,
+    "wof:lastmodified":1463434399,
+    "wof:name":"Lighthouse Christian Cnslng",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling"
+    ]
+},
+  "bbox": [
+    -81.197357,
+    37.77105,
+    -81.197357,
+    37.77105
+],
+  "geometry": {"coordinates":[-81.197357,37.77105],"type":"Point"}
+}

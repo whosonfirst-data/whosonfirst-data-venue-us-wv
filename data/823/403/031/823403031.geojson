@@ -1,0 +1,75 @@
+{
+  "id": 823403031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.966646,39.649436,-79.966646,39.649436",
+    "geom:latitude":39.649436,
+    "geom:longitude":-79.966646,
+    "iso:country":"US",
+    "sg:address":"375 Birch St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 598 0133",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "academic",
+        "special"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85847767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35Y58bRfzSzKLMR1xGIaYE_39.649436_-79.966646@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432713,
+    "wof:geomhash":"e356b8e34372e75ce197a8eaa953b54d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85847767,
+            "region_id":85688589,
+            "venue_id":823403031
+        }
+    ],
+    "wof:id":823403031,
+    "wof:lastmodified":1463432713,
+    "wof:name":"St Francis De Sales Central",
+    "wof:parent_id":85847767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "special"
+    ]
+},
+  "bbox": [
+    -79.966646,
+    39.649436,
+    -79.966646,
+    39.649436
+],
+  "geometry": {"coordinates":[-79.966646,39.649436],"type":"Point"}
+}

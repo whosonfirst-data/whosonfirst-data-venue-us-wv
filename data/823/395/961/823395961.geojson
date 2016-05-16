@@ -1,0 +1,71 @@
+{
+  "id": 823395961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.222139,37.258339,-81.222139,37.258339",
+    "geom:latitude":37.258339,
+    "geom:longitude":-81.222139,
+    "iso:country":"US",
+    "sg:address":"1504 Jefferson St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 327 9200",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KNJxobq0vLXoGykxCuENq_37.258339_-81.222139@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432374,
+    "wof:geomhash":"c989fc0362c030c2814fb9d6c5239453",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823395961
+        }
+    ],
+    "wof:id":823395961,
+    "wof:lastmodified":1463432374,
+    "wof:name":"Jones & Assoc",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -81.222139,
+    37.258339,
+    -81.222139,
+    37.258339
+],
+  "geometry": {"coordinates":[-81.222139,37.258339],"type":"Point"}
+}

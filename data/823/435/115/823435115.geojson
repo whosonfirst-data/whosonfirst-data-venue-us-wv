@@ -1,0 +1,68 @@
+{
+  "id": 823435115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.176964,37.765194,-81.176964,37.765194",
+    "geom:latitude":37.765194,
+    "geom:longitude":-81.176964,
+    "iso:country":"US",
+    "sg:address":"150 Patch St",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 252 0556",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dHPhJQZvvGSFekYOGVuEF_37.765194_-81.176964@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434132,
+    "wof:geomhash":"1d8d8bb548c2f9bf3e03ebce2b8a383e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823435115
+        }
+    ],
+    "wof:id":823435115,
+    "wof:lastmodified":1463434132,
+    "wof:name":"New River Grill Co",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.176964,
+    37.765194,
+    -81.176964,
+    37.765194
+],
+  "geometry": {"coordinates":[-81.176964,37.765194],"type":"Point"}
+}

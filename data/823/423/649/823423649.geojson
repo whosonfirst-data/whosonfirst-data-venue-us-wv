@@ -1,0 +1,66 @@
+{
+  "id": 823423649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.003285,38.765305,-82.003285,38.765305",
+    "geom:latitude":38.765305,
+    "geom:longitude":-82.003285,
+    "iso:country":"US",
+    "sg:address":"2745 US Hwy 35",
+    "sg:city":"Southside",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 675 6349",
+    "sg:postcode":"25187",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85983229,
+        102083675,
+        85824533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RkJsxGpye8WrSYasIpVAs_38.765305_-82.003285@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433607,
+    "wof:geomhash":"4c433d509e6fe0ddd7ffcd1671dcb39f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "neighbourhood_id":85824533,
+            "region_id":85688485,
+            "venue_id":823423649
+        }
+    ],
+    "wof:id":823423649,
+    "wof:lastmodified":1463433607,
+    "wof:name":"Southern Knawha Vly Civic Assn",
+    "wof:parent_id":85824533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.003285,
+    38.765305,
+    -82.003285,
+    38.765305
+],
+  "geometry": {"coordinates":[-82.00328500000001,38.765305],"type":"Point"}
+}

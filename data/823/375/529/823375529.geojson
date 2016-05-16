@@ -1,0 +1,71 @@
+{
+  "id": 823375529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.659787,38.37948,-81.659787,38.37948",
+    "geom:latitude":38.37948,
+    "geom:longitude":-81.659787,
+    "iso:country":"US",
+    "sg:address":"1903 Iris Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 346 9631",
+    "sg:postcode":"25312",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15GUjIr1dSsyjoG9rK0b34_38.379480_-81.659787@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431438,
+    "wof:geomhash":"44315fc0866e80c02b6c3a4deb6bd3cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823375529
+        }
+    ],
+    "wof:id":823375529,
+    "wof:lastmodified":1463431438,
+    "wof:name":"White Oaks Memorial Gardens",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -81.659787,
+    38.37948,
+    -81.659787,
+    38.37948
+],
+  "geometry": {"coordinates":[-81.65978699999999,38.37948],"type":"Point"}
+}

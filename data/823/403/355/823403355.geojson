@@ -1,0 +1,71 @@
+{
+  "id": 823403355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.557983,38.301054,-81.557983,38.301054",
+    "geom:latitude":38.301054,
+    "geom:longitude":-81.557983,
+    "iso:country":"US",
+    "sg:address":"4001 Salines Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 348 1973",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6edFJ5XAbtuoLg6BzfLIXI_38.301054_-81.557983@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432726,
+    "wof:geomhash":"d4139fe4e2be550c45849289c34a1093",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823403355
+        }
+    ],
+    "wof:id":823403355,
+    "wof:lastmodified":1463432726,
+    "wof:name":"Malden Elementary School",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -81.557983,
+    38.301054,
+    -81.557983,
+    38.301054
+],
+  "geometry": {"coordinates":[-81.55798299999999,38.301054],"type":"Point"}
+}

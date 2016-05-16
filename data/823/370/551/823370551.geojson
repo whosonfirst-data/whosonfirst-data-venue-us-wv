@@ -1,0 +1,75 @@
+{
+  "id": 823370551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.987381,39.461482,-77.987381,39.461482",
+    "geom:latitude":39.461482,
+    "geom:longitude":-77.987381,
+    "iso:country":"US",
+    "sg:address":"732 Foxcroft Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 3515",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cleaner",
+        "sales",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nSXnNA6u1DSPFarZk6PDc_39.461482_-77.987381@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431197,
+    "wof:geomhash":"cc4a37d776cec4abf732e4e2ce657da7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823370551
+        }
+    ],
+    "wof:id":823370551,
+    "wof:lastmodified":1463431197,
+    "wof:name":"Mr Vacuum",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "sales",
+        "vacuum"
+    ]
+},
+  "bbox": [
+    -77.987381,
+    39.461482,
+    -77.987381,
+    39.461482
+],
+  "geometry": {"coordinates":[-77.987381,39.461482],"type":"Point"}
+}

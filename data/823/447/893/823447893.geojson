@@ -1,0 +1,71 @@
+{
+  "id": 823447893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.973739,39.454108,-77.973739,39.454108",
+    "geom:latitude":39.454108,
+    "geom:longitude":-77.973739,
+    "iso:country":"US",
+    "sg:address":"500 Winchester Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 267 2947",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KNFrKekiyilhGSdgbUutA_39.454108_-77.973739@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434731,
+    "wof:geomhash":"6cc4289ffef5df63a54f1cfa8d1aa85f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823447893
+        }
+    ],
+    "wof:id":823447893,
+    "wof:lastmodified":1463434731,
+    "wof:name":"Boltz Hardware",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -77.973739,
+    39.454108,
+    -77.973739,
+    39.454108
+],
+  "geometry": {"coordinates":[-77.97373899999999,39.454108],"type":"Point"}
+}

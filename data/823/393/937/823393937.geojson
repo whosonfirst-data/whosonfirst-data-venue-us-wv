@@ -1,0 +1,71 @@
+{
+  "id": 823393937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.974197,39.446457,-77.974197,39.446457",
+    "geom:latitude":39.446457,
+    "geom:longitude":-77.974197,
+    "iso:country":"US",
+    "sg:address":"604 Wilson St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 596 6300",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05LoSTJ8ywSL3zV8xCc73B_39.446457_-77.974197@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432275,
+    "wof:geomhash":"2afea13b2505dd3131c251b6e67b81eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823393937
+        }
+    ],
+    "wof:id":823393937,
+    "wof:lastmodified":1463432275,
+    "wof:name":"Lending Mortgages Services",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -77.974197,
+    39.446457,
+    -77.974197,
+    39.446457
+],
+  "geometry": {"coordinates":[-77.974197,39.446457],"type":"Point"}
+}

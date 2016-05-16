@@ -1,0 +1,71 @@
+{
+  "id": 823436445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.154647,37.34315,-81.154647,37.34315",
+    "geom:latitude":37.34315,
+    "geom:longitude":-81.154647,
+    "iso:country":"US",
+    "sg:address":"238 Maple Acres Rd",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 5494",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "heavy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6guC8YwDGl9bYbLlFsXa5Y_37.343150_-81.154647@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434192,
+    "wof:geomhash":"3031e1be94a9b44751e73cb32eb5ea07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823436445
+        }
+    ],
+    "wof:id":823436445,
+    "wof:lastmodified":1463434192,
+    "wof:name":"Associated Cnstr & Trckg",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heavy"
+    ]
+},
+  "bbox": [
+    -81.154647,
+    37.34315,
+    -81.154647,
+    37.34315
+],
+  "geometry": {"coordinates":[-81.154647,37.34315],"type":"Point"}
+}

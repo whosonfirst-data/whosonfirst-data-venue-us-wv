@@ -1,0 +1,73 @@
+{
+  "id": 823444427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.640416,38.362739,-81.640416,38.362739",
+    "geom:latitude":38.362739,
+    "geom:longitude":-81.640416,
+    "iso:country":"US",
+    "sg:address":"725 Watts St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 4634",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "mailing",
+        "shipping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53oi9lYCiJ9YZgN94fTWpf_38.362739_-81.640416@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434557,
+    "wof:geomhash":"2e9fa513e7fc9d41d51df5295291a713",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823444427
+        }
+    ],
+    "wof:id":823444427,
+    "wof:lastmodified":1463434557,
+    "wof:name":"JSI Presort Mailing Svc",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mailing",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -81.640416,
+    38.362739,
+    -81.640416,
+    38.362739
+],
+  "geometry": {"coordinates":[-81.640416,38.362739],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823440849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.194612,37.278041,-81.194612,37.278041",
+    "geom:latitude":37.278041,
+    "geom:longitude":-81.194612,
+    "iso:country":"US",
+    "sg:address":"2428 Princeton Ave",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 323 3003",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eqoVHeQGxr6bMwDD0UC3Q_37.278041_-81.194612@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434401,
+    "wof:geomhash":"0728b233986cca7b7ea3f93442f0aeb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823440849
+        }
+    ],
+    "wof:id":823440849,
+    "wof:lastmodified":1463434401,
+    "wof:name":"RHM Construction",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.194612,
+    37.278041,
+    -81.194612,
+    37.278041
+],
+  "geometry": {"coordinates":[-81.19461200000001,37.278041],"type":"Point"}
+}

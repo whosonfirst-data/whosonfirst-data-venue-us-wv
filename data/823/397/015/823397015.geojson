@@ -1,0 +1,71 @@
+{
+  "id": 823397015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.339935,39.27948,-80.339935,39.27948",
+    "geom:latitude":39.27948,
+    "geom:longitude":-80.339935,
+    "iso:country":"US",
+    "sg:address":"342 W Main St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 622 8056",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6i28gNE7iqQaNJpi105uYN_39.279480_-80.339935@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432432,
+    "wof:geomhash":"4e7635c4ce4d9196a86baf9842c3e5b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823397015
+        }
+    ],
+    "wof:id":823397015,
+    "wof:lastmodified":1463432432,
+    "wof:name":"People's News",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -80.339935,
+    39.27948,
+    -80.339935,
+    39.27948
+],
+  "geometry": {"coordinates":[-80.339935,39.27948],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823413505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.168604,37.892566,-81.168604,37.892566",
+    "geom:latitude":37.892566,
+    "geom:longitude":-81.168604,
+    "iso:country":"US",
+    "sg:address":"713 Main St",
+    "sg:city":"Mt Hope",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 877 2760",
+    "sg:postcode":"25880",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731505,
+        102083359,
+        85852821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3umtKKFsB82a4f22Ihv7Oh_37.892566_-81.168604@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433156,
+    "wof:geomhash":"15bf8460206965350a9cc9f2979b570d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "locality_id":101731505,
+            "neighbourhood_id":85852821,
+            "region_id":85688589,
+            "venue_id":823413505
+        }
+    ],
+    "wof:id":823413505,
+    "wof:lastmodified":1463433156,
+    "wof:name":"Smokehouse",
+    "wof:parent_id":85852821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -81.168604,
+    37.892566,
+    -81.168604,
+    37.892566
+],
+  "geometry": {"coordinates":[-81.168604,37.892566],"type":"Point"}
+}

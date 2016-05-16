@@ -1,0 +1,73 @@
+{
+  "id": 823438703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.459428,37.780399,-80.459428,37.780399",
+    "geom:latitude":37.780399,
+    "geom:longitude":-80.459428,
+    "iso:country":"US",
+    "sg:address":"142 Maplewood Ave",
+    "sg:city":"Lewisburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 645 4966",
+    "sg:postcode":"24901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Pb92NTfvsdqikJulTtKye_37.780399_-80.459428@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434310,
+    "wof:geomhash":"ef9ec52bd7cac68f53f2e3d709fbb5be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823438703
+        }
+    ],
+    "wof:id":823438703,
+    "wof:lastmodified":1463434310,
+    "wof:name":"Greenbrier Housing Authority",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [
+    -80.459428,
+    37.780399,
+    -80.459428,
+    37.780399
+],
+  "geometry": {"coordinates":[-80.459428,37.780399],"type":"Point"}
+}

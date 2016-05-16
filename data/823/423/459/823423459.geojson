@@ -1,0 +1,73 @@
+{
+  "id": 823423459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.201852,37.255244,-81.201852,37.255244",
+    "geom:latitude":37.255244,
+    "geom:longitude":-81.201852,
+    "iso:country":"US",
+    "sg:address":"3180 E Cumberland Rd",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 325 2180",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02qUK2Kyeq5Sh8ynoJg3Nw_37.255244_-81.201852@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433599,
+    "wof:geomhash":"16d20ded5128d8d982d425e1107b2286",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823423459
+        }
+    ],
+    "wof:id":823423459,
+    "wof:lastmodified":1463433599,
+    "wof:name":"Vidiots",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -81.201852,
+    37.255244,
+    -81.201852,
+    37.255244
+],
+  "geometry": {"coordinates":[-81.201852,37.255244],"type":"Point"}
+}

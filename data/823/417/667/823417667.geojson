@@ -1,0 +1,71 @@
+{
+  "id": 823417667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.12133,39.480056,-80.12133,39.480056",
+    "geom:latitude":39.480056,
+    "geom:longitude":-80.12133,
+    "iso:country":"US",
+    "sg:address":"1030 Morgantown Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 2020",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2t69ZLtjAScsBA3D9gLjGd_39.480056_-80.121330@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433368,
+    "wof:geomhash":"cfebe2f9d9f4c168e966e72d80249eab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823417667
+        }
+    ],
+    "wof:id":823417667,
+    "wof:lastmodified":1463433368,
+    "wof:name":"Greg J Wrobleski DDS PC",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -80.12133,
+    39.480056,
+    -80.12133,
+    39.480056
+],
+  "geometry": {"coordinates":[-80.12133,39.480056],"type":"Point"}
+}

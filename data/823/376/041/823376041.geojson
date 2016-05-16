@@ -1,0 +1,75 @@
+{
+  "id": 823376041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.612538,40.270011,-80.612538,40.270011",
+    "geom:latitude":40.270011,
+    "geom:longitude":-80.612538,
+    "iso:country":"US",
+    "sg:address":"724 Charles St",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 0721",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rIK0WBaPlX6tFyKG4WOwi_40.270011_-80.612538@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431461,
+    "wof:geomhash":"51a6927862ae941530a9e7134477130d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823376041
+        }
+    ],
+    "wof:id":823376041,
+    "wof:lastmodified":1463431461,
+    "wof:name":"City Plumbing Heating & Sup Co",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.612538,
+    40.270011,
+    -80.612538,
+    40.270011
+],
+  "geometry": {"coordinates":[-80.612538,40.270011],"type":"Point"}
+}

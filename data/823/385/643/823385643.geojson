@@ -1,0 +1,71 @@
+{
+  "id": 823385643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.578746,38.318084,-81.578746,38.318084",
+    "geom:latitude":38.318084,
+    "geom:longitude":-81.578746,
+    "iso:country":"US",
+    "sg:address":"505 50th St SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 5368",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Lzr2rttOIp7dvNz3ypqyJ_38.318084_-81.578746@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431871,
+    "wof:geomhash":"1aaf054d3e823b11436fda075ea7d0ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823385643
+        }
+    ],
+    "wof:id":823385643,
+    "wof:lastmodified":1463431871,
+    "wof:name":"Laboratory Corp Of America",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -81.578746,
+    38.318084,
+    -81.578746,
+    38.318084
+],
+  "geometry": {"coordinates":[-81.578746,38.318084],"type":"Point"}
+}

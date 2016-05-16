@@ -1,0 +1,73 @@
+{
+  "id": 823454353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.454822,37.784635,-80.454822,37.784635",
+    "geom:latitude":37.784635,
+    "geom:longitude":-80.454822,
+    "iso:country":"US",
+    "sg:address":"102 Goheen St",
+    "sg:city":"Lewisburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 647 9900",
+    "sg:postcode":"24901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "hardware",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VNHoiS1K6Vtx0fyEcP5br_37.784635_-80.454822@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435023,
+    "wof:geomhash":"95cfa149c9d7bfe2c177ad1611f9fa7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823454353
+        }
+    ],
+    "wof:id":823454353,
+    "wof:lastmodified":1463435023,
+    "wof:name":"Connected Computers",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hardware",
+        "supply"
+    ]
+},
+  "bbox": [
+    -80.454822,
+    37.784635,
+    -80.454822,
+    37.784635
+],
+  "geometry": {"coordinates":[-80.45482199999999,37.784635],"type":"Point"}
+}

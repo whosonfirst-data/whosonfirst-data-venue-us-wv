@@ -1,0 +1,79 @@
+{
+  "id": 823456631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.604317,40.61812,-80.604317,40.61812",
+    "geom:latitude":40.61812,
+    "geom:longitude":-80.604317,
+    "iso:country":"US",
+    "sg:address":"610 Washington St",
+    "sg:city":"Newell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 0202",
+    "sg:postcode":"26050",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medicine",
+        "physician",
+        "surgeon",
+        "internal",
+        "surgeons"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_010KVvJ9SGwMJUnMT3If38_40.618120_-80.604317@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435119,
+    "wof:geomhash":"6fafd864167a36ad8e746770dff87d8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823456631
+        }
+    ],
+    "wof:id":823456631,
+    "wof:lastmodified":1463435119,
+    "wof:name":"Mohinder P Singh Md",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "physician",
+        "surgeon",
+        "internal",
+        "surgeons"
+    ]
+},
+  "bbox": [
+    -80.604317,
+    40.61812,
+    -80.604317,
+    40.61812
+],
+  "geometry": {"coordinates":[-80.60431699999999,40.61812],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823388431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.66325,38.485892,-81.66325,38.485892",
+    "geom:latitude":38.485892,
+    "geom:longitude":-81.66325,
+    "iso:country":"US",
+    "sg:address":"6816 Sissonville Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 984 3626",
+    "sg:postcode":"25320",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ue7AQeonUkSPm0eDBeJp6_38.485892_-81.663250@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431989,
+    "wof:geomhash":"8985653df4cec2aca4b1bc2ea761d7c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823388431
+        }
+    ],
+    "wof:id":823388431,
+    "wof:lastmodified":1463431989,
+    "wof:name":"Charleston Auto",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -81.66325,
+    38.485892,
+    -81.66325,
+    38.485892
+],
+  "geometry": {"coordinates":[-81.66325000000001,38.485892],"type":"Point"}
+}

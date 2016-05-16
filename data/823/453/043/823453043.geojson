@@ -1,0 +1,74 @@
+{
+  "id": 823453043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.184854,37.806706,-81.184854,37.806706",
+    "geom:latitude":37.806706,
+    "geom:longitude":-81.184854,
+    "iso:country":"US",
+    "sg:address":"4036 Robert C Byrd Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/pax/167453-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 255 6065",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CMGe9wTJTUcDpfaDcOlXY_37.806706_-81.184854@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434931,
+    "wof:geomhash":"ed19d99f15031788ad363b3fcd2c095f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823453043
+        }
+    ],
+    "wof:id":823453043,
+    "wof:lastmodified":1463434931,
+    "wof:name":"Burger King",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -81.184854,
+    37.806706,
+    -81.184854,
+    37.806706
+],
+  "geometry": {"coordinates":[-81.184854,37.806706],"type":"Point"}
+}

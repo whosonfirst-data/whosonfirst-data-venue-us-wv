@@ -1,0 +1,71 @@
+{
+  "id": 823442549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.000049,39.487675,-80.000049,39.487675",
+    "geom:latitude":39.487675,
+    "geom:longitude":-80.000049,
+    "iso:country":"US",
+    "sg:address":"1370 Creek Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 328 6000",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nMzfzdphaP5gtNSSAgvDJ_39.487675_-80.000049@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434472,
+    "wof:geomhash":"ba5946b6559a06aaaa718bcbbbf44099",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823442549
+        }
+    ],
+    "wof:id":823442549,
+    "wof:lastmodified":1463434472,
+    "wof:name":"D P Recycling",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [
+    -80.000049,
+    39.487675,
+    -80.000049,
+    39.487675
+],
+  "geometry": {"coordinates":[-80.000049,39.487675],"type":"Point"}
+}

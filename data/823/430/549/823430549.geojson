@@ -1,0 +1,66 @@
+{
+  "id": 823430549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.247264,39.286919,-80.247264,39.286919",
+    "geom:latitude":39.286919,
+    "geom:longitude":-80.247264,
+    "iso:country":"US",
+    "sg:address":"241 E Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 2516",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5k1WGTH5zTcEsC1fVEbLRa_39.286919_-80.247264@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433902,
+    "wof:geomhash":"8965e825b6d6468093a6ca0863e73766",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823430549
+        }
+    ],
+    "wof:id":823430549,
+    "wof:lastmodified":1463433902,
+    "wof:name":"Oliverio's Florist",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.247264,
+    39.286919,
+    -80.247264,
+    39.286919
+],
+  "geometry": {"coordinates":[-80.247264,39.286919],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823412811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.264677,37.910219,-81.264677,37.910219",
+    "geom:latitude":37.910219,
+    "geom:longitude":-81.264677,
+    "iso:country":"US",
+    "sg:address":"251 Main St",
+    "sg:city":"Pax",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 877 5836",
+    "sg:postcode":"25904",
+    "sg:province":"WV",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731505,
+        102083359,
+        85852821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eXJ7lN9PJZPMyb66TWaUQ_37.910219_-81.264677@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433132,
+    "wof:geomhash":"55c1912a5e24a6c3a0a2c8ba35f72855",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "locality_id":101731505,
+            "neighbourhood_id":85852821,
+            "region_id":85688589,
+            "venue_id":823412811
+        }
+    ],
+    "wof:id":823412811,
+    "wof:lastmodified":1463433132,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85852821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -81.264677,
+    37.910219,
+    -81.264677,
+    37.910219
+],
+  "geometry": {"coordinates":[-81.26467700000001,37.910219],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823415315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.15559,37.975118,-81.15559,37.975118",
+    "geom:latitude":37.975118,
+    "geom:longitude":-81.15559,
+    "iso:country":"US",
+    "sg:address":"550 Jones Ave",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 465 4889",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rZ5Hq6XIpf71BeMqQNroC_37.975118_-81.155590@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433251,
+    "wof:geomhash":"f6fdf166e770558635c3be02d780e809",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823415315
+        }
+    ],
+    "wof:id":823415315,
+    "wof:lastmodified":1463433251,
+    "wof:name":"B & M Automotive Sales LLC",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -81.15559,
+    37.975118,
+    -81.15559,
+    37.975118
+],
+  "geometry": {"coordinates":[-81.15559,37.975118],"type":"Point"}
+}

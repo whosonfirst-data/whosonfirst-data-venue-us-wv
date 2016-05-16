@@ -1,0 +1,73 @@
+{
+  "id": 823390315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.4863,38.428384,-81.4863,38.428384",
+    "geom:latitude":38.428384,
+    "geom:longitude":-81.4863,
+    "iso:country":"US",
+    "sg:address":"201 N Pinch Rd",
+    "sg:city":"Elkview",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 965 0101",
+    "sg:postcode":"25071",
+    "sg:province":"WV",
+    "sg:tags":[
+        "house",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ikeJFeU6guTdiB5nqzmu5_38.428384_-81.486300@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432094,
+    "wof:geomhash":"69895c755a067ba19e714b2d07ee17ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823390315
+        }
+    ],
+    "wof:id":823390315,
+    "wof:lastmodified":1463432094,
+    "wof:name":"Hammack Storage",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "residential"
+    ]
+},
+  "bbox": [
+    -81.4863,
+    38.428384,
+    -81.4863,
+    38.428384
+],
+  "geometry": {"coordinates":[-81.4863,38.428384],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823420345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.206408,37.262243,-81.206408,37.262243",
+    "geom:latitude":37.262243,
+    "geom:longitude":-81.206408,
+    "iso:country":"US",
+    "sg:address":"804 Edgewood Rd",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 327 8907",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UDo34Dz32W88FmL0UwWXW_37.262243_-81.206408@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433482,
+    "wof:geomhash":"d3f564405bd06e649bf1acee764e97eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823420345
+        }
+    ],
+    "wof:id":823420345,
+    "wof:lastmodified":1463433482,
+    "wof:name":"4T&j Properties LLC",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -81.206408,
+    37.262243,
+    -81.206408,
+    37.262243
+],
+  "geometry": {"coordinates":[-81.206408,37.262243],"type":"Point"}
+}

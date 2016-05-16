@@ -1,0 +1,73 @@
+{
+  "id": 823430091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.917326,38.450704,-81.917326,38.450704",
+    "geom:latitude":38.450704,
+    "geom:longitude":-81.917326,
+    "iso:country":"US",
+    "sg:address":"174 Timberlake Cir",
+    "sg:city":"Scott Depot",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 757 3966",
+    "sg:postcode":"25560",
+    "sg:province":"WV",
+    "sg:tags":[
+        "instrument",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731829,
+        102083381,
+        85868321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qDE1ypFHL0ointHXquBzg_38.450704_-81.917326@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433886,
+    "wof:geomhash":"a3b5d044b4091c7389e45f52dc01aa90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731829,
+            "neighbourhood_id":85868321,
+            "region_id":85688589,
+            "venue_id":823430091
+        }
+    ],
+    "wof:id":823430091,
+    "wof:lastmodified":1463433886,
+    "wof:name":"GE",
+    "wof:parent_id":85868321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -81.917326,
+    38.450704,
+    -81.917326,
+    38.450704
+],
+  "geometry": {"coordinates":[-81.917326,38.450704],"type":"Point"}
+}

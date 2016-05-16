@@ -1,0 +1,71 @@
+{
+  "id": 823402697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.612634,40.27089,-80.612634,40.27089",
+    "geom:latitude":40.27089,
+    "geom:longitude":-80.612634,
+    "iso:country":"US",
+    "sg:address":"67 8th St",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 1451",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hJ8ORrauQc9b3TTgRVOuz_40.270890_-80.612634@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432700,
+    "wof:geomhash":"3971d3deca84bf9dab56a545598a650f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823402697
+        }
+    ],
+    "wof:id":823402697,
+    "wof:lastmodified":1463432700,
+    "wof:name":"Veterans Of Foreign Wars",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -80.612634,
+    40.27089,
+    -80.612634,
+    40.27089
+],
+  "geometry": {"coordinates":[-80.612634,40.27089],"type":"Point"}
+}

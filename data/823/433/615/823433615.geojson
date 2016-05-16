@@ -1,0 +1,71 @@
+{
+  "id": 823433615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.570492,38.268409,-81.570492,38.268409",
+    "geom:latitude":38.268409,
+    "geom:longitude":-81.570492,
+    "iso:country":"US",
+    "sg:address":"3400 W 5th Ave",
+    "sg:city":"Belle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 1360",
+    "sg:postcode":"25015",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Lrhp8GCPWwOPK58zqwvBV_38.268409_-81.570492@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434047,
+    "wof:geomhash":"a77c70a42803ba2ffcb2d35bfe135319",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823433615
+        }
+    ],
+    "wof:id":823433615,
+    "wof:lastmodified":1463434047,
+    "wof:name":"Palmers Contracting Inc",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.570492,
+    38.268409,
+    -81.570492,
+    38.268409
+],
+  "geometry": {"coordinates":[-81.570492,38.268409],"type":"Point"}
+}

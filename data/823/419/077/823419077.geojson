@@ -1,0 +1,75 @@
+{
+  "id": 823419077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.757649,38.367458,-81.757649,38.367458",
+    "geom:latitude":38.367458,
+    "geom:longitude":-81.757649,
+    "iso:country":"US",
+    "sg:address":"2800 Charles Ave",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 766 0229",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2g0Sp9PT1l54tq9fiTK5iD_38.367458_-81.757649@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433429,
+    "wof:geomhash":"e3e9b61648f53676438d27b375d529b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823419077
+        }
+    ],
+    "wof:id":823419077,
+    "wof:lastmodified":1463433429,
+    "wof:name":"Dunbar Public Works Director",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -81.757649,
+    38.367458,
+    -81.757649,
+    38.367458
+],
+  "geometry": {"coordinates":[-81.757649,38.367458],"type":"Point"}
+}

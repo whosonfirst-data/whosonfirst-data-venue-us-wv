@@ -1,0 +1,71 @@
+{
+  "id": 823431653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.967503,39.445148,-77.967503,39.445148",
+    "geom:latitude":39.445148,
+    "geom:longitude":-77.967503,
+    "iso:country":"US",
+    "sg:address":"206 Wilson St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 7220",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3voxfxeams7C962gzbeCll_39.445148_-77.967503@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433950,
+    "wof:geomhash":"271ed13fc522b8ce9b8c776b2e338dff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823431653
+        }
+    ],
+    "wof:id":823431653,
+    "wof:lastmodified":1463433950,
+    "wof:name":"E & M Auto Sales",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -77.967503,
+    39.445148,
+    -77.967503,
+    39.445148
+],
+  "geometry": {"coordinates":[-77.96750299999999,39.445148],"type":"Point"}
+}

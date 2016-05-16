@@ -1,0 +1,71 @@
+{
+  "id": 823444419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.52256,39.230529,-81.52256,39.230529",
+    "geom:latitude":39.230529,
+    "geom:longitude":-81.52256,
+    "iso:country":"US",
+    "sg:address":"702 Grandview St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 485 1567",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NbETyV3vDWaLg29x5YUVl_39.230529_-81.522560@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434557,
+    "wof:geomhash":"db88e39a305d5fcc152ce4dfb6c9ad91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823444419
+        }
+    ],
+    "wof:id":823444419,
+    "wof:lastmodified":1463434557,
+    "wof:name":"Home Health Care",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -81.52256,
+    39.230529,
+    -81.52256,
+    39.230529
+],
+  "geometry": {"coordinates":[-81.52256,39.230529],"type":"Point"}
+}

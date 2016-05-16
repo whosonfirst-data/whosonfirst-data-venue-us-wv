@@ -1,0 +1,71 @@
+{
+  "id": 823429777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.860026,38.936718,-79.860026,38.936718",
+    "geom:latitude":38.936718,
+    "geom:longitude":-79.860026,
+    "iso:country":"US",
+    "sg:address":"122 Pleasant Ave",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 637 0070",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NBCWF9wdwRTFjIVA7IJrF_38.936718_-79.860026@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433875,
+    "wof:geomhash":"145a93a113b046e43d300edc98fb52fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823429777
+        }
+    ],
+    "wof:id":823429777,
+    "wof:lastmodified":1463433875,
+    "wof:name":"Shakeela Khan",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -79.860026,
+    38.936718,
+    -79.860026,
+    38.936718
+],
+  "geometry": {"coordinates":[-79.860026,38.936718],"type":"Point"}
+}

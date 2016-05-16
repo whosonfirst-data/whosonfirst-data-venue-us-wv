@@ -1,0 +1,73 @@
+{
+  "id": 823419779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.430827,38.218997,-81.430827,38.218997",
+    "geom:latitude":38.218997,
+    "geom:longitude":-81.430827,
+    "iso:country":"US",
+    "sg:address":"401 William St",
+    "sg:city":"Cedar Grove",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 595 2336",
+    "sg:postcode":"25039",
+    "sg:province":"WV",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fgbUu3jknPJifltRsAFWU_38.218997_-81.430827@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433454,
+    "wof:geomhash":"f858dbd81a68d09bed7fec71ff52b77d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823419779
+        }
+    ],
+    "wof:id":823419779,
+    "wof:lastmodified":1463433454,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -81.430827,
+    38.218997,
+    -81.430827,
+    38.218997
+],
+  "geometry": {"coordinates":[-81.43082699999999,38.218997],"type":"Point"}
+}

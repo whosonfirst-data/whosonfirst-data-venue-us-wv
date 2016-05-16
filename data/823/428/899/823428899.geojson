@@ -1,0 +1,71 @@
+{
+  "id": 823428899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.549446,38.310366,-81.549446,38.310366",
+    "geom:latitude":38.310366,
+    "geom:longitude":-81.549446,
+    "iso:country":"US",
+    "sg:address":"230 Campbells Creek Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 6815",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VLkYkVoWJHaDURCHc4maL_38.310366_-81.549446@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433835,
+    "wof:geomhash":"13773959aec3ffd1783d8400f73c9e8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823428899
+        }
+    ],
+    "wof:id":823428899,
+    "wof:lastmodified":1463433835,
+    "wof:name":"Kinison Appliance Service",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -81.549446,
+    38.310366,
+    -81.549446,
+    38.310366
+],
+  "geometry": {"coordinates":[-81.549446,38.310366],"type":"Point"}
+}

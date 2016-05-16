@@ -1,0 +1,71 @@
+{
+  "id": 823404409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.653,38.36805,-81.653,38.36805",
+    "geom:latitude":38.36805,
+    "geom:longitude":-81.653,
+    "iso:country":"US",
+    "sg:address":"828 Washington St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 6180",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05dbMAcmRpiFEnNo3P6z4U_38.368050_-81.653000@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432783,
+    "wof:geomhash":"f35385abc35856bb46c263424ae18466",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823404409
+        }
+    ],
+    "wof:id":823404409,
+    "wof:lastmodified":1463432783,
+    "wof:name":"China Town Restaurant",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -81.653,
+    38.36805,
+    -81.653,
+    38.36805
+],
+  "geometry": {"coordinates":[-81.65300000000001,38.36805],"type":"Point"}
+}

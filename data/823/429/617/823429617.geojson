@@ -1,0 +1,71 @@
+{
+  "id": 823429617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.585167,38.338247,-81.585167,38.338247",
+    "geom:latitude":38.338247,
+    "geom:longitude":-81.585167,
+    "iso:country":"US",
+    "sg:address":"207 Collins Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 8760",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Xg5PWiQv2jkGxADlQ3Trl_38.338247_-81.585167@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433870,
+    "wof:geomhash":"8ef0906b652c9bfd8f46bf305e922986",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823429617
+        }
+    ],
+    "wof:id":823429617,
+    "wof:lastmodified":1463433870,
+    "wof:name":"Ann Keener",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -81.585167,
+    38.338247,
+    -81.585167,
+    38.338247
+],
+  "geometry": {"coordinates":[-81.585167,38.338247],"type":"Point"}
+}

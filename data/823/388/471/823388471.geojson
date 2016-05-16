@@ -1,0 +1,71 @@
+{
+  "id": 823388471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.859142,39.644108,-80.859142,39.644108",
+    "geom:latitude":39.644108,
+    "geom:longitude":-80.859142,
+    "iso:country":"US",
+    "sg:address":"509 Kent Ln",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 3050",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dIMKOp2XLQz5bFYaVxoZ9_39.644108_-80.859142@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431990,
+    "wof:geomhash":"9e51db78d65d4028c36494f7ff633a74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823388471
+        }
+    ],
+    "wof:id":823388471,
+    "wof:lastmodified":1463431990,
+    "wof:name":"Housing Authority",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -80.859142,
+    39.644108,
+    -80.859142,
+    39.644108
+],
+  "geometry": {"coordinates":[-80.85914200000001,39.644108],"type":"Point"}
+}

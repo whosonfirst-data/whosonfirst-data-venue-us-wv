@@ -1,0 +1,71 @@
+{
+  "id": 823429445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.036802,39.58454,-80.036802,39.58454",
+    "geom:latitude":39.58454,
+    "geom:longitude":-80.036802,
+    "iso:country":"US",
+    "sg:address":"2777 River Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 983 2886",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818601,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cNl6bbqCpkDHkf21Zirlm_39.584540_-80.036802@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433859,
+    "wof:geomhash":"5b3bd75bdee69498b7c252383ed434a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85818601,
+            "region_id":85688589,
+            "venue_id":823429445
+        }
+    ],
+    "wof:id":823429445,
+    "wof:lastmodified":1463433859,
+    "wof:name":"National Preowned Auto",
+    "wof:parent_id":85818601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -80.036802,
+    39.58454,
+    -80.036802,
+    39.58454
+],
+  "geometry": {"coordinates":[-80.03680199999999,39.58454],"type":"Point"}
+}

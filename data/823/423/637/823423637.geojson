@@ -1,0 +1,73 @@
+{
+  "id": 823423637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.96985,39.062321,-78.96985,39.062321",
+    "geom:latitude":39.062321,
+    "geom:longitude":-78.96985,
+    "iso:country":"US",
+    "sg:address":"104 N Main St",
+    "sg:city":"Moorefield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 538 6354",
+    "sg:postcode":"26836",
+    "sg:province":"WV",
+    "sg:tags":[
+        "gift",
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731279,
+        102082645,
+        85851815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1t0XgWAH3qRORyGDqK9lQv_39.062321_-78.969850@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433607,
+    "wof:geomhash":"9ffae832db8817769172ac041b6faf11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082645,
+            "locality_id":101731279,
+            "neighbourhood_id":85851815,
+            "region_id":85688589,
+            "venue_id":823423637
+        }
+    ],
+    "wof:id":823423637,
+    "wof:lastmodified":1463433607,
+    "wof:name":"Puffenberger's Jewelry Store",
+    "wof:parent_id":85851815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gift",
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -78.96985,
+    39.062321,
+    -78.96985,
+    39.062321
+],
+  "geometry": {"coordinates":[-78.96984999999999,39.062321],"type":"Point"}
+}

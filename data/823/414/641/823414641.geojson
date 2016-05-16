@@ -1,0 +1,72 @@
+{
+  "id": 823414641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.433941,38.220092,-81.433941,38.220092",
+    "geom:latitude":38.220092,
+    "geom:longitude":-81.433941,
+    "iso:country":"US",
+    "sg:address":"408 Alexander St",
+    "sg:city":"Cedar Grove",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 595 1770",
+    "sg:postcode":"25015",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clinic"
+    ],
+    "sg:website":"www.vhs-wv.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ardNHJ7GOZ6B9bJAH972z_38.220092_-81.433941@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433210,
+    "wof:geomhash":"dfb05f946e40bf803be08fceab442a8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823414641
+        }
+    ],
+    "wof:id":823414641,
+    "wof:lastmodified":1463433210,
+    "wof:name":"Upper Kanawha Medical Ctr",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -81.433941,
+    38.220092,
+    -81.433941,
+    38.220092
+],
+  "geometry": {"coordinates":[-81.433941,38.220092],"type":"Point"}
+}

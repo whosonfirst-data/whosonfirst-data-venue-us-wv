@@ -1,0 +1,73 @@
+{
+  "id": 823378967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.739787,38.359449,-81.739787,38.359449",
+    "geom:latitude":38.359449,
+    "geom:longitude":-81.739787,
+    "iso:country":"US",
+    "sg:address":"337 12th St",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 766 1680",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "examination",
+        "insurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UAZ06pmZmxPtoxvb9PgXW_38.359449_-81.739787@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431594,
+    "wof:geomhash":"85760c52567aa2800a5a10b2f074c192",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823378967
+        }
+    ],
+    "wof:id":823378967,
+    "wof:lastmodified":1463431594,
+    "wof:name":"Health Research",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "examination",
+        "insurance"
+    ]
+},
+  "bbox": [
+    -81.739787,
+    38.359449,
+    -81.739787,
+    38.359449
+],
+  "geometry": {"coordinates":[-81.73978700000001,38.359449],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823403771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.594694,38.327758,-81.594694,38.327758",
+    "geom:latitude":38.327758,
+    "geom:longitude":-81.594694,
+    "iso:country":"US",
+    "sg:address":"3703 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 7387",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YrXVLPtYYMjLDmsqmoS9D_38.327758_-81.594694@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432743,
+    "wof:geomhash":"931349f24b30b6f54ee3830f0e26ba4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823403771
+        }
+    ],
+    "wof:id":823403771,
+    "wof:lastmodified":1463432743,
+    "wof:name":"Good Shepard Veterinary Hosp",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -81.594694,
+    38.327758,
+    -81.594694,
+    38.327758
+],
+  "geometry": {"coordinates":[-81.594694,38.327758],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 823452821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.91653,38.447517,-81.91653,38.447517",
+    "geom:latitude":38.447517,
+    "geom:longitude":-81.91653,
+    "iso:country":"US",
+    "sg:address":"4254 Teays Valley Rd",
+    "sg:city":"Scott Depot",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/scott/192399-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 757 8110",
+    "sg:postcode":"25560",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731829,
+        102083381,
+        85868321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EgaUoDkl6baV4v0LZUMKy_38.447517_-81.916530@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434921,
+    "wof:geomhash":"6f9e8e18e6c01c847cf3721aa3d50f6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731829,
+            "neighbourhood_id":85868321,
+            "region_id":85688589,
+            "venue_id":823452821
+        }
+    ],
+    "wof:id":823452821,
+    "wof:lastmodified":1463434921,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85868321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -81.91653,
+    38.447517,
+    -81.91653,
+    38.447517
+],
+  "geometry": {"coordinates":[-81.91652999999999,38.447517],"type":"Point"}
+}

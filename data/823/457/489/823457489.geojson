@@ -1,0 +1,84 @@
+{
+  "id": 823457489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.986631,39.657993,-79.986631,39.657993",
+    "geom:latitude":39.657993,
+    "geom:longitude":-79.986631,
+    "iso:country":"US",
+    "sg:address":"382 Broadway Ave Ste A",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 7743",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home",
+        "eldercare-home"
+    ],
+    "sg:website":"http://www.vhsinc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731749,
+        102082587,
+        85807277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EPX2nz2jk7eVot8CBWUEU_39.657993_-79.986631@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435161,
+    "wof:geomhash":"1c7fd30b516062276344479b3827b206",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731749,
+            "neighbourhood_id":85807277,
+            "region_id":85688589,
+            "venue_id":823457489
+        }
+    ],
+    "wof:id":823457489,
+    "wof:lastmodified":1463435161,
+    "wof:name":"Visiting Homemaker Service Inc",
+    "wof:parent_id":85807277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "eldercare-home"
+    ]
+},
+  "bbox": [
+    -79.986631,
+    39.657993,
+    -79.986631,
+    39.657993
+],
+  "geometry": {"coordinates":[-79.986631,39.657993],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823415399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.70145,38.367381,-81.70145,38.367381",
+    "geom:latitude":38.367381,
+    "geom:longitude":-81.70145,
+    "iso:country":"US",
+    "sg:address":"104 Maccorkle Ave SW",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 0542",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Z3z89Wb5vvq28dn2tCNY8_38.367381_-81.701450@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433254,
+    "wof:geomhash":"95e162cf16d70c1ec9d6cb854e90291f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823415399
+        }
+    ],
+    "wof:id":823415399,
+    "wof:lastmodified":1463433254,
+    "wof:name":"European Car Service Inc",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -81.70145,
+    38.367381,
+    -81.70145,
+    38.367381
+],
+  "geometry": {"coordinates":[-81.70144999999999,38.367381],"type":"Point"}
+}

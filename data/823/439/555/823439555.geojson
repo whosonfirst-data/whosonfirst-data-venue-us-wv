@@ -1,0 +1,75 @@
+{
+  "id": 823439555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.86045,39.28977,-77.86045,39.28977",
+    "geom:latitude":39.28977,
+    "geom:longitude":-77.86045,
+    "iso:country":"US",
+    "sg:address":"111 W Liberty St",
+    "sg:city":"Charles Town",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 728 1790",
+    "sg:postcode":"25414",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731443,
+        102082647,
+        85807793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61sal7XJrf4bpWKdix6F9w_39.289770_-77.860450@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434347,
+    "wof:geomhash":"7c5011cf799dd5ac89a46b83cf17d8ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082647,
+            "locality_id":101731443,
+            "neighbourhood_id":85807793,
+            "region_id":85688589,
+            "venue_id":823439555
+        }
+    ],
+    "wof:id":823439555,
+    "wof:lastmodified":1463434347,
+    "wof:name":"Jefferson Memorial Home Care",
+    "wof:parent_id":85807793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -77.86045,
+    39.28977,
+    -77.86045,
+    39.28977
+],
+  "geometry": {"coordinates":[-77.86045,39.28977],"type":"Point"}
+}

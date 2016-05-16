@@ -1,0 +1,73 @@
+{
+  "id": 823378611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.696321,38.368571,-81.696321,38.368571",
+    "geom:latitude":38.368571,
+    "geom:longitude":-81.696321,
+    "iso:country":"US",
+    "sg:address":"328 7th Ave",
+    "sg:city":"South Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 9111",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "boot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A2wRJVcoHKF8CV94ihKkY_38.368571_-81.696321@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431581,
+    "wof:geomhash":"bbebcbd779784b0c2908c97715cc148d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823378611
+        }
+    ],
+    "wof:id":823378611,
+    "wof:lastmodified":1463431581,
+    "wof:name":"Taylor Brothers Shoe Shop",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "boot"
+    ]
+},
+  "bbox": [
+    -81.696321,
+    38.368571,
+    -81.696321,
+    38.368571
+],
+  "geometry": {"coordinates":[-81.696321,38.368571],"type":"Point"}
+}

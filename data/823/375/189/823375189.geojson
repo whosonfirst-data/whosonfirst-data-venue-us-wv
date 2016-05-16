@@ -1,0 +1,77 @@
+{
+  "id": 823375189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.205559,37.786293,-81.205559,37.786293",
+    "geom:latitude":37.786293,
+    "geom:longitude":-81.205559,
+    "iso:country":"US",
+    "sg:address":"122 Travelers Ln",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 256 2026",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56HBfR5BsTeR0UBJQphkVh_37.786293_-81.205559@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431426,
+    "wof:geomhash":"f42f6c93ce4beeea5c0ded15d4ea3d97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823375189
+        }
+    ],
+    "wof:id":823375189,
+    "wof:lastmodified":1463431426,
+    "wof:name":"S&H Enterprises Inc",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -81.205559,
+    37.786293,
+    -81.205559,
+    37.786293
+],
+  "geometry": {"coordinates":[-81.20555899999999,37.786293],"type":"Point"}
+}

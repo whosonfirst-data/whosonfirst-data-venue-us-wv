@@ -1,0 +1,72 @@
+{
+  "id": 823453561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.006225,39.653597,-80.006225,39.653597",
+    "geom:latitude":39.653597,
+    "geom:longitude":-80.006225,
+    "iso:country":"US",
+    "sg:address":"1501 University Town Centre Dr",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/western/246886-cheddars/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 598 3233",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731749,
+        102082587,
+        85807277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aS1RyGpN2OAflKSDlSmcA_39.653597_-80.006225@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434952,
+    "wof:geomhash":"4273584b1d840d1afd5ec8d344230f49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731749,
+            "neighbourhood_id":85807277,
+            "region_id":85688589,
+            "venue_id":823453561
+        }
+    ],
+    "wof:id":823453561,
+    "wof:lastmodified":1463434952,
+    "wof:name":"Cheddars",
+    "wof:parent_id":85807277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -80.006225,
+    39.653597,
+    -80.006225,
+    39.653597
+],
+  "geometry": {"coordinates":[-80.006225,39.653597],"type":"Point"}
+}

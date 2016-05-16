@@ -1,0 +1,71 @@
+{
+  "id": 823407015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.641244,38.361018,-81.641244,38.361018",
+    "geom:latitude":38.361018,
+    "geom:longitude":-81.641244,
+    "iso:country":"US",
+    "sg:address":"317 Washington St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 9515",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Q4zzI7rtc9KeUAkafVEW5_38.361018_-81.641244@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432903,
+    "wof:geomhash":"1d83063d19af8b39c084f8bdc11abf56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823407015
+        }
+    ],
+    "wof:id":823407015,
+    "wof:lastmodified":1463432903,
+    "wof:name":"Childrens Therapy Clinic Inc",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -81.641244,
+    38.361018,
+    -81.641244,
+    38.361018
+],
+  "geometry": {"coordinates":[-81.641244,38.361018],"type":"Point"}
+}

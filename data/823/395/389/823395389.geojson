@@ -1,0 +1,69 @@
+{
+  "id": 823395389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.104118,38.060369,-81.104118,38.060369",
+    "geom:latitude":38.060369,
+    "geom:longitude":-81.104118,
+    "iso:country":"US",
+    "sg:address":"122 2nd Ave",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 574 0540",
+    "sg:postcode":"25840",
+    "sg:province":"WV",
+    "sg:tags":[
+        "adult"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54f8ny30uiWJkTdz8rHke8_38.060369_-81.104118@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432343,
+    "wof:geomhash":"0403d61f0e8f7bdc56de485b697d412a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823395389
+        }
+    ],
+    "wof:id":823395389,
+    "wof:lastmodified":1463432343,
+    "wof:name":"Sheltering Arms Inc",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "adult"
+    ]
+},
+  "bbox": [
+    -81.104118,
+    38.060369,
+    -81.104118,
+    38.060369
+],
+  "geometry": {"coordinates":[-81.104118,38.060369],"type":"Point"}
+}

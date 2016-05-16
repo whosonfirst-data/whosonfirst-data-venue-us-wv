@@ -1,0 +1,82 @@
+{
+  "id": 823452995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.181533,37.802793,-81.181533,37.802793",
+    "geom:latitude":37.802793,
+    "geom:longitude":-81.181533,
+    "iso:country":"US",
+    "sg:address":"1300 N Eisenhower Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/pax/179516-chick-fil-a/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 250 0158",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5K7OOHlDgNivfxfioWnxzj_37.802793_-81.181533@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434929,
+    "wof:geomhash":"c9fa3953233078cd0da61d9f9c970133",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823452995
+        }
+    ],
+    "wof:id":823452995,
+    "wof:lastmodified":1463434929,
+    "wof:name":"Chick-fil-A",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ]
+},
+  "bbox": [
+    -81.181533,
+    37.802793,
+    -81.181533,
+    37.802793
+],
+  "geometry": {"coordinates":[-81.181533,37.802793],"type":"Point"}
+}

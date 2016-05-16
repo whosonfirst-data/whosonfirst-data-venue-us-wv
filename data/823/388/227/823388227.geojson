@@ -1,0 +1,68 @@
+{
+  "id": 823388227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.622576,38.343386,-81.622576,38.343386",
+    "geom:latitude":38.343386,
+    "geom:longitude":-81.622576,
+    "iso:country":"US",
+    "sg:address":"1503 Washington St E",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 346 3100",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85850023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46d77GHSng1GdUUKGO6foK_38.343386_-81.622576@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431981,
+    "wof:geomhash":"7aec8a47db2aeac07f4c464b970a9c52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85850023,
+            "region_id":85688589,
+            "venue_id":823388227
+        }
+    ],
+    "wof:id":823388227,
+    "wof:lastmodified":1463431981,
+    "wof:name":"GP Services Inc",
+    "wof:parent_id":85850023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.622576,
+    38.343386,
+    -81.622576,
+    38.343386
+],
+  "geometry": {"coordinates":[-81.622576,38.343386],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823441021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.302531,37.791265,-80.302531,37.791265",
+    "geom:latitude":37.791265,
+    "geom:longitude":-80.302531,
+    "iso:country":"US",
+    "sg:address":"118 W Main St",
+    "sg:city":"White Sulphur Springs",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 536 1193",
+    "sg:postcode":"24986",
+    "sg:province":"WV",
+    "sg:tags":[
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EQ9JKAShFklH1zrCiZxDS_37.791265_-80.302531@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434408,
+    "wof:geomhash":"19d9f8d72e7fcb2863aebe508b2dcd50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823441021
+        }
+    ],
+    "wof:id":823441021,
+    "wof:lastmodified":1463434408,
+    "wof:name":"Greenbrier Valley Limosne Svc",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [
+    -80.302531,
+    37.791265,
+    -80.302531,
+    37.791265
+],
+  "geometry": {"coordinates":[-80.302531,37.791265],"type":"Point"}
+}

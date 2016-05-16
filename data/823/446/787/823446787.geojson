@@ -1,0 +1,73 @@
+{
+  "id": 823446787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.594163,38.32072,-81.594163,38.32072",
+    "geom:latitude":38.32072,
+    "geom:longitude":-81.594163,
+    "iso:country":"US",
+    "sg:address":"700 Chappell Rd SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 4151",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "day",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KpQU2Q4lWrflj85j2cxPf_38.320720_-81.594163@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434683,
+    "wof:geomhash":"1138a2b6b0188949864c8d09b655a306",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823446787
+        }
+    ],
+    "wof:id":823446787,
+    "wof:lastmodified":1463434683,
+    "wof:name":"Church Of The Good Shepherd",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day",
+        "church"
+    ]
+},
+  "bbox": [
+    -81.594163,
+    38.32072,
+    -81.594163,
+    38.32072
+],
+  "geometry": {"coordinates":[-81.59416299999999,38.32072],"type":"Point"}
+}

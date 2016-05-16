@@ -1,0 +1,71 @@
+{
+  "id": 823405243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.368533,39.265161,-80.368533,39.265161",
+    "geom:latitude":39.265161,
+    "geom:longitude":-80.368533,
+    "iso:country":"US",
+    "sg:address":"1100 Oakmound Dr",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 623 9333",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85810773,
+        102082619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5at66lbIqMP1FJmB1kD9D1_39.265161_-80.368533@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432821,
+    "wof:geomhash":"f365408cdf6ff567920b470531a25d99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "neighbourhood_id":85810773,
+            "region_id":85688589,
+            "venue_id":823405243
+        }
+    ],
+    "wof:id":823405243,
+    "wof:lastmodified":1463432821,
+    "wof:name":"Oak Mound Apartments",
+    "wof:parent_id":85810773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -80.368533,
+    39.265161,
+    -80.368533,
+    39.265161
+],
+  "geometry": {"coordinates":[-80.368533,39.265161],"type":"Point"}
+}

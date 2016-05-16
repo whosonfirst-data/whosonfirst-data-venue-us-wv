@@ -1,0 +1,73 @@
+{
+  "id": 823398491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.68259,38.361792,-81.68259,38.361792",
+    "geom:latitude":38.361792,
+    "geom:longitude":-81.68259,
+    "iso:country":"US",
+    "sg:address":"329 Tremont St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 3225",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ABj5sKncxmlirCAjpnJax_38.361792_-81.682590@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432510,
+    "wof:geomhash":"7d382272c5187d2315ee7f51285e7983",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823398491
+        }
+    ],
+    "wof:id":823398491,
+    "wof:lastmodified":1463432510,
+    "wof:name":"Larch Properties LLC",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -81.68259,
+    38.361792,
+    -81.68259,
+    38.361792
+],
+  "geometry": {"coordinates":[-81.68259,38.361792],"type":"Point"}
+}

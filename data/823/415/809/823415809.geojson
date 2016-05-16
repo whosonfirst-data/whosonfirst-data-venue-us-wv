@@ -1,0 +1,66 @@
+{
+  "id": 823415809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.48915,38.429742,-81.48915,38.429742",
+    "geom:latitude":38.429742,
+    "geom:longitude":-81.48915,
+    "iso:country":"US",
+    "sg:address":"5062 Elk River Rd S",
+    "sg:city":"Elkview",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 000 1111",
+    "sg:postcode":"25071",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4y22P1LDYrjoQc6guLD7H5_38.429742_-81.489150@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433273,
+    "wof:geomhash":"702d357d5b8694d8b84dbbc1ff8251f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823415809
+        }
+    ],
+    "wof:id":823415809,
+    "wof:lastmodified":1463433273,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.48915,
+    38.429742,
+    -81.48915,
+    38.429742
+],
+  "geometry": {"coordinates":[-81.48915,38.429742],"type":"Point"}
+}

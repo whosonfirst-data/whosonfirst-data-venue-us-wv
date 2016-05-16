@@ -1,0 +1,71 @@
+{
+  "id": 823430363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.314564,38.399704,-82.314564,38.399704",
+    "geom:latitude":38.399704,
+    "geom:longitude":-82.314564,
+    "iso:country":"US",
+    "sg:address":"269 Bartow Dr",
+    "sg:city":"Barboursville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 736 4664",
+    "sg:postcode":"25504",
+    "sg:province":"WV",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85865435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ENJiHXHUstwMsHrTRp4KR_38.399704_-82.314564@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433896,
+    "wof:geomhash":"56879475f3a0d23c6ee21efe2f580397",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85865435,
+            "region_id":85688589,
+            "venue_id":823430363
+        }
+    ],
+    "wof:id":823430363,
+    "wof:lastmodified":1463433896,
+    "wof:name":"Handy Helper",
+    "wof:parent_id":85865435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -82.314564,
+    38.399704,
+    -82.314564,
+    38.399704
+],
+  "geometry": {"coordinates":[-82.314564,38.399704],"type":"Point"}
+}

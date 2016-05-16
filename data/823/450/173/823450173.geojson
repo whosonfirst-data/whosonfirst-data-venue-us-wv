@@ -1,0 +1,77 @@
+{
+  "id": 823450173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.915368,39.613039,-79.915368,39.613039",
+    "geom:latitude":39.613039,
+    "geom:longitude":-79.915368,
+    "iso:country":"US",
+    "sg:address":"2042 6th Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 3044",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732105,
+        102082587,
+        85807831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UlHIlTvEq8nKdq9Z9LdYe_39.613039_-79.915368@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434823,
+    "wof:geomhash":"c0d168c893cd2cf28590621b3308e56b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101732105,
+            "neighbourhood_id":85807831,
+            "region_id":85688589,
+            "venue_id":823450173
+        }
+    ],
+    "wof:id":823450173,
+    "wof:lastmodified":1463434823,
+    "wof:name":"S & L Electric Inc",
+    "wof:parent_id":85807831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -79.915368,
+    39.613039,
+    -79.915368,
+    39.613039
+],
+  "geometry": {"coordinates":[-79.915368,39.613039],"type":"Point"}
+}

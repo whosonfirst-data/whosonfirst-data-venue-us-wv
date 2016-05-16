@@ -1,0 +1,76 @@
+{
+  "id": 823434123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.625358,38.350231,-81.625358,38.350231",
+    "geom:latitude":38.350231,
+    "geom:longitude":-81.625358,
+    "iso:country":"US",
+    "sg:address":"1124 Smith St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 558 3386",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "state",
+        "inspection"
+    ],
+    "sg:website":"www.wvinsurance.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wjkuMWX0zrATs0aP0IS8d_38.350231_-81.625358@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434071,
+    "wof:geomhash":"c0fb23d677a3d8bf1aeba30539fd5695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823434123
+        }
+    ],
+    "wof:id":823434123,
+    "wof:lastmodified":1463434071,
+    "wof:name":"Insurance Commission",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "inspection"
+    ]
+},
+  "bbox": [
+    -81.625358,
+    38.350231,
+    -81.625358,
+    38.350231
+],
+  "geometry": {"coordinates":[-81.62535800000001,38.350231],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 823369317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.56991,38.249074,-81.56991,38.249074",
+    "geom:latitude":38.249074,
+    "geom:longitude":-81.56991,
+    "iso:country":"US",
+    "sg:address":"8709 Maccorkle Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 4151",
+    "sg:postcode":"25315",
+    "sg:province":"WV",
+    "sg:tags":[
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5L8sMmVgj8dlkXnzcNxgwh_38.249074_-81.569910@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431145,
+    "wof:geomhash":"4ddf75b50ccd83714b03351db171835a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823369317
+        }
+    ],
+    "wof:id":823369317,
+    "wof:lastmodified":1463431145,
+    "wof:name":"Ace Hardware",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine"
+    ]
+},
+  "bbox": [
+    -81.56991,
+    38.249074,
+    -81.56991,
+    38.249074
+],
+  "geometry": {"coordinates":[-81.56990999999999,38.249074],"type":"Point"}
+}

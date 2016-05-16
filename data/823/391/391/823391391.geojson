@@ -1,0 +1,73 @@
+{
+  "id": 823391391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.724841,38.353701,-81.724841,38.353701",
+    "geom:latitude":38.353701,
+    "geom:longitude":-81.724841,
+    "iso:country":"US",
+    "sg:address":"436 Division St",
+    "sg:city":"South Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 766 8558",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fFKpfhAXMJBoC67m7iOA7_38.353701_-81.724841@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432138,
+    "wof:geomhash":"f6af7990f187c28e0acee38fdd125067",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823391391
+        }
+    ],
+    "wof:id":823391391,
+    "wof:lastmodified":1463432138,
+    "wof:name":"De WITT Gibson & Mc Kinney",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.724841,
+    38.353701,
+    -81.724841,
+    38.353701
+],
+  "geometry": {"coordinates":[-81.724841,38.353701],"type":"Point"}
+}

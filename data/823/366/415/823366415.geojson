@@ -1,0 +1,73 @@
+{
+  "id": 823366415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.296608,39.397763,-80.296608,39.397763",
+    "geom:latitude":39.397763,
+    "geom:longitude":-80.296608,
+    "iso:country":"US",
+    "sg:address":"800 Pike St",
+    "sg:city":"Shinnston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 592 2400",
+    "sg:postcode":"26431",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automobile",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85831189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72wbuupQ0xYs7eYtTxdNrJ_39.397763_-80.296608@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431035,
+    "wof:geomhash":"d8bdf9446f0ac629dd66a3aef310ceb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85831189,
+            "region_id":85688589,
+            "venue_id":823366415
+        }
+    ],
+    "wof:id":823366415,
+    "wof:lastmodified":1463431035,
+    "wof:name":"City Auto Sales",
+    "wof:parent_id":85831189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "used"
+    ]
+},
+  "bbox": [
+    -80.296608,
+    39.397763,
+    -80.296608,
+    39.397763
+],
+  "geometry": {"coordinates":[-80.29660800000001,39.397763],"type":"Point"}
+}

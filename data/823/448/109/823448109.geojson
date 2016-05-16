@@ -1,0 +1,71 @@
+{
+  "id": 823448109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.757246,38.3715,-81.757246,38.3715",
+    "geom:latitude":38.3715,
+    "geom:longitude":-81.757246,
+    "iso:country":"US",
+    "sg:address":"131 Marshall Ave",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 769 0585",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZGb5Mrequtjc10QBhFcw9_38.371500_-81.757246@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434745,
+    "wof:geomhash":"316a4e45fae7c383e120453b3b2a1509",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823448109
+        }
+    ],
+    "wof:id":823448109,
+    "wof:lastmodified":1463434745,
+    "wof:name":"Central Transport Inc",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -81.757246,
+    38.3715,
+    -81.757246,
+    38.3715
+],
+  "geometry": {"coordinates":[-81.75724599999999,38.3715],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823396589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.52268,39.271703,-81.52268,39.271703",
+    "geom:latitude":39.271703,
+    "geom:longitude":-81.52268,
+    "iso:country":"US",
+    "sg:address":"872 Chestnut St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 422 0963",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85818775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5f5yHbyrX3Vk5GmoJZOhKt_39.271703_-81.522680@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432408,
+    "wof:geomhash":"442ef814a8de93c77c22d31f44a74e62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85818775,
+            "region_id":85688589,
+            "venue_id":823396589
+        }
+    ],
+    "wof:id":823396589,
+    "wof:lastmodified":1463432408,
+    "wof:name":"Dugan's Plumbing",
+    "wof:parent_id":85818775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.52268,
+    39.271703,
+    -81.52268,
+    39.271703
+],
+  "geometry": {"coordinates":[-81.52267999999999,39.271703],"type":"Point"}
+}

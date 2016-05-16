@@ -1,0 +1,71 @@
+{
+  "id": 823440001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.308317,39.385106,-80.308317,39.385106",
+    "geom:latitude":39.385106,
+    "geom:longitude":-80.308317,
+    "iso:country":"US",
+    "sg:address":"1 Columbia Rd",
+    "sg:city":"Shinnston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 592 1040",
+    "sg:postcode":"26431",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85831189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NlXj3AuE8MfHtZllMToBv_39.385106_-80.308317@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434364,
+    "wof:geomhash":"2e1f4bc608642ff5200ec025887b2d30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85831189,
+            "region_id":85688589,
+            "venue_id":823440001
+        }
+    ],
+    "wof:id":823440001,
+    "wof:lastmodified":1463434364,
+    "wof:name":"Shinnston Medical Ctr",
+    "wof:parent_id":85831189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -80.308317,
+    39.385106,
+    -80.308317,
+    39.385106
+],
+  "geometry": {"coordinates":[-80.308317,39.385106],"type":"Point"}
+}

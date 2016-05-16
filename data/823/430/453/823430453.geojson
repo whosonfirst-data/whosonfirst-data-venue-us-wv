@@ -1,0 +1,66 @@
+{
+  "id": 823430453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.585097,38.322354,-81.585097,38.322354",
+    "geom:latitude":38.322354,
+    "geom:longitude":-81.585097,
+    "iso:country":"US",
+    "sg:address":"4412 Venable Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 2131",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pcIvgJujce8Gmh9tRJSWM_38.322354_-81.585097@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433899,
+    "wof:geomhash":"b38f4b9ccc2d620a25e1fa8f76cfd1b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823430453
+        }
+    ],
+    "wof:id":823430453,
+    "wof:lastmodified":1463433899,
+    "wof:name":"Kanawha City Florist",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.585097,
+    38.322354,
+    -81.585097,
+    38.322354
+],
+  "geometry": {"coordinates":[-81.585097,38.322354],"type":"Point"}
+}

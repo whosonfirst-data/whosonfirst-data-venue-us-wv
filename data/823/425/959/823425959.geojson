@@ -1,0 +1,73 @@
+{
+  "id": 823425959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.588252,38.325307,-81.588252,38.325307",
+    "geom:latitude":38.325307,
+    "geom:longitude":-81.588252,
+    "iso:country":"US",
+    "sg:address":"4110 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 926 2609",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7W5heajZPz2FnVywywYv9F_38.325307_-81.588252@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433705,
+    "wof:geomhash":"282a7ef31d0e5ab169bef9d72e35333e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823425959
+        }
+    ],
+    "wof:id":823425959,
+    "wof:lastmodified":1463433705,
+    "wof:name":"Raymond James Financial Svc",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -81.588252,
+    38.325307,
+    -81.588252,
+    38.325307
+],
+  "geometry": {"coordinates":[-81.588252,38.325307],"type":"Point"}
+}

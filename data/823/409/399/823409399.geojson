@@ -1,0 +1,73 @@
+{
+  "id": 823409399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.088096,37.364826,-81.088096,37.364826",
+    "geom:latitude":37.364826,
+    "geom:longitude":-81.088096,
+    "iso:country":"US",
+    "sg:address":"120 Brick St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 5286",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_012WCmLh680viYQ7L4Jqn1_37.364826_-81.088096@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432999,
+    "wof:geomhash":"8be5f0f2f46991811dc5e767be49aeb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823409399
+        }
+    ],
+    "wof:id":823409399,
+    "wof:lastmodified":1463432999,
+    "wof:name":"Robo Auto Wash",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -81.088096,
+    37.364826,
+    -81.088096,
+    37.364826
+],
+  "geometry": {"coordinates":[-81.08809599999999,37.364826],"type":"Point"}
+}

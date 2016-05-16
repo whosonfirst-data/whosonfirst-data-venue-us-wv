@@ -1,0 +1,73 @@
+{
+  "id": 823385201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.134875,37.76192,-81.134875,37.76192",
+    "geom:latitude":37.76192,
+    "geom:longitude":-81.134875,
+    "iso:country":"US",
+    "sg:address":"35 Cherrywood Ter",
+    "sg:city":"Beaver",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 252 6270",
+    "sg:postcode":"25813",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EA1c9OKFWJ3h0O0L27BWT_37.761920_-81.134875@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431856,
+    "wof:geomhash":"d7e931da04684d7879cf497cfb64c261",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823385201
+        }
+    ],
+    "wof:id":823385201,
+    "wof:lastmodified":1463431856,
+    "wof:name":"Cherrywood Terrace Apts",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -81.134875,
+    37.76192,
+    -81.134875,
+    37.76192
+],
+  "geometry": {"coordinates":[-81.13487499999999,37.76192],"type":"Point"}
+}

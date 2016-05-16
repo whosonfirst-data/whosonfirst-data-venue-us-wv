@@ -1,0 +1,73 @@
+{
+  "id": 823410245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.290599,37.800053,-80.290599,37.800053",
+    "geom:latitude":37.800053,
+    "geom:longitude":-80.290599,
+    "iso:country":"US",
+    "sg:address":"901 E Main St",
+    "sg:city":"White Slphr Spgs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 536 3234",
+    "sg:postcode":"24986",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VBYHINDb9QvIgnyBQ7FQK_37.800053_-80.290599@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433038,
+    "wof:geomhash":"5e5e7e7beff61ee012adbe0d331ae995",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823410245
+        }
+    ],
+    "wof:id":823410245,
+    "wof:lastmodified":1463433038,
+    "wof:name":"Cals Small Engine & Shrpng Svc",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "engine"
+    ]
+},
+  "bbox": [
+    -80.290599,
+    37.800053,
+    -80.290599,
+    37.800053
+],
+  "geometry": {"coordinates":[-80.290599,37.800053],"type":"Point"}
+}

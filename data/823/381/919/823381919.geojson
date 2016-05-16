@@ -1,0 +1,71 @@
+{
+  "id": 823381919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.002243,39.34644,-80.002243,39.34644",
+    "geom:latitude":39.34644,
+    "geom:longitude":-80.002243,
+    "iso:country":"US",
+    "sg:address":"117 Blueville Dr",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 265 6552",
+    "sg:postcode":"26354",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731717,
+        102083351,
+        85849697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24QoSeAyn6BYZLmEfDnDt1_39.346440_-80.002243@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431734,
+    "wof:geomhash":"f5f2c3f16eea2211f6b5b47b3ab5e364",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083351,
+            "locality_id":101731717,
+            "neighbourhood_id":85849697,
+            "region_id":85688589,
+            "venue_id":823381919
+        }
+    ],
+    "wof:id":823381919,
+    "wof:lastmodified":1463431734,
+    "wof:name":"DDC Contractors",
+    "wof:parent_id":85849697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.002243,
+    39.34644,
+    -80.002243,
+    39.34644
+],
+  "geometry": {"coordinates":[-80.00224300000001,39.34644],"type":"Point"}
+}

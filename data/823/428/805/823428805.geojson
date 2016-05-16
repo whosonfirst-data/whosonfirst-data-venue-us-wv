@@ -1,0 +1,71 @@
+{
+  "id": 823428805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.550226,38.299813,-81.550226,38.299813",
+    "geom:latitude":38.299813,
+    "geom:longitude":-81.550226,
+    "iso:country":"US",
+    "sg:address":"575 Nichols Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 0539",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0irR5aNl2eFDmdCWSmZoYD_38.299813_-81.550226@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433830,
+    "wof:geomhash":"5e11f07e79de53f899f1e183d6b569be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823428805
+        }
+    ],
+    "wof:id":823428805,
+    "wof:lastmodified":1463433830,
+    "wof:name":"Marys Beauty Salon",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.550226,
+    38.299813,
+    -81.550226,
+    38.299813
+],
+  "geometry": {"coordinates":[-81.55022599999999,38.299813],"type":"Point"}
+}

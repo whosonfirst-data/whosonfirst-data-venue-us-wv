@@ -1,0 +1,74 @@
+{
+  "id": 823453743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.968741,39.651125,-79.968741,39.651125",
+    "geom:latitude":39.651125,
+    "geom:longitude":-79.968741,
+    "iso:country":"US",
+    "sg:address":"357 Patteson Dr",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/central/102973-panera-bread/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 598 3901",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EcyYkwnpzwJR8y7RgKGKk_39.651125_-79.968741@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434959,
+    "wof:geomhash":"1506f40ba75e451a09fb05b883ecfe34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823453743
+        }
+    ],
+    "wof:id":823453743,
+    "wof:lastmodified":1463434959,
+    "wof:name":"Panera Bread",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -79.968741,
+    39.651125,
+    -79.968741,
+    39.651125
+],
+  "geometry": {"coordinates":[-79.96874099999999,39.651125],"type":"Point"}
+}

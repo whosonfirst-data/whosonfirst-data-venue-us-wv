@@ -1,0 +1,71 @@
+{
+  "id": 823442105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.333271,39.27677,-80.333271,39.27677",
+    "geom:latitude":39.27677,
+    "geom:longitude":-80.333271,
+    "iso:country":"US",
+    "sg:address":"201 Virginia Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 9521",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OvmtxP1gY6xXhdA93Pozx_39.276770_-80.333271@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434455,
+    "wof:geomhash":"601253618ddf400eff59148a927ef1c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823442105
+        }
+    ],
+    "wof:id":823442105,
+    "wof:lastmodified":1463434455,
+    "wof:name":"Noah's Ark Of Learning",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -80.333271,
+    39.27677,
+    -80.333271,
+    39.27677
+],
+  "geometry": {"coordinates":[-80.333271,39.27677],"type":"Point"}
+}

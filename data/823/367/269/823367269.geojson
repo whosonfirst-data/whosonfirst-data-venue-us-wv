@@ -1,0 +1,73 @@
+{
+  "id": 823367269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.931432,38.450533,-81.931432,38.450533",
+    "geom:latitude":38.450533,
+    "geom:longitude":-81.931432,
+    "iso:country":"US",
+    "sg:address":"4040 Teays Valley Rd",
+    "sg:city":"Scott Depot",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 757 6625",
+    "sg:postcode":"25560",
+    "sg:province":"WV",
+    "sg:tags":[
+        "carrier",
+        "government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731829,
+        102083381,
+        85868321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vUVIF8M1FgI1Ivybc0aYM_38.450533_-81.931432@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431067,
+    "wof:geomhash":"9a22f2b353b9af6ede1dbcd4d9fc7e82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731829,
+            "neighbourhood_id":85868321,
+            "region_id":85688589,
+            "venue_id":823367269
+        }
+    ],
+    "wof:id":823367269,
+    "wof:lastmodified":1463431067,
+    "wof:name":"Federal Deposit Insurance Corp",
+    "wof:parent_id":85868321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier",
+        "government"
+    ]
+},
+  "bbox": [
+    -81.931432,
+    38.450533,
+    -81.931432,
+    38.450533
+],
+  "geometry": {"coordinates":[-81.931432,38.450533],"type":"Point"}
+}

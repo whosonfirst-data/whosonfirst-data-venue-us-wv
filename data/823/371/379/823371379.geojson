@@ -1,0 +1,66 @@
+{
+  "id": 823371379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.600345,38.32845,-81.600345,38.32845",
+    "geom:latitude":38.32845,
+    "geom:longitude":-81.600345,
+    "iso:country":"US",
+    "sg:address":"3332 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 1427",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pOTN5gVIFFMa9uBz2vVnJ_38.328450_-81.600345@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431248,
+    "wof:geomhash":"3e548a27828b37f4f0dc4be0ffed73b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823371379
+        }
+    ],
+    "wof:id":823371379,
+    "wof:lastmodified":1463431248,
+    "wof:name":"Chesapeake Bagel Bakery",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.600345,
+    38.32845,
+    -81.600345,
+    38.32845
+],
+  "geometry": {"coordinates":[-81.600345,38.32845],"type":"Point"}
+}

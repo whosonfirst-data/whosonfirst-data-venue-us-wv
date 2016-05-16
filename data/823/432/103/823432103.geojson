@@ -1,0 +1,75 @@
+{
+  "id": 823432103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.22359,37.791531,-81.22359,37.791531",
+    "geom:latitude":37.791531,
+    "geom:longitude":-81.22359,
+    "iso:country":"US",
+    "sg:address":"254 George St",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 255 0620",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wrygvLudUhFSSUuk9ixKU_37.791531_-81.223590@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433971,
+    "wof:geomhash":"5ea06ad8adbef68ab348c5d1ab8b39e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823432103
+        }
+    ],
+    "wof:id":823432103,
+    "wof:lastmodified":1463433971,
+    "wof:name":"Mountain State Home Hlth Care",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -81.22359,
+    37.791531,
+    -81.22359,
+    37.791531
+],
+  "geometry": {"coordinates":[-81.22359,37.791531],"type":"Point"}
+}

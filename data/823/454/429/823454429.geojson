@@ -1,0 +1,85 @@
+{
+  "id": 823454429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.632174,38.351465,-81.632174,38.351465",
+    "geom:latitude":38.351465,
+    "geom:longitude":-81.632174,
+    "iso:country":"US",
+    "sg:address":"405 Capitol St Suite 809",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 802 9043",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "hair",
+        "braiding",
+        "stylist",
+        "replacement"
+    ],
+    "sg:website":"http://national.citysearch.com/profile/external/11191762/charleston_wv/hair_club_for_men_and_women.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4S0EvjTeXmmmrQ7DPzwys2_38.351465_-81.632174@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435028,
+    "wof:geomhash":"fded1568ded6dbf608dfd2520898c9c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823454429
+        }
+    ],
+    "wof:id":823454429,
+    "wof:lastmodified":1463435028,
+    "wof:name":"Hair Club for Men and Women",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "braiding",
+        "stylist",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -81.632174,
+    38.351465,
+    -81.632174,
+    38.351465
+],
+  "geometry": {"coordinates":[-81.63217400000001,38.351465],"type":"Point"}
+}

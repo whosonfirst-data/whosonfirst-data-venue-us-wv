@@ -1,0 +1,71 @@
+{
+  "id": 823399613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.654676,38.365534,-81.654676,38.365534",
+    "geom:latitude":38.365534,
+    "geom:longitude":-81.654676,
+    "iso:country":"US",
+    "sg:address":"943 6th St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 344 0227",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "investigator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IRDPDkN5PAOIT1LSxcUOx_38.365534_-81.654676@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432570,
+    "wof:geomhash":"b93dd46e1a114b44e4a6028af52bd806",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823399613
+        }
+    ],
+    "wof:id":823399613,
+    "wof:lastmodified":1463432570,
+    "wof:name":"Fact Finders Inc",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investigator"
+    ]
+},
+  "bbox": [
+    -81.654676,
+    38.365534,
+    -81.654676,
+    38.365534
+],
+  "geometry": {"coordinates":[-81.65467599999999,38.365534],"type":"Point"}
+}

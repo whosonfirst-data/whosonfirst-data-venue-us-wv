@@ -1,0 +1,73 @@
+{
+  "id": 823385725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.89812,39.705064,-79.89812,39.705064",
+    "geom:latitude":39.705064,
+    "geom:longitude":-79.89812,
+    "iso:country":"US",
+    "sg:address":"2811 Stewartstown Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 598 2019",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "mfg",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731747,
+        102082587,
+        85819247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PIZ3jwzcVhXdTb4TVEoU2_39.705064_-79.898120@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431875,
+    "wof:geomhash":"1407bb78cbe997bf46e47dde300b6bed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85819247,
+            "region_id":85688589,
+            "venue_id":823385725
+        }
+    ],
+    "wof:id":823385725,
+    "wof:lastmodified":1463431875,
+    "wof:name":"Forks of Cheat Winery",
+    "wof:parent_id":85819247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "wine"
+    ]
+},
+  "bbox": [
+    -79.89812,
+    39.705064,
+    -79.89812,
+    39.705064
+],
+  "geometry": {"coordinates":[-79.89812000000001,39.705064],"type":"Point"}
+}

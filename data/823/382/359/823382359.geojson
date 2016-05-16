@@ -1,0 +1,75 @@
+{
+  "id": 823382359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.464545,39.051193,-80.464545,39.051193",
+    "geom:latitude":39.051193,
+    "geom:longitude":-80.464545,
+    "iso:country":"US",
+    "sg:address":"63 Blue St",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 269 3779",
+    "sg:postcode":"26452",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731403,
+        102083339,
+        85808257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5u5pFGNIH7duLdbpSEXIxU_39.051193_-80.464545@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431751,
+    "wof:geomhash":"f391c4fa040a34e041b02617e43f5d8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083339,
+            "locality_id":101731403,
+            "neighbourhood_id":85808257,
+            "region_id":85688589,
+            "venue_id":823382359
+        }
+    ],
+    "wof:id":823382359,
+    "wof:lastmodified":1463431751,
+    "wof:name":"King's Electric",
+    "wof:parent_id":85808257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.464545,
+    39.051193,
+    -80.464545,
+    39.051193
+],
+  "geometry": {"coordinates":[-80.464545,39.051193],"type":"Point"}
+}

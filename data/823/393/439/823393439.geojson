@@ -1,0 +1,76 @@
+{
+  "id": 823393439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.344653,38.491453,-81.344653,38.491453",
+    "geom:latitude":38.491453,
+    "geom:longitude":-81.344653,
+    "iso:country":"US",
+    "sg:address":"37 Elk River Rd N",
+    "sg:city":"Clendenin",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 548 4770",
+    "sg:postcode":"25045",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SJGD8JHm1ssTvHhwLgGAA_38.491453_-81.344653@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432250,
+    "wof:geomhash":"2c8358820fc99f3428d97027a428c55f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823393439
+        }
+    ],
+    "wof:id":823393439,
+    "wof:lastmodified":1463432250,
+    "wof:name":"Family Dollar Stores",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.344653,
+    38.491453,
+    -81.344653,
+    38.491453
+],
+  "geometry": {"coordinates":[-81.34465299999999,38.491453],"type":"Point"}
+}

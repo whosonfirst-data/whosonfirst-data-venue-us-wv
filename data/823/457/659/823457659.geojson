@@ -1,0 +1,82 @@
+{
+  "id": 823457659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.855891,39.672656,-79.855891,39.672656",
+    "geom:latitude":39.672656,
+    "geom:longitude":-79.855891,
+    "iso:country":"US",
+    "sg:address":"503 Ashebrooke Sq",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 594 1040",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "pizza",
+        "caterer",
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732105,
+        102082587,
+        85807831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TcKqgNO8VBAkFSWamGuQH_39.672656_-79.855891@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435175,
+    "wof:geomhash":"716b6b8ef9f08f2224752bed7bd0b9d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101732105,
+            "neighbourhood_id":85807831,
+            "region_id":85688589,
+            "venue_id":823457659
+        }
+    ],
+    "wof:id":823457659,
+    "wof:lastmodified":1463435175,
+    "wof:name":"Pizza N Pasta",
+    "wof:parent_id":85807831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza",
+        "caterer",
+        "italian"
+    ]
+},
+  "bbox": [
+    -79.855891,
+    39.672656,
+    -79.855891,
+    39.672656
+],
+  "geometry": {"coordinates":[-79.855891,39.672656],"type":"Point"}
+}

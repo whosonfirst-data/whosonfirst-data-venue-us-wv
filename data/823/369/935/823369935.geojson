@@ -1,0 +1,73 @@
+{
+  "id": 823369935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.281036,39.279526,-80.281036,39.279526",
+    "geom:latitude":39.279526,
+    "geom:longitude":-80.281036,
+    "iso:country":"US",
+    "sg:address":"544 Emily Dr",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 622 5565",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "bookstore",
+        "religious"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DyiEVR2PQZ6v4irzkNb4c_39.279526_-80.281036@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431166,
+    "wof:geomhash":"ba58a2cd4080543691d7dd5da28a31a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823369935
+        }
+    ],
+    "wof:id":823369935,
+    "wof:lastmodified":1463431166,
+    "wof:name":"Tolleys Bible & Bookstore",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookstore",
+        "religious"
+    ]
+},
+  "bbox": [
+    -80.281036,
+    39.279526,
+    -80.281036,
+    39.279526
+],
+  "geometry": {"coordinates":[-80.281036,39.279526],"type":"Point"}
+}

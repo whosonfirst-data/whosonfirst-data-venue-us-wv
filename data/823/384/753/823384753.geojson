@@ -1,0 +1,71 @@
+{
+  "id": 823384753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.514425,38.211256,-81.514425,38.211256",
+    "geom:latitude":38.211256,
+    "geom:longitude":-81.514425,
+    "iso:country":"US",
+    "sg:address":"200 Ferry St",
+    "sg:city":"Belle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 1823",
+    "sg:postcode":"25015",
+    "sg:province":"WV",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZU4R9flrGHmZ9PLXnsGyo_38.211256_-81.514425@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431841,
+    "wof:geomhash":"c41f8036e48b9246ef8236a462f5f3b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823384753
+        }
+    ],
+    "wof:id":823384753,
+    "wof:lastmodified":1463431841,
+    "wof:name":"Midland Trail Elem School",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -81.514425,
+    38.211256,
+    -81.514425,
+    38.211256
+],
+  "geometry": {"coordinates":[-81.514425,38.211256],"type":"Point"}
+}

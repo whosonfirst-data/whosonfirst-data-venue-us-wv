@@ -1,0 +1,71 @@
+{
+  "id": 823455265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.976355,39.381616,-77.976355,39.381616",
+    "geom:latitude":39.381616,
+    "geom:longitude":-77.976355,
+    "iso:country":"US",
+    "sg:address":"938 All American Way",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 262 0266",
+    "sg:postcode":"25405",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IPyCli5vLgVM8XUk4ghpf_39.381616_-77.976355@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435068,
+    "wof:geomhash":"7b2793ba85a111d8ef85b26a57f545c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823455265
+        }
+    ],
+    "wof:id":823455265,
+    "wof:lastmodified":1463435068,
+    "wof:name":"D & P Builders",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -77.976355,
+    39.381616,
+    -77.976355,
+    39.381616
+],
+  "geometry": {"coordinates":[-77.976355,39.381616],"type":"Point"}
+}

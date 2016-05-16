@@ -1,0 +1,71 @@
+{
+  "id": 823449331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.015887,37.422009,-81.015887,37.422009",
+    "geom:latitude":37.422009,
+    "geom:longitude":-81.015887,
+    "iso:country":"US",
+    "sg:address":"202 S State St",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 384 3525",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2L9sdz0ZWaaH0AnHxiPu8Z_37.422009_-81.015887@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434793,
+    "wof:geomhash":"c76ea8dd8482c654c8fa0080d57cd1c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823449331
+        }
+    ],
+    "wof:id":823449331,
+    "wof:lastmodified":1463434793,
+    "wof:name":"Athens Town Municipal Bldg",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -81.015887,
+    37.422009,
+    -81.015887,
+    37.422009
+],
+  "geometry": {"coordinates":[-81.01588700000001,37.422009],"type":"Point"}
+}

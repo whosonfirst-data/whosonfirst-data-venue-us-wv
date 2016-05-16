@@ -1,0 +1,71 @@
+{
+  "id": 823426167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.35901,38.506544,-81.35901,38.506544",
+    "geom:latitude":38.506544,
+    "geom:longitude":-81.35901,
+    "iso:country":"US",
+    "sg:address":"281 Spencer Rd",
+    "sg:city":"Clendenin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 548 4522",
+    "sg:postcode":"25045",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hGD9h8G05wrW4SYZvm55a_38.506544_-81.359010@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433714,
+    "wof:geomhash":"261cfe6277057204f949f6f3e8b66410",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823426167
+        }
+    ],
+    "wof:id":823426167,
+    "wof:lastmodified":1463433714,
+    "wof:name":"Ray C Strickland",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.35901,
+    38.506544,
+    -81.35901,
+    38.506544
+],
+  "geometry": {"coordinates":[-81.35901,38.506544],"type":"Point"}
+}

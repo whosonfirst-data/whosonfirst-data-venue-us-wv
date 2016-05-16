@@ -1,0 +1,73 @@
+{
+  "id": 823399089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.642308,38.363159,-81.642308,38.363159",
+    "geom:latitude":38.363159,
+    "geom:longitude":-81.642308,
+    "iso:country":"US",
+    "sg:address":"425 Washington St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 6001",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "prescription",
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UOJSqkXyv1xOQmKBG0lfw_38.363159_-81.642308@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432536,
+    "wof:geomhash":"204ca2a27a3a13fc084de87c3e5d838e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823399089
+        }
+    ],
+    "wof:id":823399089,
+    "wof:lastmodified":1463432536,
+    "wof:name":"Drbytel LLC",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "prescription",
+        "internet"
+    ]
+},
+  "bbox": [
+    -81.642308,
+    38.363159,
+    -81.642308,
+    38.363159
+],
+  "geometry": {"coordinates":[-81.642308,38.363159],"type":"Point"}
+}

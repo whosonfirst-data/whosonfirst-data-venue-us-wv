@@ -1,0 +1,75 @@
+{
+  "id": 823434961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.541078,39.227398,-81.541078,39.227398",
+    "geom:latitude":39.227398,
+    "geom:longitude":-81.541078,
+    "iso:country":"US",
+    "sg:address":"2838 Pike St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 489 3157",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "equipment",
+        "electronic",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iJAROf0x4pD96mzKLkpze_39.227398_-81.541078@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434123,
+    "wof:geomhash":"90a49a35835fd02df99b8106fa120bcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823434961
+        }
+    ],
+    "wof:id":823434961,
+    "wof:lastmodified":1463434123,
+    "wof:name":"Electronic Boutique",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electronic",
+        "supply"
+    ]
+},
+  "bbox": [
+    -81.541078,
+    39.227398,
+    -81.541078,
+    39.227398
+],
+  "geometry": {"coordinates":[-81.541078,39.227398],"type":"Point"}
+}

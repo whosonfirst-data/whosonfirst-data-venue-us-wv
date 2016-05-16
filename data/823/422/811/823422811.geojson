@@ -1,0 +1,71 @@
+{
+  "id": 823422811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.342133,39.279874,-80.342133,39.279874",
+    "geom:latitude":39.279874,
+    "geom:longitude":-80.342133,
+    "iso:country":"US",
+    "sg:address":"445 W Main St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 623 8000",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WXmGtzALLZHASPlGpLY9G_39.279874_-80.342133@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433570,
+    "wof:geomhash":"726208ab521b48bdadc051f8311b5102",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823422811
+        }
+    ],
+    "wof:id":823422811,
+    "wof:lastmodified":1463433570,
+    "wof:name":"Dominion Transmission Inc",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -80.342133,
+    39.279874,
+    -80.342133,
+    39.279874
+],
+  "geometry": {"coordinates":[-80.342133,39.279874],"type":"Point"}
+}

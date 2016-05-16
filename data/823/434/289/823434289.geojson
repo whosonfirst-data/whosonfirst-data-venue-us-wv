@@ -1,0 +1,77 @@
+{
+  "id": 823434289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.277408,39.280995,-80.277408,39.280995",
+    "geom:latitude":39.280995,
+    "geom:longitude":-80.277408,
+    "iso:country":"US",
+    "sg:address":"1198 W Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 9675",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PmS9O8S1qmQO9zIzW9q2Y_39.280995_-80.277408@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434086,
+    "wof:geomhash":"d4783fec5ba0e25ac058625d5f7a5256",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823434289
+        }
+    ],
+    "wof:id":823434289,
+    "wof:lastmodified":1463434086,
+    "wof:name":"Video World Inc",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -80.277408,
+    39.280995,
+    -80.277408,
+    39.280995
+],
+  "geometry": {"coordinates":[-80.27740799999999,39.280995],"type":"Point"}
+}

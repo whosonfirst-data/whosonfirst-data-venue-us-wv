@@ -1,0 +1,68 @@
+{
+  "id": 823430771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.18504,37.800913,-81.18504,37.800913",
+    "geom:latitude":37.800913,
+    "geom:longitude":-81.18504,
+    "iso:country":"US",
+    "sg:address":"3933 Robert C Byrd Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 253 0016",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Dkbc4TyTApFBLVsDaYC3x_37.800913_-81.185040@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433910,
+    "wof:geomhash":"b52c6d4fe931fec09eab0f59bade059a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823430771
+        }
+    ],
+    "wof:id":823430771,
+    "wof:lastmodified":1463433910,
+    "wof:name":"Fazoli's",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.18504,
+    37.800913,
+    -81.18504,
+    37.800913
+],
+  "geometry": {"coordinates":[-81.18504,37.800913],"type":"Point"}
+}

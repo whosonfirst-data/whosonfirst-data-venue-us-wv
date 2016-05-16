@@ -1,0 +1,71 @@
+{
+  "id": 823441361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.333361,38.179622,-81.333361,38.179622",
+    "geom:latitude":38.179622,
+    "geom:longitude":-81.333361,
+    "iso:country":"US",
+    "sg:address":"1028 1st Ave",
+    "sg:city":"Montgomery",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 442 5200",
+    "sg:postcode":"25136",
+    "sg:province":"WV",
+    "sg:tags":[
+        "broadcast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ipc3XHrqcAjgWYJ8H3HRk_38.179622_-81.333361@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434419,
+    "wof:geomhash":"07934596bd65f54ff54de2b92ba10c12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823441361
+        }
+    ],
+    "wof:id":823441361,
+    "wof:lastmodified":1463434419,
+    "wof:name":"Wzkm 93 3 FM Wmon 1340 AM",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcast"
+    ]
+},
+  "bbox": [
+    -81.333361,
+    38.179622,
+    -81.333361,
+    38.179622
+],
+  "geometry": {"coordinates":[-81.333361,38.179622],"type":"Point"}
+}

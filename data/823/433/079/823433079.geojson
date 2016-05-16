@@ -1,0 +1,80 @@
+{
+  "id": 823433079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.862222,38.523598,-81.862222,38.523598",
+    "geom:latitude":38.523598,
+    "geom:longitude":-81.862222,
+    "iso:country":"US",
+    "sg:address":"2185 Winfield Rd",
+    "sg:city":"Winfield",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 755 3713",
+    "sg:postcode":"25213",
+    "sg:province":"WV",
+    "sg:tags":[
+        "lumber",
+        "dwelling",
+        "family",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868323,
+        102083381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ccgue6cgUR16w4pn7F7JY_38.523598_-81.862222@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434021,
+    "wof:geomhash":"8ffe7d9357219ef4b84685211128093f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "neighbourhood_id":85868323,
+            "region_id":85688589,
+            "venue_id":823433079
+        }
+    ],
+    "wof:id":823433079,
+    "wof:lastmodified":1463434021,
+    "wof:name":"Leslie Lumber Company",
+    "wof:parent_id":85868323,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lumber",
+        "dwelling",
+        "family",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.862222,
+    38.523598,
+    -81.862222,
+    38.523598
+],
+  "geometry": {"coordinates":[-81.862222,38.523598],"type":"Point"}
+}

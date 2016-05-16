@@ -1,0 +1,71 @@
+{
+  "id": 823400459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.601448,40.61872,-80.601448,40.61872",
+    "geom:latitude":40.61872,
+    "geom:longitude":-80.601448,
+    "iso:country":"US",
+    "sg:address":"444 Washington St",
+    "sg:city":"Newell",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 5078",
+    "sg:postcode":"26050",
+    "sg:province":"WV",
+    "sg:tags":[
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sPwSeGm23Y4L0gg69lppN_40.618720_-80.601448@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432605,
+    "wof:geomhash":"f971ebd9947a78e2bdd535a9558f713d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823400459
+        }
+    ],
+    "wof:id":823400459,
+    "wof:lastmodified":1463432605,
+    "wof:name":"Newell Corner Bargain Used",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furniture"
+    ]
+},
+  "bbox": [
+    -80.601448,
+    40.61872,
+    -80.601448,
+    40.61872
+],
+  "geometry": {"coordinates":[-80.601448,40.61872],"type":"Point"}
+}

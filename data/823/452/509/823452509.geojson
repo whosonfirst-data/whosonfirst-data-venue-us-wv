@@ -1,0 +1,78 @@
+{
+  "id": 823452509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.710738,38.322295,-81.710738,38.322295",
+    "geom:latitude":38.322295,
+    "geom:longitude":-81.710738,
+    "iso:country":"US",
+    "sg:address":"2700 Mountaineer Blvd",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/davis-creek/139751-sicilias-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 720 1864",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23JGiqPhmOxNBBRvoYBGCw_38.322295_-81.710738@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434910,
+    "wof:geomhash":"3d900ed6f613f71927a33a5f040f88f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823452509
+        }
+    ],
+    "wof:id":823452509,
+    "wof:lastmodified":1463434910,
+    "wof:name":"Sicilia's Pizzeria",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -81.710738,
+    38.322295,
+    -81.710738,
+    38.322295
+],
+  "geometry": {"coordinates":[-81.71073800000001,38.322295],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823454473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.589309,38.325826,-81.589309,38.325826",
+    "geom:latitude":38.325826,
+    "geom:longitude":-81.589309,
+    "iso:country":"US",
+    "sg:address":"4114 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 1080",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "asian",
+        "pan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XnNE8Mqbxqc5ewmZ3Nnz6_38.325826_-81.589309@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435031,
+    "wof:geomhash":"363269d0e607b48bedfc22ae51ec24f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823454473
+        }
+    ],
+    "wof:id":823454473,
+    "wof:lastmodified":1463435031,
+    "wof:name":"Chin's Restaurant",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "pan"
+    ]
+},
+  "bbox": [
+    -81.589309,
+    38.325826,
+    -81.589309,
+    38.325826
+],
+  "geometry": {"coordinates":[-81.589309,38.325826],"type":"Point"}
+}

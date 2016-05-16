@@ -1,0 +1,73 @@
+{
+  "id": 823448437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.197547,37.769127,-81.197547,37.769127",
+    "geom:latitude":37.769127,
+    "geom:longitude":-81.197547,
+    "iso:country":"US",
+    "sg:address":"622 S Oakwood Ave",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 252 4087",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2n88pGGfw8q9AYHOhuaz7s_37.769127_-81.197547@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434757,
+    "wof:geomhash":"234c9897be63fcbbcad598bcc3924066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823448437
+        }
+    ],
+    "wof:id":823448437,
+    "wof:lastmodified":1463434757,
+    "wof:name":"St Francis De Sales School",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -81.197547,
+    37.769127,
+    -81.197547,
+    37.769127
+],
+  "geometry": {"coordinates":[-81.197547,37.769127],"type":"Point"}
+}

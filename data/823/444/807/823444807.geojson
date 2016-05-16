@@ -1,0 +1,75 @@
+{
+  "id": 823444807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.637242,38.349549,-81.637242,38.349549",
+    "geom:latitude":38.349549,
+    "geom:longitude":-81.637242,
+    "iso:country":"US",
+    "sg:address":"5 Summers St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 8561",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automobile",
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sgyZEsjOOlbHaJRreAhDB_38.349549_-81.637242@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434580,
+    "wof:geomhash":"9c6b238f8d7cf28b9ec984d8f6b35914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823444807
+        }
+    ],
+    "wof:id":823444807,
+    "wof:lastmodified":1463434580,
+    "wof:name":"Central Parking System",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "management"
+    ]
+},
+  "bbox": [
+    -81.637242,
+    38.349549,
+    -81.637242,
+    38.349549
+],
+  "geometry": {"coordinates":[-81.637242,38.349549],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823409443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.846828,38.925098,-79.846828,38.925098",
+    "geom:latitude":38.925098,
+    "geom:longitude":-79.846828,
+    "iso:country":"US",
+    "sg:address":"301 3rd St",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 7415",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ATGSAS0BogPPKcJhRvBha_38.925098_-79.846828@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433000,
+    "wof:geomhash":"6009c62f25e89605edcf3660c24f1348",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823409443
+        }
+    ],
+    "wof:id":823409443,
+    "wof:lastmodified":1463433000,
+    "wof:name":"Home Health Care Svc",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital"
+    ]
+},
+  "bbox": [
+    -79.846828,
+    38.925098,
+    -79.846828,
+    38.925098
+],
+  "geometry": {"coordinates":[-79.846828,38.925098],"type":"Point"}
+}

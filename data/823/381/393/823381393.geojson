@@ -1,0 +1,73 @@
+{
+  "id": 823381393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.613254,40.27006,-80.613254,40.27006",
+    "geom:latitude":40.27006,
+    "geom:longitude":-80.613254,
+    "iso:country":"US",
+    "sg:address":"61 7th St",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 0993",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "newspaper",
+        "publishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6i5ZLkwUStVreFT8juImQD_40.270060_-80.613254@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431709,
+    "wof:geomhash":"7a37d5530983a59287a3bbdbe76e147a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823381393
+        }
+    ],
+    "wof:id":823381393,
+    "wof:lastmodified":1463431709,
+    "wof:name":"Herald Star Newspaper",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper",
+        "publishing"
+    ]
+},
+  "bbox": [
+    -80.613254,
+    40.27006,
+    -80.613254,
+    40.27006
+],
+  "geometry": {"coordinates":[-80.613254,40.27006],"type":"Point"}
+}

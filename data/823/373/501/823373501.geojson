@@ -1,0 +1,75 @@
+{
+  "id": 823373501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.52317,38.381007,-81.52317,38.381007",
+    "geom:latitude":38.381007,
+    "geom:longitude":-81.52317,
+    "iso:country":"US",
+    "sg:address":"347 Mill Creek Rd",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 2100",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "bathtub",
+        "sink",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6U4d9N3EOINdoSPTsQ4HW1_38.381007_-81.523170@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431340,
+    "wof:geomhash":"3ab8417c2825f6b3ac5ba8af48ef60fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823373501
+        }
+    ],
+    "wof:id":823373501,
+    "wof:lastmodified":1463431340,
+    "wof:name":"Mill Creek Tub Repair",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bathtub",
+        "sink",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -81.52317,
+    38.381007,
+    -81.52317,
+    38.381007
+],
+  "geometry": {"coordinates":[-81.52316999999999,38.381007],"type":"Point"}
+}

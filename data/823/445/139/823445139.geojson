@@ -1,0 +1,71 @@
+{
+  "id": 823445139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.133897,37.99002,-81.133897,37.99002",
+    "geom:latitude":37.99002,
+    "geom:longitude":-81.133897,
+    "iso:country":"US",
+    "sg:address":"1517 Main St E",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 465 8952",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VY5QrinmdjjjXELUl9xnc_37.990020_-81.133897@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434600,
+    "wof:geomhash":"42cebb74752e7a7f4770507b6e9274eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823445139
+        }
+    ],
+    "wof:id":823445139,
+    "wof:lastmodified":1463434600,
+    "wof:name":"Davis Tires & Mufflers",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -81.133897,
+    37.99002,
+    -81.133897,
+    37.99002
+],
+  "geometry": {"coordinates":[-81.133897,37.99002],"type":"Point"}
+}

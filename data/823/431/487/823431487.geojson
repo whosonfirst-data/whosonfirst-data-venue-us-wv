@@ -1,0 +1,71 @@
+{
+  "id": 823431487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.25294,39.289493,-80.25294,39.289493",
+    "geom:latitude":39.289493,
+    "geom:longitude":-80.25294,
+    "iso:country":"US",
+    "sg:address":"10 Primrose Ln",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 623 1760",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Nz3oql1XZtHMnsDEG4rDu_39.289493_-80.252940@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433939,
+    "wof:geomhash":"1af6439c002feff10d9ff8305e9835fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823431487
+        }
+    ],
+    "wof:id":823431487,
+    "wof:lastmodified":1463433939,
+    "wof:name":"Quick Lube",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -80.25294,
+    39.289493,
+    -80.25294,
+    39.289493
+],
+  "geometry": {"coordinates":[-80.25294,39.289493],"type":"Point"}
+}

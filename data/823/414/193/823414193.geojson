@@ -1,0 +1,82 @@
+{
+  "id": 823414193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.574934,38.365237,-82.574934,38.365237",
+    "geom:latitude":38.365237,
+    "geom:longitude":-82.574934,
+    "iso:country":"US",
+    "sg:address":"1980 Rte 75",
+    "sg:city":"Kenova",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 5303",
+    "sg:postcode":"25530",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electronic",
+        "mfg",
+        "component",
+        "woodworker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731517,
+        102083365,
+        85806071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Z5XUXoQ5Oz13SWtXUpNJE_38.365237_-82.574934@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433189,
+    "wof:geomhash":"ff441d6cc210db35ca8a3c15a220e2bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731517,
+            "neighbourhood_id":85806071,
+            "region_id":85688589,
+            "venue_id":823414193
+        }
+    ],
+    "wof:id":823414193,
+    "wof:lastmodified":1463433189,
+    "wof:name":"Industrial Components LLC",
+    "wof:parent_id":85806071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electronic",
+        "mfg",
+        "component",
+        "woodworker"
+    ]
+},
+  "bbox": [
+    -82.574934,
+    38.365237,
+    -82.574934,
+    38.365237
+],
+  "geometry": {"coordinates":[-82.574934,38.365237],"type":"Point"}
+}

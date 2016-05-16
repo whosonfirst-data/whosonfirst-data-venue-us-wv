@@ -1,0 +1,75 @@
+{
+  "id": 823439095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.551158,39.307522,-81.551158,39.307522",
+    "geom:latitude":39.307522,
+    "geom:longitude":-81.551158,
+    "iso:country":"US",
+    "sg:address":"1109 9th St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 295 8227",
+    "sg:postcode":"26105",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731685,
+        102083343,
+        85819937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XTW81raVOJ7RhXup4ZXHd_39.307522_-81.551158@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434329,
+    "wof:geomhash":"cd635f2601930041dbc25165f84fdb7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731685,
+            "neighbourhood_id":85819937,
+            "region_id":85688589,
+            "venue_id":823439095
+        }
+    ],
+    "wof:id":823439095,
+    "wof:lastmodified":1463434329,
+    "wof:name":"Parkersburg Radiology Svc Inc",
+    "wof:parent_id":85819937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.551158,
+    39.307522,
+    -81.551158,
+    39.307522
+],
+  "geometry": {"coordinates":[-81.551158,39.307522],"type":"Point"}
+}

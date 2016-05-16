@@ -1,0 +1,71 @@
+{
+  "id": 823379551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.328099,38.415469,-82.328099,38.415469",
+    "geom:latitude":38.415469,
+    "geom:longitude":-82.328099,
+    "iso:country":"US",
+    "sg:address":"15 Woodridge Ct",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 525 8242",
+    "sg:postcode":"25705",
+    "sg:province":"WV",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85865435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RsR1QZeR5G7iryqI6nKFM_38.415469_-82.328099@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431621,
+    "wof:geomhash":"95e926c349d274d101ea4df267847b5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85865435,
+            "region_id":85688589,
+            "venue_id":823379551
+        }
+    ],
+    "wof:id":823379551,
+    "wof:lastmodified":1463431621,
+    "wof:name":"Larry Pyles",
+    "wof:parent_id":85865435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -82.328099,
+    38.415469,
+    -82.328099,
+    38.415469
+],
+  "geometry": {"coordinates":[-82.32809899999999,38.415469],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 823400581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.912259,38.523917,-81.912259,38.523917",
+    "geom:latitude":38.523917,
+    "geom:longitude":-81.912259,
+    "iso:country":"US",
+    "sg:address":"3753 Winfield Rd",
+    "sg:city":"Winfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 586 9441",
+    "sg:postcode":"25213",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868323,
+        102083381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qY4eGUwSgYJQjge5HDO1a_38.523917_-81.912259@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432609,
+    "wof:geomhash":"add6966c6d320b5d80aef0ac30ab8430",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "neighbourhood_id":85868323,
+            "region_id":85688589,
+            "venue_id":823400581
+        }
+    ],
+    "wof:id":823400581,
+    "wof:lastmodified":1463432609,
+    "wof:name":"ABODE Health Care Svc Inc",
+    "wof:parent_id":85868323,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -81.912259,
+    38.523917,
+    -81.912259,
+    38.523917
+],
+  "geometry": {"coordinates":[-81.91225900000001,38.523917],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 823435039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.579079,38.318895,-81.579079,38.318895",
+    "geom:latitude":38.318895,
+    "geom:longitude":-81.579079,
+    "iso:country":"US",
+    "sg:address":"4920 Venable Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 0762",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:website":"www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WlNSuT1RLAqI7SngNWwOI_38.318895_-81.579079@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434129,
+    "wof:geomhash":"41af38dcd3809c6aab08543e72d2112c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823435039
+        }
+    ],
+    "wof:id":823435039,
+    "wof:lastmodified":1463434129,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.579079,
+    38.318895,
+    -81.579079,
+    38.318895
+],
+  "geometry": {"coordinates":[-81.57907899999999,38.318895],"type":"Point"}
+}

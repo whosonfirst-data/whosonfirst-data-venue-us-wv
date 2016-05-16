@@ -1,0 +1,71 @@
+{
+  "id": 823399513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.585625,38.323693,-81.585625,38.323693",
+    "geom:latitude":38.323693,
+    "geom:longitude":-81.585625,
+    "iso:country":"US",
+    "sg:address":"4300 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 348 1971",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "high"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IuL3yGa472mVGJr4ayv47_38.323693_-81.585625@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432566,
+    "wof:geomhash":"f586261c890de63b068443c0fc0a671a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823399513
+        }
+    ],
+    "wof:id":823399513,
+    "wof:lastmodified":1463432566,
+    "wof:name":"Horace Mann Junior High School",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high"
+    ]
+},
+  "bbox": [
+    -81.585625,
+    38.323693,
+    -81.585625,
+    38.323693
+],
+  "geometry": {"coordinates":[-81.58562499999999,38.323693],"type":"Point"}
+}

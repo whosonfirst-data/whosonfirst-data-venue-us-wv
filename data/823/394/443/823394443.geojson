@@ -1,0 +1,73 @@
+{
+  "id": 823394443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.353799,38.803448,-81.353799,38.803448",
+    "geom:latitude":38.803448,
+    "geom:longitude":-81.353799,
+    "iso:country":"US",
+    "sg:address":"361 Main St",
+    "sg:city":"Spencer",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 927 4540",
+    "sg:postcode":"25276",
+    "sg:province":"WV",
+    "sg:tags":[
+        "station",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731535,
+        102083399,
+        85868331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Spwp7rsEa9ZYEUAPaqc1c_38.803448_-81.353799@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432305,
+    "wof:geomhash":"c88f782594d8fcb371149f2fb2d5a8cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083399,
+            "locality_id":101731535,
+            "neighbourhood_id":85868331,
+            "region_id":85688589,
+            "venue_id":823394443
+        }
+    ],
+    "wof:id":823394443,
+    "wof:lastmodified":1463432305,
+    "wof:name":"Go-Mart 5",
+    "wof:parent_id":85868331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gas"
+    ]
+},
+  "bbox": [
+    -81.353799,
+    38.803448,
+    -81.353799,
+    38.803448
+],
+  "geometry": {"coordinates":[-81.353799,38.803448],"type":"Point"}
+}

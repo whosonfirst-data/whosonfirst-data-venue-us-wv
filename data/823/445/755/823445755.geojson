@@ -1,0 +1,73 @@
+{
+  "id": 823445755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.062419,37.390217,-81.062419,37.390217",
+    "geom:latitude":37.390217,
+    "geom:longitude":-81.062419,
+    "iso:country":"US",
+    "sg:address":"1201 Old Athens Rd",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 4665",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lPPLt5TtLwQWXCtd8rYAS_37.390217_-81.062419@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434625,
+    "wof:geomhash":"999bdc0292241ed3f7b35d14ddd48498",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823445755
+        }
+    ],
+    "wof:id":823445755,
+    "wof:lastmodified":1463434625,
+    "wof:name":"Ball Construction Co",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.062419,
+    37.390217,
+    -81.062419,
+    37.390217
+],
+  "geometry": {"coordinates":[-81.06241900000001,37.390217],"type":"Point"}
+}

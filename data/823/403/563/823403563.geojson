@@ -1,0 +1,75 @@
+{
+  "id": 823403563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.963989,39.452219,-77.963989,39.452219",
+    "geom:latitude":39.452219,
+    "geom:longitude":-77.963989,
+    "iso:country":"US",
+    "sg:address":"507 S Spring St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 9681",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1v1q7DBolNPMAjwLRuX9QM_39.452219_-77.963989@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432734,
+    "wof:geomhash":"5215003582ed9843bd634c940b7443b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823403563
+        }
+    ],
+    "wof:id":823403563,
+    "wof:lastmodified":1463432734,
+    "wof:name":"Mikes Plumbing",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -77.963989,
+    39.452219,
+    -77.963989,
+    39.452219
+],
+  "geometry": {"coordinates":[-77.963989,39.452219],"type":"Point"}
+}

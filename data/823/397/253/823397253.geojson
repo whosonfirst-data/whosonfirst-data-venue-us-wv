@@ -1,0 +1,69 @@
+{
+  "id": 823397253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.585508,37.433309,-81.585508,37.433309",
+    "geom:latitude":37.433309,
+    "geom:longitude":-81.585508,
+    "iso:country":"US",
+    "sg:address":"84 Mc Dowell St",
+    "sg:city":"Welch",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 436 4640",
+    "sg:postcode":"24801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85809677,
+        102083405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xnix39A4vbbmjJRcg9d7C_37.433309_-81.585508@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432441,
+    "wof:geomhash":"dd3d1c62f0dc62635c466273b351ba60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083405,
+            "neighbourhood_id":85809677,
+            "region_id":85688589,
+            "venue_id":823397253
+        }
+    ],
+    "wof:id":823397253,
+    "wof:lastmodified":1463432441,
+    "wof:name":"Free Medication Clinic",
+    "wof:parent_id":85809677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -81.585508,
+    37.433309,
+    -81.585508,
+    37.433309
+],
+  "geometry": {"coordinates":[-81.585508,37.433309],"type":"Point"}
+}

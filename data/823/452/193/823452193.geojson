@@ -1,0 +1,73 @@
+{
+  "id": 823452193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.65815,40.03653,-80.65815,40.03653",
+    "geom:latitude":40.03653,
+    "geom:longitude":-80.65815,
+    "iso:country":"US",
+    "sg:address":"245 Kruger St",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 242 3143",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85840717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_795woAykLW2wVEFxl9oYQe_40.036843_-80.658055@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463434898,
+    "wof:geomhash":"8cf26633cd3f9159d7536e9fd82eeed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85840717,
+            "region_id":85688589,
+            "venue_id":823452193
+        }
+    ],
+    "wof:id":823452193,
+    "wof:lastmodified":1463434898,
+    "wof:name":"Market House Bar & Grill",
+    "wof:parent_id":85840717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -80.65815,
+    40.03653,
+    -80.65815,
+    40.03653
+],
+  "geometry": {"coordinates":[-80.65815000000001,40.03653],"type":"Point"}
+}

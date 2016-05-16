@@ -1,0 +1,71 @@
+{
+  "id": 823451403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.107912,37.367456,-81.107912,37.367456",
+    "geom:latitude":37.367456,
+    "geom:longitude":-81.107912,
+    "iso:country":"US",
+    "sg:address":"1914 W Main St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 6641",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bmPA4gMVQwerUefXytel6_37.367456_-81.107912@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434869,
+    "wof:geomhash":"ac5ee6d86407d4541d7286882005bca8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823451403
+        }
+    ],
+    "wof:id":823451403,
+    "wof:lastmodified":1463434869,
+    "wof:name":"Goodrich Surveying",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -81.107912,
+    37.367456,
+    -81.107912,
+    37.367456
+],
+  "geometry": {"coordinates":[-81.107912,37.367456],"type":"Point"}
+}

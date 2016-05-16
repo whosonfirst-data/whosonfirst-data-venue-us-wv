@@ -1,0 +1,74 @@
+{
+  "id": 823456829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.620529,40.387651,-80.620529,40.387651",
+    "geom:latitude":40.387651,
+    "geom:longitude":-80.620529,
+    "iso:country":"US",
+    "sg:address":"3036 Birch Dr",
+    "sg:city":"Weirton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 748 8200",
+    "sg:postcode":"26062",
+    "sg:province":"WV",
+    "sg:tags":[
+        "chemicals-wholesale",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.salchem.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731371,
+        102082633,
+        85832497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Zc9OIrfFevdTUgJSPyZu6_40.387651_-80.620529@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435126,
+    "wof:geomhash":"68a8097176ec5a3bf909db6cf736282f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731371,
+            "neighbourhood_id":85832497,
+            "region_id":85688589,
+            "venue_id":823456829
+        }
+    ],
+    "wof:id":823456829,
+    "wof:lastmodified":1463435126,
+    "wof:name":"Sal Chemical Co., Inc.",
+    "wof:parent_id":85832497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemicals-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -80.620529,
+    40.387651,
+    -80.620529,
+    40.387651
+],
+  "geometry": {"coordinates":[-80.620529,40.387651],"type":"Point"}
+}

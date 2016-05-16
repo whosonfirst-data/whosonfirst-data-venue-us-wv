@@ -1,0 +1,73 @@
+{
+  "id": 823415999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.920406,39.621729,-79.920406,39.621729",
+    "geom:latitude":39.621729,
+    "geom:longitude":-79.920406,
+    "iso:country":"US",
+    "sg:address":"401 Brooke Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 293 3911",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "university"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732105,
+        102082587,
+        85807831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KuIoKpCkQO4XWU2oCOkyL_39.621729_-79.920406@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433280,
+    "wof:geomhash":"5bdbd13ede21a479ded229637ce8c98a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101732105,
+            "neighbourhood_id":85807831,
+            "region_id":85688589,
+            "venue_id":823415999
+        }
+    ],
+    "wof:id":823415999,
+    "wof:lastmodified":1463433280,
+    "wof:name":"Extension Services Department",
+    "wof:parent_id":85807831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "university"
+    ]
+},
+  "bbox": [
+    -79.920406,
+    39.621729,
+    -79.920406,
+    39.621729
+],
+  "geometry": {"coordinates":[-79.920406,39.621729],"type":"Point"}
+}

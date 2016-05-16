@@ -1,0 +1,66 @@
+{
+  "id": 823402531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.391854,38.420866,-82.391854,38.420866",
+    "geom:latitude":38.420866,
+    "geom:longitude":-82.391854,
+    "iso:country":"US",
+    "sg:address":"1413 US Hwy 60",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 522 3110",
+    "sg:postcode":"25705",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083329,
+        85868301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03tSxdD2byEyRJZntVJVv4_38.420866_-82.391854@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432694,
+    "wof:geomhash":"a29b3eef25ee4f9fb66a8dc0959770b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731553,
+            "neighbourhood_id":85868301,
+            "region_id":85688589,
+            "venue_id":823402531
+        }
+    ],
+    "wof:id":823402531,
+    "wof:lastmodified":1463432694,
+    "wof:name":"One Stop Exxon",
+    "wof:parent_id":85868301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.391854,
+    38.420866,
+    -82.391854,
+    38.420866
+],
+  "geometry": {"coordinates":[-82.391854,38.420866],"type":"Point"}
+}

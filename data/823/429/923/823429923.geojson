@@ -1,0 +1,71 @@
+{
+  "id": 823429923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.569572,38.2485,-81.569572,38.2485",
+    "geom:latitude":38.2485,
+    "geom:longitude":-81.569572,
+    "iso:country":"US",
+    "sg:address":"8901 Maccorkle Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 5000",
+    "sg:postcode":"25315",
+    "sg:province":"WV",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gQGOCrj6f91xcX2Uy897K_38.248500_-81.569572@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433880,
+    "wof:geomhash":"558c5db21ab2efe6448200b7344c0edd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823429923
+        }
+    ],
+    "wof:id":823429923,
+    "wof:lastmodified":1463433880,
+    "wof:name":"Pawnmax",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -81.569572,
+    38.2485,
+    -81.569572,
+    38.2485
+],
+  "geometry": {"coordinates":[-81.56957199999999,38.2485],"type":"Point"}
+}

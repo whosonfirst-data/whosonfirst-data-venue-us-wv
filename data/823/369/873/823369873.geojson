@@ -1,0 +1,71 @@
+{
+  "id": 823369873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.601057,38.339718,-81.601057,38.339718",
+    "geom:latitude":38.339718,
+    "geom:longitude":-81.601057,
+    "iso:country":"US",
+    "sg:address":"102 Dee Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 7249",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "rehabilitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2B28J99fkGgetf4h2SJXGq_38.339718_-81.601057@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431164,
+    "wof:geomhash":"0b86c964edc31a187b32749095761f65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823369873
+        }
+    ],
+    "wof:id":823369873,
+    "wof:lastmodified":1463431164,
+    "wof:name":"General Rehabilitation Svc Inc",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -81.601057,
+    38.339718,
+    -81.601057,
+    38.339718
+],
+  "geometry": {"coordinates":[-81.601057,38.339718],"type":"Point"}
+}

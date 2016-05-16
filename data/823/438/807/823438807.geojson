@@ -1,0 +1,73 @@
+{
+  "id": 823438807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.934,39.02259,-79.934,39.02259",
+    "geom:latitude":39.02259,
+    "geom:longitude":-79.934,
+    "iso:country":"US",
+    "sg:address":"621 Beverly Pike",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 7000",
+    "sg:postcode":"26250",
+    "sg:province":"WV",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LSmycPnIIOh7WgH247jGh_39.022590_-79.934000@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434314,
+    "wof:geomhash":"3c5fa3e7c69d333d0886e82daa60f960",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823438807
+        }
+    ],
+    "wof:id":823438807,
+    "wof:lastmodified":1463434314,
+    "wof:name":"All American Auto Ctr",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -79.934,
+    39.02259,
+    -79.934,
+    39.02259
+],
+  "geometry": {"coordinates":[-79.934,39.02259],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823420965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.547268,40.278356,-80.547268,40.278356",
+    "geom:latitude":40.278356,
+    "geom:longitude":-80.547268,
+    "iso:country":"US",
+    "sg:address":"251 Fowler Hill Rd",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 0000",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "culvert"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DY4uC21q2a0Q6Da73IldU_40.278356_-80.547268@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433503,
+    "wof:geomhash":"025287052a21d0ef318aa364506a875c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823420965
+        }
+    ],
+    "wof:id":823420965,
+    "wof:lastmodified":1463433503,
+    "wof:name":"Morgan & Sons Inc",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "culvert"
+    ]
+},
+  "bbox": [
+    -80.547268,
+    40.278356,
+    -80.547268,
+    40.278356
+],
+  "geometry": {"coordinates":[-80.547268,40.278356],"type":"Point"}
+}

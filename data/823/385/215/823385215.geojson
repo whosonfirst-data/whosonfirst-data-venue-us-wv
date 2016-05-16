@@ -1,0 +1,71 @@
+{
+  "id": 823385215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.542352,39.24294,-81.542352,39.24294",
+    "geom:latitude":39.24294,
+    "geom:longitude":-81.542352,
+    "iso:country":"US",
+    "sg:address":"1302 Pike St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 485 3362",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uAlxcnZ76bQKedH0Oohnj_39.242940_-81.542352@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431857,
+    "wof:geomhash":"5801b70bc98d1b044887ef86a0765b81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823385215
+        }
+    ],
+    "wof:id":823385215,
+    "wof:lastmodified":1463431857,
+    "wof:name":"Elite Limousine Svc",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [
+    -81.542352,
+    39.24294,
+    -81.542352,
+    39.24294
+],
+  "geometry": {"coordinates":[-81.54235199999999,39.24294],"type":"Point"}
+}

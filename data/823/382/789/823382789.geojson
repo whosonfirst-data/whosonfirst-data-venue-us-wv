@@ -1,0 +1,73 @@
+{
+  "id": 823382789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.651113,38.367024,-81.651113,38.367024",
+    "geom:latitude":38.367024,
+    "geom:longitude":-81.651113,
+    "iso:country":"US",
+    "sg:address":"811 Washington St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 6451",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "station",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FO6eueKlCEAjHgV6c0OH1_38.367024_-81.651113@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431767,
+    "wof:geomhash":"59fd5a7177c326d926c0156e1116a0b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823382789
+        }
+    ],
+    "wof:id":823382789,
+    "wof:lastmodified":1463431767,
+    "wof:name":"Go-Mart 54",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gas"
+    ]
+},
+  "bbox": [
+    -81.651113,
+    38.367024,
+    -81.651113,
+    38.367024
+],
+  "geometry": {"coordinates":[-81.651113,38.367024],"type":"Point"}
+}

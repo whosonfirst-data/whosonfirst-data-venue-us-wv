@@ -1,0 +1,71 @@
+{
+  "id": 823403803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.331552,38.172104,-81.331552,38.172104",
+    "geom:latitude":38.172104,
+    "geom:longitude":-81.331552,
+    "iso:country":"US",
+    "sg:address":"225 Morris Dr",
+    "sg:city":"Montgomery",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 442 8322",
+    "sg:postcode":"25136",
+    "sg:province":"WV",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LfScSbvt5DPN3YBDg0bN2_38.172104_-81.331552@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432750,
+    "wof:geomhash":"0aa7dfb8c4cc633307e81794a8eb09a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823403803
+        }
+    ],
+    "wof:id":823403803,
+    "wof:lastmodified":1463432750,
+    "wof:name":"King Tire Svc Inc",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -81.331552,
+    38.172104,
+    -81.331552,
+    38.172104
+],
+  "geometry": {"coordinates":[-81.331552,38.172104],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 823457285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.95306,39.631679,-79.95306,39.631679",
+    "geom:latitude":39.631679,
+    "geom:longitude":-79.95306,
+    "iso:country":"US",
+    "sg:address":"493 Spruce St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 285 2435",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "commercial",
+        "financing",
+        "saving",
+        "loan",
+        "mortgage"
+    ],
+    "sg:website":"http://www.bbt.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59rNohiRXROTx619ltJbeC_39.631679_-79.953060@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435152,
+    "wof:geomhash":"88d88eb36d62b0755cf72f4f684a8ad3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851489,
+            "region_id":85688589,
+            "venue_id":823457285
+        }
+    ],
+    "wof:id":823457285,
+    "wof:lastmodified":1463435152,
+    "wof:name":"BB&T",
+    "wof:parent_id":85851489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "financing",
+        "saving",
+        "loan",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -79.95306,
+    39.631679,
+    -79.95306,
+    39.631679
+],
+  "geometry": {"coordinates":[-79.95305999999999,39.631679],"type":"Point"}
+}

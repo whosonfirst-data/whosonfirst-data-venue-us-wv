@@ -1,0 +1,71 @@
+{
+  "id": 823455579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.043389,39.36093,-78.043389,39.36093",
+    "geom:latitude":39.36093,
+    "geom:longitude":-78.043389,
+    "iso:country":"US",
+    "sg:address":"145 Pilgrim St",
+    "sg:city":"Inwood",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 229 5011",
+    "sg:postcode":"25428",
+    "sg:province":"WV",
+    "sg:tags":[
+        "veggie"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HWX7Fy5pTAAmn1SNlFhom_39.360930_-78.043389@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435081,
+    "wof:geomhash":"057099622283af73c005fe91d6e182c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823455579
+        }
+    ],
+    "wof:id":823455579,
+    "wof:lastmodified":1463435081,
+    "wof:name":"Farmers Market",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veggie"
+    ]
+},
+  "bbox": [
+    -78.043389,
+    39.36093,
+    -78.043389,
+    39.36093
+],
+  "geometry": {"coordinates":[-78.043389,39.36093],"type":"Point"}
+}

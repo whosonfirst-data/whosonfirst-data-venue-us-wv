@@ -1,0 +1,72 @@
+{
+  "id": 823452305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.046207,37.362153,-81.046207,37.362153",
+    "geom:latitude":37.362153,
+    "geom:longitude":-81.046207,
+    "iso:country":"US",
+    "sg:address":"195 Greasy Ridge Rd",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/iii/105383-ryans/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 0580",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EJolHbj3zQfI96dWdYo0H_37.362153_-81.046207@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434902,
+    "wof:geomhash":"321efcf6befdf3be75ab9b41503a0076",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823452305
+        }
+    ],
+    "wof:id":823452305,
+    "wof:lastmodified":1463434902,
+    "wof:name":"Ryan's",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -81.046207,
+    37.362153,
+    -81.046207,
+    37.362153
+],
+  "geometry": {"coordinates":[-81.046207,37.362153],"type":"Point"}
+}

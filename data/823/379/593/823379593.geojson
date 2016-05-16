@@ -1,0 +1,71 @@
+{
+  "id": 823379593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.093159,37.38737,-81.093159,37.38737",
+    "geom:latitude":37.38737,
+    "geom:longitude":-81.093159,
+    "iso:country":"US",
+    "sg:address":"1000 Oakwood Ave",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 5329",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71KiHDlIPJGDue24JPvxeX_37.387370_-81.093159@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431622,
+    "wof:geomhash":"6e32b54ed4bed702d242920aa55811d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823379593
+        }
+    ],
+    "wof:id":823379593,
+    "wof:lastmodified":1463431622,
+    "wof:name":"AAA Septic Tank Svc",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -81.093159,
+    37.38737,
+    -81.093159,
+    37.38737
+],
+  "geometry": {"coordinates":[-81.093159,37.38737],"type":"Point"}
+}

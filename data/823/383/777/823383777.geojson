@@ -1,0 +1,73 @@
+{
+  "id": 823383777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.208884,37.771483,-81.208884,37.771483",
+    "geom:latitude":37.771483,
+    "geom:longitude":-81.208884,
+    "iso:country":"US",
+    "sg:address":"302 White Stick St",
+    "sg:city":"Mabscott",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 253 5654",
+    "sg:postcode":"25871",
+    "sg:province":"WV",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZjsvnKcBo8Cu5qiQcT8AR_37.771483_-81.208884@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431803,
+    "wof:geomhash":"355b47882baba6da8e12e226efdfc078",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823383777
+        }
+    ],
+    "wof:id":823383777,
+    "wof:lastmodified":1463431803,
+    "wof:name":"Town Of Mabscott",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -81.208884,
+    37.771483,
+    -81.208884,
+    37.771483
+],
+  "geometry": {"coordinates":[-81.208884,37.771483],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823433677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.950859,39.694609,-79.950859,39.694609",
+    "geom:latitude":39.694609,
+    "geom:longitude":-79.950859,
+    "iso:country":"US",
+    "sg:address":"1031 Fort Martin Rd",
+    "sg:city":"Maidsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 8419",
+    "sg:postcode":"26541",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45gGbPu3YWZyLzrx8JMRp0_39.694609_-79.950859@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434049,
+    "wof:geomhash":"8202f948e7713a7c3c3ea663b52276fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823433677
+        }
+    ],
+    "wof:id":823433677,
+    "wof:lastmodified":1463434049,
+    "wof:name":"J N T Electric",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -79.950859,
+    39.694609,
+    -79.950859,
+    39.694609
+],
+  "geometry": {"coordinates":[-79.95085899999999,39.694609],"type":"Point"}
+}

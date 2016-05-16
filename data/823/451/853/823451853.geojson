@@ -1,0 +1,78 @@
+{
+  "id": 823451853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.952759,39.657497,-79.952759,39.657497",
+    "geom:latitude":39.657497,
+    "geom:longitude":-79.952759,
+    "iso:country":"US",
+    "sg:address":"1 Heritage Pointe",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 285 5575",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "residential",
+        "intermediate",
+        "homes-intermediate",
+        "nursing",
+        "facility"
+    ],
+    "sg:website":"http://www.heritage-point.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lILMIf2tojl51zjnx21hk_39.657520_-79.952758@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463434886,
+    "wof:geomhash":"3cb22b61b12dc7e02b0f88f0228b67b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823451853
+        }
+    ],
+    "wof:id":823451853,
+    "wof:lastmodified":1463434886,
+    "wof:name":"Mon General Health Systems",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "intermediate",
+        "homes-intermediate",
+        "nursing",
+        "facility"
+    ]
+},
+  "bbox": [
+    -79.952759,
+    39.657497,
+    -79.952759,
+    39.657497
+],
+  "geometry": {"coordinates":[-79.952759,39.657497],"type":"Point"}
+}

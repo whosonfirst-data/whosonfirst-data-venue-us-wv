@@ -1,0 +1,73 @@
+{
+  "id": 823436795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.353335,38.488596,-81.353335,38.488596",
+    "geom:latitude":38.488596,
+    "geom:longitude":-81.353335,
+    "iso:country":"US",
+    "sg:address":"19 Elk River Rd",
+    "sg:city":"Clendenin",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 548 4727",
+    "sg:postcode":"25045",
+    "sg:province":"WV",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QyUit39bgGL3j9Zz9Tjzp_38.488596_-81.353335@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434210,
+    "wof:geomhash":"bedc563823d5e8e0417cac7ebc7c67d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823436795
+        }
+    ],
+    "wof:id":823436795,
+    "wof:lastmodified":1463434210,
+    "wof:name":"Bill's Used Cars",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -81.353335,
+    38.488596,
+    -81.353335,
+    38.488596
+],
+  "geometry": {"coordinates":[-81.353335,38.488596],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823375483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.536249,38.223538,-81.536249,38.223538",
+    "geom:latitude":38.223538,
+    "geom:longitude":-81.536249,
+    "iso:country":"US",
+    "sg:address":"12408 Maccorkle Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 2332",
+    "sg:postcode":"25315",
+    "sg:province":"WV",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wBkfJd0SfNbRVPizCj8Wp_38.223538_-81.536249@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431436,
+    "wof:geomhash":"15d2d396fa4607ca4a543db49d75d8b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823375483
+        }
+    ],
+    "wof:id":823375483,
+    "wof:lastmodified":1463431436,
+    "wof:name":"Chesapeake Volunteer Fire Dept",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -81.536249,
+    38.223538,
+    -81.536249,
+    38.223538
+],
+  "geometry": {"coordinates":[-81.536249,38.223538],"type":"Point"}
+}

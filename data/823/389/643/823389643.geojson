@@ -1,0 +1,75 @@
+{
+  "id": 823389643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.641947,38.353178,-81.641947,38.353178",
+    "geom:latitude":38.353178,
+    "geom:longitude":-81.641947,
+    "iso:country":"US",
+    "sg:address":"27 Clendenin St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 9541",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16vrfQ4T9cTyb1h5JGOeaE_38.353178_-81.641947@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432059,
+    "wof:geomhash":"5164d310e8edb482ca26c28210db9cad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823389643
+        }
+    ],
+    "wof:id":823389643,
+    "wof:lastmodified":1463432059,
+    "wof:name":"Appalachian Tire Products Inc",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -81.641947,
+    38.353178,
+    -81.641947,
+    38.353178
+],
+  "geometry": {"coordinates":[-81.641947,38.353178],"type":"Point"}
+}

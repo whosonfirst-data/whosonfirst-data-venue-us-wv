@@ -1,0 +1,69 @@
+{
+  "id": 823384019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.569745,37.442664,-81.569745,37.442664",
+    "geom:latitude":37.442664,
+    "geom:longitude":-81.569745,
+    "iso:country":"US",
+    "sg:address":"765 Stewart St",
+    "sg:city":"Welch",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 436 3207",
+    "sg:postcode":"24801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85809677,
+        102083405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ea29o0z9jhapQ7zEd6amM_37.442664_-81.569745@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431811,
+    "wof:geomhash":"ce772fcd320c606d165fcd1f47b143f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083405,
+            "neighbourhood_id":85809677,
+            "region_id":85688589,
+            "venue_id":823384019
+        }
+    ],
+    "wof:id":823384019,
+    "wof:lastmodified":1463431811,
+    "wof:name":"A1 Auto Repair",
+    "wof:parent_id":85809677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -81.569745,
+    37.442664,
+    -81.569745,
+    37.442664
+],
+  "geometry": {"coordinates":[-81.569745,37.442664],"type":"Point"}
+}

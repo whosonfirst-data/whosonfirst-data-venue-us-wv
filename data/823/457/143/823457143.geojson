@@ -1,0 +1,75 @@
+{
+  "id": 823457143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.008134,39.688385,-80.008134,39.688385",
+    "geom:latitude":39.688385,
+    "geom:longitude":-80.008134,
+    "iso:country":"US",
+    "sg:address":"777 Bethel Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 598 1022",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cleaner",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731749,
+        102082587,
+        85807277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RY7h5E7KJ2qaqkOF5T66S_39.688385_-80.008134@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435147,
+    "wof:geomhash":"bc04a2108cbbc677e155d0b131867ef3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731749,
+            "neighbourhood_id":85807277,
+            "region_id":85688589,
+            "venue_id":823457143
+        }
+    ],
+    "wof:id":823457143,
+    "wof:lastmodified":1463435147,
+    "wof:name":"Pro Steam",
+    "wof:parent_id":85807277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -80.008134,
+    39.688385,
+    -80.008134,
+    39.688385
+],
+  "geometry": {"coordinates":[-80.008134,39.688385],"type":"Point"}
+}

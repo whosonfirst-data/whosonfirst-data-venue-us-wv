@@ -1,0 +1,71 @@
+{
+  "id": 823382745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.510244,39.282449,-81.510244,39.282449",
+    "geom:latitude":39.282449,
+    "geom:longitude":-81.510244,
+    "iso:country":"US",
+    "sg:address":"3412 Greenview Dr",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 424 5299",
+    "sg:postcode":"26104",
+    "sg:province":"WV",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85818775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63rH78Osjd0E2JwXxETysw_39.282449_-81.510244@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431765,
+    "wof:geomhash":"382f62b69b5311dd5ce09e7359635b04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85818775,
+            "region_id":85688589,
+            "venue_id":823382745
+        }
+    ],
+    "wof:id":823382745,
+    "wof:lastmodified":1463431765,
+    "wof:name":"CJM Transportation",
+    "wof:parent_id":85818775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -81.510244,
+    39.282449,
+    -81.510244,
+    39.282449
+],
+  "geometry": {"coordinates":[-81.510244,39.282449],"type":"Point"}
+}

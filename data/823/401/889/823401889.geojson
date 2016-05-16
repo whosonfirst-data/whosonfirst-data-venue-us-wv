@@ -1,0 +1,66 @@
+{
+  "id": 823401889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.564323,38.278489,-81.564323,38.278489",
+    "geom:latitude":38.278489,
+    "geom:longitude":-81.564323,
+    "iso:country":"US",
+    "sg:address":"5425 Midland Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 3523",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ecpwhLT2oj9H71MaxQRZA_38.278489_-81.564323@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432668,
+    "wof:geomhash":"3a4abfd980dbb05d56f7d15d03574c12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823401889
+        }
+    ],
+    "wof:id":823401889,
+    "wof:lastmodified":1463432668,
+    "wof:name":"7-Eleven",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.564323,
+    38.278489,
+    -81.564323,
+    38.278489
+],
+  "geometry": {"coordinates":[-81.564323,38.278489],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823453441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.847374,38.926793,-79.847374,38.926793",
+    "geom:latitude":38.926793,
+    "geom:longitude":-79.847374,
+    "iso:country":"US",
+    "sg:address":"446 Randolph Ave",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/leadsville/206243-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vpPjjrtYMG60pZt8FBQSb_38.926793_-79.847374@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434947,
+    "wof:geomhash":"8ce57c73da64044b61103eeb8cacc727",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823453441
+        }
+    ],
+    "wof:id":823453441,
+    "wof:lastmodified":1463434947,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -79.847374,
+    38.926793,
+    -79.847374,
+    38.926793
+],
+  "geometry": {"coordinates":[-79.847374,38.926793],"type":"Point"}
+}

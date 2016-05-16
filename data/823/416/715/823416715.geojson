@@ -1,0 +1,73 @@
+{
+  "id": 823416715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.096145,37.362606,-81.096145,37.362606",
+    "geom:latitude":37.362606,
+    "geom:longitude":-81.096145,
+    "iso:country":"US",
+    "sg:address":"1243 Stafford Dr",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 6949",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "station",
+        "recruiting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eNBKkgWSH8wF1uGuTlpQL_37.362606_-81.096145@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433316,
+    "wof:geomhash":"b96f24d60017a546df20e0edd8c1755b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823416715
+        }
+    ],
+    "wof:id":823416715,
+    "wof:lastmodified":1463433316,
+    "wof:name":"US Navy Recruiting Station",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "recruiting"
+    ]
+},
+  "bbox": [
+    -81.096145,
+    37.362606,
+    -81.096145,
+    37.362606
+],
+  "geometry": {"coordinates":[-81.09614500000001,37.362606],"type":"Point"}
+}

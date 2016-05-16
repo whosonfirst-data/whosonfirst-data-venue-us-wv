@@ -1,0 +1,71 @@
+{
+  "id": 823379575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.051765,39.349685,-78.051765,39.349685",
+    "geom:latitude":39.349685,
+    "geom:longitude":-78.051765,
+    "iso:country":"US",
+    "sg:address":"293 Berkeley St",
+    "sg:city":"Inwood",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 229 7500",
+    "sg:postcode":"25428",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DrMBVScMGdNmofniIqzV5_39.349685_-78.051765@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431622,
+    "wof:geomhash":"573550844531dd84305ad11202e414d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823379575
+        }
+    ],
+    "wof:id":823379575,
+    "wof:lastmodified":1463431622,
+    "wof:name":"New Life Community Church",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -78.051765,
+    39.349685,
+    -78.051765,
+    39.349685
+],
+  "geometry": {"coordinates":[-78.051765,39.349685],"type":"Point"}
+}

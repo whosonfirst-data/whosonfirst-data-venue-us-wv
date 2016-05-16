@@ -1,0 +1,73 @@
+{
+  "id": 823399715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.178359,37.772121,-81.178359,37.772121",
+    "geom:latitude":37.772121,
+    "geom:longitude":-81.178359,
+    "iso:country":"US",
+    "sg:address":"269 Maplewood Ln",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 256 8400",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JjINGLH8eHoyXe42ifmem_37.772121_-81.178359@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432573,
+    "wof:geomhash":"de0cfda2d5ea9551546249dc86b5c054",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823399715
+        }
+    ],
+    "wof:id":823399715,
+    "wof:lastmodified":1463432573,
+    "wof:name":"Bragg & Bragg",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -81.178359,
+    37.772121,
+    -81.178359,
+    37.772121
+],
+  "geometry": {"coordinates":[-81.178359,37.772121],"type":"Point"}
+}

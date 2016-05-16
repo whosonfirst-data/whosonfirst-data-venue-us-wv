@@ -1,0 +1,71 @@
+{
+  "id": 823451141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.960277,39.586472,-79.960277,39.586472",
+    "geom:latitude":39.586472,
+    "geom:longitude":-79.960277,
+    "iso:country":"US",
+    "sg:address":"165 Scott Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 291 5663",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04iz808qQORkOt30E4m6dN_39.586472_-79.960277@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434857,
+    "wof:geomhash":"53860fc2f9e540cadae1bd128ab137fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823451141
+        }
+    ],
+    "wof:id":823451141,
+    "wof:lastmodified":1463434857,
+    "wof:name":"David C Fogarty MD",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -79.960277,
+    39.586472,
+    -79.960277,
+    39.586472
+],
+  "geometry": {"coordinates":[-79.960277,39.586472],"type":"Point"}
+}

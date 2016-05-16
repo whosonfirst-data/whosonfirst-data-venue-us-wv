@@ -1,0 +1,71 @@
+{
+  "id": 823370365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.857384,39.651331,-80.857384,39.651331",
+    "geom:latitude":39.651331,
+    "geom:longitude":-80.857384,
+    "iso:country":"US",
+    "sg:address":"811 3rd St",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 6844",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2n42VbOWxKMaQrgrKuaHzc_39.651331_-80.857384@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431190,
+    "wof:geomhash":"318a63a5e8bcd1f1e5c15ac75cd61763",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823370365
+        }
+    ],
+    "wof:id":823370365,
+    "wof:lastmodified":1463431190,
+    "wof:name":"Habitat For Humanity",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.857384,
+    39.651331,
+    -80.857384,
+    39.651331
+],
+  "geometry": {"coordinates":[-80.857384,39.651331],"type":"Point"}
+}

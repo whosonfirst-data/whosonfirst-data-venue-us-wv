@@ -1,0 +1,71 @@
+{
+  "id": 823425117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.337955,39.280156,-80.337955,39.280156",
+    "geom:latitude":39.280156,
+    "geom:longitude":-80.337955,
+    "iso:country":"US",
+    "sg:address":"227 W Pike St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 624 1683",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qSuoMSOwY5tH3MBOzS4GU_39.280156_-80.337955@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433664,
+    "wof:geomhash":"a0c94094efee0cb877b37758b6dd0432",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823425117
+        }
+    ],
+    "wof:id":823425117,
+    "wof:lastmodified":1463433664,
+    "wof:name":"Clarksburg City Personnel",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -80.337955,
+    39.280156,
+    -80.337955,
+    39.280156
+],
+  "geometry": {"coordinates":[-80.33795499999999,39.280156],"type":"Point"}
+}

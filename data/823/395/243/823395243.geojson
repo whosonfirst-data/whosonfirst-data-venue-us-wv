@@ -1,0 +1,71 @@
+{
+  "id": 823395243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.138446,38.843472,-82.138446,38.843472",
+    "geom:latitude":38.843472,
+    "geom:longitude":-82.138446,
+    "iso:country":"US",
+    "sg:address":"422 Main St",
+    "sg:city":"Point Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 675 9745",
+    "sg:postcode":"25550",
+    "sg:province":"WV",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85983229,
+        102083675,
+        85824533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Vxzl4ABZzqMeLutDXZOXL_38.843472_-82.138446@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432338,
+    "wof:geomhash":"81c5e7b19d71689f426f90b948ceebbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "neighbourhood_id":85824533,
+            "region_id":85688485,
+            "venue_id":823395243
+        }
+    ],
+    "wof:id":823395243,
+    "wof:lastmodified":1463432338,
+    "wof:name":"Guidos",
+    "wof:parent_id":85824533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -82.138446,
+    38.843472,
+    -82.138446,
+    38.843472
+],
+  "geometry": {"coordinates":[-82.138446,38.843472],"type":"Point"}
+}

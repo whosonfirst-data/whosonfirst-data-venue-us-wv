@@ -1,0 +1,71 @@
+{
+  "id": 823378873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.567323,38.27783,-81.567323,38.27783",
+    "geom:latitude":38.27783,
+    "geom:longitude":-81.567323,
+    "iso:country":"US",
+    "sg:address":"206 Furman Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 2337",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "concessionaire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pWhsGW4rRZ40YqTUlHn74_38.277830_-81.567323@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431590,
+    "wof:geomhash":"a37b48821cc843edf3702766ebac8fe8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823378873
+        }
+    ],
+    "wof:id":823378873,
+    "wof:lastmodified":1463431590,
+    "wof:name":"Yummys",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concessionaire"
+    ]
+},
+  "bbox": [
+    -81.567323,
+    38.27783,
+    -81.567323,
+    38.27783
+],
+  "geometry": {"coordinates":[-81.567323,38.27783],"type":"Point"}
+}

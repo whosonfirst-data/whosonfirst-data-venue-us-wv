@@ -1,0 +1,71 @@
+{
+  "id": 823402415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.885051,37.65178,-80.885051,37.65178",
+    "geom:latitude":37.65178,
+    "geom:longitude":-80.885051,
+    "iso:country":"US",
+    "sg:address":"117 Greenbrier Dr",
+    "sg:city":"Hinton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 466 9846",
+    "sg:postcode":"25951",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731641,
+        102083407,
+        85805479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Lurmm4d76zE0ZvyswxSKP_37.651780_-80.885051@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432690,
+    "wof:geomhash":"d5fa689bc813124eeae1c9892180cb70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083407,
+            "locality_id":101731641,
+            "neighbourhood_id":85805479,
+            "region_id":85688589,
+            "venue_id":823402415
+        }
+    ],
+    "wof:id":823402415,
+    "wof:lastmodified":1463432690,
+    "wof:name":"Greenbrier Country Store",
+    "wof:parent_id":85805479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -80.885051,
+    37.65178,
+    -80.885051,
+    37.65178
+],
+  "geometry": {"coordinates":[-80.885051,37.65178],"type":"Point"}
+}

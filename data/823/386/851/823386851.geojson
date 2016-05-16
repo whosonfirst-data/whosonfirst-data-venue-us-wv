@@ -1,0 +1,71 @@
+{
+  "id": 823386851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.537241,38.314069,-81.537241,38.314069",
+    "geom:latitude":38.314069,
+    "geom:longitude":-81.537241,
+    "iso:country":"US",
+    "sg:address":"238 Rensford Star Rte",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 1934",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0v1X5BmC3cTtoXVOmLHvVf_38.314069_-81.537241@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431920,
+    "wof:geomhash":"94f0cd98d472aa55000280a5c9eef00d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823386851
+        }
+    ],
+    "wof:id":823386851,
+    "wof:lastmodified":1463431920,
+    "wof:name":"Al's Transmission",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -81.537241,
+    38.314069,
+    -81.537241,
+    38.314069
+],
+  "geometry": {"coordinates":[-81.53724099999999,38.314069],"type":"Point"}
+}

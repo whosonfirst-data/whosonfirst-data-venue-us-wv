@@ -1,0 +1,71 @@
+{
+  "id": 823427069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.559485,38.380725,-82.559485,38.380725",
+    "geom:latitude":38.380725,
+    "geom:longitude":-82.559485,
+    "iso:country":"US",
+    "sg:address":"1889 Goodwill Rd",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 429 3300",
+    "sg:postcode":"25704",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083365,
+        85857035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SJfwzY9TL02bOf9tgdEeY_38.380725_-82.559485@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433754,
+    "wof:geomhash":"35664b0da3b5b255d73f9195b5febce2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731553,
+            "neighbourhood_id":85857035,
+            "region_id":85688589,
+            "venue_id":823427069
+        }
+    ],
+    "wof:id":823427069,
+    "wof:lastmodified":1463433754,
+    "wof:name":"Spring Valley Memorial Gardens",
+    "wof:parent_id":85857035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -82.559485,
+    38.380725,
+    -82.559485,
+    38.380725
+],
+  "geometry": {"coordinates":[-82.559485,38.380725],"type":"Point"}
+}

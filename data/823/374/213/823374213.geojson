@@ -1,0 +1,73 @@
+{
+  "id": 823374213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.932947,38.538907,-81.932947,38.538907",
+    "geom:latitude":38.538907,
+    "geom:longitude":-81.932947,
+    "iso:country":"US",
+    "sg:address":"102 Hemlock St",
+    "sg:city":"Eleanor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 586 2204",
+    "sg:postcode":"25070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868323,
+        102083381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xuJGRtRO7PiKphwt550iJ_38.538907_-81.932947@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431366,
+    "wof:geomhash":"ccb090c325652751ea2e8190cae11291",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "neighbourhood_id":85868323,
+            "region_id":85688589,
+            "venue_id":823374213
+        }
+    ],
+    "wof:id":823374213,
+    "wof:lastmodified":1463431366,
+    "wof:name":"K-9 Clipper",
+    "wof:parent_id":85868323,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -81.932947,
+    38.538907,
+    -81.932947,
+    38.538907
+],
+  "geometry": {"coordinates":[-81.932947,38.538907],"type":"Point"}
+}

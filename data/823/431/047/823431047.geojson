@@ -1,0 +1,68 @@
+{
+  "id": 823431047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.18359,37.783318,-81.18359,37.783318",
+    "geom:latitude":37.783318,
+    "geom:longitude":-81.18359,
+    "iso:country":"US",
+    "sg:address":"101 Hylton Ln",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 252 8286",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EVglPmBoOOp1qQed1mw32_37.783318_-81.183590@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433921,
+    "wof:geomhash":"a7e13273f6a661358245323f426abaf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823431047
+        }
+    ],
+    "wof:id":823431047,
+    "wof:lastmodified":1463433921,
+    "wof:name":"Mc Donald's",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.18359,
+    37.783318,
+    -81.18359,
+    37.783318
+],
+  "geometry": {"coordinates":[-81.18359,37.783318],"type":"Point"}
+}

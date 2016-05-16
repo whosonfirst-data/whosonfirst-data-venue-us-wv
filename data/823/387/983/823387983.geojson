@@ -1,0 +1,71 @@
+{
+  "id": 823387983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.138083,38.845463,-82.138083,38.845463",
+    "geom:latitude":38.845463,
+    "geom:longitude":-82.138083,
+    "iso:country":"US",
+    "sg:address":"629 Main St",
+    "sg:city":"Point Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 675 6008",
+    "sg:postcode":"25550",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85983229,
+        102083675,
+        85824533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3buR5DAE1ysd5sjcBYg3Ur_38.845463_-82.138083@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431963,
+    "wof:geomhash":"8a203a9d39ad45571e64a9aed8341c14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "neighbourhood_id":85824533,
+            "region_id":85688485,
+            "venue_id":823387983
+        }
+    ],
+    "wof:id":823387983,
+    "wof:lastmodified":1463431963,
+    "wof:name":"William E Park DDS",
+    "wof:parent_id":85824533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -82.138083,
+    38.845463,
+    -82.138083,
+    38.845463
+],
+  "geometry": {"coordinates":[-82.13808299999999,38.845463],"type":"Point"}
+}

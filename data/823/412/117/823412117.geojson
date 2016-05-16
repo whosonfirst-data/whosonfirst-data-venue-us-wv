@@ -1,0 +1,75 @@
+{
+  "id": 823412117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.390709,38.415613,-82.390709,38.415613",
+    "geom:latitude":38.415613,
+    "geom:longitude":-82.390709,
+    "iso:country":"US",
+    "sg:address":"3125 US Hwy 60",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 522 6777",
+    "sg:postcode":"25705",
+    "sg:province":"WV",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083329,
+        85868301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08yuDk6Chhi6cMjiA50PFY_38.415613_-82.390709@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433107,
+    "wof:geomhash":"ab3b1cad6c1556cf65fbbdf92663c377",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731553,
+            "neighbourhood_id":85868301,
+            "region_id":85688589,
+            "venue_id":823412117
+        }
+    ],
+    "wof:id":823412117,
+    "wof:lastmodified":1463433107,
+    "wof:name":"Mufflers Of America",
+    "wof:parent_id":85868301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -82.390709,
+    38.415613,
+    -82.390709,
+    38.415613
+],
+  "geometry": {"coordinates":[-82.390709,38.415613],"type":"Point"}
+}

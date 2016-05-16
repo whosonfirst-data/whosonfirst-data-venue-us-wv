@@ -1,0 +1,71 @@
+{
+  "id": 823392479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.604221,38.334887,-81.604221,38.334887",
+    "geom:latitude":38.334887,
+    "geom:longitude":-81.604221,
+    "iso:country":"US",
+    "sg:address":"2306 Kanawha Blvd E",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 344 9651",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iKqxtgxQfkG2JNfm6lTiD_38.334887_-81.604221@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432200,
+    "wof:geomhash":"02eec398d545d3824791b8ebc0649608",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823392479
+        }
+    ],
+    "wof:id":823392479,
+    "wof:lastmodified":1463432200,
+    "wof:name":"Hunt & Lees",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -81.604221,
+    38.334887,
+    -81.604221,
+    38.334887
+],
+  "geometry": {"coordinates":[-81.604221,38.334887],"type":"Point"}
+}

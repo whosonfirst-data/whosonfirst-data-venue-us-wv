@@ -1,0 +1,73 @@
+{
+  "id": 823417537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.264536,39.28304,-80.264536,39.28304",
+    "geom:latitude":39.28304,
+    "geom:longitude":-80.264536,
+    "iso:country":"US",
+    "sg:address":"787 Twin Oaks Dr",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 641 7714",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "ventilating",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RbewjnDfOCwQZokOCer44_39.283040_-80.264536@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433362,
+    "wof:geomhash":"5a6dfa66802cc3953d348a540b216d38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823417537
+        }
+    ],
+    "wof:id":823417537,
+    "wof:lastmodified":1463433362,
+    "wof:name":"Sanitary Duct Cleaning",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ventilating",
+        "system"
+    ]
+},
+  "bbox": [
+    -80.264536,
+    39.28304,
+    -80.264536,
+    39.28304
+],
+  "geometry": {"coordinates":[-80.26453600000001,39.28304],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823420295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.967559,39.445007,-77.967559,39.445007",
+    "geom:latitude":39.445007,
+    "geom:longitude":-77.967559,
+    "iso:country":"US",
+    "sg:address":"201 Wilson St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 267 2280",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5R6B9frqLglD6JVDNUAxNF_39.445007_-77.967559@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433480,
+    "wof:geomhash":"275d5891062195094c5a3d5ce6808b4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823420295
+        }
+    ],
+    "wof:id":823420295,
+    "wof:lastmodified":1463433480,
+    "wof:name":"Cupp's Automotive",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -77.967559,
+    39.445007,
+    -77.967559,
+    39.445007
+],
+  "geometry": {"coordinates":[-77.96755899999999,39.445007],"type":"Point"}
+}

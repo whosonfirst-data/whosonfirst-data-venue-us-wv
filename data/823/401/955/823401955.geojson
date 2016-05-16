@@ -1,0 +1,71 @@
+{
+  "id": 823401955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.848265,38.922944,-79.848265,38.922944",
+    "geom:latitude":38.922944,
+    "geom:longitude":-79.848265,
+    "iso:country":"US",
+    "sg:address":"204 1st St",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 637 3305",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0R7nvCZC48zjSU7Hxjgap3_38.922944_-79.848265@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432670,
+    "wof:geomhash":"c2c2a26e9aab50ea9954a24d6206238e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823401955
+        }
+    ],
+    "wof:id":823401955,
+    "wof:lastmodified":1463432670,
+    "wof:name":"JC Welding Inc",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -79.848265,
+    38.922944,
+    -79.848265,
+    38.922944
+],
+  "geometry": {"coordinates":[-79.848265,38.922944],"type":"Point"}
+}

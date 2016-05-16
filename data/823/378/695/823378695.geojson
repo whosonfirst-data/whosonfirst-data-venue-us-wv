@@ -1,0 +1,77 @@
+{
+  "id": 823378695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.64341,38.350455,-81.64341,38.350455",
+    "geom:latitude":38.350455,
+    "geom:longitude":-81.64341,
+    "iso:country":"US",
+    "sg:address":"208 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 346 7900",
+    "sg:postcode":"25314",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50Z3roqZfSwNRVIqewxTuu_38.350455_-81.643410@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431584,
+    "wof:geomhash":"ca77ddc331b67f1b464b1db693bb210a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823378695
+        }
+    ],
+    "wof:id":823378695,
+    "wof:lastmodified":1463431584,
+    "wof:name":"Asthma & Allergy Center",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -81.64341,
+    38.350455,
+    -81.64341,
+    38.350455
+],
+  "geometry": {"coordinates":[-81.64341,38.350455],"type":"Point"}
+}

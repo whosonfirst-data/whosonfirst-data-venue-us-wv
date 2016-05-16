@@ -1,0 +1,71 @@
+{
+  "id": 823443295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.608042,40.287877,-80.608042,40.287877",
+    "geom:latitude":40.287877,
+    "geom:longitude":-80.608042,
+    "iso:country":"US",
+    "sg:address":"2504 Commerce St",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 1480",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29KC7IfbFgpGWoldTKl2eC_40.287877_-80.608042@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434515,
+    "wof:geomhash":"a9dfc59463c6da69c6e5a09400f306e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823443295
+        }
+    ],
+    "wof:id":823443295,
+    "wof:lastmodified":1463434515,
+    "wof:name":"A Place In The Sun",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -80.608042,
+    40.287877,
+    -80.608042,
+    40.287877
+],
+  "geometry": {"coordinates":[-80.608042,40.287877],"type":"Point"}
+}

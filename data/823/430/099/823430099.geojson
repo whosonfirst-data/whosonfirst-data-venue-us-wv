@@ -1,0 +1,71 @@
+{
+  "id": 823430099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.567844,38.246258,-81.567844,38.246258",
+    "geom:latitude":38.246258,
+    "geom:longitude":-81.567844,
+    "iso:country":"US",
+    "sg:address":"9109 Maccorkle Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 4339",
+    "sg:postcode":"25315",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uX9ONtw1goyS8sQSPKeY3_38.246258_-81.567844@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433887,
+    "wof:geomhash":"da1f93f494d0ba33a942b39983abb49e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823430099
+        }
+    ],
+    "wof:id":823430099,
+    "wof:lastmodified":1463433887,
+    "wof:name":"Long John Silver's",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -81.567844,
+    38.246258,
+    -81.567844,
+    38.246258
+],
+  "geometry": {"coordinates":[-81.56784399999999,38.246258],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823434783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.112191,39.485259,-80.112191,39.485259",
+    "geom:latitude":39.485259,
+    "geom:longitude":-80.112191,
+    "iso:country":"US",
+    "sg:address":"106 Vine St",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 534 5887",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0X7GP1lj8Qbe626PKjXI1A_39.485259_-80.112191@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434117,
+    "wof:geomhash":"19287a58345318dfc2f1d56bdf24bf7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823434783
+        }
+    ],
+    "wof:id":823434783,
+    "wof:lastmodified":1463434117,
+    "wof:name":"Klassic Kuts",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -80.112191,
+    39.485259,
+    -80.112191,
+    39.485259
+],
+  "geometry": {"coordinates":[-80.112191,39.485259],"type":"Point"}
+}

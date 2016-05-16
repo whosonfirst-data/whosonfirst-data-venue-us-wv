@@ -1,0 +1,75 @@
+{
+  "id": 823387135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.571047,38.315284,-81.571047,38.315284",
+    "geom:latitude":38.315284,
+    "geom:longitude":-81.571047,
+    "iso:country":"US",
+    "sg:address":"5401 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 7552",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QD7tSHHBn42DRfXvan2c6_38.315284_-81.571047@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431934,
+    "wof:geomhash":"ff5072e7b5efff091657bc6c4e8a2282",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823387135
+        }
+    ],
+    "wof:id":823387135,
+    "wof:lastmodified":1463431934,
+    "wof:name":"Dannys Service Center",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -81.571047,
+    38.315284,
+    -81.571047,
+    38.315284
+],
+  "geometry": {"coordinates":[-81.57104699999999,38.315284],"type":"Point"}
+}

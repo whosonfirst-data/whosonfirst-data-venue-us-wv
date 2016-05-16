@@ -1,0 +1,73 @@
+{
+  "id": 823383915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.9664,39.448113,-77.9664,39.448113",
+    "geom:latitude":39.448113,
+    "geom:longitude":-77.9664,
+    "iso:country":"US",
+    "sg:address":"802 S Queen St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 1330",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical",
+        "executive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1S9fw2nc42d2Mitqqb9dLe_39.448113_-77.966400@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431808,
+    "wof:geomhash":"8336406ce3f04e7af366c8a801eeb356",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823383915
+        }
+    ],
+    "wof:id":823383915,
+    "wof:lastmodified":1463431808,
+    "wof:name":"Emergency Services",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "executive"
+    ]
+},
+  "bbox": [
+    -77.9664,
+    39.448113,
+    -77.9664,
+    39.448113
+],
+  "geometry": {"coordinates":[-77.96639999999999,39.448113],"type":"Point"}
+}

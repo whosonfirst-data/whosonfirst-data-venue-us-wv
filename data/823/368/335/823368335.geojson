@@ -1,0 +1,71 @@
+{
+  "id": 823368335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.124795,37.344975,-81.124795,37.344975",
+    "geom:latitude":37.344975,
+    "geom:longitude":-81.124795,
+    "iso:country":"US",
+    "sg:address":"404 Courthouse Rd",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 9727",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2510dmjUkNUnR8E8qJIKzg_37.344975_-81.124795@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431110,
+    "wof:geomhash":"40b273410b579bd50ccc0154aceacb9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823368335
+        }
+    ],
+    "wof:id":823368335,
+    "wof:lastmodified":1463431110,
+    "wof:name":"Pennington's Accounting & Tax",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -81.124795,
+    37.344975,
+    -81.124795,
+    37.344975
+],
+  "geometry": {"coordinates":[-81.12479500000001,37.344975],"type":"Point"}
+}

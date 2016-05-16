@@ -1,0 +1,71 @@
+{
+  "id": 823446031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.700285,38.367766,-81.700285,38.367766",
+    "geom:latitude":38.367766,
+    "geom:longitude":-81.700285,
+    "iso:country":"US",
+    "sg:address":"117 Maccorkle Ave SW",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 4139",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XgSX2ORnzGI8YDE2X5wne_38.367766_-81.700285@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434643,
+    "wof:geomhash":"d5fe2415887ef5212ab07d4b0118c44a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823446031
+        }
+    ],
+    "wof:id":823446031,
+    "wof:lastmodified":1463434643,
+    "wof:name":"Fred's Party Store",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -81.700285,
+    38.367766,
+    -81.700285,
+    38.367766
+],
+  "geometry": {"coordinates":[-81.70028499999999,38.367766],"type":"Point"}
+}

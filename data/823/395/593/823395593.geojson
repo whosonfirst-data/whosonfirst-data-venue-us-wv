@@ -1,0 +1,73 @@
+{
+  "id": 823395593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.972059,39.455728,-77.972059,39.455728",
+    "geom:latitude":39.455728,
+    "geom:longitude":-77.972059,
+    "iso:country":"US",
+    "sg:address":"620 W John St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 264 9440",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "school",
+        "instruction",
+        "art"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85846047,
+        102083367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26I6ARHn9Xk1ipc18vccWF_39.455728_-77.972059@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432356,
+    "wof:geomhash":"987a186a43ab8d02561453d47ff0c6be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "neighbourhood_id":85846047,
+            "region_id":85688589,
+            "venue_id":823395593
+        }
+    ],
+    "wof:id":823395593,
+    "wof:lastmodified":1463432356,
+    "wof:name":"Heritage Craft Ctr",
+    "wof:parent_id":85846047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "instruction",
+        "art"
+    ]
+},
+  "bbox": [
+    -77.972059,
+    39.455728,
+    -77.972059,
+    39.455728
+],
+  "geometry": {"coordinates":[-77.972059,39.455728],"type":"Point"}
+}

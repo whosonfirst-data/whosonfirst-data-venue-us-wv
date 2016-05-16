@@ -1,0 +1,71 @@
+{
+  "id": 823447329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.571195,38.3153,-81.571195,38.3153",
+    "geom:latitude":38.3153,
+    "geom:longitude":-81.571195,
+    "iso:country":"US",
+    "sg:address":"5411 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 8500",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1J6Y3QJJgJHVUCllCSkbKf_38.315300_-81.571195@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434705,
+    "wof:geomhash":"96dcfcdf66f94267ab7902b9196463ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823447329
+        }
+    ],
+    "wof:id":823447329,
+    "wof:lastmodified":1463434705,
+    "wof:name":"HLC Jewelry & Loan",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -81.571195,
+    38.3153,
+    -81.571195,
+    38.3153
+],
+  "geometry": {"coordinates":[-81.571195,38.3153],"type":"Point"}
+}

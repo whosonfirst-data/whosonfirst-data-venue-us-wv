@@ -1,0 +1,69 @@
+{
+  "id": 823365815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.974785,39.53874,-79.974785,39.53874",
+    "geom:latitude":39.53874,
+    "geom:longitude":-79.974785,
+    "iso:country":"US",
+    "sg:address":"640 Goshen Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Berry Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 291 0409",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "crop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3r2uudywDz5sIOpx9gtXig_39.538740_-79.974785@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431003,
+    "wof:geomhash":"9291f6925c483e4bebf64fba7579e8da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823365815
+        }
+    ],
+    "wof:id":823365815,
+    "wof:lastmodified":1463431003,
+    "wof:name":"Owl Creek Farm",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop"
+    ]
+},
+  "bbox": [
+    -79.974785,
+    39.53874,
+    -79.974785,
+    39.53874
+],
+  "geometry": {"coordinates":[-79.974785,39.53874],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823398515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.911186,38.524279,-81.911186,38.524279",
+    "geom:latitude":38.524279,
+    "geom:longitude":-81.911186,
+    "iso:country":"US",
+    "sg:address":"3747 Winfield Rd",
+    "sg:city":"Winfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 586 3126",
+    "sg:postcode":"25213",
+    "sg:province":"WV",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868323,
+        102083381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5i7DGgmxoP8YObBPe4tyEX_38.524279_-81.911186@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432511,
+    "wof:geomhash":"5842eadacb96644464fda74b89c6223c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "neighbourhood_id":85868323,
+            "region_id":85688589,
+            "venue_id":823398515
+        }
+    ],
+    "wof:id":823398515,
+    "wof:lastmodified":1463432511,
+    "wof:name":"Winfield Rental & Storage Inc",
+    "wof:parent_id":85868323,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -81.911186,
+    38.524279,
+    -81.911186,
+    38.524279
+],
+  "geometry": {"coordinates":[-81.911186,38.524279],"type":"Point"}
+}

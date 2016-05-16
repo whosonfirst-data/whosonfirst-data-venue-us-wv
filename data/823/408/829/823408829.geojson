@@ -1,0 +1,71 @@
+{
+  "id": 823408829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.307507,39.391887,-80.307507,39.391887",
+    "geom:latitude":39.391887,
+    "geom:longitude":-80.307507,
+    "iso:country":"US",
+    "sg:address":"540 S Pike St",
+    "sg:city":"Shinnston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 592 1512",
+    "sg:postcode":"26431",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85831189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13nfn69tzkoMPGAiCLy1YR_39.391887_-80.307507@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432978,
+    "wof:geomhash":"5a3b2a14e8779a7534b22979f554f376",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85831189,
+            "region_id":85688589,
+            "venue_id":823408829
+        }
+    ],
+    "wof:id":823408829,
+    "wof:lastmodified":1463432978,
+    "wof:name":"Shinnston Shop'n Save",
+    "wof:parent_id":85831189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -80.307507,
+    39.391887,
+    -80.307507,
+    39.391887
+],
+  "geometry": {"coordinates":[-80.307507,39.391887],"type":"Point"}
+}

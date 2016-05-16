@@ -1,0 +1,73 @@
+{
+  "id": 823377439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.007681,39.528533,-80.007681,39.528533",
+    "geom:latitude":39.528533,
+    "geom:longitude":-80.007681,
+    "iso:country":"US",
+    "sg:address":"2689 Smithtown Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 284 8600",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Pzg21w5GdGVQQVEXU2Ino_39.528533_-80.007681@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431533,
+    "wof:geomhash":"3463e7a0d3643fe762452eb215a32ea1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823377439
+        }
+    ],
+    "wof:id":823377439,
+    "wof:lastmodified":1463431533,
+    "wof:name":"Dll Heavy Hauling",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -80.007681,
+    39.528533,
+    -80.007681,
+    39.528533
+],
+  "geometry": {"coordinates":[-80.00768100000001,39.528533],"type":"Point"}
+}

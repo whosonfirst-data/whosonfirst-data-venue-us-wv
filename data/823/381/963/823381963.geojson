@@ -1,0 +1,73 @@
+{
+  "id": 823381963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.576855,38.393268,-82.576855,38.393268",
+    "geom:latitude":38.393268,
+    "geom:longitude":-82.576855,
+    "iso:country":"US",
+    "sg:address":"1101 Rte 75",
+    "sg:city":"Kenova",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 4974",
+    "sg:postcode":"25530",
+    "sg:province":"WV",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731517,
+        102083365,
+        85806071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30IMErK0Yzx56Q6wNjwCpB_38.393268_-82.576855@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431736,
+    "wof:geomhash":"0db33a4408fc47c91bb28b2489844636",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731517,
+            "neighbourhood_id":85806071,
+            "region_id":85688589,
+            "venue_id":823381963
+        }
+    ],
+    "wof:id":823381963,
+    "wof:lastmodified":1463431736,
+    "wof:name":"Exxon",
+    "wof:parent_id":85806071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -82.576855,
+    38.393268,
+    -82.576855,
+    38.393268
+],
+  "geometry": {"coordinates":[-82.57685499999999,38.393268],"type":"Point"}
+}

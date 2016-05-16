@@ -1,0 +1,71 @@
+{
+  "id": 823423597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.969493,39.610524,-79.969493,39.610524",
+    "geom:latitude":39.610524,
+    "geom:longitude":-79.969493,
+    "iso:country":"US",
+    "sg:address":"293 Don Knotts Blvd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 291 6433",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grocery",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LeDoulxLvBT5K1wrX5EeR_39.610524_-79.969493@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433605,
+    "wof:geomhash":"c70d8bb4e91b55c3084bf46ba1d9cc1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823423597
+        }
+    ],
+    "wof:id":823423597,
+    "wof:lastmodified":1463433605,
+    "wof:name":"I G S",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "general"
+    ]
+},
+  "bbox": [
+    -79.969493,
+    39.610524,
+    -79.969493,
+    39.610524
+],
+  "geometry": {"coordinates":[-79.969493,39.610524],"type":"Point"}
+}

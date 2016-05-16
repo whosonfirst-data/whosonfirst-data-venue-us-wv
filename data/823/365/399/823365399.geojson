@@ -1,0 +1,76 @@
+{
+  "id": 823365399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.893334,37.666979,-80.893334,37.666979",
+    "geom:latitude":37.666979,
+    "geom:longitude":-80.893334,
+    "iso:country":"US",
+    "sg:address":"211 Main St",
+    "sg:city":"Hinton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 466 5319",
+    "sg:postcode":"25951",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731641,
+        102083407,
+        85805479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1J7Y9zPpwqrRoZbJGcgZRA_37.666979_-80.893334@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463430984,
+    "wof:geomhash":"4f92da652b670d58cbd33d9349849a5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083407,
+            "locality_id":101731641,
+            "neighbourhood_id":85805479,
+            "region_id":85688589,
+            "venue_id":823365399
+        }
+    ],
+    "wof:id":823365399,
+    "wof:lastmodified":1463430984,
+    "wof:name":"Dollar General 909",
+    "wof:parent_id":85805479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -80.893334,
+    37.666979,
+    -80.893334,
+    37.666979
+],
+  "geometry": {"coordinates":[-80.893334,37.666979],"type":"Point"}
+}

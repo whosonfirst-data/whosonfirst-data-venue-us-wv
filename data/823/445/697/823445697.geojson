@@ -1,0 +1,79 @@
+{
+  "id": 823445697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.162242,37.799315,-81.162242,37.799315",
+    "geom:latitude":37.799315,
+    "geom:longitude":-81.162242,
+    "iso:country":"US",
+    "sg:address":"33 Eagles Rd",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 255 7723",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clinic",
+        "specialty",
+        "psychiatric",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2flor4t0RpiroBO7ZljixT_37.799315_-81.162242@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434622,
+    "wof:geomhash":"512211d75b5cfb9ed9827cbee372abed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823445697
+        }
+    ],
+    "wof:id":823445697,
+    "wof:lastmodified":1463434622,
+    "wof:name":"Timberline Health Group",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "specialty",
+        "psychiatric",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -81.162242,
+    37.799315,
+    -81.162242,
+    37.799315
+],
+  "geometry": {"coordinates":[-81.16224200000001,37.799315],"type":"Point"}
+}

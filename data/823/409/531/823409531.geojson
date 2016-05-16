@@ -1,0 +1,71 @@
+{
+  "id": 823409531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.703641,38.366174,-81.703641,38.366174",
+    "geom:latitude":38.366174,
+    "geom:longitude":-81.703641,
+    "iso:country":"US",
+    "sg:address":"3125 Maccorkle Ave SW",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 2441",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yQDAP93c1NxOv7Bl8adVt_38.366174_-81.703641@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433003,
+    "wof:geomhash":"65bbe4abe3e768f5f8ca65b097140b45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823409531
+        }
+    ],
+    "wof:id":823409531,
+    "wof:lastmodified":1463433003,
+    "wof:name":"Classic Detail Inc",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -81.703641,
+    38.366174,
+    -81.703641,
+    38.366174
+],
+  "geometry": {"coordinates":[-81.703641,38.366174],"type":"Point"}
+}

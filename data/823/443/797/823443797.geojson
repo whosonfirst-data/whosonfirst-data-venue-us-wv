@@ -1,0 +1,73 @@
+{
+  "id": 823443797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.632306,38.354954,-81.632306,38.354954",
+    "geom:latitude":38.354954,
+    "geom:longitude":-81.632306,
+    "iso:country":"US",
+    "sg:address":"511 Court St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 348 6480",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07rLTbWoL64sIjl8BiZSQo_38.354954_-81.632306@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434534,
+    "wof:geomhash":"5d6b935d5224e6ee8050edfe64337abd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823443797
+        }
+    ],
+    "wof:id":823443797,
+    "wof:lastmodified":1463434534,
+    "wof:name":"Charleston Police-Criminal Inv",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -81.632306,
+    38.354954,
+    -81.632306,
+    38.354954
+],
+  "geometry": {"coordinates":[-81.632306,38.354954],"type":"Point"}
+}

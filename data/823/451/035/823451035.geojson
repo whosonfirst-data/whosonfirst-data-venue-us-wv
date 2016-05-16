@@ -1,0 +1,71 @@
+{
+  "id": 823451035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.559234,39.283429,-80.559234,39.283429",
+    "geom:latitude":39.283429,
+    "geom:longitude":-80.559234,
+    "iso:country":"US",
+    "sg:address":"57 Mill St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 782 9600",
+    "sg:postcode":"26426",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85810773,
+        102082619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JWa4JEDTVhxTi5TlZEWOe_39.283429_-80.559234@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434853,
+    "wof:geomhash":"717462c688ecd706b86037eaab1c8aba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "neighbourhood_id":85810773,
+            "region_id":85688589,
+            "venue_id":823451035
+        }
+    ],
+    "wof:id":823451035,
+    "wof:lastmodified":1463434853,
+    "wof:name":"Davis Auto Repair",
+    "wof:parent_id":85810773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -80.559234,
+    39.283429,
+    -80.559234,
+    39.283429
+],
+  "geometry": {"coordinates":[-80.559234,39.283429],"type":"Point"}
+}

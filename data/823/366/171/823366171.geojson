@@ -1,0 +1,71 @@
+{
+  "id": 823366171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.505461,38.410174,-81.505461,38.410174",
+    "geom:latitude":38.410174,
+    "geom:longitude":-81.505461,
+    "iso:country":"US",
+    "sg:address":"107 Woodland Ave",
+    "sg:city":"Elkview",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 965 6695",
+    "sg:postcode":"25071",
+    "sg:province":"WV",
+    "sg:tags":[
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RcNaUYcZmTKENrPkxpfr6_38.410174_-81.505461@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431021,
+    "wof:geomhash":"3b8fa09494b4a3aeda5ccc0f6b4365e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823366171
+        }
+    ],
+    "wof:id":823366171,
+    "wof:lastmodified":1463431021,
+    "wof:name":"West Virginia Couriers Inc",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courier"
+    ]
+},
+  "bbox": [
+    -81.505461,
+    38.410174,
+    -81.505461,
+    38.410174
+],
+  "geometry": {"coordinates":[-81.505461,38.410174],"type":"Point"}
+}

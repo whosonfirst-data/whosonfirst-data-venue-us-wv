@@ -1,0 +1,75 @@
+{
+  "id": 823377889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.192091,37.809137,-81.192091,37.809137",
+    "geom:latitude":37.809137,
+    "geom:longitude":-81.192091,
+    "iso:country":"US",
+    "sg:address":"224 Pinewood Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 252 3402",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "school",
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ktfsNpNSBdVFrPZKESj8m_37.809137_-81.192091@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431550,
+    "wof:geomhash":"6ef021a9b9f58a4b102279a91ea24202",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823377889
+        }
+    ],
+    "wof:id":823377889,
+    "wof:lastmodified":1463431550,
+    "wof:name":"Beckley Dream Center",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "educational"
+    ]
+},
+  "bbox": [
+    -81.192091,
+    37.809137,
+    -81.192091,
+    37.809137
+],
+  "geometry": {"coordinates":[-81.192091,37.809137],"type":"Point"}
+}

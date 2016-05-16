@@ -1,0 +1,75 @@
+{
+  "id": 823425431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.696477,38.367436,-81.696477,38.367436",
+    "geom:latitude":38.367436,
+    "geom:longitude":-81.696477,
+    "iso:country":"US",
+    "sg:address":"206 6th Ave SW",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 6819",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rEx2aWnfHI8R6qcY4j6DZ_38.367436_-81.696477@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433676,
+    "wof:geomhash":"ffb33209906428e05eb572f145dde7af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823425431
+        }
+    ],
+    "wof:id":823425431,
+    "wof:lastmodified":1463433676,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -81.696477,
+    38.367436,
+    -81.696477,
+    38.367436
+],
+  "geometry": {"coordinates":[-81.696477,38.367436],"type":"Point"}
+}

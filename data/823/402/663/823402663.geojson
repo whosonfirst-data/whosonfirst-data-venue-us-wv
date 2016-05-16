@@ -1,0 +1,73 @@
+{
+  "id": 823402663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.610362,40.284526,-80.610362,40.284526",
+    "geom:latitude":40.284526,
+    "geom:longitude":-80.610362,
+    "iso:country":"US",
+    "sg:address":"2101 Charles St",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 1284",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zs2gv2lNmKZPSzk7iIbQt_40.284526_-80.610362@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432699,
+    "wof:geomhash":"072153969af07c2063526856ede83497",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823402663
+        }
+    ],
+    "wof:id":823402663,
+    "wof:lastmodified":1463432699,
+    "wof:name":"Can Fil Apartments Inc",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -80.610362,
+    40.284526,
+    -80.610362,
+    40.284526
+],
+  "geometry": {"coordinates":[-80.61036199999999,40.284526],"type":"Point"}
+}

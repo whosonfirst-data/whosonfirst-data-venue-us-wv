@@ -1,0 +1,74 @@
+{
+  "id": 823454229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.149242,39.47926,-80.149242,39.47926",
+    "geom:latitude":39.47926,
+    "geom:longitude":-80.149242,
+    "iso:country":"US",
+    "sg:address":"500 Fairmont Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/middletown/83509-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 3000",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XmkAsxhLSVazxVufgAEpJ_39.479139_-80.149202@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463435009,
+    "wof:geomhash":"59f4557c8dc81b7a33182a8ca7855d57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823454229
+        }
+    ],
+    "wof:id":823454229,
+    "wof:lastmodified":1463435009,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -80.149242,
+    39.47926,
+    -80.149242,
+    39.47926
+],
+  "geometry": {"coordinates":[-80.149242,39.47926],"type":"Point"}
+}

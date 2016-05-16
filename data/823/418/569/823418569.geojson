@@ -1,0 +1,73 @@
+{
+  "id": 823418569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.252685,39.296233,-80.252685,39.296233",
+    "geom:latitude":39.296233,
+    "geom:longitude":-80.252685,
+    "iso:country":"US",
+    "sg:address":"824 Worthington Dr",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 6585",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Pgcp4Df6cthodmXY2wM3e_39.296233_-80.252685@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433409,
+    "wof:geomhash":"44027a4077e9260478025ea8bcee17bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823418569
+        }
+    ],
+    "wof:id":823418569,
+    "wof:lastmodified":1463433409,
+    "wof:name":"Frederick Electric",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.252685,
+    39.296233,
+    -80.252685,
+    39.296233
+],
+  "geometry": {"coordinates":[-80.252685,39.296233],"type":"Point"}
+}

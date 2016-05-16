@@ -1,0 +1,72 @@
+{
+  "id": 823365977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.541556,39.23289,-81.541556,39.23289",
+    "geom:latitude":39.23289,
+    "geom:longitude":-81.541556,
+    "iso:country":"US",
+    "sg:address":"2333 Pike St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 422 7111",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home"
+    ],
+    "sg:website":"www.lambert-tatman.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hCGc8BAykmiGiH2jJnF9m_39.232890_-81.541556@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431008,
+    "wof:geomhash":"4eb3d56518305d46fdd9deb38aea1909",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823365977
+        }
+    ],
+    "wof:id":823365977,
+    "wof:lastmodified":1463431008,
+    "wof:name":"Lambert-Tatman Funeral Home",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -81.541556,
+    39.23289,
+    -81.541556,
+    39.23289
+],
+  "geometry": {"coordinates":[-81.541556,39.23289],"type":"Point"}
+}

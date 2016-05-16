@@ -1,0 +1,76 @@
+{
+  "id": 823454213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.958776,39.629503,-79.958776,39.629503",
+    "geom:latitude":39.629503,
+    "geom:longitude":-79.958776,
+    "iso:country":"US",
+    "sg:address":"1125 University Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/central/271248-wings-ole/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 4486",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "wing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Q00iMFXkChYZ9tWmzUAQ8_39.629302_-79.958846@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463435008,
+    "wof:geomhash":"9731d7e8ab3e6373e9d6b638ba39608b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851489,
+            "region_id":85688589,
+            "venue_id":823454213
+        }
+    ],
+    "wof:id":823454213,
+    "wof:lastmodified":1463435008,
+    "wof:name":"Wings Ole",
+    "wof:parent_id":85851489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing"
+    ]
+},
+  "bbox": [
+    -79.958776,
+    39.629503,
+    -79.958776,
+    39.629503
+],
+  "geometry": {"coordinates":[-79.958776,39.629503],"type":"Point"}
+}

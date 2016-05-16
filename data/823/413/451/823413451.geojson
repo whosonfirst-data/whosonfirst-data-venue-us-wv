@@ -1,0 +1,71 @@
+{
+  "id": 823413451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.966642,39.652699,-79.966642,39.652699",
+    "geom:latitude":39.652699,
+    "geom:longitude":-79.966642,
+    "iso:country":"US",
+    "sg:address":"400 Drummond St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 5672",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dermatology",
+        "physician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CmvHx7qTSoB9wxLRU7FBO_39.652699_-79.966642@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433154,
+    "wof:geomhash":"962c3beb2db544b0ee4a23648b5bc0e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823413451
+        }
+    ],
+    "wof:id":823413451,
+    "wof:lastmodified":1463433154,
+    "wof:name":"Hall Hall Drmtology Assoc Pllc",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dermatology",
+        "physician"
+    ]
+},
+  "bbox": [
+    -79.966642,
+    39.652699,
+    -79.966642,
+    39.652699
+],
+  "geometry": {"coordinates":[-79.96664199999999,39.652699],"type":"Point"}
+}

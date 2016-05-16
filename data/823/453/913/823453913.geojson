@@ -1,0 +1,74 @@
+{
+  "id": 823453913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.124276,38.994377,-79.124276,38.994377",
+    "geom:latitude":38.994377,
+    "geom:longitude":-79.124276,
+    "iso:country":"US",
+    "sg:address":"15 N Main St",
+    "sg:city":"Petersburg",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/milroy/192408-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 257 9393",
+    "sg:postcode":"26847",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731285,
+        102082625,
+        85852439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63oAB1vO8V2PILzzjVoyD3_38.994377_-79.124276@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434974,
+    "wof:geomhash":"11bbefcc744c2c43db21662ed9b4be4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082625,
+            "locality_id":101731285,
+            "neighbourhood_id":85852439,
+            "region_id":85688589,
+            "venue_id":823453913
+        }
+    ],
+    "wof:id":823453913,
+    "wof:lastmodified":1463434974,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85852439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -79.124276,
+    38.994377,
+    -79.124276,
+    38.994377
+],
+  "geometry": {"coordinates":[-79.12427599999999,38.994377],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 823390055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.670994,38.475306,-81.670994,38.475306",
+    "geom:latitude":38.475306,
+    "geom:longitude":-81.670994,
+    "iso:country":"US",
+    "sg:address":"6287 Sissonville Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 984 0435",
+    "sg:postcode":"25312",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Q1UJUwB6XW4zahbeRCflf_38.475306_-81.670994@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432079,
+    "wof:geomhash":"762df54863b88d85d9bfb07ffbff8b1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823390055
+        }
+    ],
+    "wof:id":823390055,
+    "wof:lastmodified":1463432079,
+    "wof:name":"Family Dollar Stores",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.670994,
+    38.475306,
+    -81.670994,
+    38.475306
+],
+  "geometry": {"coordinates":[-81.67099399999999,38.475306],"type":"Point"}
+}

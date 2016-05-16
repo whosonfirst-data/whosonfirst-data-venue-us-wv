@@ -1,0 +1,76 @@
+{
+  "id": 823453161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.148648,37.972385,-81.148648,37.972385",
+    "geom:latitude":37.972385,
+    "geom:longitude":-81.148648,
+    "iso:country":"US",
+    "sg:address":"108 Jones Ave",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/plateau/139690-sicilias-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 465 0537",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lICyQC6EuZq3xt2NK0u7O_37.972385_-81.148648@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434936,
+    "wof:geomhash":"1c18e25d25751c7bd68e9e20744d04d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823453161
+        }
+    ],
+    "wof:id":823453161,
+    "wof:lastmodified":1463434936,
+    "wof:name":"Sicilia's Pizzeria",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -81.148648,
+    37.972385,
+    -81.148648,
+    37.972385
+],
+  "geometry": {"coordinates":[-81.14864799999999,37.972385],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 823453039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.210547,37.790326,-81.210547,37.790326",
+    "geom:latitude":37.790326,
+    "geom:longitude":-81.210547,
+    "iso:country":"US",
+    "sg:address":"1912 Harper Rd",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/pax/71725-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 255 0708",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rtGoFEzKF5qp766Uq3kXm_37.790326_-81.210547@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434931,
+    "wof:geomhash":"f01dc2741b5fc2661b753c77da610924",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823453039
+        }
+    ],
+    "wof:id":823453039,
+    "wof:lastmodified":1463434931,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -81.210547,
+    37.790326,
+    -81.210547,
+    37.790326
+],
+  "geometry": {"coordinates":[-81.21054700000001,37.790326],"type":"Point"}
+}

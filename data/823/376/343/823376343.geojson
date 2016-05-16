@@ -1,0 +1,71 @@
+{
+  "id": 823376343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.567182,38.265344,-81.567182,38.265344",
+    "geom:latitude":38.265344,
+    "geom:longitude":-81.567182,
+    "iso:country":"US",
+    "sg:address":"301 W Main St",
+    "sg:city":"Duck",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 624 8542",
+    "sg:postcode":"25015",
+    "sg:province":"WV",
+    "sg:tags":[
+        "executive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25xy7VVQdURBpiOrtF3Xel_38.265344_-81.567182@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431477,
+    "wof:geomhash":"d07f94097e1e2fc66614c5b313fdb499",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823376343
+        }
+    ],
+    "wof:id":823376343,
+    "wof:lastmodified":1463431477,
+    "wof:name":"Business Assessments",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "executive"
+    ]
+},
+  "bbox": [
+    -81.567182,
+    38.265344,
+    -81.567182,
+    38.265344
+],
+  "geometry": {"coordinates":[-81.567182,38.265344],"type":"Point"}
+}

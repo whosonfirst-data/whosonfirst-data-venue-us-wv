@@ -1,0 +1,76 @@
+{
+  "id": 823453103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.130713,37.748114,-81.130713,37.748114",
+    "geom:latitude":37.748114,
+    "geom:longitude":-81.130713,
+    "iso:country":"US",
+    "sg:address":"904 Ritter Dr",
+    "sg:city":"Beaver",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/glade-creek/181531-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 929 8000",
+    "sg:postcode":"25813",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20zUpXDjMpMx8kFFwSaXnj_37.748114_-81.130713@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434934,
+    "wof:geomhash":"963be47c7daf16313667338a71682bda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823453103
+        }
+    ],
+    "wof:id":823453103,
+    "wof:lastmodified":1463434934,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -81.130713,
+    37.748114,
+    -81.130713,
+    37.748114
+],
+  "geometry": {"coordinates":[-81.130713,37.748114],"type":"Point"}
+}

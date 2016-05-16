@@ -1,0 +1,73 @@
+{
+  "id": 823384871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.013473,38.437308,-82.013473,38.437308",
+    "geom:latitude":38.437308,
+    "geom:longitude":-82.013473,
+    "iso:country":"US",
+    "sg:address":"3104 Putnam Ave",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 562 3980",
+    "sg:postcode":"25526",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automobile",
+        "customizing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731829,
+        102083381,
+        85868321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ini9VjFuR5Lo9devbOn4k_38.437308_-82.013473@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431845,
+    "wof:geomhash":"888c0c9026922bf15ab5a5e70236a4f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731829,
+            "neighbourhood_id":85868321,
+            "region_id":85688589,
+            "venue_id":823384871
+        }
+    ],
+    "wof:id":823384871,
+    "wof:lastmodified":1463431845,
+    "wof:name":"Paint By Milt",
+    "wof:parent_id":85868321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "customizing"
+    ]
+},
+  "bbox": [
+    -82.013473,
+    38.437308,
+    -82.013473,
+    38.437308
+],
+  "geometry": {"coordinates":[-82.013473,38.437308],"type":"Point"}
+}

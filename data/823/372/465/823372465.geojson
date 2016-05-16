@@ -1,0 +1,73 @@
+{
+  "id": 823372465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.987133,39.654211,-79.987133,39.654211",
+    "geom:latitude":39.654211,
+    "geom:longitude":-79.987133,
+    "iso:country":"US",
+    "sg:address":"1400 Saratoga Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 1680",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operation",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731749,
+        102082587,
+        85807277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10J2SujLLJmX5QwHQJfS3j_39.654211_-79.987133@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431302,
+    "wof:geomhash":"8d544c3c5a02330fca7ee81d3b480869",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731749,
+            "neighbourhood_id":85807277,
+            "region_id":85688589,
+            "venue_id":823372465
+        }
+    ],
+    "wof:id":823372465,
+    "wof:lastmodified":1463431302,
+    "wof:name":"Holiday Inn",
+    "wof:parent_id":85807277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "eating"
+    ]
+},
+  "bbox": [
+    -79.987133,
+    39.654211,
+    -79.987133,
+    39.654211
+],
+  "geometry": {"coordinates":[-79.987133,39.654211],"type":"Point"}
+}

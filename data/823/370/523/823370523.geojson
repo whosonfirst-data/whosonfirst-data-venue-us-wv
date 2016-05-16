@@ -1,0 +1,73 @@
+{
+  "id": 823370523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.598812,38.328339,-81.598812,38.328339",
+    "geom:latitude":38.328339,
+    "geom:longitude":-81.598812,
+    "iso:country":"US",
+    "sg:address":"3418 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 9599",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "lounge",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SA1NuTSbJK4kUU7ztbFWE_38.328339_-81.598812@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431196,
+    "wof:geomhash":"0600b21faabdd59345489eb85140e309",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823370523
+        }
+    ],
+    "wof:id":823370523,
+    "wof:lastmodified":1463431196,
+    "wof:name":"Hot Spot Lounge",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -81.598812,
+    38.328339,
+    -81.598812,
+    38.328339
+],
+  "geometry": {"coordinates":[-81.598812,38.328339],"type":"Point"}
+}

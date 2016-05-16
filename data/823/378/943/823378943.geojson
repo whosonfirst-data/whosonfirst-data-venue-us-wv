@@ -1,0 +1,71 @@
+{
+  "id": 823378943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.301264,37.803011,-80.301264,37.803011",
+    "geom:latitude":37.803011,
+    "geom:longitude":-80.301264,
+    "iso:country":"US",
+    "sg:address":"601 Big Draft Rd",
+    "sg:city":"White Slphr Spgs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 536 1688",
+    "sg:postcode":"24986",
+    "sg:province":"WV",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jDcIgap2OUCbVzZHXGeWP_37.803011_-80.301264@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431593,
+    "wof:geomhash":"5bf1c0b1ee47e6caad2a5e05075ff677",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823378943
+        }
+    ],
+    "wof:id":823378943,
+    "wof:lastmodified":1463431593,
+    "wof:name":"Moore's Laundry",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -80.301264,
+    37.803011,
+    -80.301264,
+    37.803011
+],
+  "geometry": {"coordinates":[-80.301264,37.803011],"type":"Point"}
+}

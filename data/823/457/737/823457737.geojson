@@ -1,0 +1,71 @@
+{
+  "id": 823457737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.902084,39.702171,-79.902084,39.702171",
+    "geom:latitude":39.702171,
+    "geom:longitude":-79.902084,
+    "iso:country":"US",
+    "sg:address":"2419 Stewartstown Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Office Building",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 319 1498",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "park"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731747,
+        102082587,
+        85819247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JLfuYOmjbpJrPFYmHaAIq_39.702171_-79.902084@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435178,
+    "wof:geomhash":"f9bde6807f274f8e5a3a8bd7e8ae3ac8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85819247,
+            "region_id":85688589,
+            "venue_id":823457737
+        }
+    ],
+    "wof:id":823457737,
+    "wof:lastmodified":1463435178,
+    "wof:name":"Scott Properties",
+    "wof:parent_id":85819247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "park"
+    ]
+},
+  "bbox": [
+    -79.902084,
+    39.702171,
+    -79.902084,
+    39.702171
+],
+  "geometry": {"coordinates":[-79.902084,39.702171],"type":"Point"}
+}

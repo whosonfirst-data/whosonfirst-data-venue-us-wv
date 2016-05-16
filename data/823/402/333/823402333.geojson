@@ -1,0 +1,73 @@
+{
+  "id": 823402333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.333613,38.408699,-82.333613,38.408699",
+    "geom:latitude":38.408699,
+    "geom:longitude":-82.333613,
+    "iso:country":"US",
+    "sg:address":"5590 Shawnee Dr",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 733 4900",
+    "sg:postcode":"25705",
+    "sg:province":"WV",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85856091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35j6PQbgwR51OcJou8LPpy_38.408699_-82.333613@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432688,
+    "wof:geomhash":"ccc0ed24f169323a1411fa8f49c0c777",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85856091,
+            "region_id":85688589,
+            "venue_id":823402333
+        }
+    ],
+    "wof:id":823402333,
+    "wof:lastmodified":1463432688,
+    "wof:name":"Fowler's Lock Svc",
+    "wof:parent_id":85856091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -82.333613,
+    38.408699,
+    -82.333613,
+    38.408699
+],
+  "geometry": {"coordinates":[-82.333613,38.408699],"type":"Point"}
+}

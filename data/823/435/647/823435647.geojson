@@ -1,0 +1,71 @@
+{
+  "id": 823435647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.038327,39.354311,-80.038327,39.354311",
+    "geom:latitude":39.354311,
+    "geom:longitude":-80.038327,
+    "iso:country":"US",
+    "sg:address":"1337 Railroad St",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 265 3878",
+    "sg:postcode":"26354",
+    "sg:province":"WV",
+    "sg:tags":[
+        "janitorial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731717,
+        102083351,
+        85855577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3x6Rl88bwTWdCLYGl7OpaS_39.354311_-80.038327@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434151,
+    "wof:geomhash":"558f82609ed4d94b3123be7c8b333838",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083351,
+            "locality_id":101731717,
+            "neighbourhood_id":85855577,
+            "region_id":85688589,
+            "venue_id":823435647
+        }
+    ],
+    "wof:id":823435647,
+    "wof:lastmodified":1463434151,
+    "wof:name":"Carol Evanovich",
+    "wof:parent_id":85855577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitorial"
+    ]
+},
+  "bbox": [
+    -80.038327,
+    39.354311,
+    -80.038327,
+    39.354311
+],
+  "geometry": {"coordinates":[-80.038327,39.354311],"type":"Point"}
+}

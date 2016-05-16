@@ -1,0 +1,71 @@
+{
+  "id": 823370029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.972996,38.987981,-81.972996,38.987981",
+    "geom:latitude":38.987981,
+    "geom:longitude":-81.972996,
+    "iso:country":"US",
+    "sg:address":"116 Main St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 882 3565",
+    "sg:postcode":"25265",
+    "sg:province":"WV",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731555,
+        102082637,
+        85830595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FVslNzhOgXZeCIoHoN2v3_38.987981_-81.972996@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431175,
+    "wof:geomhash":"81370a3e29e7861f46485baed3904f4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082637,
+            "locality_id":101731555,
+            "neighbourhood_id":85830595,
+            "region_id":85688589,
+            "venue_id":823370029
+        }
+    ],
+    "wof:id":823370029,
+    "wof:lastmodified":1463431175,
+    "wof:name":"American Property Appraisal",
+    "wof:parent_id":85830595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -81.972996,
+    38.987981,
+    -81.972996,
+    38.987981
+],
+  "geometry": {"coordinates":[-81.97299599999999,38.987981],"type":"Point"}
+}

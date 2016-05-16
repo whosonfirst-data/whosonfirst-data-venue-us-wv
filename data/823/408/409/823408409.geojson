@@ -1,0 +1,75 @@
+{
+  "id": 823408409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.629779,38.346675,-81.629779,38.346675",
+    "geom:latitude":38.346675,
+    "geom:longitude":-81.629779,
+    "iso:country":"US",
+    "sg:address":"210 Brooks St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 414 0613",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AFZKUzmJDgBc8WeL8G6si_38.346675_-81.629779@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432963,
+    "wof:geomhash":"70bba538331cccfe910395cddf678059",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823408409
+        }
+    ],
+    "wof:id":823408409,
+    "wof:lastmodified":1463432963,
+    "wof:name":"Vanguard Financial Svc",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -81.629779,
+    38.346675,
+    -81.629779,
+    38.346675
+],
+  "geometry": {"coordinates":[-81.629779,38.346675],"type":"Point"}
+}

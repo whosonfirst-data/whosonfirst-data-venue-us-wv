@@ -1,0 +1,75 @@
+{
+  "id": 823434707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.179151,37.797571,-81.179151,37.797571",
+    "geom:latitude":37.797571,
+    "geom:longitude":-81.179151,
+    "iso:country":"US",
+    "sg:address":"255 Warden St",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 252 3874",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56gQr1RqHBPvnaQ16iyHEu_37.797571_-81.179151@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434115,
+    "wof:geomhash":"d589d6dfa7b8e9f5f9a2f8886965df89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823434707
+        }
+    ],
+    "wof:id":823434707,
+    "wof:lastmodified":1463434115,
+    "wof:name":"Ace Enterprises Inc",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.179151,
+    37.797571,
+    -81.179151,
+    37.797571
+],
+  "geometry": {"coordinates":[-81.179151,37.797571],"type":"Point"}
+}

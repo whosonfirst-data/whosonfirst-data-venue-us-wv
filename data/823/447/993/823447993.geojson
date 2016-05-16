@@ -1,0 +1,71 @@
+{
+  "id": 823447993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.121923,37.365562,-81.121923,37.365562",
+    "geom:latitude":37.365562,
+    "geom:longitude":-81.121923,
+    "iso:country":"US",
+    "sg:address":"103 Hope Ln",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 0226",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5D4ZytXAFnSDO6lYNDkwxq_37.365562_-81.121923@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434740,
+    "wof:geomhash":"6336b701158ebf048a4a3fc6a2715904",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823447993
+        }
+    ],
+    "wof:id":823447993,
+    "wof:lastmodified":1463434740,
+    "wof:name":"T J Pressure Washing",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.121923,
+    37.365562,
+    -81.121923,
+    37.365562
+],
+  "geometry": {"coordinates":[-81.121923,37.365562],"type":"Point"}
+}

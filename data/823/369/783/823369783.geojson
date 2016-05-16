@@ -1,0 +1,71 @@
+{
+  "id": 823369783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.301738,39.395241,-80.301738,39.395241",
+    "geom:latitude":39.395241,
+    "geom:longitude":-80.301738,
+    "iso:country":"US",
+    "sg:address":"242 Pike St",
+    "sg:city":"Shinnston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 592 1084",
+    "sg:postcode":"26431",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85831189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wE19oQN0KXFfBbzJjrDbu_39.395241_-80.301738@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431161,
+    "wof:geomhash":"70d87e8e8730e9560658904484b09fd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85831189,
+            "region_id":85688589,
+            "venue_id":823369783
+        }
+    ],
+    "wof:id":823369783,
+    "wof:lastmodified":1463431161,
+    "wof:name":"Orioles Club",
+    "wof:parent_id":85831189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -80.301738,
+    39.395241,
+    -80.301738,
+    39.395241
+],
+  "geometry": {"coordinates":[-80.301738,39.395241],"type":"Point"}
+}

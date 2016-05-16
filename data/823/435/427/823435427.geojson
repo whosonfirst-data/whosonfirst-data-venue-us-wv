@@ -1,0 +1,79 @@
+{
+  "id": 823435427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.186267,37.769714,-81.186267,37.769714",
+    "geom:latitude":37.769714,
+    "geom:longitude":-81.186267,
+    "iso:country":"US",
+    "sg:address":"515 Woodlawn Ave",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 252 8896",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "operator",
+        "eating",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uTyu1igezJq0RpV1YdTxI_37.769714_-81.186267@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434143,
+    "wof:geomhash":"55f4464162d0e8cad7e11549af59395c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823435427
+        }
+    ],
+    "wof:id":823435427,
+    "wof:lastmodified":1463434143,
+    "wof:name":"Dunkin Donuts",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "operator",
+        "eating",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -81.186267,
+    37.769714,
+    -81.186267,
+    37.769714
+],
+  "geometry": {"coordinates":[-81.186267,37.769714],"type":"Point"}
+}

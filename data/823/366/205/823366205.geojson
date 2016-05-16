@@ -1,0 +1,71 @@
+{
+  "id": 823366205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.865517,39.641343,-80.865517,39.641343",
+    "geom:latitude":39.641343,
+    "geom:longitude":-80.865517,
+    "iso:country":"US",
+    "sg:address":"221 Main St",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 386 4222",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CN1zisZpv2U6uEq1CHEnB_39.641343_-80.865517@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431022,
+    "wof:geomhash":"e218b5c9eca633ebd6bb49fddfcfcc7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823366205
+        }
+    ],
+    "wof:id":823366205,
+    "wof:lastmodified":1463431022,
+    "wof:name":"Wetzel County Sheriff Dept",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -80.865517,
+    39.641343,
+    -80.865517,
+    39.641343
+],
+  "geometry": {"coordinates":[-80.865517,39.641343],"type":"Point"}
+}

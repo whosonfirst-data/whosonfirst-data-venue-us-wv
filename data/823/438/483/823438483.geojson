@@ -1,0 +1,68 @@
+{
+  "id": 823438483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.980749,39.655714,-79.980749,39.655714",
+    "geom:latitude":39.655714,
+    "geom:longitude":-79.980749,
+    "iso:country":"US",
+    "sg:address":"1332 Cain St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 598 3925",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36UVjN2OWCH4iT8sCHHITn_39.655714_-79.980749@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434302,
+    "wof:geomhash":"a1b7d7fb9200964a543e3b62c41613b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851419,
+            "region_id":85688589,
+            "venue_id":823438483
+        }
+    ],
+    "wof:id":823438483,
+    "wof:lastmodified":1463434302,
+    "wof:name":"Honeydo Residential Repair",
+    "wof:parent_id":85851419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.980749,
+    39.655714,
+    -79.980749,
+    39.655714
+],
+  "geometry": {"coordinates":[-79.980749,39.655714],"type":"Point"}
+}

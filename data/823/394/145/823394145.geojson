@@ -1,0 +1,71 @@
+{
+  "id": 823394145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.13843,38.844146,-82.13843,38.844146",
+    "geom:latitude":38.844146,
+    "geom:longitude":-82.13843,
+    "iso:country":"US",
+    "sg:address":"509 Main St",
+    "sg:city":"Point Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 675 7201",
+    "sg:postcode":"25550",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85983229,
+        102083675,
+        85824533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ixoZfo3enqOsjBfDFYnXz_38.844146_-82.138430@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432287,
+    "wof:geomhash":"da9330267a3154a393b92690d3dbf6b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "neighbourhood_id":85824533,
+            "region_id":85688485,
+            "venue_id":823394145
+        }
+    ],
+    "wof:id":823394145,
+    "wof:lastmodified":1463432287,
+    "wof:name":"Melinda's Restaurant",
+    "wof:parent_id":85824533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -82.13843,
+    38.844146,
+    -82.13843,
+    38.844146
+],
+  "geometry": {"coordinates":[-82.13843,38.844146],"type":"Point"}
+}

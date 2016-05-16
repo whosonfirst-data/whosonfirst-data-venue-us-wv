@@ -1,0 +1,71 @@
+{
+  "id": 823447479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.983196,39.452981,-77.983196,39.452981",
+    "geom:latitude":39.452981,
+    "geom:longitude":-77.983196,
+    "iso:country":"US",
+    "sg:address":"713 Snapp St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 267 4568",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mgZvCVoZPvUS02f9cedWL_39.452981_-77.983196@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434711,
+    "wof:geomhash":"7c466e57796105d617dd1d8d957cbda6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823447479
+        }
+    ],
+    "wof:id":823447479,
+    "wof:lastmodified":1463434711,
+    "wof:name":"Benders Beauty Shop",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -77.983196,
+    39.452981,
+    -77.983196,
+    39.452981
+],
+  "geometry": {"coordinates":[-77.98319600000001,39.452981],"type":"Point"}
+}

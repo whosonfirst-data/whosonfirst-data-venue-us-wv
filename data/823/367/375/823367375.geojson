@@ -1,0 +1,71 @@
+{
+  "id": 823367375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.564044,40.61236,-80.564044,40.61236",
+    "geom:latitude":40.61236,
+    "geom:longitude":-80.564044,
+    "iso:country":"US",
+    "sg:address":"375 Carolina Ave",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 0772",
+    "sg:postcode":"26034",
+    "sg:province":"WV",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qzkuQDXuaD5FUPgSZlQn0_40.612360_-80.564044@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431071,
+    "wof:geomhash":"8a38866c1f5a4a1ff37ebb1013e235c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823367375
+        }
+    ],
+    "wof:id":823367375,
+    "wof:lastmodified":1463431071,
+    "wof:name":"Pump House",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -80.564044,
+    40.61236,
+    -80.564044,
+    40.61236
+],
+  "geometry": {"coordinates":[-80.564044,40.61236],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 823456133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.698426,40.076012,-80.698426,40.076012",
+    "geom:latitude":40.076012,
+    "geom:longitude":-80.698426,
+    "iso:country":"US",
+    "sg:address":"795 National Rd",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 233 0440",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "corporate",
+        "lodging"
+    ],
+    "sg:website":"http://www.hampton-inn.com/hi/wheeling",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85830083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5InqQnjAOAVR7lY1x6lk5i_40.076012_-80.698426@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435101,
+    "wof:geomhash":"fa9fbbe70afae64224bdf5c970c41f9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85830083,
+            "region_id":85688589,
+            "venue_id":823456133
+        }
+    ],
+    "wof:id":823456133,
+    "wof:lastmodified":1463435101,
+    "wof:name":"Hampton Inn",
+    "wof:parent_id":85830083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "corporate",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -80.698426,
+    40.076012,
+    -80.698426,
+    40.076012
+],
+  "geometry": {"coordinates":[-80.698426,40.076012],"type":"Point"}
+}

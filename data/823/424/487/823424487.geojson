@@ -1,0 +1,71 @@
+{
+  "id": 823424487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.008237,37.847132,-82.008237,37.847132",
+    "geom:latitude":37.847132,
+    "geom:longitude":-82.008237,
+    "iso:country":"US",
+    "sg:address":"364 Riverview Ave",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 752 4443",
+    "sg:postcode":"25601",
+    "sg:province":"WV",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868319,
+        102083369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bovHC5NSt9nVEmhmaMVNp_37.847132_-82.008237@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433640,
+    "wof:geomhash":"010f34b6a1f5776e6e28bad2dae76737",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083369,
+            "neighbourhood_id":85868319,
+            "region_id":85688589,
+            "venue_id":823424487
+        }
+    ],
+    "wof:id":823424487,
+    "wof:lastmodified":1463433640,
+    "wof:name":"Logan Physical Therapy",
+    "wof:parent_id":85868319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -82.008237,
+    37.847132,
+    -82.008237,
+    37.847132
+],
+  "geometry": {"coordinates":[-82.00823699999999,37.847132],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 823453139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.384014,37.580927,-81.384014,37.580927",
+    "geom:latitude":37.580927,
+    "geom:longitude":-81.384014,
+    "iso:country":"US",
+    "sg:address":"411 Guyandotte Ave",
+    "sg:city":"Mullens",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/mullens/67917-foxs-pizza-den/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 294 8000",
+    "sg:postcode":"25882",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731355,
+        102083379,
+        85838593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EwDpIflwcLi301e3QBYJI_37.580927_-81.384014@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434935,
+    "wof:geomhash":"69c0ec7554837208ee52e9023b12d95a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083379,
+            "locality_id":101731355,
+            "neighbourhood_id":85838593,
+            "region_id":85688589,
+            "venue_id":823453139
+        }
+    ],
+    "wof:id":823453139,
+    "wof:lastmodified":1463434935,
+    "wof:name":"Fox's Pizza Den",
+    "wof:parent_id":85838593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -81.384014,
+    37.580927,
+    -81.384014,
+    37.580927
+],
+  "geometry": {"coordinates":[-81.38401399999999,37.580927],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823388975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.088214,37.370785,-81.088214,37.370785",
+    "geom:latitude":37.370785,
+    "geom:longitude":-81.088214,
+    "iso:country":"US",
+    "sg:address":"307 Straley Ave",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 4111",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BsXBSd4WOdbzBbJgOFAzU_37.370785_-81.088214@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432030,
+    "wof:geomhash":"e3bc227cda2e1094c462b2e84d973a83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823388975
+        }
+    ],
+    "wof:id":823388975,
+    "wof:lastmodified":1463432030,
+    "wof:name":"E & M Garage",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -81.088214,
+    37.370785,
+    -81.088214,
+    37.370785
+],
+  "geometry": {"coordinates":[-81.08821399999999,37.370785],"type":"Point"}
+}

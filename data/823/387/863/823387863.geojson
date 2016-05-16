@@ -1,0 +1,71 @@
+{
+  "id": 823387863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.597335,38.346683,-81.597335,38.346683",
+    "geom:latitude":38.346683,
+    "geom:longitude":-81.597335,
+    "iso:country":"US",
+    "sg:address":"1878 Ellette Pl",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 344 3000",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75ashK5IuH2vxSbSDEcFUr_38.346683_-81.597335@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431959,
+    "wof:geomhash":"caf0e87cff234bef281e04b61c22e9df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823387863
+        }
+    ],
+    "wof:id":823387863,
+    "wof:lastmodified":1463431959,
+    "wof:name":"Strand The",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -81.597335,
+    38.346683,
+    -81.597335,
+    38.346683
+],
+  "geometry": {"coordinates":[-81.597335,38.346683],"type":"Point"}
+}

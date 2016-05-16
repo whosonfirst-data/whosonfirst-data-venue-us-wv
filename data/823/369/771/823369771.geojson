@@ -1,0 +1,71 @@
+{
+  "id": 823369771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.612952,40.271861,-80.612952,40.271861",
+    "geom:latitude":40.271861,
+    "geom:longitude":-80.612952,
+    "iso:country":"US",
+    "sg:address":"801 Main St",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 0064",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30zLtoDfF08iroyNf2NnMS_40.271861_-80.612952@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431160,
+    "wof:geomhash":"262be1e86b80a4ace3f55e110c33585d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823369771
+        }
+    ],
+    "wof:id":823369771,
+    "wof:lastmodified":1463431160,
+    "wof:name":"Staffileno's On The River",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -80.612952,
+    40.271861,
+    -80.612952,
+    40.271861
+],
+  "geometry": {"coordinates":[-80.61295200000001,40.271861],"type":"Point"}
+}

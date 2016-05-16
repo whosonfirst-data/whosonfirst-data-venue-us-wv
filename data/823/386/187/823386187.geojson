@@ -1,0 +1,75 @@
+{
+  "id": 823386187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.274298,39.299145,-80.274298,39.299145",
+    "geom:latitude":39.299145,
+    "geom:longitude":-80.274298,
+    "iso:country":"US",
+    "sg:address":"1160 Johnson Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 9084",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68yrJeZFEetpHgasw7tcmg_39.299145_-80.274298@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431896,
+    "wof:geomhash":"2ac8c016a533c870c917622f8a91b776",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823386187
+        }
+    ],
+    "wof:id":823386187,
+    "wof:lastmodified":1463431896,
+    "wof:name":"Psychiatric Associates",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -80.274298,
+    39.299145,
+    -80.274298,
+    39.299145
+],
+  "geometry": {"coordinates":[-80.274298,39.299145],"type":"Point"}
+}

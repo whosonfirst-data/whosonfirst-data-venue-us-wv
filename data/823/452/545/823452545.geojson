@@ -1,0 +1,76 @@
+{
+  "id": 823452545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.71482,38.322358,-81.71482,38.322358",
+    "geom:latitude":38.322358,
+    "geom:longitude":-81.71482,
+    "iso:country":"US",
+    "sg:address":"2478 Mountaineer Blvd",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/davis-creek/90195-penn-station/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 7366",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pREmHGTcY4OFMcACPx9in_38.322358_-81.714820@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434911,
+    "wof:geomhash":"3788ec6997bad60c66661fbda95538e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823452545
+        }
+    ],
+    "wof:id":823452545,
+    "wof:lastmodified":1463434911,
+    "wof:name":"Penn Station",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -81.71482,
+    38.322358,
+    -81.71482,
+    38.322358
+],
+  "geometry": {"coordinates":[-81.71482,38.322358],"type":"Point"}
+}

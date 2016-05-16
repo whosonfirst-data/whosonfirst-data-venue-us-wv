@@ -1,0 +1,71 @@
+{
+  "id": 823444529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.140588,39.493672,-80.140588,39.493672",
+    "geom:latitude":39.493672,
+    "geom:longitude":-80.140588,
+    "iso:country":"US",
+    "sg:address":"500 Pennsylvania Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 8600",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Rp6e84SOgcMOYKd39GDW9_39.493672_-80.140588@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434565,
+    "wof:geomhash":"92a908ebd8a6d759fe982edfd66b720c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823444529
+        }
+    ],
+    "wof:id":823444529,
+    "wof:lastmodified":1463434565,
+    "wof:name":"Something Sweet",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -80.140588,
+    39.493672,
+    -80.140588,
+    39.493672
+],
+  "geometry": {"coordinates":[-80.14058799999999,39.493672],"type":"Point"}
+}

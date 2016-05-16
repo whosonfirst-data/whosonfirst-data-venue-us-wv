@@ -1,0 +1,71 @@
+{
+  "id": 823433367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.476627,39.04651,-80.476627,39.04651",
+    "geom:latitude":39.04651,
+    "geom:longitude":-80.476627,
+    "iso:country":"US",
+    "sg:address":"541 US Hwy 33",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 269 3288",
+    "sg:postcode":"26452",
+    "sg:province":"WV",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731403,
+        102083339,
+        85808257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3krI1lqErpsloDEfjIwP1f_39.046510_-80.476627@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434033,
+    "wof:geomhash":"125e86d36b322f55dc88fe60dbb71b2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083339,
+            "locality_id":101731403,
+            "neighbourhood_id":85808257,
+            "region_id":85688589,
+            "venue_id":823433367
+        }
+    ],
+    "wof:id":823433367,
+    "wof:lastmodified":1463434033,
+    "wof:name":"Weston Veterinary Hospital",
+    "wof:parent_id":85808257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -80.476627,
+    39.04651,
+    -80.476627,
+    39.04651
+],
+  "geometry": {"coordinates":[-80.47662699999999,39.04651],"type":"Point"}
+}

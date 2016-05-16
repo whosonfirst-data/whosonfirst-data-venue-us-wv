@@ -1,0 +1,71 @@
+{
+  "id": 823385647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.651486,38.371239,-81.651486,38.371239",
+    "geom:latitude":38.371239,
+    "geom:longitude":-81.651486,
+    "iso:country":"US",
+    "sg:address":"915 Beech Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 348 6631",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rO1nMhJYWLLbg314fGTEb_38.371239_-81.651486@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431871,
+    "wof:geomhash":"152638d3b333496d52b15ff0937c6757",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823385647
+        }
+    ],
+    "wof:id":823385647,
+    "wof:lastmodified":1463431871,
+    "wof:name":"J E Robbins Elementary School",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -81.651486,
+    38.371239,
+    -81.651486,
+    38.371239
+],
+  "geometry": {"coordinates":[-81.65148600000001,38.371239],"type":"Point"}
+}

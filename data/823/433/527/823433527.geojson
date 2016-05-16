@@ -1,0 +1,66 @@
+{
+  "id": 823433527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.296878,38.415538,-82.296878,38.415538",
+    "geom:latitude":38.415538,
+    "geom:longitude":-82.296878,
+    "iso:country":"US",
+    "sg:address":"6360 US Hwy 60",
+    "sg:city":"Barboursville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 736 1577",
+    "sg:postcode":"25504",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85816671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2azZZC0hjWT7o17M4dllRo_38.415538_-82.296878@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434039,
+    "wof:geomhash":"d81a61579bec754c2a4e4bbf9226de72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85816671,
+            "region_id":85688589,
+            "venue_id":823433527
+        }
+    ],
+    "wof:id":823433527,
+    "wof:lastmodified":1463434039,
+    "wof:name":"Kroger",
+    "wof:parent_id":85816671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.296878,
+    38.415538,
+    -82.296878,
+    38.415538
+],
+  "geometry": {"coordinates":[-82.29687800000001,38.415538],"type":"Point"}
+}

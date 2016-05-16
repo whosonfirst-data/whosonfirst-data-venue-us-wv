@@ -1,0 +1,71 @@
+{
+  "id": 823429185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.146159,39.45132,-80.146159,39.45132",
+    "geom:latitude":39.45132,
+    "geom:longitude":-80.146159,
+    "iso:country":"US",
+    "sg:address":"1715 Pleasant Valley Rd",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 367 0768",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85834381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5h0qqTAfHZ820eQCdn8bvc_39.451320_-80.146159@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433849,
+    "wof:geomhash":"c48cca83383e0086d3bc06b51cda49fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85834381,
+            "region_id":85688589,
+            "venue_id":823429185
+        }
+    ],
+    "wof:id":823429185,
+    "wof:lastmodified":1463433849,
+    "wof:name":"American Homecare Svc Inc",
+    "wof:parent_id":85834381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -80.146159,
+    39.45132,
+    -80.146159,
+    39.45132
+],
+  "geometry": {"coordinates":[-80.146159,39.45132],"type":"Point"}
+}

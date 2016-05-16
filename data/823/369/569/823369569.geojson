@@ -1,0 +1,75 @@
+{
+  "id": 823369569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.53594,39.284229,-81.53594,39.284229",
+    "geom:latitude":39.284229,
+    "geom:longitude":-81.53594,
+    "iso:country":"US",
+    "sg:address":"3001 Dudley Ave",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 420 4732",
+    "sg:postcode":"26104",
+    "sg:province":"WV",
+    "sg:tags":[
+        "transportation",
+        "administration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731687,
+        102083343,
+        85805293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GqCEe04M07NDFH2JczeYB_39.284229_-81.535940@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431153,
+    "wof:geomhash":"5932fbf84727edead5d97622045c5288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85805293,
+            "region_id":85688589,
+            "venue_id":823369569
+        }
+    ],
+    "wof:id":823369569,
+    "wof:lastmodified":1463431153,
+    "wof:name":"Parkersburg Regional Office",
+    "wof:parent_id":85805293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transportation",
+        "administration"
+    ]
+},
+  "bbox": [
+    -81.53594,
+    39.284229,
+    -81.53594,
+    39.284229
+],
+  "geometry": {"coordinates":[-81.53594,39.284229],"type":"Point"}
+}

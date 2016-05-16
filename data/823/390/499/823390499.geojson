@@ -1,0 +1,71 @@
+{
+  "id": 823390499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.135736,37.984613,-81.135736,37.984613",
+    "geom:latitude":37.984613,
+    "geom:longitude":-81.135736,
+    "iso:country":"US",
+    "sg:address":"205 Martin Ave E",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 469 9767",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5msckp6tNfmOAQsFzFOPHP_37.984613_-81.135736@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432100,
+    "wof:geomhash":"f88b090a61ebd6194e83ff26a4916e95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823390499
+        }
+    ],
+    "wof:id":823390499,
+    "wof:lastmodified":1463432100,
+    "wof:name":"Jim Ward Plumbing & Heating",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.135736,
+    37.984613,
+    -81.135736,
+    37.984613
+],
+  "geometry": {"coordinates":[-81.13573599999999,37.984613],"type":"Point"}
+}

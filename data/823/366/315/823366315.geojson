@@ -1,0 +1,71 @@
+{
+  "id": 823366315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.322903,38.418777,-82.322903,38.418777",
+    "geom:latitude":38.418777,
+    "geom:longitude":-82.322903,
+    "iso:country":"US",
+    "sg:address":"16 Larchmont Dr",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 736 5072",
+    "sg:postcode":"25705",
+    "sg:province":"WV",
+    "sg:tags":[
+        "vitamin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85865435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_767sx5Nv4sEAjN5xUwzDpH_38.418777_-82.322903@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431031,
+    "wof:geomhash":"17b641946f8789ba7589dbad7e38beda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85865435,
+            "region_id":85688589,
+            "venue_id":823366315
+        }
+    ],
+    "wof:id":823366315,
+    "wof:lastmodified":1463431031,
+    "wof:name":"Shaklee Products",
+    "wof:parent_id":85865435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vitamin"
+    ]
+},
+  "bbox": [
+    -82.322903,
+    38.418777,
+    -82.322903,
+    38.418777
+],
+  "geometry": {"coordinates":[-82.322903,38.418777],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823412047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.340069,38.411878,-82.340069,38.411878",
+    "geom:latitude":38.411878,
+    "geom:longitude":-82.340069,
+    "iso:country":"US",
+    "sg:address":"5267 US Hwy 60",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 736 1652",
+    "sg:postcode":"25705",
+    "sg:province":"WV",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85856091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YLzTEsgQPaYnkzr859MPC_38.411878_-82.340069@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433105,
+    "wof:geomhash":"471d35aa9930625b65f5bb731a18dc32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85856091,
+            "region_id":85688589,
+            "venue_id":823412047
+        }
+    ],
+    "wof:id":823412047,
+    "wof:lastmodified":1463433105,
+    "wof:name":"Try State Auto Rentals",
+    "wof:parent_id":85856091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -82.340069,
+    38.411878,
+    -82.340069,
+    38.411878
+],
+  "geometry": {"coordinates":[-82.340069,38.411878],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823438657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.223104,37.79178,-81.223104,37.79178",
+    "geom:latitude":37.79178,
+    "geom:longitude":-81.223104,
+    "iso:country":"US",
+    "sg:address":"310 George St",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 254 9022",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fBZqo5npM1yEOBKqm5rB7_37.791780_-81.223104@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434308,
+    "wof:geomhash":"871f77a3a46466194cf9f6d4342bf5bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823438657
+        }
+    ],
+    "wof:id":823438657,
+    "wof:lastmodified":1463434308,
+    "wof:name":"Nephrology Hypertension Assoc",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -81.223104,
+    37.79178,
+    -81.223104,
+    37.79178
+],
+  "geometry": {"coordinates":[-81.22310400000001,37.79178],"type":"Point"}
+}

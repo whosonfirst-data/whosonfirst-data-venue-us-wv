@@ -1,0 +1,73 @@
+{
+  "id": 823421179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.11316,37.37416,-81.11316,37.37416",
+    "geom:latitude":37.37416,
+    "geom:longitude":-81.11316,
+    "iso:country":"US",
+    "sg:address":"305 Beckley Rd",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 467 8467",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VAaDbZ1vq9F3LphdOHmIn_37.374160_-81.113160@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433513,
+    "wof:geomhash":"7787228d047a685b849c005bc104fa22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823421179
+        }
+    ],
+    "wof:id":823421179,
+    "wof:lastmodified":1463433513,
+    "wof:name":"B & P Enterprises Inc",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -81.11316,
+    37.37416,
+    -81.11316,
+    37.37416
+],
+  "geometry": {"coordinates":[-81.11315999999999,37.37416],"type":"Point"}
+}

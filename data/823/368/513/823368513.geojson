@@ -1,0 +1,71 @@
+{
+  "id": 823368513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.982422,39.460305,-77.982422,39.460305",
+    "geom:latitude":39.460305,
+    "geom:longitude":-77.982422,
+    "iso:country":"US",
+    "sg:address":"215 S Louisiana Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 260 9240",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85846047,
+        102083367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2o2QqywE0qYNRVTeNUfUBE_39.460305_-77.982422@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431116,
+    "wof:geomhash":"b0e9b09d75b63bada10420705dfd5138",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "neighbourhood_id":85846047,
+            "region_id":85688589,
+            "venue_id":823368513
+        }
+    ],
+    "wof:id":823368513,
+    "wof:lastmodified":1463431116,
+    "wof:name":"Hahn Medical Practices Inc",
+    "wof:parent_id":85846047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -77.982422,
+    39.460305,
+    -77.982422,
+    39.460305
+],
+  "geometry": {"coordinates":[-77.982422,39.460305],"type":"Point"}
+}

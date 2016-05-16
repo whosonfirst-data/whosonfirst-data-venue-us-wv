@@ -1,0 +1,77 @@
+{
+  "id": 823456883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.592171,40.394844,-80.592171,40.394844",
+    "geom:latitude":40.394844,
+    "geom:longitude":-80.592171,
+    "iso:country":"US",
+    "sg:address":"3930 Main St",
+    "sg:city":"Weirton",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 748 5560",
+    "sg:postcode":"26062",
+    "sg:province":"WV",
+    "sg:tags":[
+        "seafood"
+    ],
+    "sg:website":"http://www.ljsilvers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731371,
+        102082633,
+        85832497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3p0k08BXdtOMRQgXlQvtcG_40.394844_-80.592171@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435127,
+    "wof:geomhash":"5491ecabe32e24f0eadc54fc4ed66adb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731371,
+            "neighbourhood_id":85832497,
+            "region_id":85688589,
+            "venue_id":823456883
+        }
+    ],
+    "wof:id":823456883,
+    "wof:lastmodified":1463435127,
+    "wof:name":"Long John Silver's",
+    "wof:parent_id":85832497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood"
+    ]
+},
+  "bbox": [
+    -80.592171,
+    40.394844,
+    -80.592171,
+    40.394844
+],
+  "geometry": {"coordinates":[-80.59217099999999,40.394844],"type":"Point"}
+}

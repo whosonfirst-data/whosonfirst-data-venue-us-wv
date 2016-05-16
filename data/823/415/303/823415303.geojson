@@ -1,0 +1,73 @@
+{
+  "id": 823415303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.646521,38.488836,-81.646521,38.488836",
+    "geom:latitude":38.488836,
+    "geom:longitude":-81.646521,
+    "iso:country":"US",
+    "sg:address":"1995 Kelmont Ln",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 984 1333",
+    "sg:postcode":"25320",
+    "sg:province":"WV",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19dHPmbb0wAI2hFV72azO6_38.488836_-81.646521@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433251,
+    "wof:geomhash":"375f65d8dfc4e8e44455c8e1825ca4b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823415303
+        }
+    ],
+    "wof:id":823415303,
+    "wof:lastmodified":1463433251,
+    "wof:name":"Walker Roy & Son Excavating",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.646521,
+    38.488836,
+    -81.646521,
+    38.488836
+],
+  "geometry": {"coordinates":[-81.64652100000001,38.488836],"type":"Point"}
+}

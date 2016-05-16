@@ -1,0 +1,73 @@
+{
+  "id": 823431513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.995182,39.407921,-77.995182,39.407921",
+    "geom:latitude":39.407921,
+    "geom:longitude":-77.995182,
+    "iso:country":"US",
+    "sg:address":"92 Wren St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 264 2345",
+    "sg:postcode":"25405",
+    "sg:province":"WV",
+    "sg:tags":[
+        "mail",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4be2j9dnbL4yRmg2uDGjv6_39.407921_-77.995182@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433940,
+    "wof:geomhash":"2be94e71d37727bfaa310a1c24f6b51f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823431513
+        }
+    ],
+    "wof:id":823431513,
+    "wof:lastmodified":1463433940,
+    "wof:name":"Bernard Dozier",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "house"
+    ]
+},
+  "bbox": [
+    -77.995182,
+    39.407921,
+    -77.995182,
+    39.407921
+],
+  "geometry": {"coordinates":[-77.995182,39.407921],"type":"Point"}
+}

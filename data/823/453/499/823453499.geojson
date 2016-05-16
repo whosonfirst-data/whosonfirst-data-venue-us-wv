@@ -1,0 +1,76 @@
+{
+  "id": 823453499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.244027,39.288504,-80.244027,39.288504",
+    "geom:latitude":39.288504,
+    "geom:longitude":-80.244027,
+    "iso:country":"US",
+    "sg:address":"450 E Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/bridgeport/80489-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 848 2525",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cP6Emm3zNBFKRyOGmhcay_39.288504_-80.244027@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434949,
+    "wof:geomhash":"2683eb251cd373e35a2218401a3a3ad4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823453499
+        }
+    ],
+    "wof:id":823453499,
+    "wof:lastmodified":1463434949,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -80.244027,
+    39.288504,
+    -80.244027,
+    39.288504
+],
+  "geometry": {"coordinates":[-80.244027,39.288504],"type":"Point"}
+}

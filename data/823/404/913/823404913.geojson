@@ -1,0 +1,82 @@
+{
+  "id": 823404913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.596772,40.390904,-80.596772,40.390904",
+    "geom:latitude":40.390904,
+    "geom:longitude":-80.596772,
+    "iso:country":"US",
+    "sg:address":"4125 Freedom Way",
+    "sg:city":"Weirton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 797 7072",
+    "sg:postcode":"26062",
+    "sg:province":"WV",
+    "sg:tags":[
+        "development",
+        "contractor",
+        "commercial",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731371,
+        102082633,
+        85832497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3e3YmRYDLcqKHMChrka1Df_40.390904_-80.596772@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432807,
+    "wof:geomhash":"0adaf38fbd2956a498d668ec2fad931c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731371,
+            "neighbourhood_id":85832497,
+            "region_id":85688589,
+            "venue_id":823404913
+        }
+    ],
+    "wof:id":823404913,
+    "wof:lastmodified":1463432807,
+    "wof:name":"Orion Development Inc",
+    "wof:parent_id":85832497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "contractor",
+        "commercial",
+        "general"
+    ]
+},
+  "bbox": [
+    -80.596772,
+    40.390904,
+    -80.596772,
+    40.390904
+],
+  "geometry": {"coordinates":[-80.596772,40.390904],"type":"Point"}
+}

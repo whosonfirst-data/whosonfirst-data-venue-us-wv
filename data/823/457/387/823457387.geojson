@@ -1,0 +1,73 @@
+{
+  "id": 823457387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.958458,39.629688,-79.958458,39.629688",
+    "geom:latitude":39.629688,
+    "geom:longitude":-79.958458,
+    "iso:country":"US",
+    "sg:address":"117 Pleasant St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 826 0608",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6x9p4qopsjpbvP3bNfKrSR_39.629688_-79.958458@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435157,
+    "wof:geomhash":"5c09cfa4e7c5fd2ca6aaca7b8682d2a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851489,
+            "region_id":85688589,
+            "venue_id":823457387
+        }
+    ],
+    "wof:id":823457387,
+    "wof:lastmodified":1463435157,
+    "wof:name":"Mountaineer Saver",
+    "wof:parent_id":85851489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -79.958458,
+    39.629688,
+    -79.958458,
+    39.629688
+],
+  "geometry": {"coordinates":[-79.95845799999999,39.629688],"type":"Point"}
+}

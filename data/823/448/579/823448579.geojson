@@ -1,0 +1,71 @@
+{
+  "id": 823448579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.612655,40.270896,-80.612655,40.270896",
+    "geom:latitude":40.270896,
+    "geom:longitude":-80.612655,
+    "iso:country":"US",
+    "sg:address":"69 8th St",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 0321",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45oKXilsownqQNnzVRGds5_40.270896_-80.612655@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434762,
+    "wof:geomhash":"16be3e1ac200de012e46d4e598ee9709",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823448579
+        }
+    ],
+    "wof:id":823448579,
+    "wof:lastmodified":1463434762,
+    "wof:name":"Joseph J Depetro III MD",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -80.612655,
+    40.270896,
+    -80.612655,
+    40.270896
+],
+  "geometry": {"coordinates":[-80.612655,40.270896],"type":"Point"}
+}

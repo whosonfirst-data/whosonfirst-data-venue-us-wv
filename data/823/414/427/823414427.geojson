@@ -1,0 +1,73 @@
+{
+  "id": 823414427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.350984,38.80183,-81.350984,38.80183",
+    "geom:latitude":38.80183,
+    "geom:longitude":-81.350984,
+    "iso:country":"US",
+    "sg:address":"311 Market St",
+    "sg:city":"Spencer",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 927 1126",
+    "sg:postcode":"25276",
+    "sg:province":"WV",
+    "sg:tags":[
+        "club",
+        "membership"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731535,
+        102083399,
+        85868331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7V0so1npcBFSadeuHrajEk_38.801830_-81.350984@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433203,
+    "wof:geomhash":"d546af0cc1dfbeb293919b59ea7c6b68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083399,
+            "locality_id":101731535,
+            "neighbourhood_id":85868331,
+            "region_id":85688589,
+            "venue_id":823414427
+        }
+    ],
+    "wof:id":823414427,
+    "wof:lastmodified":1463433203,
+    "wof:name":"The Rock",
+    "wof:parent_id":85868331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "membership"
+    ]
+},
+  "bbox": [
+    -81.350984,
+    38.80183,
+    -81.350984,
+    38.80183
+],
+  "geometry": {"coordinates":[-81.350984,38.80183],"type":"Point"}
+}

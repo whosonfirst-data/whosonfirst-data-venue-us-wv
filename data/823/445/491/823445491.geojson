@@ -1,0 +1,71 @@
+{
+  "id": 823445491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.935696,38.594528,-81.935696,38.594528",
+    "geom:latitude":38.594528,
+    "geom:longitude":-81.935696,
+    "iso:country":"US",
+    "sg:address":"356 Gritt Rd",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 937 2565",
+    "sg:postcode":"25033",
+    "sg:province":"WV",
+    "sg:tags":[
+        "farm",
+        "greenhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868323,
+        102083381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Mqj6u5URtcKdifb34ZUOC_38.594528_-81.935696@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434614,
+    "wof:geomhash":"a39195e2bd2f50ce735a3343766f3b88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "neighbourhood_id":85868323,
+            "region_id":85688589,
+            "venue_id":823445491
+        }
+    ],
+    "wof:id":823445491,
+    "wof:lastmodified":1463434614,
+    "wof:name":"Gritts Farms",
+    "wof:parent_id":85868323,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "greenhouse"
+    ]
+},
+  "bbox": [
+    -81.935696,
+    38.594528,
+    -81.935696,
+    38.594528
+],
+  "geometry": {"coordinates":[-81.93569599999999,38.594528],"type":"Point"}
+}

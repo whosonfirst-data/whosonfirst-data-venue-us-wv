@@ -1,0 +1,75 @@
+{
+  "id": 823432389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.701214,38.370663,-81.701214,38.370663",
+    "geom:latitude":38.370663,
+    "geom:longitude":-81.701214,
+    "iso:country":"US",
+    "sg:address":"147 11th Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 5472",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "laboratory",
+        "physic",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3i5HI5jtPVo0woyf3oLNzW_38.370663_-81.701214@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433989,
+    "wof:geomhash":"c2e64efa708f820a754b41a04a089f1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823432389
+        }
+    ],
+    "wof:id":823432389,
+    "wof:lastmodified":1463433989,
+    "wof:name":"Standard Laboratories Inc",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "physic",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -81.701214,
+    38.370663,
+    -81.701214,
+    38.370663
+],
+  "geometry": {"coordinates":[-81.70121399999999,38.370663],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823429805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.545915,39.286034,-80.545915,39.286034",
+    "geom:latitude":39.286034,
+    "geom:longitude":-80.545915,
+    "iso:country":"US",
+    "sg:address":"122 E Main St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 782 4748",
+    "sg:postcode":"26426",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85810773,
+        102082619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZGEjNC3vW8bPHYTMQqqOi_39.286034_-80.545915@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433876,
+    "wof:geomhash":"b7592e7c2d1cc0e031b575d0df20bd86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "neighbourhood_id":85810773,
+            "region_id":85688589,
+            "venue_id":823429805
+        }
+    ],
+    "wof:id":823429805,
+    "wof:lastmodified":1463433876,
+    "wof:name":"Tobacco Specialty Shop",
+    "wof:parent_id":85810773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -80.545915,
+    39.286034,
+    -80.545915,
+    39.286034
+],
+  "geometry": {"coordinates":[-80.54591499999999,39.286034],"type":"Point"}
+}

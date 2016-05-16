@@ -1,0 +1,75 @@
+{
+  "id": 823429999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.476595,39.251268,-81.476595,39.251268",
+    "geom:latitude":39.251268,
+    "geom:longitude":-81.476595,
+    "iso:country":"US",
+    "sg:address":"7 Eastwood Dr",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 428 2944",
+    "sg:postcode":"26104",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85818775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16B8bADSBx90uC9rvPacJZ_39.251268_-81.476595@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433883,
+    "wof:geomhash":"f29c1ed5155aa3bb0939085a79a96600",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85818775,
+            "region_id":85688589,
+            "venue_id":823429999
+        }
+    ],
+    "wof:id":823429999,
+    "wof:lastmodified":1463433883,
+    "wof:name":"Red Hill Radiator",
+    "wof:parent_id":85818775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -81.476595,
+    39.251268,
+    -81.476595,
+    39.251268
+],
+  "geometry": {"coordinates":[-81.476595,39.251268],"type":"Point"}
+}

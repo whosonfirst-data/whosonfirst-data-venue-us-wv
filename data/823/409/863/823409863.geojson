@@ -1,0 +1,71 @@
+{
+  "id": 823409863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.659085,38.365962,-81.659085,38.365962",
+    "geom:latitude":38.365962,
+    "geom:longitude":-81.659085,
+    "iso:country":"US",
+    "sg:address":"1105 Main St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 3398",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12izuJUDzDt0wwyEOI8FyN_38.365962_-81.659085@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433015,
+    "wof:geomhash":"1b71b7c21ce8c76eb07f1bcab10a690e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823409863
+        }
+    ],
+    "wof:id":823409863,
+    "wof:lastmodified":1463433015,
+    "wof:name":"Scott Je Memorial Funeral Home",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -81.659085,
+    38.365962,
+    -81.659085,
+    38.365962
+],
+  "geometry": {"coordinates":[-81.659085,38.365962],"type":"Point"}
+}

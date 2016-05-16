@@ -1,0 +1,73 @@
+{
+  "id": 823421811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.591974,38.32673,-81.591974,38.32673",
+    "geom:latitude":38.32673,
+    "geom:longitude":-81.591974,
+    "iso:country":"US",
+    "sg:address":"400 39th St SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 2733",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Px9xAbpUq7VUT0UkeR0tM_38.326730_-81.591974@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433535,
+    "wof:geomhash":"6f139c0453c72c68ee4e38a237741de6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823421811
+        }
+    ],
+    "wof:id":823421811,
+    "wof:lastmodified":1463433535,
+    "wof:name":"Hickory Hill Apts",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -81.591974,
+    38.32673,
+    -81.591974,
+    38.32673
+],
+  "geometry": {"coordinates":[-81.59197399999999,38.32673],"type":"Point"}
+}

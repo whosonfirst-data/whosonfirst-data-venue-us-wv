@@ -1,0 +1,71 @@
+{
+  "id": 823425269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.351215,39.271609,-80.351215,39.271609",
+    "geom:latitude":39.271609,
+    "geom:longitude":-80.351215,
+    "iso:country":"US",
+    "sg:address":"808 S Chestnut St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 622 9253",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85810773,
+        102082619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02Lc8MmzBXJpcvtFgha8v8_39.271609_-80.351215@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433670,
+    "wof:geomhash":"bd8eadab269c4a20fbf0b10a3e426ba4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "neighbourhood_id":85810773,
+            "region_id":85688589,
+            "venue_id":823425269
+        }
+    ],
+    "wof:id":823425269,
+    "wof:lastmodified":1463433670,
+    "wof:name":"Spags Exxon Service Center",
+    "wof:parent_id":85810773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -80.351215,
+    39.271609,
+    -80.351215,
+    39.271609
+],
+  "geometry": {"coordinates":[-80.351215,39.271609],"type":"Point"}
+}

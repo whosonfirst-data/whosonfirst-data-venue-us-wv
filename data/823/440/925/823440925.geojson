@@ -1,0 +1,75 @@
+{
+  "id": 823440925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.598648,38.329207,-81.598648,38.329207",
+    "geom:latitude":38.329207,
+    "geom:longitude":-81.598648,
+    "iso:country":"US",
+    "sg:address":"3411 Noyes Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 1341",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ry28rKUsP7lLNKhlCKzhF_38.329207_-81.598648@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434404,
+    "wof:geomhash":"4ba6245503af667ec3a17bbfd1e20115",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823440925
+        }
+    ],
+    "wof:id":823440925,
+    "wof:lastmodified":1463434404,
+    "wof:name":"Thrush & Clark Allergists",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -81.598648,
+    38.329207,
+    -81.598648,
+    38.329207
+],
+  "geometry": {"coordinates":[-81.598648,38.329207],"type":"Point"}
+}

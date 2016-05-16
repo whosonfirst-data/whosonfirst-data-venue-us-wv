@@ -1,0 +1,71 @@
+{
+  "id": 823415299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.138066,38.84125,-82.138066,38.84125",
+    "geom:latitude":38.84125,
+    "geom:longitude":-82.138066,
+    "iso:country":"US",
+    "sg:address":"210 Viand St",
+    "sg:city":"Point Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 675 5666",
+    "sg:postcode":"25550",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85983229,
+        102083675,
+        85824533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0H2vEuADMKCcSm4N54bRlr_38.841250_-82.138066@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433250,
+    "wof:geomhash":"05d34c7e4195dc6ec20dc91a8695e473",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "neighbourhood_id":85824533,
+            "region_id":85688485,
+            "venue_id":823415299
+        }
+    ],
+    "wof:id":823415299,
+    "wof:lastmodified":1463433250,
+    "wof:name":"KFC",
+    "wof:parent_id":85824533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -82.138066,
+    38.84125,
+    -82.138066,
+    38.84125
+],
+  "geometry": {"coordinates":[-82.13806599999999,38.84125],"type":"Point"}
+}

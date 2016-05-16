@@ -1,0 +1,74 @@
+{
+  "id": 823457575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.964798,39.603039,-79.964798,39.603039",
+    "geom:latitude":39.603039,
+    "geom:longitude":-79.964798,
+    "iso:country":"US",
+    "sg:address":"2 Smithtown Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 3374",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "hotels-apartment",
+        "corporate",
+        "lodging"
+    ],
+    "sg:website":"http://www.themorgantownmotel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KJn8dTlTqxmfRy6gSqJQT_39.603039_-79.964798@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435166,
+    "wof:geomhash":"017ac5f7358de78a34399582879ee7b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823457575
+        }
+    ],
+    "wof:id":823457575,
+    "wof:lastmodified":1463435166,
+    "wof:name":"Morgantown Motel",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hotels-apartment",
+        "corporate",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -79.964798,
+    39.603039,
+    -79.964798,
+    39.603039
+],
+  "geometry": {"coordinates":[-79.964798,39.603039],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823402117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.696478,38.359514,-81.696478,38.359514",
+    "geom:latitude":38.359514,
+    "geom:longitude":-81.696478,
+    "iso:country":"US",
+    "sg:address":"100 Angus E Peyton Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 746 2023",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7a5IgcLJIEEQon31xPACXa_38.359514_-81.696478@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432675,
+    "wof:geomhash":"2075474e1dd4dc4c381496cdac64e326",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823402117
+        }
+    ],
+    "wof:id":823402117,
+    "wof:lastmodified":1463432675,
+    "wof:name":"Read Educational Enterprises",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational"
+    ]
+},
+  "bbox": [
+    -81.696478,
+    38.359514,
+    -81.696478,
+    38.359514
+],
+  "geometry": {"coordinates":[-81.696478,38.359514],"type":"Point"}
+}

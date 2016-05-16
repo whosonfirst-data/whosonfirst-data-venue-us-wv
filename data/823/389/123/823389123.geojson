@@ -1,0 +1,75 @@
+{
+  "id": 823389123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.861518,39.289354,-77.861518,39.289354",
+    "geom:latitude":39.289354,
+    "geom:longitude":-77.861518,
+    "iso:country":"US",
+    "sg:address":"117 N Charles St",
+    "sg:city":"Charles Town",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 728 6077",
+    "sg:postcode":"25414",
+    "sg:province":"WV",
+    "sg:tags":[
+        "lithographic",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731443,
+        102082647,
+        85807793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vZj0hAESnEouUcwXbGkD4_39.289354_-77.861518@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432035,
+    "wof:geomhash":"b4ab57825eb1e52595004c537f48958e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082647,
+            "locality_id":101731443,
+            "neighbourhood_id":85807793,
+            "region_id":85688589,
+            "venue_id":823389123
+        }
+    ],
+    "wof:id":823389123,
+    "wof:lastmodified":1463432035,
+    "wof:name":"Pica Press",
+    "wof:parent_id":85807793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lithographic",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -77.861518,
+    39.289354,
+    -77.861518,
+    39.289354
+],
+  "geometry": {"coordinates":[-77.861518,39.289354],"type":"Point"}
+}

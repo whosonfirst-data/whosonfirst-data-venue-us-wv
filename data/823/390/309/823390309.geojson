@@ -1,0 +1,79 @@
+{
+  "id": 823390309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.132687,38.435899,-82.132687,38.435899",
+    "geom:latitude":38.435899,
+    "geom:longitude":-82.132687,
+    "iso:country":"US",
+    "sg:address":"1139 Smith St",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 743 3422",
+    "sg:postcode":"25541",
+    "sg:province":"WV",
+    "sg:tags":[
+        "company",
+        "supply",
+        "system",
+        "sewage",
+        "sewerage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85816671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bUaXVpWeLc8pNEiqjXqwy_38.435899_-82.132687@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432094,
+    "wof:geomhash":"12af3813ba95f1ae8a9a5cb5a6d91d7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85816671,
+            "region_id":85688589,
+            "venue_id":823390309
+        }
+    ],
+    "wof:id":823390309,
+    "wof:lastmodified":1463432094,
+    "wof:name":"Milton Municipal Water Works",
+    "wof:parent_id":85816671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "supply",
+        "system",
+        "sewage",
+        "sewerage"
+    ]
+},
+  "bbox": [
+    -82.132687,
+    38.435899,
+    -82.132687,
+    38.435899
+],
+  "geometry": {"coordinates":[-82.132687,38.435899],"type":"Point"}
+}

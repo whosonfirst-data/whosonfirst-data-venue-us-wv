@@ -1,0 +1,71 @@
+{
+  "id": 823420093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.16436,37.895341,-81.16436,37.895341",
+    "geom:latitude":37.895341,
+    "geom:longitude":-81.16436,
+    "iso:country":"US",
+    "sg:address":"412 Main St",
+    "sg:city":"Mt Hope",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 877 2131",
+    "sg:postcode":"25880",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731505,
+        102083359,
+        85852821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6w7UDkvMTVL2oOGDTRKJac_37.895341_-81.164360@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433469,
+    "wof:geomhash":"d86c0dcdc489f887902ec0094dfdc3c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "locality_id":101731505,
+            "neighbourhood_id":85852821,
+            "region_id":85688589,
+            "venue_id":823420093
+        }
+    ],
+    "wof:id":823420093,
+    "wof:lastmodified":1463433469,
+    "wof:name":"Mount Hope Presbyterian Church",
+    "wof:parent_id":85852821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.16436,
+    37.895341,
+    -81.16436,
+    37.895341
+],
+  "geometry": {"coordinates":[-81.16436,37.895341],"type":"Point"}
+}

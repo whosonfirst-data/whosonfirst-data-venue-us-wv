@@ -1,0 +1,78 @@
+{
+  "id": 823453541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.035818,39.147289,-80.035818,39.147289",
+    "geom:latitude":39.147289,
+    "geom:longitude":-80.035818,
+    "iso:country":"US",
+    "sg:address":"142 S Main St",
+    "sg:city":"Philippi",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/north/139708-sicilias-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 457 2099",
+    "sg:postcode":"26416",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QPOZxcwXiKAwQKcdcq21K_39.147289_-80.035818@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434951,
+    "wof:geomhash":"9bc6dacc6d7119781594e6a7d23cf59f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823453541
+        }
+    ],
+    "wof:id":823453541,
+    "wof:lastmodified":1463434951,
+    "wof:name":"Sicilia's Pizzeria",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -80.035818,
+    39.147289,
+    -80.035818,
+    39.147289
+],
+  "geometry": {"coordinates":[-80.03581800000001,39.147289],"type":"Point"}
+}

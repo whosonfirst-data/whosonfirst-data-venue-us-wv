@@ -1,0 +1,71 @@
+{
+  "id": 823374789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.849484,38.925116,-79.849484,38.925116",
+    "geom:latitude":38.925116,
+    "geom:longitude":-79.849484,
+    "iso:country":"US",
+    "sg:address":"105 3rd St",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 0325",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rzjoWymiurTOHsLlRZKR8_38.925116_-79.849484@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431395,
+    "wof:geomhash":"903945e824bd791879459481ebdb52c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823374789
+        }
+    ],
+    "wof:id":823374789,
+    "wof:lastmodified":1463431395,
+    "wof:name":"Cut & Dry",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -79.849484,
+    38.925116,
+    -79.849484,
+    38.925116
+],
+  "geometry": {"coordinates":[-79.849484,38.925116],"type":"Point"}
+}

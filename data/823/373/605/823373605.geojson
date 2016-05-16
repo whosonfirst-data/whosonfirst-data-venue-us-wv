@@ -1,0 +1,73 @@
+{
+  "id": 823373605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.559787,38.373729,-82.559787,38.373729",
+    "geom:latitude":38.373729,
+    "geom:longitude":-82.559787,
+    "iso:country":"US",
+    "sg:address":"1433 Airport Rd",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 1177",
+    "sg:postcode":"25704",
+    "sg:province":"WV",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083365,
+        85857035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DXoMWb9uMLsZNDfBZwWIY_38.373729_-82.559787@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431343,
+    "wof:geomhash":"d46968160dbec3139058da674fcc7b06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731553,
+            "neighbourhood_id":85857035,
+            "region_id":85688589,
+            "venue_id":823373605
+        }
+    ],
+    "wof:id":823373605,
+    "wof:lastmodified":1463431343,
+    "wof:name":"D-G Airways Inc",
+    "wof:parent_id":85857035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -82.559787,
+    38.373729,
+    -82.559787,
+    38.373729
+],
+  "geometry": {"coordinates":[-82.559787,38.373729],"type":"Point"}
+}

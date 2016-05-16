@@ -1,0 +1,71 @@
+{
+  "id": 823419701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.332434,39.279736,-80.332434,39.279736",
+    "geom:latitude":39.279736,
+    "geom:longitude":-80.332434,
+    "iso:country":"US",
+    "sg:address":"142 E Pike St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 624 5618",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OH33GR0Qc7eKTiwGTWCEE_39.279736_-80.332434@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433451,
+    "wof:geomhash":"ab9ba94313dd3886209c9f7c359bfe74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823419701
+        }
+    ],
+    "wof:id":823419701,
+    "wof:lastmodified":1463433451,
+    "wof:name":"Rady & Deem Cleaners & Tailors",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -80.332434,
+    39.279736,
+    -80.332434,
+    39.279736
+],
+  "geometry": {"coordinates":[-80.33243400000001,39.279736],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823416347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.64832,38.36138,-81.64832,38.36138",
+    "geom:latitude":38.36138,
+    "geom:longitude":-81.64832,
+    "iso:country":"US",
+    "sg:address":"424 Virginia St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 4193",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pizIxVIvlybTERTQ3QfqT_38.361380_-81.648320@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433296,
+    "wof:geomhash":"dff2171b8561c50a5bb64648a3ddcdaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823416347
+        }
+    ],
+    "wof:id":823416347,
+    "wof:lastmodified":1463433296,
+    "wof:name":"Charleston Paint Ctr Inc",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -81.64832,
+    38.36138,
+    -81.64832,
+    38.36138
+],
+  "geometry": {"coordinates":[-81.64832,38.36138],"type":"Point"}
+}

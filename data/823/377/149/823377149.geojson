@@ -1,0 +1,71 @@
+{
+  "id": 823377149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.122491,39.481671,-80.122491,39.481671",
+    "geom:latitude":39.481671,
+    "geom:longitude":-80.122491,
+    "iso:country":"US",
+    "sg:address":"1025 Fairfax St",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 367 2134",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iJb4MttHbnTzvhV3Iv7wJ_39.481671_-80.122491@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431517,
+    "wof:geomhash":"674bda132547a6a1a305c0f46fc8d25d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823377149
+        }
+    ],
+    "wof:id":823377149,
+    "wof:lastmodified":1463431517,
+    "wof:name":"East Park Elementary",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -80.122491,
+    39.481671,
+    -80.122491,
+    39.481671
+],
+  "geometry": {"coordinates":[-80.122491,39.481671],"type":"Point"}
+}

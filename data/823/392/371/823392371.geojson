@@ -1,0 +1,74 @@
+{
+  "id": 823392371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.980748,39.585268,-79.980748,39.585268",
+    "geom:latitude":39.585268,
+    "geom:longitude":-79.980748,
+    "iso:country":"US",
+    "sg:address":"1206 Chase St",
+    "sg:city":"Albright",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 2622",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3luPEFkn7WATNMvFaxlzB9_39.585268_-79.980748@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432194,
+    "wof:geomhash":"51cc9a98bbd3a6d44c7e2e50e6c7a5ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823392371
+        }
+    ],
+    "wof:id":823392371,
+    "wof:lastmodified":1463432194,
+    "wof:name":"Kinkade Rentals",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -79.980748,
+    39.585268,
+    -79.980748,
+    39.585268
+],
+  "geometry": {"coordinates":[-79.98074800000001,39.585268],"type":"Point"}
+}

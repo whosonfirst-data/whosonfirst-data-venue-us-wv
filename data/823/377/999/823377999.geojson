@@ -1,0 +1,84 @@
+{
+  "id": 823377999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.208739,37.790151,-81.208739,37.790151",
+    "geom:latitude":37.790151,
+    "geom:longitude":-81.208739,
+    "iso:country":"US",
+    "sg:address":"1832 Harper Rd",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 256 0070",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home",
+        "nurse",
+        "registry",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QhhoZ9COsEeOwqPaSYGwH_37.790151_-81.208739@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431558,
+    "wof:geomhash":"b6cba4a780d3e23cc6640f9b68f732ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823377999
+        }
+    ],
+    "wof:id":823377999,
+    "wof:lastmodified":1463431558,
+    "wof:name":"Elite Health Care Corp",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "nurse",
+        "registry",
+        "care"
+    ]
+},
+  "bbox": [
+    -81.208739,
+    37.790151,
+    -81.208739,
+    37.790151
+],
+  "geometry": {"coordinates":[-81.20873899999999,37.790151],"type":"Point"}
+}

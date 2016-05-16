@@ -1,0 +1,71 @@
+{
+  "id": 823382301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.131747,37.996514,-81.131747,37.996514",
+    "geom:latitude":37.996514,
+    "geom:longitude":-81.131747,
+    "iso:country":"US",
+    "sg:address":"1822 Main St E",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 465 8648",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "tax",
+        "advocacy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TlqmO4gP39cP8zh4vNHEd_37.996514_-81.131747@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431748,
+    "wof:geomhash":"995ab513f6854cc42d08226fc32fd962",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823382301
+        }
+    ],
+    "wof:id":823382301,
+    "wof:lastmodified":1463431748,
+    "wof:name":"West Virginia EMSTSN",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tax",
+        "advocacy"
+    ]
+},
+  "bbox": [
+    -81.131747,
+    37.996514,
+    -81.131747,
+    37.996514
+],
+  "geometry": {"coordinates":[-81.131747,37.996514],"type":"Point"}
+}

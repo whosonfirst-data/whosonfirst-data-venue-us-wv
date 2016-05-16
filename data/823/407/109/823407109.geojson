@@ -1,0 +1,69 @@
+{
+  "id": 823407109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.595314,38.369757,-81.595314,38.369757",
+    "geom:latitude":38.369757,
+    "geom:longitude":-81.595314,
+    "iso:country":"US",
+    "sg:address":"181 Airport Rd",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 344 2563",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "car",
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        102530929,
+        85688589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RLQ8uefCwODO5jpLyhfws_38.369757_-81.595314@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432907,
+    "wof:geomhash":"82ab48f2aac523b0eee807bb1a998fbf",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530929,
+            "country_id":85633793,
+            "region_id":85688589,
+            "venue_id":823407109
+        }
+    ],
+    "wof:id":823407109,
+    "wof:lastmodified":1463432907,
+    "wof:name":"National Car Rental",
+    "wof:parent_id":102530929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "agency"
+    ]
+},
+  "bbox": [
+    -81.595314,
+    38.369757,
+    -81.595314,
+    38.369757
+],
+  "geometry": {"coordinates":[-81.595314,38.369757],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823370479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.963129,39.070789,-78.963129,39.070789",
+    "geom:latitude":39.070789,
+    "geom:longitude":-78.963129,
+    "iso:country":"US",
+    "sg:address":"325 Spring Ave",
+    "sg:city":"Moorefield",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 530 6340",
+    "sg:postcode":"26836",
+    "sg:province":"WV",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731279,
+        102082645,
+        85851815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Oaco6mAitr3ZuME6UEa1X_39.070789_-78.963129@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431194,
+    "wof:geomhash":"5202a22232dd290f6c1a349077802451",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082645,
+            "locality_id":101731279,
+            "neighbourhood_id":85851815,
+            "region_id":85688589,
+            "venue_id":823370479
+        }
+    ],
+    "wof:id":823370479,
+    "wof:lastmodified":1463431194,
+    "wof:name":"G & S Motors",
+    "wof:parent_id":85851815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -78.963129,
+    39.070789,
+    -78.963129,
+    39.070789
+],
+  "geometry": {"coordinates":[-78.963129,39.070789],"type":"Point"}
+}

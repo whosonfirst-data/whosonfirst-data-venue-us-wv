@@ -1,0 +1,75 @@
+{
+  "id": 823430579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.166105,37.779815,-81.166105,37.779815",
+    "geom:latitude":37.779815,
+    "geom:longitude":-81.166105,
+    "iso:country":"US",
+    "sg:address":"201 S Eisenhower Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 255 9310",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "protection",
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7A7y8CAuDiQZoVit6qe973_37.779815_-81.166105@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433904,
+    "wof:geomhash":"e78dc71d3a0c4b73feb8550b927b6210",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823430579
+        }
+    ],
+    "wof:id":823430579,
+    "wof:lastmodified":1463433904,
+    "wof:name":"Raleigh County Sheriff's Dept",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection",
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -81.166105,
+    37.779815,
+    -81.166105,
+    37.779815
+],
+  "geometry": {"coordinates":[-81.166105,37.779815],"type":"Point"}
+}

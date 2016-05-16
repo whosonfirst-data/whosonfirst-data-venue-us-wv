@@ -1,0 +1,71 @@
+{
+  "id": 823415099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.522546,38.407081,-81.522546,38.407081",
+    "geom:latitude":38.407081,
+    "geom:longitude":-81.522546,
+    "iso:country":"US",
+    "sg:address":"520 Heather Dr",
+    "sg:city":"Elkview",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 965 3065",
+    "sg:postcode":"25071",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4o6GpstFbutOucnapjMpNC_38.407081_-81.522546@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433233,
+    "wof:geomhash":"94f533b6bd691080a6223b3d2b5584f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823415099
+        }
+    ],
+    "wof:id":823415099,
+    "wof:lastmodified":1463433233,
+    "wof:name":"Hoovers Sales & Service",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -81.522546,
+    38.407081,
+    -81.522546,
+    38.407081
+],
+  "geometry": {"coordinates":[-81.52254600000001,38.407081],"type":"Point"}
+}

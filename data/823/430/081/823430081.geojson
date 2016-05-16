@@ -1,0 +1,71 @@
+{
+  "id": 823430081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.51761,38.320441,-81.51761,38.320441",
+    "geom:latitude":38.320441,
+    "geom:longitude":-81.51761,
+    "iso:country":"US",
+    "sg:address":"3463 Clover Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 7873",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QuoD5cNbCXCzKHvVJmTik_38.320441_-81.517610@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433886,
+    "wof:geomhash":"314c2b85ba92fa5c64a708b7a3e5ad4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823430081
+        }
+    ],
+    "wof:id":823430081,
+    "wof:lastmodified":1463433886,
+    "wof:name":"James W Holtsclaw",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -81.51761,
+    38.320441,
+    -81.51761,
+    38.320441
+],
+  "geometry": {"coordinates":[-81.51761,38.320441],"type":"Point"}
+}

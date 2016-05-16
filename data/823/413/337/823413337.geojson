@@ -1,0 +1,72 @@
+{
+  "id": 823413337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.663154,38.374884,-81.663154,38.374884",
+    "geom:latitude":38.374884,
+    "geom:longitude":-81.663154,
+    "iso:country":"US",
+    "sg:address":"911 Michael Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 348 6451",
+    "sg:postcode":"25312",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "sg:website":"www.charlestonhousing.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_139kv8QMkVQOXdsbbjknbd_38.374884_-81.663154@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433150,
+    "wof:geomhash":"86a8de00692ccaa91b833cb54afd9e96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823413337
+        }
+    ],
+    "wof:id":823413337,
+    "wof:lastmodified":1463433150,
+    "wof:name":"Charleston Housing",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -81.663154,
+    38.374884,
+    -81.663154,
+    38.374884
+],
+  "geometry": {"coordinates":[-81.66315400000001,38.374884],"type":"Point"}
+}

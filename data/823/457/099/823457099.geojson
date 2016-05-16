@@ -1,0 +1,91 @@
+{
+  "id": 823457099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.984835,39.630634,-79.984835,39.630634",
+    "geom:latitude":39.630634,
+    "geom:longitude":-79.984835,
+    "iso:country":"US",
+    "sg:address":"11 Commerce Dr",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 877 669 6877",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "sharing",
+        "profit",
+        "auto",
+        "plan",
+        "property",
+        "casualty",
+        "pension"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818601,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gPnpJvgThJyG4hC5cFEV5_39.630634_-79.984835@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435145,
+    "wof:geomhash":"4467cef88a7947c64dd8d442e1073815",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85818601,
+            "region_id":85688589,
+            "venue_id":823457099
+        }
+    ],
+    "wof:id":823457099,
+    "wof:lastmodified":1463435145,
+    "wof:name":"Nationwide Insurance",
+    "wof:parent_id":85818601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sharing",
+        "profit",
+        "auto",
+        "plan",
+        "property",
+        "casualty",
+        "pension"
+    ]
+},
+  "bbox": [
+    -79.984835,
+    39.630634,
+    -79.984835,
+    39.630634
+],
+  "geometry": {"coordinates":[-79.984835,39.630634],"type":"Point"}
+}

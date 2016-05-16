@@ -1,0 +1,73 @@
+{
+  "id": 823387873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.756471,38.377557,-81.756471,38.377557",
+    "geom:latitude":38.377557,
+    "geom:longitude":-81.756471,
+    "iso:country":"US",
+    "sg:address":"2855 Fairlawn Ave",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 6600",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "trailer",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zXsSzbubrZO4KUxPIXLbg_38.377557_-81.756471@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431959,
+    "wof:geomhash":"90f254dae0174f957342456634088ab3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823387873
+        }
+    ],
+    "wof:id":823387873,
+    "wof:lastmodified":1463431959,
+    "wof:name":"American Equipment",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer",
+        "utility"
+    ]
+},
+  "bbox": [
+    -81.756471,
+    38.377557,
+    -81.756471,
+    38.377557
+],
+  "geometry": {"coordinates":[-81.756471,38.377557],"type":"Point"}
+}

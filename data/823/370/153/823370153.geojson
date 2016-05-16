@@ -1,0 +1,73 @@
+{
+  "id": 823370153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.969368,39.607391,-79.969368,39.607391",
+    "geom:latitude":39.607391,
+    "geom:longitude":-79.969368,
+    "iso:country":"US",
+    "sg:address":"63 Don Knotts Blvd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 291 4653",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "equipment",
+        "golf",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vvvqXGZxXenHRfXDkvjUc_39.607391_-79.969368@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431181,
+    "wof:geomhash":"2ae8df5aa209e2e6caa1926e434d4be1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823370153
+        }
+    ],
+    "wof:id":823370153,
+    "wof:lastmodified":1463431181,
+    "wof:name":"Golf USA",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "golf",
+        "supply"
+    ]
+},
+  "bbox": [
+    -79.969368,
+    39.607391,
+    -79.969368,
+    39.607391
+],
+  "geometry": {"coordinates":[-79.969368,39.607391],"type":"Point"}
+}

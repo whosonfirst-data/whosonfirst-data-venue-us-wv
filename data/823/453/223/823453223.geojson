@@ -1,0 +1,76 @@
+{
+  "id": 823453223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.692932,40.064206,-80.692932,40.064206",
+    "geom:latitude":40.064206,
+    "geom:longitude":-80.692932,
+    "iso:country":"US",
+    "sg:address":"1108 Fort Henry Ave",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/wheeling/27712-eat-n-park/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 547 9500",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85830083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Eue1ET1te3jqMRh2dXFEK_40.064206_-80.692932@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434939,
+    "wof:geomhash":"ccddacc1ed19819b96014f3836974795",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85830083,
+            "region_id":85688589,
+            "venue_id":823453223
+        }
+    ],
+    "wof:id":823453223,
+    "wof:lastmodified":1463434939,
+    "wof:name":"Eat N' Park",
+    "wof:parent_id":85830083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -80.692932,
+    40.064206,
+    -80.692932,
+    40.064206
+],
+  "geometry": {"coordinates":[-80.692932,40.064206],"type":"Point"}
+}

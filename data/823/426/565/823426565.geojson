@@ -1,0 +1,80 @@
+{
+  "id": 823426565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.30177,37.792397,-80.30177,37.792397",
+    "geom:latitude":37.792397,
+    "geom:longitude":-80.30177,
+    "iso:country":"US",
+    "sg:address":"57 W Main St",
+    "sg:city":"White Slphr Spgs",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 536 4636",
+    "sg:postcode":"24986",
+    "sg:province":"WV",
+    "sg:tags":[
+        "beverage",
+        "soft",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_209zJWiY5gbwU0VD4gRhmy_37.792397_-80.301770@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433730,
+    "wof:geomhash":"3e3482682feb213406c18ce3d83cdd54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823426565
+        }
+    ],
+    "wof:id":823426565,
+    "wof:lastmodified":1463433730,
+    "wof:name":"North Central Distributors Inc",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beverage",
+        "soft",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -80.30177,
+    37.792397,
+    -80.30177,
+    37.792397
+],
+  "geometry": {"coordinates":[-80.30177,37.792397],"type":"Point"}
+}

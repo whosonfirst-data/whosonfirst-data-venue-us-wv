@@ -1,0 +1,73 @@
+{
+  "id": 823447101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.657725,38.370217,-81.657725,38.370217",
+    "geom:latitude":38.370217,
+    "geom:longitude":-81.657725,
+    "iso:country":"US",
+    "sg:address":"1305 Washington St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 7750",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dcYzzCHWTCSlJvNLFA0Fc_38.370217_-81.657725@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434697,
+    "wof:geomhash":"4bfdff9974d95f6dcd59889896b9adb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823447101
+        }
+    ],
+    "wof:id":823447101,
+    "wof:lastmodified":1463434697,
+    "wof:name":"Dance Zone",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -81.657725,
+    38.370217,
+    -81.657725,
+    38.370217
+],
+  "geometry": {"coordinates":[-81.657725,38.370217],"type":"Point"}
+}

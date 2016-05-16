@@ -1,0 +1,73 @@
+{
+  "id": 823414315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.126172,38.992299,-79.126172,38.992299",
+    "geom:latitude":38.992299,
+    "geom:longitude":-79.126172,
+    "iso:country":"US",
+    "sg:address":"29 Water St",
+    "sg:city":"Petersburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 257 4891",
+    "sg:postcode":"26847",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cable",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731285,
+        102082625,
+        85852439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ChAPbSSYsL8HhlmFIOywR_38.992299_-79.126172@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433199,
+    "wof:geomhash":"5121bd480caf0112c5db011789d32eaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082625,
+            "locality_id":101731285,
+            "neighbourhood_id":85852439,
+            "region_id":85688589,
+            "venue_id":823414315
+        }
+    ],
+    "wof:id":823414315,
+    "wof:lastmodified":1463433199,
+    "wof:name":"CT & R Cable",
+    "wof:parent_id":85852439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cable",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -79.126172,
+    38.992299,
+    -79.126172,
+    38.992299
+],
+  "geometry": {"coordinates":[-79.126172,38.992299],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823414375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.126387,37.363226,-81.126387,37.363226",
+    "geom:latitude":37.363226,
+    "geom:longitude":-81.126387,
+    "iso:country":"US",
+    "sg:address":"102 Stanley St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 0825",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GjAlGvxN4Wbch5gvESYHe_37.363226_-81.126387@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433201,
+    "wof:geomhash":"0e21ec3c1746546f38e41fc7aa9354bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823414375
+        }
+    ],
+    "wof:id":823414375,
+    "wof:lastmodified":1463433201,
+    "wof:name":"Stanley's Repair Svc",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -81.126387,
+    37.363226,
+    -81.126387,
+    37.363226
+],
+  "geometry": {"coordinates":[-81.12638699999999,37.363226],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 823379847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.097692,37.368405,-81.097692,37.368405",
+    "geom:latitude":37.368405,
+    "geom:longitude":-81.097692,
+    "iso:country":"US",
+    "sg:address":"1127 Mercer St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 5058",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "designer",
+        "dealer",
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4saIcyuc6M5cneKFdygZge_37.368405_-81.097692@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431631,
+    "wof:geomhash":"bba6001f5d6a907ac86231ba1e69256e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823379847
+        }
+    ],
+    "wof:id":823379847,
+    "wof:lastmodified":1463431631,
+    "wof:name":"Pool Place",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "designer",
+        "dealer",
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -81.097692,
+    37.368405,
+    -81.097692,
+    37.368405
+],
+  "geometry": {"coordinates":[-81.097692,37.368405],"type":"Point"}
+}

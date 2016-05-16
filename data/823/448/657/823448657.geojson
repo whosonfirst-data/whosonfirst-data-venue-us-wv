@@ -1,0 +1,69 @@
+{
+  "id": 823448657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.959923,39.625229,-79.959923,39.625229",
+    "geom:latitude":39.625229,
+    "geom:longitude":-79.959923,
+    "iso:country":"US",
+    "sg:address":"132 S High St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 5297",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Y5eY1jep9EurNRhfI0mS1_39.625229_-79.959923@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434764,
+    "wof:geomhash":"95c97eafd793466d456d2c78211ede19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823448657
+        }
+    ],
+    "wof:id":823448657,
+    "wof:lastmodified":1463434764,
+    "wof:name":"South High Turbo-Matic Carwash",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -79.959923,
+    39.625229,
+    -79.959923,
+    39.625229
+],
+  "geometry": {"coordinates":[-79.959923,39.625229],"type":"Point"}
+}

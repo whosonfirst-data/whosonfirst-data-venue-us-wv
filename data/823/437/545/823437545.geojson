@@ -1,0 +1,71 @@
+{
+  "id": 823437545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.193708,37.436284,-81.193708,37.436284",
+    "geom:latitude":37.436284,
+    "geom:longitude":-81.193708,
+    "iso:country":"US",
+    "sg:address":"2101 Bicknal Flats Rd",
+    "sg:city":"Rock",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 467 7513",
+    "sg:postcode":"24747",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LghlRkRJK06C54lz96nAI_37.436284_-81.193708@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434260,
+    "wof:geomhash":"5c812744862459db1afc61f4e712012d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823437545
+        }
+    ],
+    "wof:id":823437545,
+    "wof:lastmodified":1463434260,
+    "wof:name":"His & Hers Beauty Salon",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.193708,
+    37.436284,
+    -81.193708,
+    37.436284
+],
+  "geometry": {"coordinates":[-81.193708,37.436284],"type":"Point"}
+}

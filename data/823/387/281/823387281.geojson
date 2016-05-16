@@ -1,0 +1,75 @@
+{
+  "id": 823387281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.970393,39.655079,-79.970393,39.655079",
+    "geom:latitude":39.655079,
+    "geom:longitude":-79.970393,
+    "iso:country":"US",
+    "sg:address":"3120 Collins Ferry Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 2733",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5b7jDWRGTzNwXFvadceVCE_39.655079_-79.970393@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431939,
+    "wof:geomhash":"a5b30929cf004345b8f3aa0ec35b91bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851419,
+            "region_id":85688589,
+            "venue_id":823387281
+        }
+    ],
+    "wof:id":823387281,
+    "wof:lastmodified":1463431939,
+    "wof:name":"Mid Atlantic Retina Cnslt",
+    "wof:parent_id":85851419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -79.970393,
+    39.655079,
+    -79.970393,
+    39.655079
+],
+  "geometry": {"coordinates":[-79.970393,39.655079],"type":"Point"}
+}

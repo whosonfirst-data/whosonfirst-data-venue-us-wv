@@ -1,0 +1,73 @@
+{
+  "id": 823412153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.961378,39.64107,-79.961378,39.64107",
+    "geom:latitude":39.64107,
+    "geom:longitude":-79.961378,
+    "iso:country":"US",
+    "sg:address":"505 State Rte 7",
+    "sg:city":"Reedsville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 864 3777",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85847767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1v4Qcw2dVRTyS32cZQfiBQ_39.641070_-79.961378@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433108,
+    "wof:geomhash":"845692eb7113be1cde86bd8615d792d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85847767,
+            "region_id":85688589,
+            "venue_id":823412153
+        }
+    ],
+    "wof:id":823412153,
+    "wof:lastmodified":1463433108,
+    "wof:name":"West Preston Physical Therapy",
+    "wof:parent_id":85847767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -79.961378,
+    39.64107,
+    -79.961378,
+    39.64107
+],
+  "geometry": {"coordinates":[-79.961378,39.64107],"type":"Point"}
+}

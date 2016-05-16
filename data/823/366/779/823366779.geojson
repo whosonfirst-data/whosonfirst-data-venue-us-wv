@@ -1,0 +1,71 @@
+{
+  "id": 823366779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.736888,38.358721,-81.736888,38.358721",
+    "geom:latitude":38.358721,
+    "geom:longitude":-81.736888,
+    "iso:country":"US",
+    "sg:address":"981 Dunbar Village Plz",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 6481",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "supermarket"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7d1y29zF4OkTyBNVH6ZUN2_38.358721_-81.736888@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431049,
+    "wof:geomhash":"c453b007dc48158b0865ea703569f00b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823366779
+        }
+    ],
+    "wof:id":823366779,
+    "wof:lastmodified":1463431049,
+    "wof:name":"Kroger",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supermarket"
+    ]
+},
+  "bbox": [
+    -81.736888,
+    38.358721,
+    -81.736888,
+    38.358721
+],
+  "geometry": {"coordinates":[-81.73688799999999,38.358721],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 823453519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.242799,39.288837,-80.242799,39.288837",
+    "geom:latitude":39.288837,
+    "geom:longitude":-80.242799,
+    "iso:country":"US",
+    "sg:address":"507 E Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/bridgeport/241941-oliveros-ristorante/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 7388",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Pa86VyLCorNfHxSKCOjg4_39.288837_-80.242799@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434950,
+    "wof:geomhash":"bb74f0a09556a9830b300a5e58dd3621",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823453519
+        }
+    ],
+    "wof:id":823453519,
+    "wof:lastmodified":1463434950,
+    "wof:name":"Olivero's Ristorante",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -80.242799,
+    39.288837,
+    -80.242799,
+    39.288837
+],
+  "geometry": {"coordinates":[-80.24279900000001,39.288837],"type":"Point"}
+}

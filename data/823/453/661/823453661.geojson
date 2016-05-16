@@ -1,0 +1,72 @@
+{
+  "id": 823453661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.956747,39.628813,-79.956747,39.628813",
+    "geom:latitude":39.628813,
+    "geom:longitude":-79.956747,
+    "iso:country":"US",
+    "sg:address":"202 High St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/central/241920-great-wall/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 291 3412",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "asian",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RBeTW2UaC7oag9fCRxWPT_39.628813_-79.956747@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434955,
+    "wof:geomhash":"6592414332df5c51dfc048a171705ed6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823453661
+        }
+    ],
+    "wof:id":823453661,
+    "wof:lastmodified":1463434955,
+    "wof:name":"Great Wall",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -79.956747,
+    39.628813,
+    -79.956747,
+    39.628813
+],
+  "geometry": {"coordinates":[-79.95674699999999,39.628813],"type":"Point"}
+}

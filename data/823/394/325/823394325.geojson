@@ -1,0 +1,73 @@
+{
+  "id": 823394325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.074289,38.462272,-81.074289,38.462272",
+    "geom:latitude":38.462272,
+    "geom:longitude":-81.074289,
+    "iso:country":"US",
+    "sg:address":"452 Main St",
+    "sg:city":"Clay",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 587 4269",
+    "sg:postcode":"25043",
+    "sg:province":"WV",
+    "sg:tags":[
+        "county",
+        "program",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85811219,
+        102082627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2T2JDD0wrtI7E08liFSlbK_38.462272_-81.074289@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432301,
+    "wof:geomhash":"c6444d60dd978bced22f0b143c727f49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082627,
+            "neighbourhood_id":85811219,
+            "region_id":85688589,
+            "venue_id":823394325
+        }
+    ],
+    "wof:id":823394325,
+    "wof:lastmodified":1463432301,
+    "wof:name":"Clay County Health Dept",
+    "wof:parent_id":85811219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "program",
+        "health"
+    ]
+},
+  "bbox": [
+    -81.074289,
+    38.462272,
+    -81.074289,
+    38.462272
+],
+  "geometry": {"coordinates":[-81.07428899999999,38.462272],"type":"Point"}
+}

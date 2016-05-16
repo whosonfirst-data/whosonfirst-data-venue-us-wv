@@ -1,0 +1,73 @@
+{
+  "id": 823439559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.724991,38.369723,-81.724991,38.369723",
+    "geom:latitude":38.369723,
+    "geom:longitude":-81.724991,
+    "iso:country":"US",
+    "sg:address":"120 Oak Dr",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 766 6257",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3x49mx4HBBMJv1LP4PRB3v_38.369723_-81.724991@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434348,
+    "wof:geomhash":"e2c22a841739c469bebd3cb7291b8e65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823439559
+        }
+    ],
+    "wof:id":823439559,
+    "wof:lastmodified":1463434348,
+    "wof:name":"Oaks Apartments",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -81.724991,
+    38.369723,
+    -81.724991,
+    38.369723
+],
+  "geometry": {"coordinates":[-81.724991,38.369723],"type":"Point"}
+}

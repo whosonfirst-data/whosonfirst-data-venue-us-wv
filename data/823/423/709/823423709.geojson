@@ -1,0 +1,71 @@
+{
+  "id": 823423709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.523067,39.294059,-81.523067,39.294059",
+    "geom:latitude":39.294059,
+    "geom:longitude":-81.523067,
+    "iso:country":"US",
+    "sg:address":"5 Rosemar Cir",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 422 4487",
+    "sg:postcode":"26104",
+    "sg:province":"WV",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818799,
+        102083343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RZ2NN9e1w2dCEbO2REV22_39.294059_-81.523067@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433609,
+    "wof:geomhash":"8c121f4df0f181887775a4d5a85fdeff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "neighbourhood_id":85818799,
+            "region_id":85688589,
+            "venue_id":823423709
+        }
+    ],
+    "wof:id":823423709,
+    "wof:lastmodified":1463433609,
+    "wof:name":"WXIL",
+    "wof:parent_id":85818799,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -81.523067,
+    39.294059,
+    -81.523067,
+    39.294059
+],
+  "geometry": {"coordinates":[-81.523067,39.294059],"type":"Point"}
+}

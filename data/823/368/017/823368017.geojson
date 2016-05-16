@@ -1,0 +1,72 @@
+{
+  "id": 823368017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.598571,38.330236,-81.598571,38.330236",
+    "geom:latitude":38.330236,
+    "geom:longitude":-81.598571,
+    "iso:country":"US",
+    "sg:address":"3414 Staunton Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 7243",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "sg:website":"www.page1wv.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DJWG8lDNAhEnxU0v10mPd_38.330236_-81.598571@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431093,
+    "wof:geomhash":"b5e67bf0d66cc2cfc4eeb5164f334171",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823368017
+        }
+    ],
+    "wof:id":823368017,
+    "wof:lastmodified":1463431093,
+    "wof:name":"Page One",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -81.598571,
+    38.330236,
+    -81.598571,
+    38.330236
+],
+  "geometry": {"coordinates":[-81.59857100000001,38.330236],"type":"Point"}
+}

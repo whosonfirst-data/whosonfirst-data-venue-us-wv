@@ -1,0 +1,71 @@
+{
+  "id": 823385705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.657212,38.38837,-81.657212,38.38837",
+    "geom:latitude":38.38837,
+    "geom:longitude":-81.657212,
+    "iso:country":"US",
+    "sg:address":"2300 Sissonville Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 5131",
+    "sg:postcode":"25312",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fDMnzgZYbzGCXywGJO1VT_38.388370_-81.657212@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431875,
+    "wof:geomhash":"a520a6c01800cdcbded60181ca965369",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823385705
+        }
+    ],
+    "wof:id":823385705,
+    "wof:lastmodified":1463431875,
+    "wof:name":"Lyons Trucking & Towing",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -81.657212,
+    38.38837,
+    -81.657212,
+    38.38837
+],
+  "geometry": {"coordinates":[-81.657212,38.38837],"type":"Point"}
+}

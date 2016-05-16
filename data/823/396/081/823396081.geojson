@@ -1,0 +1,73 @@
+{
+  "id": 823396081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.568436,38.290861,-81.568436,38.290861",
+    "geom:latitude":38.290861,
+    "geom:longitude":-81.568436,
+    "iso:country":"US",
+    "sg:address":"7012 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 926 3647",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2J725fD7Vw4aYcqH9nU01V_38.290861_-81.568436@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432378,
+    "wof:geomhash":"b7eb112a20ab1a99e3e13e777b8175ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823396081
+        }
+    ],
+    "wof:id":823396081,
+    "wof:lastmodified":1463432378,
+    "wof:name":"Environment Dept-Air Quality",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -81.568436,
+    38.290861,
+    -81.568436,
+    38.290861
+],
+  "geometry": {"coordinates":[-81.56843600000001,38.290861],"type":"Point"}
+}

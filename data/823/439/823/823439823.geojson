@@ -1,0 +1,75 @@
+{
+  "id": 823439823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.54182,39.234082,-81.54182,39.234082",
+    "geom:latitude":39.234082,
+    "geom:longitude":-81.54182,
+    "iso:country":"US",
+    "sg:address":"2107 Pike St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 428 6015",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "drycleaning",
+        "plant",
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZF5BAnLSFAhbbhizujUrO_39.234082_-81.541820@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434358,
+    "wof:geomhash":"177aff4f3c6de8d144af1c0bd5820d69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823439823
+        }
+    ],
+    "wof:id":823439823,
+    "wof:lastmodified":1463434358,
+    "wof:name":"Betty Brite Cleaning Village",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant",
+        "coin"
+    ]
+},
+  "bbox": [
+    -81.54182,
+    39.234082,
+    -81.54182,
+    39.234082
+],
+  "geometry": {"coordinates":[-81.54182,39.234082],"type":"Point"}
+}

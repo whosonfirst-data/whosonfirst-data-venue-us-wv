@@ -1,0 +1,73 @@
+{
+  "id": 823426453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.339751,39.281445,-80.339751,39.281445",
+    "geom:latitude":39.281445,
+    "geom:longitude":-80.339751,
+    "iso:country":"US",
+    "sg:address":"203 N 4th St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 624 1005",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "gun",
+        "gunsmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cDWaMhkws5S9nj1ZXNRXY_39.281445_-80.339751@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433725,
+    "wof:geomhash":"e886749403dc9ec0f0a4ea62b7030299",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823426453
+        }
+    ],
+    "wof:id":823426453,
+    "wof:lastmodified":1463433725,
+    "wof:name":"St Andrews LTD Inc",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gun",
+        "gunsmith"
+    ]
+},
+  "bbox": [
+    -80.339751,
+    39.281445,
+    -80.339751,
+    39.281445
+],
+  "geometry": {"coordinates":[-80.33975100000001,39.281445],"type":"Point"}
+}

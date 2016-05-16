@@ -1,0 +1,71 @@
+{
+  "id": 823431577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.582638,39.249684,-81.582638,39.249684",
+    "geom:latitude":39.249684,
+    "geom:longitude":-81.582638,
+    "iso:country":"US",
+    "sg:address":"30 Oak Cir",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 863 6927",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "forestry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85829881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eJM9wfb9SyFlY0g7WfPCq_39.249684_-81.582638@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433947,
+    "wof:geomhash":"1a3abb202fb172419d5cc33d047f35f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85829881,
+            "region_id":85688589,
+            "venue_id":823431577
+        }
+    ],
+    "wof:id":823431577,
+    "wof:lastmodified":1463433947,
+    "wof:name":"Greenwood Forestry",
+    "wof:parent_id":85829881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forestry"
+    ]
+},
+  "bbox": [
+    -81.582638,
+    39.249684,
+    -81.582638,
+    39.249684
+],
+  "geometry": {"coordinates":[-81.582638,39.249684],"type":"Point"}
+}

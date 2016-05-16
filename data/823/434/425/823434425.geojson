@@ -1,0 +1,73 @@
+{
+  "id": 823434425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.731039,38.36201,-81.731039,38.36201",
+    "geom:latitude":38.36201,
+    "geom:longitude":-81.731039,
+    "iso:country":"US",
+    "sg:address":"600 Westmoreland Office Park",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 8077",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02N48bb0E2AAcoxCrpuLgV_38.362010_-81.731039@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434097,
+    "wof:geomhash":"79785f6949d73e3c5ab4f340868156e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823434425
+        }
+    ],
+    "wof:id":823434425,
+    "wof:lastmodified":1463434097,
+    "wof:name":"SMD Concrete",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.731039,
+    38.36201,
+    -81.731039,
+    38.36201
+],
+  "geometry": {"coordinates":[-81.731039,38.36201],"type":"Point"}
+}

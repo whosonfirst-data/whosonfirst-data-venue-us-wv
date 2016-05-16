@@ -1,0 +1,75 @@
+{
+  "id": 823405245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.055304,37.363971,-81.055304,37.363971",
+    "geom:latitude":37.363971,
+    "geom:longitude":-81.055304,
+    "iso:country":"US",
+    "sg:address":"150 E Reynolds Ave",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 952 9594",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66oJsFjAJbycTvCKOsYkNu_37.363971_-81.055304@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432821,
+    "wof:geomhash":"6c6aaf64f16d56a24ceda50ace3c7484",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823405245
+        }
+    ],
+    "wof:id":823405245,
+    "wof:lastmodified":1463432821,
+    "wof:name":"Randall Hatcher",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -81.055304,
+    37.363971,
+    -81.055304,
+    37.363971
+],
+  "geometry": {"coordinates":[-81.05530400000001,37.363971],"type":"Point"}
+}

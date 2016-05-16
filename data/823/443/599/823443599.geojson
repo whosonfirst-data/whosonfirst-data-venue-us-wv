@@ -1,0 +1,75 @@
+{
+  "id": 823443599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.730902,38.352655,-81.730902,38.352655",
+    "geom:latitude":38.352655,
+    "geom:longitude":-81.730902,
+    "iso:country":"US",
+    "sg:address":"600 Chestnut St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 7397",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "product",
+        "baker",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kPHL4QJ5LTy7zKMuKOUvQ_38.352655_-81.730902@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434528,
+    "wof:geomhash":"63abbca1f09f55fba1448850fa015e5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823443599
+        }
+    ],
+    "wof:id":823443599,
+    "wof:lastmodified":1463434528,
+    "wof:name":"Spring Hill Pastry Shop",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "baker",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -81.730902,
+    38.352655,
+    -81.730902,
+    38.352655
+],
+  "geometry": {"coordinates":[-81.730902,38.352655],"type":"Point"}
+}

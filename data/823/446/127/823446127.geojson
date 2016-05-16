@@ -1,0 +1,71 @@
+{
+  "id": 823446127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.139047,38.842117,-82.139047,38.842117",
+    "geom:latitude":38.842117,
+    "geom:longitude":-82.139047,
+    "iso:country":"US",
+    "sg:address":"317 Main St",
+    "sg:city":"Point Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 675 3952",
+    "sg:postcode":"25550",
+    "sg:province":"WV",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85983229,
+        102083675,
+        85824533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EygRqy8FbtinxWGHCfeNa_38.842117_-82.139047@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434649,
+    "wof:geomhash":"3b74d84b84dc241e47c8eb04d840c181",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "neighbourhood_id":85824533,
+            "region_id":85688485,
+            "venue_id":823446127
+        }
+    ],
+    "wof:id":823446127,
+    "wof:lastmodified":1463434649,
+    "wof:name":"Point Pleasant Printing",
+    "wof:parent_id":85824533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -82.139047,
+    38.842117,
+    -82.139047,
+    38.842117
+],
+  "geometry": {"coordinates":[-82.13904700000001,38.842117],"type":"Point"}
+}

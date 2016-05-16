@@ -1,0 +1,73 @@
+{
+  "id": 823400783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.845945,38.9229,-79.845945,38.9229",
+    "geom:latitude":38.9229,
+    "geom:longitude":-79.845945,
+    "iso:country":"US",
+    "sg:address":"107 Davis St",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 2758",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "agency",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KLvlTqMmOtDnmtaHRkowl_38.922900_-79.845945@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432622,
+    "wof:geomhash":"0629006f142c785b7690ec93640c2ba6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823400783
+        }
+    ],
+    "wof:id":823400783,
+    "wof:lastmodified":1463432622,
+    "wof:name":"Randolph Elkins Health Dept",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -79.845945,
+    38.9229,
+    -79.845945,
+    38.9229
+],
+  "geometry": {"coordinates":[-79.845945,38.9229],"type":"Point"}
+}

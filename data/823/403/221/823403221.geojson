@@ -1,0 +1,69 @@
+{
+  "id": 823403221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.466456,39.037216,-80.466456,39.037216",
+    "geom:latitude":39.037216,
+    "geom:longitude":-80.466456,
+    "iso:country":"US",
+    "sg:address":"110 Center St",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 269 8222",
+    "sg:postcode":"26452",
+    "sg:province":"WV",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85833241,
+        102083339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hddW6nK48QR7jceo5t7kf_39.037216_-80.466456@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432720,
+    "wof:geomhash":"f64230b2bd59fca3d86e50b45b03a219",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083339,
+            "neighbourhood_id":85833241,
+            "region_id":85688589,
+            "venue_id":823403221
+        }
+    ],
+    "wof:id":823403221,
+    "wof:lastmodified":1463432720,
+    "wof:name":"Lewis County Sheriff's Tax Ofc",
+    "wof:parent_id":85833241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -80.466456,
+    39.037216,
+    -80.466456,
+    39.037216
+],
+  "geometry": {"coordinates":[-80.46645599999999,39.037216],"type":"Point"}
+}

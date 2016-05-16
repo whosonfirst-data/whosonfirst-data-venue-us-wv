@@ -1,0 +1,71 @@
+{
+  "id": 823446219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.704031,38.337863,-81.704031,38.337863",
+    "geom:latitude":38.337863,
+    "geom:longitude":-81.704031,
+    "iso:country":"US",
+    "sg:address":"1522 Oakhurst Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 4144",
+    "sg:postcode":"25314",
+    "sg:province":"WV",
+    "sg:tags":[
+        "tutoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jXrD6A6b08P1kTxu9z2np_38.337863_-81.704031@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434655,
+    "wof:geomhash":"5cc99185b4657fead8081faad498738d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823446219
+        }
+    ],
+    "wof:id":823446219,
+    "wof:lastmodified":1463434655,
+    "wof:name":"Sylvan Learning Ctr",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tutoring"
+    ]
+},
+  "bbox": [
+    -81.704031,
+    38.337863,
+    -81.704031,
+    38.337863
+],
+  "geometry": {"coordinates":[-81.704031,38.337863],"type":"Point"}
+}

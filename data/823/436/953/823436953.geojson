@@ -1,0 +1,71 @@
+{
+  "id": 823436953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.560886,40.612829,-80.560886,40.612829",
+    "geom:latitude":40.612829,
+    "geom:longitude":-80.560886,
+    "iso:country":"US",
+    "sg:address":"508 Indiana Ave",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 2003",
+    "sg:postcode":"26034",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0G0LVlN0CIS5W174qhGcu1_40.612829_-80.560886@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434217,
+    "wof:geomhash":"d372db57606a806c980b58e300bfb32c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823436953
+        }
+    ],
+    "wof:id":823436953,
+    "wof:lastmodified":1463434217,
+    "wof:name":"Westminster Presbyterian Chr",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -80.560886,
+    40.612829,
+    -80.560886,
+    40.612829
+],
+  "geometry": {"coordinates":[-80.560886,40.612829],"type":"Point"}
+}

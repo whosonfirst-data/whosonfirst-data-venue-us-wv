@@ -1,0 +1,69 @@
+{
+  "id": 823412991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.101787,39.572144,-80.101787,39.572144",
+    "geom:latitude":39.572144,
+    "geom:longitude":-80.101787,
+    "iso:country":"US",
+    "sg:address":"4315 Fairmont Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 278 7474",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818601,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mQwpbpbEK8GX1gGFxA3Fp_39.572144_-80.101787@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433139,
+    "wof:geomhash":"33eb00c5b07f056ccc4e4acab581bb13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85818601,
+            "region_id":85688589,
+            "venue_id":823412991
+        }
+    ],
+    "wof:id":823412991,
+    "wof:lastmodified":1463433139,
+    "wof:name":"Trip's Bar & Grill",
+    "wof:parent_id":85818601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -80.101787,
+    39.572144,
+    -80.101787,
+    39.572144
+],
+  "geometry": {"coordinates":[-80.101787,39.572144],"type":"Point"}
+}

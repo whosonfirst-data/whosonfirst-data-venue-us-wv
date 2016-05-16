@@ -1,0 +1,75 @@
+{
+  "id": 823390287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.941931,39.623892,-79.941931,39.623892",
+    "geom:latitude":39.623892,
+    "geom:longitude":-79.941931,
+    "iso:country":"US",
+    "sg:address":"601 E Brockway Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 291 2226",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "filter",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85858573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06k7ngydjGGY4CPMjv08Tu_39.623892_-79.941931@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432092,
+    "wof:geomhash":"e186c35b17cbf1479e45effcf4926db3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85858573,
+            "region_id":85688589,
+            "venue_id":823390287
+        }
+    ],
+    "wof:id":823390287,
+    "wof:lastmodified":1463432092,
+    "wof:name":"Filter Queen",
+    "wof:parent_id":85858573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "filter",
+        "gas"
+    ]
+},
+  "bbox": [
+    -79.941931,
+    39.623892,
+    -79.941931,
+    39.623892
+],
+  "geometry": {"coordinates":[-79.941931,39.623892],"type":"Point"}
+}

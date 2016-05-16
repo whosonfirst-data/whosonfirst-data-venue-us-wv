@@ -1,0 +1,71 @@
+{
+  "id": 823435977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.971577,39.471457,-77.971577,39.471457",
+    "geom:latitude":39.471457,
+    "geom:longitude":-77.971577,
+    "iso:country":"US",
+    "sg:address":"291 Clifton Ct",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 0472",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "control",
+        "weight"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85846047,
+        102083367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5go2TirYF9NhWFKwHlkn14_39.471457_-77.971577@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434169,
+    "wof:geomhash":"2a20311012283927c6b167a9a29b69e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "neighbourhood_id":85846047,
+            "region_id":85688589,
+            "venue_id":823435977
+        }
+    ],
+    "wof:id":823435977,
+    "wof:lastmodified":1463434169,
+    "wof:name":"Weight Watchers",
+    "wof:parent_id":85846047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "weight"
+    ]
+},
+  "bbox": [
+    -77.971577,
+    39.471457,
+    -77.971577,
+    39.471457
+],
+  "geometry": {"coordinates":[-77.971577,39.471457],"type":"Point"}
+}

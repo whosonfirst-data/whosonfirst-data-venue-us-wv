@@ -1,0 +1,73 @@
+{
+  "id": 823412833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.171665,37.791648,-81.171665,37.791648",
+    "geom:latitude":37.791648,
+    "geom:longitude":-81.171665,
+    "iso:country":"US",
+    "sg:address":"1126 Hancock Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 250 0271",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cRYEICwt609PUcdGoXjzg_37.791648_-81.171665@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433133,
+    "wof:geomhash":"6d957b08909626518df1ef26ee59e6da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823412833
+        }
+    ],
+    "wof:id":823412833,
+    "wof:lastmodified":1463433133,
+    "wof:name":"Image Makers Salon",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.171665,
+    37.791648,
+    -81.171665,
+    37.791648
+],
+  "geometry": {"coordinates":[-81.171665,37.791648],"type":"Point"}
+}

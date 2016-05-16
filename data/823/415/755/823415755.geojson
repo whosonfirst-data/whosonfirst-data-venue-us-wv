@@ -1,0 +1,73 @@
+{
+  "id": 823415755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.661351,38.471645,-81.661351,38.471645",
+    "geom:latitude":38.471645,
+    "geom:longitude":-81.661351,
+    "iso:country":"US",
+    "sg:address":"662 Lakewood Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 984 1738",
+    "sg:postcode":"25312",
+    "sg:province":"WV",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62PYQlPYcG90LzQXsdOj31_38.471645_-81.661351@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433271,
+    "wof:geomhash":"a5fb6ffc8945ea4caa3b8698fdddb765",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823415755
+        }
+    ],
+    "wof:id":823415755,
+    "wof:lastmodified":1463433271,
+    "wof:name":"Premier Painting Inc",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.661351,
+    38.471645,
+    -81.661351,
+    38.471645
+],
+  "geometry": {"coordinates":[-81.661351,38.471645],"type":"Point"}
+}

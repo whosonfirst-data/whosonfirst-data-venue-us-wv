@@ -1,0 +1,73 @@
+{
+  "id": 823417943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.552441,38.312594,-81.552441,38.312594",
+    "geom:latitude":38.312594,
+    "geom:longitude":-81.552441,
+    "iso:country":"US",
+    "sg:address":"100 P S D Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 6997",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "disposal",
+        "waste"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lNlVwFC5byjOTO9tPFP3R_38.312594_-81.552441@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433379,
+    "wof:geomhash":"ecde1414773a822a1ed6c9fe4092b98d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823417943
+        }
+    ],
+    "wof:id":823417943,
+    "wof:lastmodified":1463433379,
+    "wof:name":"Malden Public Svc District",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disposal",
+        "waste"
+    ]
+},
+  "bbox": [
+    -81.552441,
+    38.312594,
+    -81.552441,
+    38.312594
+],
+  "geometry": {"coordinates":[-81.552441,38.312594],"type":"Point"}
+}

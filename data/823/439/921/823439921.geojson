@@ -1,0 +1,71 @@
+{
+  "id": 823439921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.12043,37.368714,-81.12043,37.368714",
+    "geom:latitude":37.368714,
+    "geom:longitude":-81.12043,
+    "iso:country":"US",
+    "sg:address":"352 Partridge Dr",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 3952",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OSeNWNvllIwtz8nsOJTbm_37.368714_-81.120430@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434362,
+    "wof:geomhash":"cdf658c660e3d7fa904713337ac4a0c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823439921
+        }
+    ],
+    "wof:id":823439921,
+    "wof:lastmodified":1463434362,
+    "wof:name":"Woodman of World Lf Insur Soc",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier"
+    ]
+},
+  "bbox": [
+    -81.12043,
+    37.368714,
+    -81.12043,
+    37.368714
+],
+  "geometry": {"coordinates":[-81.12043,37.368714],"type":"Point"}
+}

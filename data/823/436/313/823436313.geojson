@@ -1,0 +1,73 @@
+{
+  "id": 823436313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.087929,39.597963,-80.087929,39.597963",
+    "geom:latitude":39.597963,
+    "geom:longitude":-80.087929,
+    "iso:country":"US",
+    "sg:address":"20 Hidden Valley Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 278 7930",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818601,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OeWfqCqPaETSZGoqtRYql_39.597963_-80.087929@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434187,
+    "wof:geomhash":"89dfaa6f14fbd302c3271ec7ce75a727",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85818601,
+            "region_id":85688589,
+            "venue_id":823436313
+        }
+    ],
+    "wof:id":823436313,
+    "wof:lastmodified":1463434187,
+    "wof:name":"D & J Sanitation",
+    "wof:parent_id":85818601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -80.087929,
+    39.597963,
+    -80.087929,
+    39.597963
+],
+  "geometry": {"coordinates":[-80.087929,39.597963],"type":"Point"}
+}

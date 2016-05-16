@@ -1,0 +1,71 @@
+{
+  "id": 823446013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.245819,39.298469,-80.245819,39.298469",
+    "geom:latitude":39.298469,
+    "geom:longitude":-80.245819,
+    "iso:country":"US",
+    "sg:address":"914 Lawman Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 4006",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4U7DXyNTX0miVK3qx125xt_39.298469_-80.245819@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434643,
+    "wof:geomhash":"9b6df37fb91eb0d1f2f72bee7c730b26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823446013
+        }
+    ],
+    "wof:id":823446013,
+    "wof:lastmodified":1463434643,
+    "wof:name":"James E Lutz",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -80.245819,
+    39.298469,
+    -80.245819,
+    39.298469
+],
+  "geometry": {"coordinates":[-80.245819,39.298469],"type":"Point"}
+}

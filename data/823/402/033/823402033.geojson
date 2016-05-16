@@ -1,0 +1,75 @@
+{
+  "id": 823402033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.135447,39.480937,-80.135447,39.480937",
+    "geom:latitude":39.480937,
+    "geom:longitude":-80.135447,
+    "iso:country":"US",
+    "sg:address":"401 Guffy St",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 0222",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general",
+        "public",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31p1RDwImHixbIE73LQLJP_39.480937_-80.135447@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432673,
+    "wof:geomhash":"df49d633f137f8de2a3352f3cf52a19b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823402033
+        }
+    ],
+    "wof:id":823402033,
+    "wof:lastmodified":1463432673,
+    "wof:name":"Marion Health Care Hospital",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "public",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -80.135447,
+    39.480937,
+    -80.135447,
+    39.480937
+],
+  "geometry": {"coordinates":[-80.135447,39.480937],"type":"Point"}
+}

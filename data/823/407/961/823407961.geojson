@@ -1,0 +1,73 @@
+{
+  "id": 823407961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.716147,38.385633,-81.716147,38.385633",
+    "geom:latitude":38.385633,
+    "geom:longitude":-81.716147,
+    "iso:country":"US",
+    "sg:address":"4250 Washington St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 7020",
+    "sg:postcode":"25313",
+    "sg:province":"WV",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vQKocvm7JZfdaxouVE5QS_38.385633_-81.716147@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432946,
+    "wof:geomhash":"300af84bda54c97bd4bc8b2a112b7503",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823407961
+        }
+    ],
+    "wof:id":823407961,
+    "wof:lastmodified":1463432946,
+    "wof:name":"Bristol Broadcasting Co",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -81.716147,
+    38.385633,
+    -81.716147,
+    38.385633
+],
+  "geometry": {"coordinates":[-81.71614700000001,38.385633],"type":"Point"}
+}

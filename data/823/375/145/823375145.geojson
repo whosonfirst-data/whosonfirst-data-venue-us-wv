@@ -1,0 +1,69 @@
+{
+  "id": 823375145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.959493,39.628524,-79.959493,39.628524",
+    "geom:latitude":39.628524,
+    "geom:longitude":-79.959493,
+    "iso:country":"US",
+    "sg:address":"1029 University Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 4460",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SWDe782qxWI20LejPs8jV_39.628524_-79.959493@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431422,
+    "wof:geomhash":"e7caa8def853d3c6faf4164bf2b7f56f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823375145
+        }
+    ],
+    "wof:id":823375145,
+    "wof:lastmodified":1463431422,
+    "wof:name":"NAPA Auto Parts",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -79.959493,
+    39.628524,
+    -79.959493,
+    39.628524
+],
+  "geometry": {"coordinates":[-79.95949299999999,39.628524],"type":"Point"}
+}

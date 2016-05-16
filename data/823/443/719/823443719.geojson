@@ -1,0 +1,73 @@
+{
+  "id": 823443719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.945374,39.630358,-79.945374,39.630358",
+    "geom:latitude":39.630358,
+    "geom:longitude":-79.945374,
+    "iso:country":"US",
+    "sg:address":"616 Louise Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 291 5460",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85858573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iSvwEs8w2TJ5yF4HnpAcZ_39.630358_-79.945374@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434532,
+    "wof:geomhash":"a550949559f44782a8ae4bf4ee42e47a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85858573,
+            "region_id":85688589,
+            "venue_id":823443719
+        }
+    ],
+    "wof:id":823443719,
+    "wof:lastmodified":1463434532,
+    "wof:name":"Thompson Vending",
+    "wof:parent_id":85858573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator"
+    ]
+},
+  "bbox": [
+    -79.945374,
+    39.630358,
+    -79.945374,
+    39.630358
+],
+  "geometry": {"coordinates":[-79.945374,39.630358],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823429825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.062444,37.362294,-81.062444,37.362294",
+    "geom:latitude":37.362294,
+    "geom:longitude":-81.062444,
+    "iso:country":"US",
+    "sg:address":"506 Elmore St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 1019",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0J3NXgw73eLBPzm5oNdw5C_37.362294_-81.062444@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433877,
+    "wof:geomhash":"1f4f1710917ec2ea1b448d0ac8838566",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823429825
+        }
+    ],
+    "wof:id":823429825,
+    "wof:lastmodified":1463433877,
+    "wof:name":"Hudson Paint & Body Shop",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -81.062444,
+    37.362294,
+    -81.062444,
+    37.362294
+],
+  "geometry": {"coordinates":[-81.062444,37.362294],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823426719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.549693,38.402853,-81.549693,38.402853",
+    "geom:latitude":38.402853,
+    "geom:longitude":-81.549693,
+    "iso:country":"US",
+    "sg:address":"4039 Pennsylvania Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 965 6180",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wouqhbEAcIR3HyKV4Gmnu_38.402853_-81.549693@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433736,
+    "wof:geomhash":"7c2cb5a769116a48fbd309efa3347514",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823426719
+        }
+    ],
+    "wof:id":823426719,
+    "wof:lastmodified":1463433736,
+    "wof:name":"Jones Excavating Of Charleston",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.549693,
+    38.402853,
+    -81.549693,
+    38.402853
+],
+  "geometry": {"coordinates":[-81.549693,38.402853],"type":"Point"}
+}

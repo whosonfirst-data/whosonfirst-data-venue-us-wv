@@ -1,0 +1,66 @@
+{
+  "id": 823409045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.975853,39.452325,-77.975853,39.452325",
+    "geom:latitude":39.452325,
+    "geom:longitude":-77.975853,
+    "iso:country":"US",
+    "sg:address":"650 Winchester Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 267 3570",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wWk2w4uvJo6p8z1G7cqNz_39.452325_-77.975853@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432987,
+    "wof:geomhash":"d6cd967f8fa2110ef7ffe80ca3cb1be3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823409045
+        }
+    ],
+    "wof:id":823409045,
+    "wof:lastmodified":1463432987,
+    "wof:name":"Winchester Avenue Elementary",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.975853,
+    39.452325,
+    -77.975853,
+    39.452325
+],
+  "geometry": {"coordinates":[-77.975853,39.452325],"type":"Point"}
+}

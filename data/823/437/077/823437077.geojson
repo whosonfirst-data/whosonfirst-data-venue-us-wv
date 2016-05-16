@@ -1,0 +1,71 @@
+{
+  "id": 823437077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.058551,37.365317,-81.058551,37.365317",
+    "geom:latitude":37.365317,
+    "geom:longitude":-81.058551,
+    "iso:country":"US",
+    "sg:address":"140 Springdale Ave",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 431 3066",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78d4ELSfndNUVUmxyu3avW_37.365317_-81.058551@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434226,
+    "wof:geomhash":"88d4eea78c6a9cbb5a7cd5a88d1b69ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823437077
+        }
+    ],
+    "wof:id":823437077,
+    "wof:lastmodified":1463434226,
+    "wof:name":"Asim Razzaq MD",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -81.058551,
+    37.365317,
+    -81.058551,
+    37.365317
+],
+  "geometry": {"coordinates":[-81.05855099999999,37.365317],"type":"Point"}
+}

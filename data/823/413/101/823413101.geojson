@@ -1,0 +1,71 @@
+{
+  "id": 823413101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.124439,38.996197,-79.124439,38.996197",
+    "geom:latitude":38.996197,
+    "geom:longitude":-79.124439,
+    "iso:country":"US",
+    "sg:address":"109 N Main St",
+    "sg:city":"Petersburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 257 4366",
+    "sg:postcode":"26847",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731285,
+        102082625,
+        85852439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5y1V4qdbAlRl0Xg9eMBGvN_38.996197_-79.124439@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433142,
+    "wof:geomhash":"ac76f4caefec6c9bd292a07dce5c1bc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082625,
+            "locality_id":101731285,
+            "neighbourhood_id":85852439,
+            "region_id":85688589,
+            "venue_id":823413101
+        }
+    ],
+    "wof:id":823413101,
+    "wof:lastmodified":1463433142,
+    "wof:name":"John E Glover DDS",
+    "wof:parent_id":85852439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -79.124439,
+    38.996197,
+    -79.124439,
+    38.996197
+],
+  "geometry": {"coordinates":[-79.124439,38.996197],"type":"Point"}
+}

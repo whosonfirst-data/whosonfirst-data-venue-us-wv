@@ -1,0 +1,72 @@
+{
+  "id": 823396467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.124815,37.344948,-81.124815,37.344948",
+    "geom:latitude":37.344948,
+    "geom:longitude":-81.124815,
+    "iso:country":"US",
+    "sg:address":"466 Courthouse Rd",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 6501",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.vetassoc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jVVLAb4Pp6Jyh1HWDsylx_37.344948_-81.124815@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432396,
+    "wof:geomhash":"18bd47bc038b6cd53c4a2cc1ba6b0054",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823396467
+        }
+    ],
+    "wof:id":823396467,
+    "wof:lastmodified":1463432396,
+    "wof:name":"Veterinary Associates",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -81.124815,
+    37.344948,
+    -81.124815,
+    37.344948
+],
+  "geometry": {"coordinates":[-81.124815,37.344948],"type":"Point"}
+}

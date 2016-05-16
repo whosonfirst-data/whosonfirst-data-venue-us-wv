@@ -1,0 +1,73 @@
+{
+  "id": 823381357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.467507,38.208071,-81.467507,38.208071",
+    "geom:latitude":38.208071,
+    "geom:longitude":-81.467507,
+    "iso:country":"US",
+    "sg:address":"3028 Michigan Ave",
+    "sg:city":"Belle",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 8483",
+    "sg:postcode":"25015",
+    "sg:province":"WV",
+    "sg:tags":[
+        "television",
+        "provider"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nNmKEswhJn3sqpiVWByNy_38.208071_-81.467507@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431703,
+    "wof:geomhash":"a7fa00f3434c3135ee329e75ae8bfa22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823381357
+        }
+    ],
+    "wof:id":823381357,
+    "wof:lastmodified":1463431703,
+    "wof:name":"Cablecom",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "provider"
+    ]
+},
+  "bbox": [
+    -81.467507,
+    38.208071,
+    -81.467507,
+    38.208071
+],
+  "geometry": {"coordinates":[-81.467507,38.208071],"type":"Point"}
+}

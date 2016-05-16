@@ -1,0 +1,71 @@
+{
+  "id": 823371749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.849452,38.925114,-79.849452,38.925114",
+    "geom:latitude":38.925114,
+    "geom:longitude":-79.849452,
+    "iso:country":"US",
+    "sg:address":"107 3rd St",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 3982",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dTHT2aY5LWgH78Y0ELi5D_38.925114_-79.849452@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431273,
+    "wof:geomhash":"f314e69dc0e3a754517e43cb5a26bcb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823371749
+        }
+    ],
+    "wof:id":823371749,
+    "wof:lastmodified":1463431273,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -79.849452,
+    38.925114,
+    -79.849452,
+    38.925114
+],
+  "geometry": {"coordinates":[-79.849452,38.925114],"type":"Point"}
+}

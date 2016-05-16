@@ -1,0 +1,73 @@
+{
+  "id": 823387925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.559356,38.299803,-81.559356,38.299803",
+    "geom:latitude":38.299803,
+    "geom:longitude":-81.559356,
+    "iso:country":"US",
+    "sg:address":"4210 Fallam Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 5060",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrecker",
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2l1DSUnlR6Rcj8XEMiTJDD_38.299803_-81.559356@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431961,
+    "wof:geomhash":"bdc2ac9790f8cd637970d03bd0940f4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823387925
+        }
+    ],
+    "wof:id":823387925,
+    "wof:lastmodified":1463431961,
+    "wof:name":"Budget Towing",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker",
+        "towing"
+    ]
+},
+  "bbox": [
+    -81.559356,
+    38.299803,
+    -81.559356,
+    38.299803
+],
+  "geometry": {"coordinates":[-81.55935599999999,38.299803],"type":"Point"}
+}

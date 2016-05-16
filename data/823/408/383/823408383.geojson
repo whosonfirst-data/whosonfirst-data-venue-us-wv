@@ -1,0 +1,71 @@
+{
+  "id": 823408383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.859858,39.633591,-80.859858,39.633591",
+    "geom:latitude":39.633591,
+    "geom:longitude":-80.859858,
+    "iso:country":"US",
+    "sg:address":"189 State Rte 2",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 2844",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RBtEmHN4u8ifaGV4qlLuj_39.633591_-80.859858@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432962,
+    "wof:geomhash":"8acc0831c9c2dc9bb545079faa965211",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823408383
+        }
+    ],
+    "wof:id":823408383,
+    "wof:lastmodified":1463432962,
+    "wof:name":"Fox's Night Club",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -80.859858,
+    39.633591,
+    -80.859858,
+    39.633591
+],
+  "geometry": {"coordinates":[-80.859858,39.633591],"type":"Point"}
+}

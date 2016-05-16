@@ -1,0 +1,74 @@
+{
+  "id": 823452943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.321855,38.417792,-82.321855,38.417792",
+    "geom:latitude":38.417792,
+    "geom:longitude":-82.321855,
+    "iso:country":"US",
+    "sg:address":"10 Larchmont Dr",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/barboursville/83510-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 736 7272",
+    "sg:postcode":"25705",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85865435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UewPjeTSGpGCEgxt54Mfr_38.417792_-82.321855@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434926,
+    "wof:geomhash":"4424b1b1cca82e7f4cb214575d6b75d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85865435,
+            "region_id":85688589,
+            "venue_id":823452943
+        }
+    ],
+    "wof:id":823452943,
+    "wof:lastmodified":1463434926,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85865435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -82.321855,
+    38.417792,
+    -82.321855,
+    38.417792
+],
+  "geometry": {"coordinates":[-82.321855,38.417792],"type":"Point"}
+}

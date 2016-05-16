@@ -1,0 +1,71 @@
+{
+  "id": 823411957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.578626,38.322637,-81.578626,38.322637",
+    "geom:latitude":38.322637,
+    "geom:longitude":-81.578626,
+    "iso:country":"US",
+    "sg:address":"4802 Staunton Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 2484",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rC2z81eksjfAweEs1yeOu_38.322637_-81.578626@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433101,
+    "wof:geomhash":"b8725bfd05a19c81d374af26171b8753",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823411957
+        }
+    ],
+    "wof:id":823411957,
+    "wof:lastmodified":1463433101,
+    "wof:name":"Foster Law Firm",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -81.578626,
+    38.322637,
+    -81.578626,
+    38.322637
+],
+  "geometry": {"coordinates":[-81.578626,38.322637],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823367905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.866086,39.638341,-80.866086,39.638341",
+    "geom:latitude":39.638341,
+    "geom:longitude":-80.866086,
+    "iso:country":"US",
+    "sg:address":"197 Main St",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 9140",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hhuWLtCVdzjg0tUgvn7gF_39.638341_-80.866086@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431089,
+    "wof:geomhash":"2bc63630b66ab07e73634d7f0cba68a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823367905
+        }
+    ],
+    "wof:id":823367905,
+    "wof:lastmodified":1463431089,
+    "wof:name":"New Martinsville Bruce Park",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -80.866086,
+    39.638341,
+    -80.866086,
+    39.638341
+],
+  "geometry": {"coordinates":[-80.866086,39.638341],"type":"Point"}
+}

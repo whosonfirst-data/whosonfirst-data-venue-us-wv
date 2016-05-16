@@ -1,0 +1,73 @@
+{
+  "id": 823411259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.637611,38.350576,-81.637611,38.350576",
+    "geom:latitude":38.350576,
+    "geom:longitude":-81.637611,
+    "iso:country":"US",
+    "sg:address":"501 Virginia St E",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 348 6490",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HF7rryz2xq4qHjkGFrOff_38.350576_-81.637611@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433076,
+    "wof:geomhash":"a442ea1cb2df6c6b46f59a86fcf1746e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823411259
+        }
+    ],
+    "wof:id":823411259,
+    "wof:lastmodified":1463433076,
+    "wof:name":"Charleston Police-Criminal",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -81.637611,
+    38.350576,
+    -81.637611,
+    38.350576
+],
+  "geometry": {"coordinates":[-81.63761100000001,38.350576],"type":"Point"}
+}

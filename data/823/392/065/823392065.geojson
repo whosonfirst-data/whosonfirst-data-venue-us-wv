@@ -1,0 +1,75 @@
+{
+  "id": 823392065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.338803,39.280181,-80.338803,39.280181",
+    "geom:latitude":39.280181,
+    "geom:longitude":-80.338803,
+    "iso:country":"US",
+    "sg:address":"108 S 3rd St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 622 5621",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "development",
+        "housing",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BKhxUWPOW7NqXSGfBSMgE_39.280181_-80.338803@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432174,
+    "wof:geomhash":"c3b57c42ed31079ec10c5aee1495a9c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823392065
+        }
+    ],
+    "wof:id":823392065,
+    "wof:lastmodified":1463432174,
+    "wof:name":"West Virginia Housing Dev Fund",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "housing",
+        "program"
+    ]
+},
+  "bbox": [
+    -80.338803,
+    39.280181,
+    -80.338803,
+    39.280181
+],
+  "geometry": {"coordinates":[-80.338803,39.280181],"type":"Point"}
+}

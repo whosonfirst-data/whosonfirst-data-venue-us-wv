@@ -1,0 +1,92 @@
+{
+  "id": 823457539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.914879,39.662011,-79.914879,39.662011",
+    "geom:latitude":39.662011,
+    "geom:longitude":-79.914879,
+    "iso:country":"US",
+    "sg:address":"3062 Point Marion Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 3462",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "course",
+        "club",
+        "supply",
+        "private",
+        "equipment",
+        "courses-private"
+    ],
+    "sg:website":"http://www.thepinescc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731747,
+        102082587,
+        85819247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RWhScS9ZT20PqansDCpDH_39.662011_-79.914879@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435164,
+    "wof:geomhash":"bc8b45c91fc7634e1001717fd5118f78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85819247,
+            "region_id":85688589,
+            "venue_id":823457539
+        }
+    ],
+    "wof:id":823457539,
+    "wof:lastmodified":1463435164,
+    "wof:name":"The Pines Country Club Inc",
+    "wof:parent_id":85819247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course",
+        "club",
+        "supply",
+        "private",
+        "equipment",
+        "courses-private"
+    ]
+},
+  "bbox": [
+    -79.914879,
+    39.662011,
+    -79.914879,
+    39.662011
+],
+  "geometry": {"coordinates":[-79.914879,39.662011],"type":"Point"}
+}

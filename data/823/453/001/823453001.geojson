@@ -1,0 +1,78 @@
+{
+  "id": 823453001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.218401,37.792866,-81.218401,37.792866",
+    "geom:latitude":37.792866,
+    "geom:longitude":-81.218401,
+    "iso:country":"US",
+    "sg:address":"120 Harper Park Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/mcalpin/195859-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 252 3834",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yketMdep7SBZdZdZpx3P4_37.792866_-81.218401@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434929,
+    "wof:geomhash":"2aaffbafdd6eb3ad4e89b2843840a67e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823453001
+        }
+    ],
+    "wof:id":823453001,
+    "wof:lastmodified":1463434929,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -81.218401,
+    37.792866,
+    -81.218401,
+    37.792866
+],
+  "geometry": {"coordinates":[-81.218401,37.792866],"type":"Point"}
+}

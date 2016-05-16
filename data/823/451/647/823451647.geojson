@@ -1,0 +1,71 @@
+{
+  "id": 823451647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.610641,40.287022,-80.610641,40.287022",
+    "geom:latitude":40.287022,
+    "geom:longitude":-80.610641,
+    "iso:country":"US",
+    "sg:address":"2400 Charles St",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 1218",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "equipment-testing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PIXIfSxEu19dkWyfhEb5I_40.286905_-80.610557@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463434878,
+    "wof:geomhash":"9c73f2f37c3b49080c79c28929595c49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823451647
+        }
+    ],
+    "wof:id":823451647,
+    "wof:lastmodified":1463434878,
+    "wof:name":"Allegheny Power Wv Meters",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment-testing"
+    ]
+},
+  "bbox": [
+    -80.610641,
+    40.287022,
+    -80.610641,
+    40.287022
+],
+  "geometry": {"coordinates":[-80.610641,40.287022],"type":"Point"}
+}

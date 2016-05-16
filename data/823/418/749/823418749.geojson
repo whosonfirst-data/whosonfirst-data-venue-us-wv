@@ -1,0 +1,71 @@
+{
+  "id": 823418749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.079553,37.368947,-81.079553,37.368947",
+    "geom:latitude":37.368947,
+    "geom:longitude":-81.079553,
+    "iso:country":"US",
+    "sg:address":"414 Thorn St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 1258",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Sp83ZA3hzMn4f2Ucch1vl_37.368947_-81.079553@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433416,
+    "wof:geomhash":"ffb0434a19a2df725fbd06c4e0bedd3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823418749
+        }
+    ],
+    "wof:id":823418749,
+    "wof:lastmodified":1463433416,
+    "wof:name":"Canine Manor",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -81.079553,
+    37.368947,
+    -81.079553,
+    37.368947
+],
+  "geometry": {"coordinates":[-81.079553,37.368947],"type":"Point"}
+}

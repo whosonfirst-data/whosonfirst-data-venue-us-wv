@@ -1,0 +1,71 @@
+{
+  "id": 823394321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.713352,38.364073,-81.713352,38.364073",
+    "geom:latitude":38.364073,
+    "geom:longitude":-81.713352,
+    "iso:country":"US",
+    "sg:address":"23 River Walk Mall",
+    "sg:city":"South Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 341 2129",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5u8ZRseEI0Iw184opEezLL_38.364073_-81.713352@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432301,
+    "wof:geomhash":"5d17f54b4bd288eae9dbd53c4271e559",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823394321
+        }
+    ],
+    "wof:id":823394321,
+    "wof:lastmodified":1463432301,
+    "wof:name":"Gardner's Drycleaning-Laundry",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -81.713352,
+    38.364073,
+    -81.713352,
+    38.364073
+],
+  "geometry": {"coordinates":[-81.713352,38.364073],"type":"Point"}
+}

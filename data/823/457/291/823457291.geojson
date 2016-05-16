@@ -1,0 +1,72 @@
+{
+  "id": 823457291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.963491,39.65436,-79.963491,39.65436",
+    "geom:latitude":39.65436,
+    "geom:longitude":-79.963491,
+    "iso:country":"US",
+    "sg:address":"1075 Van Voorhis Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 2273",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"http://www.wvu-urgentcare.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BfmeY4cW2543M2vDasCj6_39.654360_-79.963491@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435153,
+    "wof:geomhash":"0b0d70423a04400a5d3ab82b0e98304a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823457291
+        }
+    ],
+    "wof:id":823457291,
+    "wof:lastmodified":1463435153,
+    "wof:name":"University Health Associates",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -79.963491,
+    39.65436,
+    -79.963491,
+    39.65436
+],
+  "geometry": {"coordinates":[-79.963491,39.65436],"type":"Point"}
+}

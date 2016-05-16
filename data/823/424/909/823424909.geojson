@@ -1,0 +1,73 @@
+{
+  "id": 823424909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.486064,38.448514,-81.486064,38.448514",
+    "geom:latitude":38.448514,
+    "geom:longitude":-81.486064,
+    "iso:country":"US",
+    "sg:address":"113 Frame Rd",
+    "sg:city":"Elkview",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 965 7675",
+    "sg:postcode":"25071",
+    "sg:province":"WV",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tKnXtM83nHZyqb9WdmIF0_38.448514_-81.486064@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433655,
+    "wof:geomhash":"637f5093700ca020d902182f1cae22e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823424909
+        }
+    ],
+    "wof:id":823424909,
+    "wof:lastmodified":1463433655,
+    "wof:name":"Elk Valley Veterinary Hospital",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -81.486064,
+    38.448514,
+    -81.486064,
+    38.448514
+],
+  "geometry": {"coordinates":[-81.486064,38.448514],"type":"Point"}
+}

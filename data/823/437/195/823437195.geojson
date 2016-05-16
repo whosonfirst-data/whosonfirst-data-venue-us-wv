@@ -1,0 +1,71 @@
+{
+  "id": 823437195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.847425,38.926252,-79.847425,38.926252",
+    "geom:latitude":38.926252,
+    "geom:longitude":-79.847425,
+    "iso:country":"US",
+    "sg:address":"216 4th St",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 3433",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aLGBKQeJALVXRQ5YHivFH_38.926252_-79.847425@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434242,
+    "wof:geomhash":"707407b578392f9ff41922e59b7442d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823437195
+        }
+    ],
+    "wof:id":823437195,
+    "wof:lastmodified":1463434242,
+    "wof:name":"Elkins Volunteer Fire Dept",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -79.847425,
+    38.926252,
+    -79.847425,
+    38.926252
+],
+  "geometry": {"coordinates":[-79.847425,38.926252],"type":"Point"}
+}

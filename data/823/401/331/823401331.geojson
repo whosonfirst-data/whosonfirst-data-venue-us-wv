@@ -1,0 +1,71 @@
+{
+  "id": 823401331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.655421,38.363171,-81.655421,38.363171",
+    "geom:latitude":38.363171,
+    "geom:longitude":-81.655421,
+    "iso:country":"US",
+    "sg:address":"203 Glenwood Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 346 8706",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "investigator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1w26zV3SFd2WZey2Ymyo2A_38.363171_-81.655421@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432645,
+    "wof:geomhash":"ebaf967cf583127e906ac3e8f924cdec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823401331
+        }
+    ],
+    "wof:id":823401331,
+    "wof:lastmodified":1463432645,
+    "wof:name":"FYI Investigations",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investigator"
+    ]
+},
+  "bbox": [
+    -81.655421,
+    38.363171,
+    -81.655421,
+    38.363171
+],
+  "geometry": {"coordinates":[-81.655421,38.363171],"type":"Point"}
+}

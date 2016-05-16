@@ -1,0 +1,75 @@
+{
+  "id": 823432459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.53394,39.286988,-81.53394,39.286988",
+    "geom:latitude":39.286988,
+    "geom:longitude":-81.53394,
+    "iso:country":"US",
+    "sg:address":"3400 Dudley Ave",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 428 0946",
+    "sg:postcode":"26104",
+    "sg:province":"WV",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731687,
+        102083343,
+        85805293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iVux2y0IqRP0geagZ3vfz_39.286988_-81.533940@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433992,
+    "wof:geomhash":"213b1d3b02da21edc149a1c98497be85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85805293,
+            "region_id":85688589,
+            "venue_id":823432459
+        }
+    ],
+    "wof:id":823432459,
+    "wof:lastmodified":1463433992,
+    "wof:name":"Rite Aid",
+    "wof:parent_id":85805293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -81.53394,
+    39.286988,
+    -81.53394,
+    39.286988
+],
+  "geometry": {"coordinates":[-81.53394,39.286988],"type":"Point"}
+}

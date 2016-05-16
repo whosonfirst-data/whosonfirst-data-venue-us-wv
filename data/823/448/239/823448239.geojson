@@ -1,0 +1,78 @@
+{
+  "id": 823448239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.067382,38.872523,-82.067382,38.872523",
+    "geom:latitude":38.872523,
+    "geom:longitude":-82.067382,
+    "iso:country":"US",
+    "sg:address":"2 Holden Ln",
+    "sg:city":"Point Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 675 2793",
+    "sg:postcode":"25550",
+    "sg:province":"WV",
+    "sg:tags":[
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731555,
+        102082637,
+        85830595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6p783WaEbLHrtSqDbvo9Hh_38.872523_-82.067382@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434750,
+    "wof:geomhash":"04e33d013614bb64a3d79896886b46c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082637,
+            "locality_id":101731555,
+            "neighbourhood_id":85830595,
+            "region_id":85688589,
+            "venue_id":823448239
+        }
+    ],
+    "wof:id":823448239,
+    "wof:lastmodified":1463434750,
+    "wof:name":"Hill Top Fencing",
+    "wof:parent_id":85830595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.067382,
+    38.872523,
+    -82.067382,
+    38.872523
+],
+  "geometry": {"coordinates":[-82.06738199999999,38.872523],"type":"Point"}
+}

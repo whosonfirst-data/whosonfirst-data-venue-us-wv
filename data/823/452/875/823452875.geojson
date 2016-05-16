@@ -1,0 +1,75 @@
+{
+  "id": 823452875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.428301,38.408625,-82.428301,38.408625",
+    "geom:latitude":38.408625,
+    "geom:longitude":-82.428301,
+    "iso:country":"US",
+    "sg:address":"1445 Hal Greer Blvd",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/huntington/206505-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"25701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731553,
+        102083329,
+        85868305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KLdKmKGd3Zp1OS0o2LWvT_38.408625_-82.428301@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434924,
+    "wof:geomhash":"2673efbae15266f661a52e69fa4978e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731553,
+            "neighbourhood_id":85868305,
+            "region_id":85688589,
+            "venue_id":823452875
+        }
+    ],
+    "wof:id":823452875,
+    "wof:lastmodified":1463434924,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85868305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -82.428301,
+    38.408625,
+    -82.428301,
+    38.408625
+],
+  "geometry": {"coordinates":[-82.428301,38.408625],"type":"Point"}
+}

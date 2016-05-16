@@ -1,0 +1,71 @@
+{
+  "id": 823385389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.02787,39.620246,-80.02787,39.620246",
+    "geom:latitude":39.620246,
+    "geom:longitude":-80.02787,
+    "iso:country":"US",
+    "sg:address":"2519 Fairmont Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 983 2702",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "lawn",
+        "fertilizing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818601,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10wKwwFtrBxAFKgUZfJ3SI_39.620246_-80.027870@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431863,
+    "wof:geomhash":"37e5240be376b5b5a4ef3c4757d5e33b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85818601,
+            "region_id":85688589,
+            "venue_id":823385389
+        }
+    ],
+    "wof:id":823385389,
+    "wof:lastmodified":1463431863,
+    "wof:name":"Mountaineer Lawn Care",
+    "wof:parent_id":85818601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "fertilizing"
+    ]
+},
+  "bbox": [
+    -80.02787,
+    39.620246,
+    -80.02787,
+    39.620246
+],
+  "geometry": {"coordinates":[-80.02786999999999,39.620246],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823446695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.339608,39.280459,-80.339608,39.280459",
+    "geom:latitude":39.280459,
+    "geom:longitude":-80.339608,
+    "iso:country":"US",
+    "sg:address":"345 W Pike St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 622 8100",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "club",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2s4gP4Asvj69OazjrtVHhd_39.280459_-80.339608@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434680,
+    "wof:geomhash":"8b51ad425f027b0347a8eb6268747e8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823446695
+        }
+    ],
+    "wof:id":823446695,
+    "wof:lastmodified":1463434680,
+    "wof:name":"Traders Dance Club",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "night"
+    ]
+},
+  "bbox": [
+    -80.339608,
+    39.280459,
+    -80.339608,
+    39.280459
+],
+  "geometry": {"coordinates":[-80.339608,39.280459],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 823455719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.010915,39.399023,-78.010915,39.399023",
+    "geom:latitude":39.399023,
+    "geom:longitude":-78.010915,
+    "iso:country":"US",
+    "sg:address":"5491 Tabler Station Rd",
+    "sg:city":"Inwood",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 3871",
+    "sg:postcode":"25428",
+    "sg:province":"WV",
+    "sg:tags":[
+        "self",
+        "warehouses-merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EnzGQuICHPD8VXLZDcfes_39.399023_-78.010915@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435086,
+    "wof:geomhash":"489d4e555149c89a00860d1c64c48a17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823455719
+        }
+    ],
+    "wof:id":823455719,
+    "wof:lastmodified":1463435086,
+    "wof:name":"A & S Warehouse Inc",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self",
+        "warehouses-merchandise"
+    ]
+},
+  "bbox": [
+    -78.010915,
+    39.399023,
+    -78.010915,
+    39.399023
+],
+  "geometry": {"coordinates":[-78.010915,39.399023],"type":"Point"}
+}

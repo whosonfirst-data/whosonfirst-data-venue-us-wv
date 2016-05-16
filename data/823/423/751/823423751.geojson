@@ -1,0 +1,71 @@
+{
+  "id": 823423751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.093469,37.370614,-81.093469,37.370614",
+    "geom:latitude":37.370614,
+    "geom:longitude":-81.093469,
+    "iso:country":"US",
+    "sg:address":"810 Straley Ave",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 3173",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fkP3JVB1baH2jzFk8HWtp_37.370614_-81.093469@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433610,
+    "wof:geomhash":"98d8df8f5ee08e4fc3668d3769940174",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823423751
+        }
+    ],
+    "wof:id":823423751,
+    "wof:lastmodified":1463433610,
+    "wof:name":"Straley Elementary School",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -81.093469,
+    37.370614,
+    -81.093469,
+    37.370614
+],
+  "geometry": {"coordinates":[-81.093469,37.370614],"type":"Point"}
+}

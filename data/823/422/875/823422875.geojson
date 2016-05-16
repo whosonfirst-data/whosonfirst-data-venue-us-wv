@@ -1,0 +1,71 @@
+{
+  "id": 823422875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.360395,39.272647,-80.360395,39.272647",
+    "geom:latitude":39.272647,
+    "geom:longitude":-80.360395,
+    "iso:country":"US",
+    "sg:address":"193 Liberty Ave",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 622 6570",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85810773,
+        102082619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4n9b5Tm9W7LLTAbrR5SIfL_39.272647_-80.360395@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433573,
+    "wof:geomhash":"95e9304fe1e62473e1b9e5251d8d0397",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "neighbourhood_id":85810773,
+            "region_id":85688589,
+            "venue_id":823422875
+        }
+    ],
+    "wof:id":823422875,
+    "wof:lastmodified":1463433573,
+    "wof:name":"Earthmovers Excavation LLC",
+    "wof:parent_id":85810773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.360395,
+    39.272647,
+    -80.360395,
+    39.272647
+],
+  "geometry": {"coordinates":[-80.360395,39.272647],"type":"Point"}
+}

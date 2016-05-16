@@ -1,0 +1,71 @@
+{
+  "id": 823431327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.990269,39.414965,-77.990269,39.414965",
+    "geom:latitude":39.414965,
+    "geom:longitude":-77.990269,
+    "iso:country":"US",
+    "sg:address":"2043 Winchester Pike",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 264 8502",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KBqePNiCGDQfjx1sKarAC_39.414965_-77.990269@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433933,
+    "wof:geomhash":"472c065ed7bae2b1f639a2463c02cecd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823431327
+        }
+    ],
+    "wof:id":823431327,
+    "wof:lastmodified":1463433933,
+    "wof:name":"Alternative Telephone Svc",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -77.990269,
+    39.414965,
+    -77.990269,
+    39.414965
+],
+  "geometry": {"coordinates":[-77.990269,39.414965],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823396965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.405841,39.202792,-80.405841,39.202792",
+    "geom:latitude":39.202792,
+    "geom:longitude":-80.405841,
+    "iso:country":"US",
+    "sg:address":"624 Main St",
+    "sg:city":"West Milford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 745 4711",
+    "sg:postcode":"26451",
+    "sg:province":"WV",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85810773,
+        102082619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6g88uFTxm6r65ei6UnVsVm_39.202792_-80.405841@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432430,
+    "wof:geomhash":"ea956a66325c7d4ddfdd805071461781",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "neighbourhood_id":85810773,
+            "region_id":85688589,
+            "venue_id":823396965
+        }
+    ],
+    "wof:id":823396965,
+    "wof:lastmodified":1463432430,
+    "wof:name":"Walker Enterprises",
+    "wof:parent_id":85810773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -80.405841,
+    39.202792,
+    -80.405841,
+    39.202792
+],
+  "geometry": {"coordinates":[-80.405841,39.202792],"type":"Point"}
+}

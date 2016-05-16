@@ -1,0 +1,71 @@
+{
+  "id": 823448327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.771362,38.410327,-81.771362,38.410327",
+    "geom:latitude":38.410327,
+    "geom:longitude":-81.771362,
+    "iso:country":"US",
+    "sg:address":"4926 Washington St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 769 2260",
+    "sg:postcode":"25313",
+    "sg:province":"WV",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731773,
+        102083335,
+        85840775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_719HWIC4IFEQn0w4eZ4wxP_38.410327_-81.771362@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434754,
+    "wof:geomhash":"41c7133247851d90ade93763db762336",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731773,
+            "neighbourhood_id":85840775,
+            "region_id":85688589,
+            "venue_id":823448327
+        }
+    ],
+    "wof:id":823448327,
+    "wof:lastmodified":1463434754,
+    "wof:name":"American Pawn Svc",
+    "wof:parent_id":85840775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -81.771362,
+    38.410327,
+    -81.771362,
+    38.410327
+],
+  "geometry": {"coordinates":[-81.771362,38.410327],"type":"Point"}
+}

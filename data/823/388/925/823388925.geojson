@@ -1,0 +1,73 @@
+{
+  "id": 823388925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.315248,39.313265,-80.315248,39.313265",
+    "geom:latitude":39.313265,
+    "geom:longitude":-80.315248,
+    "iso:country":"US",
+    "sg:address":"1 Dodd Ln",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 622 7083",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "product",
+        "asphalt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85831189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bgqUg8nOmmhyDpapJJyP6_39.313265_-80.315248@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432023,
+    "wof:geomhash":"5d6928164282857538e2dbed9d9c3e22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85831189,
+            "region_id":85688589,
+            "venue_id":823388925
+        }
+    ],
+    "wof:id":823388925,
+    "wof:lastmodified":1463432023,
+    "wof:name":"Dodd Corp",
+    "wof:parent_id":85831189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "asphalt"
+    ]
+},
+  "bbox": [
+    -80.315248,
+    39.313265,
+    -80.315248,
+    39.313265
+],
+  "geometry": {"coordinates":[-80.315248,39.313265],"type":"Point"}
+}

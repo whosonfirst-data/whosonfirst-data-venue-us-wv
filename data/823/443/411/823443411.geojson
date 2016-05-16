@@ -1,0 +1,74 @@
+{
+  "id": 823443411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.009635,37.423583,-81.009635,37.423583",
+    "geom:latitude":37.423583,
+    "geom:longitude":-81.009635,
+    "iso:country":"US",
+    "sg:address":"12 Mill St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 9631",
+    "sg:postcode":"24712",
+    "sg:province":"WV",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "sg:website":"www.wvawater.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_570RuqxAHVX06Qn4BpJHl9_37.423583_-81.009635@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434520,
+    "wof:geomhash":"83450545a8d5f4dce645db1073d8079d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823443411
+        }
+    ],
+    "wof:id":823443411,
+    "wof:lastmodified":1463434520,
+    "wof:name":"West Virginia-American Water",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -81.009635,
+    37.423583,
+    -81.009635,
+    37.423583
+],
+  "geometry": {"coordinates":[-81.009635,37.423583],"type":"Point"}
+}

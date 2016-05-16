@@ -1,0 +1,71 @@
+{
+  "id": 823423893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.295311,37.797756,-80.295311,37.797756",
+    "geom:latitude":37.797756,
+    "geom:longitude":-80.295311,
+    "iso:country":"US",
+    "sg:address":"304 E Main St",
+    "sg:city":"White Slphr Spgs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 536 3304",
+    "sg:postcode":"24986",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73fQfWtxslgVMrEkDnsrS6_37.797756_-80.295311@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433616,
+    "wof:geomhash":"66fc067bb183ee5149ca40f4b42f26f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823423893
+        }
+    ],
+    "wof:id":823423893,
+    "wof:lastmodified":1463433616,
+    "wof:name":"Daniel W Nunley DDS",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -80.295311,
+    37.797756,
+    -80.295311,
+    37.797756
+],
+  "geometry": {"coordinates":[-80.295311,37.797756],"type":"Point"}
+}

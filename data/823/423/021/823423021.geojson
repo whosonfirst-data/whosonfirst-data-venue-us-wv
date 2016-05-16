@@ -1,0 +1,73 @@
+{
+  "id": 823423021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.301002,37.79369,-80.301002,37.79369",
+    "geom:latitude":37.79369,
+    "geom:longitude":-80.301002,
+    "iso:country":"US",
+    "sg:address":"12 W Main St",
+    "sg:city":"White Sulphur Springs",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 536 9856",
+    "sg:postcode":"24986",
+    "sg:province":"WV",
+    "sg:tags":[
+        "drinking",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VejOZOmQ0gwRooTvMtLwq_37.793690_-80.301002@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433578,
+    "wof:geomhash":"620130d863ab99d08196b45da12284cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823423021
+        }
+    ],
+    "wof:id":823423021,
+    "wof:lastmodified":1463433578,
+    "wof:name":"Rte 60 American Grille",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating"
+    ]
+},
+  "bbox": [
+    -80.301002,
+    37.79369,
+    -80.301002,
+    37.79369
+],
+  "geometry": {"coordinates":[-80.301002,37.79369],"type":"Point"}
+}

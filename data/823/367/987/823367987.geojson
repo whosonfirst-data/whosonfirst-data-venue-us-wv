@@ -1,0 +1,71 @@
+{
+  "id": 823367987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.092113,37.367947,-81.092113,37.367947",
+    "geom:latitude":37.367947,
+    "geom:longitude":-81.092113,
+    "iso:country":"US",
+    "sg:address":"706 Knob St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 3171",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BWlfJG592EwVybYLV3b86_37.367947_-81.092113@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431092,
+    "wof:geomhash":"e2b97c9acf674a19a9e1a8992a249aba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823367987
+        }
+    ],
+    "wof:id":823367987,
+    "wof:lastmodified":1463431092,
+    "wof:name":"Knob Elementary School",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -81.092113,
+    37.367947,
+    -81.092113,
+    37.367947
+],
+  "geometry": {"coordinates":[-81.092113,37.367947],"type":"Point"}
+}

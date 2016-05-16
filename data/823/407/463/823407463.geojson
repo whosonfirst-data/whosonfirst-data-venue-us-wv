@@ -1,0 +1,71 @@
+{
+  "id": 823407463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.696412,38.363236,-81.696412,38.363236",
+    "geom:latitude":38.363236,
+    "geom:longitude":-81.696412,
+    "iso:country":"US",
+    "sg:address":"157 2nd Ave SW",
+    "sg:city":"South Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 348 1346",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "safety"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tCETCTlVnkx5Q1calCayz_38.363236_-81.696412@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432919,
+    "wof:geomhash":"428849b2ecf40da03aec3527987510a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823407463
+        }
+    ],
+    "wof:id":823407463,
+    "wof:lastmodified":1463432919,
+    "wof:name":"Regulatory Training Ctr",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "safety"
+    ]
+},
+  "bbox": [
+    -81.696412,
+    38.363236,
+    -81.696412,
+    38.363236
+],
+  "geometry": {"coordinates":[-81.696412,38.363236],"type":"Point"}
+}

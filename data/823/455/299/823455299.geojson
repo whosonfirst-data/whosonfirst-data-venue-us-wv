@@ -1,0 +1,75 @@
+{
+  "id": 823455299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.013669,39.382847,-78.013669,39.382847",
+    "geom:latitude":39.382847,
+    "geom:longitude":-78.013669,
+    "iso:country":"US",
+    "sg:address":"140 Nadenbousch Ln",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 229 1970",
+    "sg:postcode":"25405",
+    "sg:province":"WV",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zlN4w124VCv6LCrQaCvKA_39.382847_-78.013669@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435069,
+    "wof:geomhash":"d2ac2c30c9fa1591251320618c3f8d61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823455299
+        }
+    ],
+    "wof:id":823455299,
+    "wof:lastmodified":1463435069,
+    "wof:name":"Valley View Elementary",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -78.013669,
+    39.382847,
+    -78.013669,
+    39.382847
+],
+  "geometry": {"coordinates":[-78.01366899999999,39.382847],"type":"Point"}
+}

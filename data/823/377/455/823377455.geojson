@@ -1,0 +1,73 @@
+{
+  "id": 823377455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.634452,38.350315,-81.634452,38.350315",
+    "geom:latitude":38.350315,
+    "geom:longitude":-81.634452,
+    "iso:country":"US",
+    "sg:address":"209 Capitol St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 9952",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "attendant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03yKf3I2aOIvxrp7YmLRQB_38.350315_-81.634452@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431534,
+    "wof:geomhash":"1a5d5a9afc4bd6e8c9df69ab40bcde2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823377455
+        }
+    ],
+    "wof:id":823377455,
+    "wof:lastmodified":1463431534,
+    "wof:name":"Spyro's Parking",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attendant"
+    ]
+},
+  "bbox": [
+    -81.634452,
+    38.350315,
+    -81.634452,
+    38.350315
+],
+  "geometry": {"coordinates":[-81.634452,38.350315],"type":"Point"}
+}

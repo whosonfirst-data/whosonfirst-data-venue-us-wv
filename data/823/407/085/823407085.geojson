@@ -1,0 +1,73 @@
+{
+  "id": 823407085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.55263,39.321005,-81.55263,39.321005",
+    "geom:latitude":39.321005,
+    "geom:longitude":-81.55263,
+    "iso:country":"US",
+    "sg:address":"2100 Grand Central Ave",
+    "sg:city":"Vienna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 295 4521",
+    "sg:postcode":"26105",
+    "sg:province":"WV",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731685,
+        102083343,
+        85819937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4snrBf7TKDdDd5zGOJJZ9I_39.321005_-81.552630@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432906,
+    "wof:geomhash":"22e5d6fcbf06e77ae4039ac294eeb4f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731685,
+            "neighbourhood_id":85819937,
+            "region_id":85688589,
+            "venue_id":823407085
+        }
+    ],
+    "wof:id":823407085,
+    "wof:lastmodified":1463432906,
+    "wof:name":"Vienna Small Animal Hospital",
+    "wof:parent_id":85819937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -81.55263,
+    39.321005,
+    -81.55263,
+    39.321005
+],
+  "geometry": {"coordinates":[-81.55262999999999,39.321005],"type":"Point"}
+}

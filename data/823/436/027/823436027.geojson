@@ -1,0 +1,71 @@
+{
+  "id": 823436027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.018562,39.341687,-80.018562,39.341687",
+    "geom:latitude":39.341687,
+    "geom:longitude":-80.018562,
+    "iso:country":"US",
+    "sg:address":"17 W Washington St",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 265 1848",
+    "sg:postcode":"26354",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731717,
+        102083351,
+        85849697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58OcwkNl24fL4yJhQLrvKQ_39.341687_-80.018562@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434176,
+    "wof:geomhash":"35fb159133dae6930d4c07eb8e57cf3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083351,
+            "locality_id":101731717,
+            "neighbourhood_id":85849697,
+            "region_id":85688589,
+            "venue_id":823436027
+        }
+    ],
+    "wof:id":823436027,
+    "wof:lastmodified":1463434176,
+    "wof:name":"St Augustine's Church",
+    "wof:parent_id":85849697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -80.018562,
+    39.341687,
+    -80.018562,
+    39.341687
+],
+  "geometry": {"coordinates":[-80.018562,39.341687],"type":"Point"}
+}

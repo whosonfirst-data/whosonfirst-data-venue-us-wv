@@ -1,0 +1,73 @@
+{
+  "id": 823451523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.145123,39.486211,-80.145123,39.486211",
+    "geom:latitude":39.486211,
+    "geom:longitude":-80.145123,
+    "iso:country":"US",
+    "sg:address":"401 Monroe St",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 367 9472",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "bus",
+        "intercity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3X0F8rWsu6zuObU8om1l4p_39.486211_-80.145123@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434874,
+    "wof:geomhash":"60882de737020c28ad8b99a418025ddd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823451523
+        }
+    ],
+    "wof:id":823451523,
+    "wof:lastmodified":1463434874,
+    "wof:name":"Fairmont Bus Terminal",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "intercity"
+    ]
+},
+  "bbox": [
+    -80.145123,
+    39.486211,
+    -80.145123,
+    39.486211
+],
+  "geometry": {"coordinates":[-80.145123,39.486211],"type":"Point"}
+}

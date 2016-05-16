@@ -1,0 +1,73 @@
+{
+  "id": 823373035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.219866,37.792362,-81.219866,37.792362",
+    "geom:latitude":37.792362,
+    "geom:longitude":-81.219866,
+    "iso:country":"US",
+    "sg:address":"315 Harper Park Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 253 9895",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rHBCsoRTT14U9y0VpQq0N_37.792362_-81.219866@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431323,
+    "wof:geomhash":"8ff4e8762cf72010d6c159a227e7b714",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823373035
+        }
+    ],
+    "wof:id":823373035,
+    "wof:lastmodified":1463431323,
+    "wof:name":"Beckley Foot & Ankle Clinic",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -81.219866,
+    37.792362,
+    -81.219866,
+    37.792362
+],
+  "geometry": {"coordinates":[-81.219866,37.792362],"type":"Point"}
+}

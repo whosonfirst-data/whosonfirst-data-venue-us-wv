@@ -1,0 +1,71 @@
+{
+  "id": 823428293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.567737,40.611888,-80.567737,40.611888",
+    "geom:latitude":40.611888,
+    "geom:longitude":-80.567737,
+    "iso:country":"US",
+    "sg:address":"201 Virginia Ave",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 1030",
+    "sg:postcode":"26034",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lG6YslvMSlYeDGsv4GoaK_40.611888_-80.567737@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433799,
+    "wof:geomhash":"b44c5b9c9aa613dfcfa70f8ffed672cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823428293
+        }
+    ],
+    "wof:id":823428293,
+    "wof:lastmodified":1463433799,
+    "wof:name":"Church Of Christ",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -80.567737,
+    40.611888,
+    -80.567737,
+    40.611888
+],
+  "geometry": {"coordinates":[-80.56773699999999,40.611888],"type":"Point"}
+}

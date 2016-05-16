@@ -1,0 +1,71 @@
+{
+  "id": 823367499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.115209,39.477982,-80.115209,39.477982",
+    "geom:latitude":39.477982,
+    "geom:longitude":-80.115209,
+    "iso:country":"US",
+    "sg:address":"429 Boulevard Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 4181",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IMX4cEA9v0Z3EDRIQiAaa_39.477982_-80.115209@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431075,
+    "wof:geomhash":"5af5febbccfb125086d88b1abf522983",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823367499
+        }
+    ],
+    "wof:id":823367499,
+    "wof:lastmodified":1463431075,
+    "wof:name":"Modern Custom Upholstery",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -80.115209,
+    39.477982,
+    -80.115209,
+    39.477982
+],
+  "geometry": {"coordinates":[-80.11520899999999,39.477982],"type":"Point"}
+}

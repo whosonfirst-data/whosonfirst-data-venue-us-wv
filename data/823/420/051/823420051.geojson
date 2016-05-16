@@ -1,0 +1,71 @@
+{
+  "id": 823420051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.115653,37.365834,-81.115653,37.365834",
+    "geom:latitude":37.365834,
+    "geom:longitude":-81.115653,
+    "iso:country":"US",
+    "sg:address":"110 Gott Rd",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 8161",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fMX2Dh3Gp9JRGY8UlFhUp_37.365834_-81.115653@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433468,
+    "wof:geomhash":"206b5e3884364ef9ec02888db881065e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823420051
+        }
+    ],
+    "wof:id":823420051,
+    "wof:lastmodified":1463433468,
+    "wof:name":"US Mine Safety & Health Adm",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -81.115653,
+    37.365834,
+    -81.115653,
+    37.365834
+],
+  "geometry": {"coordinates":[-81.11565299999999,37.365834],"type":"Point"}
+}

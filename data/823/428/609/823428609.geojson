@@ -1,0 +1,73 @@
+{
+  "id": 823428609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.642864,38.363991,-81.642864,38.363991",
+    "geom:latitude":38.363991,
+    "geom:longitude":-81.642864,
+    "iso:country":"US",
+    "sg:address":"504 Washington St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 8931",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "club",
+        "membership"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FGwHGzuJ55JmtL855FJJH_38.363991_-81.642864@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433817,
+    "wof:geomhash":"9157e0922235802658900bc60f43b7c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823428609
+        }
+    ],
+    "wof:id":823428609,
+    "wof:lastmodified":1463433817,
+    "wof:name":"Trax",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "membership"
+    ]
+},
+  "bbox": [
+    -81.642864,
+    38.363991,
+    -81.642864,
+    38.363991
+],
+  "geometry": {"coordinates":[-81.642864,38.363991],"type":"Point"}
+}

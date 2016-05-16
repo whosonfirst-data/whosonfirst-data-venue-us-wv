@@ -1,0 +1,73 @@
+{
+  "id": 823411241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.882389,39.613705,-79.882389,39.613705",
+    "geom:latitude":39.613705,
+    "geom:longitude":-79.882389,
+    "iso:country":"US",
+    "sg:address":"54 Mayfield Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 9555",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732105,
+        102082587,
+        85807831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Bdog7xa4dcbohc5os2UVv_39.613705_-79.882389@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433075,
+    "wof:geomhash":"c8fedf7132cee639ea4a2c4a527adb11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101732105,
+            "neighbourhood_id":85807831,
+            "region_id":85688589,
+            "venue_id":823411241
+        }
+    ],
+    "wof:id":823411241,
+    "wof:lastmodified":1463433075,
+    "wof:name":"Moser Crown & Bridge Inc",
+    "wof:parent_id":85807831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -79.882389,
+    39.613705,
+    -79.882389,
+    39.613705
+],
+  "geometry": {"coordinates":[-79.882389,39.613705],"type":"Point"}
+}

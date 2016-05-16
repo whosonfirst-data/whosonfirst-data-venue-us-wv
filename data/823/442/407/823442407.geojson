@@ -1,0 +1,71 @@
+{
+  "id": 823442407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.133526,38.435617,-82.133526,38.435617",
+    "geom:latitude":38.435617,
+    "geom:longitude":-82.133526,
+    "iso:country":"US",
+    "sg:address":"1050 Church St",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 743 9530",
+    "sg:postcode":"25541",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85816671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CBgG9n3s6gUMyPBAdpTf2_38.435617_-82.133526@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434467,
+    "wof:geomhash":"27d118899f99da3db84c519b828f3e31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85816671,
+            "region_id":85688589,
+            "venue_id":823442407
+        }
+    ],
+    "wof:id":823442407,
+    "wof:lastmodified":1463434467,
+    "wof:name":"Milton Housing Authority",
+    "wof:parent_id":85816671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -82.133526,
+    38.435617,
+    -82.133526,
+    38.435617
+],
+  "geometry": {"coordinates":[-82.133526,38.435617],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823380289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.000222,38.446149,-82.000222,38.446149",
+    "geom:latitude":38.446149,
+    "geom:longitude":-82.000222,
+    "iso:country":"US",
+    "sg:address":"1207 Forrest Dr",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 760 1006",
+    "sg:postcode":"25526",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731829,
+        102083381,
+        85868321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ywLNKMnqGj6YalYT956Q6_38.446149_-82.000222@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431652,
+    "wof:geomhash":"8487b7f681b777a798005e7e95328240",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731829,
+            "neighbourhood_id":85868321,
+            "region_id":85688589,
+            "venue_id":823380289
+        }
+    ],
+    "wof:id":823380289,
+    "wof:lastmodified":1463431652,
+    "wof:name":"S Fox MD",
+    "wof:parent_id":85868321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -82.000222,
+    38.446149,
+    -82.000222,
+    38.446149
+],
+  "geometry": {"coordinates":[-82.00022199999999,38.446149],"type":"Point"}
+}

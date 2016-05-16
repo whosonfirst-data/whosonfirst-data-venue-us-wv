@@ -1,0 +1,73 @@
+{
+  "id": 823367559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.749156,38.354648,-81.749156,38.354648",
+    "geom:latitude":38.354648,
+    "geom:longitude":-81.749156,
+    "iso:country":"US",
+    "sg:address":"5635 Maccorkle Ave",
+    "sg:city":"South Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 8776",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40lkxyfzNGMSXBJK1KqTqw_38.354648_-81.749156@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431077,
+    "wof:geomhash":"4c4237d1c1949f3c45275caf849be475",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823367559
+        }
+    ],
+    "wof:id":823367559,
+    "wof:lastmodified":1463431077,
+    "wof:name":"Mc Corkle Plumbing & Piping",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.749156,
+    38.354648,
+    -81.749156,
+    38.354648
+],
+  "geometry": {"coordinates":[-81.749156,38.354648],"type":"Point"}
+}

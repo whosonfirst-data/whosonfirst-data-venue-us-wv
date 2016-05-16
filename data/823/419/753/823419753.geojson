@@ -1,0 +1,73 @@
+{
+  "id": 823419753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.590019,38.327501,-81.590019,38.327501",
+    "geom:latitude":38.327501,
+    "geom:longitude":-81.590019,
+    "iso:country":"US",
+    "sg:address":"307 40th St SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 7214",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "boot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Qay6szN11FlkJXRE9TCKq_38.327501_-81.590019@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433453,
+    "wof:geomhash":"d53d760bf745a80eaffd1329a2ae9be1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823419753
+        }
+    ],
+    "wof:id":823419753,
+    "wof:lastmodified":1463433453,
+    "wof:name":"Reed's Shoe Repair",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "boot"
+    ]
+},
+  "bbox": [
+    -81.590019,
+    38.327501,
+    -81.590019,
+    38.327501
+],
+  "geometry": {"coordinates":[-81.590019,38.327501],"type":"Point"}
+}

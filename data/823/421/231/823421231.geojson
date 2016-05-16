@@ -1,0 +1,73 @@
+{
+  "id": 823421231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.66328,38.485854,-81.66328,38.485854",
+    "geom:latitude":38.485854,
+    "geom:longitude":-81.66328,
+    "iso:country":"US",
+    "sg:address":"6820 Sissonville Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 988 1970",
+    "sg:postcode":"25320",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6m8MquTUKP6GFdKtocc26J_38.485854_-81.663280@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433514,
+    "wof:geomhash":"aa2ddf218044aecb8f3b4f88fd916cf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823421231
+        }
+    ],
+    "wof:id":823421231,
+    "wof:lastmodified":1463433514,
+    "wof:name":"Austin Construction Co",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.66328,
+    38.485854,
+    -81.66328,
+    38.485854
+],
+  "geometry": {"coordinates":[-81.66328,38.485854],"type":"Point"}
+}

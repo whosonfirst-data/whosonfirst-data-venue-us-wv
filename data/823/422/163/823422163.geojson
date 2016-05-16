@@ -1,0 +1,71 @@
+{
+  "id": 823422163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.604965,40.387785,-80.604965,40.387785",
+    "geom:latitude":40.387785,
+    "geom:longitude":-80.604965,
+    "iso:country":"US",
+    "sg:address":"5000 Freedom Way",
+    "sg:city":"Weirton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 797 8550",
+    "sg:postcode":"26062",
+    "sg:province":"WV",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731371,
+        102082633,
+        85832497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bIF7VMVeJgJIgKMT7CAne_40.387785_-80.604965@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433548,
+    "wof:geomhash":"5f437678a5bad94b23ef2369d0941954",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731371,
+            "neighbourhood_id":85832497,
+            "region_id":85688589,
+            "venue_id":823422163
+        }
+    ],
+    "wof:id":823422163,
+    "wof:lastmodified":1463433548,
+    "wof:name":"Weirton Waste Water Plant",
+    "wof:parent_id":85832497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -80.604965,
+    40.387785,
+    -80.604965,
+    40.387785
+],
+  "geometry": {"coordinates":[-80.60496500000001,40.387785],"type":"Point"}
+}

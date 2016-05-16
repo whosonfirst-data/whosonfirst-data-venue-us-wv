@@ -1,0 +1,77 @@
+{
+  "id": 823380567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.618992,38.333295,-81.618992,38.333295",
+    "geom:latitude":38.333295,
+    "geom:longitude":-81.618992,
+    "iso:country":"US",
+    "sg:address":"315 22nd St SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 6788",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "recreational",
+        "leasing",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85850023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RRyaWAcmQjKo1AIu82qhn_38.333295_-81.618992@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431667,
+    "wof:geomhash":"cf8d87663f019b192d71b2fb9800fef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85850023,
+            "region_id":85688589,
+            "venue_id":823380567
+        }
+    ],
+    "wof:id":823380567,
+    "wof:lastmodified":1463431667,
+    "wof:name":"Charleston Rv Rentals",
+    "wof:parent_id":85850023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recreational",
+        "leasing",
+        "vehicle"
+    ]
+},
+  "bbox": [
+    -81.618992,
+    38.333295,
+    -81.618992,
+    38.333295
+],
+  "geometry": {"coordinates":[-81.61899200000001,38.333295],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 823456273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.638893,40.108459,-80.638893,40.108459",
+    "geom:latitude":40.108459,
+    "geom:longitude":-80.638893,
+    "iso:country":"US",
+    "sg:address":"200 Village Ln",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 242 8551",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment",
+        "vacancy",
+        "listing",
+        "rental",
+        "finder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823177,
+        102082621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5seytam3TWAP4muaAdiWxD_40.108459_-80.638893@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435106,
+    "wof:geomhash":"ed57a54130128c1a14b7361c960f716e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082621,
+            "neighbourhood_id":85823177,
+            "region_id":85688589,
+            "venue_id":823456273
+        }
+    ],
+    "wof:id":823456273,
+    "wof:lastmodified":1463435106,
+    "wof:name":"Oglebay Village Apts",
+    "wof:parent_id":85823177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "vacancy",
+        "listing",
+        "rental",
+        "finder"
+    ]
+},
+  "bbox": [
+    -80.638893,
+    40.108459,
+    -80.638893,
+    40.108459
+],
+  "geometry": {"coordinates":[-80.638893,40.108459],"type":"Point"}
+}

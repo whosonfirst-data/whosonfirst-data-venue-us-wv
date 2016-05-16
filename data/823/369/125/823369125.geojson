@@ -1,0 +1,73 @@
+{
+  "id": 823369125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.684082,38.381114,-81.684082,38.381114",
+    "geom:latitude":38.381114,
+    "geom:longitude":-81.684082,
+    "iso:country":"US",
+    "sg:address":"806 N Hills Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 8001",
+    "sg:postcode":"25312",
+    "sg:province":"WV",
+    "sg:tags":[
+        "club",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qFopy0fQHekFOXyRajqaA_38.381114_-81.684082@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431137,
+    "wof:geomhash":"8a4fbf497eb60e20f7ae4d724e4c8fad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823369125
+        }
+    ],
+    "wof:id":823369125,
+    "wof:lastmodified":1463431137,
+    "wof:name":"Sound Factory",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "night"
+    ]
+},
+  "bbox": [
+    -81.684082,
+    38.381114,
+    -81.684082,
+    38.381114
+],
+  "geometry": {"coordinates":[-81.684082,38.381114],"type":"Point"}
+}

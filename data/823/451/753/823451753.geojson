@@ -1,0 +1,73 @@
+{
+  "id": 823451753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.592462,40.393721,-80.592462,40.393721",
+    "geom:latitude":40.393721,
+    "geom:longitude":-80.592462,
+    "iso:country":"US",
+    "sg:address":"4004 Main St",
+    "sg:city":"Weirton",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 748 3900",
+    "sg:postcode":"26062",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automobile",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731371,
+        102082633,
+        85832497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oWV9xaJn1HaWZsdiZP36U_40.393504_-80.592411@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463434882,
+    "wof:geomhash":"7eb58c30ff05cc35e03c0544d263c381",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731371,
+            "neighbourhood_id":85832497,
+            "region_id":85688589,
+            "venue_id":823451753
+        }
+    ],
+    "wof:id":823451753,
+    "wof:lastmodified":1463434882,
+    "wof:name":"Samuel Kusic",
+    "wof:parent_id":85832497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "supply"
+    ]
+},
+  "bbox": [
+    -80.592462,
+    40.393721,
+    -80.592462,
+    40.393721
+],
+  "geometry": {"coordinates":[-80.592462,40.393721],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823435279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.97037,38.986925,-81.97037,38.986925",
+    "geom:latitude":38.986925,
+    "geom:longitude":-81.97037,
+    "iso:country":"US",
+    "sg:address":"140 Mill St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 882 3101",
+    "sg:postcode":"25265",
+    "sg:province":"WV",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731555,
+        102082637,
+        85830595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iiTWHx47abKi9wS3vOTcE_38.986925_-81.970370@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434138,
+    "wof:geomhash":"49c32fe4b91847415e494fd014cfe189",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082637,
+            "locality_id":101731555,
+            "neighbourhood_id":85830595,
+            "region_id":85688589,
+            "venue_id":823435279
+        }
+    ],
+    "wof:id":823435279,
+    "wof:lastmodified":1463434138,
+    "wof:name":"American Legion",
+    "wof:parent_id":85830595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military"
+    ]
+},
+  "bbox": [
+    -81.97037,
+    38.986925,
+    -81.97037,
+    38.986925
+],
+  "geometry": {"coordinates":[-81.97037,38.986925],"type":"Point"}
+}

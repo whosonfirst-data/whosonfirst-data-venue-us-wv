@@ -1,0 +1,71 @@
+{
+  "id": 823438193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.536224,38.223515,-81.536224,38.223515",
+    "geom:latitude":38.223515,
+    "geom:longitude":-81.536224,
+    "iso:country":"US",
+    "sg:address":"12404 Maccorkle Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 1496",
+    "sg:postcode":"25315",
+    "sg:province":"WV",
+    "sg:tags":[
+        "executive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HacacXWN3SB9YU5n3pyi5_38.223515_-81.536224@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434286,
+    "wof:geomhash":"8d4400b11b2ea8945296de9478c97e49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823438193
+        }
+    ],
+    "wof:id":823438193,
+    "wof:lastmodified":1463434286,
+    "wof:name":"Chesapeake City Hall",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "executive"
+    ]
+},
+  "bbox": [
+    -81.536224,
+    38.223515,
+    -81.536224,
+    38.223515
+],
+  "geometry": {"coordinates":[-81.536224,38.223515],"type":"Point"}
+}

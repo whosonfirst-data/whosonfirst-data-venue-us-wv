@@ -1,0 +1,82 @@
+{
+  "id": 823391985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.86081,39.290465,-77.86081,39.290465",
+    "geom:latitude":39.290465,
+    "geom:longitude":-77.86081,
+    "iso:country":"US",
+    "sg:address":"222 N George St",
+    "sg:city":"Charles Town",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 725 7809",
+    "sg:postcode":"25414",
+    "sg:province":"WV",
+    "sg:tags":[
+        "oil",
+        "general",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731443,
+        102082647,
+        85807793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35BetBpeXgRvSb2QzNfrLa_39.290465_-77.860810@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432171,
+    "wof:geomhash":"0012bec59655641247f090f7334b9a88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082647,
+            "locality_id":101731443,
+            "neighbourhood_id":85807793,
+            "region_id":85688589,
+            "venue_id":823391985
+        }
+    ],
+    "wof:id":823391985,
+    "wof:lastmodified":1463432171,
+    "wof:name":"Hill's Chevron",
+    "wof:parent_id":85807793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "general",
+        "supply"
+    ]
+},
+  "bbox": [
+    -77.86081,
+    39.290465,
+    -77.86081,
+    39.290465
+],
+  "geometry": {"coordinates":[-77.86081,39.290465],"type":"Point"}
+}

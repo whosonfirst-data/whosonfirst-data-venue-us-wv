@@ -1,0 +1,72 @@
+{
+  "id": 823453631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.989454,39.622371,-79.989454,39.622371",
+    "geom:latitude":39.622371,
+    "geom:longitude":-79.989454,
+    "iso:country":"US",
+    "sg:address":"9323 Mall Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/western/220343-auntie-annes-pretzels/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 983 6175",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818601,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7k7TsVPVTh4XZORQtaodj1_39.622371_-79.989454@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434954,
+    "wof:geomhash":"c93066ba462337469142732369e6b347",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85818601,
+            "region_id":85688589,
+            "venue_id":823453631
+        }
+    ],
+    "wof:id":823453631,
+    "wof:lastmodified":1463434954,
+    "wof:name":"Auntie Anne's Pretzels",
+    "wof:parent_id":85818601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -79.989454,
+    39.622371,
+    -79.989454,
+    39.622371
+],
+  "geometry": {"coordinates":[-79.98945399999999,39.622371],"type":"Point"}
+}

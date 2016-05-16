@@ -1,0 +1,71 @@
+{
+  "id": 823433231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.569948,38.397735,-82.569948,38.397735",
+    "geom:latitude":38.397735,
+    "geom:longitude":-82.569948,
+    "iso:country":"US",
+    "sg:address":"901 Poplar St",
+    "sg:city":"Kenova",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 2201",
+    "sg:postcode":"25530",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731517,
+        102083365,
+        85806071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ovWi1ra9HehTYpDTjBbYt_38.397735_-82.569948@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434028,
+    "wof:geomhash":"89d538b6529b5d27d4783c98f5c9ca79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731517,
+            "neighbourhood_id":85806071,
+            "region_id":85688589,
+            "venue_id":823433231
+        }
+    ],
+    "wof:id":823433231,
+    "wof:lastmodified":1463434028,
+    "wof:name":"Hollywood Motel",
+    "wof:parent_id":85806071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -82.569948,
+    38.397735,
+    -82.569948,
+    38.397735
+],
+  "geometry": {"coordinates":[-82.569948,38.397735],"type":"Point"}
+}

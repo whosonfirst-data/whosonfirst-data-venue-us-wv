@@ -1,0 +1,69 @@
+{
+  "id": 823409497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.097635,38.059802,-81.097635,38.059802",
+    "geom:latitude":38.059802,
+    "geom:longitude":-81.097635,
+    "iso:country":"US",
+    "sg:address":"309 Keller Ave",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 574 1238",
+    "sg:postcode":"25840",
+    "sg:province":"WV",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yDi0Hf56YgQNZUci1exix_38.059802_-81.097635@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433002,
+    "wof:geomhash":"809b7d4d285d1e2b5d26eb7f4317cd59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823409497
+        }
+    ],
+    "wof:id":823409497,
+    "wof:lastmodified":1463433002,
+    "wof:name":"Lisa's General Store",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -81.097635,
+    38.059802,
+    -81.097635,
+    38.059802
+],
+  "geometry": {"coordinates":[-81.097635,38.059802],"type":"Point"}
+}

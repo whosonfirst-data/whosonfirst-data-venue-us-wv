@@ -1,0 +1,71 @@
+{
+  "id": 823450287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.592071,38.34904,-81.592071,38.34904",
+    "geom:latitude":38.34904,
+    "geom:longitude":-81.592071,
+    "iso:country":"US",
+    "sg:address":"809 Litz Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 348 1130",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hezEr7nrOl9Vv2GqfAYUP_38.349040_-81.592071@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434827,
+    "wof:geomhash":"7c56745f2ec47a0953f3762eb4bcddea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823450287
+        }
+    ],
+    "wof:id":823450287,
+    "wof:lastmodified":1463434827,
+    "wof:name":"Ruffner Elementary School",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -81.592071,
+    38.34904,
+    -81.592071,
+    38.34904
+],
+  "geometry": {"coordinates":[-81.592071,38.34904],"type":"Point"}
+}

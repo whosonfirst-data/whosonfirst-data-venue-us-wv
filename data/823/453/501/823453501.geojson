@@ -1,0 +1,74 @@
+{
+  "id": 823453501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.275682,39.312085,-80.275682,39.312085",
+    "geom:latitude":39.312085,
+    "geom:longitude":-80.275682,
+    "iso:country":"US",
+    "sg:address":"2399 Meadowbrook Mall",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/bridgeport/220340-auntie-annes-pretzels/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 5920",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85831189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77kpjt9lEtxZGXliGVazzG_39.312085_-80.275682@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434949,
+    "wof:geomhash":"32dda5951cf49d26f1d007c542f73485",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85831189,
+            "region_id":85688589,
+            "venue_id":823453501
+        }
+    ],
+    "wof:id":823453501,
+    "wof:lastmodified":1463434949,
+    "wof:name":"Auntie Anne's Pretzels",
+    "wof:parent_id":85831189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -80.275682,
+    39.312085,
+    -80.275682,
+    39.312085
+],
+  "geometry": {"coordinates":[-80.275682,39.312085],"type":"Point"}
+}

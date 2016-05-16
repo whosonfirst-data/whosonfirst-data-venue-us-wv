@@ -1,0 +1,87 @@
+{
+  "id": 823455301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.98477,39.437404,-77.98477,39.437404",
+    "geom:latitude":39.437404,
+    "geom:longitude":-77.98477,
+    "iso:country":"US",
+    "sg:address":"1500 Winchester Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 264 9169",
+    "sg:postcode":"25405",
+    "sg:province":"WV",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "sg:website":"http://www.dollargeneral.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hSf9oaTt4mfSnELhkk0ch_39.437404_-77.984770@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435070,
+    "wof:geomhash":"8de6120524b2f04a0b8d01e2cccae15a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823455301
+        }
+    ],
+    "wof:id":823455301,
+    "wof:lastmodified":1463435070,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -77.98477,
+    39.437404,
+    -77.98477,
+    39.437404
+],
+  "geometry": {"coordinates":[-77.98477,39.437404],"type":"Point"}
+}

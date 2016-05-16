@@ -1,0 +1,75 @@
+{
+  "id": 823450055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.76719,38.40572,-81.76719,38.40572",
+    "geom:latitude":38.40572,
+    "geom:longitude":-81.76719,
+    "iso:country":"US",
+    "sg:address":"4871 Washington St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 776 1212",
+    "sg:postcode":"25313",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731773,
+        102083335,
+        85840775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sHah19BEUxzyZ6e3oxgAe_38.405720_-81.767190@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434819,
+    "wof:geomhash":"7881c48c4c84196494e7860d9a724d0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731773,
+            "neighbourhood_id":85840775,
+            "region_id":85688589,
+            "venue_id":823450055
+        }
+    ],
+    "wof:id":823450055,
+    "wof:lastmodified":1463434819,
+    "wof:name":"William Queen Trucking",
+    "wof:parent_id":85840775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -81.76719,
+    38.40572,
+    -81.76719,
+    38.40572
+],
+  "geometry": {"coordinates":[-81.76719,38.40572],"type":"Point"}
+}

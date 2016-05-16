@@ -1,0 +1,73 @@
+{
+  "id": 823425663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.340356,39.280282,-80.340356,39.280282",
+    "geom:latitude":39.280282,
+    "geom:longitude":-80.340356,
+    "iso:country":"US",
+    "sg:address":"314 Traders Ave",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 624 7007",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "parlor",
+        "shoes"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7j4LrwfVFSdBVpiSUpiBCr_39.280282_-80.340356@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433685,
+    "wof:geomhash":"4ae6025f7c941a50d2f08a4fbfa17388",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823425663
+        }
+    ],
+    "wof:id":823425663,
+    "wof:lastmodified":1463433685,
+    "wof:name":"Rockys Shoe Shop",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor",
+        "shoes"
+    ]
+},
+  "bbox": [
+    -80.340356,
+    39.280282,
+    -80.340356,
+    39.280282
+],
+  "geometry": {"coordinates":[-80.340356,39.280282],"type":"Point"}
+}

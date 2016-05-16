@@ -1,0 +1,73 @@
+{
+  "id": 823379033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.472927,38.20573,-81.472927,38.20573",
+    "geom:latitude":38.20573,
+    "geom:longitude":-81.472927,
+    "iso:country":"US",
+    "sg:address":"2971 E Dupont Ave",
+    "sg:city":"Belle",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 595 6190",
+    "sg:postcode":"25015",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electric",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MbSTS9DUL3QNcBgaT4z2m_38.205730_-81.472927@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431596,
+    "wof:geomhash":"6d0d16e318f5562c0a125d2d3cdf9996",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823379033
+        }
+    ],
+    "wof:id":823379033,
+    "wof:lastmodified":1463431596,
+    "wof:name":"Kanawha Electric Machine Co",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "motor"
+    ]
+},
+  "bbox": [
+    -81.472927,
+    38.20573,
+    -81.472927,
+    38.20573
+],
+  "geometry": {"coordinates":[-81.472927,38.20573],"type":"Point"}
+}

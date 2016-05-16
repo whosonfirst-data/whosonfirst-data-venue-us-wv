@@ -1,0 +1,73 @@
+{
+  "id": 823413383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.34954,38.40697,-82.34954,38.40697",
+    "geom:latitude":38.40697,
+    "geom:longitude":-82.34954,
+    "iso:country":"US",
+    "sg:address":"4731 Spring Dr",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 736 8262",
+    "sg:postcode":"25705",
+    "sg:province":"WV",
+    "sg:tags":[
+        "sharpening",
+        "saw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85856091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vEFQfqbkRPi51tC0pSS6O_38.406970_-82.349540@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433152,
+    "wof:geomhash":"9b960867f86b5cb18aaa76761d2d3594",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85856091,
+            "region_id":85688589,
+            "venue_id":823413383
+        }
+    ],
+    "wof:id":823413383,
+    "wof:lastmodified":1463433152,
+    "wof:name":"Withrow Sharpening Svc & Sls",
+    "wof:parent_id":85856091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sharpening",
+        "saw"
+    ]
+},
+  "bbox": [
+    -82.34954,
+    38.40697,
+    -82.34954,
+    38.40697
+],
+  "geometry": {"coordinates":[-82.34954,38.40697],"type":"Point"}
+}

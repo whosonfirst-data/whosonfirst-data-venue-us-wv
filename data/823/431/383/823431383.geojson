@@ -1,0 +1,72 @@
+{
+  "id": 823431383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.335294,39.277235,-80.335294,39.277235",
+    "geom:latitude":39.277235,
+    "geom:longitude":-80.335294,
+    "iso:country":"US",
+    "sg:address":"315 Water St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 624 3719",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "sg:website":"www.jancare.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tMRy0sDcBF3Z9WMt2nA1r_39.277235_-80.335294@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433935,
+    "wof:geomhash":"1e0838ea53847e15b6285241332485c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823431383
+        }
+    ],
+    "wof:id":823431383,
+    "wof:lastmodified":1463433935,
+    "wof:name":"Jan-Care Ambulance",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -80.335294,
+    39.277235,
+    -80.335294,
+    39.277235
+],
+  "geometry": {"coordinates":[-80.335294,39.277235],"type":"Point"}
+}

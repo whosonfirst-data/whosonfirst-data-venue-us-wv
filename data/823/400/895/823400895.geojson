@@ -1,0 +1,74 @@
+{
+  "id": 823400895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.223118,37.791775,-81.223118,37.791775",
+    "geom:latitude":37.791775,
+    "geom:longitude":-81.223118,
+    "iso:country":"US",
+    "sg:address":"308 George St",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 253 8899",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "television"
+    ],
+    "sg:website":"www.charter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fsew4nlrny2NySTfijrqi_37.791775_-81.223118@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432626,
+    "wof:geomhash":"74fc0a6ed09c07a7f749736bf5f929ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823400895
+        }
+    ],
+    "wof:id":823400895,
+    "wof:lastmodified":1463432626,
+    "wof:name":"Charter Media",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television"
+    ]
+},
+  "bbox": [
+    -81.223118,
+    37.791775,
+    -81.223118,
+    37.791775
+],
+  "geometry": {"coordinates":[-81.223118,37.791775],"type":"Point"}
+}

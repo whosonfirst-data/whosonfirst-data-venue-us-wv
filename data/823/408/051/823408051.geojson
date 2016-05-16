@@ -1,0 +1,75 @@
+{
+  "id": 823408051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.86233,39.288221,-77.86233,39.288221",
+    "geom:latitude":39.288221,
+    "geom:longitude":-77.86233,
+    "iso:country":"US",
+    "sg:address":"103 S Lawrence St",
+    "sg:city":"Charles Town",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 725 3788",
+    "sg:postcode":"25414",
+    "sg:province":"WV",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731443,
+        102082647,
+        85807793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OZYjGkOFL9cNHbonOmEuo_39.288221_-77.862330@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432949,
+    "wof:geomhash":"101109200c92e8a3986ae129e306f539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082647,
+            "locality_id":101731443,
+            "neighbourhood_id":85807793,
+            "region_id":85688589,
+            "venue_id":823408051
+        }
+    ],
+    "wof:id":823408051,
+    "wof:lastmodified":1463432949,
+    "wof:name":"Great Wall Construction Inc",
+    "wof:parent_id":85807793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -77.86233,
+    39.288221,
+    -77.86233,
+    39.288221
+],
+  "geometry": {"coordinates":[-77.86233,39.288221],"type":"Point"}
+}

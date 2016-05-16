@@ -1,0 +1,73 @@
+{
+  "id": 823386641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.967925,39.460243,-77.967925,39.460243",
+    "geom:latitude":39.460243,
+    "geom:longitude":-77.967925,
+    "iso:country":"US",
+    "sg:address":"200 N Raleigh St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 264 2111",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Zsco3LHOexaXYlUADuxzF_39.460243_-77.967925@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431913,
+    "wof:geomhash":"f45c164585db26f3e7807f01f34c6358",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823386641
+        }
+    ],
+    "wof:id":823386641,
+    "wof:lastmodified":1463431913,
+    "wof:name":"Martinsburg Fire Department",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -77.967925,
+    39.460243,
+    -77.967925,
+    39.460243
+],
+  "geometry": {"coordinates":[-77.96792499999999,39.460243],"type":"Point"}
+}

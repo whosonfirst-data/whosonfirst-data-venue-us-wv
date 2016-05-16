@@ -1,0 +1,71 @@
+{
+  "id": 823428517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.348125,38.488408,-81.348125,38.488408",
+    "geom:latitude":38.488408,
+    "geom:longitude":-81.348125,
+    "iso:country":"US",
+    "sg:address":"3 Kanawha Ave",
+    "sg:city":"Clendenin",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 548 5253",
+    "sg:postcode":"25045",
+    "sg:province":"WV",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tXGoHruevncjWRojrQm6H_38.488408_-81.348125@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433814,
+    "wof:geomhash":"0c17db11960e0b9b00a43c10e410a283",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823428517
+        }
+    ],
+    "wof:id":823428517,
+    "wof:lastmodified":1463433814,
+    "wof:name":"Clendenin Herald",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -81.348125,
+    38.488408,
+    -81.348125,
+    38.488408
+],
+  "geometry": {"coordinates":[-81.348125,38.488408],"type":"Point"}
+}

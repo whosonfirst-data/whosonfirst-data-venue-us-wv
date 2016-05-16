@@ -1,0 +1,70 @@
+{
+  "id": 823452855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.000445,37.848392,-82.000445,37.848392",
+    "geom:latitude":37.848392,
+    "geom:longitude":-82.000445,
+    "iso:country":"US",
+    "sg:address":"100 Riverview Ave",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/central/91858-shoneys-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 752 4506",
+    "sg:postcode":"25601",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868319,
+        102083369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NZagza4HR03LtH2oNE6ov_37.848392_-82.000445@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434923,
+    "wof:geomhash":"d354bf2f9eecf805a6226c7e9779b83e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083369,
+            "neighbourhood_id":85868319,
+            "region_id":85688589,
+            "venue_id":823452855
+        }
+    ],
+    "wof:id":823452855,
+    "wof:lastmodified":1463434923,
+    "wof:name":"Shoney's Restaurant",
+    "wof:parent_id":85868319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -82.000445,
+    37.848392,
+    -82.000445,
+    37.848392
+],
+  "geometry": {"coordinates":[-82.000445,37.848392],"type":"Point"}
+}

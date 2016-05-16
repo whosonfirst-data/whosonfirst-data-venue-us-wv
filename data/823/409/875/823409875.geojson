@@ -1,0 +1,73 @@
+{
+  "id": 823409875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.892935,38.534281,-81.892935,38.534281",
+    "geom:latitude":38.534281,
+    "geom:longitude":-81.892935,
+    "iso:country":"US",
+    "sg:address":"19 Main St",
+    "sg:city":"Winfield",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 586 3555",
+    "sg:postcode":"25213",
+    "sg:province":"WV",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731321,
+        102083381,
+        85868329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AYReoheVYSpxWCFX8JH7n_38.534281_-81.892935@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433015,
+    "wof:geomhash":"4bdfe6d4a50d716f03ccc9c7ea3ccf64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731321,
+            "neighbourhood_id":85868329,
+            "region_id":85688589,
+            "venue_id":823409875
+        }
+    ],
+    "wof:id":823409875,
+    "wof:lastmodified":1463433015,
+    "wof:name":"Winfield Volunteer Fire Dept",
+    "wof:parent_id":85868329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -81.892935,
+    38.534281,
+    -81.892935,
+    38.534281
+],
+  "geometry": {"coordinates":[-81.89293499999999,38.534281],"type":"Point"}
+}

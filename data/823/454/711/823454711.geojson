@@ -1,0 +1,88 @@
+{
+  "id": 823454711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.988104,39.4533,-77.988104,39.4533",
+    "geom:latitude":39.4533,
+    "geom:longitude":-77.988104,
+    "iso:country":"US",
+    "sg:address":"800 Foxcroft Ave Ste 101",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 262 6600",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ],
+    "sg:website":"http://www.subway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ypwQno5gkm1RGu5aZFDsJ_39.453300_-77.988104@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435049,
+    "wof:geomhash":"b4f68c6d7184da6067a53fccd9e16710",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823454711
+        }
+    ],
+    "wof:id":823454711,
+    "wof:lastmodified":1463435049,
+    "wof:name":"Subway",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ]
+},
+  "bbox": [
+    -77.988104,
+    39.4533,
+    -77.988104,
+    39.4533
+],
+  "geometry": {"coordinates":[-77.98810400000001,39.4533],"type":"Point"}
+}

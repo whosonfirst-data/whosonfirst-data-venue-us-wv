@@ -1,0 +1,73 @@
+{
+  "id": 823416495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.122003,39.482792,-80.122003,39.482792",
+    "geom:latitude":39.482792,
+    "geom:longitude":-80.122003,
+    "iso:country":"US",
+    "sg:address":"213 Marion St",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 367 1300",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NiVBVX0SD5ngveaSC7QLx_39.482792_-80.122003@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433303,
+    "wof:geomhash":"9685564fd497e4eb67530dc3ac11bdd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823416495
+        }
+    ],
+    "wof:id":823416495,
+    "wof:lastmodified":1463433303,
+    "wof:name":"Cvs",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -80.122003,
+    39.482792,
+    -80.122003,
+    39.482792
+],
+  "geometry": {"coordinates":[-80.12200300000001,39.482792],"type":"Point"}
+}

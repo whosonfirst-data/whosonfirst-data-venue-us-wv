@@ -1,0 +1,72 @@
+{
+  "id": 823452303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.064565,37.363845,-81.064565,37.363845",
+    "geom:latitude":37.363845,
+    "geom:longitude":-81.064565,
+    "iso:country":"US",
+    "sg:address":"460 Oakvale Rd",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/princeton/91863-shoneys-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 1890",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PSHpCxXUhIQr1OSJHyfkg_37.363845_-81.064565@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434902,
+    "wof:geomhash":"808d4bfba45d63596af7f2f6e342ac82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823452303
+        }
+    ],
+    "wof:id":823452303,
+    "wof:lastmodified":1463434902,
+    "wof:name":"Shoney's Restaurant",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -81.064565,
+    37.363845,
+    -81.064565,
+    37.363845
+],
+  "geometry": {"coordinates":[-81.064565,37.363845],"type":"Point"}
+}

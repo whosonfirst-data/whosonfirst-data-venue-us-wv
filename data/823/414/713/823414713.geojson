@@ -1,0 +1,73 @@
+{
+  "id": 823414713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.570592,38.311609,-81.570592,38.311609",
+    "geom:latitude":38.311609,
+    "geom:longitude":-81.570592,
+    "iso:country":"US",
+    "sg:address":"601 57th St SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 558 9160",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "state",
+        "counsel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jDxQsONybyZBe3CqTJfRK_38.311609_-81.570592@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433212,
+    "wof:geomhash":"7da31271c9fe941a7151ae9aa6c27dbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823414713
+        }
+    ],
+    "wof:id":823414713,
+    "wof:lastmodified":1463433212,
+    "wof:name":"Office Of Legal Svc",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "counsel"
+    ]
+},
+  "bbox": [
+    -81.570592,
+    38.311609,
+    -81.570592,
+    38.311609
+],
+  "geometry": {"coordinates":[-81.570592,38.311609],"type":"Point"}
+}

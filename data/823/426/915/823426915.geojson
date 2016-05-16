@@ -1,0 +1,71 @@
+{
+  "id": 823426915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.694685,38.366245,-81.694685,38.366245",
+    "geom:latitude":38.366245,
+    "geom:longitude":-81.694685,
+    "iso:country":"US",
+    "sg:address":"321 4th Ave SW",
+    "sg:city":"South Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 9864",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6R3nkfDn1Ei8bSC0JEhYf8_38.366245_-81.694685@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433744,
+    "wof:geomhash":"e9689ba81bf7a0d96d003b23653e8301",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823426915
+        }
+    ],
+    "wof:id":823426915,
+    "wof:lastmodified":1463433744,
+    "wof:name":"Sturm Environmental Svc",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -81.694685,
+    38.366245,
+    -81.694685,
+    38.366245
+],
+  "geometry": {"coordinates":[-81.69468500000001,38.366245],"type":"Point"}
+}

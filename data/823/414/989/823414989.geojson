@@ -1,0 +1,71 @@
+{
+  "id": 823414989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.604898,40.618842,-80.604898,40.618842",
+    "geom:latitude":40.618842,
+    "geom:longitude":-80.604898,
+    "iso:country":"US",
+    "sg:address":"605 Grant St",
+    "sg:city":"Newell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 1555",
+    "sg:postcode":"26050",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1S8s6g4wQHDEeo24rl9aSO_40.618842_-80.604898@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433224,
+    "wof:geomhash":"bbb34ecd13021dc88bf72c496cd16599",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823414989
+        }
+    ],
+    "wof:id":823414989,
+    "wof:lastmodified":1463433224,
+    "wof:name":"Hindes Plumbing Co",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.604898,
+    40.618842,
+    -80.604898,
+    40.618842
+],
+  "geometry": {"coordinates":[-80.60489800000001,40.618842],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823435945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.971397,38.986311,-81.971397,38.986311",
+    "geom:latitude":38.986311,
+    "geom:longitude":-81.971397,
+    "iso:country":"US",
+    "sg:address":"511 5th St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 882 2624",
+    "sg:postcode":"25265",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731555,
+        102082637,
+        85830595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Q9ijYJqjyzQW1TDWVVUPP_38.986311_-81.971397@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434168,
+    "wof:geomhash":"a00403bc4239d9f1e53bfc4007e8d3af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082637,
+            "locality_id":101731555,
+            "neighbourhood_id":85830595,
+            "region_id":85688589,
+            "venue_id":823435945
+        }
+    ],
+    "wof:id":823435945,
+    "wof:lastmodified":1463434168,
+    "wof:name":"United Methodist Church",
+    "wof:parent_id":85830595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.971397,
+    38.986311,
+    -81.971397,
+    38.986311
+],
+  "geometry": {"coordinates":[-81.971397,38.986311],"type":"Point"}
+}

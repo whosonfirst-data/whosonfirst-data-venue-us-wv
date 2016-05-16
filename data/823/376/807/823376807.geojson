@@ -1,0 +1,71 @@
+{
+  "id": 823376807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.803916,38.382252,-81.803916,38.382252",
+    "geom:latitude":38.382252,
+    "geom:longitude":-81.803916,
+    "iso:country":"US",
+    "sg:address":"2413 Grant Ave",
+    "sg:city":"St Albans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 722 2211",
+    "sg:postcode":"25177",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731773,
+        102083335,
+        85840775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fZpKGCRjTAAVUZzR57VFm_38.382252_-81.803916@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431498,
+    "wof:geomhash":"2ac73001485952cf40468dc49687184a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731773,
+            "neighbourhood_id":85840775,
+            "region_id":85688589,
+            "venue_id":823376807
+        }
+    ],
+    "wof:id":823376807,
+    "wof:lastmodified":1463431498,
+    "wof:name":"M H Conley DDS",
+    "wof:parent_id":85840775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -81.803916,
+    38.382252,
+    -81.803916,
+    38.382252
+],
+  "geometry": {"coordinates":[-81.803916,38.382252],"type":"Point"}
+}

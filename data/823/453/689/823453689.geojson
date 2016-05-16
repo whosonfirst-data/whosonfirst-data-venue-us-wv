@@ -1,0 +1,76 @@
+{
+  "id": 823453689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.982332,39.657399,-79.982332,39.657399",
+    "geom:latitude":39.657399,
+    "geom:longitude":-79.982332,
+    "iso:country":"US",
+    "sg:address":"3417 University Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/central/256975-hometown-hot-dogs/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 5199",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "hot",
+        "dog"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731749,
+        102082587,
+        85807277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ltNrFi4Mb3gvES6Gv8GDr_39.657399_-79.982332@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434956,
+    "wof:geomhash":"c12950021275a11dc6d4a2585e9c39d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731749,
+            "neighbourhood_id":85807277,
+            "region_id":85688589,
+            "venue_id":823453689
+        }
+    ],
+    "wof:id":823453689,
+    "wof:lastmodified":1463434956,
+    "wof:name":"Hometown Hot Dogs",
+    "wof:parent_id":85807277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "hot",
+        "dog"
+    ]
+},
+  "bbox": [
+    -79.982332,
+    39.657399,
+    -79.982332,
+    39.657399
+],
+  "geometry": {"coordinates":[-79.982332,39.657399],"type":"Point"}
+}

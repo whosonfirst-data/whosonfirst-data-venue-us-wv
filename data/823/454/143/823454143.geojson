@@ -1,0 +1,74 @@
+{
+  "id": 823454143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.843271,38.922827,-79.843271,38.922827",
+    "geom:latitude":38.922827,
+    "geom:longitude":-79.843271,
+    "iso:country":"US",
+    "sg:address":"27 Randolph Ave",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/leadsville/155269-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 7127",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ufcErccrk2rguy6TLRZVn_38.922713_-79.843277@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463435002,
+    "wof:geomhash":"bb0d46ccd26318ce64b287ae5943be77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823454143
+        }
+    ],
+    "wof:id":823454143,
+    "wof:lastmodified":1463435002,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -79.843271,
+    38.922827,
+    -79.843271,
+    38.922827
+],
+  "geometry": {"coordinates":[-79.843271,38.922827],"type":"Point"}
+}

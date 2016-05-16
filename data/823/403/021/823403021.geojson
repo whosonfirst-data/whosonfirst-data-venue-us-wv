@@ -1,0 +1,75 @@
+{
+  "id": 823403021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.218679,37.258005,-81.218679,37.258005",
+    "geom:latitude":37.258005,
+    "geom:longitude":-81.218679,
+    "iso:country":"US",
+    "sg:address":"1815 Bland St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 327 8629",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ET1vKramrfebCkBENJeRO_37.258005_-81.218679@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432713,
+    "wof:geomhash":"1e7c440f3ec27fd707109d98a7eea67a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823403021
+        }
+    ],
+    "wof:id":823403021,
+    "wof:lastmodified":1463432713,
+    "wof:name":"Bluefield Radiator Service",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -81.218679,
+    37.258005,
+    -81.218679,
+    37.258005
+],
+  "geometry": {"coordinates":[-81.21867899999999,37.258005],"type":"Point"}
+}

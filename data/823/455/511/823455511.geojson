@@ -1,0 +1,78 @@
+{
+  "id": 823455511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.076362,39.564817,-78.076362,39.564817",
+    "geom:latitude":39.564817,
+    "geom:longitude":-78.076362,
+    "iso:country":"US",
+    "sg:address":"945 Providence Church Rd",
+    "sg:city":"Hedgesville",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 754 6950",
+    "sg:postcode":"25427",
+    "sg:province":"WV",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85846047,
+        102083367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TF2qqtVhjOt9JMpxI0KnB_39.564817_-78.076362@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435078,
+    "wof:geomhash":"914c1222b3745875289da7da4f4f637a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "neighbourhood_id":85846047,
+            "region_id":85688589,
+            "venue_id":823455511
+        }
+    ],
+    "wof:id":823455511,
+    "wof:lastmodified":1463435078,
+    "wof:name":"J And R Trucking",
+    "wof:parent_id":85846047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -78.076362,
+    39.564817,
+    -78.076362,
+    39.564817
+],
+  "geometry": {"coordinates":[-78.076362,39.564817],"type":"Point"}
+}

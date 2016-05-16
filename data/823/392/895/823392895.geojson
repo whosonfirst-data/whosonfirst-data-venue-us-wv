@@ -1,0 +1,71 @@
+{
+  "id": 823392895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.095194,37.369603,-81.095194,37.369603",
+    "geom:latitude":37.369603,
+    "geom:longitude":-81.095194,
+    "iso:country":"US",
+    "sg:address":"906 Mercer St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 8141",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mqmkg3mT0Xr9rXzkB7D8G_37.369603_-81.095194@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432220,
+    "wof:geomhash":"4f9805b8001d22c832005e75c25f8c81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823392895
+        }
+    ],
+    "wof:id":823392895,
+    "wof:lastmodified":1463432220,
+    "wof:name":"Peoples Loan Svc Inc",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -81.095194,
+    37.369603,
+    -81.095194,
+    37.369603
+],
+  "geometry": {"coordinates":[-81.09519400000001,37.369603],"type":"Point"}
+}

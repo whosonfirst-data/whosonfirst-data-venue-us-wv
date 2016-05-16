@@ -1,0 +1,76 @@
+{
+  "id": 823453481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.280983,39.277737,-80.280983,39.277737",
+    "geom:latitude":39.277737,
+    "geom:longitude":-80.280983,
+    "iso:country":"US",
+    "sg:address":"122 Emily Dr",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/bridgeport/139311-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 624 6600",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cB3ziRn6TjHvv4nE5BRr4_39.277737_-80.280983@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434949,
+    "wof:geomhash":"9b8893c669be116cedaf94014e2c15ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823453481
+        }
+    ],
+    "wof:id":823453481,
+    "wof:lastmodified":1463434949,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -80.280983,
+    39.277737,
+    -80.280983,
+    39.277737
+],
+  "geometry": {"coordinates":[-80.28098300000001,39.277737],"type":"Point"}
+}

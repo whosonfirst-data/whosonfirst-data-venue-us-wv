@@ -1,0 +1,71 @@
+{
+  "id": 823438291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.329228,38.180727,-81.329228,38.180727",
+    "geom:latitude":38.180727,
+    "geom:longitude":-81.329228,
+    "iso:country":"US",
+    "sg:address":"706 3rd Ave",
+    "sg:city":"Montgomery",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 442 4902",
+    "sg:postcode":"25136",
+    "sg:province":"WV",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lX53QMD3WdgS97qTy02cs_38.180727_-81.329228@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434290,
+    "wof:geomhash":"4792ceb3daf3262da418e1d933d18a5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823438291
+        }
+    ],
+    "wof:id":823438291,
+    "wof:lastmodified":1463434290,
+    "wof:name":"Street Dept",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    -81.329228,
+    38.180727,
+    -81.329228,
+    38.180727
+],
+  "geometry": {"coordinates":[-81.329228,38.180727],"type":"Point"}
+}

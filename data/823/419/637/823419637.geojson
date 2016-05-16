@@ -1,0 +1,71 @@
+{
+  "id": 823419637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.983879,39.631416,-79.983879,39.631416",
+    "geom:latitude":39.631416,
+    "geom:longitude":-79.983879,
+    "iso:country":"US",
+    "sg:address":"874 Fairmont Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 291 4720",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818601,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DKKPmIJx7h6WmM8Uirpqr_39.631416_-79.983879@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433449,
+    "wof:geomhash":"0264a6ad9891b217dfa3dc5389bd7dc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85818601,
+            "region_id":85688589,
+            "venue_id":823419637
+        }
+    ],
+    "wof:id":823419637,
+    "wof:lastmodified":1463433449,
+    "wof:name":"Coffee Shop Lounge",
+    "wof:parent_id":85818601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -79.983879,
+    39.631416,
+    -79.983879,
+    39.631416
+],
+  "geometry": {"coordinates":[-79.983879,39.631416],"type":"Point"}
+}

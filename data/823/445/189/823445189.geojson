@@ -1,0 +1,69 @@
+{
+  "id": 823445189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.103939,38.052838,-81.103939,38.052838",
+    "geom:latitude":38.052838,
+    "geom:longitude":-81.103939,
+    "iso:country":"US",
+    "sg:address":"125 N Court St",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 574 0101",
+    "sg:postcode":"25840",
+    "sg:province":"WV",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2X7xkyA1SoVUD6m5PvZUeh_38.052838_-81.103939@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434602,
+    "wof:geomhash":"8fa0584dfd85b6ee5124c8d4458d666e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823445189
+        }
+    ],
+    "wof:id":823445189,
+    "wof:lastmodified":1463434602,
+    "wof:name":"Fayetteville Town Hall",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -81.103939,
+    38.052838,
+    -81.103939,
+    38.052838
+],
+  "geometry": {"coordinates":[-81.103939,38.052838],"type":"Point"}
+}

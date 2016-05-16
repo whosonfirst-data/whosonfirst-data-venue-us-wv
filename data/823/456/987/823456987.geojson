@@ -1,0 +1,105 @@
+{
+  "id": 823456987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.606773,40.260941,-80.606773,40.260941",
+    "geom:latitude":40.260941,
+    "geom:longitude":-80.606773,
+    "iso:country":"US",
+    "sg:address":"1209 Commerce St",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 0303",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "engines-rebuild",
+        "exchange",
+        "battery",
+        "automobile",
+        "accessory",
+        "equipment",
+        "truck",
+        "supplies-used",
+        "rebuilt",
+        "batteries-storage"
+    ],
+    "sg:website":"http://www.advanceautoparts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Zznrc7VZLjleVtnkc3wns_40.260941_-80.606773@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435136,
+    "wof:geomhash":"984efc035fe54d68b66bbb63ffbf80d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823456987
+        }
+    ],
+    "wof:id":823456987,
+    "wof:lastmodified":1463435136,
+    "wof:name":"Advance Auto Parts",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engines-rebuild",
+        "exchange",
+        "battery",
+        "automobile",
+        "accessory",
+        "equipment",
+        "truck",
+        "supplies-used",
+        "rebuilt",
+        "batteries-storage"
+    ]
+},
+  "bbox": [
+    -80.606773,
+    40.260941,
+    -80.606773,
+    40.260941
+],
+  "geometry": {"coordinates":[-80.606773,40.260941],"type":"Point"}
+}

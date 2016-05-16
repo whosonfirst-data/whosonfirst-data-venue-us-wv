@@ -1,0 +1,87 @@
+{
+  "id": 823456633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.61892,40.615424,-80.61892,40.615424",
+    "geom:latitude":40.615424,
+    "geom:longitude":-80.61892,
+    "iso:country":"US",
+    "sg:address":"1237 Washington St",
+    "sg:city":"Newell",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 1506",
+    "sg:postcode":"26050",
+    "sg:province":"WV",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "sg:website":"http://www.dollargeneral.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2u6GJlW9agIumQbcsyu7vt_40.615424_-80.618920@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435119,
+    "wof:geomhash":"c290454d83362048b7607466c0a249bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823456633
+        }
+    ],
+    "wof:id":823456633,
+    "wof:lastmodified":1463435119,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -80.61892,
+    40.615424,
+    -80.61892,
+    40.615424
+],
+  "geometry": {"coordinates":[-80.61892,40.615424],"type":"Point"}
+}

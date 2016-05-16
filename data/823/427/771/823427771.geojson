@@ -1,0 +1,75 @@
+{
+  "id": 823427771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.639051,38.356995,-81.639051,38.356995",
+    "geom:latitude":38.356995,
+    "geom:longitude":-81.639051,
+    "iso:country":"US",
+    "sg:address":"300 Reynolds St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 357 0056",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZRkNCInvcUmCxbcZxonQb_38.356995_-81.639051@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433781,
+    "wof:geomhash":"2d68d1f0b78060993007a62ba710b786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823427771
+        }
+    ],
+    "wof:id":823427771,
+    "wof:lastmodified":1463433781,
+    "wof:name":"Greyhound Bus Lines",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -81.639051,
+    38.356995,
+    -81.639051,
+    38.356995
+],
+  "geometry": {"coordinates":[-81.63905099999999,38.356995],"type":"Point"}
+}

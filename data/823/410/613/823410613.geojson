@@ -1,0 +1,71 @@
+{
+  "id": 823410613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.169668,37.97744,-81.169668,37.97744",
+    "geom:latitude":37.97744,
+    "geom:longitude":-81.169668,
+    "iso:country":"US",
+    "sg:address":"325 Woodbridge Rd",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 469 9677",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75WrgBohiRRheIycja9xO0_37.977440_-81.169668@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433052,
+    "wof:geomhash":"6a0515a05700c81bd69696630b41206b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823410613
+        }
+    ],
+    "wof:id":823410613,
+    "wof:lastmodified":1463433052,
+    "wof:name":"K W Electric Inc",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.169668,
+    37.97744,
+    -81.169668,
+    37.97744
+],
+  "geometry": {"coordinates":[-81.169668,37.97744],"type":"Point"}
+}

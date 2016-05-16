@@ -1,0 +1,73 @@
+{
+  "id": 823444493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.709094,40.067029,-80.709094,40.067029",
+    "geom:latitude":40.067029,
+    "geom:longitude":-80.709094,
+    "iso:country":"US",
+    "sg:address":"1691 Warren St",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 233 1477",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85816921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07N8ICmDrhlwAIXfvfT59Q_40.067029_-80.709094@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434564,
+    "wof:geomhash":"1bc3549458d38b5fc7704a5561af78d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85816921,
+            "region_id":85688589,
+            "venue_id":823444493
+        }
+    ],
+    "wof:id":823444493,
+    "wof:lastmodified":1463434564,
+    "wof:name":"Buff N Stuff",
+    "wof:parent_id":85816921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -80.709094,
+    40.067029,
+    -80.709094,
+    40.067029
+],
+  "geometry": {"coordinates":[-80.70909399999999,40.067029],"type":"Point"}
+}

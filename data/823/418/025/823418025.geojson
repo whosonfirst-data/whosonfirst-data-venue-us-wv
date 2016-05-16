@@ -1,0 +1,71 @@
+{
+  "id": 823418025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.968899,39.457167,-77.968899,39.457167",
+    "geom:latitude":39.457167,
+    "geom:longitude":-77.968899,
+    "iso:country":"US",
+    "sg:address":"511 W King St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 7635",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DENkivM2PwONxKrFVJtqM_39.457167_-77.968899@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433383,
+    "wof:geomhash":"fecc1ed3a6ab4aad420df32afc0259b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823418025
+        }
+    ],
+    "wof:id":823418025,
+    "wof:lastmodified":1463433383,
+    "wof:name":"Cutting Edge",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -77.968899,
+    39.457167,
+    -77.968899,
+    39.457167
+],
+  "geometry": {"coordinates":[-77.96889899999999,39.457167],"type":"Point"}
+}

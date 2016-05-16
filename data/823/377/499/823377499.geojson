@@ -1,0 +1,73 @@
+{
+  "id": 823377499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.61926,38.347384,-81.61926,38.347384",
+    "geom:latitude":38.347384,
+    "geom:longitude":-81.61926,
+    "iso:country":"US",
+    "sg:address":"1327 Hansford St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 3800",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eZO1I21tljebW6d4EoDZ1_38.347384_-81.619260@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431535,
+    "wof:geomhash":"5052f6e61038897d44317f9af28b0873",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823377499
+        }
+    ],
+    "wof:id":823377499,
+    "wof:lastmodified":1463431535,
+    "wof:name":"American Towing",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -81.61926,
+    38.347384,
+    -81.61926,
+    38.347384
+],
+  "geometry": {"coordinates":[-81.61926,38.347384],"type":"Point"}
+}

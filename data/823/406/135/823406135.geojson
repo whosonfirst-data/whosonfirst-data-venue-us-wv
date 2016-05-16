@@ -1,0 +1,71 @@
+{
+  "id": 823406135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.734873,38.353815,-81.734873,38.353815",
+    "geom:latitude":38.353815,
+    "geom:longitude":-81.734873,
+    "iso:country":"US",
+    "sg:address":"5021 Maccorkle Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 766 8700",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WNss5WoMfR23n8VELh41I_38.353815_-81.734873@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432862,
+    "wof:geomhash":"0cb887b5ebcb18bf27a08bf28bd71de4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823406135
+        }
+    ],
+    "wof:id":823406135,
+    "wof:lastmodified":1463432862,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -81.734873,
+    38.353815,
+    -81.734873,
+    38.353815
+],
+  "geometry": {"coordinates":[-81.73487299999999,38.353815],"type":"Point"}
+}

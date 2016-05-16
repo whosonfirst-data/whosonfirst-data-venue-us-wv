@@ -1,0 +1,73 @@
+{
+  "id": 823450109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.95235,39.657454,-79.95235,39.657454",
+    "geom:latitude":39.657454,
+    "geom:longitude":-79.95235,
+    "iso:country":"US",
+    "sg:address":"943 Maple Dr",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 2515",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "fitness",
+        "physical",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5j2ACbEKX6iWLC58nZHZu7_39.657454_-79.952350@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434820,
+    "wof:geomhash":"6c8f663bb87a8564a8e8efebf9f7f338",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823450109
+        }
+    ],
+    "wof:id":823450109,
+    "wof:lastmodified":1463434820,
+    "wof:name":"Healthworks Rehab & Fitness",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fitness",
+        "physical",
+        "facility"
+    ]
+},
+  "bbox": [
+    -79.95235,
+    39.657454,
+    -79.95235,
+    39.657454
+],
+  "geometry": {"coordinates":[-79.95235,39.657454],"type":"Point"}
+}

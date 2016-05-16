@@ -1,0 +1,73 @@
+{
+  "id": 823418423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.082321,37.769701,-81.082321,37.769701",
+    "geom:latitude":37.769701,
+    "geom:longitude":-81.082321,
+    "iso:country":"US",
+    "sg:address":"1200 Airport Rd",
+    "sg:city":"Beaver",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 256 6726",
+    "sg:postcode":"25813",
+    "sg:province":"WV",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QwKc0UminHTspVMlClRbt_37.769701_-81.082321@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433398,
+    "wof:geomhash":"80952bd9513cca8262bf052beeb85b77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823418423
+        }
+    ],
+    "wof:id":823418423,
+    "wof:lastmodified":1463433398,
+    "wof:name":"Regional Jail Authority",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -81.082321,
+    37.769701,
+    -81.082321,
+    37.769701
+],
+  "geometry": {"coordinates":[-81.08232099999999,37.769701],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 823453651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.954499,39.631395,-79.954499,39.631395",
+    "geom:latitude":39.631395,
+    "geom:longitude":-79.954499,
+    "iso:country":"US",
+    "sg:address":"442 High St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/central/258968-cantonis-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 241 4001",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "calzones",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6O9wKJrjHSKqiDvJ4SHEbz_39.631395_-79.954499@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434955,
+    "wof:geomhash":"f32edd5ceceb859e21db97b4fc2c6691",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851489,
+            "region_id":85688589,
+            "venue_id":823453651
+        }
+    ],
+    "wof:id":823453651,
+    "wof:lastmodified":1463434955,
+    "wof:name":"Cantoni's Pizzeria",
+    "wof:parent_id":85851489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "calzones",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -79.954499,
+    39.631395,
+    -79.954499,
+    39.631395
+],
+  "geometry": {"coordinates":[-79.954499,39.631395],"type":"Point"}
+}

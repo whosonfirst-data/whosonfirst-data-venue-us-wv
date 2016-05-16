@@ -1,0 +1,76 @@
+{
+  "id": 823411005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.568638,39.281482,-80.568638,39.281482",
+    "geom:latitude":39.281482,
+    "geom:longitude":-80.568638,
+    "iso:country":"US",
+    "sg:address":"37 Elizabeth St",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 269 5220",
+    "sg:postcode":"26426",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical",
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85810773,
+        102082619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KMfbea9SfWFBlPIPS5J3L_39.281482_-80.568638@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433066,
+    "wof:geomhash":"025195a296ef06fbec1492c2511582a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "neighbourhood_id":85810773,
+            "region_id":85688589,
+            "venue_id":823411005
+        }
+    ],
+    "wof:id":823411005,
+    "wof:lastmodified":1463433066,
+    "wof:name":"United Summit Center",
+    "wof:parent_id":85810773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "mental"
+    ]
+},
+  "bbox": [
+    -80.568638,
+    39.281482,
+    -80.568638,
+    39.281482
+],
+  "geometry": {"coordinates":[-80.56863800000001,39.281482],"type":"Point"}
+}

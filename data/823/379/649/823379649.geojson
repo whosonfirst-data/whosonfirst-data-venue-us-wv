@@ -1,0 +1,73 @@
+{
+  "id": 823379649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.35082,38.800679,-81.35082,38.800679",
+    "geom:latitude":38.800679,
+    "geom:longitude":-81.35082,
+    "iso:country":"US",
+    "sg:address":"400 Church St",
+    "sg:city":"Spencer",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 927 0111",
+    "sg:postcode":"25276",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731535,
+        102083399,
+        85868331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5E26r3FfDxVZ92B0OOG9pp_38.800679_-81.350820@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431624,
+    "wof:geomhash":"3c8ee24cecb1c0c77ffcb094a0658ecb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083399,
+            "locality_id":101731535,
+            "neighbourhood_id":85868331,
+            "region_id":85688589,
+            "venue_id":823379649
+        }
+    ],
+    "wof:id":823379649,
+    "wof:lastmodified":1463431624,
+    "wof:name":"Hart House Apartments",
+    "wof:parent_id":85868331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -81.35082,
+    38.800679,
+    -81.35082,
+    38.800679
+],
+  "geometry": {"coordinates":[-81.35082,38.800679],"type":"Point"}
+}

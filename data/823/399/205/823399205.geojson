@@ -1,0 +1,80 @@
+{
+  "id": 823399205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.659103,40.044339,-80.659103,40.044339",
+    "geom:latitude":40.044339,
+    "geom:longitude":-80.659103,
+    "iso:country":"US",
+    "sg:address":"2221 National Rd",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 242 4770",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cleaners",
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85840717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vwykiHWllCFdsyHjCWpUU_40.044339_-80.659103@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432540,
+    "wof:geomhash":"b691146192b35b81111b04bb2bdf1f9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85840717,
+            "region_id":85688589,
+            "venue_id":823399205
+        }
+    ],
+    "wof:id":823399205,
+    "wof:lastmodified":1463432540,
+    "wof:name":"Glo-Tone Cleaners Inc",
+    "wof:parent_id":85840717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "coin"
+    ]
+},
+  "bbox": [
+    -80.659103,
+    40.044339,
+    -80.659103,
+    40.044339
+],
+  "geometry": {"coordinates":[-80.659103,40.044339],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 823435741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.658138,40.042634,-80.658138,40.042634",
+    "geom:latitude":40.042634,
+    "geom:longitude":-80.658138,
+    "iso:country":"US",
+    "sg:address":"111 Kruger St",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 242 0273",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85840717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kJriQ9VFjVP8Zbmx1vDR1_40.042634_-80.658138@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434155,
+    "wof:geomhash":"daa3a8c84385d9fc9c17224de0adffd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85840717,
+            "region_id":85688589,
+            "venue_id":823435741
+        }
+    ],
+    "wof:id":823435741,
+    "wof:lastmodified":1463434155,
+    "wof:name":"Rite Aid",
+    "wof:parent_id":85840717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.658138,
+    40.042634,
+    -80.658138,
+    40.042634
+],
+  "geometry": {"coordinates":[-80.65813799999999,40.042634],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823447003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.761007,38.370174,-81.761007,38.370174",
+    "geom:latitude":38.370174,
+    "geom:longitude":-81.761007,
+    "iso:country":"US",
+    "sg:address":"2950 Charles Ave",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 9733",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "asphalt",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VOwTvuRXYNYw3x0wgIV3G_38.370174_-81.761007@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434694,
+    "wof:geomhash":"b591f38af10a315dd31e8ed962e32db4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823447003
+        }
+    ],
+    "wof:id":823447003,
+    "wof:lastmodified":1463434694,
+    "wof:name":"Southern West Virginia Asphalt",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asphalt",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -81.761007,
+    38.370174,
+    -81.761007,
+    38.370174
+],
+  "geometry": {"coordinates":[-81.76100700000001,38.370174],"type":"Point"}
+}

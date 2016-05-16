@@ -1,0 +1,71 @@
+{
+  "id": 823374163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.966838,39.446497,-77.966838,39.446497",
+    "geom:latitude":39.446497,
+    "geom:longitude":-77.966838,
+    "iso:country":"US",
+    "sg:address":"900 S Queen St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 260 1251",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lUetfnItkGKWdC1jDBhXd_39.446497_-77.966838@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431364,
+    "wof:geomhash":"aae3fd5939e477f39124541d48c8d99b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823374163
+        }
+    ],
+    "wof:id":823374163,
+    "wof:lastmodified":1463431364,
+    "wof:name":"Trademark Contracting Corp",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -77.966838,
+    39.446497,
+    -77.966838,
+    39.446497
+],
+  "geometry": {"coordinates":[-77.966838,39.446497],"type":"Point"}
+}

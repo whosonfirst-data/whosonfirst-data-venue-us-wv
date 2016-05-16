@@ -1,0 +1,84 @@
+{
+  "id": 823379479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.549865,39.282329,-81.549865,39.282329",
+    "geom:latitude":39.282329,
+    "geom:longitude":-81.549865,
+    "iso:country":"US",
+    "sg:address":"2311 Ohio Ave",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 422 9862",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home",
+        "physician",
+        "surgeon",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731687,
+        102083343,
+        85805293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IZT0jR57PbjQ0wl8suJko_39.282329_-81.549865@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431618,
+    "wof:geomhash":"da9a8fa75fed7c498c8bf2a5dfc69674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85805293,
+            "region_id":85688589,
+            "venue_id":823379479
+        }
+    ],
+    "wof:id":823379479,
+    "wof:lastmodified":1463431618,
+    "wof:name":"Option Care 2",
+    "wof:parent_id":85805293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "physician",
+        "surgeon",
+        "care"
+    ]
+},
+  "bbox": [
+    -81.549865,
+    39.282329,
+    -81.549865,
+    39.282329
+],
+  "geometry": {"coordinates":[-81.549865,39.282329],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823447111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.533144,38.405096,-81.533144,38.405096",
+    "geom:latitude":38.405096,
+    "geom:longitude":-81.533144,
+    "iso:country":"US",
+    "sg:address":"4710 Chimney Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 558 0197",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67vfD8PejTNOaus6RM2vyF_38.405096_-81.533144@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434698,
+    "wof:geomhash":"6552598627a3cf15bbf3a89bd03e2ef2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823447111
+        }
+    ],
+    "wof:id":823447111,
+    "wof:lastmodified":1463434698,
+    "wof:name":"West Virginia Office Lab Svcs",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -81.533144,
+    38.405096,
+    -81.533144,
+    38.405096
+],
+  "geometry": {"coordinates":[-81.53314399999999,38.405096],"type":"Point"}
+}

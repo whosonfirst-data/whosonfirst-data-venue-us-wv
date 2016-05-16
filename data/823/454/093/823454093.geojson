@@ -1,0 +1,73 @@
+{
+  "id": 823454093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.563619,40.612518,-80.563619,40.612518",
+    "geom:latitude":40.612518,
+    "geom:longitude":-80.563619,
+    "iso:country":"US",
+    "sg:address":"431 Carolina Ave",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/grant/206240-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"26034",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3j1X3rXF9zeqWB5qsKejv7_40.612756_-80.563404@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434999,
+    "wof:geomhash":"d88dcec177cc2d3a613d7e41f54fffe1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823454093
+        }
+    ],
+    "wof:id":823454093,
+    "wof:lastmodified":1463434999,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -80.563619,
+    40.612518,
+    -80.563619,
+    40.612518
+],
+  "geometry": {"coordinates":[-80.563619,40.612518],"type":"Point"}
+}

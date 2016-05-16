@@ -1,0 +1,71 @@
+{
+  "id": 823422633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.334256,39.278368,-80.334256,39.278368",
+    "geom:latitude":39.278368,
+    "geom:longitude":-80.334256,
+    "iso:country":"US",
+    "sg:address":"123 Monticello Ave",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 622 6055",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kYDLyI8kyNz8QIurPHLLh_39.278368_-80.334256@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433564,
+    "wof:geomhash":"18bab3e3bedfe810bc9b02255ad1b167",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823422633
+        }
+    ],
+    "wof:id":823422633,
+    "wof:lastmodified":1463433564,
+    "wof:name":"Thompson's Wrecker Svc",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -80.334256,
+    39.278368,
+    -80.334256,
+    39.278368
+],
+  "geometry": {"coordinates":[-80.334256,39.278368],"type":"Point"}
+}

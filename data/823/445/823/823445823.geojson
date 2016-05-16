@@ -1,0 +1,69 @@
+{
+  "id": 823445823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.521217,39.28343,-81.521217,39.28343",
+    "geom:latitude":39.28343,
+    "geom:longitude":-81.521217,
+    "iso:country":"US",
+    "sg:address":"2208 34th Pl",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 485 8036",
+    "sg:postcode":"26104",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818799,
+        102083343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60cttittM3Ig2rUjlhjohF_39.283430_-81.521217@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434628,
+    "wof:geomhash":"1cc7a5a7bc6141b0b983fc65ee72dac7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "neighbourhood_id":85818799,
+            "region_id":85688589,
+            "venue_id":823445823
+        }
+    ],
+    "wof:id":823445823,
+    "wof:lastmodified":1463434628,
+    "wof:name":"Richard Mc Clure",
+    "wof:parent_id":85818799,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -81.521217,
+    39.28343,
+    -81.521217,
+    39.28343
+],
+  "geometry": {"coordinates":[-81.52121699999999,39.28343],"type":"Point"}
+}

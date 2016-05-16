@@ -1,0 +1,71 @@
+{
+  "id": 823427737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.566453,38.287329,-81.566453,38.287329",
+    "geom:latitude":38.287329,
+    "geom:longitude":-81.566453,
+    "iso:country":"US",
+    "sg:address":"4916 Elaine Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 926 0185",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AtQ8iSliDI97H74EpvvH9_38.287329_-81.566453@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433780,
+    "wof:geomhash":"722c4249036ac5d9cc5caf439a0d5d2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823427737
+        }
+    ],
+    "wof:id":823427737,
+    "wof:lastmodified":1463433780,
+    "wof:name":"Pierce Towing",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -81.566453,
+    38.287329,
+    -81.566453,
+    38.287329
+],
+  "geometry": {"coordinates":[-81.566453,38.287329],"type":"Point"}
+}

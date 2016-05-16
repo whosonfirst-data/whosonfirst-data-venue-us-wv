@@ -1,0 +1,71 @@
+{
+  "id": 823445441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.565636,38.283666,-81.565636,38.283666",
+    "geom:latitude":38.283666,
+    "geom:longitude":-81.565636,
+    "iso:country":"US",
+    "sg:address":"305 Davidson Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 7336",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gGnJFxC5vawKDVVNeWiN1_38.283666_-81.565636@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434612,
+    "wof:geomhash":"29808532380a08c7d750184b963d0626",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823445441
+        }
+    ],
+    "wof:id":823445441,
+    "wof:lastmodified":1463434612,
+    "wof:name":"Rand First Church-The Nazarene",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.565636,
+    38.283666,
+    -81.565636,
+    38.283666
+],
+  "geometry": {"coordinates":[-81.565636,38.283666],"type":"Point"}
+}

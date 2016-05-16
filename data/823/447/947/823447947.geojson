@@ -1,0 +1,72 @@
+{
+  "id": 823447947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.167582,39.44207,-80.167582,39.44207",
+    "geom:latitude":39.44207,
+    "geom:longitude":-80.167582,
+    "iso:country":"US",
+    "sg:address":"2039 Pleasant Valley Rd",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 7918",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.nationsrent.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85834381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GPiugEfrJqEDKsQ2Bghh6_39.442070_-80.167582@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434738,
+    "wof:geomhash":"611a44be125fd91c3784a86fcee50dc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85834381,
+            "region_id":85688589,
+            "venue_id":823447947
+        }
+    ],
+    "wof:id":823447947,
+    "wof:lastmodified":1463434738,
+    "wof:name":"Nations Rent",
+    "wof:parent_id":85834381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.167582,
+    39.44207,
+    -80.167582,
+    39.44207
+],
+  "geometry": {"coordinates":[-80.167582,39.44207],"type":"Point"}
+}

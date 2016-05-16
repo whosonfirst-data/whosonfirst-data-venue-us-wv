@@ -1,0 +1,78 @@
+{
+  "id": 823375921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.63512,38.349922,-81.63512,38.349922",
+    "geom:latitude":38.349922,
+    "geom:longitude":-81.63512,
+    "iso:country":"US",
+    "sg:address":"226 Capitol St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 1461",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "coffee",
+        "bar",
+        "periodical"
+    ],
+    "sg:website":"www.taylorbooks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WYeOcBnQ3qDjLm2VC7oCf_38.349922_-81.635120@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431457,
+    "wof:geomhash":"1f0eef8f66625f8e045df813ada52791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823375921
+        }
+    ],
+    "wof:id":823375921,
+    "wof:lastmodified":1463431457,
+    "wof:name":"Taylor Books",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coffee",
+        "bar",
+        "periodical"
+    ]
+},
+  "bbox": [
+    -81.63512,
+    38.349922,
+    -81.63512,
+    38.349922
+],
+  "geometry": {"coordinates":[-81.63512,38.349922],"type":"Point"}
+}

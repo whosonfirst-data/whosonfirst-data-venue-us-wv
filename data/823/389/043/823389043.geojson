@@ -1,0 +1,73 @@
+{
+  "id": 823389043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.527353,39.267422,-81.527353,39.267422",
+    "geom:latitude":39.267422,
+    "geom:longitude":-81.527353,
+    "iso:country":"US",
+    "sg:address":"1903 7th St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 485 2290",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85818775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1h2m7fzARt6jlqrdR7Zgjb_39.267422_-81.527353@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432032,
+    "wof:geomhash":"a70007f297c491f6828afbc7b0c33074",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85818775,
+            "region_id":85688589,
+            "venue_id":823389043
+        }
+    ],
+    "wof:id":823389043,
+    "wof:lastmodified":1463432032,
+    "wof:name":"Sheppard's Auto Svc",
+    "wof:parent_id":85818775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -81.527353,
+    39.267422,
+    -81.527353,
+    39.267422
+],
+  "geometry": {"coordinates":[-81.52735300000001,39.267422],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823413869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.581801,38.321404,-81.581801,38.321404",
+    "geom:latitude":38.321404,
+    "geom:longitude":-81.581801,
+    "iso:country":"US",
+    "sg:address":"4605 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 766 3601",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "room",
+        "emergency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66OuyrBtpkoz5xjVY6Zqcw_38.321404_-81.581801@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433178,
+    "wof:geomhash":"9a7f29ee3ee8469982acc783e6922101",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823413869
+        }
+    ],
+    "wof:id":823413869,
+    "wof:lastmodified":1463433178,
+    "wof:name":"Kanawha Prology Inc",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "room",
+        "emergency"
+    ]
+},
+  "bbox": [
+    -81.581801,
+    38.321404,
+    -81.581801,
+    38.321404
+],
+  "geometry": {"coordinates":[-81.581801,38.321404],"type":"Point"}
+}

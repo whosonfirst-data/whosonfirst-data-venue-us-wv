@@ -1,0 +1,75 @@
+{
+  "id": 823428001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.14302,39.492147,-80.14302,39.492147",
+    "geom:latitude":39.492147,
+    "geom:longitude":-80.14302,
+    "iso:country":"US",
+    "sg:address":"421 Pennsylvania Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 3233",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6q2JXw6RyxsaEPGQObojM2_39.492147_-80.143020@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433789,
+    "wof:geomhash":"f89eabf002559f1ce276b8120267c0e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823428001
+        }
+    ],
+    "wof:id":823428001,
+    "wof:lastmodified":1463433789,
+    "wof:name":"D & S Auto Body LLC",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -80.14302,
+    39.492147,
+    -80.14302,
+    39.492147
+],
+  "geometry": {"coordinates":[-80.14302000000001,39.492147],"type":"Point"}
+}

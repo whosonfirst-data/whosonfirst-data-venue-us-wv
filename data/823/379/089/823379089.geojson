@@ -1,0 +1,71 @@
+{
+  "id": 823379089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.544439,38.229568,-81.544439,38.229568",
+    "geom:latitude":38.229568,
+    "geom:longitude":-81.544439,
+    "iso:country":"US",
+    "sg:address":"11835 Maccorkle Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 595 5319",
+    "sg:postcode":"25315",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CW6iEtUVcznohChQsgVXl_38.229568_-81.544439@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431603,
+    "wof:geomhash":"99fb23d69e394188ccd9996dbb0e5d90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823379089
+        }
+    ],
+    "wof:id":823379089,
+    "wof:lastmodified":1463431603,
+    "wof:name":"Apostolic Church",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.544439,
+    38.229568,
+    -81.544439,
+    38.229568
+],
+  "geometry": {"coordinates":[-81.544439,38.229568],"type":"Point"}
+}

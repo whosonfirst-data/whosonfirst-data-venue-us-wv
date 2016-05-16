@@ -1,0 +1,75 @@
+{
+  "id": 823412201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.64608,38.381548,-81.64608,38.381548",
+    "geom:latitude":38.381548,
+    "geom:longitude":-81.64608,
+    "iso:country":"US",
+    "sg:address":"2208 Leon St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 8350",
+    "sg:postcode":"25312",
+    "sg:province":"WV",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85817517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_023Y6jypwZveOLu3hqrtPC_38.381548_-81.646080@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433111,
+    "wof:geomhash":"a1a36d6ed6cc4142ea209bc6618ec371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85817517,
+            "region_id":85688589,
+            "venue_id":823412201
+        }
+    ],
+    "wof:id":823412201,
+    "wof:lastmodified":1463433111,
+    "wof:name":"D & D Home Improvement",
+    "wof:parent_id":85817517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.64608,
+    38.381548,
+    -81.64608,
+    38.381548
+],
+  "geometry": {"coordinates":[-81.64608,38.381548],"type":"Point"}
+}

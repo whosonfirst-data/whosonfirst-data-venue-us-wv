@@ -1,0 +1,75 @@
+{
+  "id": 823448293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.597132,38.32822,-81.597132,38.32822",
+    "geom:latitude":38.32822,
+    "geom:longitude":-81.597132,
+    "iso:country":"US",
+    "sg:address":"3510 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 6963",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hVIkn5dzsLqZ1e9AmmyOV_38.328220_-81.597132@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434752,
+    "wof:geomhash":"490bc0c5d8fc9da020383c8b6bd13bb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823448293
+        }
+    ],
+    "wof:id":823448293,
+    "wof:lastmodified":1463434752,
+    "wof:name":"Valley Orthopedic Surgeons",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -81.597132,
+    38.32822,
+    -81.597132,
+    38.32822
+],
+  "geometry": {"coordinates":[-81.597132,38.32822],"type":"Point"}
+}

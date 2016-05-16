@@ -1,0 +1,73 @@
+{
+  "id": 823375677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.562736,39.264568,-81.562736,39.264568",
+    "geom:latitude":39.264568,
+    "geom:longitude":-81.562736,
+    "iso:country":"US",
+    "sg:address":"1 Government Sq",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 424 8550",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "govt",
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85829881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yolPgBZB2MMhjkLTk7jW7_39.264568_-81.562736@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431443,
+    "wof:geomhash":"01fd52c7117e5229c87d1eda46f87300",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85829881,
+            "region_id":85688589,
+            "venue_id":823375677
+        }
+    ],
+    "wof:id":823375677,
+    "wof:lastmodified":1463431443,
+    "wof:name":"Parkersburg Utility Board",
+    "wof:parent_id":85829881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "city"
+    ]
+},
+  "bbox": [
+    -81.562736,
+    39.264568,
+    -81.562736,
+    39.264568
+],
+  "geometry": {"coordinates":[-81.562736,39.264568],"type":"Point"}
+}

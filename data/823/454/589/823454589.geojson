@@ -1,0 +1,97 @@
+{
+  "id": 823454589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.980103,39.447552,-77.980103,39.447552",
+    "geom:latitude":39.447552,
+    "geom:longitude":-77.980103,
+    "iso:country":"US",
+    "sg:address":"1001 Winchester Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 260 9598",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "lubricating",
+        "oils-petroleum",
+        "lube",
+        "lubricant",
+        "oils-fuel",
+        "marketer"
+    ],
+    "sg:website":"http://www.petersons1.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jdjYQSHwyBBB8Moh4uXmG_39.447552_-77.980103@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435039,
+    "wof:geomhash":"4c12cc5b971fe384cf8fb277efcd1862",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823454589
+        }
+    ],
+    "wof:id":823454589,
+    "wof:lastmodified":1463435039,
+    "wof:name":"Petersons Oil & Lube",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lubricating",
+        "oils-petroleum",
+        "lube",
+        "lubricant",
+        "oils-fuel",
+        "marketer"
+    ]
+},
+  "bbox": [
+    -77.980103,
+    39.447552,
+    -77.980103,
+    39.447552
+],
+  "geometry": {"coordinates":[-77.980103,39.447552],"type":"Point"}
+}

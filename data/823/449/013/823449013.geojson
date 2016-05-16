@@ -1,0 +1,75 @@
+{
+  "id": 823449013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.222128,37.258482,-81.222128,37.258482",
+    "geom:latitude":37.258482,
+    "geom:longitude":-81.222128,
+    "iso:country":"US",
+    "sg:address":"320 North St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 325 2511",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop",
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ybo5Box8efGIz5H20OoX0_37.258482_-81.222128@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434782,
+    "wof:geomhash":"3ad4963f18f4c885a02afde9d99b1ac9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823449013
+        }
+    ],
+    "wof:id":823449013,
+    "wof:lastmodified":1463434782,
+    "wof:name":"Guardian Auto Glass",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -81.222128,
+    37.258482,
+    -81.222128,
+    37.258482
+],
+  "geometry": {"coordinates":[-81.222128,37.258482],"type":"Point"}
+}

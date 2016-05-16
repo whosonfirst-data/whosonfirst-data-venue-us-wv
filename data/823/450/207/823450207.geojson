@@ -1,0 +1,71 @@
+{
+  "id": 823450207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.933215,39.021524,-79.933215,39.021524",
+    "geom:latitude":39.021524,
+    "geom:longitude":-79.933215,
+    "iso:country":"US",
+    "sg:address":"704 Beverly Pike",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 2923",
+    "sg:postcode":"26250",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZgeqhMC3c1nU3ISIoRxqg_39.021524_-79.933215@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434824,
+    "wof:geomhash":"b0be6772785ad3a6c332440241300949",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823450207
+        }
+    ],
+    "wof:id":823450207,
+    "wof:lastmodified":1463434824,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -79.933215,
+    39.021524,
+    -79.933215,
+    39.021524
+],
+  "geometry": {"coordinates":[-79.933215,39.021524],"type":"Point"}
+}

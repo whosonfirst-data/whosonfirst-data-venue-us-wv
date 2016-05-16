@@ -1,0 +1,73 @@
+{
+  "id": 823440869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.652645,38.359271,-81.652645,38.359271",
+    "geom:latitude":38.359271,
+    "geom:longitude":-81.652645,
+    "iso:country":"US",
+    "sg:address":"8 Vine St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 1007",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1g9TE1yBH0foDvzk8ucKbp_38.359271_-81.652645@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434402,
+    "wof:geomhash":"27b1ac6c3d00c9a511ade47d0c7df82a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823440869
+        }
+    ],
+    "wof:id":823440869,
+    "wof:lastmodified":1463434402,
+    "wof:name":"Forren Soil",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.652645,
+    38.359271,
+    -81.652645,
+    38.359271
+],
+  "geometry": {"coordinates":[-81.65264500000001,38.359271],"type":"Point"}
+}

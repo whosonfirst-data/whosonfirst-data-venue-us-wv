@@ -1,0 +1,73 @@
+{
+  "id": 823433125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.338675,39.280061,-80.338675,39.280061",
+    "geom:latitude":39.280061,
+    "geom:longitude":-80.338675,
+    "iso:country":"US",
+    "sg:address":"113 S 3rd St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 624 5742",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dyk47PpCrHI08MS4A4UUJ_39.280061_-80.338675@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434024,
+    "wof:geomhash":"beba4666f7f2a36a34a441c01c423b72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823433125
+        }
+    ],
+    "wof:id":823433125,
+    "wof:lastmodified":1463434024,
+    "wof:name":"House Of Video",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -80.338675,
+    39.280061,
+    -80.338675,
+    39.280061
+],
+  "geometry": {"coordinates":[-80.33867499999999,39.280061],"type":"Point"}
+}

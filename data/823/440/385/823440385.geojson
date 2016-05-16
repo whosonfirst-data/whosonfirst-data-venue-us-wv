@@ -1,0 +1,73 @@
+{
+  "id": 823440385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.341919,39.279965,-80.341919,39.279965",
+    "geom:latitude":39.279965,
+    "geom:longitude":-80.341919,
+    "iso:country":"US",
+    "sg:address":"454 W Main St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 623 5749",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32XXn7ubiWXHJh5Yz3JR1r_39.279965_-80.341919@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434379,
+    "wof:geomhash":"b3fa90e9aa4098eba44463b094656677",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823440385
+        }
+    ],
+    "wof:id":823440385,
+    "wof:lastmodified":1463434379,
+    "wof:name":"Harrison County CASA Prgrm",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -80.341919,
+    39.279965,
+    -80.341919,
+    39.279965
+],
+  "geometry": {"coordinates":[-80.341919,39.279965],"type":"Point"}
+}

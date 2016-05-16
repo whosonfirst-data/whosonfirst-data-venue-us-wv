@@ -1,0 +1,73 @@
+{
+  "id": 823411173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.102642,37.632191,-81.102642,37.632191",
+    "geom:latitude":37.632191,
+    "geom:longitude":-81.102642,
+    "iso:country":"US",
+    "sg:address":"2641 Flat Top Rd",
+    "sg:city":"Ghent",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 787 5880",
+    "sg:postcode":"25843",
+    "sg:province":"WV",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ywQUKDwJQXOGOq4V4qzve_37.632191_-81.102642@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433073,
+    "wof:geomhash":"6868c62d8fa8f07d4fc2da7e59b92faf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823411173
+        }
+    ],
+    "wof:id":823411173,
+    "wof:lastmodified":1463433073,
+    "wof:name":"Ghent Area Volunteer Fire Dept",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -81.102642,
+    37.632191,
+    -81.102642,
+    37.632191
+],
+  "geometry": {"coordinates":[-81.102642,37.632191],"type":"Point"}
+}

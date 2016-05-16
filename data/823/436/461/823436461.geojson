@@ -1,0 +1,71 @@
+{
+  "id": 823436461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.579736,38.330162,-81.579736,38.330162",
+    "geom:latitude":38.330162,
+    "geom:longitude":-81.579736,
+    "iso:country":"US",
+    "sg:address":"2878 Piedmont Rd",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 0566",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ovVzrv0DZIkrzIYrOjfPg_38.330162_-81.579736@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434192,
+    "wof:geomhash":"8bf3d9568349105931cc75114a1e8a23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823436461
+        }
+    ],
+    "wof:id":823436461,
+    "wof:lastmodified":1463434192,
+    "wof:name":"Bible Baptist Church",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.579736,
+    38.330162,
+    -81.579736,
+    38.330162
+],
+  "geometry": {"coordinates":[-81.579736,38.330162],"type":"Point"}
+}

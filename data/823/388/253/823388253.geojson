@@ -1,0 +1,71 @@
+{
+  "id": 823388253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.634649,38.361495,-81.634649,38.361495",
+    "geom:latitude":38.361495,
+    "geom:longitude":-81.634649,
+    "iso:country":"US",
+    "sg:address":"1020 Crescent Rd",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 3544",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YyIkrjWm8OR9CjD09hBKU_38.361495_-81.634649@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431982,
+    "wof:geomhash":"ca3e941ed8c957281b3c208cc10e8dc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823388253
+        }
+    ],
+    "wof:id":823388253,
+    "wof:lastmodified":1463431982,
+    "wof:name":"Mountain Auto Supply",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -81.634649,
+    38.361495,
+    -81.634649,
+    38.361495
+],
+  "geometry": {"coordinates":[-81.634649,38.361495],"type":"Point"}
+}

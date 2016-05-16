@@ -1,0 +1,73 @@
+{
+  "id": 823409915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.27556,39.300508,-80.27556,39.300508",
+    "geom:latitude":39.300508,
+    "geom:longitude":-80.27556,
+    "iso:country":"US",
+    "sg:address":"117 State St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 7003",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85831189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68y9NtmQhlbxWejnvGC6KY_39.300508_-80.275560@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433017,
+    "wof:geomhash":"cb25acbe1630b43aa59796e69365a6ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85831189,
+            "region_id":85688589,
+            "venue_id":823409915
+        }
+    ],
+    "wof:id":823409915,
+    "wof:lastmodified":1463433017,
+    "wof:name":"Primecare Medical Inc",
+    "wof:parent_id":85831189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -80.27556,
+    39.300508,
+    -80.27556,
+    39.300508
+],
+  "geometry": {"coordinates":[-80.27556,39.300508],"type":"Point"}
+}

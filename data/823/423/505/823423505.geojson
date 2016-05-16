@@ -1,0 +1,73 @@
+{
+  "id": 823423505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.5384,38.232683,-81.5384,38.232683",
+    "geom:latitude":38.232683,
+    "geom:longitude":-81.5384,
+    "iso:country":"US",
+    "sg:address":"615 E Dupont Ave",
+    "sg:city":"Belle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 4515",
+    "sg:postcode":"25015",
+    "sg:province":"WV",
+    "sg:tags":[
+        "inorganic",
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3u9NjKUZp9JeZHfZa4JE9I_38.232683_-81.538400@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433601,
+    "wof:geomhash":"535ad183bed6cec8439910f0918fa31f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823423505
+        }
+    ],
+    "wof:id":823423505,
+    "wof:lastmodified":1463433601,
+    "wof:name":"Occidental Chemical Corp",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inorganic",
+        "industrial"
+    ]
+},
+  "bbox": [
+    -81.5384,
+    38.232683,
+    -81.5384,
+    38.232683
+],
+  "geometry": {"coordinates":[-81.5384,38.232683],"type":"Point"}
+}

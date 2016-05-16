@@ -1,0 +1,68 @@
+{
+  "id": 823400623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.380262,37.581994,-81.380262,37.581994",
+    "geom:latitude":37.581994,
+    "geom:longitude":-81.380262,
+    "iso:country":"US",
+    "sg:address":"12 Moran Ave",
+    "sg:city":"Mullens",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 294 8110",
+    "sg:postcode":"25882",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731355,
+        102083379,
+        85838593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FAcF0u808ycgGN7OJqnov_37.581994_-81.380262@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432611,
+    "wof:geomhash":"b839b155e565e89cfe482aec871e724a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083379,
+            "locality_id":101731355,
+            "neighbourhood_id":85838593,
+            "region_id":85688589,
+            "venue_id":823400623
+        }
+    ],
+    "wof:id":823400623,
+    "wof:lastmodified":1463432611,
+    "wof:name":"Circle A Beauty Salon",
+    "wof:parent_id":85838593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.380262,
+    37.581994,
+    -81.380262,
+    37.581994
+],
+  "geometry": {"coordinates":[-81.380262,37.581994],"type":"Point"}
+}

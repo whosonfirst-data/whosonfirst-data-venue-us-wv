@@ -1,0 +1,66 @@
+{
+  "id": 823415147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.05233,37.364388,-81.05233,37.364388",
+    "geom:latitude":37.364388,
+    "geom:longitude":-81.05233,
+    "iso:country":"US",
+    "sg:address":"1000 Oakvale Rd",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 8181",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0V25TEvC63ZYQjDxpExTxk_37.364388_-81.052330@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433235,
+    "wof:geomhash":"2fa8f46e28ca1c9f4291584c725ab1c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823415147
+        }
+    ],
+    "wof:id":823415147,
+    "wof:lastmodified":1463433235,
+    "wof:name":"Little General Store",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.05233,
+    37.364388,
+    -81.05233,
+    37.364388
+],
+  "geometry": {"coordinates":[-81.05233,37.364388],"type":"Point"}
+}

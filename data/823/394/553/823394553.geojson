@@ -1,0 +1,73 @@
+{
+  "id": 823394553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.140672,37.749919,-81.140672,37.749919",
+    "geom:latitude":37.749919,
+    "geom:longitude":-81.140672,
+    "iso:country":"US",
+    "sg:address":"703 Ritter Dr",
+    "sg:city":"Glen Morgan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 255 1300",
+    "sg:postcode":"25813",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1f0gSpgToIRxCwDccdhreX_37.749919_-81.140672@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432309,
+    "wof:geomhash":"aeb02780bc7f8a2c0f3b99cce9e3664f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823394553
+        }
+    ],
+    "wof:id":823394553,
+    "wof:lastmodified":1463432309,
+    "wof:name":"Beaver Family Clinic",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -81.140672,
+    37.749919,
+    -81.140672,
+    37.749919
+],
+  "geometry": {"coordinates":[-81.140672,37.749919],"type":"Point"}
+}

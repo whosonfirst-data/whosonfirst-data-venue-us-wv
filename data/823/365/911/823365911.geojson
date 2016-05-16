@@ -1,0 +1,73 @@
+{
+  "id": 823365911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.954328,39.630256,-79.954328,39.630256",
+    "geom:latitude":39.630256,
+    "geom:longitude":-79.954328,
+    "iso:country":"US",
+    "sg:address":"345 Spruce St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 2493",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "bicycle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kpGjCJHTKyFOM1Sw44UpL_39.630256_-79.954328@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431006,
+    "wof:geomhash":"fb303364c6cb45397880ddb18c6f2038",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851489,
+            "region_id":85688589,
+            "venue_id":823365911
+        }
+    ],
+    "wof:id":823365911,
+    "wof:lastmodified":1463431006,
+    "wof:name":"Wameley Cycles",
+    "wof:parent_id":85851489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bicycle"
+    ]
+},
+  "bbox": [
+    -79.954328,
+    39.630256,
+    -79.954328,
+    39.630256
+],
+  "geometry": {"coordinates":[-79.954328,39.630256],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823405039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.612863,40.272299,-80.612863,40.272299",
+    "geom:latitude":40.272299,
+    "geom:longitude":-80.612863,
+    "iso:country":"US",
+    "sg:address":"905 Main St",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 2482",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hIpmwhIbTRkanSZPqFD8M_40.272299_-80.612863@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432814,
+    "wof:geomhash":"9ada473e6ee847900b4b8d223d65d09f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823405039
+        }
+    ],
+    "wof:id":823405039,
+    "wof:lastmodified":1463432814,
+    "wof:name":"Eagle Rock Tours",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -80.612863,
+    40.272299,
+    -80.612863,
+    40.272299
+],
+  "geometry": {"coordinates":[-80.612863,40.272299],"type":"Point"}
+}

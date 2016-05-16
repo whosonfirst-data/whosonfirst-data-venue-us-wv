@@ -1,0 +1,71 @@
+{
+  "id": 823402437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.221973,37.268565,-81.221973,37.268565",
+    "geom:latitude":37.268565,
+    "geom:longitude":-81.221973,
+    "iso:country":"US",
+    "sg:address":"415 Federal St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 325 3619",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32KxJifMQPeQ1pehc0riRE_37.268565_-81.221973@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432691,
+    "wof:geomhash":"b272a4175f8361212017d57426dd0bf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823402437
+        }
+    ],
+    "wof:id":823402437,
+    "wof:lastmodified":1463432691,
+    "wof:name":"West Virginia Manor Apartments",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -81.221973,
+    37.268565,
+    -81.221973,
+    37.268565
+],
+  "geometry": {"coordinates":[-81.22197300000001,37.268565],"type":"Point"}
+}

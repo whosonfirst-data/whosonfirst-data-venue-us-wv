@@ -1,0 +1,71 @@
+{
+  "id": 823365785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.014888,37.425395,-81.014888,37.425395",
+    "geom:latitude":37.425395,
+    "geom:longitude":-81.014888,
+    "iso:country":"US",
+    "sg:address":"115 N State St",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 384 7638",
+    "sg:postcode":"24712",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GRQZlMdkJMNP8FcFo6qlO_37.425395_-81.014888@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431002,
+    "wof:geomhash":"3c14a3e4ae19c9df441c7b0fc4f9b0d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823365785
+        }
+    ],
+    "wof:id":823365785,
+    "wof:lastmodified":1463431002,
+    "wof:name":"Mt Jackson Baptist Church",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.014888,
+    37.425395,
+    -81.014888,
+    37.425395
+],
+  "geometry": {"coordinates":[-81.014888,37.425395],"type":"Point"}
+}

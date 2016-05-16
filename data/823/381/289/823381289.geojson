@@ -1,0 +1,75 @@
+{
+  "id": 823381289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.916469,39.678601,-79.916469,39.678601",
+    "geom:latitude":39.678601,
+    "geom:longitude":-79.916469,
+    "iso:country":"US",
+    "sg:address":"51 Fairfield Manor",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 291 1125",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "mobile",
+        "home",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731747,
+        102082587,
+        85819247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BgdKOpMOLSjV970RVO8X4_39.678601_-79.916469@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431700,
+    "wof:geomhash":"0ac2534a7722540fce4ae1d7e1167ca9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85819247,
+            "region_id":85688589,
+            "venue_id":823381289
+        }
+    ],
+    "wof:id":823381289,
+    "wof:lastmodified":1463431700,
+    "wof:name":"Fairfield Manor",
+    "wof:parent_id":85819247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home",
+        "community"
+    ]
+},
+  "bbox": [
+    -79.916469,
+    39.678601,
+    -79.916469,
+    39.678601
+],
+  "geometry": {"coordinates":[-79.91646900000001,39.678601],"type":"Point"}
+}

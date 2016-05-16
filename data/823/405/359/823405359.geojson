@@ -1,0 +1,71 @@
+{
+  "id": 823405359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.431478,38.465537,-81.431478,38.465537",
+    "geom:latitude":38.465537,
+    "geom:longitude":-81.431478,
+    "iso:country":"US",
+    "sg:address":"5314 Elk River Rd",
+    "sg:city":"Elkview",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 965 5866",
+    "sg:postcode":"25071",
+    "sg:province":"WV",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UrgPccIpxxWzjmcgcwBuL_38.465537_-81.431478@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432830,
+    "wof:geomhash":"19431134eee25ff59a80c3f8c29ea1d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823405359
+        }
+    ],
+    "wof:id":823405359,
+    "wof:lastmodified":1463432830,
+    "wof:name":"Estep Appraisals",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -81.431478,
+    38.465537,
+    -81.431478,
+    38.465537
+],
+  "geometry": {"coordinates":[-81.431478,38.465537],"type":"Point"}
+}

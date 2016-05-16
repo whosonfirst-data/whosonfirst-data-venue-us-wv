@@ -1,0 +1,71 @@
+{
+  "id": 823416103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.277546,39.287862,-80.277546,39.287862",
+    "geom:latitude":39.287862,
+    "geom:longitude":-80.277546,
+    "iso:country":"US",
+    "sg:address":"423 Lodgeville Rd",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 622 0530",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7afY8PVMXllQk2qgGIwiwR_39.287862_-80.277546@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433283,
+    "wof:geomhash":"0493030913cf8d97e4aba00ce81e088b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823416103
+        }
+    ],
+    "wof:id":823416103,
+    "wof:lastmodified":1463433283,
+    "wof:name":"Pioneer Used Cars",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -80.277546,
+    39.287862,
+    -80.277546,
+    39.287862
+],
+  "geometry": {"coordinates":[-80.277546,39.287862],"type":"Point"}
+}

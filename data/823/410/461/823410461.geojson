@@ -1,0 +1,71 @@
+{
+  "id": 823410461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.156579,37.99341,-81.156579,37.99341",
+    "geom:latitude":37.99341,
+    "geom:longitude":-81.156579,
+    "iso:country":"US",
+    "sg:address":"85 Drennen Ln",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 469 4505",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uUHg9qn95MS7A0Ok4FC9l_37.993410_-81.156579@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433045,
+    "wof:geomhash":"77697143e0f76170adf545487cff6178",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823410461
+        }
+    ],
+    "wof:id":823410461,
+    "wof:lastmodified":1463433045,
+    "wof:name":"Loch & Stor Storage Units",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -81.156579,
+    37.99341,
+    -81.156579,
+    37.99341
+],
+  "geometry": {"coordinates":[-81.15657899999999,37.99341],"type":"Point"}
+}

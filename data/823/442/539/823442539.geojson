@@ -1,0 +1,71 @@
+{
+  "id": 823442539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.849145,38.928417,-79.849145,38.928417",
+    "geom:latitude":38.928417,
+    "geom:longitude":-79.849145,
+    "iso:country":"US",
+    "sg:address":"527 Randolph Ave",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 6061",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5e7yaJFFceQ4VsOrVe8Hqr_38.928417_-79.849145@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434471,
+    "wof:geomhash":"55905b7536facd17e2df671312cd73fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823442539
+        }
+    ],
+    "wof:id":823442539,
+    "wof:lastmodified":1463434471,
+    "wof:name":"Elkins Mobil",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -79.849145,
+    38.928417,
+    -79.849145,
+    38.928417
+],
+  "geometry": {"coordinates":[-79.84914499999999,38.928417],"type":"Point"}
+}

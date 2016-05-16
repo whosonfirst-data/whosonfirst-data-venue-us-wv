@@ -1,0 +1,85 @@
+{
+  "id": 823454733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.987129,39.444862,-77.987129,39.444862",
+    "geom:latitude":39.444862,
+    "geom:longitude":-77.987129,
+    "iso:country":"US",
+    "sg:address":"1001 Foxcroft Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 5202",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "hot",
+        "hamburger",
+        "dog",
+        "take"
+    ],
+    "sg:website":"http://www.hardees.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18CHdrU8kkRlz2XigHzrzn_39.444862_-77.987129@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435049,
+    "wof:geomhash":"ee3043b649b9245f4166f93c2edddb32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823454733
+        }
+    ],
+    "wof:id":823454733,
+    "wof:lastmodified":1463435049,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "hot",
+        "hamburger",
+        "dog",
+        "take"
+    ]
+},
+  "bbox": [
+    -77.987129,
+    39.444862,
+    -77.987129,
+    39.444862
+],
+  "geometry": {"coordinates":[-77.987129,39.444862],"type":"Point"}
+}

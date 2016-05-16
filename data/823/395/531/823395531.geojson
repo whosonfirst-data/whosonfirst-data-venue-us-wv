@@ -1,0 +1,71 @@
+{
+  "id": 823395531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.527586,38.356732,-82.527586,38.356732",
+    "geom:latitude":38.356732,
+    "geom:longitude":-82.527586,
+    "iso:country":"US",
+    "sg:address":"2700 Rte 75",
+    "sg:city":"Kenova",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 3660",
+    "sg:postcode":"25530",
+    "sg:province":"WV",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083365,
+        85857035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77wsBo1o4u3t0P6VE8zWK2_38.356732_-82.527586@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432348,
+    "wof:geomhash":"1366faf8c6ba16d3d478af04c83c7053",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731553,
+            "neighbourhood_id":85857035,
+            "region_id":85688589,
+            "venue_id":823395531
+        }
+    ],
+    "wof:id":823395531,
+    "wof:lastmodified":1463432348,
+    "wof:name":"75 Deli Mart",
+    "wof:parent_id":85857035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -82.527586,
+    38.356732,
+    -82.527586,
+    38.356732
+],
+  "geometry": {"coordinates":[-82.527586,38.356732],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823373835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.124518,37.37159,-81.124518,37.37159",
+    "geom:latitude":37.37159,
+    "geom:longitude":-81.124518,
+    "iso:country":"US",
+    "sg:address":"127 Kingbird Way",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 290 1208",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mkSdNt3Lx73TQtZRootcc_37.371590_-81.124518@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431352,
+    "wof:geomhash":"189f4ee7ba294c013f8a42c13aa422ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823373835
+        }
+    ],
+    "wof:id":823373835,
+    "wof:lastmodified":1463431352,
+    "wof:name":"Dar A Riaz",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational"
+    ]
+},
+  "bbox": [
+    -81.124518,
+    37.37159,
+    -81.124518,
+    37.37159
+],
+  "geometry": {"coordinates":[-81.12451799999999,37.37159],"type":"Point"}
+}

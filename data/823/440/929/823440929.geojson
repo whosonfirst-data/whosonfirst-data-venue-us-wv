@@ -1,0 +1,71 @@
+{
+  "id": 823440929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.601799,40.618641,-80.601799,40.618641",
+    "geom:latitude":40.618641,
+    "geom:longitude":-80.601799,
+    "iso:country":"US",
+    "sg:address":"420 Washington St",
+    "sg:city":"Newell",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 0007",
+    "sg:postcode":"26050",
+    "sg:province":"WV",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TJK1HGOy9GanX6dNOj2mR_40.618641_-80.601799@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434404,
+    "wof:geomhash":"d3072b34f5e47e46d77d06013557aa52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823440929
+        }
+    ],
+    "wof:id":823440929,
+    "wof:lastmodified":1463434404,
+    "wof:name":"Mr Eds",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -80.601799,
+    40.618641,
+    -80.601799,
+    40.618641
+],
+  "geometry": {"coordinates":[-80.601799,40.618641],"type":"Point"}
+}

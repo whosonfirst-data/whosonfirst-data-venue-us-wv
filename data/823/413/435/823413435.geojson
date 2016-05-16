@@ -1,0 +1,75 @@
+{
+  "id": 823413435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.3071,37.607051,-81.3071,37.607051",
+    "geom:latitude":37.607051,
+    "geom:longitude":-81.3071,
+    "iso:country":"US",
+    "sg:address":"7231 Coal City Rd",
+    "sg:city":"Rhodell",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 683 3668",
+    "sg:postcode":"25915",
+    "sg:province":"WV",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EASK7tU4DaLxde8fpkQb2_37.607051_-81.307100@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433153,
+    "wof:geomhash":"af9551d5aac2718b2b30055b2a570425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823413435
+        }
+    ],
+    "wof:id":823413435,
+    "wof:lastmodified":1463433153,
+    "wof:name":"Rhodell Water Works",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -81.3071,
+    37.607051,
+    -81.3071,
+    37.607051
+],
+  "geometry": {"coordinates":[-81.30710000000001,37.607051],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 823453031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.192517,37.779505,-81.192517,37.779505",
+    "geom:latitude":37.779505,
+    "geom:longitude":-81.192517,
+    "iso:country":"US",
+    "sg:address":"3088 Robert C Byrd Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/pax/139062-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 253 3766",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sCbnTkHktEJKZHMdfXVCM_37.779505_-81.192517@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434930,
+    "wof:geomhash":"f7815028b1c4ee36d7b7a870b6b7765a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823453031
+        }
+    ],
+    "wof:id":823453031,
+    "wof:lastmodified":1463434930,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -81.192517,
+    37.779505,
+    -81.192517,
+    37.779505
+],
+  "geometry": {"coordinates":[-81.192517,37.779505],"type":"Point"}
+}

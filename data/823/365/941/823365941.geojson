@@ -1,0 +1,71 @@
+{
+  "id": 823365941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.600963,38.334602,-81.600963,38.334602",
+    "geom:latitude":38.334602,
+    "geom:longitude":-81.600963,
+    "iso:country":"US",
+    "sg:address":"2428 Kanawha Blvd E",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 348 0726",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3I2JqojAnMltTO4jLUSMvl_38.334602_-81.600963@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431007,
+    "wof:geomhash":"f0d2ef7e1a6298d286a671d42c2169e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823365941
+        }
+    ],
+    "wof:id":823365941,
+    "wof:lastmodified":1463431007,
+    "wof:name":"Charleston Senior Ctr-Kanawha",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -81.600963,
+    38.334602,
+    -81.600963,
+    38.334602
+],
+  "geometry": {"coordinates":[-81.60096299999999,38.334602],"type":"Point"}
+}

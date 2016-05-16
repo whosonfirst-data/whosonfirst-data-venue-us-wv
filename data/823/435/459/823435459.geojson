@@ -1,0 +1,71 @@
+{
+  "id": 823435459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.01568,37.421671,-81.01568,37.421671",
+    "geom:latitude":37.421671,
+    "geom:longitude":-81.01568,
+    "iso:country":"US",
+    "sg:address":"413 S State St",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 384 7333",
+    "sg:postcode":"24712",
+    "sg:province":"WV",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ktgW18qpdiUuy1mbstCwz_37.421671_-81.015680@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434145,
+    "wof:geomhash":"ff1d58ba70650146ef6d478aa1179ab2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823435459
+        }
+    ],
+    "wof:id":823435459,
+    "wof:lastmodified":1463434145,
+    "wof:name":"Athens Town Fire Dept",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -81.01568,
+    37.421671,
+    -81.01568,
+    37.421671
+],
+  "geometry": {"coordinates":[-81.01568,37.421671],"type":"Point"}
+}

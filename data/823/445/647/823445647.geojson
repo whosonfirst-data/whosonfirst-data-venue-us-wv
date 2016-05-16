@@ -1,0 +1,69 @@
+{
+  "id": 823445647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.582171,37.432532,-81.582171,37.432532",
+    "geom:latitude":37.432532,
+    "geom:longitude":-81.582171,
+    "iso:country":"US",
+    "sg:address":"151 US Hwy 52",
+    "sg:city":"Welch",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 436 4284",
+    "sg:postcode":"24801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85809677,
+        102083405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47F7KjYrO19831R8Ms99iO_37.432532_-81.582171@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434620,
+    "wof:geomhash":"01f641b6780561bab717e1c45ca1d686",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083405,
+            "neighbourhood_id":85809677,
+            "region_id":85688589,
+            "venue_id":823445647
+        }
+    ],
+    "wof:id":823445647,
+    "wof:lastmodified":1463434620,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85809677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -81.582171,
+    37.432532,
+    -81.582171,
+    37.432532
+],
+  "geometry": {"coordinates":[-81.582171,37.432532],"type":"Point"}
+}

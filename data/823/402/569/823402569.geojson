@@ -1,0 +1,71 @@
+{
+  "id": 823402569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.640412,38.364581,-81.640412,38.364581",
+    "geom:latitude":38.364581,
+    "geom:longitude":-81.640412,
+    "iso:country":"US",
+    "sg:address":"805 Wildwood Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 344 9237",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TdLWm2GfXVfcp24q3Gghn_38.364581_-81.640412@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432695,
+    "wof:geomhash":"954b929a4ed3b9b57809a6dcd6da5a51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823402569
+        }
+    ],
+    "wof:id":823402569,
+    "wof:lastmodified":1463432695,
+    "wof:name":"Hamilton Farms",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing"
+    ]
+},
+  "bbox": [
+    -81.640412,
+    38.364581,
+    -81.640412,
+    38.364581
+],
+  "geometry": {"coordinates":[-81.640412,38.364581],"type":"Point"}
+}

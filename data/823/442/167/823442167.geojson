@@ -1,0 +1,71 @@
+{
+  "id": 823442167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.878964,37.677197,-80.878964,37.677197",
+    "geom:latitude":37.677197,
+    "geom:longitude":-80.878964,
+    "iso:country":"US",
+    "sg:address":"637 Fayette St",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 469 2921",
+    "sg:postcode":"25951",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731641,
+        102083407,
+        85804037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5x4Gz2wRCh0btkQnk8PJD6_37.677197_-80.878964@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434458,
+    "wof:geomhash":"6d0b4416f051c307ccaf406967b227fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083407,
+            "locality_id":101731641,
+            "neighbourhood_id":85804037,
+            "region_id":85688589,
+            "venue_id":823442167
+        }
+    ],
+    "wof:id":823442167,
+    "wof:lastmodified":1463434458,
+    "wof:name":"Kroger",
+    "wof:parent_id":85804037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -80.878964,
+    37.677197,
+    -80.878964,
+    37.677197
+],
+  "geometry": {"coordinates":[-80.878964,37.677197],"type":"Point"}
+}

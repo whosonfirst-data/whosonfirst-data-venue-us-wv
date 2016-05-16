@@ -1,0 +1,73 @@
+{
+  "id": 823447159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.088066,37.364987,-81.088066,37.364987",
+    "geom:latitude":37.364987,
+    "geom:longitude":-81.088066,
+    "iso:country":"US",
+    "sg:address":"119 Brick St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 431 5413",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automobile",
+        "customizing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2A5XpIMPi5gPEBwX6GaKrq_37.364987_-81.088066@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434699,
+    "wof:geomhash":"9c3436a03933b6e17000594bf47d0f6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823447159
+        }
+    ],
+    "wof:id":823447159,
+    "wof:lastmodified":1463434699,
+    "wof:name":"Gold Touch Auto & Truck Accsrs",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "customizing"
+    ]
+},
+  "bbox": [
+    -81.088066,
+    37.364987,
+    -81.088066,
+    37.364987
+],
+  "geometry": {"coordinates":[-81.088066,37.364987],"type":"Point"}
+}

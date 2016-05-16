@@ -1,0 +1,79 @@
+{
+  "id": 823457977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.97892,39.679533,-79.97892,39.679533",
+    "geom:latitude":39.679533,
+    "geom:longitude":-79.97892,
+    "iso:country":"US",
+    "sg:address":"933 Lazzelle Union Rd",
+    "sg:city":"Maidsville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 5674",
+    "sg:postcode":"26541",
+    "sg:province":"WV",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731749,
+        102082587,
+        85807277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25pq49hyujZCDQVekJ9qQ2_39.679533_-79.978920@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435190,
+    "wof:geomhash":"70c6c5ec9d0a607f4db960e3d917d27e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731749,
+            "neighbourhood_id":85807277,
+            "region_id":85688589,
+            "venue_id":823457977
+        }
+    ],
+    "wof:id":823457977,
+    "wof:lastmodified":1463435190,
+    "wof:name":"Us Post Office",
+    "wof:parent_id":85807277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -79.97892,
+    39.679533,
+    -79.97892,
+    39.679533
+],
+  "geometry": {"coordinates":[-79.97892,39.679533],"type":"Point"}
+}

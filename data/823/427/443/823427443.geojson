@@ -1,0 +1,71 @@
+{
+  "id": 823427443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.151702,39.475356,-80.151702,39.475356",
+    "geom:latitude":39.475356,
+    "geom:longitude":-80.151702,
+    "iso:country":"US",
+    "sg:address":"801 Fairmont Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 0920",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4N6pCXauTEV7iD2p9fWFV5_39.475356_-80.151702@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433768,
+    "wof:geomhash":"79627508084d85abd0b7efa911f217c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823427443
+        }
+    ],
+    "wof:id":823427443,
+    "wof:lastmodified":1463433768,
+    "wof:name":"Ross Funeral Home",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -80.151702,
+    39.475356,
+    -80.151702,
+    39.475356
+],
+  "geometry": {"coordinates":[-80.151702,39.475356],"type":"Point"}
+}

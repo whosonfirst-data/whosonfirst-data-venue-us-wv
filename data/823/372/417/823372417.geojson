@@ -1,0 +1,73 @@
+{
+  "id": 823372417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.61172,40.26726,-80.61172,40.26726",
+    "geom:latitude":40.26726,
+    "geom:longitude":-80.61172,
+    "iso:country":"US",
+    "sg:address":"421 Commerce St",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 2271",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automobile",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2l4NZT2Gh6ZF34Mjhc0f9D_40.267260_-80.611720@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431300,
+    "wof:geomhash":"bba02367e2db18e3b2bd4ae114743e0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823372417
+        }
+    ],
+    "wof:id":823372417,
+    "wof:lastmodified":1463431300,
+    "wof:name":"Al's Auto Svc",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -80.61172,
+    40.26726,
+    -80.61172,
+    40.26726
+],
+  "geometry": {"coordinates":[-80.61172000000001,40.26726],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823383059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.576557,40.308142,-80.576557,40.308142",
+    "geom:latitude":40.308142,
+    "geom:longitude":-80.576557,
+    "iso:country":"US",
+    "sg:address":"556 Rockdale Rd",
+    "sg:city":"Follansbee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 527 2270",
+    "sg:postcode":"26037",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automotive",
+        "complete"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zq1iDGn5vtg55rstVXVT0_40.308142_-80.576557@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431776,
+    "wof:geomhash":"7d1fa41f56e6339558025145350c8f1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823383059
+        }
+    ],
+    "wof:id":823383059,
+    "wof:lastmodified":1463431776,
+    "wof:name":"Nicks Used Auto Parts",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "complete"
+    ]
+},
+  "bbox": [
+    -80.576557,
+    40.308142,
+    -80.576557,
+    40.308142
+],
+  "geometry": {"coordinates":[-80.57655699999999,40.308142],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823419811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.272925,39.283714,-80.272925,39.283714",
+    "geom:latitude":39.283714,
+    "geom:longitude":-80.272925,
+    "iso:country":"US",
+    "sg:address":"116 Thompson Dr",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 2227",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SoFaN1rEWxRWihwbIBTKS_39.283714_-80.272925@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433455,
+    "wof:geomhash":"b122ffe930fe669e8dd05f8399626612",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823419811
+        }
+    ],
+    "wof:id":823419811,
+    "wof:lastmodified":1463433455,
+    "wof:name":"Olan Mills Portrait Studio",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -80.272925,
+    39.283714,
+    -80.272925,
+    39.283714
+],
+  "geometry": {"coordinates":[-80.272925,39.283714],"type":"Point"}
+}

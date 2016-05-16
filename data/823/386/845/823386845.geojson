@@ -1,0 +1,71 @@
+{
+  "id": 823386845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.688445,38.34033,-81.688445,38.34033",
+    "geom:latitude":38.34033,
+    "geom:longitude":-81.688445,
+    "iso:country":"US",
+    "sg:address":"1 Deerwalk Ln",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 6251",
+    "sg:postcode":"25314",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lTSJykFuYK9PMBkHTehLG_38.340330_-81.688445@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431920,
+    "wof:geomhash":"69890b47351b3dc37746ce88611cd204",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823386845
+        }
+    ],
+    "wof:id":823386845,
+    "wof:lastmodified":1463431920,
+    "wof:name":"Redeemer Lutheran Church",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.688445,
+    38.34033,
+    -81.688445,
+    38.34033
+],
+  "geometry": {"coordinates":[-81.688445,38.34033],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 823425697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.221492,37.760247,-81.221492,37.760247",
+    "geom:latitude":37.760247,
+    "geom:longitude":-81.221492,
+    "iso:country":"US",
+    "sg:address":"138 Hutchinson St",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 252 0040",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "plumbing",
+        "house",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AdsxvK6hhRMyZzoEx3FZA_37.760247_-81.221492@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433687,
+    "wof:geomhash":"7a0f8473c7160bd99161d05a484c2fe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823425697
+        }
+    ],
+    "wof:id":823425697,
+    "wof:lastmodified":1463433687,
+    "wof:name":"B W Stump Plumbing & Heating",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "house",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.221492,
+    37.760247,
+    -81.221492,
+    37.760247
+],
+  "geometry": {"coordinates":[-81.221492,37.760247],"type":"Point"}
+}

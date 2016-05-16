@@ -1,0 +1,75 @@
+{
+  "id": 823453165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.127396,38.009919,-81.127396,38.009919",
+    "geom:latitude":38.009919,
+    "geom:longitude":-81.127396,
+    "iso:country":"US",
+    "sg:address":"7013 Old Fayetteville Rd",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/plateau/171522-barista-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 469 4414",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UY3uIv220kgP9OVzrfOcp_38.009919_-81.127396@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434936,
+    "wof:geomhash":"d259f821f7b0acf84ec6e88cfeea9ed9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823453165
+        }
+    ],
+    "wof:id":823453165,
+    "wof:lastmodified":1463434936,
+    "wof:name":"Barista Coffee",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -81.127396,
+    38.009919,
+    -81.127396,
+    38.009919
+],
+  "geometry": {"coordinates":[-81.127396,38.009919],"type":"Point"}
+}

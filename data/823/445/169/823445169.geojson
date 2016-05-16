@@ -1,0 +1,66 @@
+{
+  "id": 823445169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.426392,38.211422,-81.426392,38.211422",
+    "geom:latitude":38.211422,
+    "geom:longitude":-81.426392,
+    "iso:country":"US",
+    "sg:address":"406 3rd St",
+    "sg:city":"Glasgow",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 595 2603",
+    "sg:postcode":"25086",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ceeqJeIStjzPLrF6Nnwdb_38.211422_-81.426392@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434601,
+    "wof:geomhash":"f0addcbccfcc939c140bba2d9b6487d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823445169
+        }
+    ],
+    "wof:id":823445169,
+    "wof:lastmodified":1463434601,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.426392,
+    38.211422,
+    -81.426392,
+    38.211422
+],
+  "geometry": {"coordinates":[-81.42639200000001,38.211422],"type":"Point"}
+}

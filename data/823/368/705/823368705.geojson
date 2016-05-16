@@ -1,0 +1,73 @@
+{
+  "id": 823368705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.016262,39.338586,-80.016262,39.338586",
+    "geom:latitude":39.338586,
+    "geom:longitude":-80.016262,
+    "iso:country":"US",
+    "sg:address":"235 Barrett St",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 265 6103",
+    "sg:postcode":"26354",
+    "sg:province":"WV",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731717,
+        102083351,
+        85849697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LTZKISvpwr11TPKulObS1_39.338586_-80.016262@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431123,
+    "wof:geomhash":"4072eaffed646f0cdac2182741641b6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083351,
+            "locality_id":101731717,
+            "neighbourhood_id":85849697,
+            "region_id":85688589,
+            "venue_id":823368705
+        }
+    ],
+    "wof:id":823368705,
+    "wof:lastmodified":1463431123,
+    "wof:name":"Health & Human Svc Dept",
+    "wof:parent_id":85849697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "resource"
+    ]
+},
+  "bbox": [
+    -80.016262,
+    39.338586,
+    -80.016262,
+    39.338586
+],
+  "geometry": {"coordinates":[-80.016262,39.338586],"type":"Point"}
+}

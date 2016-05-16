@@ -1,0 +1,71 @@
+{
+  "id": 823386777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.14891,37.972991,-81.14891,37.972991",
+    "geom:latitude":37.972991,
+    "geom:longitude":-81.14891,
+    "iso:country":"US",
+    "sg:address":"100 Kelly Ave",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 465 9541",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "city",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2f66tsLJVGGHjBZXq4GhAN_37.972991_-81.148910@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431918,
+    "wof:geomhash":"9e3947b55e529e95e552add1f15c5428",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823386777
+        }
+    ],
+    "wof:id":823386777,
+    "wof:lastmodified":1463431918,
+    "wof:name":"Oak Hill Sanitary Board",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "program"
+    ]
+},
+  "bbox": [
+    -81.14891,
+    37.972991,
+    -81.14891,
+    37.972991
+],
+  "geometry": {"coordinates":[-81.14891,37.972991],"type":"Point"}
+}

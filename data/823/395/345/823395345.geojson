@@ -1,0 +1,71 @@
+{
+  "id": 823395345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.137899,38.845656,-82.137899,38.845656",
+    "geom:latitude":38.845656,
+    "geom:longitude":-82.137899,
+    "iso:country":"US",
+    "sg:address":"610 Main St",
+    "sg:city":"Point Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 675 2669",
+    "sg:postcode":"25550",
+    "sg:province":"WV",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85983229,
+        102083675,
+        85824533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hr7CNe81XY5iJfUa4PUX8_38.845656_-82.137899@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432342,
+    "wof:geomhash":"9945efc2063a395ad798bb69ff9cb2bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "neighbourhood_id":85824533,
+            "region_id":85688485,
+            "venue_id":823395345
+        }
+    ],
+    "wof:id":823395345,
+    "wof:lastmodified":1463432342,
+    "wof:name":"Shaw & Tatterson LC",
+    "wof:parent_id":85824533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -82.137899,
+    38.845656,
+    -82.137899,
+    38.845656
+],
+  "geometry": {"coordinates":[-82.137899,38.845656],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823387929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.858589,38.932589,-79.858589,38.932589",
+    "geom:latitude":38.932589,
+    "geom:longitude":-79.858589,
+    "iso:country":"US",
+    "sg:address":"102 Maryland Ave",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 3792",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uOGrWQY73EQbTBNlr3YNs_38.932589_-79.858589@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431961,
+    "wof:geomhash":"e732896d1b7f22cb3f2b3e87076eb576",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823387929
+        }
+    ],
+    "wof:id":823387929,
+    "wof:lastmodified":1463431961,
+    "wof:name":"BCT Construction",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -79.858589,
+    38.932589,
+    -79.858589,
+    38.932589
+],
+  "geometry": {"coordinates":[-79.85858899999999,38.932589],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 823368219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.132376,37.9934,-81.132376,37.9934",
+    "geom:latitude":37.9934,
+    "geom:longitude":-81.132376,
+    "iso:country":"US",
+    "sg:address":"1552 Main St E",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 469 3833",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4S0ynaBzG126lWIQDgN9wM_37.993400_-81.132376@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431106,
+    "wof:geomhash":"64ad26dba6c1189dcee5b9706b28a7b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823368219
+        }
+    ],
+    "wof:id":823368219,
+    "wof:lastmodified":1463431106,
+    "wof:name":"McDonalds",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -81.132376,
+    37.9934,
+    -81.132376,
+    37.9934
+],
+  "geometry": {"coordinates":[-81.13237599999999,37.9934],"type":"Point"}
+}

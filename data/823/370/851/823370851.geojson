@@ -1,0 +1,66 @@
+{
+  "id": 823370851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.646259,38.360436,-81.646259,38.360436",
+    "geom:latitude":38.360436,
+    "geom:longitude":-81.646259,
+    "iso:country":"US",
+    "sg:address":"308 Randolph St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 344 2275",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QdOVjxC83N4sajZCcN7ca_38.360436_-81.646259@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431208,
+    "wof:geomhash":"5b5003513e462328bc6b7c64a92f04f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823370851
+        }
+    ],
+    "wof:id":823370851,
+    "wof:lastmodified":1463431208,
+    "wof:name":"Swan Laundromat & Dry Cleaners",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.646259,
+    38.360436,
+    -81.646259,
+    38.360436
+],
+  "geometry": {"coordinates":[-81.646259,38.360436],"type":"Point"}
+}

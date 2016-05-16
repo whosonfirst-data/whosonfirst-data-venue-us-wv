@@ -1,0 +1,73 @@
+{
+  "id": 823389285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.631889,38.381914,-81.631889,38.381914",
+    "geom:latitude":38.381914,
+    "geom:longitude":-81.631889,
+    "iso:country":"US",
+    "sg:address":"610 Crestlyn Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 5268",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eP3xeyq3gCPKtlfgtJ8tq_38.381914_-81.631889@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432041,
+    "wof:geomhash":"6c72b68e90b484403b182cc8d216990a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823389285
+        }
+    ],
+    "wof:id":823389285,
+    "wof:lastmodified":1463432041,
+    "wof:name":"T & D Trk1ng LLC",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -81.631889,
+    38.381914,
+    -81.631889,
+    38.381914
+],
+  "geometry": {"coordinates":[-81.631889,38.381914],"type":"Point"}
+}

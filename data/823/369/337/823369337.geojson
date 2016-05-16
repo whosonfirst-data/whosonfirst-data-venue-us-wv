@@ -1,0 +1,71 @@
+{
+  "id": 823369337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.708374,38.364217,-81.708374,38.364217",
+    "geom:latitude":38.364217,
+    "geom:longitude":-81.708374,
+    "iso:country":"US",
+    "sg:address":"5 Maccorkle Ave SW",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 1697",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "broadcast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_596DLebJC02DUbKfrFUAiM_38.364217_-81.708374@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431145,
+    "wof:geomhash":"7ad2d4a4b5b6ae03a2cd0fa59d075289",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823369337
+        }
+    ],
+    "wof:id":823369337,
+    "wof:lastmodified":1463431145,
+    "wof:name":"FM Burdette LLC",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcast"
+    ]
+},
+  "bbox": [
+    -81.708374,
+    38.364217,
+    -81.708374,
+    38.364217
+],
+  "geometry": {"coordinates":[-81.70837400000001,38.364217],"type":"Point"}
+}

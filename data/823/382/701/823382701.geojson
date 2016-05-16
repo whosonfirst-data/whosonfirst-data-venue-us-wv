@@ -1,0 +1,73 @@
+{
+  "id": 823382701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.845282,38.924895,-79.845282,38.924895",
+    "geom:latitude":38.924895,
+    "geom:longitude":-79.845282,
+    "iso:country":"US",
+    "sg:address":"228 Randolph Ave",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 8800",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OpKPVXjXzkT5gjmgkt3Xj_38.924895_-79.845282@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431764,
+    "wof:geomhash":"ad2f5b0ba3e06cdbca6241f720eae8d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823382701
+        }
+    ],
+    "wof:id":823382701,
+    "wof:lastmodified":1463431764,
+    "wof:name":"WELK",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -79.845282,
+    38.924895,
+    -79.845282,
+    38.924895
+],
+  "geometry": {"coordinates":[-79.845282,38.924895],"type":"Point"}
+}

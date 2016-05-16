@@ -1,0 +1,73 @@
+{
+  "id": 823407501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.858967,39.64458,-80.858967,39.64458",
+    "geom:latitude":39.64458,
+    "geom:longitude":-80.858967,
+    "iso:country":"US",
+    "sg:address":"299 Virginia St",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 4070",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27DffhnkO9WKM2dJ6b0Tb8_39.644580_-80.858967@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432920,
+    "wof:geomhash":"8847077d12fb90f3a88d23d58c26f0a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823407501
+        }
+    ],
+    "wof:id":823407501,
+    "wof:lastmodified":1463432920,
+    "wof:name":"Enterprise Rent-A-Car 4020",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -80.858967,
+    39.64458,
+    -80.858967,
+    39.64458
+],
+  "geometry": {"coordinates":[-80.85896700000001,39.64458],"type":"Point"}
+}

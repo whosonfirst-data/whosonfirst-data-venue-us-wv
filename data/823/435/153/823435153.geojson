@@ -1,0 +1,68 @@
+{
+  "id": 823435153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.979457,39.656847,-79.979457,39.656847",
+    "geom:latitude":39.656847,
+    "geom:longitude":-79.979457,
+    "iso:country":"US",
+    "sg:address":"3334 University Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 8228",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WZTfvaTgcdkm6GrwINc98_39.656847_-79.979457@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434133,
+    "wof:geomhash":"ab1181fec5781ccece04a981d7a0960a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851419,
+            "region_id":85688589,
+            "venue_id":823435153
+        }
+    ],
+    "wof:id":823435153,
+    "wof:lastmodified":1463434133,
+    "wof:name":"Best Chiropractic Center",
+    "wof:parent_id":85851419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.979457,
+    39.656847,
+    -79.979457,
+    39.656847
+],
+  "geometry": {"coordinates":[-79.979457,39.656847],"type":"Point"}
+}

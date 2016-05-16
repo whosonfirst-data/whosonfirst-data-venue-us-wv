@@ -1,0 +1,71 @@
+{
+  "id": 823450253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.968334,39.652771,-79.968334,39.652771",
+    "geom:latitude":39.652771,
+    "geom:longitude":-79.968334,
+    "iso:country":"US",
+    "sg:address":"3041 University Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 8250",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clinic",
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uXznNsYaKj3ciDS8t8fGR_39.652771_-79.968334@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434825,
+    "wof:geomhash":"dc950cc4b5d41d8af4228501e43cde6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823450253
+        }
+    ],
+    "wof:id":823450253,
+    "wof:lastmodified":1463434825,
+    "wof:name":"Suncrest Dental Group",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "dentist"
+    ]
+},
+  "bbox": [
+    -79.968334,
+    39.652771,
+    -79.968334,
+    39.652771
+],
+  "geometry": {"coordinates":[-79.968334,39.652771],"type":"Point"}
+}

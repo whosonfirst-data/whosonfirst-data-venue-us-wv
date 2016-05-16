@@ -1,0 +1,73 @@
+{
+  "id": 823423445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.459589,37.780255,-80.459589,37.780255",
+    "geom:latitude":37.780255,
+    "geom:longitude":-80.459589,
+    "iso:country":"US",
+    "sg:address":"169 Davis Stuart",
+    "sg:city":"Lewisburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 645 5182",
+    "sg:postcode":"24901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32HQOJVLHmGZPzxVpNn2bF_37.780255_-80.459589@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433599,
+    "wof:geomhash":"311b7e19b2883983ece495405a542501",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823423445
+        }
+    ],
+    "wof:id":823423445,
+    "wof:lastmodified":1463433599,
+    "wof:name":"Neurology Clinic",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -80.459589,
+    37.780255,
+    -80.459589,
+    37.780255
+],
+  "geometry": {"coordinates":[-80.45958899999999,37.780255],"type":"Point"}
+}

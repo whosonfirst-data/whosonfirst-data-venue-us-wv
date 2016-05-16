@@ -1,0 +1,71 @@
+{
+  "id": 823389297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.858183,39.655876,-80.858183,39.655876",
+    "geom:latitude":39.655876,
+    "geom:longitude":-80.858183,
+    "iso:country":"US",
+    "sg:address":"1224 S Bridge St",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 3456",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nDTsgusz2AERfTBpoxQpb_39.655876_-80.858183@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432041,
+    "wof:geomhash":"251c4461fff101615c0d5308cc5cd16d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823389297
+        }
+    ],
+    "wof:id":823389297,
+    "wof:lastmodified":1463432041,
+    "wof:name":"Jarvis Funeral Home",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -80.858183,
+    39.655876,
+    -80.858183,
+    39.655876
+],
+  "geometry": {"coordinates":[-80.858183,39.655876],"type":"Point"}
+}

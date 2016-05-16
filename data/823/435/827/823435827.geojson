@@ -1,0 +1,73 @@
+{
+  "id": 823435827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.26251,39.281304,-80.26251,39.281304",
+    "geom:latitude":39.281304,
+    "geom:longitude":-80.26251,
+    "iso:country":"US",
+    "sg:address":"643 W Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 848 0850",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yqtTt9l8CEhqexa9d0T07_39.281304_-80.262510@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434158,
+    "wof:geomhash":"89222e25fa7538f74e036d7715ef16fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823435827
+        }
+    ],
+    "wof:id":823435827,
+    "wof:lastmodified":1463434158,
+    "wof:name":"Job Squad Inc",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -80.26251,
+    39.281304,
+    -80.26251,
+    39.281304
+],
+  "geometry": {"coordinates":[-80.26251000000001,39.281304],"type":"Point"}
+}

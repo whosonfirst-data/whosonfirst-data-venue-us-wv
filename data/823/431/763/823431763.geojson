@@ -1,0 +1,71 @@
+{
+  "id": 823431763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.223726,37.260154,-81.223726,37.260154",
+    "geom:latitude":37.260154,
+    "geom:longitude":-81.223726,
+    "iso:country":"US",
+    "sg:address":"1400 Roy Ave",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 327 7626",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xO1XddwpLVeO0tuPN69mH_37.260154_-81.223726@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433959,
+    "wof:geomhash":"7f70e8432b6da14622b79c85ef32498f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823431763
+        }
+    ],
+    "wof:id":823431763,
+    "wof:lastmodified":1463433959,
+    "wof:name":"Loyal Order Of Moose",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -81.223726,
+    37.260154,
+    -81.223726,
+    37.260154
+],
+  "geometry": {"coordinates":[-81.223726,37.260154],"type":"Point"}
+}

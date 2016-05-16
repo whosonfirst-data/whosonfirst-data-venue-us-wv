@@ -1,0 +1,73 @@
+{
+  "id": 823383721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.656641,38.369677,-81.656641,38.369677",
+    "geom:latitude":38.369677,
+    "geom:longitude":-81.656641,
+    "iso:country":"US",
+    "sg:address":"1217 Washington St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 4305",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "store",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0193LuhViYK8QABkJL2gEx_38.369677_-81.656641@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431801,
+    "wof:geomhash":"ee73fe9eba2830c01efc485c1964ddea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823383721
+        }
+    ],
+    "wof:id":823383721,
+    "wof:lastmodified":1463431801,
+    "wof:name":"A-1 Used Furniture",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -81.656641,
+    38.369677,
+    -81.656641,
+    38.369677
+],
+  "geometry": {"coordinates":[-81.65664099999999,38.369677],"type":"Point"}
+}

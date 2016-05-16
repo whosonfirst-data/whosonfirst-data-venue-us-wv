@@ -1,0 +1,74 @@
+{
+  "id": 823453745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.955973,39.629771,-79.955973,39.629771",
+    "geom:latitude":39.629771,
+    "geom:longitude":-79.955973,
+    "iso:country":"US",
+    "sg:address":"236 Walnut St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/central/246881-sandwich-u/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 284 0911",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VCySf1nZEXg4LJq76X0oN_39.629771_-79.955973@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434959,
+    "wof:geomhash":"a5ea9bc1ecd76cf5f268a5faaad0204d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851489,
+            "region_id":85688589,
+            "venue_id":823453745
+        }
+    ],
+    "wof:id":823453745,
+    "wof:lastmodified":1463434959,
+    "wof:name":"Sandwich U",
+    "wof:parent_id":85851489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -79.955973,
+    39.629771,
+    -79.955973,
+    39.629771
+],
+  "geometry": {"coordinates":[-79.955973,39.629771],"type":"Point"}
+}

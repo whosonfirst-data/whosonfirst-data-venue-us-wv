@@ -1,0 +1,71 @@
+{
+  "id": 823395435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.298342,39.396806,-80.298342,39.396806",
+    "geom:latitude":39.396806,
+    "geom:longitude":-80.298342,
+    "iso:country":"US",
+    "sg:address":"605 Pike St",
+    "sg:city":"Shinnston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 592 1157",
+    "sg:postcode":"26431",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85831189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6avZBaJSy5oTvfvle9Dmlp_39.396806_-80.298342@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432345,
+    "wof:geomhash":"e4268ebf9659150808f81b5bf60df309",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85831189,
+            "region_id":85688589,
+            "venue_id":823395435
+        }
+    ],
+    "wof:id":823395435,
+    "wof:lastmodified":1463432345,
+    "wof:name":"T&L Hot Dogs",
+    "wof:parent_id":85831189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -80.298342,
+    39.396806,
+    -80.298342,
+    39.396806
+],
+  "geometry": {"coordinates":[-80.29834200000001,39.396806],"type":"Point"}
+}

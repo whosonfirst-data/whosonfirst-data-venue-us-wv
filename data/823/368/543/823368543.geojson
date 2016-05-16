@@ -1,0 +1,71 @@
+{
+  "id": 823368543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.446082,37.793483,-80.446082,37.793483",
+    "geom:latitude":37.793483,
+    "geom:longitude":-80.446082,
+    "iso:country":"US",
+    "sg:address":"219 Seneca Trl",
+    "sg:city":"Lewisburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 645 3400",
+    "sg:postcode":"24901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dXS8XbPV6C2EGfHyTkR72_37.793483_-80.446082@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431117,
+    "wof:geomhash":"2041fb4cff11517e0b50337175054ab5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823368543
+        }
+    ],
+    "wof:id":823368543,
+    "wof:lastmodified":1463431117,
+    "wof:name":"Little Caesars Pizza",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -80.446082,
+    37.793483,
+    -80.446082,
+    37.793483
+],
+  "geometry": {"coordinates":[-80.446082,37.793483],"type":"Point"}
+}

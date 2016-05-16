@@ -1,0 +1,71 @@
+{
+  "id": 823434341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.277628,39.280894,-80.277628,39.280894",
+    "geom:latitude":39.280894,
+    "geom:longitude":-80.277628,
+    "iso:country":"US",
+    "sg:address":"1235 W Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 7115",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ihf4iDV1feM0eIfMcAkAt_39.280894_-80.277628@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434091,
+    "wof:geomhash":"c35a180c13f1fa6392d7eabab12eb1a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823434341
+        }
+    ],
+    "wof:id":823434341,
+    "wof:lastmodified":1463434091,
+    "wof:name":"Knights Inn",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -80.277628,
+    39.280894,
+    -80.277628,
+    39.280894
+],
+  "geometry": {"coordinates":[-80.27762800000001,39.280894],"type":"Point"}
+}

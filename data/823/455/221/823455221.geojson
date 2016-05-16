@@ -1,0 +1,73 @@
+{
+  "id": 823455221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.994925,39.394555,-77.994925,39.394555",
+    "geom:latitude":39.394555,
+    "geom:longitude":-77.994925,
+    "iso:country":"US",
+    "sg:address":"446 Novak Dr",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 0876",
+    "sg:postcode":"25405",
+    "sg:province":"WV",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lgefoctY8U3Lppn14eRRK_39.394555_-77.994925@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435066,
+    "wof:geomhash":"381b5069ba2de29f2d85bf136b06aef4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823455221
+        }
+    ],
+    "wof:id":823455221,
+    "wof:lastmodified":1463435066,
+    "wof:name":"Pantran",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -77.994925,
+    39.394555,
+    -77.994925,
+    39.394555
+],
+  "geometry": {"coordinates":[-77.99492499999999,39.394555],"type":"Point"}
+}

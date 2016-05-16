@@ -1,0 +1,73 @@
+{
+  "id": 823394149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.341188,38.492003,-81.341188,38.492003",
+    "geom:latitude":38.492003,
+    "geom:longitude":-81.341188,
+    "iso:country":"US",
+    "sg:address":"55 Elk River Rd N",
+    "sg:city":"Clendenin",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 548 5826",
+    "sg:postcode":"25045",
+    "sg:province":"WV",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5t5j3ylz9cUvy6nVI6Pq2h_38.492003_-81.341188@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432287,
+    "wof:geomhash":"07e4010915bb42620433b49720ec116b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823394149
+        }
+    ],
+    "wof:id":823394149,
+    "wof:lastmodified":1463432287,
+    "wof:name":"Big Sandy Public Svc District",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -81.341188,
+    38.492003,
+    -81.341188,
+    38.492003
+],
+  "geometry": {"coordinates":[-81.341188,38.492003],"type":"Point"}
+}

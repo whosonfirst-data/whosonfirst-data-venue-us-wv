@@ -1,0 +1,71 @@
+{
+  "id": 823382247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.562418,38.286013,-81.562418,38.286013",
+    "geom:latitude":38.286013,
+    "geom:longitude":-81.562418,
+    "iso:country":"US",
+    "sg:address":"5113 Midland Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 926 6190",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oV75woFTLV0U4ITi0ygWv_38.286013_-81.562418@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431746,
+    "wof:geomhash":"af6807be8361c3210c67777d73af3318",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823382247
+        }
+    ],
+    "wof:id":823382247,
+    "wof:lastmodified":1463431746,
+    "wof:name":"American Builders LLC",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -81.562418,
+    38.286013,
+    -81.562418,
+    38.286013
+],
+  "geometry": {"coordinates":[-81.56241799999999,38.286013],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 823457643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.866544,39.648732,-79.866544,39.648732",
+    "geom:latitude":39.648732,
+    "geom:longitude":-79.866544,
+    "iso:country":"US",
+    "sg:address":"27 Pinnacle Ln",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Champagne Bar",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 328 5116",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "coal",
+        "coke",
+        "miner",
+        "shipper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732105,
+        102082587,
+        85807831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xmXL1Bk9hIaTQ1Tt7c4E4_39.648732_-79.866544@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435173,
+    "wof:geomhash":"1b6e4464b4f9d015ccf522522731ee77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101732105,
+            "neighbourhood_id":85807831,
+            "region_id":85688589,
+            "venue_id":823457643
+        }
+    ],
+    "wof:id":823457643,
+    "wof:lastmodified":1463435173,
+    "wof:name":"Redbone Mining Company Inc",
+    "wof:parent_id":85807831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coal",
+        "coke",
+        "miner",
+        "shipper"
+    ]
+},
+  "bbox": [
+    -79.866544,
+    39.648732,
+    -79.866544,
+    39.648732
+],
+  "geometry": {"coordinates":[-79.866544,39.648732],"type":"Point"}
+}

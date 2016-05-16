@@ -1,0 +1,75 @@
+{
+  "id": 823421415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.070595,37.721743,-81.070595,37.721743",
+    "geom:latitude":37.721743,
+    "geom:longitude":-81.070595,
+    "iso:country":"US",
+    "sg:address":"1039 Lake Dr",
+    "sg:city":"Daniels",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 250 0004",
+    "sg:postcode":"25832",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63rdo1LYrnCpQ96HjPwb9A_37.721743_-81.070595@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433521,
+    "wof:geomhash":"5d522918760fb3d33d9af213a6db19bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823421415
+        }
+    ],
+    "wof:id":823421415,
+    "wof:lastmodified":1463433521,
+    "wof:name":"Paul Oar MD",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.070595,
+    37.721743,
+    -81.070595,
+    37.721743
+],
+  "geometry": {"coordinates":[-81.070595,37.721743],"type":"Point"}
+}

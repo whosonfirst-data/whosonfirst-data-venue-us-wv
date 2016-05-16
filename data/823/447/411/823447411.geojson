@@ -1,0 +1,73 @@
+{
+  "id": 823447411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.97179,39.503633,-79.97179,39.503633",
+    "geom:latitude":39.503633,
+    "geom:longitude":-79.97179,
+    "iso:country":"US",
+    "sg:address":"161 Summers Church Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 291 9531",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PLl1gXkWAs9eBYq15BdTw_39.503633_-79.971790@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434708,
+    "wof:geomhash":"b55780f89b3e5d0e406a80c1c8a637a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823447411
+        }
+    ],
+    "wof:id":823447411,
+    "wof:lastmodified":1463434708,
+    "wof:name":"Mj Trucking",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -79.97179,
+    39.503633,
+    -79.97179,
+    39.503633
+],
+  "geometry": {"coordinates":[-79.97179,39.503633],"type":"Point"}
+}

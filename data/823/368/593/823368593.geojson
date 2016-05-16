@@ -1,0 +1,78 @@
+{
+  "id": 823368593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.252697,39.283389,-80.252697,39.283389",
+    "geom:latitude":39.283389,
+    "geom:longitude":-80.252697,
+    "iso:country":"US",
+    "sg:address":"109 Doctors Dr",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 4470",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dancing",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UnLYN7KZgxCAcvM7HsVmi_39.283389_-80.252697@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431119,
+    "wof:geomhash":"c711b6b441c858c1854ff3dd8ef70b68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823368593
+        }
+    ],
+    "wof:id":823368593,
+    "wof:lastmodified":1463431119,
+    "wof:name":"Dancers Attitude LLC",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dancing",
+        "supply"
+    ]
+},
+  "bbox": [
+    -80.252697,
+    39.283389,
+    -80.252697,
+    39.283389
+],
+  "geometry": {"coordinates":[-80.252697,39.283389],"type":"Point"}
+}

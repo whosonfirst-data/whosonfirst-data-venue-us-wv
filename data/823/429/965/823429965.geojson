@@ -1,0 +1,73 @@
+{
+  "id": 823429965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.125606,39.528246,-80.125606,39.528246",
+    "geom:latitude":39.528246,
+    "geom:longitude":-80.125606,
+    "iso:country":"US",
+    "sg:address":"142 Main St",
+    "sg:city":"Rivesville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 278 2078",
+    "sg:postcode":"26588",
+    "sg:province":"WV",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Hj4ZpmTcx1hLoiyoqXoK3_39.528246_-80.125606@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433882,
+    "wof:geomhash":"e5be3426cf96410c8af3153dbaa24695",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823429965
+        }
+    ],
+    "wof:id":823429965,
+    "wof:lastmodified":1463433882,
+    "wof:name":"Greater Paw Paw",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -80.125606,
+    39.528246,
+    -80.125606,
+    39.528246
+],
+  "geometry": {"coordinates":[-80.125606,39.528246],"type":"Point"}
+}

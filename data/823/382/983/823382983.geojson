@@ -1,0 +1,73 @@
+{
+  "id": 823382983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.353858,38.794226,-81.353858,38.794226",
+    "geom:latitude":38.794226,
+    "geom:longitude":-81.353858,
+    "iso:country":"US",
+    "sg:address":"810 Capitol St",
+    "sg:city":"Spencer",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 927 2643",
+    "sg:postcode":"25276",
+    "sg:province":"WV",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731535,
+        102083399,
+        85868331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Fb1ghXOFDuTYiLcTtS2Pb_38.794226_-81.353858@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431773,
+    "wof:geomhash":"690634a755b490d3075a0ac31828f014",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083399,
+            "locality_id":101731535,
+            "neighbourhood_id":85868331,
+            "region_id":85688589,
+            "venue_id":823382983
+        }
+    ],
+    "wof:id":823382983,
+    "wof:lastmodified":1463431773,
+    "wof:name":"Handimart",
+    "wof:parent_id":85868331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -81.353858,
+    38.794226,
+    -81.353858,
+    38.794226
+],
+  "geometry": {"coordinates":[-81.353858,38.794226],"type":"Point"}
+}

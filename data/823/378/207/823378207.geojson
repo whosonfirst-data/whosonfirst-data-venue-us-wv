@@ -1,0 +1,71 @@
+{
+  "id": 823378207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.530027,38.319842,-81.530027,38.319842",
+    "geom:latitude":38.319842,
+    "geom:longitude":-81.530027,
+    "iso:country":"US",
+    "sg:address":"3445 Younger Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 965 9624",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "sawmill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZxCzXUvFdRSELoYbMTwtJ_38.319842_-81.530027@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431566,
+    "wof:geomhash":"7bfc97d67618912dd0e84c3fee8e2a87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823378207
+        }
+    ],
+    "wof:id":823378207,
+    "wof:lastmodified":1463431566,
+    "wof:name":"Downey Land & Lumber",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sawmill"
+    ]
+},
+  "bbox": [
+    -81.530027,
+    38.319842,
+    -81.530027,
+    38.319842
+],
+  "geometry": {"coordinates":[-81.530027,38.319842],"type":"Point"}
+}

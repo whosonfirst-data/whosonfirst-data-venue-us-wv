@@ -1,0 +1,73 @@
+{
+  "id": 823389825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.69647,38.368364,-81.69647,38.368364",
+    "geom:latitude":38.368364,
+    "geom:longitude":-81.69647,
+    "iso:country":"US",
+    "sg:address":"625 D St",
+    "sg:city":"South Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 2648",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cleaners",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zEVRPhJT4x7Fm8zCdzcZy_38.368364_-81.696470@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432066,
+    "wof:geomhash":"33ee1170be7d3225565e76b9c0783979",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823389825
+        }
+    ],
+    "wof:id":823389825,
+    "wof:lastmodified":1463432066,
+    "wof:name":"Kirby Co Of South Charleston",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "vacuum"
+    ]
+},
+  "bbox": [
+    -81.69647,
+    38.368364,
+    -81.69647,
+    38.368364
+],
+  "geometry": {"coordinates":[-81.69647000000001,38.368364],"type":"Point"}
+}

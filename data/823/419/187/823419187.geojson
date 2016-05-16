@@ -1,0 +1,73 @@
+{
+  "id": 823419187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.601573,40.389087,-80.601573,40.389087",
+    "geom:latitude":40.389087,
+    "geom:longitude":-80.601573,
+    "iso:country":"US",
+    "sg:address":"4241 Freedom Way",
+    "sg:city":"Weirton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 797 7023",
+    "sg:postcode":"26062",
+    "sg:province":"WV",
+    "sg:tags":[
+        "plastic",
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731371,
+        102082633,
+        85832497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CeLtPCqd6JNoA8jk2eqQS_40.389087_-80.601573@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433433,
+    "wof:geomhash":"ce9f1de92c7b3ffdb19d2ac00e2341d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731371,
+            "neighbourhood_id":85832497,
+            "region_id":85688589,
+            "venue_id":823419187
+        }
+    ],
+    "wof:id":823419187,
+    "wof:lastmodified":1463433433,
+    "wof:name":"Plastic Welding Technologies",
+    "wof:parent_id":85832497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plastic",
+        "welding"
+    ]
+},
+  "bbox": [
+    -80.601573,
+    40.389087,
+    -80.601573,
+    40.389087
+],
+  "geometry": {"coordinates":[-80.601573,40.389087],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 823453293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.541387,39.226248,-81.541387,39.226248",
+    "geom:latitude":39.226248,
+    "geom:longitude":-81.541387,
+    "iso:country":"US",
+    "sg:address":"2832 Pike St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/tygart/139318-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 489 9595",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2v0UBukM3DZbeZvhxWKfzu_39.226248_-81.541387@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434941,
+    "wof:geomhash":"04b38853ff62ba058626d55319121fa3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823453293
+        }
+    ],
+    "wof:id":823453293,
+    "wof:lastmodified":1463434941,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -81.541387,
+    39.226248,
+    -81.541387,
+    39.226248
+],
+  "geometry": {"coordinates":[-81.541387,39.226248],"type":"Point"}
+}

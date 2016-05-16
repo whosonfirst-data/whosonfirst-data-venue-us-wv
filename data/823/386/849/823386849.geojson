@@ -1,0 +1,69 @@
+{
+  "id": 823386849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.054339,39.500128,-78.054339,39.500128",
+    "geom:latitude":39.500128,
+    "geom:longitude":-78.054339,
+    "iso:country":"US",
+    "sg:address":"64 Boy Scout Rd",
+    "sg:city":"Hedgesville",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 754 3849",
+    "sg:postcode":"25427",
+    "sg:province":"WV",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85846047,
+        102083367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VNPLjdoR32IKKx1Q5a2ux_39.500128_-78.054339@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431920,
+    "wof:geomhash":"172b75f16ed99da6f9bd577c574ef5dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "neighbourhood_id":85846047,
+            "region_id":85688589,
+            "venue_id":823386849
+        }
+    ],
+    "wof:id":823386849,
+    "wof:lastmodified":1463431920,
+    "wof:name":"Salvation Army Camp Tomahawk",
+    "wof:parent_id":85846047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -78.054339,
+    39.500128,
+    -78.054339,
+    39.500128
+],
+  "geometry": {"coordinates":[-78.054339,39.500128],"type":"Point"}
+}

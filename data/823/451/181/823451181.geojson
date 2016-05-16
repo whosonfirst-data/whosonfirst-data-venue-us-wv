@@ -1,0 +1,75 @@
+{
+  "id": 823451181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.189784,37.777164,-81.189784,37.777164",
+    "geom:latitude":37.777164,
+    "geom:longitude":-81.189784,
+    "iso:country":"US",
+    "sg:address":"204 Main St",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 252 2179",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_453ykzHDNCzhxMVZw9XXiV_37.777164_-81.189784@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434859,
+    "wof:geomhash":"4b860ec06f58ebff14ca700b4d06e995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823451181
+        }
+    ],
+    "wof:id":823451181,
+    "wof:lastmodified":1463434859,
+    "wof:name":"Mountaineer Dry Cleaners",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -81.189784,
+    37.777164,
+    -81.189784,
+    37.777164
+],
+  "geometry": {"coordinates":[-81.189784,37.777164],"type":"Point"}
+}

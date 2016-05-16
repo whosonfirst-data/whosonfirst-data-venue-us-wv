@@ -1,0 +1,73 @@
+{
+  "id": 823393709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.845589,38.924982,-79.845589,38.924982",
+    "geom:latitude":38.924982,
+    "geom:longitude":-79.845589,
+    "iso:country":"US",
+    "sg:address":"203 Randolph Ave",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 637 8808",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35AmRw2gMu6DiDnte5Lbsj_38.924982_-79.845589@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432261,
+    "wof:geomhash":"17d2e72ce2be6a02bd177a34bba27e6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823393709
+        }
+    ],
+    "wof:id":823393709,
+    "wof:lastmodified":1463432261,
+    "wof:name":"Community Response Foundation",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -79.845589,
+    38.924982,
+    -79.845589,
+    38.924982
+],
+  "geometry": {"coordinates":[-79.845589,38.924982],"type":"Point"}
+}

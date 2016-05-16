@@ -1,0 +1,77 @@
+{
+  "id": 823410977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.693003,38.363968,-81.693003,38.363968",
+    "geom:latitude":38.363968,
+    "geom:longitude":-81.693003,
+    "iso:country":"US",
+    "sg:address":"120 D St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 6735",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "parlor",
+        "eating",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VZV8vmief7bpvD1kp06qj_38.363968_-81.693003@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433065,
+    "wof:geomhash":"73548be1b0a342632b1707ca5e87ab0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823410977
+        }
+    ],
+    "wof:id":823410977,
+    "wof:lastmodified":1463433065,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor",
+        "eating",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -81.693003,
+    38.363968,
+    -81.693003,
+    38.363968
+],
+  "geometry": {"coordinates":[-81.693003,38.363968],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823406845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.114285,37.362082,-81.114285,37.362082",
+    "geom:latitude":37.362082,
+    "geom:longitude":-81.114285,
+    "iso:country":"US",
+    "sg:address":"205 12th St Exd",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 0120",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62ODlja7j302ufe5PnaFLJ_37.362082_-81.114285@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432897,
+    "wof:geomhash":"a95074220f1cbe865a1feb3a15193209",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823406845
+        }
+    ],
+    "wof:id":823406845,
+    "wof:lastmodified":1463432897,
+    "wof:name":"Mercer Asthma & Allergy Ctr",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.114285,
+    37.362082,
+    -81.114285,
+    37.362082
+],
+  "geometry": {"coordinates":[-81.114285,37.362082],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823399289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.955036,39.637791,-79.955036,39.637791",
+    "geom:latitude":39.637791,
+    "geom:longitude":-79.955036,
+    "iso:country":"US",
+    "sg:address":"2005 University Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 284 8477",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jYSDQmcP2HVQiGWGFX4DR_39.637791_-79.955036@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432553,
+    "wof:geomhash":"df53d1e789188cdd2b76735061102067",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851489,
+            "region_id":85688589,
+            "venue_id":823399289
+        }
+    ],
+    "wof:id":823399289,
+    "wof:lastmodified":1463432553,
+    "wof:name":"Rusted Musket",
+    "wof:parent_id":85851489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -79.955036,
+    39.637791,
+    -79.955036,
+    39.637791
+],
+  "geometry": {"coordinates":[-79.95503600000001,39.637791],"type":"Point"}
+}

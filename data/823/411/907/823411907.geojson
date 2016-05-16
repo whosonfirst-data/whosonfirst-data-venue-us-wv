@@ -1,0 +1,73 @@
+{
+  "id": 823411907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.204412,37.790615,-81.204412,37.790615",
+    "geom:latitude":37.790615,
+    "geom:longitude":-81.204412,
+    "iso:country":"US",
+    "sg:address":"211 Sunset Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 255 4522",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cOs0vYoFEGRsvxSf23ujw_37.790615_-81.204412@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433100,
+    "wof:geomhash":"5e38b6dbe7fe1f088b62e25985ae2ef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823411907
+        }
+    ],
+    "wof:id":823411907,
+    "wof:lastmodified":1463433100,
+    "wof:name":"Eye & Ear Clinic of Charleston",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -81.204412,
+    37.790615,
+    -81.204412,
+    37.790615
+],
+  "geometry": {"coordinates":[-81.204412,37.790615],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823374461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.96621,39.45766,-77.96621,39.45766",
+    "geom:latitude":39.45766,
+    "geom:longitude":-77.96621,
+    "iso:country":"US",
+    "sg:address":"125 S Maple Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 267 2981",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "record",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kMb9mmSfjQHwpWFMOYQRY_39.457660_-77.966210@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431378,
+    "wof:geomhash":"fbd04b976b5209e157e6770cfd04b940",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823374461
+        }
+    ],
+    "wof:id":823374461,
+    "wof:lastmodified":1463431378,
+    "wof:name":"FAA Records Center",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "record",
+        "center"
+    ]
+},
+  "bbox": [
+    -77.96621,
+    39.45766,
+    -77.96621,
+    39.45766
+],
+  "geometry": {"coordinates":[-77.96621,39.45766],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 823452177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.97695,39.446928,-77.97695,39.446928",
+    "geom:latitude":39.446928,
+    "geom:longitude":-77.97695,
+    "iso:country":"US",
+    "sg:address":"849 Wilson St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 1560",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_711gUGnvKvckFfhHW6emls_39.446852_-77.977011@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463434897,
+    "wof:geomhash":"4c0e9c3ad6a8a43d6354bc9a2675fa4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823452177
+        }
+    ],
+    "wof:id":823452177,
+    "wof:lastmodified":1463434897,
+    "wof:name":"D & L Pet Supply & Grooming",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "supply"
+    ]
+},
+  "bbox": [
+    -77.97695,
+    39.446928,
+    -77.97695,
+    39.446928
+],
+  "geometry": {"coordinates":[-77.97695,39.446928],"type":"Point"}
+}

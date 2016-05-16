@@ -1,0 +1,71 @@
+{
+  "id": 823407343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.874026,37.743799,-81.874026,37.743799",
+    "geom:latitude":37.743799,
+    "geom:longitude":-81.874026,
+    "iso:country":"US",
+    "sg:address":"109 Main St",
+    "sg:city":"Man",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 583 9983",
+    "sg:postcode":"25635",
+    "sg:province":"WV",
+    "sg:tags":[
+        "recording",
+        "studio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868319,
+        102083369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Y8QFaEfDPMaOwv43G7vkr_37.743799_-81.874026@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432915,
+    "wof:geomhash":"979c820cfcf3163b0c1cd580f240e2a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083369,
+            "neighbourhood_id":85868319,
+            "region_id":85688589,
+            "venue_id":823407343
+        }
+    ],
+    "wof:id":823407343,
+    "wof:lastmodified":1463432915,
+    "wof:name":"Promise Recording Studio",
+    "wof:parent_id":85868319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recording",
+        "studio"
+    ]
+},
+  "bbox": [
+    -81.874026,
+    37.743799,
+    -81.874026,
+    37.743799
+],
+  "geometry": {"coordinates":[-81.874026,37.743799],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 823441129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.683261,38.357921,-81.683261,38.357921",
+    "geom:latitude":38.357921,
+    "geom:longitude":-81.683261,
+    "iso:country":"US",
+    "sg:address":"1721 Massey Cir",
+    "sg:city":"South Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 5003",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "convention",
+        "court",
+        "reporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aNBAFk6Or4iWOjhoHUguV_38.357921_-81.683261@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434411,
+    "wof:geomhash":"65218d247d49a36d6b116d8b239682e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823441129
+        }
+    ],
+    "wof:id":823441129,
+    "wof:lastmodified":1463434411,
+    "wof:name":"Court Reporter",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convention",
+        "court",
+        "reporter"
+    ]
+},
+  "bbox": [
+    -81.683261,
+    38.357921,
+    -81.683261,
+    38.357921
+],
+  "geometry": {"coordinates":[-81.683261,38.357921],"type":"Point"}
+}

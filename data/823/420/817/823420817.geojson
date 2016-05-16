@@ -1,0 +1,73 @@
+{
+  "id": 823420817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.764536,38.294768,-81.764536,38.294768",
+    "geom:latitude":38.294768,
+    "geom:longitude":-81.764536,
+    "iso:country":"US",
+    "sg:address":"3 Childress Farm Rd",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 5678",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yqGwcWgfUjkMiaIz3h2jJ_38.294768_-81.764536@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433498,
+    "wof:geomhash":"bc06584f5e0a32be62d4f61563591f4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823420817
+        }
+    ],
+    "wof:id":823420817,
+    "wof:lastmodified":1463433498,
+    "wof:name":"Zack Childress",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -81.764536,
+    38.294768,
+    -81.764536,
+    38.294768
+],
+  "geometry": {"coordinates":[-81.76453600000001,38.294768],"type":"Point"}
+}

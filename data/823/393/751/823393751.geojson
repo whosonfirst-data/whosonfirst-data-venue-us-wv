@@ -1,0 +1,71 @@
+{
+  "id": 823393751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.2774,39.300081,-80.2774,39.300081",
+    "geom:latitude":39.300081,
+    "geom:longitude":-80.2774,
+    "iso:country":"US",
+    "sg:address":"1221 Johnson Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 1976",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "financing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85831189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jFbKAJtEnsTznJbmDh7R2_39.300081_-80.277400@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432263,
+    "wof:geomhash":"e08e85cf7a8a4bd2af4a48ca39833285",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85831189,
+            "region_id":85688589,
+            "venue_id":823393751
+        }
+    ],
+    "wof:id":823393751,
+    "wof:lastmodified":1463432263,
+    "wof:name":"Wells Fargo Financial Accptnce",
+    "wof:parent_id":85831189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "financing"
+    ]
+},
+  "bbox": [
+    -80.2774,
+    39.300081,
+    -80.2774,
+    39.300081
+],
+  "geometry": {"coordinates":[-80.2774,39.300081],"type":"Point"}
+}

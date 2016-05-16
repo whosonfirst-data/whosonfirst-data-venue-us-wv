@@ -1,0 +1,73 @@
+{
+  "id": 823421109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.695928,38.366791,-81.695928,38.366791",
+    "geom:latitude":38.366791,
+    "geom:longitude":-81.695928,
+    "iso:country":"US",
+    "sg:address":"205 5th Ave SW",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 6196",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "loan",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Avl53wftIV5pGoyUNLw5z_38.366791_-81.695928@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433510,
+    "wof:geomhash":"4c4fbbbec16e1f87175420c369d523fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823421109
+        }
+    ],
+    "wof:id":823421109,
+    "wof:lastmodified":1463433510,
+    "wof:name":"Montros Enterprises",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "broker"
+    ]
+},
+  "bbox": [
+    -81.695928,
+    38.366791,
+    -81.695928,
+    38.366791
+],
+  "geometry": {"coordinates":[-81.69592799999999,38.366791],"type":"Point"}
+}

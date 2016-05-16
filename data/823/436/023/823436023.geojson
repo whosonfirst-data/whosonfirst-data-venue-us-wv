@@ -1,0 +1,68 @@
+{
+  "id": 823436023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.956302,39.632257,-79.956302,39.632257",
+    "geom:latitude":39.632257,
+    "geom:longitude":-79.956302,
+    "iso:country":"US",
+    "sg:address":"1431 University Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 0944",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77UNTswHb47EcbbjtptzM9_39.632257_-79.956302@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434176,
+    "wof:geomhash":"9dad46a325371d9f9da3e5fe8b3ba325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851489,
+            "region_id":85688589,
+            "venue_id":823436023
+        }
+    ],
+    "wof:id":823436023,
+    "wof:lastmodified":1463434176,
+    "wof:name":"Pressley Ridge Northern W VA",
+    "wof:parent_id":85851489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.956302,
+    39.632257,
+    -79.956302,
+    39.632257
+],
+  "geometry": {"coordinates":[-79.95630199999999,39.632257],"type":"Point"}
+}

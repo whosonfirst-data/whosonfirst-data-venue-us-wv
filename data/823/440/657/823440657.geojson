@@ -1,0 +1,76 @@
+{
+  "id": 823440657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.689314,38.37735,-81.689314,38.37735",
+    "geom:latitude":38.37735,
+    "geom:longitude":-81.689314,
+    "iso:country":"US",
+    "sg:address":"3519 7th Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 746 6201",
+    "sg:postcode":"25312",
+    "sg:province":"WV",
+    "sg:tags":[
+        "distance",
+        "long",
+        "trucking"
+    ],
+    "sg:website":"www.odfl.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Tv3qmgO8YBSbEWYrmA8eE_38.377350_-81.689314@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434394,
+    "wof:geomhash":"e8ebd3ae258e5c6049690341436d299c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823440657
+        }
+    ],
+    "wof:id":823440657,
+    "wof:lastmodified":1463434394,
+    "wof:name":"Old Dominion Freight Line Inc",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distance",
+        "long",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -81.689314,
+    38.37735,
+    -81.689314,
+    38.37735
+],
+  "geometry": {"coordinates":[-81.689314,38.37735],"type":"Point"}
+}

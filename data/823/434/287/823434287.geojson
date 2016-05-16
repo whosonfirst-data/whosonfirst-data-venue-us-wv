@@ -1,0 +1,71 @@
+{
+  "id": 823434287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.563995,38.286893,-81.563995,38.286893",
+    "geom:latitude":38.286893,
+    "geom:longitude":-81.563995,
+    "iso:country":"US",
+    "sg:address":"5003 Church Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 926 6303",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Wb6k85egddckBt19bt88R_38.286893_-81.563995@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434086,
+    "wof:geomhash":"91d5403f3394f8579005f0d0a35a6637",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823434287
+        }
+    ],
+    "wof:id":823434287,
+    "wof:lastmodified":1463434086,
+    "wof:name":"Herman L James",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -81.563995,
+    38.286893,
+    -81.563995,
+    38.286893
+],
+  "geometry": {"coordinates":[-81.56399500000001,38.286893],"type":"Point"}
+}

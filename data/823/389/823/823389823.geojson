@@ -1,0 +1,77 @@
+{
+  "id": 823389823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.636522,38.348997,-81.636522,38.348997",
+    "geom:latitude":38.348997,
+    "geom:longitude":-81.636522,
+    "iso:country":"US",
+    "sg:address":"3 Capitol St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 558 1245",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "administrative",
+        "program",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1T79nF8tkWBPBEQdiLWip8_38.348997_-81.636522@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432066,
+    "wof:geomhash":"3707c84b8e1c0b5559a02ea780460392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823389823
+        }
+    ],
+    "wof:id":823389823,
+    "wof:lastmodified":1463432066,
+    "wof:name":"Office of Communications",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "administrative",
+        "program",
+        "health"
+    ]
+},
+  "bbox": [
+    -81.636522,
+    38.348997,
+    -81.636522,
+    38.348997
+],
+  "geometry": {"coordinates":[-81.636522,38.348997],"type":"Point"}
+}

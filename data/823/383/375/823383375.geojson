@@ -1,0 +1,71 @@
+{
+  "id": 823383375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.445313,37.801726,-80.445313,37.801726",
+    "geom:latitude":37.801726,
+    "geom:longitude":-80.445313,
+    "iso:country":"US",
+    "sg:address":"106 E Washington St",
+    "sg:city":"Lewisburg",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 645 7674",
+    "sg:postcode":"24901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "forester"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1513hg7N7blAo8cSrXfLhO_37.801726_-80.445313@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431787,
+    "wof:geomhash":"992686c1733d5b56c44dca28c3f8e287",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823383375
+        }
+    ],
+    "wof:id":823383375,
+    "wof:lastmodified":1463431787,
+    "wof:name":"Mountain State Land & Timber",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forester"
+    ]
+},
+  "bbox": [
+    -80.445313,
+    37.801726,
+    -80.445313,
+    37.801726
+],
+  "geometry": {"coordinates":[-80.445313,37.801726],"type":"Point"}
+}

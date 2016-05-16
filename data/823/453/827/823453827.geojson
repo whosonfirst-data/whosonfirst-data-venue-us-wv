@@ -1,0 +1,74 @@
+{
+  "id": 823453827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.183147,39.421942,-80.183147,39.421942",
+    "geom:latitude":39.421942,
+    "geom:longitude":-80.183147,
+    "iso:country":"US",
+    "sg:address":"2502 Fairmont Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/palatine/155270-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 7582",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85834381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bdMdXgHubBc5AwqGElotm_39.421942_-80.183147@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434964,
+    "wof:geomhash":"e399838cb016edf050c0b1475a1fbd07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85834381,
+            "region_id":85688589,
+            "venue_id":823453827
+        }
+    ],
+    "wof:id":823453827,
+    "wof:lastmodified":1463434964,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85834381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -80.183147,
+    39.421942,
+    -80.183147,
+    39.421942
+],
+  "geometry": {"coordinates":[-80.18314700000001,39.421942],"type":"Point"}
+}

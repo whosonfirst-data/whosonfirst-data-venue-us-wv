@@ -1,0 +1,71 @@
+{
+  "id": 823385149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.104965,38.057075,-81.104965,38.057075",
+    "geom:latitude":38.057075,
+    "geom:longitude":-81.104965,
+    "iso:country":"US",
+    "sg:address":"312 N Court St",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 574 0576",
+    "sg:postcode":"25840",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57T8QBPqjLleQtcuA6OKs2_38.057075_-81.104965@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431855,
+    "wof:geomhash":"48e7d9f4fd83613d6d2870974370b76a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823385149
+        }
+    ],
+    "wof:id":823385149,
+    "wof:lastmodified":1463431855,
+    "wof:name":"Godfather's Pizza",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -81.104965,
+    38.057075,
+    -81.104965,
+    38.057075
+],
+  "geometry": {"coordinates":[-81.10496500000001,38.057075],"type":"Point"}
+}

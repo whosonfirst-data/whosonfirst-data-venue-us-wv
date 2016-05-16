@@ -1,0 +1,71 @@
+{
+  "id": 823447073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.965488,39.657806,-79.965488,39.657806",
+    "geom:latitude":39.657806,
+    "geom:longitude":-79.965488,
+    "iso:country":"US",
+    "sg:address":"613 Burroughs St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 5840",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "consulting",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GkuQTaI9GVsV7oBGUCG7M_39.657806_-79.965488@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434696,
+    "wof:geomhash":"706e198a3ae454b2abe58b48a8b3364b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823447073
+        }
+    ],
+    "wof:id":823447073,
+    "wof:lastmodified":1463434696,
+    "wof:name":"Kiss Engineering Corporation",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -79.965488,
+    39.657806,
+    -79.965488,
+    39.657806
+],
+  "geometry": {"coordinates":[-79.96548799999999,39.657806],"type":"Point"}
+}

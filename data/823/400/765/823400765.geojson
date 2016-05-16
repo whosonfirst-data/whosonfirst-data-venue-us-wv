@@ -1,0 +1,73 @@
+{
+  "id": 823400765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.160182,39.444509,-80.160182,39.444509",
+    "geom:latitude":39.444509,
+    "geom:longitude":-80.160182,
+    "iso:country":"US",
+    "sg:address":"1924 Pleasant Valley Rd",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 333 2040",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85834381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0I4XulInIUatZG6R0nUv6V_39.444509_-80.160182@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432621,
+    "wof:geomhash":"875fa7543aabf412420a0eb7c0790b8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85834381,
+            "region_id":85688589,
+            "venue_id":823400765
+        }
+    ],
+    "wof:id":823400765,
+    "wof:lastmodified":1463432621,
+    "wof:name":"Exemplar Medical Group",
+    "wof:parent_id":85834381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -80.160182,
+    39.444509,
+    -80.160182,
+    39.444509
+],
+  "geometry": {"coordinates":[-80.16018200000001,39.444509],"type":"Point"}
+}

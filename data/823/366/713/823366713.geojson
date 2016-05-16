@@ -1,0 +1,69 @@
+{
+  "id": 823366713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.353619,39.268667,-80.353619,39.268667",
+    "geom:latitude":39.268667,
+    "geom:longitude":-80.353619,
+    "iso:country":"US",
+    "sg:address":"1001 S Chestnut St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 623 3711",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85810773,
+        102082619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KT7wrp0IVjFJwKVLz7xYv_39.268667_-80.353619@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431046,
+    "wof:geomhash":"2d3e5a4cbdbbf032bd46ddfd51e88fd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "neighbourhood_id":85810773,
+            "region_id":85688589,
+            "venue_id":823366713
+        }
+    ],
+    "wof:id":823366713,
+    "wof:lastmodified":1463431046,
+    "wof:name":"Clarksburg Water Board",
+    "wof:parent_id":85810773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -80.353619,
+    39.268667,
+    -80.353619,
+    39.268667
+],
+  "geometry": {"coordinates":[-80.35361899999999,39.268667],"type":"Point"}
+}

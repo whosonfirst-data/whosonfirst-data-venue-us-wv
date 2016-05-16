@@ -1,0 +1,71 @@
+{
+  "id": 823413883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.569535,38.39863,-82.569535,38.39863",
+    "geom:latitude":38.39863,
+    "geom:longitude":-82.569535,
+    "iso:country":"US",
+    "sg:address":"802 Oak St",
+    "sg:city":"Kenova",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 1657",
+    "sg:postcode":"25530",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731517,
+        102083365,
+        85806071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49jVZ5w8FE61ekjXBWdlqC_38.398630_-82.569535@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433179,
+    "wof:geomhash":"98ec30fe151a2cbc2a0f20952cec31cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731517,
+            "neighbourhood_id":85806071,
+            "region_id":85688589,
+            "venue_id":823413883
+        }
+    ],
+    "wof:id":823413883,
+    "wof:lastmodified":1463433179,
+    "wof:name":"Heck's Dry Cleaners & Laundry",
+    "wof:parent_id":85806071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -82.569535,
+    38.39863,
+    -82.569535,
+    38.39863
+],
+  "geometry": {"coordinates":[-82.569535,38.39863],"type":"Point"}
+}

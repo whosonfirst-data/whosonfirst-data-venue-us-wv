@@ -1,0 +1,77 @@
+{
+  "id": 823457101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.101761,39.582181,-80.101761,39.582181",
+    "geom:latitude":39.582181,
+    "geom:longitude":-80.101761,
+    "iso:country":"US",
+    "sg:address":"216 Ivy St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 278 5287",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "system",
+        "specialty",
+        "heating",
+        "contractor",
+        "air conditioning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818601,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xsV3t1VtGUcn3SzYvzpfo_39.582181_-80.101761@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435145,
+    "wof:geomhash":"61ea30e7db2aba3a7cba82784e1474df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85818601,
+            "region_id":85688589,
+            "venue_id":823457101
+        }
+    ],
+    "wof:id":823457101,
+    "wof:lastmodified":1463435145,
+    "wof:name":"Crown Heating And Cooling",
+    "wof:parent_id":85818601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system",
+        "specialty",
+        "heating",
+        "contractor",
+        "air conditioning"
+    ]
+},
+  "bbox": [
+    -80.101761,
+    39.582181,
+    -80.101761,
+    39.582181
+],
+  "geometry": {"coordinates":[-80.101761,39.582181],"type":"Point"}
+}

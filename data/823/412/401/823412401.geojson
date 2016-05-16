@@ -1,0 +1,75 @@
+{
+  "id": 823412401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.961349,39.633686,-79.961349,39.633686",
+    "geom:latitude":39.633686,
+    "geom:longitude":-79.961349,
+    "iso:country":"US",
+    "sg:address":"1 Holland Ave",
+    "sg:city":"Westover",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 3119",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5G2SsscpXkPEXwlIXn7CHO_39.633686_-79.961349@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433118,
+    "wof:geomhash":"46cf2542494d43d1fe59f8dd4617760f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851489,
+            "region_id":85688589,
+            "venue_id":823412401
+        }
+    ],
+    "wof:id":823412401,
+    "wof:lastmodified":1463433118,
+    "wof:name":"Northern WV Performing Arts",
+    "wof:parent_id":85851489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -79.961349,
+    39.633686,
+    -79.961349,
+    39.633686
+],
+  "geometry": {"coordinates":[-79.961349,39.633686],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823406893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.741889,38.353788,-81.741889,38.353788",
+    "geom:latitude":38.353788,
+    "geom:longitude":-81.741889,
+    "iso:country":"US",
+    "sg:address":"5330 Maccorkle Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 766 0093",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZsKT33R17GNyMoDyX6u72_38.353788_-81.741889@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432899,
+    "wof:geomhash":"37872eb856ca58bd388f54bbe9ce566b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823406893
+        }
+    ],
+    "wof:id":823406893,
+    "wof:lastmodified":1463432899,
+    "wof:name":"Pet Persuasion",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.741889,
+    38.353788,
+    -81.741889,
+    38.353788
+],
+  "geometry": {"coordinates":[-81.741889,38.353788],"type":"Point"}
+}

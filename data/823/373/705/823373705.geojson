@@ -1,0 +1,71 @@
+{
+  "id": 823373705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.973691,39.446359,-77.973691,39.446359",
+    "geom:latitude":39.446359,
+    "geom:longitude":-77.973691,
+    "iso:country":"US",
+    "sg:address":"528 Wilson St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 267 8581",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iyaK3bJavzoFUbbxvE1Cg_39.446359_-77.973691@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431348,
+    "wof:geomhash":"3dcdf80821f8b42da3d679970590a600",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823373705
+        }
+    ],
+    "wof:id":823373705,
+    "wof:lastmodified":1463431348,
+    "wof:name":"Dales Plumbing",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -77.973691,
+    39.446359,
+    -77.973691,
+    39.446359
+],
+  "geometry": {"coordinates":[-77.973691,39.446359],"type":"Point"}
+}

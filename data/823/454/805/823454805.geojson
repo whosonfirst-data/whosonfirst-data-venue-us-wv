@@ -1,0 +1,86 @@
+{
+  "id": 823454805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.982138,39.460752,-77.982138,39.460752",
+    "geom:latitude":39.460752,
+    "geom:longitude":-77.982138,
+    "iso:country":"US",
+    "sg:address":"215 S Louisiana Ave Ste C",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Podiatrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 3335",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "surgeons",
+        "osteopathic"
+    ],
+    "sg:website":"http://www.shenandoahspa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85846047,
+        102083367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4urQSF75qUG0zGnM3VDel1_39.460752_-77.982138@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435052,
+    "wof:geomhash":"a75c1c407c2f64403d7b30da3bd8b11c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "neighbourhood_id":85846047,
+            "region_id":85688589,
+            "venue_id":823454805
+        }
+    ],
+    "wof:id":823454805,
+    "wof:lastmodified":1463435052,
+    "wof:name":"Shenandoah Preventive Medicine",
+    "wof:parent_id":85846047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "surgeons",
+        "osteopathic"
+    ]
+},
+  "bbox": [
+    -77.982138,
+    39.460752,
+    -77.982138,
+    39.460752
+],
+  "geometry": {"coordinates":[-77.98213800000001,39.460752],"type":"Point"}
+}

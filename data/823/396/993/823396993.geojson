@@ -1,0 +1,73 @@
+{
+  "id": 823396993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.944733,39.623432,-79.944733,39.623432",
+    "geom:latitude":39.623432,
+    "geom:longitude":-79.944733,
+    "iso:country":"US",
+    "sg:address":"41 Wade St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 7056",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85858573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZBvYL7OXFB6U6bNxvednF_39.623432_-79.944733@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432431,
+    "wof:geomhash":"2fcc42eb50a2551ca6293b392c2ab928",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85858573,
+            "region_id":85688589,
+            "venue_id":823396993
+        }
+    ],
+    "wof:id":823396993,
+    "wof:lastmodified":1463432431,
+    "wof:name":"Tech's On Call",
+    "wof:parent_id":85858573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -79.944733,
+    39.623432,
+    -79.944733,
+    39.623432
+],
+  "geometry": {"coordinates":[-79.944733,39.623432],"type":"Point"}
+}

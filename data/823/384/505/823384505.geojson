@@ -1,0 +1,75 @@
+{
+  "id": 823384505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.634019,38.345868,-81.634019,38.345868",
+    "geom:latitude":38.345868,
+    "geom:longitude":-81.634019,
+    "iso:country":"US",
+    "sg:address":"1120 Kanawha Blvd E",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 344 3457",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XHNbIsstJNXgOXn0hZYGe_38.345868_-81.634019@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431828,
+    "wof:geomhash":"2469589369f5b86475dc642370b10448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823384505
+        }
+    ],
+    "wof:id":823384505,
+    "wof:lastmodified":1463431828,
+    "wof:name":"Associated Radiologists Inc",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.634019,
+    38.345868,
+    -81.634019,
+    38.345868
+],
+  "geometry": {"coordinates":[-81.634019,38.345868],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 823422487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.040343,39.145009,-80.040343,39.145009",
+    "geom:latitude":39.145009,
+    "geom:longitude":-80.040343,
+    "iso:country":"US",
+    "sg:address":"406 Chestnut St",
+    "sg:city":"Philippi",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 457 2181",
+    "sg:postcode":"26416",
+    "sg:province":"WV",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qZPPDS6SjupHr01xBwgKi_39.145009_-80.040343@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433559,
+    "wof:geomhash":"d52527a495dee86f8269d8fd4c9ccd6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823422487
+        }
+    ],
+    "wof:id":823422487,
+    "wof:lastmodified":1463433559,
+    "wof:name":"North Central Head Start",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -80.040343,
+    39.145009,
+    -80.040343,
+    39.145009
+],
+  "geometry": {"coordinates":[-80.04034299999999,39.145009],"type":"Point"}
+}

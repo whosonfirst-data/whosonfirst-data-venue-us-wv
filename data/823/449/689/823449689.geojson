@@ -1,0 +1,66 @@
+{
+  "id": 823449689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.59197,38.327182,-81.59197,38.327182",
+    "geom:latitude":38.327182,
+    "geom:longitude":-81.59197,
+    "iso:country":"US",
+    "sg:address":"3815 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 3945",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5z3RMlF7jGQE5LUAsgTUkv_38.327182_-81.591970@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434805,
+    "wof:geomhash":"30dec0ff6e458896db50e1b557d046d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823449689
+        }
+    ],
+    "wof:id":823449689,
+    "wof:lastmodified":1463434805,
+    "wof:name":"Pennz Mart",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.59197,
+    38.327182,
+    -81.59197,
+    38.327182
+],
+  "geometry": {"coordinates":[-81.59197,38.327182],"type":"Point"}
+}

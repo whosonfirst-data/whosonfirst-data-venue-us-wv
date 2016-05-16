@@ -1,0 +1,75 @@
+{
+  "id": 823415479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.181288,37.802514,-81.181288,37.802514",
+    "geom:latitude":37.802514,
+    "geom:longitude":-81.181288,
+    "iso:country":"US",
+    "sg:address":"1338 N Eisenhower Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 255 0387",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51XTmkhWVQAZB3JPw9D5Ye_37.802514_-81.181288@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433257,
+    "wof:geomhash":"dd2873ae94035165c7fcb8296fdf24e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823415479
+        }
+    ],
+    "wof:id":823415479,
+    "wof:lastmodified":1463433257,
+    "wof:name":"Optima 1324",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -81.181288,
+    37.802514,
+    -81.181288,
+    37.802514
+],
+  "geometry": {"coordinates":[-81.181288,37.802514],"type":"Point"}
+}

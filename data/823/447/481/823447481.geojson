@@ -1,0 +1,71 @@
+{
+  "id": 823447481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.865709,39.643837,-80.865709,39.643837",
+    "geom:latitude":39.643837,
+    "geom:longitude":-80.865709,
+    "iso:country":"US",
+    "sg:address":"426 Ohio St",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 2049",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "ticket"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vmmHvjm2pHBtY2n6iumsj_39.643837_-80.865709@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434711,
+    "wof:geomhash":"e68f4e2c940c555166847dd5c82b20ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823447481
+        }
+    ],
+    "wof:id":823447481,
+    "wof:lastmodified":1463434711,
+    "wof:name":"American Performance Racing",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ticket"
+    ]
+},
+  "bbox": [
+    -80.865709,
+    39.643837,
+    -80.865709,
+    39.643837
+],
+  "geometry": {"coordinates":[-80.865709,39.643837],"type":"Point"}
+}

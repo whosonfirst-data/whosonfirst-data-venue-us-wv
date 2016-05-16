@@ -1,0 +1,68 @@
+{
+  "id": 823423735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.971231,39.668656,-79.971231,39.668656",
+    "geom:latitude":39.668656,
+    "geom:longitude":-79.971231,
+    "iso:country":"US",
+    "sg:address":"211 Morgan Dr",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 8327",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TW7aipYyphk7XdpjmNQkF_39.668656_-79.971231@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433610,
+    "wof:geomhash":"97e8570384302cb2e12456def4edb65b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851419,
+            "region_id":85688589,
+            "venue_id":823423735
+        }
+    ],
+    "wof:id":823423735,
+    "wof:lastmodified":1463433610,
+    "wof:name":"Nouvelle Therapeutics LLC",
+    "wof:parent_id":85851419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.971231,
+    39.668656,
+    -79.971231,
+    39.668656
+],
+  "geometry": {"coordinates":[-79.971231,39.668656],"type":"Point"}
+}

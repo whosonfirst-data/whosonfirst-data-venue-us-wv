@@ -1,0 +1,71 @@
+{
+  "id": 823369567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.934158,39.022554,-79.934158,39.022554",
+    "geom:latitude":39.022554,
+    "geom:longitude":-79.934158,
+    "iso:country":"US",
+    "sg:address":"532 Beverly Pike",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 6021",
+    "sg:postcode":"26250",
+    "sg:province":"WV",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jeSL3UnLtzxkthTThV5u6_39.022554_-79.934158@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431153,
+    "wof:geomhash":"07f2553fe2686a9c1502bf0bddea620e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823369567
+        }
+    ],
+    "wof:id":823369567,
+    "wof:lastmodified":1463431153,
+    "wof:name":"Sharp Jewelery",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -79.934158,
+    39.022554,
+    -79.934158,
+    39.022554
+],
+  "geometry": {"coordinates":[-79.934158,39.022554],"type":"Point"}
+}

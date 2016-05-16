@@ -1,0 +1,71 @@
+{
+  "id": 823428445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.319518,38.411939,-82.319518,38.411939",
+    "geom:latitude":38.411939,
+    "geom:longitude":-82.319518,
+    "iso:country":"US",
+    "sg:address":"3540 US Hwy 60",
+    "sg:city":"Barboursville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 733 0101",
+    "sg:postcode":"25504",
+    "sg:province":"WV",
+    "sg:tags":[
+        "optician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85865435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1neThcnKOYjQkNmoDB4L2h_38.411939_-82.319518@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433804,
+    "wof:geomhash":"847166043d08ed6ea41f512d2e849258",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85865435,
+            "region_id":85688589,
+            "venue_id":823428445
+        }
+    ],
+    "wof:id":823428445,
+    "wof:lastmodified":1463433804,
+    "wof:name":"Sturgeons Optical Inc",
+    "wof:parent_id":85865435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "optician"
+    ]
+},
+  "bbox": [
+    -82.319518,
+    38.411939,
+    -82.319518,
+    38.411939
+],
+  "geometry": {"coordinates":[-82.319518,38.411939],"type":"Point"}
+}

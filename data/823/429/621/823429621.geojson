@@ -1,0 +1,71 @@
+{
+  "id": 823429621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.540165,38.225461,-81.540165,38.225461",
+    "geom:latitude":38.225461,
+    "geom:longitude":-81.540165,
+    "iso:country":"US",
+    "sg:address":"12020 Venable Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 4670",
+    "sg:postcode":"25315",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hTrmMzEt3kPqQGQOorCjm_38.225461_-81.540165@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433870,
+    "wof:geomhash":"9df5b614717d1b74a03f44b31655c554",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823429621
+        }
+    ],
+    "wof:id":823429621,
+    "wof:lastmodified":1463433870,
+    "wof:name":"Homer Brown",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -81.540165,
+    38.225461,
+    -81.540165,
+    38.225461
+],
+  "geometry": {"coordinates":[-81.540165,38.225461],"type":"Point"}
+}

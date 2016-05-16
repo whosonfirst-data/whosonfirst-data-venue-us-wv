@@ -1,0 +1,75 @@
+{
+  "id": 823367095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.029633,38.411305,-82.029633,38.411305",
+    "geom:latitude":38.411305,
+    "geom:longitude":-82.029633,
+    "iso:country":"US",
+    "sg:address":"204 Middlecoach Dr",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 562 6484",
+    "sg:postcode":"25526",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731829,
+        102083381,
+        85868321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4B0U9LNON6uWOx026mpQbB_38.411305_-82.029633@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431061,
+    "wof:geomhash":"c03c8910912b6e3c5c9e6704fead8769",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731829,
+            "neighbourhood_id":85868321,
+            "region_id":85688589,
+            "venue_id":823367095
+        }
+    ],
+    "wof:id":823367095,
+    "wof:lastmodified":1463431061,
+    "wof:name":"Mr Brothers Trucking LLC",
+    "wof:parent_id":85868321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -82.029633,
+    38.411305,
+    -82.029633,
+    38.411305
+],
+  "geometry": {"coordinates":[-82.029633,38.411305],"type":"Point"}
+}

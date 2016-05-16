@@ -1,0 +1,72 @@
+{
+  "id": 823453563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.984698,39.630052,-79.984698,39.630052",
+    "geom:latitude":39.630052,
+    "geom:longitude":-79.984698,
+    "iso:country":"US",
+    "sg:address":"20 Commerce Dr",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/western/71730-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 2000",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818601,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JNqWI7MIUeZSOyMCywjDb_39.630052_-79.984698@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434952,
+    "wof:geomhash":"5be4ce0f4cfbf62ee6e50570d7988d79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85818601,
+            "region_id":85688589,
+            "venue_id":823453563
+        }
+    ],
+    "wof:id":823453563,
+    "wof:lastmodified":1463434952,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85818601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -79.984698,
+    39.630052,
+    -79.984698,
+    39.630052
+],
+  "geometry": {"coordinates":[-79.98469799999999,39.630052],"type":"Point"}
+}

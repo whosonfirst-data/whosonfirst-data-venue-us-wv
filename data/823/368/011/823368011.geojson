@@ -1,0 +1,66 @@
+{
+  "id": 823368011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.26865,39.281727,-80.26865,39.281727",
+    "geom:latitude":39.281727,
+    "geom:longitude":-80.26865,
+    "iso:country":"US",
+    "sg:address":"923 W Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 8664",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3t9gszPf3uYmMqqkpg0WFW_39.281727_-80.268650@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431093,
+    "wof:geomhash":"447d56d6ee71135e392a77a2cc623e1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823368011
+        }
+    ],
+    "wof:id":823368011,
+    "wof:lastmodified":1463431093,
+    "wof:name":"My Tailor Shop",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.26865,
+    39.281727,
+    -80.26865,
+    39.281727
+],
+  "geometry": {"coordinates":[-80.26864999999999,39.281727],"type":"Point"}
+}

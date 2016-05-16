@@ -1,0 +1,71 @@
+{
+  "id": 823441377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.563304,38.306118,-81.563304,38.306118",
+    "geom:latitude":38.306118,
+    "geom:longitude":-81.563304,
+    "iso:country":"US",
+    "sg:address":"6400 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 0870",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31RstWEaJJ1S7HFtJd1CcJ_38.306118_-81.563304@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434420,
+    "wof:geomhash":"07d03458d67f6532ae8b966f050e03a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823441377
+        }
+    ],
+    "wof:id":823441377,
+    "wof:lastmodified":1463434420,
+    "wof:name":"Casino Lounge",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -81.563304,
+    38.306118,
+    -81.563304,
+    38.306118
+],
+  "geometry": {"coordinates":[-81.563304,38.306118],"type":"Point"}
+}

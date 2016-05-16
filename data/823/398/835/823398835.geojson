@@ -1,0 +1,80 @@
+{
+  "id": 823398835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.803964,38.382267,-81.803964,38.382267",
+    "geom:latitude":38.382267,
+    "geom:longitude":-81.803964,
+    "iso:country":"US",
+    "sg:address":"2417 Grant Ave",
+    "sg:city":"St Albans",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 727 2651",
+    "sg:postcode":"25177",
+    "sg:province":"WV",
+    "sg:tags":[
+        "club",
+        "drinking",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731773,
+        102083335,
+        85840775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hYBV3wXEA1747pxahhnrA_38.382267_-81.803964@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432527,
+    "wof:geomhash":"86ec6ad36c6133bc0c61a8888cffb179",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731773,
+            "neighbourhood_id":85840775,
+            "region_id":85688589,
+            "venue_id":823398835
+        }
+    ],
+    "wof:id":823398835,
+    "wof:lastmodified":1463432527,
+    "wof:name":"Club El Dorado",
+    "wof:parent_id":85840775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "drinking",
+        "eating"
+    ]
+},
+  "bbox": [
+    -81.803964,
+    38.382267,
+    -81.803964,
+    38.382267
+],
+  "geometry": {"coordinates":[-81.80396399999999,38.382267],"type":"Point"}
+}

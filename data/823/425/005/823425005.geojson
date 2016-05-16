@@ -1,0 +1,67 @@
+{
+  "id": 823425005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.559706,38.373694,-82.559706,38.373694",
+    "geom:latitude":38.373694,
+    "geom:longitude":-82.559706,
+    "iso:country":"US",
+    "sg:address":"1449 Airport Rd",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 2196",
+    "sg:postcode":"25704",
+    "sg:province":"WV",
+    "sg:website":"www.tristateairport.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083365,
+        85857035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17KKre0inkAUdQhBB6Bihp_38.373694_-82.559706@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433659,
+    "wof:geomhash":"d861a1b28615181ba976c45ae4c2c99e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731553,
+            "neighbourhood_id":85857035,
+            "region_id":85688589,
+            "venue_id":823425005
+        }
+    ],
+    "wof:id":823425005,
+    "wof:lastmodified":1463433659,
+    "wof:name":"Tri-State Airport Restaurant",
+    "wof:parent_id":85857035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.559706,
+    38.373694,
+    -82.559706,
+    38.373694
+],
+  "geometry": {"coordinates":[-82.55970600000001,38.373694],"type":"Point"}
+}

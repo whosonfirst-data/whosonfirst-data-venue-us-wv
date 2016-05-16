@@ -1,0 +1,70 @@
+{
+  "id": 823453591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.992261,39.617471,-79.992261,39.617471",
+    "geom:latitude":39.617471,
+    "geom:longitude":-79.992261,
+    "iso:country":"US",
+    "sg:address":"9801 Mall Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/western/224338-garfields-restaurant--pub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 983 6811",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818601,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jCbFQ2BMzZOBOSCA3l1vI_39.617471_-79.992261@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434953,
+    "wof:geomhash":"959cdabf0d57840c28ec81988be1b026",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85818601,
+            "region_id":85688589,
+            "venue_id":823453591
+        }
+    ],
+    "wof:id":823453591,
+    "wof:lastmodified":1463434953,
+    "wof:name":"Garfield's Restaurant & Pub",
+    "wof:parent_id":85818601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -79.992261,
+    39.617471,
+    -79.992261,
+    39.617471
+],
+  "geometry": {"coordinates":[-79.992261,39.617471],"type":"Point"}
+}

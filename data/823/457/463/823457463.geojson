@@ -1,0 +1,89 @@
+{
+  "id": 823457463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.958415,39.630283,-79.958415,39.630283",
+    "geom:latitude":39.630283,
+    "geom:longitude":-79.958415,
+    "iso:country":"US",
+    "sg:address":"15 Court St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Military Area",
+            "subcategory":"Armory",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 6921",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7f1BbLgPvkNJjDavoo3CLr_39.630283_-79.958415@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435160,
+    "wof:geomhash":"ef663c48f5afbc61f4cd8cb0866fd963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851489,
+            "region_id":85688589,
+            "venue_id":823457463
+        }
+    ],
+    "wof:id":823457463,
+    "wof:lastmodified":1463435160,
+    "wof:name":"G R D Aluminum Co",
+    "wof:parent_id":85851489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -79.958415,
+    39.630283,
+    -79.958415,
+    39.630283
+],
+  "geometry": {"coordinates":[-79.958415,39.630283],"type":"Point"}
+}

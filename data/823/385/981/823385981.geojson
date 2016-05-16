@@ -1,0 +1,71 @@
+{
+  "id": 823385981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.154689,39.354334,-78.154689,39.354334",
+    "geom:latitude":39.354334,
+    "geom:longitude":-78.154689,
+    "iso:country":"US",
+    "sg:address":"18 White Tail Dr",
+    "sg:city":"Berkeley Springs",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 258 4545",
+    "sg:postcode":"25421",
+    "sg:province":"WV",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6T5ZRCEweF8wmghjlgYOQB_39.354334_-78.154689@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431889,
+    "wof:geomhash":"9e345f23cd9bba9e1b144552420ab03a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823385981
+        }
+    ],
+    "wof:id":823385981,
+    "wof:lastmodified":1463431889,
+    "wof:name":"Colab Scientific",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -78.154689,
+    39.354334,
+    -78.154689,
+    39.354334
+],
+  "geometry": {"coordinates":[-78.154689,39.354334],"type":"Point"}
+}

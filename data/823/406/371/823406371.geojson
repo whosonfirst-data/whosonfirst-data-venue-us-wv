@@ -1,0 +1,68 @@
+{
+  "id": 823406371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.625423,38.347762,-81.625423,38.347762",
+    "geom:latitude":38.347762,
+    "geom:longitude":-81.625423,
+    "iso:country":"US",
+    "sg:address":"511 Morris St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 341 0257",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69KtjkuMdUs2rxdW9176CT_38.347762_-81.625423@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432875,
+    "wof:geomhash":"e3a7fcbd23184d9a645399e36c8eefeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823406371
+        }
+    ],
+    "wof:id":823406371,
+    "wof:lastmodified":1463432875,
+    "wof:name":"Highland Pharmacy",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.625423,
+    38.347762,
+    -81.625423,
+    38.347762
+],
+  "geometry": {"coordinates":[-81.625423,38.347762],"type":"Point"}
+}

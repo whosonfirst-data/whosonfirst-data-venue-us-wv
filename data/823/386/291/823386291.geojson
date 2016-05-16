@@ -1,0 +1,69 @@
+{
+  "id": 823386291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.989062,39.623545,-79.989062,39.623545",
+    "geom:latitude":39.623545,
+    "geom:longitude":-79.989062,
+    "iso:country":"US",
+    "sg:address":"166 Dents Run Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Musical Instruments",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 293 3786",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818601,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xUdxP14ILbLXRemo8HbtA_39.623545_-79.989062@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431900,
+    "wof:geomhash":"6e07871d98162cd7a08d285e07cd2b91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85818601,
+            "region_id":85688589,
+            "venue_id":823386291
+        }
+    ],
+    "wof:id":823386291,
+    "wof:lastmodified":1463431900,
+    "wof:name":"Mannette Steel Drums Ltd",
+    "wof:parent_id":85818601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -79.989062,
+    39.623545,
+    -79.989062,
+    39.623545
+],
+  "geometry": {"coordinates":[-79.989062,39.623545],"type":"Point"}
+}

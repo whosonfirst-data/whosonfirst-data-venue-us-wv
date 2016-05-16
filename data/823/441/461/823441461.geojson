@@ -1,0 +1,75 @@
+{
+  "id": 823441461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.183214,37.804604,-81.183214,37.804604",
+    "geom:latitude":37.804604,
+    "geom:longitude":-81.183214,
+    "iso:country":"US",
+    "sg:address":"1404 N Eisenhower Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 252 9001",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ue5KfE1fdENMkyh8GavD7_37.804604_-81.183214@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434424,
+    "wof:geomhash":"5637af2d89583c9b22bc72fa00b270ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823441461
+        }
+    ],
+    "wof:id":823441461,
+    "wof:lastmodified":1463434424,
+    "wof:name":"Magnum Car Wash",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -81.183214,
+    37.804604,
+    -81.183214,
+    37.804604
+],
+  "geometry": {"coordinates":[-81.18321400000001,37.804604],"type":"Point"}
+}

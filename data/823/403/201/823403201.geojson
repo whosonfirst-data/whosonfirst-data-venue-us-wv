@@ -1,0 +1,73 @@
+{
+  "id": 823403201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.30014,37.796791,-80.30014,37.796791",
+    "geom:latitude":37.796791,
+    "geom:longitude":-80.30014,
+    "iso:country":"US",
+    "sg:address":"301 Crescent Ave",
+    "sg:city":"White Sulphur Springs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 536 4855",
+    "sg:postcode":"24986",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1j2pbLnKnD6EOpWGgJv251_37.796791_-80.300140@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432720,
+    "wof:geomhash":"47ed56b6e021440f43f57173d44d84e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823403201
+        }
+    ],
+    "wof:id":823403201,
+    "wof:lastmodified":1463432720,
+    "wof:name":"Wire Works",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.30014,
+    37.796791,
+    -80.30014,
+    37.796791
+],
+  "geometry": {"coordinates":[-80.30014,37.796791],"type":"Point"}
+}

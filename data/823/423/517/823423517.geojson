@@ -1,0 +1,72 @@
+{
+  "id": 823423517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.208689,37.252517,-81.208689,37.252517",
+    "geom:latitude":37.252517,
+    "geom:longitude":-81.208689,
+    "iso:country":"US",
+    "sg:address":"2601 Leandrea Dr",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 324 7850",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.williseng.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Gl1KNgdkJcL94U7rlY4tz_37.252517_-81.208689@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433602,
+    "wof:geomhash":"3ed3fd8700c97b5bb70568e45959e81d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823423517
+        }
+    ],
+    "wof:id":823423517,
+    "wof:lastmodified":1463433602,
+    "wof:name":"Willis Engineering",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -81.208689,
+    37.252517,
+    -81.208689,
+    37.252517
+],
+  "geometry": {"coordinates":[-81.20868900000001,37.252517],"type":"Point"}
+}

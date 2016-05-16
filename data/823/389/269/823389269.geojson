@@ -1,0 +1,71 @@
+{
+  "id": 823389269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.537662,38.232029,-81.537662,38.232029",
+    "geom:latitude":38.232029,
+    "geom:longitude":-81.537662,
+    "iso:country":"US",
+    "sg:address":"708 E Dupont Ave",
+    "sg:city":"Belle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 3375",
+    "sg:postcode":"25015",
+    "sg:province":"WV",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5G2NCV5VQ8ZIcSmJ9AfuoZ_38.232029_-81.537662@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432040,
+    "wof:geomhash":"3ef2a73456ec87b4fae346980ceaa718",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823389269
+        }
+    ],
+    "wof:id":823389269,
+    "wof:lastmodified":1463432040,
+    "wof:name":"Belle Fire Dept",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -81.537662,
+    38.232029,
+    -81.537662,
+    38.232029
+],
+  "geometry": {"coordinates":[-81.537662,38.232029],"type":"Point"}
+}

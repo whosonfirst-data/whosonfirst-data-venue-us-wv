@@ -1,0 +1,71 @@
+{
+  "id": 823381907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.520579,38.317393,-81.520579,38.317393",
+    "geom:latitude":38.317393,
+    "geom:longitude":-81.520579,
+    "iso:country":"US",
+    "sg:address":"510 Campbells Creek Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 7557",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZPrrH7nqoHfMsUDRWIC45_38.317393_-81.520579@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431734,
+    "wof:geomhash":"8849ff71940b8d6a9b3d00980cafaf5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823381907
+        }
+    ],
+    "wof:id":823381907,
+    "wof:lastmodified":1463431734,
+    "wof:name":"Healthy House Of Produce Inc",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -81.520579,
+    38.317393,
+    -81.520579,
+    38.317393
+],
+  "geometry": {"coordinates":[-81.520579,38.317393],"type":"Point"}
+}

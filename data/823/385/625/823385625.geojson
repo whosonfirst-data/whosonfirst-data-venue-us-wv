@@ -1,0 +1,74 @@
+{
+  "id": 823385625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.167449,39.442275,-80.167449,39.442275",
+    "geom:latitude":39.442275,
+    "geom:longitude":-80.167449,
+    "iso:country":"US",
+    "sg:address":"2011 Pleasant Valley Rd",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 6900",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electrical",
+        "apparatus"
+    ],
+    "sg:website":"www.wvelectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85834381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05MFNuDWaY2HLvrmZhsHLq_39.442275_-80.167449@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431871,
+    "wof:geomhash":"ad12aa8c87b8181f29c5870b19ec0a50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85834381,
+            "region_id":85688589,
+            "venue_id":823385625
+        }
+    ],
+    "wof:id":823385625,
+    "wof:lastmodified":1463431871,
+    "wof:name":"West Virginia Electric Corp",
+    "wof:parent_id":85834381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "apparatus"
+    ]
+},
+  "bbox": [
+    -80.167449,
+    39.442275,
+    -80.167449,
+    39.442275
+],
+  "geometry": {"coordinates":[-80.167449,39.442275],"type":"Point"}
+}

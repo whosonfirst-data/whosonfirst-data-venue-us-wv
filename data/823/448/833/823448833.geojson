@@ -1,0 +1,73 @@
+{
+  "id": 823448833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.967046,39.460766,-77.967046,39.460766",
+    "geom:latitude":39.460766,
+    "geom:longitude":-77.967046,
+    "iso:country":"US",
+    "sg:address":"413 W Race St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 2358",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gi357Rrb2HdusOCZ01RZ0_39.460766_-77.967046@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434771,
+    "wof:geomhash":"6a42c26c239b530a4b58a219436149a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823448833
+        }
+    ],
+    "wof:id":823448833,
+    "wof:lastmodified":1463434771,
+    "wof:name":"ORoke Apts Inc",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -77.967046,
+    39.460766,
+    -77.967046,
+    39.460766
+],
+  "geometry": {"coordinates":[-77.967046,39.460766],"type":"Point"}
+}

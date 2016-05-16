@@ -1,0 +1,71 @@
+{
+  "id": 823440151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.744002,38.369891,-81.744002,38.369891",
+    "geom:latitude":38.369891,
+    "geom:longitude":-81.744002,
+    "iso:country":"US",
+    "sg:address":"800 Grandview Pt",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 766 6809",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6l2ZVJ5osM0VlIlfkCsH5l_38.369891_-81.744002@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434370,
+    "wof:geomhash":"ab586e4209ea14f83c6511be58619a84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823440151
+        }
+    ],
+    "wof:id":823440151,
+    "wof:lastmodified":1463434370,
+    "wof:name":"Grandview Pointe Apartments",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -81.744002,
+    38.369891,
+    -81.744002,
+    38.369891
+],
+  "geometry": {"coordinates":[-81.74400199999999,38.369891],"type":"Point"}
+}

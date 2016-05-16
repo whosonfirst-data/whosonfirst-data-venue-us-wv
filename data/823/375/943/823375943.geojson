@@ -1,0 +1,71 @@
+{
+  "id": 823375943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.690035,38.354712,-81.690035,38.354712",
+    "geom:latitude":38.354712,
+    "geom:longitude":-81.690035,
+    "iso:country":"US",
+    "sg:address":"415 Central Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 2103",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IEg8cNuNIpHxu8ubaVcJc_38.354712_-81.690035@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431457,
+    "wof:geomhash":"7949c01a81069cd099066916b9cf61b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823375943
+        }
+    ],
+    "wof:id":823375943,
+    "wof:lastmodified":1463431457,
+    "wof:name":"Hilltop Markets",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -81.690035,
+    38.354712,
+    -81.690035,
+    38.354712
+],
+  "geometry": {"coordinates":[-81.69003499999999,38.354712],"type":"Point"}
+}

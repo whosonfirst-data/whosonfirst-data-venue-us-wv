@@ -1,0 +1,71 @@
+{
+  "id": 823423385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.689079,38.366209,-81.689079,38.366209",
+    "geom:latitude":38.366209,
+    "geom:longitude":-81.689079,
+    "iso:country":"US",
+    "sg:address":"402 2nd Ave SW",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 4444",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "lounge"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RdHRYukuF60a6unSjBIhp_38.366209_-81.689079@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433592,
+    "wof:geomhash":"9af6daf1e4cb3a46fe42c0908a554672",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823423385
+        }
+    ],
+    "wof:id":823423385,
+    "wof:lastmodified":1463433592,
+    "wof:name":"Wingate Inn",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge"
+    ]
+},
+  "bbox": [
+    -81.689079,
+    38.366209,
+    -81.689079,
+    38.366209
+],
+  "geometry": {"coordinates":[-81.68907900000001,38.366209],"type":"Point"}
+}

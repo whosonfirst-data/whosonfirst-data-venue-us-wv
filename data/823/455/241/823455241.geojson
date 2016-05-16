@@ -1,0 +1,73 @@
+{
+  "id": 823455241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.980107,39.410589,-77.980107,39.410589",
+    "geom:latitude":39.410589,
+    "geom:longitude":-77.980107,
+    "iso:country":"US",
+    "sg:address":"299 Teal Rd",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 262 3745",
+    "sg:postcode":"25405",
+    "sg:province":"WV",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sxKFvQCtftTpqNI4ch16y_39.410589_-77.980107@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435067,
+    "wof:geomhash":"f582e76245afa1a3f29de14661d9870e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823455241
+        }
+    ],
+    "wof:id":823455241,
+    "wof:lastmodified":1463435067,
+    "wof:name":"Bill's Roofing, LLC",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -77.980107,
+    39.410589,
+    -77.980107,
+    39.410589
+],
+  "geometry": {"coordinates":[-77.980107,39.410589],"type":"Point"}
+}

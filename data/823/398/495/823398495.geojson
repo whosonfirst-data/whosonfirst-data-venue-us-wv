@@ -1,0 +1,71 @@
+{
+  "id": 823398495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.949618,39.575963,-79.949618,39.575963",
+    "geom:latitude":39.575963,
+    "geom:longitude":-79.949618,
+    "iso:country":"US",
+    "sg:address":"1536 Grafton Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 291 0783",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Hgn2aEQRjEGfiK9rqZlOt_39.575963_-79.949618@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432510,
+    "wof:geomhash":"a3657bd89984fd831008ce74c2261bdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823398495
+        }
+    ],
+    "wof:id":823398495,
+    "wof:lastmodified":1463432510,
+    "wof:name":"L & L Self-Storage",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -79.949618,
+    39.575963,
+    -79.949618,
+    39.575963
+],
+  "geometry": {"coordinates":[-79.949618,39.575963],"type":"Point"}
+}

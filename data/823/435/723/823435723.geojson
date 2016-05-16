@@ -1,0 +1,75 @@
+{
+  "id": 823435723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.225818,37.808576,-81.225818,37.808576",
+    "geom:latitude":37.808576,
+    "geom:longitude":-81.225818,
+    "iso:country":"US",
+    "sg:address":"111 Albert Ave",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 252 3867",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1g62mNVZNfHkwJcnZ6E2x4_37.808576_-81.225818@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434154,
+    "wof:geomhash":"9e8b323f3416800a95202c322b7a7ddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823435723
+        }
+    ],
+    "wof:id":823435723,
+    "wof:lastmodified":1463434154,
+    "wof:name":"Williams Excavation",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.225818,
+    37.808576,
+    -81.225818,
+    37.808576
+],
+  "geometry": {"coordinates":[-81.225818,37.808576],"type":"Point"}
+}

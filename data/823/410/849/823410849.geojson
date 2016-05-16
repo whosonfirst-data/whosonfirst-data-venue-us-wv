@@ -1,0 +1,71 @@
+{
+  "id": 823410849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.116307,37.446605,-81.116307,37.446605",
+    "geom:latitude":37.446605,
+    "geom:longitude":-81.116307,
+    "iso:country":"US",
+    "sg:address":"10322 Beckley Rd",
+    "sg:city":"Spanishburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 6766",
+    "sg:postcode":"25922",
+    "sg:province":"WV",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZWCFXuH9WseN9hiRAOBcS_37.446605_-81.116307@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433060,
+    "wof:geomhash":"7a4ee9dfad01f5bfb1c0c552159c3845",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823410849
+        }
+    ],
+    "wof:id":823410849,
+    "wof:lastmodified":1463433060,
+    "wof:name":"Blue Stone Valley Fire Dept",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -81.116307,
+    37.446605,
+    -81.116307,
+    37.446605
+],
+  "geometry": {"coordinates":[-81.11630700000001,37.446605],"type":"Point"}
+}

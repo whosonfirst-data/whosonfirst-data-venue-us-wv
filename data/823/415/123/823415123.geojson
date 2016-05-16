@@ -1,0 +1,73 @@
+{
+  "id": 823415123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.721871,38.357392,-81.721871,38.357392",
+    "geom:latitude":38.357392,
+    "geom:longitude":-81.721871,
+    "iso:country":"US",
+    "sg:address":"4132 Maccorkle Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 7491",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ExVrpy4qsc34D8F72Iaei_38.357392_-81.721871@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433233,
+    "wof:geomhash":"946363c3717253c5c13e5067dd548bd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823415123
+        }
+    ],
+    "wof:id":823415123,
+    "wof:lastmodified":1463433233,
+    "wof:name":"Spring Hill One Stop",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -81.721871,
+    38.357392,
+    -81.721871,
+    38.357392
+],
+  "geometry": {"coordinates":[-81.72187099999999,38.357392],"type":"Point"}
+}

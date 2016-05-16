@@ -1,0 +1,71 @@
+{
+  "id": 823427625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.695797,38.36773,-81.695797,38.36773",
+    "geom:latitude":38.36773,
+    "geom:longitude":-81.695797,
+    "iso:country":"US",
+    "sg:address":"512 D St",
+    "sg:city":"South Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 746 8800",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0us1AkLnG0wGqjQIOCeeKk_38.367730_-81.695797@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433774,
+    "wof:geomhash":"94316682658ef706fca265c9f721e7d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823427625
+        }
+    ],
+    "wof:id":823427625,
+    "wof:lastmodified":1463433774,
+    "wof:name":"South Charleston FOP 85",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -81.695797,
+    38.36773,
+    -81.695797,
+    38.36773
+],
+  "geometry": {"coordinates":[-81.695797,38.36773],"type":"Point"}
+}

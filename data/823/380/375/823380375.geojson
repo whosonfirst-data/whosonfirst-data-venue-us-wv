@@ -1,0 +1,72 @@
+{
+  "id": 823380375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.34171,39.279768,-80.34171,39.279768",
+    "geom:latitude":39.279768,
+    "geom:longitude":-80.34171,
+    "iso:country":"US",
+    "sg:address":"465 W Main St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 624 1665",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.clarksburg.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4N3Z8OKpIMbqZsNVWSDD4d_39.279768_-80.341710@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431655,
+    "wof:geomhash":"d614ca26d16bbc5a27952b9565f17bdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823380375
+        }
+    ],
+    "wof:id":823380375,
+    "wof:lastmodified":1463431655,
+    "wof:name":"Clarksburg Fire Dept",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -80.34171,
+    39.279768,
+    -80.34171,
+    39.279768
+],
+  "geometry": {"coordinates":[-80.34171000000001,39.279768],"type":"Point"}
+}

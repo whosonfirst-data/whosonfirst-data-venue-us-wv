@@ -1,0 +1,73 @@
+{
+  "id": 823438351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.535479,39.234419,-81.535479,39.234419",
+    "geom:latitude":39.234419,
+    "geom:longitude":-81.535479,
+    "iso:country":"US",
+    "sg:address":"1308 Rayon Dr",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 424 6355",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BInaupN2rJscZbOD6jZVe_39.234419_-81.535479@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434292,
+    "wof:geomhash":"f48bd72b891d62141eb1c41e8c29fa45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823438351
+        }
+    ],
+    "wof:id":823438351,
+    "wof:lastmodified":1463434292,
+    "wof:name":"Guarantee Auto Sales",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -81.535479,
+    39.234419,
+    -81.535479,
+    39.234419
+],
+  "geometry": {"coordinates":[-81.535479,39.234419],"type":"Point"}
+}

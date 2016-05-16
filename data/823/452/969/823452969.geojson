@@ -1,0 +1,80 @@
+{
+  "id": 823452969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.180449,37.80164,-81.180449,37.80164",
+    "geom:latitude":37.80164,
+    "geom:longitude":-81.180449,
+    "iso:country":"US",
+    "sg:address":"1240 N Eisenhower Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/pax/69806-bellacinos-pizza--grinders/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 253 4545",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29gwA8WVmgXuOjB9sof0Hi_37.801640_-81.180449@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434928,
+    "wof:geomhash":"3ea01fce49b29386d178c503ba3aecc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823452969
+        }
+    ],
+    "wof:id":823452969,
+    "wof:lastmodified":1463434928,
+    "wof:name":"Bellacino's Pizza & Grinders",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -81.180449,
+    37.80164,
+    -81.180449,
+    37.80164
+],
+  "geometry": {"coordinates":[-81.180449,37.80164],"type":"Point"}
+}

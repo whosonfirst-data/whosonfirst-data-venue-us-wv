@@ -1,0 +1,73 @@
+{
+  "id": 823432621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.558504,38.355368,-82.558504,38.355368",
+    "geom:latitude":38.355368,
+    "geom:longitude":-82.558504,
+    "iso:country":"US",
+    "sg:address":"2254 Rte 75",
+    "sg:city":"Kenova",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 3466",
+    "sg:postcode":"25530",
+    "sg:province":"WV",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083365,
+        85857035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gUkrPxJdA18YNuYm5I3lJ_38.355368_-82.558504@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434003,
+    "wof:geomhash":"8b91b43060f59e58a8c6537dc4e9bb61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731553,
+            "neighbourhood_id":85857035,
+            "region_id":85688589,
+            "venue_id":823432621
+        }
+    ],
+    "wof:id":823432621,
+    "wof:lastmodified":1463434003,
+    "wof:name":"Paul Pyles",
+    "wof:parent_id":85857035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -82.558504,
+    38.355368,
+    -82.558504,
+    38.355368
+],
+  "geometry": {"coordinates":[-82.558504,38.355368],"type":"Point"}
+}

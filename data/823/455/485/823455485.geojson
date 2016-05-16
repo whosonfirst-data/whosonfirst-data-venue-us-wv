@@ -1,0 +1,85 @@
+{
+  "id": 823455485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.051077,39.496255,-78.051077,39.496255",
+    "geom:latitude":39.496255,
+    "geom:longitude":-78.051077,
+    "iso:country":"US",
+    "sg:address":"5 Big Park Rd",
+    "sg:city":"Hedgesville",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Military Area",
+            "subcategory":"Armory",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 754 9580",
+    "sg:postcode":"25427",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85846047,
+        102083367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZfcJiEq12W8epu74porGQ_39.496255_-78.051077@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435076,
+    "wof:geomhash":"9733d9720e4945bf8d75d00d098749f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "neighbourhood_id":85846047,
+            "region_id":85688589,
+            "venue_id":823455485
+        }
+    ],
+    "wof:id":823455485,
+    "wof:lastmodified":1463435076,
+    "wof:name":"D&P Fence Service Inc",
+    "wof:parent_id":85846047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -78.051077,
+    39.496255,
+    -78.051077,
+    39.496255
+],
+  "geometry": {"coordinates":[-78.05107700000001,39.496255],"type":"Point"}
+}

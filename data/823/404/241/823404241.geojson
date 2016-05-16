@@ -1,0 +1,71 @@
+{
+  "id": 823404241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.540087,39.237158,-81.540087,39.237158",
+    "geom:latitude":39.237158,
+    "geom:longitude":-81.540087,
+    "iso:country":"US",
+    "sg:address":"1505 Broadway Ave",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 422 1100",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aAooSyfDCm81RxIMDOGYU_39.237158_-81.540087@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432772,
+    "wof:geomhash":"343264a56a8e2606ad10bdd0cdf542d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823404241
+        }
+    ],
+    "wof:id":823404241,
+    "wof:lastmodified":1463432772,
+    "wof:name":"Sharp & Sassy's Glamour Gllry",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -81.540087,
+    39.237158,
+    -81.540087,
+    39.237158
+],
+  "geometry": {"coordinates":[-81.540087,39.237158],"type":"Point"}
+}

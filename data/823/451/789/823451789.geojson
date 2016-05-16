@@ -1,0 +1,75 @@
+{
+  "id": 823451789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.974367,39.654296,-79.974367,39.654296",
+    "geom:latitude":39.654296,
+    "geom:longitude":-79.974367,
+    "iso:country":"US",
+    "sg:address":"1178 Cambridge Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 3415",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vr8AiooCIxZCFQYv7epgJ_39.654418_-79.974519@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463434883,
+    "wof:geomhash":"930cfb244a209a91e808566dea649bd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851419,
+            "region_id":85688589,
+            "venue_id":823451789
+        }
+    ],
+    "wof:id":823451789,
+    "wof:lastmodified":1463434883,
+    "wof:name":"Fortuna Rentals",
+    "wof:parent_id":85851419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -79.974367,
+    39.654296,
+    -79.974367,
+    39.654296
+],
+  "geometry": {"coordinates":[-79.974367,39.654296],"type":"Point"}
+}

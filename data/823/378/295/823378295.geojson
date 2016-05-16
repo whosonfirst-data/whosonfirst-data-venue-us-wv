@@ -1,0 +1,74 @@
+{
+  "id": 823378295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.597329,38.325772,-81.597329,38.325772",
+    "geom:latitude":38.325772,
+    "geom:longitude":-81.597329,
+    "iso:country":"US",
+    "sg:address":"3416 Chesterfield Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 2181",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "sg:website":"www.yeardleyengineering.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12zNVprFgGHr614RUJ1V1G_38.325772_-81.597329@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431569,
+    "wof:geomhash":"283560d51ab15065e05da8a83d0209f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823378295
+        }
+    ],
+    "wof:id":823378295,
+    "wof:lastmodified":1463431569,
+    "wof:name":"Yeardley Engineering Co",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.597329,
+    38.325772,
+    -81.597329,
+    38.325772
+],
+  "geometry": {"coordinates":[-81.597329,38.325772],"type":"Point"}
+}

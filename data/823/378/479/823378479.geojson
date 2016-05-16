@@ -1,0 +1,71 @@
+{
+  "id": 823378479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.857751,39.642266,-80.857751,39.642266",
+    "geom:latitude":39.642266,
+    "geom:longitude":-80.857751,
+    "iso:country":"US",
+    "sg:address":"311 North St",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 0905",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5k5jUXhkAzKUAu0rHqmRqN_39.642266_-80.857751@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431576,
+    "wof:geomhash":"04d81024c078a93619c7e8a142960f56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823378479
+        }
+    ],
+    "wof:id":823378479,
+    "wof:lastmodified":1463431576,
+    "wof:name":"Forestry Division",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government"
+    ]
+},
+  "bbox": [
+    -80.857751,
+    39.642266,
+    -80.857751,
+    39.642266
+],
+  "geometry": {"coordinates":[-80.85775099999999,39.642266],"type":"Point"}
+}

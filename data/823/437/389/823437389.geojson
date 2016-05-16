@@ -1,0 +1,71 @@
+{
+  "id": 823437389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.304527,37.791145,-80.304527,37.791145",
+    "geom:latitude":37.791145,
+    "geom:longitude":-80.304527,
+    "iso:country":"US",
+    "sg:address":"200 Spring St",
+    "sg:city":"White Slphr Spgs",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 000 1111",
+    "sg:postcode":"24986",
+    "sg:province":"WV",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UQPGpy6fqt0t9QGiIlJdf_37.791145_-80.304527@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434249,
+    "wof:geomhash":"9db4edca715cde2dc1308acbdd840360",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823437389
+        }
+    ],
+    "wof:id":823437389,
+    "wof:lastmodified":1463434249,
+    "wof:name":"White Sulphur Springs Police",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -80.304527,
+    37.791145,
+    -80.304527,
+    37.791145
+],
+  "geometry": {"coordinates":[-80.30452699999999,37.791145],"type":"Point"}
+}

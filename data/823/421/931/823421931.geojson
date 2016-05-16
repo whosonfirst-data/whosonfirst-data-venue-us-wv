@@ -1,0 +1,75 @@
+{
+  "id": 823421931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.04034,39.341782,-80.04034,39.341782",
+    "geom:latitude":39.341782,
+    "geom:longitude":-80.04034,
+    "iso:country":"US",
+    "sg:address":"1006 W Main St",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 265 0523",
+    "sg:postcode":"26354",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731717,
+        102083351,
+        85855577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TaNbTldPitYA7IKxAHg9S_39.341782_-80.040340@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433540,
+    "wof:geomhash":"e44c1ac64de58bb52210dafcfb2003a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083351,
+            "locality_id":101731717,
+            "neighbourhood_id":85855577,
+            "region_id":85688589,
+            "venue_id":823421931
+        }
+    ],
+    "wof:id":823421931,
+    "wof:lastmodified":1463433540,
+    "wof:name":"Steve's Auto",
+    "wof:parent_id":85855577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -80.04034,
+    39.341782,
+    -80.04034,
+    39.341782
+],
+  "geometry": {"coordinates":[-80.04034,39.341782],"type":"Point"}
+}

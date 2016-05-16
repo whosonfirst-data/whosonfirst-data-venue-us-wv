@@ -1,0 +1,95 @@
+{
+  "id": 823455427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.038747,39.577213,-78.038747,39.577213",
+    "geom:latitude":39.577213,
+    "geom:longitude":-78.038747,
+    "iso:country":"US",
+    "sg:address":"8885 Hedgesville Rd",
+    "sg:city":"Hedgesville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 754 8044",
+    "sg:postcode":"25427",
+    "sg:province":"WV",
+    "sg:tags":[
+        "communications-common",
+        "satellite",
+        "antenna",
+        "cable",
+        "tv",
+        "system",
+        "equipment",
+        "carrier",
+        "radio-service"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85846047,
+        102083367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70lqbjXaRkSobrRH69xOdj_39.577213_-78.038747@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435074,
+    "wof:geomhash":"758032b87aec40b906bded9e993ec65e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "neighbourhood_id":85846047,
+            "region_id":85688589,
+            "venue_id":823455427
+        }
+    ],
+    "wof:id":823455427,
+    "wof:lastmodified":1463435074,
+    "wof:name":"Starview",
+    "wof:parent_id":85846047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications-common",
+        "satellite",
+        "antenna",
+        "cable",
+        "tv",
+        "system",
+        "equipment",
+        "carrier",
+        "radio-service"
+    ]
+},
+  "bbox": [
+    -78.038747,
+    39.577213,
+    -78.038747,
+    39.577213
+],
+  "geometry": {"coordinates":[-78.038747,39.577213],"type":"Point"}
+}

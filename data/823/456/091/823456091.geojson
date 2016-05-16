@@ -1,0 +1,73 @@
+{
+  "id": 823456091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.104325,37.451223,-81.104325,37.451223",
+    "geom:latitude":37.451223,
+    "geom:longitude":-81.104325,
+    "iso:country":"US",
+    "sg:address":"184 Mill Dam Rd",
+    "sg:city":"Spanishburg",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 887 0594",
+    "sg:postcode":"25922",
+    "sg:province":"WV",
+    "sg:tags":[
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14mmuXqwn0moziDGSuW8ik_37.451223_-81.104325@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435099,
+    "wof:geomhash":"0c1603e351e5639a68a44feb23b3d86a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823456091
+        }
+    ],
+    "wof:id":823456091,
+    "wof:lastmodified":1463435099,
+    "wof:name":"B And K Trucking",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -81.104325,
+    37.451223,
+    -81.104325,
+    37.451223
+],
+  "geometry": {"coordinates":[-81.104325,37.451223],"type":"Point"}
+}

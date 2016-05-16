@@ -1,0 +1,73 @@
+{
+  "id": 823453471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.27893,39.280182,-80.27893,39.280182",
+    "geom:latitude":39.280182,
+    "geom:longitude":-80.27893,
+    "iso:country":"US",
+    "sg:address":"432 Emily Dr",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/bridgeport/206250-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EmVyRM9hPckalrBTr7NQT_39.280182_-80.278930@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434948,
+    "wof:geomhash":"2038294eb05fd20e70ab9030df783343",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823453471
+        }
+    ],
+    "wof:id":823453471,
+    "wof:lastmodified":1463434948,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -80.27893,
+    39.280182,
+    -80.27893,
+    39.280182
+],
+  "geometry": {"coordinates":[-80.27893,39.280182],"type":"Point"}
+}

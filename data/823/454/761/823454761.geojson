@@ -1,0 +1,86 @@
+{
+  "id": 823454761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.97567,39.440675,-77.97567,39.440675",
+    "geom:latitude":39.440675,
+    "geom:longitude":-77.97567,
+    "iso:country":"US",
+    "sg:address":"22 Virginia Avenue Ext",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 267 6861",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "towing",
+        "customizing",
+        "painting",
+        "repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gnVrPfCyaJMQ1ytXH3YHz_39.440675_-77.975670@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435050,
+    "wof:geomhash":"3693f457de7d91e92c30e11c9f9bc11c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823454761
+        }
+    ],
+    "wof:id":823454761,
+    "wof:lastmodified":1463435050,
+    "wof:name":"Porterfield's Collision Center",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "towing",
+        "customizing",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [
+    -77.97567,
+    39.440675,
+    -77.97567,
+    39.440675
+],
+  "geometry": {"coordinates":[-77.97566999999999,39.440675],"type":"Point"}
+}

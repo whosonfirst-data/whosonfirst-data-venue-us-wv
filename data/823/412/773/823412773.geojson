@@ -1,0 +1,70 @@
+{
+  "id": 823412773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.973064,38.623729,-81.973064,38.623729",
+    "geom:latitude":38.623729,
+    "geom:longitude":-81.973064,
+    "iso:country":"US",
+    "sg:address":"1 Church St",
+    "sg:city":"Boomer",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 442 8967",
+    "sg:postcode":"25033",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.boomerbaptist.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868323,
+        102083381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jRorFfcrAWA9nwRsM3Il2_38.623729_-81.973064@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433131,
+    "wof:geomhash":"0e77601ee03b09698f5e15b8757deaf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "neighbourhood_id":85868323,
+            "region_id":85688589,
+            "venue_id":823412773
+        }
+    ],
+    "wof:id":823412773,
+    "wof:lastmodified":1463433131,
+    "wof:name":"Boomer Baptist Church",
+    "wof:parent_id":85868323,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.973064,
+    38.623729,
+    -81.973064,
+    38.623729
+],
+  "geometry": {"coordinates":[-81.97306399999999,38.623729],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 823453373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.549828,39.304021,-81.549828,39.304021",
+    "geom:latitude":39.304021,
+    "geom:longitude":-81.549828,
+    "iso:country":"US",
+    "sg:address":"600 Grand Central Ave",
+    "sg:city":"Vienna",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/parkersburg/214073-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 295 5622",
+    "sg:postcode":"26105",
+    "sg:province":"WV",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731687,
+        102083343,
+        85805293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dznSWFIlziDQJ8Ae2oz3o_39.304021_-81.549828@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434944,
+    "wof:geomhash":"616c9a1b60240b11b7d93513dc569a6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85805293,
+            "region_id":85688589,
+            "venue_id":823453373
+        }
+    ],
+    "wof:id":823453373,
+    "wof:lastmodified":1463434944,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85805293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -81.549828,
+    39.304021,
+    -81.549828,
+    39.304021
+],
+  "geometry": {"coordinates":[-81.54982800000001,39.304021],"type":"Point"}
+}

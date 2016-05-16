@@ -1,0 +1,71 @@
+{
+  "id": 823429369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.159355,39.481844,-80.159355,39.481844",
+    "geom:latitude":39.481844,
+    "geom:longitude":-80.159355,
+    "iso:country":"US",
+    "sg:address":"1204 Locust Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 9241",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Gk0EoR2ypCwNdTP3oVuBR_39.481844_-80.159355@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433856,
+    "wof:geomhash":"1a6425e91bb8619e6bcbf8df428d93c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823429369
+        }
+    ],
+    "wof:id":823429369,
+    "wof:lastmodified":1463433856,
+    "wof:name":"Fred S Higginbotham DDS",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -80.159355,
+    39.481844,
+    -80.159355,
+    39.481844
+],
+  "geometry": {"coordinates":[-80.15935500000001,39.481844],"type":"Point"}
+}

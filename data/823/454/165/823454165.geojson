@@ -1,0 +1,73 @@
+{
+  "id": 823454165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.270443,39.281608,-80.270443,39.281608",
+    "geom:latitude":39.281608,
+    "geom:longitude":-80.270443,
+    "iso:country":"US",
+    "sg:address":"1021 W Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/bridgeport/206432-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ESk7Qf0YFWHtM1SlXfEsw_39.281629_-80.269685@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463435004,
+    "wof:geomhash":"785e71506a5153d5ea0bea4615093f46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823454165
+        }
+    ],
+    "wof:id":823454165,
+    "wof:lastmodified":1463435004,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -80.270443,
+    39.281608,
+    -80.270443,
+    39.281608
+],
+  "geometry": {"coordinates":[-80.270443,39.281608],"type":"Point"}
+}

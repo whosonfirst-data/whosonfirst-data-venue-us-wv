@@ -1,0 +1,73 @@
+{
+  "id": 823413743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.601105,38.339692,-81.601105,38.339692",
+    "geom:latitude":38.339692,
+    "geom:longitude":-81.601105,
+    "iso:country":"US",
+    "sg:address":"106 Dee Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 558 2257",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "state",
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5n8Wxicu76k7DeGGhoE1bs_38.339692_-81.601105@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433164,
+    "wof:geomhash":"a801043b6bee83882ef1fe663132a2c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823413743
+        }
+    ],
+    "wof:id":823413743,
+    "wof:lastmodified":1463433164,
+    "wof:name":"Securities Division",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "inspection"
+    ]
+},
+  "bbox": [
+    -81.601105,
+    38.339692,
+    -81.601105,
+    38.339692
+],
+  "geometry": {"coordinates":[-81.601105,38.339692],"type":"Point"}
+}

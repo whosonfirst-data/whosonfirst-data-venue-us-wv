@@ -1,0 +1,74 @@
+{
+  "id": 823452625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.981766,39.442898,-77.981766,39.442898",
+    "geom:latitude":39.442898,
+    "geom:longitude":-77.981766,
+    "iso:country":"US",
+    "sg:address":"1150 Winchester Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/adam-stephens/86212-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 264 9040",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WoMXV91UDOzUdmFjnzpvx_39.442898_-77.981766@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434914,
+    "wof:geomhash":"3c9a00a313f13a079137cd001255d84b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823452625
+        }
+    ],
+    "wof:id":823452625,
+    "wof:lastmodified":1463434914,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -77.981766,
+    39.442898,
+    -77.981766,
+    39.442898
+],
+  "geometry": {"coordinates":[-77.98176599999999,39.442898],"type":"Point"}
+}

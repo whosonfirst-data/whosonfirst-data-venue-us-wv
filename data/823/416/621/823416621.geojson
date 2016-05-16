@@ -1,0 +1,73 @@
+{
+  "id": 823416621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.59844,38.329787,-81.59844,38.329787",
+    "geom:latitude":38.329787,
+    "geom:longitude":-81.59844,
+    "iso:country":"US",
+    "sg:address":"211 35th St SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 1220",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JezMFEmC1wdxdlga1cgV9_38.329787_-81.598440@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433310,
+    "wof:geomhash":"ea9f61b07cfa658f3de2b84f27a7f969",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823416621
+        }
+    ],
+    "wof:id":823416621,
+    "wof:lastmodified":1463433310,
+    "wof:name":"Ray's Ballroom Dance Studio",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -81.59844,
+    38.329787,
+    -81.59844,
+    38.329787
+],
+  "geometry": {"coordinates":[-81.59844,38.329787],"type":"Point"}
+}

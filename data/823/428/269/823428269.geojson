@@ -1,0 +1,76 @@
+{
+  "id": 823428269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.714444,38.375249,-81.714444,38.375249",
+    "geom:latitude":38.375249,
+    "geom:longitude":-81.714444,
+    "iso:country":"US",
+    "sg:address":"2292 Roxalana Rd",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 1521",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "sg:website":"www.yellowcorp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Gf80k2ZxdDtOasvZANiK3_38.375249_-81.714444@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433799,
+    "wof:geomhash":"c9810d12e67ee3ebabb5afcad2f2b98e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823428269
+        }
+    ],
+    "wof:id":823428269,
+    "wof:lastmodified":1463433799,
+    "wof:name":"Yellow Transportation Inc",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -81.714444,
+    38.375249,
+    -81.714444,
+    38.375249
+],
+  "geometry": {"coordinates":[-81.714444,38.375249],"type":"Point"}
+}

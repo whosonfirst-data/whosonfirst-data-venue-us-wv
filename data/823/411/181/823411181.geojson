@@ -1,0 +1,73 @@
+{
+  "id": 823411181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.339395,38.18029,-81.339395,38.18029",
+    "geom:latitude":38.18029,
+    "geom:longitude":-81.339395,
+    "iso:country":"US",
+    "sg:address":"1422 3rd Ave",
+    "sg:city":"Montgomery",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 442 8182",
+    "sg:postcode":"25136",
+    "sg:province":"WV",
+    "sg:tags":[
+        "city",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NoeeLLKj39lT2xz25LZZ0_38.180290_-81.339395@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433073,
+    "wof:geomhash":"e446f96881b179799324cd19d2971773",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823411181
+        }
+    ],
+    "wof:id":823411181,
+    "wof:lastmodified":1463433073,
+    "wof:name":"Montgomery Sanitary Plant",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "program"
+    ]
+},
+  "bbox": [
+    -81.339395,
+    38.18029,
+    -81.339395,
+    38.18029
+],
+  "geometry": {"coordinates":[-81.339395,38.18029],"type":"Point"}
+}

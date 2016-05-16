@@ -1,0 +1,71 @@
+{
+  "id": 823444061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.641362,38.36914,-81.641362,38.36914",
+    "geom:latitude":38.36914,
+    "geom:longitude":-81.641362,
+    "iso:country":"US",
+    "sg:address":"910 Valley Rd",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 347 5188",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TzDwJ0kNy7FnRIvBJG49k_38.369140_-81.641362@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434544,
+    "wof:geomhash":"ccaac15a2aed3d3e8af356062dbd6006",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823444061
+        }
+    ],
+    "wof:id":823444061,
+    "wof:lastmodified":1463434544,
+    "wof:name":"US Secret Svc",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -81.641362,
+    38.36914,
+    -81.641362,
+    38.36914
+],
+  "geometry": {"coordinates":[-81.641362,38.36914],"type":"Point"}
+}

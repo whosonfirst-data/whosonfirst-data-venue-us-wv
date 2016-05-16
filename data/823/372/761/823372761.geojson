@@ -1,0 +1,73 @@
+{
+  "id": 823372761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.645479,38.498334,-81.645479,38.498334",
+    "geom:latitude":38.498334,
+    "geom:longitude":-81.645479,
+    "iso:country":"US",
+    "sg:address":"2001 Teresa Ln",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 984 1010",
+    "sg:postcode":"25320",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1so5fRfUJHwOeSKYbwIUnU_38.498334_-81.645479@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431313,
+    "wof:geomhash":"346281daaf32e9616337d89b326c9441",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823372761
+        }
+    ],
+    "wof:id":823372761,
+    "wof:lastmodified":1463431313,
+    "wof:name":"Multiple Family Managment Inc",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -81.645479,
+    38.498334,
+    -81.645479,
+    38.498334
+],
+  "geometry": {"coordinates":[-81.64547899999999,38.498334],"type":"Point"}
+}

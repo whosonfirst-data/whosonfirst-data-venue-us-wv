@@ -1,0 +1,71 @@
+{
+  "id": 823401941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.033496,39.3505,-80.033496,39.3505",
+    "geom:latitude":39.3505,
+    "geom:longitude":-80.033496,
+    "iso:country":"US",
+    "sg:address":"1200 Baltimore St",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 265 3842",
+    "sg:postcode":"26354",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731717,
+        102083351,
+        85855577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27IPYA142vK2MeyjRDHsOT_39.350500_-80.033496@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432670,
+    "wof:geomhash":"8efd74e20faa1cf1f01a0550068e900c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083351,
+            "locality_id":101731717,
+            "neighbourhood_id":85855577,
+            "region_id":85688589,
+            "venue_id":823401941
+        }
+    ],
+    "wof:id":823401941,
+    "wof:lastmodified":1463432670,
+    "wof:name":"Briarcliff Apartments",
+    "wof:parent_id":85855577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -80.033496,
+    39.3505,
+    -80.033496,
+    39.3505
+],
+  "geometry": {"coordinates":[-80.033496,39.3505],"type":"Point"}
+}

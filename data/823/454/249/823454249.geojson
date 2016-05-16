@@ -1,0 +1,90 @@
+{
+  "id": 823454249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.22321,37.248152,-81.22321,37.248152",
+    "geom:latitude":37.248152,
+    "geom:longitude":-81.22321,
+    "iso:country":"US",
+    "sg:address":"751 W Cumberland Rd",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 325 3101",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "control",
+        "electrician",
+        "generators-electric-service",
+        "monitoring",
+        "system"
+    ],
+    "sg:website":"http://www.hyltonelectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51aYq2mo5ekWsMvSNnso9K_37.248152_-81.223210@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435010,
+    "wof:geomhash":"2b54ba99b84efaf389fc66763bba2204",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823454249
+        }
+    ],
+    "wof:id":823454249,
+    "wof:lastmodified":1463435010,
+    "wof:name":"Hylton's Electric Connection",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "electrician",
+        "generators-electric-service",
+        "monitoring",
+        "system"
+    ]
+},
+  "bbox": [
+    -81.22321,
+    37.248152,
+    -81.22321,
+    37.248152
+],
+  "geometry": {"coordinates":[-81.22320999999999,37.248152],"type":"Point"}
+}

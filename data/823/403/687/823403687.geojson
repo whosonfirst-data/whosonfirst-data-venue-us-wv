@@ -1,0 +1,73 @@
+{
+  "id": 823403687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.091189,37.386133,-81.091189,37.386133",
+    "geom:latitude":37.386133,
+    "geom:longitude":-81.091189,
+    "iso:country":"US",
+    "sg:address":"316 Bane Ave",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 3989",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6awOhnEluoQ6wfAvOehKT5_37.386133_-81.091189@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432738,
+    "wof:geomhash":"47426d303623e723c91ca79f454e9f27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823403687
+        }
+    ],
+    "wof:id":823403687,
+    "wof:lastmodified":1463432738,
+    "wof:name":"Hometown Construction",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.091189,
+    37.386133,
+    -81.091189,
+    37.386133
+],
+  "geometry": {"coordinates":[-81.091189,37.386133],"type":"Point"}
+}

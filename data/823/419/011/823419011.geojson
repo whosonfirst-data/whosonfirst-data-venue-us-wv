@@ -1,0 +1,73 @@
+{
+  "id": 823419011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.65672,38.364715,-81.65672,38.364715",
+    "geom:latitude":38.364715,
+    "geom:longitude":-81.65672,
+    "iso:country":"US",
+    "sg:address":"301 Russell St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 344 3302",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "excavation",
+        "work"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48nptDVepMPLtTaxqJxuvR_38.364715_-81.656720@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433427,
+    "wof:geomhash":"edb930553bfe748606a724246fa1717d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823419011
+        }
+    ],
+    "wof:id":823419011,
+    "wof:lastmodified":1463433427,
+    "wof:name":"Zeigler Enterprises Ltd",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "work"
+    ]
+},
+  "bbox": [
+    -81.65672,
+    38.364715,
+    -81.65672,
+    38.364715
+],
+  "geometry": {"coordinates":[-81.65672000000001,38.364715],"type":"Point"}
+}

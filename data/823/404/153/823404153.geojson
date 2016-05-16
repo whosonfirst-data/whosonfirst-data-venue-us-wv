@@ -1,0 +1,73 @@
+{
+  "id": 823404153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.030344,39.022973,-82.030344,39.022973",
+    "geom:latitude":39.022973,
+    "geom:longitude":-82.030344,
+    "iso:country":"US",
+    "sg:address":"104 W Horton St",
+    "sg:city":"Mason",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 773 5039",
+    "sg:postcode":"25260",
+    "sg:province":"WV",
+    "sg:tags":[
+        "commercial",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731555,
+        102082637,
+        85830595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SpimUGX82kEyrU34vFbot_39.022973_-82.030344@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432769,
+    "wof:geomhash":"fb72d4d2d29524f5e0f2c650bd5621e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082637,
+            "locality_id":101731555,
+            "neighbourhood_id":85830595,
+            "region_id":85688589,
+            "venue_id":823404153
+        }
+    ],
+    "wof:id":823404153,
+    "wof:lastmodified":1463432769,
+    "wof:name":"Meadows Contracting",
+    "wof:parent_id":85830595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.030344,
+    39.022973,
+    -82.030344,
+    39.022973
+],
+  "geometry": {"coordinates":[-82.030344,39.022973],"type":"Point"}
+}

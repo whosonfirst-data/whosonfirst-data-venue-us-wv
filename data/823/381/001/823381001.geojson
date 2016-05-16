@@ -1,0 +1,73 @@
+{
+  "id": 823381001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.628635,38.34337,-81.628635,38.34337",
+    "geom:latitude":38.34337,
+    "geom:longitude":-81.628635,
+    "iso:country":"US",
+    "sg:address":"1337 Virginia St E",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 1772",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7X5XxzSyrcuyBq4WCG6KUW_38.343370_-81.628635@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431690,
+    "wof:geomhash":"98e5a2476a8cc9eadb3aa453117d57d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823381001
+        }
+    ],
+    "wof:id":823381001,
+    "wof:lastmodified":1463431690,
+    "wof:name":"Bastien & Martin",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -81.628635,
+    38.34337,
+    -81.628635,
+    38.34337
+],
+  "geometry": {"coordinates":[-81.628635,38.34337],"type":"Point"}
+}

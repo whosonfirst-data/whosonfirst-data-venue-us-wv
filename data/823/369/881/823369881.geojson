@@ -1,0 +1,71 @@
+{
+  "id": 823369881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.532149,38.220812,-81.532149,38.220812",
+    "geom:latitude":38.220812,
+    "geom:longitude":-81.532149,
+    "iso:country":"US",
+    "sg:address":"24 130th St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 2038",
+    "sg:postcode":"25315",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KmzsTDafpkeWlks8D6qNW_38.220812_-81.532149@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431164,
+    "wof:geomhash":"c2410e57e41a210651e9588df5165024",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823369881
+        }
+    ],
+    "wof:id":823369881,
+    "wof:lastmodified":1463431164,
+    "wof:name":"Dale Elswick",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -81.532149,
+    38.220812,
+    -81.532149,
+    38.220812
+],
+  "geometry": {"coordinates":[-81.532149,38.220812],"type":"Point"}
+}

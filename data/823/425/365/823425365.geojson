@@ -1,0 +1,74 @@
+{
+  "id": 823425365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.68301,40.073279,-80.68301,40.073279",
+    "geom:latitude":40.073279,
+    "geom:longitude":-80.68301,
+    "iso:country":"US",
+    "sg:address":"1225 National Rd",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 242 1560",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.stmikesparish.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85817519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5r51EexDmZntFkk7OgkiiI_40.073279_-80.683010@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433674,
+    "wof:geomhash":"da6583eb9052a07614419a4478c01c2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85817519,
+            "region_id":85688589,
+            "venue_id":823425365
+        }
+    ],
+    "wof:id":823425365,
+    "wof:lastmodified":1463433674,
+    "wof:name":"St Michael's Catholic Church",
+    "wof:parent_id":85817519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -80.68301,
+    40.073279,
+    -80.68301,
+    40.073279
+],
+  "geometry": {"coordinates":[-80.68301,40.073279],"type":"Point"}
+}

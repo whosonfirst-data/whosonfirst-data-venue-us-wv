@@ -1,0 +1,71 @@
+{
+  "id": 823443199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.576326,38.318318,-81.576326,38.318318",
+    "geom:latitude":38.318318,
+    "geom:longitude":-81.576326,
+    "iso:country":"US",
+    "sg:address":"5000 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 8080",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ViOKFhpiJwJH6p8Dcc8Da_38.318318_-81.576326@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434509,
+    "wof:geomhash":"9caf80ce07208d12cff57af5a95c7274",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823443199
+        }
+    ],
+    "wof:id":823443199,
+    "wof:lastmodified":1463434509,
+    "wof:name":"City Motors Inc",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -81.576326,
+    38.318318,
+    -81.576326,
+    38.318318
+],
+  "geometry": {"coordinates":[-81.57632599999999,38.318318],"type":"Point"}
+}

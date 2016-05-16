@@ -1,0 +1,71 @@
+{
+  "id": 823403527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.3993,38.414558,-82.3993,38.414558",
+    "geom:latitude":38.414558,
+    "geom:longitude":-82.3993,
+    "iso:country":"US",
+    "sg:address":"199 Rotary Rd",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 528 5173",
+    "sg:postcode":"25705",
+    "sg:province":"WV",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083329,
+        85868309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ORw36ELze5wJsNFjA3aSq_38.414558_-82.399300@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432732,
+    "wof:geomhash":"3058ccbd06a3069f661e05f92abd08fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731553,
+            "neighbourhood_id":85868309,
+            "region_id":85688589,
+            "venue_id":823403527
+        }
+    ],
+    "wof:id":823403527,
+    "wof:lastmodified":1463432732,
+    "wof:name":"Peyton Elementary School",
+    "wof:parent_id":85868309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -82.3993,
+    38.414558,
+    -82.3993,
+    38.414558
+],
+  "geometry": {"coordinates":[-82.3993,38.414558],"type":"Point"}
+}

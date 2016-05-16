@@ -1,0 +1,73 @@
+{
+  "id": 823407685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.556284,38.300708,-81.556284,38.300708",
+    "geom:latitude":38.300708,
+    "geom:longitude":-81.556284,
+    "iso:country":"US",
+    "sg:address":"507 Georges Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 1659",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "residential",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rDl0NgLiZMieLKUcJ2eRq_38.300708_-81.556284@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432926,
+    "wof:geomhash":"cb675ead63b904c663f0e41e3afdb9fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823407685
+        }
+    ],
+    "wof:id":823407685,
+    "wof:lastmodified":1463432926,
+    "wof:name":"Johns Construction Company",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -81.556284,
+    38.300708,
+    -81.556284,
+    38.300708
+],
+  "geometry": {"coordinates":[-81.55628400000001,38.300708],"type":"Point"}
+}

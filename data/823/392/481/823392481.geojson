@@ -1,0 +1,77 @@
+{
+  "id": 823392481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.646145,38.363485,-81.646145,38.363485",
+    "geom:latitude":38.363485,
+    "geom:longitude":-81.646145,
+    "iso:country":"US",
+    "sg:address":"508 Roane St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 344 2511",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "canned",
+        "milk",
+        "fluid",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vd60DhzVnqoMCjOGtPA2T_38.363485_-81.646145@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432200,
+    "wof:geomhash":"1b7eddc5bc7b567995321e483947235d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823392481
+        }
+    ],
+    "wof:id":823392481,
+    "wof:lastmodified":1463432200,
+    "wof:name":"United Valley Bell Dairy",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "canned",
+        "milk",
+        "fluid",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -81.646145,
+    38.363485,
+    -81.646145,
+    38.363485
+],
+  "geometry": {"coordinates":[-81.646145,38.363485],"type":"Point"}
+}

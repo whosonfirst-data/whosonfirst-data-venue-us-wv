@@ -1,0 +1,73 @@
+{
+  "id": 823446799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.712227,40.063571,-80.712227,40.063571",
+    "geom:latitude":40.063571,
+    "geom:longitude":-80.712227,
+    "iso:country":"US",
+    "sg:address":"1717 McColloch St",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 230 1410",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85816921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gD63B9U0wPuALNsjQOcih_40.063571_-80.712227@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434684,
+    "wof:geomhash":"70e9a0c74cd7c3d711d6696d51fabe0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85816921,
+            "region_id":85688589,
+            "venue_id":823446799
+        }
+    ],
+    "wof:id":823446799,
+    "wof:lastmodified":1463434684,
+    "wof:name":"Wheeling Cab Co",
+    "wof:parent_id":85816921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -80.712227,
+    40.063571,
+    -80.712227,
+    40.063571
+],
+  "geometry": {"coordinates":[-80.712227,40.063571],"type":"Point"}
+}

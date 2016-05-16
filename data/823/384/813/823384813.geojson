@@ -1,0 +1,71 @@
+{
+  "id": 823384813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.842979,38.922571,-79.842979,38.922571",
+    "geom:latitude":38.922571,
+    "geom:longitude":-79.842979,
+    "iso:country":"US",
+    "sg:address":"8 Randolph Ave",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 7823",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EJCLEtISvXGYJEhwUadX6_38.922571_-79.842979@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431843,
+    "wof:geomhash":"f46bb6694aeb2c9faa50dd188f54afe8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823384813
+        }
+    ],
+    "wof:id":823384813,
+    "wof:lastmodified":1463431843,
+    "wof:name":"Randolph County Dental Clinic",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -79.842979,
+    38.922571,
+    -79.842979,
+    38.922571
+],
+  "geometry": {"coordinates":[-79.842979,38.922571],"type":"Point"}
+}

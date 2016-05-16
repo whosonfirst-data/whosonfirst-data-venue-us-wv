@@ -1,0 +1,72 @@
+{
+  "id": 823453609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.003454,39.655068,-80.003454,39.655068",
+    "geom:latitude":39.655068,
+    "geom:longitude":-80.003454,
+    "iso:country":"US",
+    "sg:address":"1001 University Town Centre Dr",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/western/256973-chilis/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 299 2823",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731749,
+        102082587,
+        85807277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UsnCKIMxEYBrX1u33IpIm_39.655068_-80.003454@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434953,
+    "wof:geomhash":"12694269132c1986b0c54c825503ed43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731749,
+            "neighbourhood_id":85807277,
+            "region_id":85688589,
+            "venue_id":823453609
+        }
+    ],
+    "wof:id":823453609,
+    "wof:lastmodified":1463434953,
+    "wof:name":"Chili's",
+    "wof:parent_id":85807277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -80.003454,
+    39.655068,
+    -80.003454,
+    39.655068
+],
+  "geometry": {"coordinates":[-80.003454,39.655068],"type":"Point"}
+}

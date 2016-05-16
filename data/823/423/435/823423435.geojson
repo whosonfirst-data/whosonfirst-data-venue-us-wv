@@ -1,0 +1,71 @@
+{
+  "id": 823423435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.559722,38.290168,-81.559722,38.290168",
+    "geom:latitude":38.290168,
+    "geom:longitude":-81.559722,
+    "iso:country":"US",
+    "sg:address":"4798 Kanawha Blvd E",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 0203",
+    "sg:postcode":"25312",
+    "sg:province":"WV",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19L2lnPtM2oTRAX7go5mwU_38.290168_-81.559722@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433599,
+    "wof:geomhash":"3db686facfc1d7d9f6d676c0d28da0b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823423435
+        }
+    ],
+    "wof:id":823423435,
+    "wof:lastmodified":1463433599,
+    "wof:name":"Medford Trucking LLC",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -81.559722,
+    38.290168,
+    -81.559722,
+    38.290168
+],
+  "geometry": {"coordinates":[-81.55972199999999,38.290168],"type":"Point"}
+}

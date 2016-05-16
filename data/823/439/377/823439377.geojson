@@ -1,0 +1,75 @@
+{
+  "id": 823439377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.184072,37.814808,-81.184072,37.814808",
+    "geom:latitude":37.814808,
+    "geom:longitude":-81.184072,
+    "iso:country":"US",
+    "sg:address":"103 Beckley Plz",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 255 7600",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ur7aiibj720WUAZJ43elD_37.814808_-81.184072@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434339,
+    "wof:geomhash":"bcedbbc93baf5d3900ed1ba2ef49bd50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823439377
+        }
+    ],
+    "wof:id":823439377,
+    "wof:lastmodified":1463434339,
+    "wof:name":"Yasar J Aksoy MD",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.184072,
+    37.814808,
+    -81.184072,
+    37.814808
+],
+  "geometry": {"coordinates":[-81.184072,37.814808],"type":"Point"}
+}

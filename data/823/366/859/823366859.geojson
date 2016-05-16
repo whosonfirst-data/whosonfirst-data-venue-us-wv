@@ -1,0 +1,76 @@
+{
+  "id": 823366859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.554762,39.249715,-81.554762,39.249715",
+    "geom:latitude":39.249715,
+    "geom:longitude":-81.554762,
+    "iso:country":"US",
+    "sg:address":"922 Division St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 485 2808",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85829881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EmZkaTVOTC6bBGsKMay32_39.249715_-81.554762@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431052,
+    "wof:geomhash":"9eaaf426acb928af9f91398743e6f1a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85829881,
+            "region_id":85688589,
+            "venue_id":823366859
+        }
+    ],
+    "wof:id":823366859,
+    "wof:lastmodified":1463431052,
+    "wof:name":"Family Dollar Stores",
+    "wof:parent_id":85829881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.554762,
+    39.249715,
+    -81.554762,
+    39.249715
+],
+  "geometry": {"coordinates":[-81.554762,39.249715],"type":"Point"}
+}

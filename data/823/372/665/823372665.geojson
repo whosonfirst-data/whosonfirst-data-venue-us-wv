@@ -1,0 +1,71 @@
+{
+  "id": 823372665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.594359,38.358379,-81.594359,38.358379",
+    "geom:latitude":38.358379,
+    "geom:longitude":-81.594359,
+    "iso:country":"US",
+    "sg:address":"1246 Greenbrier St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 5700",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5G5klJ1dB3s8kunwKQOJLV_38.358379_-81.594359@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431309,
+    "wof:geomhash":"9e036206cb396a59ab6ae78f33cb6a34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823372665
+        }
+    ],
+    "wof:id":823372665,
+    "wof:lastmodified":1463431309,
+    "wof:name":"North Gateway Animal Hosp Pllc",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -81.594359,
+    38.358379,
+    -81.594359,
+    38.358379
+],
+  "geometry": {"coordinates":[-81.594359,38.358379],"type":"Point"}
+}

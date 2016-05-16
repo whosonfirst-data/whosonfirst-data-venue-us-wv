@@ -1,0 +1,80 @@
+{
+  "id": 823413937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.10369,38.054116,-81.10369,38.054116",
+    "geom:latitude":38.054116,
+    "geom:longitude":-81.10369,
+    "iso:country":"US",
+    "sg:address":"202 Church St",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 574 1617",
+    "sg:postcode":"25840",
+    "sg:province":"WV",
+    "sg:tags":[
+        "county",
+        "program",
+        "executive",
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tr6InXFbefedGElR226F0_38.054116_-81.103690@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433181,
+    "wof:geomhash":"4f320145205379a389718e0495acae98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823413937
+        }
+    ],
+    "wof:id":823413937,
+    "wof:lastmodified":1463433181,
+    "wof:name":"Fayette County Health Dept",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "program",
+        "executive",
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -81.10369,
+    38.054116,
+    -81.10369,
+    38.054116
+],
+  "geometry": {"coordinates":[-81.10369,38.054116],"type":"Point"}
+}

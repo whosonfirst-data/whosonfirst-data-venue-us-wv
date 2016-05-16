@@ -1,0 +1,73 @@
+{
+  "id": 823384883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.652964,38.363991,-81.652964,38.363991",
+    "geom:latitude":38.363991,
+    "geom:longitude":-81.652964,
+    "iso:country":"US",
+    "sg:address":"706 Central Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 6897",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27zsvEHzErU9n3xQZOEsOb_38.363991_-81.652964@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431845,
+    "wof:geomhash":"a4b4816edcbd4d88dfebad969115740d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823384883
+        }
+    ],
+    "wof:id":823384883,
+    "wof:lastmodified":1463431845,
+    "wof:name":"W V Youth Advocate Program",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -81.652964,
+    38.363991,
+    -81.652964,
+    38.363991
+],
+  "geometry": {"coordinates":[-81.652964,38.363991],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823448423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.866073,39.638433,-80.866073,39.638433",
+    "geom:latitude":39.638433,
+    "geom:longitude":-80.866073,
+    "iso:country":"US",
+    "sg:address":"193 Main St",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 9100",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09zsRQVO1mDkwEKw3MK8pD_39.638433_-80.866073@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434757,
+    "wof:geomhash":"5ed23f4352fdd7b15cf0ff6d4c97a75b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823448423
+        }
+    ],
+    "wof:id":823448423,
+    "wof:lastmodified":1463434757,
+    "wof:name":"New Martinsville Police Dept",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -80.866073,
+    39.638433,
+    -80.866073,
+    39.638433
+],
+  "geometry": {"coordinates":[-80.866073,39.638433],"type":"Point"}
+}

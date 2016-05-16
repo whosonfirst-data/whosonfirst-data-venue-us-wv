@@ -1,0 +1,73 @@
+{
+  "id": 823425263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.463135,39.042191,-80.463135,39.042191",
+    "geom:latitude":39.042191,
+    "geom:longitude":-80.463135,
+    "iso:country":"US",
+    "sg:address":"528 N Main St",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 269 2210",
+    "sg:postcode":"26452",
+    "sg:province":"WV",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85833241,
+        102083339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ue3kkwbJwAVqlqZuOGHa3_39.042191_-80.463135@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433670,
+    "wof:geomhash":"c96b20c70b19eadf036b17ea06c1334e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083339,
+            "neighbourhood_id":85833241,
+            "region_id":85688589,
+            "venue_id":823425263
+        }
+    ],
+    "wof:id":823425263,
+    "wof:lastmodified":1463433670,
+    "wof:name":"Bob's Auto Sales",
+    "wof:parent_id":85833241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -80.463135,
+    39.042191,
+    -80.463135,
+    39.042191
+],
+  "geometry": {"coordinates":[-80.46313499999999,39.042191],"type":"Point"}
+}

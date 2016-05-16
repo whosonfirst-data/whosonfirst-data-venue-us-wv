@@ -1,0 +1,74 @@
+{
+  "id": 823431351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.180199,37.778889,-81.180199,37.778889",
+    "geom:latitude":37.778889,
+    "geom:longitude":-81.180199,
+    "iso:country":"US",
+    "sg:address":"340 E Prince St",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 256 1708",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.beckleypd.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44z9FoDtrjoAXgvnrReNZv_37.778889_-81.180199@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433934,
+    "wof:geomhash":"95ba59f1b553fde124c51bfb67fd32b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823431351
+        }
+    ],
+    "wof:id":823431351,
+    "wof:lastmodified":1463433934,
+    "wof:name":"Beckley Police Dept",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -81.180199,
+    37.778889,
+    -81.180199,
+    37.778889
+],
+  "geometry": {"coordinates":[-81.180199,37.778889],"type":"Point"}
+}

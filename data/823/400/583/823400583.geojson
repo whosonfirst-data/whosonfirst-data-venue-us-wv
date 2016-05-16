@@ -1,0 +1,71 @@
+{
+  "id": 823400583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.342855,39.280568,-80.342855,39.280568",
+    "geom:latitude":39.280568,
+    "geom:longitude":-80.342855,
+    "iso:country":"US",
+    "sg:address":"123 S 6th St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 622 3694",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BWiuAVAbXH02ncogWgggE_39.280568_-80.342855@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432609,
+    "wof:geomhash":"f39d6a4ff9b3dac322ef10e6f471e20a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823400583
+        }
+    ],
+    "wof:id":823400583,
+    "wof:lastmodified":1463432609,
+    "wof:name":"Christ Episcopal Church",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -80.342855,
+    39.280568,
+    -80.342855,
+    39.280568
+],
+  "geometry": {"coordinates":[-80.342855,39.280568],"type":"Point"}
+}

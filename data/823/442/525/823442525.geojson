@@ -1,0 +1,73 @@
+{
+  "id": 823442525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.337504,38.408627,-82.337504,38.408627",
+    "geom:latitude":38.408627,
+    "geom:longitude":-82.337504,
+    "iso:country":"US",
+    "sg:address":"5436 Lea Hill Dr",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 733 4735",
+    "sg:postcode":"25705",
+    "sg:province":"WV",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85856091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52zKOunFv9v80CHpXoYdTz_38.408627_-82.337504@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434471,
+    "wof:geomhash":"b1d19bbafc03ec7ece411a60c9dfe258",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85856091,
+            "region_id":85688589,
+            "venue_id":823442525
+        }
+    ],
+    "wof:id":823442525,
+    "wof:lastmodified":1463434471,
+    "wof:name":"David Imhoff",
+    "wof:parent_id":85856091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -82.337504,
+    38.408627,
+    -82.337504,
+    38.408627
+],
+  "geometry": {"coordinates":[-82.337504,38.408627],"type":"Point"}
+}

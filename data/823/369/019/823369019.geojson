@@ -1,0 +1,73 @@
+{
+  "id": 823369019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.979861,39.447961,-77.979861,39.447961",
+    "geom:latitude":39.447961,
+    "geom:longitude":-77.979861,
+    "iso:country":"US",
+    "sg:address":"904 Winchester Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 262 0208",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37zGQPI81wWSkCR6odQb8g_39.447961_-77.979861@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431134,
+    "wof:geomhash":"c0e9b71bf88fcbb5773ff1ac49671fc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823369019
+        }
+    ],
+    "wof:id":823369019,
+    "wof:lastmodified":1463431134,
+    "wof:name":"Bear's Repair & Tire Svc",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -77.979861,
+    39.447961,
+    -77.979861,
+    39.447961
+],
+  "geometry": {"coordinates":[-77.979861,39.447961],"type":"Point"}
+}

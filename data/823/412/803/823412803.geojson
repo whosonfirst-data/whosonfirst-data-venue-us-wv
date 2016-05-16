@@ -1,0 +1,73 @@
+{
+  "id": 823412803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.657997,38.49225,-81.657997,38.49225",
+    "geom:latitude":38.49225,
+    "geom:longitude":-81.657997,
+    "iso:country":"US",
+    "sg:address":"1 Meg Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 984 2710",
+    "sg:postcode":"25320",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qZSgdRZDV6P6v4BVkNdBh_38.492250_-81.657997@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433132,
+    "wof:geomhash":"454c21ac740b1dd00a63038a667fe9f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823412803
+        }
+    ],
+    "wof:id":823412803,
+    "wof:lastmodified":1463433132,
+    "wof:name":"Meg Village Apartments",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -81.657997,
+    38.49225,
+    -81.657997,
+    38.49225
+],
+  "geometry": {"coordinates":[-81.65799699999999,38.49225],"type":"Point"}
+}

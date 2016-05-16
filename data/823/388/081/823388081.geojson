@@ -1,0 +1,71 @@
+{
+  "id": 823388081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.192715,37.260452,-81.192715,37.260452",
+    "geom:latitude":37.260452,
+    "geom:longitude":-81.192715,
+    "iso:country":"US",
+    "sg:address":"2831 Edgemont Dr",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 327 0074",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eAHDnM90B0Whsm8hTg1CR_37.260452_-81.192715@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431966,
+    "wof:geomhash":"1aa2524ef471197330934c267255f227",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823388081
+        }
+    ],
+    "wof:id":823388081,
+    "wof:lastmodified":1463431966,
+    "wof:name":"Teamsters Local 175",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -81.192715,
+    37.260452,
+    -81.192715,
+    37.260452
+],
+  "geometry": {"coordinates":[-81.19271500000001,37.260452],"type":"Point"}
+}

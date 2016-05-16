@@ -1,0 +1,71 @@
+{
+  "id": 823450403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.349504,39.282387,-80.349504,39.282387",
+    "geom:latitude":39.282387,
+    "geom:longitude":-80.349504,
+    "iso:country":"US",
+    "sg:address":"788 W Pike St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 622 0131",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CfnBHYy9dwGZb1nR9mlJ0_39.282387_-80.349504@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434830,
+    "wof:geomhash":"6a863f7e58a4a072468afd81f82a2b21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823450403
+        }
+    ],
+    "wof:id":823450403,
+    "wof:lastmodified":1463434830,
+    "wof:name":"Kroger",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -80.349504,
+    39.282387,
+    -80.349504,
+    39.282387
+],
+  "geometry": {"coordinates":[-80.349504,39.282387],"type":"Point"}
+}

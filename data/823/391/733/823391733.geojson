@@ -1,0 +1,73 @@
+{
+  "id": 823391733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.731996,38.354476,-81.731996,38.354476",
+    "geom:latitude":38.354476,
+    "geom:longitude":-81.731996,
+    "iso:country":"US",
+    "sg:address":"4920 Maccorkle Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 9225",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HSKgjxLYUbghwlRQj8ObM_38.354476_-81.731996@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432157,
+    "wof:geomhash":"a40cea0ff692ca4a1c4b996e1dc8ad3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823391733
+        }
+    ],
+    "wof:id":823391733,
+    "wof:lastmodified":1463432157,
+    "wof:name":"Sam Skaff Inc",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.731996,
+    38.354476,
+    -81.731996,
+    38.354476
+],
+  "geometry": {"coordinates":[-81.731996,38.354476],"type":"Point"}
+}

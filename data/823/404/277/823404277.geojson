@@ -1,0 +1,71 @@
+{
+  "id": 823404277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.930998,39.605345,-80.930998,39.605345",
+    "geom:latitude":39.605345,
+    "geom:longitude":-80.930998,
+    "iso:country":"US",
+    "sg:address":"212 N 4th Ave",
+    "sg:city":"Paden City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 337 8525",
+    "sg:postcode":"26159",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0c0CHslvNc5AZwUIKHJxEa_39.605345_-80.930998@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432773,
+    "wof:geomhash":"1d20ca5dc67d6e297ac41258b5294263",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823404277
+        }
+    ],
+    "wof:id":823404277,
+    "wof:lastmodified":1463432773,
+    "wof:name":"Robin's Nest Hair Salon",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -80.930998,
+    39.605345,
+    -80.930998,
+    39.605345
+],
+  "geometry": {"coordinates":[-80.930998,39.605345],"type":"Point"}
+}

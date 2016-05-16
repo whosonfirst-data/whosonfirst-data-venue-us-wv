@@ -1,0 +1,73 @@
+{
+  "id": 823394465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.465507,39.039262,-80.465507,39.039262",
+    "geom:latitude":39.039262,
+    "geom:longitude":-80.465507,
+    "iso:country":"US",
+    "sg:address":"1080 US Hwy 33",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 269 1939",
+    "sg:postcode":"26452",
+    "sg:province":"WV",
+    "sg:tags":[
+        "field",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731403,
+        102083339,
+        85808257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xaUQqaakcehc4ktlnOUFN_39.039262_-80.465507@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432306,
+    "wof:geomhash":"dedef0b967e5e792b5347b3249ee7a23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083339,
+            "locality_id":101731403,
+            "neighbourhood_id":85808257,
+            "region_id":85688589,
+            "venue_id":823394465
+        }
+    ],
+    "wof:id":823394465,
+    "wof:lastmodified":1463432306,
+    "wof:name":"Schlumberger Oilfield Svc",
+    "wof:parent_id":85808257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "oil"
+    ]
+},
+  "bbox": [
+    -80.465507,
+    39.039262,
+    -80.465507,
+    39.039262
+],
+  "geometry": {"coordinates":[-80.465507,39.039262],"type":"Point"}
+}

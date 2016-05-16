@@ -1,0 +1,84 @@
+{
+  "id": 823453351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.548522,39.301232,-81.548522,39.301232",
+    "geom:latitude":39.301232,
+    "geom:longitude":-81.548522,
+    "iso:country":"US",
+    "sg:address":"107 Grand Central Ave",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/parkersburg/162997-rallys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 485 7689",
+    "sg:postcode":"26105",
+    "sg:province":"WV",
+    "sg:tags":[
+        "sandwich",
+        "dog",
+        "burger",
+        "hot",
+        "wrap",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731687,
+        102083343,
+        85805293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32m9bkJmVfp5puy7t7WUng_39.301232_-81.548522@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434943,
+    "wof:geomhash":"049dd5b04281d438943dbb824a15e74c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85805293,
+            "region_id":85688589,
+            "venue_id":823453351
+        }
+    ],
+    "wof:id":823453351,
+    "wof:lastmodified":1463434943,
+    "wof:name":"Rally's",
+    "wof:parent_id":85805293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "dog",
+        "burger",
+        "hot",
+        "wrap",
+        "american"
+    ]
+},
+  "bbox": [
+    -81.548522,
+    39.301232,
+    -81.548522,
+    39.301232
+],
+  "geometry": {"coordinates":[-81.54852200000001,39.301232],"type":"Point"}
+}

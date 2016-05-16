@@ -1,0 +1,73 @@
+{
+  "id": 823390823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.740348,38.359981,-81.740348,38.359981",
+    "geom:latitude":38.359981,
+    "geom:longitude":-81.740348,
+    "iso:country":"US",
+    "sg:address":"1227 Leone Ln",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 1271",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4O8zrkh9Xd8BSsXgniyiiC_38.359981_-81.740348@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432113,
+    "wof:geomhash":"dceb27126a607cbbcb16469956bc93fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823390823
+        }
+    ],
+    "wof:id":823390823,
+    "wof:lastmodified":1463432113,
+    "wof:name":"Kshirsagar Corp",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.740348,
+    38.359981,
+    -81.740348,
+    38.359981
+],
+  "geometry": {"coordinates":[-81.740348,38.359981],"type":"Point"}
+}

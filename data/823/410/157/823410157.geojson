@@ -1,0 +1,69 @@
+{
+  "id": 823410157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.526123,39.3026,-81.526123,39.3026",
+    "geom:latitude":39.3026,
+    "geom:longitude":-81.526123,
+    "iso:country":"US",
+    "sg:address":"5300 Rosemar Rd",
+    "sg:city":"Vienna",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 614 272 2900",
+    "sg:postcode":"26105",
+    "sg:province":"WV",
+    "sg:tags":[
+        "warehousing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818799,
+        102083343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GTZGv1tCZFEjFcbMpSQKi_39.302600_-81.526123@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433030,
+    "wof:geomhash":"2ecc5126780ab502f779599de77097c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "neighbourhood_id":85818799,
+            "region_id":85688589,
+            "venue_id":823410157
+        }
+    ],
+    "wof:id":823410157,
+    "wof:lastmodified":1463433030,
+    "wof:name":"Virginia Transdstribution/West",
+    "wof:parent_id":85818799,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehousing"
+    ]
+},
+  "bbox": [
+    -81.526123,
+    39.3026,
+    -81.526123,
+    39.3026
+],
+  "geometry": {"coordinates":[-81.526123,39.3026],"type":"Point"}
+}

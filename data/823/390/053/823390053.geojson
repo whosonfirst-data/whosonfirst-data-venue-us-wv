@@ -1,0 +1,71 @@
+{
+  "id": 823390053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.035045,39.146195,-80.035045,39.146195",
+    "geom:latitude":39.146195,
+    "geom:longitude":-80.035045,
+    "iso:country":"US",
+    "sg:address":"317 S Main St",
+    "sg:city":"Philippi",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 457 5167",
+    "sg:postcode":"26416",
+    "sg:province":"WV",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QUH7VhuHMu3mdut3Wy2ys_39.146195_-80.035045@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432079,
+    "wof:geomhash":"063d47d75aafe6152e5a6a0d09086304",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823390053
+        }
+    ],
+    "wof:id":823390053,
+    "wof:lastmodified":1463432079,
+    "wof:name":"Philippi City Fire Dept Comms",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -80.035045,
+    39.146195,
+    -80.035045,
+    39.146195
+],
+  "geometry": {"coordinates":[-80.035045,39.146195],"type":"Point"}
+}

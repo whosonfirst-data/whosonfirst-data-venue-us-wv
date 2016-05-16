@@ -1,0 +1,73 @@
+{
+  "id": 823407205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.669337,38.467559,-81.669337,38.467559",
+    "geom:latitude":38.467559,
+    "geom:longitude":-81.669337,
+    "iso:country":"US",
+    "sg:address":"6087 Sissonville Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 984 0050",
+    "sg:postcode":"25312",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0icKErjzipVGviwMJnL1id_38.467559_-81.669337@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432910,
+    "wof:geomhash":"8857e62850bfe306d7437cc0895fe786",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823407205
+        }
+    ],
+    "wof:id":823407205,
+    "wof:lastmodified":1463432910,
+    "wof:name":"Physician Health Care Clinic",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.669337,
+    38.467559,
+    -81.669337,
+    38.467559
+],
+  "geometry": {"coordinates":[-81.669337,38.467559],"type":"Point"}
+}

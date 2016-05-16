@@ -1,0 +1,71 @@
+{
+  "id": 823380107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.353984,39.305047,-80.353984,39.305047",
+    "geom:latitude":39.305047,
+    "geom:longitude":-80.353984,
+    "iso:country":"US",
+    "sg:address":"114 Edgewood Ave",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 622 1322",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69wA8187iTmSRJnx2gPVce_39.305047_-80.353984@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431640,
+    "wof:geomhash":"713c778dc3e049b095e6c3e164b84057",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823380107
+        }
+    ],
+    "wof:id":823380107,
+    "wof:lastmodified":1463431640,
+    "wof:name":"Barkers Heating & AC",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.353984,
+    39.305047,
+    -80.353984,
+    39.305047
+],
+  "geometry": {"coordinates":[-80.353984,39.305047],"type":"Point"}
+}

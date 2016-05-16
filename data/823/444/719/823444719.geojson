@@ -1,0 +1,75 @@
+{
+  "id": 823444719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.057378,37.391901,-81.057378,37.391901",
+    "geom:latitude":37.391901,
+    "geom:longitude":-81.057378,
+    "iso:country":"US",
+    "sg:address":"566 Eads Mill Rd",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 6877",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "body",
+        "automotive",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bQBmBLpxUJZkkA31lgrE4_37.391901_-81.057378@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434577,
+    "wof:geomhash":"88ca7025346408ec7d1f6e4a6bf26935",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823444719
+        }
+    ],
+    "wof:id":823444719,
+    "wof:lastmodified":1463434577,
+    "wof:name":"Clemsons Body Shop",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automotive",
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.057378,
+    37.391901,
+    -81.057378,
+    37.391901
+],
+  "geometry": {"coordinates":[-81.057378,37.391901],"type":"Point"}
+}

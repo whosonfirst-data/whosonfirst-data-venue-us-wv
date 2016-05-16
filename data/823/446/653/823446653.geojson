@@ -1,0 +1,71 @@
+{
+  "id": 823446653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.529144,39.234313,-81.529144,39.234313",
+    "geom:latitude":39.234313,
+    "geom:longitude":-81.529144,
+    "iso:country":"US",
+    "sg:address":"4416 9th Ave",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 428 1317",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28RT6IqaYeJO7tLsiP5vV6_39.234313_-81.529144@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434678,
+    "wof:geomhash":"37743e544fc1bfe7e1c2ec7ff6c86135",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823446653
+        }
+    ],
+    "wof:id":823446653,
+    "wof:lastmodified":1463434678,
+    "wof:name":"Joes Plumbing",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.529144,
+    39.234313,
+    -81.529144,
+    39.234313
+],
+  "geometry": {"coordinates":[-81.529144,39.234313],"type":"Point"}
+}

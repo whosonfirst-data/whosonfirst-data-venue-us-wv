@@ -1,0 +1,78 @@
+{
+  "id": 823438451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.987287,39.461617,-77.987287,39.461617",
+    "geom:latitude":39.461617,
+    "geom:longitude":-77.987287,
+    "iso:country":"US",
+    "sg:address":"300 Foxcroft Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 264 4700",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "equipment",
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54Nw3Yu6SEJmUj7lt4hgjh_39.461617_-77.987287@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434300,
+    "wof:geomhash":"e13922dca7908aaff31d919aea9f89b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823438451
+        }
+    ],
+    "wof:id":823438451,
+    "wof:lastmodified":1463434300,
+    "wof:name":"Verizon",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -77.987287,
+    39.461617,
+    -77.987287,
+    39.461617
+],
+  "geometry": {"coordinates":[-77.98728699999999,39.461617],"type":"Point"}
+}

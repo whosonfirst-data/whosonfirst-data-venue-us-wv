@@ -1,0 +1,71 @@
+{
+  "id": 823425109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.350282,38.801268,-81.350282,38.801268",
+    "geom:latitude":38.801268,
+    "geom:longitude":-81.350282,
+    "iso:country":"US",
+    "sg:address":"335 Church St",
+    "sg:city":"Spencer",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 927 3001",
+    "sg:postcode":"25276",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731535,
+        102083399,
+        85868331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KfgyukV6sxbfLo6zUjL7w_38.801268_-81.350282@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433663,
+    "wof:geomhash":"96f5e67ff5f280fff15030137275e212",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083399,
+            "locality_id":101731535,
+            "neighbourhood_id":85868331,
+            "region_id":85688589,
+            "venue_id":823425109
+        }
+    ],
+    "wof:id":823425109,
+    "wof:lastmodified":1463433663,
+    "wof:name":"St John's United Methodist Chr",
+    "wof:parent_id":85868331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.350282,
+    38.801268,
+    -81.350282,
+    38.801268
+],
+  "geometry": {"coordinates":[-81.35028200000001,38.801268],"type":"Point"}
+}

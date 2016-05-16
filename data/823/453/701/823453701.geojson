@@ -1,0 +1,80 @@
+{
+  "id": 823453701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.954969,39.63087,-79.954969,39.63087",
+    "geom:latitude":39.63087,
+    "geom:longitude":-79.954969,
+    "iso:country":"US",
+    "sg:address":"400 High St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/central/139775-sicilias-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 291 3300",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wbG3WjVCyGFzkoIQ8F5NO_39.630870_-79.954969@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434957,
+    "wof:geomhash":"d165741224633370529b7e1ae9c53199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851489,
+            "region_id":85688589,
+            "venue_id":823453701
+        }
+    ],
+    "wof:id":823453701,
+    "wof:lastmodified":1463434957,
+    "wof:name":"Sicilia's Pizzeria",
+    "wof:parent_id":85851489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -79.954969,
+    39.63087,
+    -79.954969,
+    39.63087
+],
+  "geometry": {"coordinates":[-79.95496900000001,39.63087],"type":"Point"}
+}

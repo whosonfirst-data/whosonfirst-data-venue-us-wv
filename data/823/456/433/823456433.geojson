@@ -1,0 +1,67 @@
+{
+  "id": 823456433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.55711,40.619894,-80.55711,40.619894",
+    "geom:latitude":40.619894,
+    "geom:longitude":-80.55711,
+    "iso:country":"US",
+    "sg:address":"928 Neptune Ave",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 3797",
+    "sg:postcode":"26034",
+    "sg:province":"WV",
+    "sg:website":"http://www.salondavinci.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xqjfQFa2JRnbvzqTrjoxz_40.619894_-80.557110@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435112,
+    "wof:geomhash":"18fed7238c8f9bef5f3c6b6f73ba0587",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823456433
+        }
+    ],
+    "wof:id":823456433,
+    "wof:lastmodified":1463435112,
+    "wof:name":"Salon Davinci",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.55711,
+    40.619894,
+    -80.55711,
+    40.619894
+],
+  "geometry": {"coordinates":[-80.55710999999999,40.619894],"type":"Point"}
+}

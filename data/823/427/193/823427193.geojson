@@ -1,0 +1,71 @@
+{
+  "id": 823427193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.890452,37.672736,-80.890452,37.672736",
+    "geom:latitude":37.672736,
+    "geom:longitude":-80.890452,
+    "iso:country":"US",
+    "sg:address":"421 2nd Ave",
+    "sg:city":"Hinton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 466 2552",
+    "sg:postcode":"25951",
+    "sg:province":"WV",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731641,
+        102083407,
+        85804037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AvH1ROkjee6nOSdA7LGnv_37.672736_-80.890452@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433759,
+    "wof:geomhash":"9fe4896c4781e8593fbfb419372bf368",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083407,
+            "locality_id":101731641,
+            "neighbourhood_id":85804037,
+            "region_id":85688589,
+            "venue_id":823427193
+        }
+    ],
+    "wof:id":823427193,
+    "wof:lastmodified":1463433759,
+    "wof:name":"SCS Surveyors",
+    "wof:parent_id":85804037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -80.890452,
+    37.672736,
+    -80.890452,
+    37.672736
+],
+  "geometry": {"coordinates":[-80.890452,37.672736],"type":"Point"}
+}

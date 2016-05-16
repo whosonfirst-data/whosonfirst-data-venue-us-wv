@@ -1,0 +1,71 @@
+{
+  "id": 823425419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.159405,37.898329,-81.159405,37.898329",
+    "geom:latitude":37.898329,
+    "geom:longitude":-81.159405,
+    "iso:country":"US",
+    "sg:address":"104 Main St",
+    "sg:city":"Glen Jean",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 465 0508",
+    "sg:postcode":"25880",
+    "sg:province":"WV",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731505,
+        102083359,
+        85852821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1F1uwP5Oy241A7gQy4kyuQ_37.898329_-81.159405@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433676,
+    "wof:geomhash":"596cfcfb0417027bf7997cd345b1514b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "locality_id":101731505,
+            "neighbourhood_id":85852821,
+            "region_id":85688589,
+            "venue_id":823425419
+        }
+    ],
+    "wof:id":823425419,
+    "wof:lastmodified":1463433676,
+    "wof:name":"US Interior Dept",
+    "wof:parent_id":85852821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -81.159405,
+    37.898329,
+    -81.159405,
+    37.898329
+],
+  "geometry": {"coordinates":[-81.15940500000001,37.898329],"type":"Point"}
+}

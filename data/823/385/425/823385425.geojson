@@ -1,0 +1,73 @@
+{
+  "id": 823385425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.29097,37.799759,-80.29097,37.799759",
+    "geom:latitude":37.799759,
+    "geom:longitude":-80.29097,
+    "iso:country":"US",
+    "sg:address":"619 E Main St",
+    "sg:city":"White Slphr Spgs",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 536 4067",
+    "sg:postcode":"24986",
+    "sg:province":"WV",
+    "sg:tags":[
+        "company",
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mffWKKMgUpxvH1BYeExEx_37.799759_-80.290970@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431864,
+    "wof:geomhash":"172994a5ed44333bd7ef56b630348ba6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823385425
+        }
+    ],
+    "wof:id":823385425,
+    "wof:lastmodified":1463431864,
+    "wof:name":"Mountain Side Logging",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "logging"
+    ]
+},
+  "bbox": [
+    -80.29097,
+    37.799759,
+    -80.29097,
+    37.799759
+],
+  "geometry": {"coordinates":[-80.29097,37.799759],"type":"Point"}
+}

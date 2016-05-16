@@ -1,0 +1,77 @@
+{
+  "id": 823455267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.957324,39.41818,-77.957324,39.41818",
+    "geom:latitude":39.41818,
+    "geom:longitude":-77.957324,
+    "iso:country":"US",
+    "sg:address":"582 Douglas Grove Rd",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 9286",
+    "sg:postcode":"25405",
+    "sg:province":"WV",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vMwlER7X5S7m7NRW8O1eB_39.418180_-77.957324@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435068,
+    "wof:geomhash":"b1f6a410e00e29464f30f0266080537e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823455267
+        }
+    ],
+    "wof:id":823455267,
+    "wof:lastmodified":1463435068,
+    "wof:name":"Neal",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [
+    -77.957324,
+    39.41818,
+    -77.957324,
+    39.41818
+],
+  "geometry": {"coordinates":[-77.957324,39.41818],"type":"Point"}
+}

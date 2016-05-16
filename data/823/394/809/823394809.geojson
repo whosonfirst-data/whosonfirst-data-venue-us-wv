@@ -1,0 +1,73 @@
+{
+  "id": 823394809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.559706,38.373694,-82.559706,38.373694",
+    "geom:latitude":38.373694,
+    "geom:longitude":-82.559706,
+    "iso:country":"US",
+    "sg:address":"1449 Airport Rd",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 3087",
+    "sg:postcode":"25704",
+    "sg:province":"WV",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083365,
+        85857035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NX96HMwB6h6e3wTJtH6kY_38.373694_-82.559706@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432318,
+    "wof:geomhash":"d861a1b28615181ba976c45ae4c2c99e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731553,
+            "neighbourhood_id":85857035,
+            "region_id":85688589,
+            "venue_id":823394809
+        }
+    ],
+    "wof:id":823394809,
+    "wof:lastmodified":1463432318,
+    "wof:name":"Budget Rent-A-Car",
+    "wof:parent_id":85857035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -82.559706,
+    38.373694,
+    -82.559706,
+    38.373694
+],
+  "geometry": {"coordinates":[-82.55970600000001,38.373694],"type":"Point"}
+}

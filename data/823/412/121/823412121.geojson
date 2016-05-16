@@ -1,0 +1,73 @@
+{
+  "id": 823412121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.901679,39.6753,-79.901679,39.6753",
+    "geom:latitude":39.6753,
+    "geom:longitude":-79.901679,
+    "iso:country":"US",
+    "sg:address":"127 Quail Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 5362",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731747,
+        102082587,
+        85819247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hcoI9gLbYu6jXrcL9SBLA_39.675300_-79.901679@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433107,
+    "wof:geomhash":"1fc8b39dbe24137ac9503545ece01a1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85819247,
+            "region_id":85688589,
+            "venue_id":823412121
+        }
+    ],
+    "wof:id":823412121,
+    "wof:lastmodified":1463433107,
+    "wof:name":"Progressive Contracting",
+    "wof:parent_id":85819247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -79.901679,
+    39.6753,
+    -79.901679,
+    39.6753
+],
+  "geometry": {"coordinates":[-79.901679,39.6753],"type":"Point"}
+}

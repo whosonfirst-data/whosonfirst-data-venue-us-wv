@@ -1,0 +1,76 @@
+{
+  "id": 823452541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.713194,38.335324,-81.713194,38.335324",
+    "geom:latitude":38.335324,
+    "geom:longitude":-81.713194,
+    "iso:country":"US",
+    "sg:address":"55 R H L Blvd",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/davis-creek/139310-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 746 4400",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45QnpGJ07D8PgSSUetfTwY_38.335324_-81.713194@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434911,
+    "wof:geomhash":"a9ec6cde89b3830c4bd47344243688eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823452541
+        }
+    ],
+    "wof:id":823452541,
+    "wof:lastmodified":1463434911,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -81.713194,
+    38.335324,
+    -81.713194,
+    38.335324
+],
+  "geometry": {"coordinates":[-81.713194,38.335324],"type":"Point"}
+}

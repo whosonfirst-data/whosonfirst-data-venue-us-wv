@@ -1,0 +1,71 @@
+{
+  "id": 823405389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.328446,38.421021,-82.328446,38.421021",
+    "geom:latitude":38.421021,
+    "geom:longitude":-82.328446,
+    "iso:country":"US",
+    "sg:address":"10 Fairway Dr",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 736 0504",
+    "sg:postcode":"25705",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85865435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35DDsysW3F1wm6Y9M4KmqT_38.421021_-82.328446@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432831,
+    "wof:geomhash":"2458c798bbdde53f874e5b143703a677",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85865435,
+            "region_id":85688589,
+            "venue_id":823405389
+        }
+    ],
+    "wof:id":823405389,
+    "wof:lastmodified":1463432831,
+    "wof:name":"Tascalis",
+    "wof:parent_id":85865435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -82.328446,
+    38.421021,
+    -82.328446,
+    38.421021
+],
+  "geometry": {"coordinates":[-82.328446,38.421021],"type":"Point"}
+}

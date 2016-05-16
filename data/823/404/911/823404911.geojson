@@ -1,0 +1,71 @@
+{
+  "id": 823404911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.580415,38.366411,-81.580415,38.366411",
+    "geom:latitude":38.366411,
+    "geom:longitude":-81.580415,
+    "iso:country":"US",
+    "sg:address":"1505 Rutledge Rd",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 344 0185",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LdrY9SroFOnLm1qfl2aRU_38.366411_-81.580415@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432807,
+    "wof:geomhash":"70cbff618b7d6c3f9d7c4df204f7f643",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823404911
+        }
+    ],
+    "wof:id":823404911,
+    "wof:lastmodified":1463432807,
+    "wof:name":"Pierce Towing",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -81.580415,
+    38.366411,
+    -81.580415,
+    38.366411
+],
+  "geometry": {"coordinates":[-81.580415,38.366411],"type":"Point"}
+}

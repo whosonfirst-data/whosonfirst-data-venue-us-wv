@@ -1,0 +1,73 @@
+{
+  "id": 823383651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.718535,40.065188,-80.718535,40.065188",
+    "geom:latitude":40.065188,
+    "geom:longitude":-80.718535,
+    "iso:country":"US",
+    "sg:address":"26 15th St",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 234 3752",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85816921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1psUHknmIDKGtu9jUUD4QV_40.065188_-80.718535@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431798,
+    "wof:geomhash":"628119893ba53d28226d519dbd68e5e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85816921,
+            "region_id":85688589,
+            "venue_id":823383651
+        }
+    ],
+    "wof:id":823383651,
+    "wof:lastmodified":1463431798,
+    "wof:name":"Ohio County Magistrate Clerk",
+    "wof:parent_id":85816921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -80.718535,
+    40.065188,
+    -80.718535,
+    40.065188
+],
+  "geometry": {"coordinates":[-80.718535,40.065188],"type":"Point"}
+}

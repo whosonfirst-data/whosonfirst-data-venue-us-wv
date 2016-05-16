@@ -1,0 +1,71 @@
+{
+  "id": 823388257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.37033,38.373746,-82.37033,38.373746",
+    "geom:latitude":38.373746,
+    "geom:longitude":-82.37033,
+    "iso:country":"US",
+    "sg:address":"3875 Green Valley Rd",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 529 7895",
+    "sg:postcode":"25701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083329,
+        85868301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77iNukNSqQHbFIhKkuEcnr_38.373746_-82.370330@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431983,
+    "wof:geomhash":"38309cb20b8c291c206c650cf6127dda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731553,
+            "neighbourhood_id":85868301,
+            "region_id":85688589,
+            "venue_id":823388257
+        }
+    ],
+    "wof:id":823388257,
+    "wof:lastmodified":1463431983,
+    "wof:name":"Simply Nails",
+    "wof:parent_id":85868301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -82.37033,
+    38.373746,
+    -82.37033,
+    38.373746
+],
+  "geometry": {"coordinates":[-82.37033,38.373746],"type":"Point"}
+}

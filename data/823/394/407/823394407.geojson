@@ -1,0 +1,73 @@
+{
+  "id": 823394407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.465263,38.209238,-81.465263,38.209238",
+    "geom:latitude":38.209238,
+    "geom:longitude":-81.465263,
+    "iso:country":"US",
+    "sg:address":"129 Watson Ave",
+    "sg:city":"Belle",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 595 1064",
+    "sg:postcode":"25015",
+    "sg:province":"WV",
+    "sg:tags":[
+        "haulage",
+        "coal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4t4GrQWPwjwjybRnAACG3c_38.209238_-81.465263@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432304,
+    "wof:geomhash":"b9248ca07e65a0b6335150a14c06a099",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823394407
+        }
+    ],
+    "wof:id":823394407,
+    "wof:lastmodified":1463432304,
+    "wof:name":"Jagg Trucking",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "haulage",
+        "coal"
+    ]
+},
+  "bbox": [
+    -81.465263,
+    38.209238,
+    -81.465263,
+    38.209238
+],
+  "geometry": {"coordinates":[-81.46526299999999,38.209238],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823422817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.445537,37.801869,-80.445537,37.801869",
+    "geom:latitude":37.801869,
+    "geom:longitude":-80.445537,
+    "iso:country":"US",
+    "sg:address":"118 W Washington St",
+    "sg:city":"Lewisburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 645 2236",
+    "sg:postcode":"24901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bXpdzCK7xf4DQsOfOVPcS_37.801869_-80.445537@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433570,
+    "wof:geomhash":"8b6abc772b72826c1d0e2e662c56f55b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823422817
+        }
+    ],
+    "wof:id":823422817,
+    "wof:lastmodified":1463433570,
+    "wof:name":"Old Hardware Gallery",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -80.445537,
+    37.801869,
+    -80.445537,
+    37.801869
+],
+  "geometry": {"coordinates":[-80.445537,37.801869],"type":"Point"}
+}

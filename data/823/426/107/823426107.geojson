@@ -1,0 +1,71 @@
+{
+  "id": 823426107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.078278,37.365367,-81.078278,37.365367",
+    "geom:latitude":37.365367,
+    "geom:longitude":-81.078278,
+    "iso:country":"US",
+    "sg:address":"600 Rogers St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 5119",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eT13vmjwaxNgJHLL61JnE_37.365367_-81.078278@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433712,
+    "wof:geomhash":"242f80c1fbf607ba23ee3b9df1eb8e5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823426107
+        }
+    ],
+    "wof:id":823426107,
+    "wof:lastmodified":1463433712,
+    "wof:name":"Thomas G Himes CPA",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -81.078278,
+    37.365367,
+    -81.078278,
+    37.365367
+],
+  "geometry": {"coordinates":[-81.078278,37.365367],"type":"Point"}
+}

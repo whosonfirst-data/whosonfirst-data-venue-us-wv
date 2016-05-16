@@ -1,0 +1,79 @@
+{
+  "id": 823396153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.234108,37.255987,-81.234108,37.255987",
+    "geom:latitude":37.255987,
+    "geom:longitude":-81.234108,
+    "iso:country":"US",
+    "sg:address":"500 Cherry St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 327 1100",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "sg:website":"www.bluefield.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rJFOGDe44TH8ZTS7sKEOu_37.255987_-81.234108@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432380,
+    "wof:geomhash":"ad61cb2162f893fcfc618ad189e24b11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823396153
+        }
+    ],
+    "wof:id":823396153,
+    "wof:lastmodified":1463432380,
+    "wof:name":"Bluefield Regional Medical Ctr",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -81.234108,
+    37.255987,
+    -81.234108,
+    37.255987
+],
+  "geometry": {"coordinates":[-81.23410800000001,37.255987],"type":"Point"}
+}

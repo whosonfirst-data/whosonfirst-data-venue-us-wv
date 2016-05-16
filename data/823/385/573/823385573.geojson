@@ -1,0 +1,73 @@
+{
+  "id": 823385573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.630965,38.526775,-81.630965,38.526775",
+    "geom:latitude":38.526775,
+    "geom:longitude":-81.630965,
+    "iso:country":"US",
+    "sg:address":"8302 Sissonville Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 346 8203",
+    "sg:postcode":"25320",
+    "sg:province":"WV",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5miCf7rg9HZJjENarVMO6E_38.526775_-81.630965@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431869,
+    "wof:geomhash":"f360db0fa8340dea92b27488974b9c7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823385573
+        }
+    ],
+    "wof:id":823385573,
+    "wof:lastmodified":1463431869,
+    "wof:name":"Iris Bell",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -81.630965,
+    38.526775,
+    -81.630965,
+    38.526775
+],
+  "geometry": {"coordinates":[-81.630965,38.526775],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 823390597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.428186,38.409329,-82.428186,38.409329",
+    "geom:latitude":38.409329,
+    "geom:longitude":-82.428186,
+    "iso:country":"US",
+    "sg:address":"1340 Hal Greer Blvd",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 526 2243",
+    "sg:postcode":"25701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731553,
+        102083329,
+        85868311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Kj1YFZedggCcoV3iPbWwm_38.409329_-82.428186@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432104,
+    "wof:geomhash":"4772f76650532106e61ecc62f28e9d4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731553,
+            "neighbourhood_id":85868311,
+            "region_id":85688589,
+            "venue_id":823390597
+        }
+    ],
+    "wof:id":823390597,
+    "wof:lastmodified":1463432104,
+    "wof:name":"Pain Care Pllc",
+    "wof:parent_id":85868311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -82.428186,
+    38.409329,
+    -82.428186,
+    38.409329
+],
+  "geometry": {"coordinates":[-82.428186,38.409329],"type":"Point"}
+}

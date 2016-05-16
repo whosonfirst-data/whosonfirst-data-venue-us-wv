@@ -1,0 +1,80 @@
+{
+  "id": 823403597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.535471,39.234418,-81.535471,39.234418",
+    "geom:latitude":39.234418,
+    "geom:longitude":-81.535471,
+    "iso:country":"US",
+    "sg:address":"1312 Rayon Dr",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 485 2344",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "club",
+        "eating",
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WCrHDyGYD0xYuyxpELILo_39.234418_-81.535471@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432735,
+    "wof:geomhash":"ad09ad1acbf001346722a83850faf8a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823403597
+        }
+    ],
+    "wof:id":823403597,
+    "wof:lastmodified":1463432735,
+    "wof:name":"Audrey's Grill",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "eating",
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -81.535471,
+    39.234418,
+    -81.535471,
+    39.234418
+],
+  "geometry": {"coordinates":[-81.535471,39.234418],"type":"Point"}
+}

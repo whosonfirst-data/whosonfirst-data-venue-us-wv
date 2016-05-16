@@ -1,0 +1,73 @@
+{
+  "id": 823418409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.696094,38.3687,-81.696094,38.3687",
+    "geom:latitude":38.3687,
+    "geom:longitude":-81.696094,
+    "iso:country":"US",
+    "sg:address":"306 7th Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 9205",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vOIwMqQLOtdGQUc5ubsMp_38.368700_-81.696094@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433397,
+    "wof:geomhash":"e8b4709ff830da78d20b5055fe383adb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823418409
+        }
+    ],
+    "wof:id":823418409,
+    "wof:lastmodified":1463433397,
+    "wof:name":"Rite Aid",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -81.696094,
+    38.3687,
+    -81.696094,
+    38.3687
+],
+  "geometry": {"coordinates":[-81.696094,38.3687],"type":"Point"}
+}

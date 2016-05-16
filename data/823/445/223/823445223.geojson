@@ -1,0 +1,68 @@
+{
+  "id": 823445223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.188813,37.775443,-81.188813,37.775443",
+    "geom:latitude":37.775443,
+    "geom:longitude":-81.188813,
+    "iso:country":"US",
+    "sg:address":"223 S Heber St",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 253 8318",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cdAOM970AuM90CwDAHO8Z_37.775443_-81.188813@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434603,
+    "wof:geomhash":"66d955f1f64aeb7627c39df6140a069c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823445223
+        }
+    ],
+    "wof:id":823445223,
+    "wof:lastmodified":1463434603,
+    "wof:name":"Budget Inn",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.188813,
+    37.775443,
+    -81.188813,
+    37.775443
+],
+  "geometry": {"coordinates":[-81.188813,37.775443],"type":"Point"}
+}

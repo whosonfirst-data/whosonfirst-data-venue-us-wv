@@ -1,0 +1,73 @@
+{
+  "id": 823406041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.419596,38.211557,-81.419596,38.211557",
+    "geom:latitude":38.211557,
+    "geom:longitude":-81.419596,
+    "iso:country":"US",
+    "sg:address":"101 Melrose Dr",
+    "sg:city":"Glasgow",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 595 2550",
+    "sg:postcode":"25086",
+    "sg:province":"WV",
+    "sg:tags":[
+        "basket",
+        "parcel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DWWgr16ZMIfRhxE0a0skp_38.211557_-81.419596@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432859,
+    "wof:geomhash":"df3c17574dffb95be9fee27ec9008889",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823406041
+        }
+    ],
+    "wof:id":823406041,
+    "wof:lastmodified":1463432859,
+    "wof:name":"Cedar Grove Floral Shop",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "basket",
+        "parcel"
+    ]
+},
+  "bbox": [
+    -81.419596,
+    38.211557,
+    -81.419596,
+    38.211557
+],
+  "geometry": {"coordinates":[-81.419596,38.211557],"type":"Point"}
+}

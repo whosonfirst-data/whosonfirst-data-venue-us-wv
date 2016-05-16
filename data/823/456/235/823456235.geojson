@@ -1,0 +1,80 @@
+{
+  "id": 823456235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.715869,40.066277,-80.715869,40.066277",
+    "geom:latitude":40.066277,
+    "geom:longitude":-80.715869,
+    "iso:country":"US",
+    "sg:address":"129 14th St",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 233 1054",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "frozen",
+        "dessert"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85816921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30qBxxbeYQ6fsCLQN0ifzJ_40.066277_-80.715869@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435105,
+    "wof:geomhash":"da67c42ee176b959aea2de66062c3a1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85816921,
+            "region_id":85688589,
+            "venue_id":823456235
+        }
+    ],
+    "wof:id":823456235,
+    "wof:lastmodified":1463435105,
+    "wof:name":"Leatherwood Enterprises",
+    "wof:parent_id":85816921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "dessert"
+    ]
+},
+  "bbox": [
+    -80.715869,
+    40.066277,
+    -80.715869,
+    40.066277
+],
+  "geometry": {"coordinates":[-80.715869,40.066277],"type":"Point"}
+}

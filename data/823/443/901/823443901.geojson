@@ -1,0 +1,78 @@
+{
+  "id": 823443901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.969602,39.059003,-78.969602,39.059003",
+    "geom:latitude":39.059003,
+    "geom:longitude":-78.969602,
+    "iso:country":"US",
+    "sg:address":"231 S Main St",
+    "sg:city":"Moorefield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 538 7680",
+    "sg:postcode":"26836",
+    "sg:province":"WV",
+    "sg:tags":[
+        "flea",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731279,
+        102082645,
+        85851815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ORllQ1LiGdw8WuxviayEy_39.059003_-78.969602@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434538,
+    "wof:geomhash":"bfb08e12d13ac867732128231525d883",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082645,
+            "locality_id":101731279,
+            "neighbourhood_id":85851815,
+            "region_id":85688589,
+            "venue_id":823443901
+        }
+    ],
+    "wof:id":823443901,
+    "wof:lastmodified":1463434538,
+    "wof:name":"Tony's Flea Market",
+    "wof:parent_id":85851815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flea",
+        "market"
+    ]
+},
+  "bbox": [
+    -78.969602,
+    39.059003,
+    -78.969602,
+    39.059003
+],
+  "geometry": {"coordinates":[-78.96960199999999,39.059003],"type":"Point"}
+}

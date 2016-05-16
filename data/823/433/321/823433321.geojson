@@ -1,0 +1,73 @@
+{
+  "id": 823433321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.731035,38.354492,-81.731035,38.354492",
+    "geom:latitude":38.354492,
+    "geom:longitude":-81.731035,
+    "iso:country":"US",
+    "sg:address":"4837 Maccorkle Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 3030",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QWwF0E7YUlY3tFvf7effs_38.354492_-81.731035@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434031,
+    "wof:geomhash":"0079fac7733355ac9bbad77121768865",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823433321
+        }
+    ],
+    "wof:id":823433321,
+    "wof:lastmodified":1463434031,
+    "wof:name":"Rotech Inhome Medical",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.731035,
+    38.354492,
+    -81.731035,
+    38.354492
+],
+  "geometry": {"coordinates":[-81.73103500000001,38.354492],"type":"Point"}
+}

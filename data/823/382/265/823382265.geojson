@@ -1,0 +1,73 @@
+{
+  "id": 823382265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.250187,37.259369,-81.250187,37.259369",
+    "geom:latitude":37.259369,
+    "geom:longitude":-81.250187,
+    "iso:country":"US",
+    "sg:address":"2501 Bluefield Ave",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 325 7961",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13Xt0wV26C733ZLdQSPr4d_37.259369_-81.250187@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431747,
+    "wof:geomhash":"7cf94af6df9e8bba3888a6ab3583b104",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823382265
+        }
+    ],
+    "wof:id":823382265,
+    "wof:lastmodified":1463431747,
+    "wof:name":"Doug's Auto Sales",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -81.250187,
+    37.259369,
+    -81.250187,
+    37.259369
+],
+  "geometry": {"coordinates":[-81.250187,37.259369],"type":"Point"}
+}

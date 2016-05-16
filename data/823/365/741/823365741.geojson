@@ -1,0 +1,73 @@
+{
+  "id": 823365741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.079609,37.363691,-81.079609,37.363691",
+    "geom:latitude":37.363691,
+    "geom:longitude":-81.079609,
+    "iso:country":"US",
+    "sg:address":"105 Locust St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 0755",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HU77fYvhz0GYtoHsJVP9K_37.363691_-81.079609@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431000,
+    "wof:geomhash":"ea23846b3c3f7b2335c4127330524cb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823365741
+        }
+    ],
+    "wof:id":823365741,
+    "wof:lastmodified":1463431000,
+    "wof:name":"Swaney Construction",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.079609,
+    37.363691,
+    -81.079609,
+    37.363691
+],
+  "geometry": {"coordinates":[-81.079609,37.363691],"type":"Point"}
+}

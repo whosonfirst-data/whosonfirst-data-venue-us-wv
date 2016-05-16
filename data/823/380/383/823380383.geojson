@@ -1,0 +1,72 @@
+{
+  "id": 823380383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.075628,37.368184,-81.075628,37.368184",
+    "geom:latitude":37.368184,
+    "geom:longitude":-81.075628,
+    "iso:country":"US",
+    "sg:address":"103 Oliver Ave",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 5018",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.princetonfire.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SnJzBQQ9Cd1Q5khqSUteE_37.368184_-81.075628@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431655,
+    "wof:geomhash":"a0d3920aa2e931c68b4b5dcf4dc107b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823380383
+        }
+    ],
+    "wof:id":823380383,
+    "wof:lastmodified":1463431655,
+    "wof:name":"Princeton City Fire Substation",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -81.075628,
+    37.368184,
+    -81.075628,
+    37.368184
+],
+  "geometry": {"coordinates":[-81.07562799999999,37.368184],"type":"Point"}
+}

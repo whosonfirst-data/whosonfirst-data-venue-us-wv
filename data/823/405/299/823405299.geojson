@@ -1,0 +1,66 @@
+{
+  "id": 823405299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.603975,38.335181,-81.603975,38.335181",
+    "geom:latitude":38.335181,
+    "geom:longitude":-81.603975,
+    "iso:country":"US",
+    "sg:address":"210 Chesapeake Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 9882",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hUP2nRmsJHdSLCUNLppvb_38.335181_-81.603975@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432823,
+    "wof:geomhash":"88b53e59fcdf6e93f333a6c7a13a50ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823405299
+        }
+    ],
+    "wof:id":823405299,
+    "wof:lastmodified":1463432823,
+    "wof:name":"West Virginia Troopers Assn",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.603975,
+    38.335181,
+    -81.603975,
+    38.335181
+],
+  "geometry": {"coordinates":[-81.60397500000001,38.335181],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823381781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.246629,39.278264,-80.246629,39.278264",
+    "geom:latitude":39.278264,
+    "geom:longitude":-80.246629,
+    "iso:country":"US",
+    "sg:address":"39 Cambridge Ct",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 0526",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JHX3XuXrNxxScjvI9Z4dN_39.278264_-80.246629@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431729,
+    "wof:geomhash":"109d1f7a11844fe28b99ae32ffd6d122",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823381781
+        }
+    ],
+    "wof:id":823381781,
+    "wof:lastmodified":1463431729,
+    "wof:name":"Amos Eviromental Services",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -80.246629,
+    39.278264,
+    -80.246629,
+    39.278264
+],
+  "geometry": {"coordinates":[-80.246629,39.278264],"type":"Point"}
+}

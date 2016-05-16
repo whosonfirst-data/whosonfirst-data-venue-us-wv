@@ -1,0 +1,73 @@
+{
+  "id": 823453589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.002164,39.658259,-80.002164,39.658259",
+    "geom:latitude":39.658259,
+    "geom:longitude":-80.002164,
+    "iso:country":"US",
+    "sg:address":"11 Chaplin Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/western/206448-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731749,
+        102082587,
+        85807277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67oCbUldrhB9xiADkmUyJK_39.658259_-80.002164@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434953,
+    "wof:geomhash":"c6f863fb3f428b900dfd6c6ea28db916",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731749,
+            "neighbourhood_id":85807277,
+            "region_id":85688589,
+            "venue_id":823453589
+        }
+    ],
+    "wof:id":823453589,
+    "wof:lastmodified":1463434953,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85807277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -80.002164,
+    39.658259,
+    -80.002164,
+    39.658259
+],
+  "geometry": {"coordinates":[-80.00216399999999,39.658259],"type":"Point"}
+}

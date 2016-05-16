@@ -1,0 +1,85 @@
+{
+  "id": 823456865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.529839,40.393559,-80.529839,40.393559",
+    "geom:latitude":40.393559,
+    "geom:longitude":-80.529839,
+    "iso:country":"US",
+    "sg:address":"600 Colliers Way",
+    "sg:city":"Weirton",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 723 0063",
+    "sg:postcode":"26062",
+    "sg:province":"WV",
+    "sg:tags":[
+        "churches-seventh-day",
+        "adventist",
+        "christian",
+        "churches-advent"
+    ],
+    "sg:website":"http://www.baschool.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731371,
+        102082633,
+        85854989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29By40CTO6w9VKHoq2wSbQ_40.393559_-80.529839@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435127,
+    "wof:geomhash":"808ae8747d933be730d18d308279a846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731371,
+            "neighbourhood_id":85854989,
+            "region_id":85688589,
+            "venue_id":823456865
+        }
+    ],
+    "wof:id":823456865,
+    "wof:lastmodified":1463435127,
+    "wof:name":"General Conference Corporation Of Seventh-Day Adventists",
+    "wof:parent_id":85854989,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-seventh-day",
+        "adventist",
+        "christian",
+        "churches-advent"
+    ]
+},
+  "bbox": [
+    -80.529839,
+    40.393559,
+    -80.529839,
+    40.393559
+],
+  "geometry": {"coordinates":[-80.529839,40.393559],"type":"Point"}
+}

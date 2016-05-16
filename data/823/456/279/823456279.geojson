@@ -1,0 +1,87 @@
+{
+  "id": 823456279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.709746,40.061853,-80.709746,40.061853",
+    "geom:latitude":40.061853,
+    "geom:longitude":-80.709746,
+    "iso:country":"US",
+    "sg:address":"1721 Wetzel St",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 232 7525",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "steel",
+        "detailers",
+        "structural",
+        "manufacturer",
+        "metal-wholesale"
+    ],
+    "sg:website":"http://www.ovsteel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85816921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pMpDnnVOAbldE1HtfoLeg_40.061853_-80.709746@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435107,
+    "wof:geomhash":"9080e526d6ea9929531f5699ac7c50ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85816921,
+            "region_id":85688589,
+            "venue_id":823456279
+        }
+    ],
+    "wof:id":823456279,
+    "wof:lastmodified":1463435107,
+    "wof:name":"Ohio Valley Steel Company",
+    "wof:parent_id":85816921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "detailers",
+        "structural",
+        "manufacturer",
+        "metal-wholesale"
+    ]
+},
+  "bbox": [
+    -80.709746,
+    40.061853,
+    -80.709746,
+    40.061853
+],
+  "geometry": {"coordinates":[-80.709746,40.061853],"type":"Point"}
+}

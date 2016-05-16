@@ -1,0 +1,73 @@
+{
+  "id": 823449401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.383159,38.410767,-82.383159,38.410767",
+    "geom:latitude":38.410767,
+    "geom:longitude":-82.383159,
+    "iso:country":"US",
+    "sg:address":"3507 US Hwy 60",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 736 0808",
+    "sg:postcode":"25705",
+    "sg:province":"WV",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083329,
+        85868301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fUmyJl1mWXOQUMjT2d5K0_38.410767_-82.383159@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434795,
+    "wof:geomhash":"769b2730991ce91cceda153e6a01f146",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731553,
+            "neighbourhood_id":85868301,
+            "region_id":85688589,
+            "venue_id":823449401
+        }
+    ],
+    "wof:id":823449401,
+    "wof:lastmodified":1463434795,
+    "wof:name":"Blockbuster",
+    "wof:parent_id":85868301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -82.383159,
+    38.410767,
+    -82.383159,
+    38.410767
+],
+  "geometry": {"coordinates":[-82.38315900000001,38.410767],"type":"Point"}
+}

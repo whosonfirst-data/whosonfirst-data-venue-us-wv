@@ -1,0 +1,73 @@
+{
+  "id": 823441271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.23304,37.266128,-81.23304,37.266128",
+    "geom:latitude":37.266128,
+    "geom:longitude":-81.23304,
+    "iso:country":"US",
+    "sg:address":"716 Bluefield Ave",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 325 9134",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0b79S9b7hyev4p2Woti9AS_37.266128_-81.233040@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434416,
+    "wof:geomhash":"f43bcfa5b77ba1fcf8d69fe25439bafe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823441271
+        }
+    ],
+    "wof:id":823441271,
+    "wof:lastmodified":1463434416,
+    "wof:name":"Estep Tire & Auto Ctr Inc",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -81.23304,
+    37.266128,
+    -81.23304,
+    37.266128
+],
+  "geometry": {"coordinates":[-81.23304,37.266128],"type":"Point"}
+}

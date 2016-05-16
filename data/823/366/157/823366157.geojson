@@ -1,0 +1,80 @@
+{
+  "id": 823366157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.37446,39.270976,-80.37446,39.270976",
+    "geom:latitude":39.270976,
+    "geom:longitude":-80.37446,
+    "iso:country":"US",
+    "sg:address":"6 Hospital Plz",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 623 5661",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clinic",
+        "mental",
+        "outpatient",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85810773,
+        102082619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hp62V4BcP3u4P7F16BzD8_39.270976_-80.374460@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431020,
+    "wof:geomhash":"cf2a95d8059ff45b2b6d49654e7523fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "neighbourhood_id":85810773,
+            "region_id":85688589,
+            "venue_id":823366157
+        }
+    ],
+    "wof:id":823366157,
+    "wof:lastmodified":1463431020,
+    "wof:name":"United Summit Center Inc",
+    "wof:parent_id":85810773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "mental",
+        "outpatient",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -80.37446,
+    39.270976,
+    -80.37446,
+    39.270976
+],
+  "geometry": {"coordinates":[-80.37446,39.270976],"type":"Point"}
+}

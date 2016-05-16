@@ -1,0 +1,75 @@
+{
+  "id": 823371053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.641523,38.35243,-81.641523,38.35243",
+    "geom:latitude":38.35243,
+    "geom:longitude":-81.641523,
+    "iso:country":"US",
+    "sg:address":"224 Kanawha Blvd E",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 344 3650",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iA4OI6qqHj7PACOnTPMN1_38.352430_-81.641523@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431216,
+    "wof:geomhash":"7f57ac020ce466d923e29ef908d8da0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823371053
+        }
+    ],
+    "wof:id":823371053,
+    "wof:lastmodified":1463431216,
+    "wof:name":"Center Of Town Car Wash",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -81.641523,
+    38.35243,
+    -81.641523,
+    38.35243
+],
+  "geometry": {"coordinates":[-81.64152300000001,38.35243],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823375101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.12444,38.996219,-79.12444,38.996219",
+    "geom:latitude":38.996219,
+    "geom:longitude":-79.12444,
+    "iso:country":"US",
+    "sg:address":"107 N Main St",
+    "sg:city":"Petersburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 257 5050",
+    "sg:postcode":"26847",
+    "sg:province":"WV",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731285,
+        102082625,
+        85852439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jUYjWQRRMZQLqEi474VYo_38.996219_-79.124440@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431416,
+    "wof:geomhash":"ee89a4dc2f4c27745c8d2caf03c7427b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082625,
+            "locality_id":101731285,
+            "neighbourhood_id":85852439,
+            "region_id":85688589,
+            "venue_id":823375101
+        }
+    ],
+    "wof:id":823375101,
+    "wof:lastmodified":1463431416,
+    "wof:name":"Roth Legal Svc Inc",
+    "wof:parent_id":85852439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -79.12444,
+    38.996219,
+    -79.12444,
+    38.996219
+],
+  "geometry": {"coordinates":[-79.12444000000001,38.996219],"type":"Point"}
+}

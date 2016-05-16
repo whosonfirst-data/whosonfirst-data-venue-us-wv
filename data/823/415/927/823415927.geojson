@@ -1,0 +1,67 @@
+{
+  "id": 823415927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.848496,38.927768,-79.848496,38.927768",
+    "geom:latitude":38.927768,
+    "geom:longitude":-79.848496,
+    "iso:country":"US",
+    "sg:address":"505 Randolph Ave",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 5496",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:website":"www.cvs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bRyVSHldlm8pwuWHa3yW6_38.927768_-79.848496@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433277,
+    "wof:geomhash":"13ae72e1b8699ad297d5e59527da06ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823415927
+        }
+    ],
+    "wof:id":823415927,
+    "wof:lastmodified":1463433277,
+    "wof:name":"CVS Pharmacy",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.848496,
+    38.927768,
+    -79.848496,
+    38.927768
+],
+  "geometry": {"coordinates":[-79.848496,38.927768],"type":"Point"}
+}

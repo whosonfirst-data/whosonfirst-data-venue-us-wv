@@ -1,0 +1,71 @@
+{
+  "id": 823390689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.121011,37.349361,-81.121011,37.349361",
+    "geom:latitude":37.349361,
+    "geom:longitude":-81.121011,
+    "iso:country":"US",
+    "sg:address":"320 Courthouse Rd",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 8125",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ty60a24NXRMRjsLt5Z0aE_37.349361_-81.121011@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432108,
+    "wof:geomhash":"6bcb32e26874fa3e2fe4d61cc242cb50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823390689
+        }
+    ],
+    "wof:id":823390689,
+    "wof:lastmodified":1463432108,
+    "wof:name":"Sanders Astin Prudich Flanigan",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -81.121011,
+    37.349361,
+    -81.121011,
+    37.349361
+],
+  "geometry": {"coordinates":[-81.121011,37.349361],"type":"Point"}
+}

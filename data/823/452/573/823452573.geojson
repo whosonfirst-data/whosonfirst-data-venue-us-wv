@@ -1,0 +1,78 @@
+{
+  "id": 823452573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.657943,38.46308,-81.657943,38.46308",
+    "geom:latitude":38.46308,
+    "geom:longitude":-81.657943,
+    "iso:country":"US",
+    "sg:address":"335 Call Rd",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/blue-creek/139767-sicilias-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 984 9519",
+    "sg:postcode":"25312",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XTlLRLtWy89fkxn7f9fzZ_38.463080_-81.657943@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434912,
+    "wof:geomhash":"96e6d6c37ba269f755ab382edbd237d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823452573
+        }
+    ],
+    "wof:id":823452573,
+    "wof:lastmodified":1463434912,
+    "wof:name":"Sicilia's Pizzeria",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -81.657943,
+    38.46308,
+    -81.657943,
+    38.46308
+],
+  "geometry": {"coordinates":[-81.657943,38.46308],"type":"Point"}
+}

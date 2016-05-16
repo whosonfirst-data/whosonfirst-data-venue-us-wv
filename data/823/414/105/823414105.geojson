@@ -1,0 +1,75 @@
+{
+  "id": 823414105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.641965,38.353161,-81.641965,38.353161",
+    "geom:latitude":38.353161,
+    "geom:longitude":-81.641965,
+    "iso:country":"US",
+    "sg:address":"29 Clendenin St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 8686",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "communication",
+        "radiotelephone"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vaGqL9IBkOY5MFfvRIRh2_38.353161_-81.641965@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433187,
+    "wof:geomhash":"4f1032f725684ed2c2fd4ac164a95ed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823414105
+        }
+    ],
+    "wof:id":823414105,
+    "wof:lastmodified":1463433187,
+    "wof:name":"AT&T",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication",
+        "radiotelephone"
+    ]
+},
+  "bbox": [
+    -81.641965,
+    38.353161,
+    -81.641965,
+    38.353161
+],
+  "geometry": {"coordinates":[-81.641965,38.353161],"type":"Point"}
+}

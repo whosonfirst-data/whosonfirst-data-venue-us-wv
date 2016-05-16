@@ -1,0 +1,71 @@
+{
+  "id": 823431921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.727424,38.355181,-81.727424,38.355181",
+    "geom:latitude":38.355181,
+    "geom:longitude":-81.727424,
+    "iso:country":"US",
+    "sg:address":"4605 Maccorkle Ave",
+    "sg:city":"South Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 766 4580",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ftt8KiQMxm6JIHxwsvDG8_38.355181_-81.727424@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433965,
+    "wof:geomhash":"f56756e68c7910b0c6c79904d1ab48b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823431921
+        }
+    ],
+    "wof:id":823431921,
+    "wof:lastmodified":1463433965,
+    "wof:name":"Southway Christian Therapy",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -81.727424,
+    38.355181,
+    -81.727424,
+    38.355181
+],
+  "geometry": {"coordinates":[-81.727424,38.355181],"type":"Point"}
+}

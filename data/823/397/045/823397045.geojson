@@ -1,0 +1,71 @@
+{
+  "id": 823397045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.69345,38.367923,-81.69345,38.367923",
+    "geom:latitude":38.367923,
+    "geom:longitude":-81.69345,
+    "iso:country":"US",
+    "sg:address":"335 5th Ave SW",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 3446",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6u9zdCBzUUOZ0L9kKseEKt_38.367923_-81.693450@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432433,
+    "wof:geomhash":"02722ac27f4c95d7922501c29010067b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823397045
+        }
+    ],
+    "wof:id":823397045,
+    "wof:lastmodified":1463432433,
+    "wof:name":"Good Shepherd Mortuary Inc",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -81.69345,
+    38.367923,
+    -81.69345,
+    38.367923
+],
+  "geometry": {"coordinates":[-81.69345,38.367923],"type":"Point"}
+}

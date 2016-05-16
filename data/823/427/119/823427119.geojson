@@ -1,0 +1,78 @@
+{
+  "id": 823427119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.244284,37.261275,-81.244284,37.261275",
+    "geom:latitude":37.261275,
+    "geom:longitude":-81.244284,
+    "iso:country":"US",
+    "sg:address":"1801 Bluefield Ave",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 324 2894",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop",
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7as4A79pn7WtN4RzEQJftw_37.261275_-81.244284@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433757,
+    "wof:geomhash":"5aa9c9e047e74c6c8a38a7d6b740f39b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823427119
+        }
+    ],
+    "wof:id":823427119,
+    "wof:lastmodified":1463433757,
+    "wof:name":"Bluefield Antiques & Accents",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "antique"
+    ]
+},
+  "bbox": [
+    -81.244284,
+    37.261275,
+    -81.244284,
+    37.261275
+],
+  "geometry": {"coordinates":[-81.24428399999999,37.261275],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 823447643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.206461,37.811642,-81.206461,37.811642",
+    "geom:latitude":37.811642,
+    "geom:longitude":-81.206461,
+    "iso:country":"US",
+    "sg:address":"115 Emily St",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 252 6404",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LQaqtRjmxxnKZfi8T2XWL_37.811642_-81.206461@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434717,
+    "wof:geomhash":"e7791604928fe82b10442dfacdd8ff3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823447643
+        }
+    ],
+    "wof:id":823447643,
+    "wof:lastmodified":1463434717,
+    "wof:name":"Beckley Realty Co",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.206461,
+    37.811642,
+    -81.206461,
+    37.811642
+],
+  "geometry": {"coordinates":[-81.206461,37.811642],"type":"Point"}
+}

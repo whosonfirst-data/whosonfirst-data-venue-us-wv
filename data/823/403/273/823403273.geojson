@@ -1,0 +1,73 @@
+{
+  "id": 823403273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.959626,39.671234,-79.959626,39.671234",
+    "geom:latitude":39.671234,
+    "geom:longitude":-79.959626,
+    "iso:country":"US",
+    "sg:address":"3 Ackerman Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 3133",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automotive",
+        "wrecker",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JS3oHnt6LWVYBbcdw4buI_39.671234_-79.959626@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432723,
+    "wof:geomhash":"83b6e2923d84882bef72a8502703d748",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823403273
+        }
+    ],
+    "wof:id":823403273,
+    "wof:lastmodified":1463432723,
+    "wof:name":"Summers Towing & Repairs Inc",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "wrecker",
+        "general"
+    ]
+},
+  "bbox": [
+    -79.959626,
+    39.671234,
+    -79.959626,
+    39.671234
+],
+  "geometry": {"coordinates":[-79.959626,39.671234],"type":"Point"}
+}

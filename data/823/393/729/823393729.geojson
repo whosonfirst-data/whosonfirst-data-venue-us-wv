@@ -1,0 +1,75 @@
+{
+  "id": 823393729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.557268,38.239152,-81.557268,38.239152",
+    "geom:latitude":38.239152,
+    "geom:longitude":-81.557268,
+    "iso:country":"US",
+    "sg:address":"10701 Maccorkle Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 4001",
+    "sg:postcode":"25315",
+    "sg:province":"WV",
+    "sg:tags":[
+        "water",
+        "waste",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74xFjVIKX3pwkLJwemWTr9_38.239152_-81.557268@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432262,
+    "wof:geomhash":"840beb39cd32c028a377b79f3687aca0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823393729
+        }
+    ],
+    "wof:id":823393729,
+    "wof:lastmodified":1463432262,
+    "wof:name":"Waste Water Treatment Plant",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "waste",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -81.557268,
+    38.239152,
+    -81.557268,
+    38.239152
+],
+  "geometry": {"coordinates":[-81.55726799999999,38.239152],"type":"Point"}
+}

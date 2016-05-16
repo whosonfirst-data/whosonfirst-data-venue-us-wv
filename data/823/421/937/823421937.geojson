@@ -1,0 +1,71 @@
+{
+  "id": 823421937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.794235,38.38106,-81.794235,38.38106",
+    "geom:latitude":38.38106,
+    "geom:longitude":-81.794235,
+    "iso:country":"US",
+    "sg:address":"2815 Maccorkle Ave",
+    "sg:city":"Saint Albans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 727 2284",
+    "sg:postcode":"25177",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731773,
+        102083335,
+        85840775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hzZ7O2TezfioXOidRdgGf_38.381060_-81.794235@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433540,
+    "wof:geomhash":"3f8dac6835e39e26408da1e66f803fd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731773,
+            "neighbourhood_id":85840775,
+            "region_id":85688589,
+            "venue_id":823421937
+        }
+    ],
+    "wof:id":823421937,
+    "wof:lastmodified":1463433540,
+    "wof:name":"Dominos Pizza",
+    "wof:parent_id":85840775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -81.794235,
+    38.38106,
+    -81.794235,
+    38.38106
+],
+  "geometry": {"coordinates":[-81.794235,38.38106],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823405919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.844617,38.92573,-79.844617,38.92573",
+    "geom:latitude":38.92573,
+    "geom:longitude":-79.844617,
+    "iso:country":"US",
+    "sg:address":"120 Buffalo St",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 5431",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "mobile",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Crw70UG2jQGII8gpCkzyE_38.925730_-79.844617@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432855,
+    "wof:geomhash":"26e4d201c22063894f00d369dac2fd97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823405919
+        }
+    ],
+    "wof:id":823405919,
+    "wof:lastmodified":1463432855,
+    "wof:name":"Heavner Acres Mobile Home Ct",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home"
+    ]
+},
+  "bbox": [
+    -79.844617,
+    38.92573,
+    -79.844617,
+    38.92573
+],
+  "geometry": {"coordinates":[-79.844617,38.92573],"type":"Point"}
+}

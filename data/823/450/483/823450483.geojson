@@ -1,0 +1,71 @@
+{
+  "id": 823450483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.532142,38.22728,-81.532142,38.22728",
+    "geom:latitude":38.22728,
+    "geom:longitude":-81.532142,
+    "iso:country":"US",
+    "sg:address":"1700 E Dupont Ave",
+    "sg:city":"Diamond",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 2147",
+    "sg:postcode":"25015",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37wqT15UMX4mkEyYZOCS7I_38.227280_-81.532142@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434834,
+    "wof:geomhash":"4860038b598ceb4d24913dc95b7301b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823450483
+        }
+    ],
+    "wof:id":823450483,
+    "wof:lastmodified":1463434834,
+    "wof:name":"Kroger",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -81.532142,
+    38.22728,
+    -81.532142,
+    38.22728
+],
+  "geometry": {"coordinates":[-81.53214199999999,38.22728],"type":"Point"}
+}

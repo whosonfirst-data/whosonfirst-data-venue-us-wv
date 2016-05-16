@@ -1,0 +1,69 @@
+{
+  "id": 823374687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.984957,37.844766,-81.984957,37.844766",
+    "geom:latitude":37.844766,
+    "geom:longitude":-81.984957,
+    "iso:country":"US",
+    "sg:address":"615 Stratton St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 752 8387",
+    "sg:postcode":"25601",
+    "sg:province":"WV",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868319,
+        102083369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_617Zo5OSRQ5QU6cdlFvVDC_37.844766_-81.984957@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431386,
+    "wof:geomhash":"09f9909b9fea2b31383ec5f09a78d9a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083369,
+            "neighbourhood_id":85868319,
+            "region_id":85688589,
+            "venue_id":823374687
+        }
+    ],
+    "wof:id":823374687,
+    "wof:lastmodified":1463431386,
+    "wof:name":"Knowles Animal Hospital",
+    "wof:parent_id":85868319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -81.984957,
+    37.844766,
+    -81.984957,
+    37.844766
+],
+  "geometry": {"coordinates":[-81.98495699999999,37.844766],"type":"Point"}
+}

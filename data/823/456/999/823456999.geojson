@@ -1,0 +1,71 @@
+{
+  "id": 823456999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.531049,40.266843,-80.531049,40.266843",
+    "geom:latitude":40.266843,
+    "geom:longitude":-80.531049,
+    "iso:country":"US",
+    "sg:address":"1431 Washington Pike",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 3424",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ES433MyrJA0D5cYnGjT8M_40.266843_-80.531049@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435137,
+    "wof:geomhash":"95048b25ae265668795e189db0f2c331",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823456999
+        }
+    ],
+    "wof:id":823456999,
+    "wof:lastmodified":1463435137,
+    "wof:name":"Riggs Electric",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -80.531049,
+    40.266843,
+    -80.531049,
+    40.266843
+],
+  "geometry": {"coordinates":[-80.531049,40.266843],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 823436043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.695918,38.36779,-81.695918,38.36779",
+    "geom:latitude":38.36779,
+    "geom:longitude":-81.695918,
+    "iso:country":"US",
+    "sg:address":"500 D St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 4704",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZfeFlZJsDg4vgsd7nBHjA_38.367790_-81.695918@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434177,
+    "wof:geomhash":"7941ef4aaf342fb9faedd55f8d85ae3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823436043
+        }
+    ],
+    "wof:id":823436043,
+    "wof:lastmodified":1463434177,
+    "wof:name":"Family Dollar Stores",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.695918,
+    38.36779,
+    -81.695918,
+    38.36779
+],
+  "geometry": {"coordinates":[-81.69591800000001,38.36779],"type":"Point"}
+}

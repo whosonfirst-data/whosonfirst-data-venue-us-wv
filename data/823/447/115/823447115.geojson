@@ -1,0 +1,73 @@
+{
+  "id": 823447115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.968859,39.45708,-77.968859,39.45708",
+    "geom:latitude":39.45708,
+    "geom:longitude":-77.968859,
+    "iso:country":"US",
+    "sg:address":"407 W King St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 267 4511",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ravb6yoZNMZ25S1fPZKaR_39.457080_-77.968859@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434698,
+    "wof:geomhash":"383e7139d301629c550e4e0d6f4a494f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823447115
+        }
+    ],
+    "wof:id":823447115,
+    "wof:lastmodified":1463434698,
+    "wof:name":"D Ewell Hendricks MD",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -77.968859,
+    39.45708,
+    -77.968859,
+    39.45708
+],
+  "geometry": {"coordinates":[-77.96885899999999,39.45708],"type":"Point"}
+}

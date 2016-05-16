@@ -1,0 +1,90 @@
+{
+  "id": 823455987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.302834,38.414319,-82.302834,38.414319",
+    "geom:latitude":38.414319,
+    "geom:longitude":-82.302834,
+    "iso:country":"US",
+    "sg:address":"6440 US Route 60 E",
+    "sg:city":"Barboursville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 736 1561",
+    "sg:postcode":"25504",
+    "sg:province":"WV",
+    "sg:tags":[
+        "delivery",
+        "style",
+        "take",
+        "family",
+        "pizza"
+    ],
+    "sg:website":"http://www.pizzahut.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85816671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ygtk1PngBuA2sAxoDtIOV_38.414319_-82.302834@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435095,
+    "wof:geomhash":"eb0ae27f32d42f175151434696fcc073",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85816671,
+            "region_id":85688589,
+            "venue_id":823455987
+        }
+    ],
+    "wof:id":823455987,
+    "wof:lastmodified":1463435095,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85816671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "style",
+        "take",
+        "family",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -82.302834,
+    38.414319,
+    -82.302834,
+    38.414319
+],
+  "geometry": {"coordinates":[-82.302834,38.414319],"type":"Point"}
+}

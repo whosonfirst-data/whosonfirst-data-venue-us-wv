@@ -1,0 +1,74 @@
+{
+  "id": 823452261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.19903,37.256637,-81.19903,37.256637",
+    "geom:latitude":37.256637,
+    "geom:longitude":-81.19903,
+    "iso:country":"US",
+    "sg:address":"3200 E Cumberland Rd ",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/bramwell/285945-mint-indian-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 325 9111",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "indian",
+        "asian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kKTu6XMSzUnstdiOSF1RS_37.256637_-81.199030@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434900,
+    "wof:geomhash":"4f81ee29cacdbe5b9f321a823272d4ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823452261
+        }
+    ],
+    "wof:id":823452261,
+    "wof:lastmodified":1463434900,
+    "wof:name":"Mint Indian Restaurant",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "indian",
+        "asian"
+    ]
+},
+  "bbox": [
+    -81.19903,
+    37.256637,
+    -81.19903,
+    37.256637
+],
+  "geometry": {"coordinates":[-81.19902999999999,37.256637],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823375995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.590719,38.326758,-81.590719,38.326758",
+    "geom:latitude":38.326758,
+    "geom:longitude":-81.590719,
+    "iso:country":"US",
+    "sg:address":"309 40th St SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 926 0999",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jJEuHdyaaIDpYsrViPBT0_38.326758_-81.590719@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431459,
+    "wof:geomhash":"f03248243c77f386053c9f8550ee7805",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823375995
+        }
+    ],
+    "wof:id":823375995,
+    "wof:lastmodified":1463431459,
+    "wof:name":"Elm Construction LLC",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -81.590719,
+    38.326758,
+    -81.590719,
+    38.326758
+],
+  "geometry": {"coordinates":[-81.59071900000001,38.326758],"type":"Point"}
+}

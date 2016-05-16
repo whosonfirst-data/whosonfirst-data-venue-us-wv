@@ -1,0 +1,75 @@
+{
+  "id": 823365337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.686958,38.376886,-81.686958,38.376886",
+    "geom:latitude":38.376886,
+    "geom:longitude":-81.686958,
+    "iso:country":"US",
+    "sg:address":"505 35th St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 2195",
+    "sg:postcode":"25312",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OfxK5ZWaNApUrbbTaLvHa_38.376886_-81.686958@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463430981,
+    "wof:geomhash":"56b4dcbfb937ebb700c5ec76f03d9e93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823365337
+        }
+    ],
+    "wof:id":823365337,
+    "wof:lastmodified":1463430981,
+    "wof:name":"Estes Express Lines 23",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -81.686958,
+    38.376886,
+    -81.686958,
+    38.376886
+],
+  "geometry": {"coordinates":[-81.686958,38.376886],"type":"Point"}
+}

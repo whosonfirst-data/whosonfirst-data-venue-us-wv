@@ -1,0 +1,71 @@
+{
+  "id": 823428991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.694526,38.356252,-81.694526,38.356252",
+    "geom:latitude":38.356252,
+    "geom:longitude":-81.694526,
+    "iso:country":"US",
+    "sg:address":"1500 Valley Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 346 7000",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Xe7oUtYmD010twP4ZtdCJ_38.356252_-81.694526@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433840,
+    "wof:geomhash":"e0cb72325214a9f50d0d3febcfe0825b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823428991
+        }
+    ],
+    "wof:id":823428991,
+    "wof:lastmodified":1463433840,
+    "wof:name":"Goodwin & Goodwin",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -81.694526,
+    38.356252,
+    -81.694526,
+    38.356252
+],
+  "geometry": {"coordinates":[-81.694526,38.356252],"type":"Point"}
+}

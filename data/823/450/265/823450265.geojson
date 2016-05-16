@@ -1,0 +1,75 @@
+{
+  "id": 823450265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.958677,39.629283,-79.958677,39.629283",
+    "geom:latitude":39.629283,
+    "geom:longitude":-79.958677,
+    "iso:country":"US",
+    "sg:address":"1110 University Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 0101",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shelter",
+        "homeless"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TGKauHYVTFOuVURmv6asm_39.629283_-79.958677@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434826,
+    "wof:geomhash":"698b9e3463a91eaf83a60fdfddd2c65b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851489,
+            "region_id":85688589,
+            "venue_id":823450265
+        }
+    ],
+    "wof:id":823450265,
+    "wof:lastmodified":1463434826,
+    "wof:name":"Bartlett House Inc",
+    "wof:parent_id":85851489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelter",
+        "homeless"
+    ]
+},
+  "bbox": [
+    -79.958677,
+    39.629283,
+    -79.958677,
+    39.629283
+],
+  "geometry": {"coordinates":[-79.95867699999999,39.629283],"type":"Point"}
+}

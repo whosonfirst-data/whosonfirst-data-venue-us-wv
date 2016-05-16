@@ -1,0 +1,71 @@
+{
+  "id": 823394791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.576232,38.348475,-81.576232,38.348475",
+    "geom:latitude":38.348475,
+    "geom:longitude":-81.576232,
+    "iso:country":"US",
+    "sg:address":"160 Bakers Fork Rd",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 344 8044",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lWQwblVUQPA6BlPuM9S7k_38.348475_-81.576232@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432318,
+    "wof:geomhash":"dc7036a88da1e99bd14b9457dfd23c1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823394791
+        }
+    ],
+    "wof:id":823394791,
+    "wof:lastmodified":1463432318,
+    "wof:name":"Glad Tidings Apostolic Church",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.576232,
+    38.348475,
+    -81.576232,
+    38.348475
+],
+  "geometry": {"coordinates":[-81.576232,38.348475],"type":"Point"}
+}

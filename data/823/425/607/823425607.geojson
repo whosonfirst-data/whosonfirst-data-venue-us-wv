@@ -1,0 +1,73 @@
+{
+  "id": 823425607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.0834,37.368673,-81.0834,37.368673",
+    "geom:latitude":37.368673,
+    "geom:longitude":-81.0834,
+    "iso:country":"US",
+    "sg:address":"206 Industrial St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 4224",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Lg7UfUo11uOEl6ew5QbnR_37.368673_-81.083400@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433683,
+    "wof:geomhash":"e741608bd0ef00b2be53fd31828dfb18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823425607
+        }
+    ],
+    "wof:id":823425607,
+    "wof:lastmodified":1463433683,
+    "wof:name":"Professional Detail",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -81.0834,
+    37.368673,
+    -81.0834,
+    37.368673
+],
+  "geometry": {"coordinates":[-81.0834,37.368673],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823411905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.165613,37.983489,-81.165613,37.983489",
+    "geom:latitude":37.983489,
+    "geom:longitude":-81.165613,
+    "iso:country":"US",
+    "sg:address":"2114 Willow Wood Rd",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 465 5764",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25Up1GbDs6lI3Fmf4v4tov_37.983489_-81.165613@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433099,
+    "wof:geomhash":"6d6cb2fab2590eae2226567cecc68bbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823411905
+        }
+    ],
+    "wof:id":823411905,
+    "wof:lastmodified":1463433099,
+    "wof:name":"D H Mc Lain DO",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.165613,
+    37.983489,
+    -81.165613,
+    37.983489
+],
+  "geometry": {"coordinates":[-81.16561299999999,37.983489],"type":"Point"}
+}

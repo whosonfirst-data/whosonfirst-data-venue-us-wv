@@ -1,0 +1,77 @@
+{
+  "id": 823395541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.64169,38.359265,-81.64169,38.359265",
+    "geom:latitude":38.359265,
+    "geom:longitude":-81.64169,
+    "iso:country":"US",
+    "sg:address":"515 Pennsylvania Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 6811",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xQnRqd1L8HQBRvUZkG2ll_38.359265_-81.641690@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432349,
+    "wof:geomhash":"6d47d5522976f3a9002db911883fd1ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823395541
+        }
+    ],
+    "wof:id":823395541,
+    "wof:lastmodified":1463432349,
+    "wof:name":"Speedway Superamerica LLC",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -81.64169,
+    38.359265,
+    -81.64169,
+    38.359265
+],
+  "geometry": {"coordinates":[-81.64169,38.359265],"type":"Point"}
+}

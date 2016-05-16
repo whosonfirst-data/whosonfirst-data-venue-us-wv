@@ -1,0 +1,71 @@
+{
+  "id": 823413473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.656092,38.362554,-81.656092,38.362554",
+    "geom:latitude":38.362554,
+    "geom:longitude":-81.656092,
+    "iso:country":"US",
+    "sg:address":"101 Glenwood Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 4783",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qQgn5LxT7nQbBMBStYMJ7_38.362554_-81.656092@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433155,
+    "wof:geomhash":"fab01cf23d707c0c3622eb9e6f633812",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823413473
+        }
+    ],
+    "wof:id":823413473,
+    "wof:lastmodified":1463433155,
+    "wof:name":"R Lovell Shinn",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -81.656092,
+    38.362554,
+    -81.656092,
+    38.362554
+],
+  "geometry": {"coordinates":[-81.656092,38.362554],"type":"Point"}
+}

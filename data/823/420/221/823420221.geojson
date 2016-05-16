@@ -1,0 +1,73 @@
+{
+  "id": 823420221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.748875,38.371445,-81.748875,38.371445",
+    "geom:latitude":38.371445,
+    "geom:longitude":-81.748875,
+    "iso:country":"US",
+    "sg:address":"605 26th St",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 766 7347",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "state",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lCpDgrGib5PG3U9shPN4S_38.371445_-81.748875@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433474,
+    "wof:geomhash":"712be4e13373b7c51a1fad7d12ace5a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823420221
+        }
+    ],
+    "wof:id":823420221,
+    "wof:lastmodified":1463433474,
+    "wof:name":"West Virginia Army Recruiting",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "security"
+    ]
+},
+  "bbox": [
+    -81.748875,
+    38.371445,
+    -81.748875,
+    38.371445
+],
+  "geometry": {"coordinates":[-81.748875,38.371445],"type":"Point"}
+}

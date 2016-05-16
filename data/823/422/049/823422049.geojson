@@ -1,0 +1,73 @@
+{
+  "id": 823422049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.088787,37.369844,-81.088787,37.369844",
+    "geom:latitude":37.369844,
+    "geom:longitude":-81.088787,
+    "iso:country":"US",
+    "sg:address":"325 Mercer St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 8922",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shelter",
+        "homeless"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RVt2323GZpx1Kyt8jaExp_37.369844_-81.088787@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433544,
+    "wof:geomhash":"a218faafe36818e7094a33bfbbe78d80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823422049
+        }
+    ],
+    "wof:id":823422049,
+    "wof:lastmodified":1463433544,
+    "wof:name":"Mercer Street Shelter",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelter",
+        "homeless"
+    ]
+},
+  "bbox": [
+    -81.088787,
+    37.369844,
+    -81.088787,
+    37.369844
+],
+  "geometry": {"coordinates":[-81.088787,37.369844],"type":"Point"}
+}

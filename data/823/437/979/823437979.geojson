@@ -1,0 +1,71 @@
+{
+  "id": 823437979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.035665,39.015569,-82.035665,39.015569",
+    "geom:latitude":39.015569,
+    "geom:longitude":-82.035665,
+    "iso:country":"US",
+    "sg:address":"1093 2nd St",
+    "sg:city":"Mason",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 773 5620",
+    "sg:postcode":"25260",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731555,
+        102082637,
+        85830595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vwzhRpzXs3TX3lHz1IRqi_39.015569_-82.035665@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434279,
+    "wof:geomhash":"d3903c6af284e201d776abc9a322d35a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082637,
+            "locality_id":101731555,
+            "neighbourhood_id":85830595,
+            "region_id":85688589,
+            "venue_id":823437979
+        }
+    ],
+    "wof:id":823437979,
+    "wof:lastmodified":1463434279,
+    "wof:name":"Earnest L Trent DDS",
+    "wof:parent_id":85830595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -82.035665,
+    39.015569,
+    -82.035665,
+    39.015569
+],
+  "geometry": {"coordinates":[-82.03566499999999,39.015569],"type":"Point"}
+}

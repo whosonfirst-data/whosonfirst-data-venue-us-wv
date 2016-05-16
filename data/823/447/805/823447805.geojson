@@ -1,0 +1,73 @@
+{
+  "id": 823447805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.522443,39.268363,-81.522443,39.268363",
+    "geom:latitude":39.268363,
+    "geom:longitude":-81.522443,
+    "iso:country":"US",
+    "sg:address":"2007 7th St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 424 6369",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "florist",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85818775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GIujrN74ET3jdCULgsWal_39.268363_-81.522443@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434728,
+    "wof:geomhash":"eb2cc351b8207b2c63800e28c77089f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85818775,
+            "region_id":85688589,
+            "venue_id":823447805
+        }
+    ],
+    "wof:id":823447805,
+    "wof:lastmodified":1463434728,
+    "wof:name":"Kroger",
+    "wof:parent_id":85818775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "florist",
+        "eating"
+    ]
+},
+  "bbox": [
+    -81.522443,
+    39.268363,
+    -81.522443,
+    39.268363
+],
+  "geometry": {"coordinates":[-81.522443,39.268363],"type":"Point"}
+}

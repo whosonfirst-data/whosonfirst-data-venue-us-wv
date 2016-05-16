@@ -1,0 +1,69 @@
+{
+  "id": 823435003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.682278,40.089517,-80.682278,40.089517",
+    "geom:latitude":40.089517,
+    "geom:longitude":-80.682278,
+    "iso:country":"US",
+    "sg:address":"21 Alfred St",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 233 4128",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823177,
+        102082621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kCJYkPkDcmrSw4bln8bHh_40.089517_-80.682278@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434128,
+    "wof:geomhash":"d99b7ae5ec58faec5d9071d4494370f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082621,
+            "neighbourhood_id":85823177,
+            "region_id":85688589,
+            "venue_id":823435003
+        }
+    ],
+    "wof:id":823435003,
+    "wof:lastmodified":1463434128,
+    "wof:name":"Mighty Oak Tree Svc",
+    "wof:parent_id":85823177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -80.682278,
+    40.089517,
+    -80.682278,
+    40.089517
+],
+  "geometry": {"coordinates":[-80.682278,40.089517],"type":"Point"}
+}

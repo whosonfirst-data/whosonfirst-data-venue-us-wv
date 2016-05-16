@@ -1,0 +1,71 @@
+{
+  "id": 823386989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.600282,38.328444,-81.600282,38.328444",
+    "geom:latitude":38.328444,
+    "geom:longitude":-81.600282,
+    "iso:country":"US",
+    "sg:address":"3324 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 346 8133",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6o5niNdVp6cjJQKb0LNx3J_38.328444_-81.600282@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431929,
+    "wof:geomhash":"d3c8aaba244e36f21c5e7b54fa0979ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823386989
+        }
+    ],
+    "wof:id":823386989,
+    "wof:lastmodified":1463431929,
+    "wof:name":"Home Healthcare Svc",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital"
+    ]
+},
+  "bbox": [
+    -81.600282,
+    38.328444,
+    -81.600282,
+    38.328444
+],
+  "geometry": {"coordinates":[-81.60028200000001,38.328444],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823396083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.090178,37.369876,-81.090178,37.369876",
+    "geom:latitude":37.369876,
+    "geom:longitude":-81.090178,
+    "iso:country":"US",
+    "sg:address":"501 Mercer St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 2888",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4POz9d2Wey31GkrVe194d3_37.369876_-81.090178@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432378,
+    "wof:geomhash":"add46d683ab5f945899b7ab8fbb1bb87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823396083
+        }
+    ],
+    "wof:id":823396083,
+    "wof:lastmodified":1463432378,
+    "wof:name":"S Steele Plumbing & Heating",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.090178,
+    37.369876,
+    -81.090178,
+    37.369876
+],
+  "geometry": {"coordinates":[-81.09017799999999,37.369876],"type":"Point"}
+}

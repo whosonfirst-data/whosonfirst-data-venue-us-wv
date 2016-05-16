@@ -1,0 +1,71 @@
+{
+  "id": 823437307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.889849,37.671336,-80.889849,37.671336",
+    "geom:latitude":37.671336,
+    "geom:longitude":-80.889849,
+    "iso:country":"US",
+    "sg:address":"512 2nd Ave",
+    "sg:city":"Hinton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 466 0060",
+    "sg:postcode":"25951",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731641,
+        102083407,
+        85804037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_527aejnjjC1jwGng7FBwmg_37.671336_-80.889849@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434246,
+    "wof:geomhash":"d9e58e208ed605952191a0faa7ab9e2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083407,
+            "locality_id":101731641,
+            "neighbourhood_id":85804037,
+            "region_id":85688589,
+            "venue_id":823437307
+        }
+    ],
+    "wof:id":823437307,
+    "wof:lastmodified":1463434246,
+    "wof:name":"Rogers 2nd Avenue Grocery",
+    "wof:parent_id":85804037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -80.889849,
+    37.671336,
+    -80.889849,
+    37.671336
+],
+  "geometry": {"coordinates":[-80.889849,37.671336],"type":"Point"}
+}

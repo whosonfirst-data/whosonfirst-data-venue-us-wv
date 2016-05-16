@@ -1,0 +1,71 @@
+{
+  "id": 823387589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.227447,37.247282,-81.227447,37.247282",
+    "geom:latitude":37.247282,
+    "geom:longitude":-81.227447,
+    "iso:country":"US",
+    "sg:address":"1112 James St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 325 0534",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "investigator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00ijgjf3KYoyqlsJmMX18J_37.247282_-81.227447@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431949,
+    "wof:geomhash":"5247fd4e59642bfd47831276a84e95b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823387589
+        }
+    ],
+    "wof:id":823387589,
+    "wof:lastmodified":1463431949,
+    "wof:name":"Mc Carty Investigation",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investigator"
+    ]
+},
+  "bbox": [
+    -81.227447,
+    37.247282,
+    -81.227447,
+    37.247282
+],
+  "geometry": {"coordinates":[-81.227447,37.247282],"type":"Point"}
+}

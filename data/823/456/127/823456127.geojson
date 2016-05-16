@@ -1,0 +1,77 @@
+{
+  "id": 823456127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.646062,40.049809,-80.646062,40.049809",
+    "geom:latitude":40.049809,
+    "geom:longitude":-80.646062,
+    "iso:country":"US",
+    "sg:address":"18 Burkham Ct",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 243 1296",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "yard",
+        "leasing",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85840717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Vvve169Sz1GElkVm5FlNp_40.049809_-80.646062@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435101,
+    "wof:geomhash":"5721becc19862f0f4e42ac2a2587884d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85840717,
+            "region_id":85688589,
+            "venue_id":823456127
+        }
+    ],
+    "wof:id":823456127,
+    "wof:lastmodified":1463435101,
+    "wof:name":"Mays Rentals",
+    "wof:parent_id":85840717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard",
+        "leasing",
+        "store"
+    ]
+},
+  "bbox": [
+    -80.646062,
+    40.049809,
+    -80.646062,
+    40.049809
+],
+  "geometry": {"coordinates":[-80.646062,40.049809],"type":"Point"}
+}

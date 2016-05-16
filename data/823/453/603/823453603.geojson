@@ -1,0 +1,78 @@
+{
+  "id": 823453603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.955222,39.627154,-79.955222,39.627154",
+    "geom:latitude":39.627154,
+    "geom:longitude":-79.955222,
+    "iso:country":"US",
+    "sg:address":"300 Pleasant St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/central/18256-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 3030",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85858573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27e74eR6wAcZcDK6X7NRFF_39.627154_-79.955222@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434953,
+    "wof:geomhash":"cfc8c06259063855550199c21877654c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85858573,
+            "region_id":85688589,
+            "venue_id":823453603
+        }
+    ],
+    "wof:id":823453603,
+    "wof:lastmodified":1463434953,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85858573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -79.955222,
+    39.627154,
+    -79.955222,
+    39.627154
+],
+  "geometry": {"coordinates":[-79.95522200000001,39.627154],"type":"Point"}
+}

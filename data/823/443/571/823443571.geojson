@@ -1,0 +1,71 @@
+{
+  "id": 823443571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.032443,39.019714,-82.032443,39.019714",
+    "geom:latitude":39.019714,
+    "geom:longitude":-82.032443,
+    "iso:country":"US",
+    "sg:address":"118 S 2nd St",
+    "sg:city":"Mason",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 773 5201",
+    "sg:postcode":"25260",
+    "sg:province":"WV",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731555,
+        102082637,
+        85830595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0e6zyADySUmATcsG7yz6RV_39.019714_-82.032443@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434527,
+    "wof:geomhash":"47e53d3680d52a26fe7ea9e336729f72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082637,
+            "locality_id":101731555,
+            "neighbourhood_id":85830595,
+            "region_id":85688589,
+            "venue_id":823443571
+        }
+    ],
+    "wof:id":823443571,
+    "wof:lastmodified":1463434527,
+    "wof:name":"Mason Town Police Dept",
+    "wof:parent_id":85830595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -82.032443,
+    39.019714,
+    -82.032443,
+    39.019714
+],
+  "geometry": {"coordinates":[-82.032443,39.019714],"type":"Point"}
+}

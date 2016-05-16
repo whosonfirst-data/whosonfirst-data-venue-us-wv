@@ -1,0 +1,68 @@
+{
+  "id": 823402833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.956335,39.62915,-79.956335,39.62915",
+    "geom:latitude":39.62915,
+    "geom:longitude":-79.956335,
+    "iso:country":"US",
+    "sg:address":"218 High St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 9645",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CXDQdaA7OCLxUYRhFML01_39.629150_-79.956335@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432705,
+    "wof:geomhash":"41e374da598861e41a9a5edb2ff7c176",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851489,
+            "region_id":85688589,
+            "venue_id":823402833
+        }
+    ],
+    "wof:id":823402833,
+    "wof:lastmodified":1463432705,
+    "wof:name":"Center Morgantown Insurance",
+    "wof:parent_id":85851489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.956335,
+    39.62915,
+    -79.956335,
+    39.62915
+],
+  "geometry": {"coordinates":[-79.956335,39.62915],"type":"Point"}
+}

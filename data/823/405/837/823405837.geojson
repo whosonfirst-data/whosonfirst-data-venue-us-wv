@@ -1,0 +1,73 @@
+{
+  "id": 823405837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.392375,38.410854,-82.392375,38.410854",
+    "geom:latitude":38.410854,
+    "geom:longitude":-82.392375,
+    "iso:country":"US",
+    "sg:address":"3010 Wallace Cir",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 522 6202",
+    "sg:postcode":"25705",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cleaner",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083329,
+        85868301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nc2MtsOf20RmtHU7I4noE_38.410854_-82.392375@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432852,
+    "wof:geomhash":"adf1cb2501d176d5f5025b5ce44649cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731553,
+            "neighbourhood_id":85868301,
+            "region_id":85688589,
+            "venue_id":823405837
+        }
+    ],
+    "wof:id":823405837,
+    "wof:lastmodified":1463432852,
+    "wof:name":"Sammy Steamer Carpet Cleaner",
+    "wof:parent_id":85868301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -82.392375,
+    38.410854,
+    -82.392375,
+    38.410854
+],
+  "geometry": {"coordinates":[-82.392375,38.410854],"type":"Point"}
+}

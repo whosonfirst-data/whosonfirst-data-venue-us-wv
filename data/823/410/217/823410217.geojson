@@ -1,0 +1,71 @@
+{
+  "id": 823410217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.123342,39.529548,-80.123342,39.529548",
+    "geom:latitude":39.529548,
+    "geom:longitude":-80.123342,
+    "iso:country":"US",
+    "sg:address":"176 Monroe St",
+    "sg:city":"Rivesville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 278 5900",
+    "sg:postcode":"26588",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aOacDHsjUsUpGECuWURbt_39.529548_-80.123342@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433032,
+    "wof:geomhash":"c7fc558238495b1833f73779f4d21359",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823410217
+        }
+    ],
+    "wof:id":823410217,
+    "wof:lastmodified":1463433032,
+    "wof:name":"Jason G Gump DDS",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -80.123342,
+    39.529548,
+    -80.123342,
+    39.529548
+],
+  "geometry": {"coordinates":[-80.12334199999999,39.529548],"type":"Point"}
+}

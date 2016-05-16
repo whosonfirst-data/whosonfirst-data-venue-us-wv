@@ -1,0 +1,80 @@
+{
+  "id": 823441757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.981281,39.657499,-79.981281,39.657499",
+    "geom:latitude":39.657499,
+    "geom:longitude":-79.981281,
+    "iso:country":"US",
+    "sg:address":"412 Mansfield Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 1600",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "front",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41EgBy51II7OvM96KdAFJr_39.657499_-79.981281@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434434,
+    "wof:geomhash":"bf23c7dd1a7bafe99d95d2d89071dcb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851419,
+            "region_id":85688589,
+            "venue_id":823441757
+        }
+    ],
+    "wof:id":823441757,
+    "wof:lastmodified":1463434434,
+    "wof:name":"Star City Glass & Mirror Inc",
+    "wof:parent_id":85851419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "front",
+        "store"
+    ]
+},
+  "bbox": [
+    -79.981281,
+    39.657499,
+    -79.981281,
+    39.657499
+],
+  "geometry": {"coordinates":[-79.981281,39.657499],"type":"Point"}
+}

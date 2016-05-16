@@ -1,0 +1,71 @@
+{
+  "id": 823393777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.963241,39.659966,-79.963241,39.659966",
+    "geom:latitude":39.659966,
+    "geom:longitude":-79.963241,
+    "iso:country":"US",
+    "sg:address":"1212 Van Voorhis Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 9600",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "federally",
+        "chartered"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kvFm2L3UWCMBPbSM8fa3J_39.659966_-79.963241@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432265,
+    "wof:geomhash":"4e2faf0ff56f0f6868435dd1749d6375",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823393777
+        }
+    ],
+    "wof:id":823393777,
+    "wof:lastmodified":1463432265,
+    "wof:name":"Morgantown AES Federal Cu",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federally",
+        "chartered"
+    ]
+},
+  "bbox": [
+    -79.963241,
+    39.659966,
+    -79.963241,
+    39.659966
+],
+  "geometry": {"coordinates":[-79.963241,39.659966],"type":"Point"}
+}

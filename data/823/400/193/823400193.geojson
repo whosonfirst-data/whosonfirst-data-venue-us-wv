@@ -1,0 +1,72 @@
+{
+  "id": 823400193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.023487,38.433425,-82.023487,38.433425",
+    "geom:latitude":38.433425,
+    "geom:longitude":-82.023487,
+    "iso:country":"US",
+    "sg:address":"2801 Virginia Ave",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 562 5896",
+    "sg:postcode":"25526",
+    "sg:province":"WV",
+    "sg:tags":[
+        "village"
+    ],
+    "sg:website":"www.hurricanewv.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731829,
+        102083381,
+        85868321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6y8bLFsYKdyltIfIsisWJd_38.433425_-82.023487@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432595,
+    "wof:geomhash":"8d74bcb96705c722157481f299978041",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731829,
+            "neighbourhood_id":85868321,
+            "region_id":85688589,
+            "venue_id":823400193
+        }
+    ],
+    "wof:id":823400193,
+    "wof:lastmodified":1463432595,
+    "wof:name":"Hurricane Recorder",
+    "wof:parent_id":85868321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -82.023487,
+    38.433425,
+    -82.023487,
+    38.433425
+],
+  "geometry": {"coordinates":[-82.023487,38.433425],"type":"Point"}
+}

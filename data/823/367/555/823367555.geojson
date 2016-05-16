@@ -1,0 +1,71 @@
+{
+  "id": 823367555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.450317,37.798804,-80.450317,37.798804",
+    "geom:latitude":37.798804,
+    "geom:longitude":-80.450317,
+    "iso:country":"US",
+    "sg:address":"236 S Court St",
+    "sg:city":"Lewisburg",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 645 7777",
+    "sg:postcode":"24901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JGUygnl8kFvsalaoLKZwu_37.798804_-80.450317@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431077,
+    "wof:geomhash":"4a2f7eb989f09429c90bffcdc3fd6870",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823367555
+        }
+    ],
+    "wof:id":823367555,
+    "wof:lastmodified":1463431077,
+    "wof:name":"Old White Carving Co",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -80.450317,
+    37.798804,
+    -80.450317,
+    37.798804
+],
+  "geometry": {"coordinates":[-80.450317,37.798804],"type":"Point"}
+}

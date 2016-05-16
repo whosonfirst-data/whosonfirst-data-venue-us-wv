@@ -1,0 +1,71 @@
+{
+  "id": 823423333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.155732,39.494774,-80.155732,39.494774",
+    "geom:latitude":39.494774,
+    "geom:longitude":-80.155732,
+    "iso:country":"US",
+    "sg:address":"50 Greenbrier Plz",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 8154",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XoINLCWh28r4UdSx1IVr1_39.494774_-80.155732@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433590,
+    "wof:geomhash":"6b92549a23a831f7b10b2c1e8302bc83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823423333
+        }
+    ],
+    "wof:id":823423333,
+    "wof:lastmodified":1463433590,
+    "wof:name":"Green Briar Plaza Complex",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -80.155732,
+    39.494774,
+    -80.155732,
+    39.494774
+],
+  "geometry": {"coordinates":[-80.155732,39.494774],"type":"Point"}
+}

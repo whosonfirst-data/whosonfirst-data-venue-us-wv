@@ -1,0 +1,71 @@
+{
+  "id": 823457523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.98396,39.664028,-79.98396,39.664028",
+    "geom:latitude":39.664028,
+    "geom:longitude":-79.98396,
+    "iso:country":"US",
+    "sg:address":"630 Broadway Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Office Building",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 598 0234",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "park"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731749,
+        102082587,
+        85807277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18KbLGzMoMb0efy7JuV9mK_39.664028_-79.983960@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435163,
+    "wof:geomhash":"6bca00d14e0e6b497c4a44e97d86b897",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731749,
+            "neighbourhood_id":85807277,
+            "region_id":85688589,
+            "venue_id":823457523
+        }
+    ],
+    "wof:id":823457523,
+    "wof:lastmodified":1463435163,
+    "wof:name":"D & H Properties",
+    "wof:parent_id":85807277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "park"
+    ]
+},
+  "bbox": [
+    -79.98396,
+    39.664028,
+    -79.98396,
+    39.664028
+],
+  "geometry": {"coordinates":[-79.98396,39.664028],"type":"Point"}
+}

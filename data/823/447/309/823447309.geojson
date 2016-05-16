@@ -1,0 +1,75 @@
+{
+  "id": 823447309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.365433,39.27964,-80.365433,39.27964",
+    "geom:latitude":39.27964,
+    "geom:longitude":-80.365433,
+    "iso:country":"US",
+    "sg:address":"229 Fittro St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 624 7382",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "residential",
+        "general",
+        "nonresidential",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85810773,
+        102082619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5borTc7HjFjegl8BixFuvZ_39.279640_-80.365433@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434705,
+    "wof:geomhash":"1128ef49fd00866966a414c40fbf7534",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "neighbourhood_id":85810773,
+            "region_id":85688589,
+            "venue_id":823447309
+        }
+    ],
+    "wof:id":823447309,
+    "wof:lastmodified":1463434705,
+    "wof:name":"Yoak's Construction Inc",
+    "wof:parent_id":85810773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "general",
+        "nonresidential",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.365433,
+    39.27964,
+    -80.365433,
+    39.27964
+],
+  "geometry": {"coordinates":[-80.365433,39.27964],"type":"Point"}
+}

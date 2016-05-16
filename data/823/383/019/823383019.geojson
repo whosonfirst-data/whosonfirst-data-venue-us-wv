@@ -1,0 +1,73 @@
+{
+  "id": 823383019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.254216,39.280452,-80.254216,39.280452",
+    "geom:latitude":39.280452,
+    "geom:longitude":-80.254216,
+    "iso:country":"US",
+    "sg:address":"216 Jefferson St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 5362",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "industrial",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lxIHBIjn4yiWIeu894vuN_39.280452_-80.254216@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431774,
+    "wof:geomhash":"2149b85495c61381a669ef474da75a2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823383019
+        }
+    ],
+    "wof:id":823383019,
+    "wof:lastmodified":1463431774,
+    "wof:name":"A Mac",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -80.254216,
+    39.280452,
+    -80.254216,
+    39.280452
+],
+  "geometry": {"coordinates":[-80.254216,39.280452],"type":"Point"}
+}

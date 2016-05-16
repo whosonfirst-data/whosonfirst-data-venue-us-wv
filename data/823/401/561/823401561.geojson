@@ -1,0 +1,71 @@
+{
+  "id": 823401561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.97971,39.478045,-77.97971,39.478045",
+    "geom:latitude":39.478045,
+    "geom:longitude":-77.97971,
+    "iso:country":"US",
+    "sg:address":"1006 Tavern Rd",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 267 0556",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85846047,
+        102083367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eYc4I3QdYbr6AuK2vopN7_39.478045_-77.979710@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432652,
+    "wof:geomhash":"8c31baded47648b0f844d4c87f299f42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "neighbourhood_id":85846047,
+            "region_id":85688589,
+            "venue_id":823401561
+        }
+    ],
+    "wof:id":823401561,
+    "wof:lastmodified":1463432652,
+    "wof:name":"Tri State Surgical Ctr",
+    "wof:parent_id":85846047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -77.97971,
+    39.478045,
+    -77.97971,
+    39.478045
+],
+  "geometry": {"coordinates":[-77.97971,39.478045],"type":"Point"}
+}

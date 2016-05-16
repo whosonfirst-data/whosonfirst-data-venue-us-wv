@@ -1,0 +1,71 @@
+{
+  "id": 823421045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.698258,38.367238,-81.698258,38.367238",
+    "geom:latitude":38.367238,
+    "geom:longitude":-81.698258,
+    "iso:country":"US",
+    "sg:address":"601 E St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 720 3280",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71AP8InThdIZI1zM2obji9_38.367238_-81.698258@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433507,
+    "wof:geomhash":"6b2488792e24b730255f6d2edb161b84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823421045
+        }
+    ],
+    "wof:id":823421045,
+    "wof:lastmodified":1463433507,
+    "wof:name":"Bowery Insurance Services",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -81.698258,
+    38.367238,
+    -81.698258,
+    38.367238
+],
+  "geometry": {"coordinates":[-81.698258,38.367238],"type":"Point"}
+}

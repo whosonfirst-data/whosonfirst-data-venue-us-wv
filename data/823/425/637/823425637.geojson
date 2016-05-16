@@ -1,0 +1,73 @@
+{
+  "id": 823425637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.199943,37.255983,-81.199943,37.255983",
+    "geom:latitude":37.255983,
+    "geom:longitude":-81.199943,
+    "iso:country":"US",
+    "sg:address":"3168 E Cumberland Rd",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 327 9911",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "club",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qxaVFRTojAwcznulOfeSa_37.255983_-81.199943@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433684,
+    "wof:geomhash":"a1a482212524e61d1760141c1f0a5597",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823425637
+        }
+    ],
+    "wof:id":823425637,
+    "wof:lastmodified":1463433684,
+    "wof:name":"Cutty's",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "night"
+    ]
+},
+  "bbox": [
+    -81.199943,
+    37.255983,
+    -81.199943,
+    37.255983
+],
+  "geometry": {"coordinates":[-81.199943,37.255983],"type":"Point"}
+}

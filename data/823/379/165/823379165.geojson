@@ -1,0 +1,82 @@
+{
+  "id": 823379165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.597008,38.329246,-81.597008,38.329246",
+    "geom:latitude":38.329246,
+    "geom:longitude":-81.597008,
+    "iso:country":"US",
+    "sg:address":"3510 Noyes Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 4919",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "control",
+        "specialty",
+        "weight",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bGBjzbpI7LlmBBNMJo6Xf_38.329246_-81.597008@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431606,
+    "wof:geomhash":"4fdc2bde02b9812eb7dddd349669b090",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823379165
+        }
+    ],
+    "wof:id":823379165,
+    "wof:lastmodified":1463431606,
+    "wof:name":"Physicians Weight Loss Center",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "specialty",
+        "weight",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -81.597008,
+    38.329246,
+    -81.597008,
+    38.329246
+],
+  "geometry": {"coordinates":[-81.597008,38.329246],"type":"Point"}
+}

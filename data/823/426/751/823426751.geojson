@@ -1,0 +1,75 @@
+{
+  "id": 823426751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.551704,39.283347,-81.551704,39.283347",
+    "geom:latitude":39.283347,
+    "geom:longitude":-81.551704,
+    "iso:country":"US",
+    "sg:address":"100 24th St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 424 8547",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "city",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731687,
+        102083343,
+        85805293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OxeZuucALS5X1w3Ehlswj_39.283347_-81.551704@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433738,
+    "wof:geomhash":"0bef9d6d882b747e2e4c40ff432200c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85805293,
+            "region_id":85688589,
+            "venue_id":823426751
+        }
+    ],
+    "wof:id":823426751,
+    "wof:lastmodified":1463433738,
+    "wof:name":"Parkersburg Sanitation Dept",
+    "wof:parent_id":85805293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "program"
+    ]
+},
+  "bbox": [
+    -81.551704,
+    39.283347,
+    -81.551704,
+    39.283347
+],
+  "geometry": {"coordinates":[-81.551704,39.283347],"type":"Point"}
+}

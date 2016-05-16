@@ -1,0 +1,71 @@
+{
+  "id": 823393293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.596888,38.330094,-81.596888,38.330094",
+    "geom:latitude":38.330094,
+    "geom:longitude":-81.596888,
+    "iso:country":"US",
+    "sg:address":"3508 Staunton Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 5486",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "billing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DcqY6id6zLgnZPQ6oc1rY_38.330094_-81.596888@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432242,
+    "wof:geomhash":"3c61b67070050084053a7dd2009fac55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823393293
+        }
+    ],
+    "wof:id":823393293,
+    "wof:lastmodified":1463432242,
+    "wof:name":"Medical Management Pros Inc",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "billing"
+    ]
+},
+  "bbox": [
+    -81.596888,
+    38.330094,
+    -81.596888,
+    38.330094
+],
+  "geometry": {"coordinates":[-81.59688800000001,38.330094],"type":"Point"}
+}

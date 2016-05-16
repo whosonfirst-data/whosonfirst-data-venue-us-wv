@@ -1,0 +1,71 @@
+{
+  "id": 823408223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.738619,38.352196,-81.738619,38.352196",
+    "geom:latitude":38.352196,
+    "geom:longitude":-81.738619,
+    "iso:country":"US",
+    "sg:address":"5133 Ohio St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 4265",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BHhlaCNcNQqVLXRv1NcHe_38.352196_-81.738619@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432956,
+    "wof:geomhash":"cd50650be3098fc8c9943f4969bfcd3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823408223
+        }
+    ],
+    "wof:id":823408223,
+    "wof:lastmodified":1463432956,
+    "wof:name":"Henry W Cummings",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -81.738619,
+    38.352196,
+    -81.738619,
+    38.352196
+],
+  "geometry": {"coordinates":[-81.738619,38.352196],"type":"Point"}
+}

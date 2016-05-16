@@ -1,0 +1,83 @@
+{
+  "id": 823455343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.028603,39.3508,-78.028603,39.3508",
+    "geom:latitude":39.3508,
+    "geom:longitude":-78.028603,
+    "iso:country":"US",
+    "sg:address":"1890 Middleway Pike",
+    "sg:city":"Bunker Hill",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 229 0483",
+    "sg:postcode":"25413",
+    "sg:province":"WV",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Fqo6X37H53G0PdGA5ElWt_39.350800_-78.028603@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435071,
+    "wof:geomhash":"6fad6a6cb581b2d03ebf936aad48c03e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823455343
+        }
+    ],
+    "wof:id":823455343,
+    "wof:lastmodified":1463435071,
+    "wof:name":"Teddy Bear Preschool",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -78.028603,
+    39.3508,
+    -78.028603,
+    39.3508
+],
+  "geometry": {"coordinates":[-78.028603,39.3508],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823404297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.277541,39.285331,-80.277541,39.285331",
+    "geom:latitude":39.285331,
+    "geom:longitude":-80.277541,
+    "iso:country":"US",
+    "sg:address":"109 Lodgeville Rd",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 4619",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7j5vCYDjlfL71ESM4hUqNd_39.285331_-80.277541@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432774,
+    "wof:geomhash":"08e79554b6839e47073935478e8955fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823404297
+        }
+    ],
+    "wof:id":823404297,
+    "wof:lastmodified":1463432774,
+    "wof:name":"Plaza Service Ctr",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -80.277541,
+    39.285331,
+    -80.277541,
+    39.285331
+],
+  "geometry": {"coordinates":[-80.277541,39.285331],"type":"Point"}
+}

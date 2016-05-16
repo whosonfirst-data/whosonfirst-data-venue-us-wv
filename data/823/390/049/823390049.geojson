@@ -1,0 +1,73 @@
+{
+  "id": 823390049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.564062,38.310557,-81.564062,38.310557",
+    "geom:latitude":38.310557,
+    "geom:longitude":-81.564062,
+    "iso:country":"US",
+    "sg:address":"410 58th St SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 2903",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Xq10JqOvVzZrTlVuSB3sl_38.310557_-81.564062@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432079,
+    "wof:geomhash":"1efb58b19b626cf270dc1ac09cff5496",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823390049
+        }
+    ],
+    "wof:id":823390049,
+    "wof:lastmodified":1463432079,
+    "wof:name":"Capitol Mini Storage",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -81.564062,
+    38.310557,
+    -81.564062,
+    38.310557
+],
+  "geometry": {"coordinates":[-81.56406200000001,38.310557],"type":"Point"}
+}

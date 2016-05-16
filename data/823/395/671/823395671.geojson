@@ -1,0 +1,71 @@
+{
+  "id": 823395671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.252914,39.295403,-80.252914,39.295403",
+    "geom:latitude":39.295403,
+    "geom:longitude":-80.252914,
+    "iso:country":"US",
+    "sg:address":"811 Worthington Dr",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 4929",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FmIHym14utDZjB8pIePbp_39.295403_-80.252914@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432358,
+    "wof:geomhash":"c5c94fa8d9253c9f7ba32edf086e8e3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823395671
+        }
+    ],
+    "wof:id":823395671,
+    "wof:lastmodified":1463432358,
+    "wof:name":"Smittys Pizza Inc",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -80.252914,
+    39.295403,
+    -80.252914,
+    39.295403
+],
+  "geometry": {"coordinates":[-80.252914,39.295403],"type":"Point"}
+}

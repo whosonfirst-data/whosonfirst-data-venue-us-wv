@@ -1,0 +1,79 @@
+{
+  "id": 823458073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.120628,39.475744,-80.120628,39.475744",
+    "geom:latitude":39.475744,
+    "geom:longitude":-80.120628,
+    "iso:country":"US",
+    "sg:address":"800 E Park Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 8482",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dealers-used",
+        "car",
+        "used",
+        "cars-wholesale",
+        "new"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2f4PlcGmgzOwDXUCvZPeaw_39.475744_-80.120628@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435192,
+    "wof:geomhash":"31c9dd11a27aeffe43e7ebdb662c7852",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823458073
+        }
+    ],
+    "wof:id":823458073,
+    "wof:lastmodified":1463435192,
+    "wof:name":"Joe's Cars",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealers-used",
+        "car",
+        "used",
+        "cars-wholesale",
+        "new"
+    ]
+},
+  "bbox": [
+    -80.120628,
+    39.475744,
+    -80.120628,
+    39.475744
+],
+  "geometry": {"coordinates":[-80.120628,39.475744],"type":"Point"}
+}

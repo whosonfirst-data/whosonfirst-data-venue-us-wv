@@ -1,0 +1,73 @@
+{
+  "id": 823455707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.050749,39.404196,-78.050749,39.404196",
+    "geom:latitude":39.404196,
+    "geom:longitude":-78.050749,
+    "iso:country":"US",
+    "sg:address":"3050 Arden Nollville Rd",
+    "sg:city":"Inwood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 229 3649",
+    "sg:postcode":"25428",
+    "sg:province":"WV",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77GUCXElYO9QueJJHI9pvj_39.404196_-78.050749@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435085,
+    "wof:geomhash":"6b2beb103bc3af8a8b0ec2f6a6b6a3f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823455707
+        }
+    ],
+    "wof:id":823455707,
+    "wof:lastmodified":1463435085,
+    "wof:name":"Berkeley K-9 School For Dogs",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -78.050749,
+    39.404196,
+    -78.050749,
+    39.404196
+],
+  "geometry": {"coordinates":[-78.050749,39.404196],"type":"Point"}
+}

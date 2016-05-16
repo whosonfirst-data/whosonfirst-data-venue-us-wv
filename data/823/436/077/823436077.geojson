@@ -1,0 +1,77 @@
+{
+  "id": 823436077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.189003,37.775511,-81.189003,37.775511",
+    "geom:latitude":37.775511,
+    "geom:longitude":-81.189003,
+    "iso:country":"US",
+    "sg:address":"222 S Heber St",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 253 3471",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "osteopathic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SeWUueP6wgPv3c08oFgYR_37.775511_-81.189003@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434178,
+    "wof:geomhash":"7fbfe20e2694d5b8f28bc235927115eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823436077
+        }
+    ],
+    "wof:id":823436077,
+    "wof:lastmodified":1463434178,
+    "wof:name":"Eugene R Evans II DO",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "osteopathic"
+    ]
+},
+  "bbox": [
+    -81.189003,
+    37.775511,
+    -81.189003,
+    37.775511
+],
+  "geometry": {"coordinates":[-81.189003,37.775511],"type":"Point"}
+}

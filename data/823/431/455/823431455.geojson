@@ -1,0 +1,75 @@
+{
+  "id": 823431455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.145204,39.482038,-80.145204,39.482038",
+    "geom:latitude":39.482038,
+    "geom:longitude":-80.145204,
+    "iso:country":"US",
+    "sg:address":"110 Gaston Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 534 3950",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ou1qWF7Oinw40CpYOby0v_39.482038_-80.145204@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433938,
+    "wof:geomhash":"77c81103f0a78865f0eaf49c3b2a1611",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823431455
+        }
+    ],
+    "wof:id":823431455,
+    "wof:lastmodified":1463433938,
+    "wof:name":"M A Arja MD",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -80.145204,
+    39.482038,
+    -80.145204,
+    39.482038
+],
+  "geometry": {"coordinates":[-80.14520400000001,39.482038],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823391201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.84959,38.923995,-79.84959,38.923995",
+    "geom:latitude":38.923995,
+    "geom:longitude":-79.84959,
+    "iso:country":"US",
+    "sg:address":"104 2nd St",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 8067",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NS7bXCu9q2kShYbeRencQ_38.923995_-79.849590@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432127,
+    "wof:geomhash":"811cde7005cd6363919ca2cfc2933644",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823391201
+        }
+    ],
+    "wof:id":823391201,
+    "wof:lastmodified":1463432127,
+    "wof:name":"Shear Shack",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -79.84959,
+    38.923995,
+    -79.84959,
+    38.923995
+],
+  "geometry": {"coordinates":[-79.84959000000001,38.923995],"type":"Point"}
+}

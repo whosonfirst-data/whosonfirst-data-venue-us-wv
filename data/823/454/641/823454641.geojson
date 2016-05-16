@@ -1,0 +1,86 @@
+{
+  "id": 823454641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.970139,39.45343,-77.970139,39.45343",
+    "geom:latitude":39.45343,
+    "geom:longitude":-77.970139,
+    "iso:country":"US",
+    "sg:address":"501 S Raleigh St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 264 8177",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "buyer",
+        "commercial",
+        "broker"
+    ],
+    "sg:website":"http://www.johnorem.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0v17sWTtUEQI71sDWx1Jvz_39.453430_-77.970139@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435042,
+    "wof:geomhash":"2160edce6c66b252d4b2db9acf9b5fe8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823454641
+        }
+    ],
+    "wof:id":823454641,
+    "wof:lastmodified":1463435042,
+    "wof:name":"John Orem & Associates LLC",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "commercial",
+        "broker"
+    ]
+},
+  "bbox": [
+    -77.970139,
+    39.45343,
+    -77.970139,
+    39.45343
+],
+  "geometry": {"coordinates":[-77.970139,39.45343],"type":"Point"}
+}

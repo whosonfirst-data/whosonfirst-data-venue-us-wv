@@ -1,0 +1,71 @@
+{
+  "id": 823408541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.153758,37.980511,-81.153758,37.980511",
+    "geom:latitude":37.980511,
+    "geom:longitude":-81.153758,
+    "iso:country":"US",
+    "sg:address":"122 Sanford St",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 465 8644",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "instrument",
+        "musical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fXFEll0q7mif1a4s88WdC_37.980511_-81.153758@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432968,
+    "wof:geomhash":"4267e16177fa7a71ffb1f73da4ea3425",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823408541
+        }
+    ],
+    "wof:id":823408541,
+    "wof:lastmodified":1463432968,
+    "wof:name":"Al's Music Svc & Supply",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "musical"
+    ]
+},
+  "bbox": [
+    -81.153758,
+    37.980511,
+    -81.153758,
+    37.980511
+],
+  "geometry": {"coordinates":[-81.153758,37.980511],"type":"Point"}
+}

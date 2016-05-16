@@ -1,0 +1,71 @@
+{
+  "id": 823441219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.55917,38.313248,-81.55917,38.313248",
+    "geom:latitude":38.313248,
+    "geom:longitude":-81.55917,
+    "iso:country":"US",
+    "sg:address":"3407 Kanawha Blvd E",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 1176",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Jg9Gybs4fUtJ0YRV47h0R_38.313248_-81.559170@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434414,
+    "wof:geomhash":"ad84e8455e0853cd8c2953a0dba4a563",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823441219
+        }
+    ],
+    "wof:id":823441219,
+    "wof:lastmodified":1463434414,
+    "wof:name":"Lil Lamb Daycare",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -81.55917,
+    38.313248,
+    -81.55917,
+    38.313248
+],
+  "geometry": {"coordinates":[-81.55916999999999,38.313248],"type":"Point"}
+}

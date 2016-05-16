@@ -1,0 +1,82 @@
+{
+  "id": 823420321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.697015,38.368375,-81.697015,38.368375",
+    "geom:latitude":38.368375,
+    "geom:longitude":-81.697015,
+    "iso:country":"US",
+    "sg:address":"226 7th Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 0700",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "upholstered",
+        "household",
+        "upholsterer",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hmDmjB2X134Dc7wAX5vr3_38.368375_-81.697015@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433481,
+    "wof:geomhash":"65ee5f2c6a8f34dcc9883eeca6623c8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823420321
+        }
+    ],
+    "wof:id":823420321,
+    "wof:lastmodified":1463433481,
+    "wof:name":"G & S Upholstery",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholstered",
+        "household",
+        "upholsterer",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -81.697015,
+    38.368375,
+    -81.697015,
+    38.368375
+],
+  "geometry": {"coordinates":[-81.69701499999999,38.368375],"type":"Point"}
+}

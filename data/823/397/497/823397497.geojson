@@ -1,0 +1,71 @@
+{
+  "id": 823397497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.967675,39.445175,-77.967675,39.445175",
+    "geom:latitude":39.445175,
+    "geom:longitude":-77.967675,
+    "iso:country":"US",
+    "sg:address":"176 Wilson St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 8749",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14FNQ2RHZcA7jjIK1bK26V_39.445175_-77.967675@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432454,
+    "wof:geomhash":"777110a3b1d1944019b2dfc65bca0432",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823397497
+        }
+    ],
+    "wof:id":823397497,
+    "wof:lastmodified":1463432454,
+    "wof:name":"Hess Fence & Supply Co",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -77.967675,
+    39.445175,
+    -77.967675,
+    39.445175
+],
+  "geometry": {"coordinates":[-77.967675,39.445175],"type":"Point"}
+}

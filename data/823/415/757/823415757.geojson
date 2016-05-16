@@ -1,0 +1,73 @@
+{
+  "id": 823415757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.694826,38.367231,-81.694826,38.367231",
+    "geom:latitude":38.367231,
+    "geom:longitude":-81.694826,
+    "iso:country":"US",
+    "sg:address":"301 5th Ave SW",
+    "sg:city":"South Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 5460",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gYzX47HbibVTb9jPaQzvq_38.367231_-81.694826@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433271,
+    "wof:geomhash":"50cb4659cc2fb534c858299c5b0be8d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823415757
+        }
+    ],
+    "wof:id":823415757,
+    "wof:lastmodified":1463433271,
+    "wof:name":"Libby's Dance Connection",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -81.694826,
+    38.367231,
+    -81.694826,
+    38.367231
+],
+  "geometry": {"coordinates":[-81.69482600000001,38.367231],"type":"Point"}
+}

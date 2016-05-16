@@ -1,0 +1,71 @@
+{
+  "id": 823389671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.583309,37.440002,-81.583309,37.440002",
+    "geom:latitude":37.440002,
+    "geom:longitude":-81.583309,
+    "iso:country":"US",
+    "sg:address":"289 Stewart St",
+    "sg:city":"Welch",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 436 2370",
+    "sg:postcode":"24801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85809677,
+        102083405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69LMwvz4g9ORBko0Ra1Sg4_37.440002_-81.583309@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432060,
+    "wof:geomhash":"b8b3908c881083ec640184ced63c1dec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083405,
+            "neighbourhood_id":85809677,
+            "region_id":85688589,
+            "venue_id":823389671
+        }
+    ],
+    "wof:id":823389671,
+    "wof:lastmodified":1463432060,
+    "wof:name":"City Electric Co",
+    "wof:parent_id":85809677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.583309,
+    37.440002,
+    -81.583309,
+    37.440002
+],
+  "geometry": {"coordinates":[-81.583309,37.440002],"type":"Point"}
+}

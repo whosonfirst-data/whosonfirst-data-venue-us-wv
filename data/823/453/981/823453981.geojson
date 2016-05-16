@@ -1,0 +1,74 @@
+{
+  "id": 823453981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.569363,38.314323,-81.569363,38.314323",
+    "geom:latitude":38.314323,
+    "geom:longitude":-81.569363,
+    "iso:country":"US",
+    "sg:address":"5631 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/belle/101052-captain-ds-seafood/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 0063",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ruMalWgo5Rh8903zFEq5R_38.313980_-81.568798@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434989,
+    "wof:geomhash":"ac9d58bbf96dfa20412d4a3b63c06127",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823453981
+        }
+    ],
+    "wof:id":823453981,
+    "wof:lastmodified":1463434989,
+    "wof:name":"Captain D's Seafood",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -81.569363,
+    38.314323,
+    -81.569363,
+    38.314323
+],
+  "geometry": {"coordinates":[-81.569363,38.314323],"type":"Point"}
+}

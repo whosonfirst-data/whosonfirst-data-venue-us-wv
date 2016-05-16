@@ -1,0 +1,75 @@
+{
+  "id": 823373389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.691583,38.366343,-81.691583,38.366343",
+    "geom:latitude":38.366343,
+    "geom:longitude":-81.691583,
+    "iso:country":"US",
+    "sg:address":"434 3rd Ave SW",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 5201",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "party",
+        "general",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dylYNCCWZeODvN3rspbQA_38.366343_-81.691583@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431336,
+    "wof:geomhash":"81f798761fe416c9bd330b53434830ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823373389
+        }
+    ],
+    "wof:id":823373389,
+    "wof:lastmodified":1463431336,
+    "wof:name":"Party King Inc",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "party",
+        "general",
+        "supply"
+    ]
+},
+  "bbox": [
+    -81.691583,
+    38.366343,
+    -81.691583,
+    38.366343
+],
+  "geometry": {"coordinates":[-81.69158299999999,38.366343],"type":"Point"}
+}

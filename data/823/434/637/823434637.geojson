@@ -1,0 +1,71 @@
+{
+  "id": 823434637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.705398,38.334787,-81.705398,38.334787",
+    "geom:latitude":38.334787,
+    "geom:longitude":-81.705398,
+    "iso:country":"US",
+    "sg:address":"1705 Oakhurst Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 7755",
+    "sg:postcode":"25314",
+    "sg:province":"WV",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fVEJZycyisZtGGcsvfELb_38.334787_-81.705398@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434112,
+    "wof:geomhash":"96048f243e0788e6367aa3a9b9d30036",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823434637
+        }
+    ],
+    "wof:id":823434637,
+    "wof:lastmodified":1463434112,
+    "wof:name":"Allstate Delivery Svc",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -81.705398,
+    38.334787,
+    -81.705398,
+    38.334787
+],
+  "geometry": {"coordinates":[-81.705398,38.334787],"type":"Point"}
+}

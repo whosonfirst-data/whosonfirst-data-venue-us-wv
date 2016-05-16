@@ -1,0 +1,82 @@
+{
+  "id": 823430401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.649946,38.362377,-81.649946,38.362377",
+    "geom:latitude":38.362377,
+    "geom:longitude":-81.649946,
+    "iso:country":"US",
+    "sg:address":"505 Central Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 5586",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "tile",
+        "linoleum",
+        "rug",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tRUWDBdorse5p3dHfZJ0P_38.362377_-81.649946@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433897,
+    "wof:geomhash":"75f36f4aeb1a46c539dab0a67d8324e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823430401
+        }
+    ],
+    "wof:id":823430401,
+    "wof:lastmodified":1463433897,
+    "wof:name":"Andrews Floor & Wall Covering",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "linoleum",
+        "rug",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -81.649946,
+    38.362377,
+    -81.649946,
+    38.362377
+],
+  "geometry": {"coordinates":[-81.649946,38.362377],"type":"Point"}
+}

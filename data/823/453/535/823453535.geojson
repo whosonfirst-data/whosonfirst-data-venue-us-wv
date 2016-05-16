@@ -1,0 +1,74 @@
+{
+  "id": 823453535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.036458,39.148606,-80.036458,39.148606",
+    "geom:latitude":39.148606,
+    "geom:longitude":-80.036458,
+    "iso:country":"US",
+    "sg:address":"106 S Main St",
+    "sg:city":"Philippi",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/north/67922-foxs-pizza-den/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 457 5000",
+    "sg:postcode":"26416",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yeGFjvn0xHwrCmRitNymZ_39.148606_-80.036458@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434951,
+    "wof:geomhash":"0b27f9a2864af49fe61f4d61d29a89ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823453535
+        }
+    ],
+    "wof:id":823453535,
+    "wof:lastmodified":1463434951,
+    "wof:name":"Fox's Pizza Den",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -80.036458,
+    39.148606,
+    -80.036458,
+    39.148606
+],
+  "geometry": {"coordinates":[-80.036458,39.148606],"type":"Point"}
+}

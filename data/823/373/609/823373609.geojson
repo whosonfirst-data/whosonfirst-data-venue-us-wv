@@ -1,0 +1,77 @@
+{
+  "id": 823373609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.244794,37.803208,-81.244794,37.803208",
+    "geom:latitude":37.803208,
+    "geom:longitude":-81.244794,
+    "iso:country":"US",
+    "sg:address":"2902 Harper Rd",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 255 1805",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IFh7RNCvFpo0Ty6h1RVgY_37.803208_-81.244794@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431344,
+    "wof:geomhash":"95987b31bb86b6382d393dca827019e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823373609
+        }
+    ],
+    "wof:id":823373609,
+    "wof:lastmodified":1463431344,
+    "wof:name":"Street Dreams",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -81.244794,
+    37.803208,
+    -81.244794,
+    37.803208
+],
+  "geometry": {"coordinates":[-81.244794,37.803208],"type":"Point"}
+}

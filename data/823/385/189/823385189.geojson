@@ -1,0 +1,71 @@
+{
+  "id": 823385189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.569242,40.609812,-80.569242,40.609812",
+    "geom:latitude":40.609812,
+    "geom:longitude":-80.569242,
+    "iso:country":"US",
+    "sg:address":"175 Carolina Ave",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 9577",
+    "sg:postcode":"26034",
+    "sg:province":"WV",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FiTzBqkTzMSo5KAGIJC8O_40.609812_-80.569242@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431856,
+    "wof:geomhash":"55ae2fbb6b692eb05944a8631b25a591",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823385189
+        }
+    ],
+    "wof:id":823385189,
+    "wof:lastmodified":1463431856,
+    "wof:name":"Flowerland",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -80.569242,
+    40.609812,
+    -80.569242,
+    40.609812
+],
+  "geometry": {"coordinates":[-80.569242,40.609812],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 823416501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.280883,39.279663,-80.280883,39.279663",
+    "geom:latitude":39.279663,
+    "geom:longitude":-80.280883,
+    "iso:country":"US",
+    "sg:address":"516 Emily Dr",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 623 9955",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vGtPWIA54u6cjyhNSbw0y_39.279663_-80.280883@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433304,
+    "wof:geomhash":"40b640aae1b7f861798a0756e1aecd53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823416501
+        }
+    ],
+    "wof:id":823416501,
+    "wof:lastmodified":1463433304,
+    "wof:name":"Sams Smoke Time",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -80.280883,
+    39.279663,
+    -80.280883,
+    39.279663
+],
+  "geometry": {"coordinates":[-80.280883,39.279663],"type":"Point"}
+}

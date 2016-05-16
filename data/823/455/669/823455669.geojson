@@ -1,0 +1,71 @@
+{
+  "id": 823455669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.073303,39.404202,-78.073303,39.404202",
+    "geom:latitude":39.404202,
+    "geom:longitude":-78.073303,
+    "iso:country":"US",
+    "sg:address":"166 Argyll Glen Dr",
+    "sg:city":"Inwood",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 229 5049",
+    "sg:postcode":"25428",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KucYIzGbVPn9Zno8MGku4_39.404202_-78.073303@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435084,
+    "wof:geomhash":"7f8e19bb39f2fed76ed6865caadac8c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823455669
+        }
+    ],
+    "wof:id":823455669,
+    "wof:lastmodified":1463435084,
+    "wof:name":"Phillip's Electric",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -78.073303,
+    39.404202,
+    -78.073303,
+    39.404202
+],
+  "geometry": {"coordinates":[-78.073303,39.404202],"type":"Point"}
+}

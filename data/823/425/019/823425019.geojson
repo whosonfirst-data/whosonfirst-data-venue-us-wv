@@ -1,0 +1,71 @@
+{
+  "id": 823425019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.138891,38.84211,-82.138891,38.84211",
+    "geom:latitude":38.84211,
+    "geom:longitude":-82.138891,
+    "iso:country":"US",
+    "sg:address":"312 Main St",
+    "sg:city":"Point Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 675 6991",
+    "sg:postcode":"25550",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85983229,
+        102083675,
+        85824533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0441St6RRXPcr2HY2XoG48_38.842110_-82.138891@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433660,
+    "wof:geomhash":"d5fd76f37cf474b6bb0fad6efc38f6d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "neighbourhood_id":85824533,
+            "region_id":85688485,
+            "venue_id":823425019
+        }
+    ],
+    "wof:id":823425019,
+    "wof:lastmodified":1463433660,
+    "wof:name":"Main Street Cafe",
+    "wof:parent_id":85824533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -82.138891,
+    38.84211,
+    -82.138891,
+    38.84211
+],
+  "geometry": {"coordinates":[-82.138891,38.84211],"type":"Point"}
+}

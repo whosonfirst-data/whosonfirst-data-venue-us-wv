@@ -1,0 +1,75 @@
+{
+  "id": 823376085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.965341,39.636153,-79.965341,39.636153",
+    "geom:latitude":39.636153,
+    "geom:longitude":-79.965341,
+    "iso:country":"US",
+    "sg:address":"101 W Park Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 983 8215",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85847767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IJg2NH5C7TpDT6pazHy5a_39.636153_-79.965341@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431462,
+    "wof:geomhash":"ad136be4ce372269de3c4fcb12b9dab3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85847767,
+            "region_id":85688589,
+            "venue_id":823376085
+        }
+    ],
+    "wof:id":823376085,
+    "wof:lastmodified":1463431462,
+    "wof:name":"Monongalia Bus Garage",
+    "wof:parent_id":85847767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -79.965341,
+    39.636153,
+    -79.965341,
+    39.636153
+],
+  "geometry": {"coordinates":[-79.965341,39.636153],"type":"Point"}
+}

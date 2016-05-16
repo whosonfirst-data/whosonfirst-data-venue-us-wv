@@ -1,0 +1,71 @@
+{
+  "id": 823437379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.959856,39.625321,-79.959856,39.625321",
+    "geom:latitude":39.625321,
+    "geom:longitude":-79.959856,
+    "iso:country":"US",
+    "sg:address":"124 S High St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 285 3155",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hPF3BYM3aEONJw66k2pMe_39.625321_-79.959856@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434248,
+    "wof:geomhash":"19a82cb947732ce4952b927a57779246",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823437379
+        }
+    ],
+    "wof:id":823437379,
+    "wof:lastmodified":1463434248,
+    "wof:name":"Rehabilitation Division",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -79.959856,
+    39.625321,
+    -79.959856,
+    39.625321
+],
+  "geometry": {"coordinates":[-79.959856,39.625321],"type":"Point"}
+}

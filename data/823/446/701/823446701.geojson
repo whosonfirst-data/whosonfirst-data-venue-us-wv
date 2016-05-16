@@ -1,0 +1,71 @@
+{
+  "id": 823446701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.951237,39.617316,-79.951237,39.617316",
+    "geom:latitude":39.617316,
+    "geom:longitude":-79.951237,
+    "iso:country":"US",
+    "sg:address":"108 Mingo St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 393 4303",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bQ9CjwJ6bjY9sz98TiDiD_39.617316_-79.951237@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434680,
+    "wof:geomhash":"a69744fd49d5b13c89ef07a41364902e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823446701
+        }
+    ],
+    "wof:id":823446701,
+    "wof:lastmodified":1463434680,
+    "wof:name":"James W Endicott MD",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -79.951237,
+    39.617316,
+    -79.951237,
+    39.617316
+],
+  "geometry": {"coordinates":[-79.95123700000001,39.617316],"type":"Point"}
+}

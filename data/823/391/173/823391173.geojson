@@ -1,0 +1,73 @@
+{
+  "id": 823391173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.337614,39.280118,-80.337614,39.280118",
+    "geom:latitude":39.280118,
+    "geom:longitude":-80.337614,
+    "iso:country":"US",
+    "sg:address":"165 W Pike St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 624 7474",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lbp2ZjIVx8wuBTqQsDuwA_39.280118_-80.337614@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432126,
+    "wof:geomhash":"ecf320d797797d0df02a7fe54b48e0b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823391173
+        }
+    ],
+    "wof:id":823391173,
+    "wof:lastmodified":1463432126,
+    "wof:name":"Dance Unlimited",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -80.337614,
+    39.280118,
+    -80.337614,
+    39.280118
+],
+  "geometry": {"coordinates":[-80.337614,39.280118],"type":"Point"}
+}

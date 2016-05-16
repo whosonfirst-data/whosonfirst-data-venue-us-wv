@@ -1,0 +1,71 @@
+{
+  "id": 823443753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.65913,38.364448,-81.65913,38.364448",
+    "geom:latitude":38.364448,
+    "geom:longitude":-81.65913,
+    "iso:country":"US",
+    "sg:address":"1108 2nd Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 3085",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kJ8fEk9wEncxlLfd6qfXn_38.364448_-81.659130@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434533,
+    "wof:geomhash":"b6669813ad4b7004164da6810253fbc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823443753
+        }
+    ],
+    "wof:id":823443753,
+    "wof:lastmodified":1463434533,
+    "wof:name":"St Paul AME Church",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.65913,
+    38.364448,
+    -81.65913,
+    38.364448
+],
+  "geometry": {"coordinates":[-81.65913,38.364448],"type":"Point"}
+}

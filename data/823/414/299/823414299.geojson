@@ -1,0 +1,71 @@
+{
+  "id": 823414299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.080737,37.369464,-81.080737,37.369464",
+    "geom:latitude":37.369464,
+    "geom:longitude":-81.080737,
+    "iso:country":"US",
+    "sg:address":"308 Thorn St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 5043",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22TbNPJnpjnJroR4XcgiE5_37.369464_-81.080737@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433198,
+    "wof:geomhash":"6ec20333f0ff29da3f9345ec4f4357c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823414299
+        }
+    ],
+    "wof:id":823414299,
+    "wof:lastmodified":1463433198,
+    "wof:name":"Gateway Motel",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -81.080737,
+    37.369464,
+    -81.080737,
+    37.369464
+],
+  "geometry": {"coordinates":[-81.080737,37.369464],"type":"Point"}
+}

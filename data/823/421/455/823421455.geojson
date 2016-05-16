@@ -1,0 +1,71 @@
+{
+  "id": 823421455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.739899,38.359028,-81.739899,38.359028",
+    "geom:latitude":38.359028,
+    "geom:longitude":-81.739899,
+    "iso:country":"US",
+    "sg:address":"1226 Myers Ave",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 9022",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02i7xp9Rma8GAJCaFCO6fb_38.359028_-81.739899@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433523,
+    "wof:geomhash":"3d999e0c11f475f65fac2f353ee6bda9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823421455
+        }
+    ],
+    "wof:id":823421455,
+    "wof:lastmodified":1463433523,
+    "wof:name":"Myers Avenue Apartments",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -81.739899,
+    38.359028,
+    -81.739899,
+    38.359028
+],
+  "geometry": {"coordinates":[-81.73989899999999,38.359028],"type":"Point"}
+}

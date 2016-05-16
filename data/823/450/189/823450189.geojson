@@ -1,0 +1,71 @@
+{
+  "id": 823450189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.608219,40.278417,-80.608219,40.278417",
+    "geom:latitude":40.278417,
+    "geom:longitude":-80.608219,
+    "iso:country":"US",
+    "sg:address":"1512 Commerce St",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 2533",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6feGvKvZ4Er6XzZXKAAXWt_40.278417_-80.608219@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434823,
+    "wof:geomhash":"5f2344f49bfdfe51009ca5efdb1f3a67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823450189
+        }
+    ],
+    "wof:id":823450189,
+    "wof:lastmodified":1463434823,
+    "wof:name":"David G Edwards DDS",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -80.608219,
+    40.278417,
+    -80.608219,
+    40.278417
+],
+  "geometry": {"coordinates":[-80.60821900000001,40.278417],"type":"Point"}
+}

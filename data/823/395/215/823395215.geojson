@@ -1,0 +1,73 @@
+{
+  "id": 823395215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.003188,39.345066,-80.003188,39.345066",
+    "geom:latitude":39.345066,
+    "geom:longitude":-80.003188,
+    "iso:country":"US",
+    "sg:address":"5 Harman Ave",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 265 6577",
+    "sg:postcode":"26354",
+    "sg:province":"WV",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731717,
+        102083351,
+        85849697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xCX2UF2mkDoqYKqO8nugU_39.345066_-80.003188@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432337,
+    "wof:geomhash":"156bffe4cfa73f83fe4587becaf3d51c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083351,
+            "locality_id":101731717,
+            "neighbourhood_id":85849697,
+            "region_id":85688589,
+            "venue_id":823395215
+        }
+    ],
+    "wof:id":823395215,
+    "wof:lastmodified":1463432337,
+    "wof:name":"Movie Gallery",
+    "wof:parent_id":85849697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -80.003188,
+    39.345066,
+    -80.003188,
+    39.345066
+],
+  "geometry": {"coordinates":[-80.00318799999999,39.345066],"type":"Point"}
+}

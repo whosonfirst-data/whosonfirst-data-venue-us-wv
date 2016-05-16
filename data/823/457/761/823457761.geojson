@@ -1,0 +1,80 @@
+{
+  "id": 823457761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.914538,39.668952,-79.914538,39.668952",
+    "geom:latitude":39.668952,
+    "geom:longitude":-79.914538,
+    "iso:country":"US",
+    "sg:address":"1286 Canyon Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 9506",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "radios-citizens",
+        "consumer",
+        "band"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731747,
+        102082587,
+        85819247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RriXjlNdU9lqL9ARFYnpj_39.668952_-79.914538@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435180,
+    "wof:geomhash":"68dccb837487a38d46bf5f98e7432718",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85819247,
+            "region_id":85688589,
+            "venue_id":823457761
+        }
+    ],
+    "wof:id":823457761,
+    "wof:lastmodified":1463435180,
+    "wof:name":"Cobra Cb Shop",
+    "wof:parent_id":85819247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "radios-citizens",
+        "consumer",
+        "band"
+    ]
+},
+  "bbox": [
+    -79.914538,
+    39.668952,
+    -79.914538,
+    39.668952
+],
+  "geometry": {"coordinates":[-79.91453799999999,39.668952],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 823454085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.661612,40.046417,-80.661612,40.046417",
+    "geom:latitude":40.046417,
+    "geom:longitude":-80.661612,
+    "iso:country":"US",
+    "sg:address":"2128 National Rd",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/wheeling/192422-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 242 2120",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85840717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Go3YDQtykKRDmiO8UYzQS_40.046999_-80.662002@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463434999,
+    "wof:geomhash":"8e0107a22e405a11c60ce18537b92e28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85840717,
+            "region_id":85688589,
+            "venue_id":823454085
+        }
+    ],
+    "wof:id":823454085,
+    "wof:lastmodified":1463434999,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85840717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -80.661612,
+    40.046417,
+    -80.661612,
+    40.046417
+],
+  "geometry": {"coordinates":[-80.66161200000001,40.046417],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823435885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.967805,39.465863,-77.967805,39.465863",
+    "geom:latitude":39.465863,
+    "geom:longitude":-77.967805,
+    "iso:country":"US",
+    "sg:address":"701 Baltimore St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 260 0500",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85846047,
+        102083367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Din3rxAkxYDap6FC6wwHX_39.465863_-77.967805@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434160,
+    "wof:geomhash":"9e4dea7b0054e69007f59b2e1d3a3c28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "neighbourhood_id":85846047,
+            "region_id":85688589,
+            "venue_id":823435885
+        }
+    ],
+    "wof:id":823435885,
+    "wof:lastmodified":1463434160,
+    "wof:name":"Marple's Automotive",
+    "wof:parent_id":85846047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -77.967805,
+    39.465863,
+    -77.967805,
+    39.465863
+],
+  "geometry": {"coordinates":[-77.967805,39.465863],"type":"Point"}
+}

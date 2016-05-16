@@ -1,0 +1,86 @@
+{
+  "id": 823386737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.662755,40.047719,-80.662755,40.047719",
+    "geom:latitude":40.047719,
+    "geom:longitude":-80.662755,
+    "iso:country":"US",
+    "sg:address":"2096 National Rd",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 242 6100",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "station",
+        "oil",
+        "gasoline",
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85840717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MMFNL6kl2iHiR69zj7LaX_40.047719_-80.662755@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431916,
+    "wof:geomhash":"62190f1d79d9100807f33cc2fcd74b18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85840717,
+            "region_id":85688589,
+            "venue_id":823386737
+        }
+    ],
+    "wof:id":823386737,
+    "wof:lastmodified":1463431916,
+    "wof:name":"Wharton's Amoco",
+    "wof:parent_id":85840717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "oil",
+        "gasoline",
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -80.662755,
+    40.047719,
+    -80.662755,
+    40.047719
+],
+  "geometry": {"coordinates":[-80.662755,40.047719],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 823412973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.199293,37.788739,-81.199293,37.788739",
+    "geom:latitude":37.788739,
+    "geom:longitude":-81.199293,
+    "iso:country":"US",
+    "sg:address":"427 Carriage Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 253 7097",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fDmjQym8EfNAJPpSHAZtb_37.788739_-81.199293@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433138,
+    "wof:geomhash":"49d19446e57dc4fe7c40aabd9597c9dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823412973
+        }
+    ],
+    "wof:id":823412973,
+    "wof:lastmodified":1463433138,
+    "wof:name":"Comprehensive Neurology",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.199293,
+    37.788739,
+    -81.199293,
+    37.788739
+],
+  "geometry": {"coordinates":[-81.199293,37.788739],"type":"Point"}
+}

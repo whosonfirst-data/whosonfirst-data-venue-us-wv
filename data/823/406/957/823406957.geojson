@@ -1,0 +1,73 @@
+{
+  "id": 823406957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.128613,37.968411,-81.128613,37.968411",
+    "geom:latitude":37.968411,
+    "geom:longitude":-81.128613,
+    "iso:country":"US",
+    "sg:address":"115 Ramey Rd",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 469 2657",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KDd6pVGlmVVFEc94MxVR1_37.968411_-81.128613@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432901,
+    "wof:geomhash":"cea85a4915ea813be0a68e7d02adf98f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823406957
+        }
+    ],
+    "wof:id":823406957,
+    "wof:lastmodified":1463432901,
+    "wof:name":"Chapman Trucking",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -81.128613,
+    37.968411,
+    -81.128613,
+    37.968411
+],
+  "geometry": {"coordinates":[-81.128613,37.968411],"type":"Point"}
+}

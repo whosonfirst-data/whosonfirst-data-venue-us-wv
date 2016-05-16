@@ -1,0 +1,75 @@
+{
+  "id": 823437285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.150412,37.823848,-81.150412,37.823848",
+    "geom:latitude":37.823848,
+    "geom:longitude":-81.150412,
+    "iso:country":"US",
+    "sg:address":"1479 Stanaford Rd",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 255 6551",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4t8zYeHSQXgI3aCQLaVIOp_37.823848_-81.150412@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434245,
+    "wof:geomhash":"85bfba9e818cf9d90f6a89c5c79c1895",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823437285
+        }
+    ],
+    "wof:id":823437285,
+    "wof:lastmodified":1463434245,
+    "wof:name":"Oak Hill Garbage Disposal Inc",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -81.150412,
+    37.823848,
+    -81.150412,
+    37.823848
+],
+  "geometry": {"coordinates":[-81.150412,37.823848],"type":"Point"}
+}

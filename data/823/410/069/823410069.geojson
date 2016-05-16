@@ -1,0 +1,71 @@
+{
+  "id": 823410069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.548849,38.233691,-81.548849,38.233691",
+    "geom:latitude":38.233691,
+    "geom:longitude":-81.548849,
+    "iso:country":"US",
+    "sg:address":"11436 Kanawha Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 1930",
+    "sg:postcode":"25315",
+    "sg:province":"WV",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54DL8uxd1IMnnYAxcFdtMq_38.233691_-81.548849@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433027,
+    "wof:geomhash":"d675eddeaa3cec0ee905584113a9198b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823410069
+        }
+    ],
+    "wof:id":823410069,
+    "wof:lastmodified":1463433027,
+    "wof:name":"Brewing Station",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -81.548849,
+    38.233691,
+    -81.548849,
+    38.233691
+],
+  "geometry": {"coordinates":[-81.548849,38.233691],"type":"Point"}
+}

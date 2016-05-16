@@ -1,0 +1,71 @@
+{
+  "id": 823433123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.97424,39.452617,-77.97424,39.452617",
+    "geom:latitude":39.452617,
+    "geom:longitude":-77.97424,
+    "iso:country":"US",
+    "sg:address":"617 Faulkner Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 4585",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Lt1KfCo4d5zHyx4Sms26Z_39.452617_-77.974240@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434024,
+    "wof:geomhash":"a403ecde18e0db4fe8d06fd49912a752",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823433123
+        }
+    ],
+    "wof:id":823433123,
+    "wof:lastmodified":1463434024,
+    "wof:name":"Hedden Inc",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -77.97424,
+    39.452617,
+    -77.97424,
+    39.452617
+],
+  "geometry": {"coordinates":[-77.97423999999999,39.452617],"type":"Point"}
+}

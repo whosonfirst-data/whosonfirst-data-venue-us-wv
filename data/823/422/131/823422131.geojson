@@ -1,0 +1,73 @@
+{
+  "id": 823422131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.939618,39.555002,-79.939618,39.555002",
+    "geom:latitude":39.555002,
+    "geom:longitude":-79.939618,
+    "iso:country":"US",
+    "sg:address":"1635 Grafton Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 291 0997",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732105,
+        102082587,
+        85807831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hThYWCaGzKl6rfZmuaxCy_39.555002_-79.939618@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433547,
+    "wof:geomhash":"a8406e9eb5e937cf46f6ab16b9da1f47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101732105,
+            "neighbourhood_id":85807831,
+            "region_id":85688589,
+            "venue_id":823422131
+        }
+    ],
+    "wof:id":823422131,
+    "wof:lastmodified":1463433547,
+    "wof:name":"Mc Daniel Autobody & Towing",
+    "wof:parent_id":85807831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -79.939618,
+    39.555002,
+    -79.939618,
+    39.555002
+],
+  "geometry": {"coordinates":[-79.939618,39.555002],"type":"Point"}
+}

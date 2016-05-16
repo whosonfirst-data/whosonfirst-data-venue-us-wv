@@ -1,0 +1,73 @@
+{
+  "id": 823398275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.455195,37.784181,-80.455195,37.784181",
+    "geom:latitude":37.784181,
+    "geom:longitude":-80.455195,
+    "iso:country":"US",
+    "sg:address":"162 Seneca Trl",
+    "sg:city":"Lewisburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 645 7827",
+    "sg:postcode":"24901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "leasing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Zqg2yIfjyKcs1oUzTwrV8_37.784181_-80.455195@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432500,
+    "wof:geomhash":"0161c0101535928234f88515120de819",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823398275
+        }
+    ],
+    "wof:id":823398275,
+    "wof:lastmodified":1463432500,
+    "wof:name":"Star Rental",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -80.455195,
+    37.784181,
+    -80.455195,
+    37.784181
+],
+  "geometry": {"coordinates":[-80.455195,37.784181],"type":"Point"}
+}

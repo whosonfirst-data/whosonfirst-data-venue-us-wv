@@ -1,0 +1,73 @@
+{
+  "id": 823387373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.553307,39.313048,-81.553307,39.313048",
+    "geom:latitude":39.313048,
+    "geom:longitude":-81.553307,
+    "iso:country":"US",
+    "sg:address":"1400 Grand Central Ave",
+    "sg:city":"Vienna",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 000 1111",
+    "sg:postcode":"26105",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731685,
+        102083343,
+        85819937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13O3co1vzoXm9BfdbAhu7s_39.313048_-81.553307@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431942,
+    "wof:geomhash":"a6b073ace425ac9a7dcd426e6056affd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731685,
+            "neighbourhood_id":85819937,
+            "region_id":85688589,
+            "venue_id":823387373
+        }
+    ],
+    "wof:id":823387373,
+    "wof:lastmodified":1463431942,
+    "wof:name":"Aldi",
+    "wof:parent_id":85819937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -81.553307,
+    39.313048,
+    -81.553307,
+    39.313048
+],
+  "geometry": {"coordinates":[-81.553307,39.313048],"type":"Point"}
+}

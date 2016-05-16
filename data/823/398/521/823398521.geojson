@@ -1,0 +1,71 @@
+{
+  "id": 823398521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.095537,37.369423,-81.095537,37.369423",
+    "geom:latitude":37.369423,
+    "geom:longitude":-81.095537,
+    "iso:country":"US",
+    "sg:address":"943 Mercer St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 1864",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59FrMJVGWwGAdLu4e3awwM_37.369423_-81.095537@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432511,
+    "wof:geomhash":"d1cd4f5430ef6e133a5bf7413926dfca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823398521
+        }
+    ],
+    "wof:id":823398521,
+    "wof:lastmodified":1463432511,
+    "wof:name":"Midtown Texaco",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -81.095537,
+    37.369423,
+    -81.095537,
+    37.369423
+],
+  "geometry": {"coordinates":[-81.09553699999999,37.369423],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823382223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.132714,38.435673,-82.132714,38.435673",
+    "geom:latitude":38.435673,
+    "geom:longitude":-82.132714,
+    "iso:country":"US",
+    "sg:address":"1017 Smith St",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 743 9913",
+    "sg:postcode":"25541",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85816671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FnYhbgw6mizUO2j1oBHiD_38.435673_-82.132714@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431745,
+    "wof:geomhash":"6496c4802f6ce23d63f213a95d190547",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85816671,
+            "region_id":85688589,
+            "venue_id":823382223
+        }
+    ],
+    "wof:id":823382223,
+    "wof:lastmodified":1463431745,
+    "wof:name":"Bee Jay's Beauty Shop",
+    "wof:parent_id":85816671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -82.132714,
+    38.435673,
+    -82.132714,
+    38.435673
+],
+  "geometry": {"coordinates":[-82.13271400000001,38.435673],"type":"Point"}
+}

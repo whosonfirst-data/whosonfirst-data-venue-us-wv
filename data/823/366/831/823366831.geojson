@@ -1,0 +1,71 @@
+{
+  "id": 823366831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.348566,39.293513,-80.348566,39.293513",
+    "geom:latitude":39.293513,
+    "geom:longitude":-80.348566,
+    "iso:country":"US",
+    "sg:address":"1706 Goff Ave",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 622 3083",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zqSdyKKKzgCv2QRa1dfCs_39.293513_-80.348566@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431051,
+    "wof:geomhash":"00e0e6a574c1f6d78a8ea568ca1370fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823366831
+        }
+    ],
+    "wof:id":823366831,
+    "wof:lastmodified":1463431051,
+    "wof:name":"Spray & Save Car Wash",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -80.348566,
+    39.293513,
+    -80.348566,
+    39.293513
+],
+  "geometry": {"coordinates":[-80.34856600000001,39.293513],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823367607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.536553,38.406926,-81.536553,38.406926",
+    "geom:latitude":38.406926,
+    "geom:longitude":-81.536553,
+    "iso:country":"US",
+    "sg:address":"331 Stacey Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 965 1364",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4u8UsbJe5UyjU5pHKIHC6I_38.406926_-81.536553@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431079,
+    "wof:geomhash":"d10991255fbcd39833bcdbfc8409e565",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823367607
+        }
+    ],
+    "wof:id":823367607,
+    "wof:lastmodified":1463431079,
+    "wof:name":"D & R Construction",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -81.536553,
+    38.406926,
+    -81.536553,
+    38.406926
+],
+  "geometry": {"coordinates":[-81.536553,38.406926],"type":"Point"}
+}

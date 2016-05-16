@@ -1,0 +1,71 @@
+{
+  "id": 823421065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.272989,39.283701,-80.272989,39.283701",
+    "geom:latitude":39.283701,
+    "geom:longitude":-80.272989,
+    "iso:country":"US",
+    "sg:address":"118 Thompson Dr",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 2704",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "mattress"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4g9K3CKsY5WnFGeTCgQ0O3_39.283701_-80.272989@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433508,
+    "wof:geomhash":"658a7c319ebd061fd0f1c793f0e0a4d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823421065
+        }
+    ],
+    "wof:id":823421065,
+    "wof:lastmodified":1463433508,
+    "wof:name":"Mattress Warehouse Inc",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mattress"
+    ]
+},
+  "bbox": [
+    -80.272989,
+    39.283701,
+    -80.272989,
+    39.283701
+],
+  "geometry": {"coordinates":[-80.272989,39.283701],"type":"Point"}
+}

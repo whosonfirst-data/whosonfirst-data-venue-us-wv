@@ -1,0 +1,71 @@
+{
+  "id": 823402887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.132966,39.493322,-80.132966,39.493322",
+    "geom:latitude":39.493322,
+    "geom:longitude":-80.132966,
+    "iso:country":"US",
+    "sg:address":"38 Williams St",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 8517",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1I7mGP1J495JmkknBf7Phf_39.493322_-80.132966@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432707,
+    "wof:geomhash":"5f45256dcba7674f5e6a1cdf112faf67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823402887
+        }
+    ],
+    "wof:id":823402887,
+    "wof:lastmodified":1463432707,
+    "wof:name":"Burton Construction",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -80.132966,
+    39.493322,
+    -80.132966,
+    39.493322
+],
+  "geometry": {"coordinates":[-80.132966,39.493322],"type":"Point"}
+}

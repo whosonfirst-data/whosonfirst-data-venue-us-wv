@@ -1,0 +1,75 @@
+{
+  "id": 823431083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.859124,39.290318,-77.859124,39.290318",
+    "geom:latitude":39.290318,
+    "geom:longitude":-77.859124,
+    "iso:country":"US",
+    "sg:address":"100 E Liberty St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 260 4141",
+    "sg:postcode":"25414",
+    "sg:province":"WV",
+    "sg:tags":[
+        "attraction",
+        "tourist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731443,
+        102082647,
+        85807793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yfKAttVGlVsyNRqKdZ716_39.290318_-77.859124@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433922,
+    "wof:geomhash":"1b4cefb463087e35a6a483ffd09c2add",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082647,
+            "locality_id":101731443,
+            "neighbourhood_id":85807793,
+            "region_id":85688589,
+            "venue_id":823431083
+        }
+    ],
+    "wof:id":823431083,
+    "wof:lastmodified":1463433922,
+    "wof:name":"Martinsburg Roundhouse Ctr",
+    "wof:parent_id":85807793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attraction",
+        "tourist"
+    ]
+},
+  "bbox": [
+    -77.859124,
+    39.290318,
+    -77.859124,
+    39.290318
+],
+  "geometry": {"coordinates":[-77.85912399999999,39.290318],"type":"Point"}
+}

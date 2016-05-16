@@ -1,0 +1,71 @@
+{
+  "id": 823401217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.972914,39.453528,-77.972914,39.453528",
+    "geom:latitude":39.453528,
+    "geom:longitude":-77.972914,
+    "iso:country":"US",
+    "sg:address":"501 Faulkner Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 267 3844",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "membership"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ilv0CyeaL5X4xr3M1DSSg_39.453528_-77.972914@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432639,
+    "wof:geomhash":"2ebbe2ceb6c4adb213ea32aaa4d5a118",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823401217
+        }
+    ],
+    "wof:id":823401217,
+    "wof:lastmodified":1463432639,
+    "wof:name":"Calvary Bible Church",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "membership"
+    ]
+},
+  "bbox": [
+    -77.972914,
+    39.453528,
+    -77.972914,
+    39.453528
+],
+  "geometry": {"coordinates":[-77.972914,39.453528],"type":"Point"}
+}

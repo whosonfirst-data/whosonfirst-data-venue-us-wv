@@ -1,0 +1,75 @@
+{
+  "id": 823380167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.191938,37.816944,-81.191938,37.816944",
+    "geom:latitude":37.816944,
+    "geom:longitude":-81.191938,
+    "iso:country":"US",
+    "sg:address":"313 Market Rd",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 254 9003",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vihUklad9aT5vDZQgenB8_37.816944_-81.191938@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431642,
+    "wof:geomhash":"5831897d9c306f435a6cfc8312ce89ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823380167
+        }
+    ],
+    "wof:id":823380167,
+    "wof:lastmodified":1463431642,
+    "wof:name":"Sunrise Psychiatric Svc Inc",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.191938,
+    37.816944,
+    -81.191938,
+    37.816944
+],
+  "geometry": {"coordinates":[-81.19193799999999,37.816944],"type":"Point"}
+}

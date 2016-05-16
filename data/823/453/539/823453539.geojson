@@ -1,0 +1,74 @@
+{
+  "id": 823453539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.03052,39.141801,-80.03052,39.141801",
+    "geom:latitude":39.141801,
+    "geom:longitude":-80.03052,
+    "iso:country":"US",
+    "sg:address":"321 S Main St",
+    "sg:city":"Philippi",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/north/181551-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 457 3126",
+    "sg:postcode":"26416",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05gngfr7nfQeFadzwUhBqT_39.141801_-80.030520@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434951,
+    "wof:geomhash":"74fd61f5068061967f03ab7a43110052",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823453539
+        }
+    ],
+    "wof:id":823453539,
+    "wof:lastmodified":1463434951,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -80.03052,
+    39.141801,
+    -80.03052,
+    39.141801
+],
+  "geometry": {"coordinates":[-80.03052,39.141801],"type":"Point"}
+}

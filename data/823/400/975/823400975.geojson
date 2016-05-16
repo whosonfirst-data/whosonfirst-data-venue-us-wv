@@ -1,0 +1,73 @@
+{
+  "id": 823400975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.57365,38.31679,-81.57365,38.31679",
+    "geom:latitude":38.31679,
+    "geom:longitude":-81.57365,
+    "iso:country":"US",
+    "sg:address":"5201 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 720 0510",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VD9bF1VHZfAjXpngGkgZr_38.316790_-81.573650@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432628,
+    "wof:geomhash":"6e109654c317669b08ad8a6e9032119f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823400975
+        }
+    ],
+    "wof:id":823400975,
+    "wof:lastmodified":1463432628,
+    "wof:name":"Charleston Motor Co Lot 2",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -81.57365,
+    38.31679,
+    -81.57365,
+    38.31679
+],
+  "geometry": {"coordinates":[-81.57365,38.31679],"type":"Point"}
+}

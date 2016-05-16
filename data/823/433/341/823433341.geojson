@@ -1,0 +1,75 @@
+{
+  "id": 823433341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.874018,37.743806,-81.874018,37.743806",
+    "geom:latitude":37.743806,
+    "geom:longitude":-81.874018,
+    "iso:country":"US",
+    "sg:address":"108 Main St",
+    "sg:city":"Man",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 583 9500",
+    "sg:postcode":"25635",
+    "sg:province":"WV",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868319,
+        102083369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GM99DHcRR73Hx6wy2PSO9_37.743806_-81.874018@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434032,
+    "wof:geomhash":"b26078e612ad883003708f0757303765",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083369,
+            "neighbourhood_id":85868319,
+            "region_id":85688589,
+            "venue_id":823433341
+        }
+    ],
+    "wof:id":823433341,
+    "wof:lastmodified":1463434032,
+    "wof:name":"Movie Hut",
+    "wof:parent_id":85868319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -81.874018,
+    37.743806,
+    -81.874018,
+    37.743806
+],
+  "geometry": {"coordinates":[-81.87401800000001,37.743806],"type":"Point"}
+}

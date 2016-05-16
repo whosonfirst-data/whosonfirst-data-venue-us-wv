@@ -1,0 +1,71 @@
+{
+  "id": 823403875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.581747,38.366726,-81.581747,38.366726",
+    "geom:latitude":38.366726,
+    "geom:longitude":-81.581747,
+    "iso:country":"US",
+    "sg:address":"1504 Coonskin Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 6449",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vCo81mhOtT3MGSE8kjEVR_38.366726_-81.581747@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432754,
+    "wof:geomhash":"b7cfb25c9c9ab6da425bd203328a9a6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823403875
+        }
+    ],
+    "wof:id":823403875,
+    "wof:lastmodified":1463432754,
+    "wof:name":"Terry's Deck Inc",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -81.581747,
+    38.366726,
+    -81.581747,
+    38.366726
+],
+  "geometry": {"coordinates":[-81.58174699999999,38.366726],"type":"Point"}
+}

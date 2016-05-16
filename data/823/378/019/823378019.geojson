@@ -1,0 +1,73 @@
+{
+  "id": 823378019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.536462,38.405873,-81.536462,38.405873",
+    "geom:latitude":38.405873,
+    "geom:longitude":-81.536462,
+    "iso:country":"US",
+    "sg:address":"4606 Baxter Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 965 1900",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "foundation",
+        "university"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_356OGjPW2gqssNMhqWVS6B_38.405873_-81.536462@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431559,
+    "wof:geomhash":"58c6ad1d0407e0e8065ce0fc97212759",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823378019
+        }
+    ],
+    "wof:id":823378019,
+    "wof:lastmodified":1463431559,
+    "wof:name":"Ralf Foundation",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation",
+        "university"
+    ]
+},
+  "bbox": [
+    -81.536462,
+    38.405873,
+    -81.536462,
+    38.405873
+],
+  "geometry": {"coordinates":[-81.536462,38.405873],"type":"Point"}
+}

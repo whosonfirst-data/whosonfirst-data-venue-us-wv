@@ -1,0 +1,73 @@
+{
+  "id": 823435255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.068904,37.365223,-81.068904,37.365223",
+    "geom:latitude":37.365223,
+    "geom:longitude":-81.068904,
+    "iso:country":"US",
+    "sg:address":"335 Oakvale Rd",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 7099",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rXprJX8LjgxvQ6GOuuppQ_37.365223_-81.068904@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434137,
+    "wof:geomhash":"5eb5558007de0cfa5f21e39347fdf4a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823435255
+        }
+    ],
+    "wof:id":823435255,
+    "wof:lastmodified":1463434137,
+    "wof:name":"Kenny Hendricks Used Cars",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -81.068904,
+    37.365223,
+    -81.068904,
+    37.365223
+],
+  "geometry": {"coordinates":[-81.068904,37.365223],"type":"Point"}
+}

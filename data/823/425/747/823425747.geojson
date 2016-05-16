@@ -1,0 +1,71 @@
+{
+  "id": 823425747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.51823,38.408843,-81.51823,38.408843",
+    "geom:latitude":38.408843,
+    "geom:longitude":-81.51823,
+    "iso:country":"US",
+    "sg:address":"4819 Pennsylvania Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 965 7650",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_483zSDCR01ofj60S31p198_38.408843_-81.518230@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433689,
+    "wof:geomhash":"12f8842d01ee5b2df59d7177537ea0e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823425747
+        }
+    ],
+    "wof:id":823425747,
+    "wof:lastmodified":1463433689,
+    "wof:name":"Utaiwan P Suvannoparat",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -81.51823,
+    38.408843,
+    -81.51823,
+    38.408843
+],
+  "geometry": {"coordinates":[-81.51823,38.408843],"type":"Point"}
+}

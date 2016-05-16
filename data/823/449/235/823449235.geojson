@@ -1,0 +1,71 @@
+{
+  "id": 823449235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.080602,37.362205,-81.080602,37.362205",
+    "geom:latitude":37.362205,
+    "geom:longitude":-81.080602,
+    "iso:country":"US",
+    "sg:address":"220 Hearn Ave",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 2437",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bdUeMbnc8a6pay08740yj_37.362205_-81.080602@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434789,
+    "wof:geomhash":"8476416cb6bbdec32ef8c47a0fa2d715",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823449235
+        }
+    ],
+    "wof:id":823449235,
+    "wof:lastmodified":1463434789,
+    "wof:name":"Customs Computer Limited",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -81.080602,
+    37.362205,
+    -81.080602,
+    37.362205
+],
+  "geometry": {"coordinates":[-81.080602,37.362205],"type":"Point"}
+}

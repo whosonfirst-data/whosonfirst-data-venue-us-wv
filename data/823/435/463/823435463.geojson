@@ -1,0 +1,71 @@
+{
+  "id": 823435463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.595424,40.394725,-80.595424,40.394725",
+    "geom:latitude":40.394725,
+    "geom:longitude":-80.595424,
+    "iso:country":"US",
+    "sg:address":"325 Heaslett Ave",
+    "sg:city":"Weirton",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 748 8581",
+    "sg:postcode":"26062",
+    "sg:province":"WV",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731371,
+        102082633,
+        85832497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rYdy6MIxa1M4y8hZBfY7A_40.394725_-80.595424@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434145,
+    "wof:geomhash":"797ec4cf8dc53dedccf5cd6a1eb53fa8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731371,
+            "neighbourhood_id":85832497,
+            "region_id":85688589,
+            "venue_id":823435463
+        }
+    ],
+    "wof:id":823435463,
+    "wof:lastmodified":1463434145,
+    "wof:name":"Byers Marathon",
+    "wof:parent_id":85832497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -80.595424,
+    40.394725,
+    -80.595424,
+    40.394725
+],
+  "geometry": {"coordinates":[-80.59542399999999,40.394725],"type":"Point"}
+}

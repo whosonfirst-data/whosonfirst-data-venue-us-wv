@@ -1,0 +1,73 @@
+{
+  "id": 823427419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.985007,39.43691,-77.985007,39.43691",
+    "geom:latitude":39.43691,
+    "geom:longitude":-77.985007,
+    "iso:country":"US",
+    "sg:address":"1197 Winchester Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 267 8649",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GCA4AVR7Ry4nfZEw3V5ij_39.436910_-77.985007@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433767,
+    "wof:geomhash":"b11d501264d6924a85eb8702fd360e97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823427419
+        }
+    ],
+    "wof:id":823427419,
+    "wof:lastmodified":1463433767,
+    "wof:name":"Arkay Auto Sales Inc",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -77.985007,
+    39.43691,
+    -77.985007,
+    39.43691
+],
+  "geometry": {"coordinates":[-77.985007,39.43691],"type":"Point"}
+}

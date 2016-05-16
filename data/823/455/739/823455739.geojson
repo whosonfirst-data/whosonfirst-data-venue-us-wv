@@ -1,0 +1,72 @@
+{
+  "id": 823455739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.039517,39.357588,-78.039517,39.357588",
+    "geom:latitude":39.357588,
+    "geom:longitude":-78.039517,
+    "iso:country":"US",
+    "sg:address":"46 Middleway Pike",
+    "sg:city":"Inwood",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 229 4318",
+    "sg:postcode":"25428",
+    "sg:province":"WV",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.cvs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JosUEGyZtvkifgSgDSeYM_39.357588_-78.039517@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435087,
+    "wof:geomhash":"830a606f59d760e8d3ddc7712aedc492",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823455739
+        }
+    ],
+    "wof:id":823455739,
+    "wof:lastmodified":1463435087,
+    "wof:name":"Cvs Pharmacy",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -78.039517,
+    39.357588,
+    -78.039517,
+    39.357588
+],
+  "geometry": {"coordinates":[-78.039517,39.357588],"type":"Point"}
+}

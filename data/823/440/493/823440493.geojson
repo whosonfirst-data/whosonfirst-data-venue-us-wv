@@ -1,0 +1,71 @@
+{
+  "id": 823440493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.073968,37.379848,-81.073968,37.379848",
+    "geom:latitude":37.379848,
+    "geom:longitude":-81.073968,
+    "iso:country":"US",
+    "sg:address":"51 Old Athens Rd",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 8941",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZRv70QNeEiICirjK9Mt4H_37.379848_-81.073968@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434383,
+    "wof:geomhash":"bb312fd945970f992d437dc39870e241",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823440493
+        }
+    ],
+    "wof:id":823440493,
+    "wof:lastmodified":1463434383,
+    "wof:name":"AC Logging",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "logging"
+    ]
+},
+  "bbox": [
+    -81.073968,
+    37.379848,
+    -81.073968,
+    37.379848
+],
+  "geometry": {"coordinates":[-81.07396799999999,37.379848],"type":"Point"}
+}

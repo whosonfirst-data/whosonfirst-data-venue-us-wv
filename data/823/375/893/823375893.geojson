@@ -1,0 +1,75 @@
+{
+  "id": 823375893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.969414,39.634395,-79.969414,39.634395",
+    "geom:latitude":39.634395,
+    "geom:longitude":-79.969414,
+    "iso:country":"US",
+    "sg:address":"185 Holland Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 291 5343",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "household",
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85847767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EsQY0OsVjTQ7gh139drQ4_39.634395_-79.969414@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431456,
+    "wof:geomhash":"ed6c489cc8117d84aa279852af0119fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85847767,
+            "region_id":85688589,
+            "venue_id":823375893
+        }
+    ],
+    "wof:id":823375893,
+    "wof:lastmodified":1463431456,
+    "wof:name":"City Appliance",
+    "wof:parent_id":85847767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "household",
+        "appliance"
+    ]
+},
+  "bbox": [
+    -79.969414,
+    39.634395,
+    -79.969414,
+    39.634395
+],
+  "geometry": {"coordinates":[-79.969414,39.634395],"type":"Point"}
+}

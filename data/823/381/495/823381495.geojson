@@ -1,0 +1,73 @@
+{
+  "id": 823381495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.463363,38.209601,-81.463363,38.209601",
+    "geom:latitude":38.209601,
+    "geom:longitude":-81.463363,
+    "iso:country":"US",
+    "sg:address":"107 Lincoln Ave",
+    "sg:city":"Belle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 595 5555",
+    "sg:postcode":"25015",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BQc0BGcI6MA2IKmV3Xe2p_38.209601_-81.463363@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431713,
+    "wof:geomhash":"09abeaa0b40def0ed638e760d5b4a9ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823381495
+        }
+    ],
+    "wof:id":823381495,
+    "wof:lastmodified":1463431713,
+    "wof:name":"Hodge Construction",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.463363,
+    38.209601,
+    -81.463363,
+    38.209601
+],
+  "geometry": {"coordinates":[-81.463363,38.209601],"type":"Point"}
+}

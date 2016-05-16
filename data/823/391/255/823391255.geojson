@@ -1,0 +1,73 @@
+{
+  "id": 823391255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.06702,38.252673,-80.06702,38.252673",
+    "geom:latitude":38.252673,
+    "geom:longitude":-80.06702,
+    "iso:country":"US",
+    "sg:address":"1400 Seebert Wilfong Rd",
+    "sg:city":"Marlinton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 799 6779",
+    "sg:postcode":"24954",
+    "sg:province":"WV",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731759,
+        102082613,
+        85805067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FS0GUhvCrEokq9LkOmteR_38.252673_-80.067020@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432134,
+    "wof:geomhash":"7dc2c7dc0043084f13808154dae80f87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082613,
+            "locality_id":101731759,
+            "neighbourhood_id":85805067,
+            "region_id":85688589,
+            "venue_id":823391255
+        }
+    ],
+    "wof:id":823391255,
+    "wof:lastmodified":1463432134,
+    "wof:name":"Miller Excavating LLC",
+    "wof:parent_id":85805067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.06702,
+    38.252673,
+    -80.06702,
+    38.252673
+],
+  "geometry": {"coordinates":[-80.06702,38.252673],"type":"Point"}
+}

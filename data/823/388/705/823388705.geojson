@@ -1,0 +1,73 @@
+{
+  "id": 823388705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.658374,38.3654,-81.658374,38.3654",
+    "geom:latitude":38.3654,
+    "geom:longitude":-81.658374,
+    "iso:country":"US",
+    "sg:address":"302 Hunt Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 0171",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Kt8hv1ftwpB7HvXEdzwPU_38.365400_-81.658374@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432014,
+    "wof:geomhash":"11dfa624f4ad80ed69c78daf5a9bfcd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823388705
+        }
+    ],
+    "wof:id":823388705,
+    "wof:lastmodified":1463432014,
+    "wof:name":"Givens Crankshaft Svc",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.658374,
+    38.3654,
+    -81.658374,
+    38.3654
+],
+  "geometry": {"coordinates":[-81.65837399999999,38.3654],"type":"Point"}
+}

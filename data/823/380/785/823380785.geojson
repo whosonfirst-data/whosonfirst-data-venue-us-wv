@@ -1,0 +1,73 @@
+{
+  "id": 823380785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.932959,39.634893,-79.932959,39.634893",
+    "geom:latitude":39.634893,
+    "geom:longitude":-79.932959,
+    "iso:country":"US",
+    "sg:address":"1221 Chalfant Ln",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 282 1332",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85858573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wulDDLlEbV9MhR4ULoPgb_39.634893_-79.932959@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431682,
+    "wof:geomhash":"5a93e32b760759fb0d7c3c219ce4f98a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85858573,
+            "region_id":85688589,
+            "venue_id":823380785
+        }
+    ],
+    "wof:id":823380785,
+    "wof:lastmodified":1463431682,
+    "wof:name":"Blue Sky Realty LLC",
+    "wof:parent_id":85858573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lessor"
+    ]
+},
+  "bbox": [
+    -79.932959,
+    39.634893,
+    -79.932959,
+    39.634893
+],
+  "geometry": {"coordinates":[-79.932959,39.634893],"type":"Point"}
+}

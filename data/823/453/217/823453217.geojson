@@ -1,0 +1,75 @@
+{
+  "id": 823453217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.657997,40.04129,-80.657997,40.04129",
+    "geom:latitude":40.04129,
+    "geom:longitude":-80.657997,
+    "iso:country":"US",
+    "sg:address":"101 Kruger St",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/wheeling/206426-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85840717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ne7oLeyFdwpnK0bgeborI_40.041290_-80.657997@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434939,
+    "wof:geomhash":"376ef2025fb714949702e3f486937db0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85840717,
+            "region_id":85688589,
+            "venue_id":823453217
+        }
+    ],
+    "wof:id":823453217,
+    "wof:lastmodified":1463434939,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85840717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -80.657997,
+    40.04129,
+    -80.657997,
+    40.04129
+],
+  "geometry": {"coordinates":[-80.65799699999999,40.04129],"type":"Point"}
+}

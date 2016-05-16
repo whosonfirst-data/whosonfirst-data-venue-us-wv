@@ -1,0 +1,71 @@
+{
+  "id": 823388521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.563423,39.23347,-81.563423,39.23347",
+    "geom:latitude":39.23347,
+    "geom:longitude":-81.563423,
+    "iso:country":"US",
+    "sg:address":"80 Hope Hill Rd",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 428 0351",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jcJgTACurPzZ6o4C3R214_39.233470_-81.563423@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431992,
+    "wof:geomhash":"ea96becbaa75572e101e6adad79829d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823388521
+        }
+    ],
+    "wof:id":823388521,
+    "wof:lastmodified":1463431992,
+    "wof:name":"Mullins Construction",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -81.563423,
+    39.23347,
+    -81.563423,
+    39.23347
+],
+  "geometry": {"coordinates":[-81.563423,39.23347],"type":"Point"}
+}

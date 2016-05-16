@@ -1,0 +1,75 @@
+{
+  "id": 823444367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.552401,38.243393,-81.552401,38.243393",
+    "geom:latitude":38.243393,
+    "geom:longitude":-81.552401,
+    "iso:country":"US",
+    "sg:address":"901 W Dupont Ave",
+    "sg:city":"Belle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 357 1000",
+    "sg:postcode":"25015",
+    "sg:province":"WV",
+    "sg:tags":[
+        "inorganic",
+        "industrial",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6O5ufBkGIMfMpliCjp3SnE_38.243393_-81.552401@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434555,
+    "wof:geomhash":"b76935f49ab27c3e2c393d3daec11a4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823444367
+        }
+    ],
+    "wof:id":823444367,
+    "wof:lastmodified":1463434555,
+    "wof:name":"Dupont",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inorganic",
+        "industrial",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -81.552401,
+    38.243393,
+    -81.552401,
+    38.243393
+],
+  "geometry": {"coordinates":[-81.552401,38.243393],"type":"Point"}
+}

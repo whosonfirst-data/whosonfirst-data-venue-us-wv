@@ -1,0 +1,73 @@
+{
+  "id": 823436051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.144015,39.484393,-80.144015,39.484393",
+    "geom:latitude":39.484393,
+    "geom:longitude":-80.144015,
+    "iso:country":"US",
+    "sg:address":"109 Adams St",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 7604",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OIrUSk13WpplF7CQ8ALB6_39.484393_-80.144015@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434177,
+    "wof:geomhash":"6621cc6a774bde92f0551af64c7a5c5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823436051
+        }
+    ],
+    "wof:id":823436051,
+    "wof:lastmodified":1463434177,
+    "wof:name":"Unemployment Field Office",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "resource"
+    ]
+},
+  "bbox": [
+    -80.144015,
+    39.484393,
+    -80.144015,
+    39.484393
+],
+  "geometry": {"coordinates":[-80.144015,39.484393],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 823436485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.964351,38.443913,-81.964351,38.443913",
+    "geom:latitude":38.443913,
+    "geom:longitude":-81.964351,
+    "iso:country":"US",
+    "sg:address":"1001 Wethersfield Xing",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 757 5006",
+    "sg:postcode":"25526",
+    "sg:province":"WV",
+    "sg:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731829,
+        102083381,
+        85868321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YUhrh0A0j2OKnWfzhjgJ9_38.443913_-81.964351@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434193,
+    "wof:geomhash":"3ff04e04c54415b3c3e4cff88df12137",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731829,
+            "neighbourhood_id":85868321,
+            "region_id":85688589,
+            "venue_id":823436485
+        }
+    ],
+    "wof:id":823436485,
+    "wof:lastmodified":1463434193,
+    "wof:name":"Sun Control Inc",
+    "wof:parent_id":85868321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ]
+},
+  "bbox": [
+    -81.964351,
+    38.443913,
+    -81.964351,
+    38.443913
+],
+  "geometry": {"coordinates":[-81.96435099999999,38.443913],"type":"Point"}
+}

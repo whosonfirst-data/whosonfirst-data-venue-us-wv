@@ -1,0 +1,71 @@
+{
+  "id": 823373107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.52419,39.301131,-81.52419,39.301131",
+    "geom:latitude":39.301131,
+    "geom:longitude":-81.52419,
+    "iso:country":"US",
+    "sg:address":"5017 Kay St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 485 1121",
+    "sg:postcode":"26104",
+    "sg:province":"WV",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818799,
+        102083343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27JtaNDmYj2qJhJyjwClzi_39.301131_-81.524190@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431325,
+    "wof:geomhash":"22ae7e96fa5f675545b6269b2f3c5228",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "neighbourhood_id":85818799,
+            "region_id":85688589,
+            "venue_id":823373107
+        }
+    ],
+    "wof:id":823373107,
+    "wof:lastmodified":1463431325,
+    "wof:name":"Steinbeck Dental Laboratory",
+    "wof:parent_id":85818799,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -81.52419,
+    39.301131,
+    -81.52419,
+    39.301131
+],
+  "geometry": {"coordinates":[-81.52419,39.301131],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 823452983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.160271,37.771352,-81.160271,37.771352",
+    "geom:latitude":37.771352,
+    "geom:longitude":-81.160271,
+    "iso:country":"US",
+    "sg:address":"800 S Eisenhower Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/glade-creek/101049-captain-ds-seafood/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 255 4636",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DiEvJEJGFeMHxqt75eHPK_37.771352_-81.160271@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434928,
+    "wof:geomhash":"40dc84d124aa70987166f548932a522f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823452983
+        }
+    ],
+    "wof:id":823452983,
+    "wof:lastmodified":1463434928,
+    "wof:name":"Captain D's Seafood",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -81.160271,
+    37.771352,
+    -81.160271,
+    37.771352
+],
+  "geometry": {"coordinates":[-81.16027099999999,37.771352],"type":"Point"}
+}

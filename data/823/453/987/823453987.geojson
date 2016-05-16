@@ -1,0 +1,78 @@
+{
+  "id": 823453987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.616087,38.340265,-81.616087,38.340265",
+    "geom:latitude":38.340265,
+    "geom:longitude":-81.616087,
+    "iso:country":"US",
+    "sg:address":"1617 Washington St E",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/belle/195880-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 346 9130",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85850023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IdOe1jSrXCM8T9U8146hH_38.340350_-81.616429@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434990,
+    "wof:geomhash":"afa4e525fe5e6b118129e97471f63119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85850023,
+            "region_id":85688589,
+            "venue_id":823453987
+        }
+    ],
+    "wof:id":823453987,
+    "wof:lastmodified":1463434990,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85850023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -81.616087,
+    38.340265,
+    -81.616087,
+    38.340265
+],
+  "geometry": {"coordinates":[-81.61608699999999,38.340265],"type":"Point"}
+}

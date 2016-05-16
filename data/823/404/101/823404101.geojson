@@ -1,0 +1,75 @@
+{
+  "id": 823404101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.534496,39.285623,-81.534496,39.285623",
+    "geom:latitude":39.285623,
+    "geom:longitude":-81.534496,
+    "iso:country":"US",
+    "sg:address":"1413 33rd St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 865 2575",
+    "sg:postcode":"26104",
+    "sg:province":"WV",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731687,
+        102083343,
+        85805293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sNiUCHESz5I1mQxrOtE3a_39.285623_-81.534496@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432766,
+    "wof:geomhash":"0a0b588b1f2a582fbfda6195b0149d8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85805293,
+            "region_id":85688589,
+            "venue_id":823404101
+        }
+    ],
+    "wof:id":823404101,
+    "wof:lastmodified":1463432766,
+    "wof:name":"Countrywide Home Loans",
+    "wof:parent_id":85805293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -81.534496,
+    39.285623,
+    -81.534496,
+    39.285623
+],
+  "geometry": {"coordinates":[-81.534496,39.285623],"type":"Point"}
+}

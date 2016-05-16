@@ -1,0 +1,73 @@
+{
+  "id": 823368235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.706446,38.342527,-81.706446,38.342527",
+    "geom:latitude":38.342527,
+    "geom:longitude":-81.706446,
+    "iso:country":"US",
+    "sg:address":"219 Club View Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 3245",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "mfg",
+        "cyclic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14tAvGZi5fkDgd4KunR8Sg_38.342527_-81.706446@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431107,
+    "wof:geomhash":"c6e6e561640957d82917959237690da2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823368235
+        }
+    ],
+    "wof:id":823368235,
+    "wof:lastmodified":1463431107,
+    "wof:name":"James Akers",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "cyclic"
+    ]
+},
+  "bbox": [
+    -81.706446,
+    38.342527,
+    -81.706446,
+    38.342527
+],
+  "geometry": {"coordinates":[-81.706446,38.342527],"type":"Point"}
+}

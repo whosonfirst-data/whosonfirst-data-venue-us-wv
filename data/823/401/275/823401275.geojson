@@ -1,0 +1,71 @@
+{
+  "id": 823401275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.123262,38.43407,-82.123262,38.43407",
+    "geom:latitude":38.43407,
+    "geom:longitude":-82.123262,
+    "iso:country":"US",
+    "sg:address":"1067 E Main St",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 743 0056",
+    "sg:postcode":"25541",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85816671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fYAZVQtLE8SivUg08fqej_38.434070_-82.123262@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432642,
+    "wof:geomhash":"db77b4ffe6d4f03f9eeeb0950991850d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85816671,
+            "region_id":85688589,
+            "venue_id":823401275
+        }
+    ],
+    "wof:id":823401275,
+    "wof:lastmodified":1463432642,
+    "wof:name":"McDonalds",
+    "wof:parent_id":85816671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -82.123262,
+    38.43407,
+    -82.123262,
+    38.43407
+],
+  "geometry": {"coordinates":[-82.123262,38.43407],"type":"Point"}
+}

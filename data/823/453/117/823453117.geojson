@@ -1,0 +1,70 @@
+{
+  "id": 823453117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.103448,38.055892,-81.103448,38.055892",
+    "geom:latitude":38.055892,
+    "geom:longitude":-81.103448,
+    "iso:country":"US",
+    "sg:address":"103 Keller Ave",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/new-haven/171519-pies--pints-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 574 2200",
+    "sg:postcode":"25840",
+    "sg:province":"WV",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HaKuo9tDDbn3aHaW5HICO_38.055892_-81.103448@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434935,
+    "wof:geomhash":"1474c5ff257219ecb63a16bbe0335461",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823453117
+        }
+    ],
+    "wof:id":823453117,
+    "wof:lastmodified":1463434935,
+    "wof:name":"Pies & Pints Pizzeria",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -81.103448,
+    38.055892,
+    -81.103448,
+    38.055892
+],
+  "geometry": {"coordinates":[-81.103448,38.055892],"type":"Point"}
+}

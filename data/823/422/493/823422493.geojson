@@ -1,0 +1,71 @@
+{
+  "id": 823422493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.216923,37.259972,-81.216923,37.259972",
+    "geom:latitude":37.259972,
+    "geom:longitude":-81.216923,
+    "iso:country":"US",
+    "sg:address":"100 Lewis St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 323 1996",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VgCGUbKWqpuQ5KRe6A1r5_37.259972_-81.216923@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433559,
+    "wof:geomhash":"2277be5f57622efb18fb750da59451ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823422493
+        }
+    ],
+    "wof:id":823422493,
+    "wof:lastmodified":1463433559,
+    "wof:name":"Ridgecrest Apartments",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -81.216923,
+    37.259972,
+    -81.216923,
+    37.259972
+],
+  "geometry": {"coordinates":[-81.21692299999999,37.259972],"type":"Point"}
+}

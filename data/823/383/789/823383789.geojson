@@ -1,0 +1,73 @@
+{
+  "id": 823383789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.495824,38.407688,-82.495824,38.407688",
+    "geom:latitude":38.407688,
+    "geom:longitude":-82.495824,
+    "iso:country":"US",
+    "sg:address":"2424 Adams Ave",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 429 3130",
+    "sg:postcode":"25704",
+    "sg:province":"WV",
+    "sg:tags":[
+        "station"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731553,
+        102083329,
+        85855709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WPXnvJbyYjokzCbqJi82z_38.407688_-82.495824@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431803,
+    "wof:geomhash":"ff2efc58bc80aa21f994b94992aaf6e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731553,
+            "neighbourhood_id":85855709,
+            "region_id":85688589,
+            "venue_id":823383789
+        }
+    ],
+    "wof:id":823383789,
+    "wof:lastmodified":1463431803,
+    "wof:name":"Loudermilk Chevron Service",
+    "wof:parent_id":85855709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station"
+    ]
+},
+  "bbox": [
+    -82.495824,
+    38.407688,
+    -82.495824,
+    38.407688
+],
+  "geometry": {"coordinates":[-82.495824,38.407688],"type":"Point"}
+}

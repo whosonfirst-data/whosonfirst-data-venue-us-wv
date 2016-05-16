@@ -1,0 +1,71 @@
+{
+  "id": 823427403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.599442,40.279956,-80.599442,40.279956",
+    "geom:latitude":40.279956,
+    "geom:longitude":-80.599442,
+    "iso:country":"US",
+    "sg:address":"101 Valley View Dr",
+    "sg:city":"Colliers",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 527 0135",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tBVX8dauCO1X67k9Rbjmg_40.279956_-80.599442@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433766,
+    "wof:geomhash":"055c063a9b6a9480c76469770d4a24ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823427403
+        }
+    ],
+    "wof:id":823427403,
+    "wof:lastmodified":1463433766,
+    "wof:name":"Barchiesi Construction",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.599442,
+    40.279956,
+    -80.599442,
+    40.279956
+],
+  "geometry": {"coordinates":[-80.599442,40.279956],"type":"Point"}
+}

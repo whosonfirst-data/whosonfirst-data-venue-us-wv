@@ -1,0 +1,71 @@
+{
+  "id": 823442905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.953775,39.624775,-79.953775,39.624775",
+    "geom:latitude":39.624775,
+    "geom:longitude":-79.953775,
+    "iso:country":"US",
+    "sg:address":"250 Morris St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 692 9092",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "frozen",
+        "food"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NPV1e46epwimQtWstSoel_39.624775_-79.953775@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434489,
+    "wof:geomhash":"a302c8a7d9b323080a0db6d08d570d45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823442905
+        }
+    ],
+    "wof:id":823442905,
+    "wof:lastmodified":1463434489,
+    "wof:name":"Nature's Way Distributing",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "food"
+    ]
+},
+  "bbox": [
+    -79.953775,
+    39.624775,
+    -79.953775,
+    39.624775
+],
+  "geometry": {"coordinates":[-79.95377499999999,39.624775],"type":"Point"}
+}

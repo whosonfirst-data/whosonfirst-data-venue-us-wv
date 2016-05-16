@@ -1,0 +1,73 @@
+{
+  "id": 823387573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.252846,39.28446,-80.252846,39.28446",
+    "geom:latitude":39.28446,
+    "geom:longitude":-80.252846,
+    "iso:country":"US",
+    "sg:address":"142 W Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 2742",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "model",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7281MpZ4r0VsAMdJpaYzfZ_39.284460_-80.252846@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431948,
+    "wof:geomhash":"e29a580028c95da428c4f3d8153038b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823387573
+        }
+    ],
+    "wof:id":823387573,
+    "wof:lastmodified":1463431948,
+    "wof:name":"Hobby Stop",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "model",
+        "supply"
+    ]
+},
+  "bbox": [
+    -80.252846,
+    39.28446,
+    -80.252846,
+    39.28446
+],
+  "geometry": {"coordinates":[-80.25284600000001,39.28446],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823382749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.994939,39.408192,-77.994939,39.408192",
+    "geom:latitude":39.408192,
+    "geom:longitude":-77.994939,
+    "iso:country":"US",
+    "sg:address":"13 Wren St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 260 0818",
+    "sg:postcode":"25405",
+    "sg:province":"WV",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5C61CSu0J0PujzS0gkNWAi_39.408192_-77.994939@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431765,
+    "wof:geomhash":"58de91023b8706da915e1bb9976b1b5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823382749
+        }
+    ],
+    "wof:id":823382749,
+    "wof:lastmodified":1463431765,
+    "wof:name":"Tel Builders LLC",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -77.994939,
+    39.408192,
+    -77.994939,
+    39.408192
+],
+  "geometry": {"coordinates":[-77.994939,39.408192],"type":"Point"}
+}

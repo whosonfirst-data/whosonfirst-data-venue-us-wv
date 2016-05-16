@@ -1,0 +1,87 @@
+{
+  "id": 823448005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.189984,37.777289,-81.189984,37.777289",
+    "geom:latitude":37.777289,
+    "geom:longitude":-81.189984,
+    "iso:country":"US",
+    "sg:address":"116 N Heber St",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 254 8115",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "administrative",
+        "program",
+        "economic",
+        "analysis",
+        "general"
+    ],
+    "sg:website":"www.4ceda.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cVVqQhdYSXjsemyLc88kI_37.777289_-81.189984@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434740,
+    "wof:geomhash":"f61d66aecc89f4818a717711a0e1e2eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823448005
+        }
+    ],
+    "wof:id":823448005,
+    "wof:lastmodified":1463434740,
+    "wof:name":"4-C Economic Development Auth",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "administrative",
+        "program",
+        "economic",
+        "analysis",
+        "general"
+    ]
+},
+  "bbox": [
+    -81.189984,
+    37.777289,
+    -81.189984,
+    37.777289
+],
+  "geometry": {"coordinates":[-81.189984,37.777289],"type":"Point"}
+}

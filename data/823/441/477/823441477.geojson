@@ -1,0 +1,71 @@
+{
+  "id": 823441477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.555572,40.617501,-80.555572,40.617501",
+    "geom:latitude":40.617501,
+    "geom:longitude":-80.555572,
+    "iso:country":"US",
+    "sg:address":"809 Carolina Ave",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 3883",
+    "sg:postcode":"26034",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_495JliFOWbjNmJPrTP0jmX_40.617501_-80.555572@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434424,
+    "wof:geomhash":"becc4f715a36ba478213ead615cd952e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823441477
+        }
+    ],
+    "wof:id":823441477,
+    "wof:lastmodified":1463434424,
+    "wof:name":"Tom's Country Kitchen",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -80.555572,
+    40.617501,
+    -80.555572,
+    40.617501
+],
+  "geometry": {"coordinates":[-80.555572,40.617501],"type":"Point"}
+}

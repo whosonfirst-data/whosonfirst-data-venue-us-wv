@@ -1,0 +1,71 @@
+{
+  "id": 823398047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.726232,38.35292,-81.726232,38.35292",
+    "geom:latitude":38.35292,
+    "geom:longitude":-81.726232,
+    "iso:country":"US",
+    "sg:address":"500 Poplar St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 8500",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "osteopathic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1z4qgsWNcfdRmd1bUpkXcA_38.352920_-81.726232@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432489,
+    "wof:geomhash":"fce5e57d43c401793708083fb6209694",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823398047
+        }
+    ],
+    "wof:id":823398047,
+    "wof:lastmodified":1463432489,
+    "wof:name":"Anita Barnhouse",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "osteopathic"
+    ]
+},
+  "bbox": [
+    -81.726232,
+    38.35292,
+    -81.726232,
+    38.35292
+],
+  "geometry": {"coordinates":[-81.726232,38.35292],"type":"Point"}
+}

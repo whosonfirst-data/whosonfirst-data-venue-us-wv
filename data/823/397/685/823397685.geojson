@@ -1,0 +1,71 @@
+{
+  "id": 823397685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.534145,38.221815,-81.534145,38.221815",
+    "geom:latitude":38.221815,
+    "geom:longitude":-81.534145,
+    "iso:country":"US",
+    "sg:address":"12721 Maccorkle Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 1410",
+    "sg:postcode":"25315",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sRq8sHpSTOt0EOynY3TEM_38.221815_-81.534145@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432467,
+    "wof:geomhash":"222911b8ad955dda5bf90f15e7826597",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823397685
+        }
+    ],
+    "wof:id":823397685,
+    "wof:lastmodified":1463432467,
+    "wof:name":"Upper Kanawha Valley Christian",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.534145,
+    38.221815,
+    -81.534145,
+    38.221815
+],
+  "geometry": {"coordinates":[-81.534145,38.221815],"type":"Point"}
+}

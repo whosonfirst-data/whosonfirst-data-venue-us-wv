@@ -1,0 +1,71 @@
+{
+  "id": 823451735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.568846,40.609304,-80.568846,40.609304",
+    "geom:latitude":40.609304,
+    "geom:longitude":-80.568846,
+    "iso:country":"US",
+    "sg:address":"144 Church Aly",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 4101",
+    "sg:postcode":"26034",
+    "sg:province":"WV",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kCFN3GxQzCeAssWyeRPSn_40.609339_-80.568081@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463434881,
+    "wof:geomhash":"e725a791bf6e575eb3879e8fbd10fbba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823451735
+        }
+    ],
+    "wof:id":823451735,
+    "wof:lastmodified":1463434881,
+    "wof:name":"Chester & Newell Area Ambulance",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -80.568846,
+    40.609304,
+    -80.568846,
+    40.609304
+],
+  "geometry": {"coordinates":[-80.56884599999999,40.609304],"type":"Point"}
+}

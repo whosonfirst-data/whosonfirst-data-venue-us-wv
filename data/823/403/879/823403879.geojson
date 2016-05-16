@@ -1,0 +1,67 @@
+{
+  "id": 823403879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.275374,39.300601,-80.275374,39.300601",
+    "geom:latitude":39.300601,
+    "geom:longitude":-80.275374,
+    "iso:country":"US",
+    "sg:address":"104 State St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 7901",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:website":"www.homefindersplus.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34gCaEkTc8yIeML8oP5qDm_39.300601_-80.275374@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432754,
+    "wof:geomhash":"c7e9de9469391e032ab654209c4fe01a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823403879
+        }
+    ],
+    "wof:id":823403879,
+    "wof:lastmodified":1463432754,
+    "wof:name":"Home Finders Plus Real Estate",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.275374,
+    39.300601,
+    -80.275374,
+    39.300601
+],
+  "geometry": {"coordinates":[-80.275374,39.300601],"type":"Point"}
+}

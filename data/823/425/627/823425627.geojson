@@ -1,0 +1,73 @@
+{
+  "id": 823425627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.967066,39.460771,-77.967066,39.460771",
+    "geom:latitude":39.460771,
+    "geom:longitude":-77.967066,
+    "iso:country":"US",
+    "sg:address":"411 W Race St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 4719",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "photo",
+        "finishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19NU5RCqyTywzchxZVS5xP_39.460771_-77.967066@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433684,
+    "wof:geomhash":"c83d3e2758b6443d58735b92a0cc03fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823425627
+        }
+    ],
+    "wof:id":823425627,
+    "wof:lastmodified":1463433684,
+    "wof:name":"O'Roke Color Lab",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "finishing"
+    ]
+},
+  "bbox": [
+    -77.967066,
+    39.460771,
+    -77.967066,
+    39.460771
+],
+  "geometry": {"coordinates":[-77.967066,39.460771],"type":"Point"}
+}

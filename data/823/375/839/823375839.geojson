@@ -1,0 +1,71 @@
+{
+  "id": 823375839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.882787,37.650959,-80.882787,37.650959",
+    "geom:latitude":37.650959,
+    "geom:longitude":-80.882787,
+    "iso:country":"US",
+    "sg:address":"109 Maple Ave",
+    "sg:city":"Hinton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 466 6467",
+    "sg:postcode":"25951",
+    "sg:province":"WV",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731641,
+        102083407,
+        85805479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PEwOtnZhX8VWZ7Oeyhsry_37.650959_-80.882787@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431450,
+    "wof:geomhash":"0ecd6ae821dea685d7bfcdfe6cfcdd11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083407,
+            "locality_id":101731641,
+            "neighbourhood_id":85805479,
+            "region_id":85688589,
+            "venue_id":823375839
+        }
+    ],
+    "wof:id":823375839,
+    "wof:lastmodified":1463431450,
+    "wof:name":"Almost Magic Auto Detailing",
+    "wof:parent_id":85805479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -80.882787,
+    37.650959,
+    -80.882787,
+    37.650959
+],
+  "geometry": {"coordinates":[-80.88278699999999,37.650959],"type":"Point"}
+}

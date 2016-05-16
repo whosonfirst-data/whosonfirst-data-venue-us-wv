@@ -1,0 +1,73 @@
+{
+  "id": 823446731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.570643,38.250447,-81.570643,38.250447",
+    "geom:latitude":38.250447,
+    "geom:longitude":-81.570643,
+    "iso:country":"US",
+    "sg:address":"8618 Maccorkle Ave",
+    "sg:city":"Marmet",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 1587",
+    "sg:postcode":"25315",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HJfE4NIeHIgfew1jxgl7m_38.250447_-81.570643@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434681,
+    "wof:geomhash":"9c25d03e833ef4d9d5b2e58e5190f81a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823446731
+        }
+    ],
+    "wof:id":823446731,
+    "wof:lastmodified":1463434681,
+    "wof:name":"Family Of Internal Medicine",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.570643,
+    38.250447,
+    -81.570643,
+    38.250447
+],
+  "geometry": {"coordinates":[-81.570643,38.250447],"type":"Point"}
+}

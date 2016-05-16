@@ -1,0 +1,71 @@
+{
+  "id": 823429687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.963271,39.659149,-79.963271,39.659149",
+    "geom:latitude":39.659149,
+    "geom:longitude":-79.963271,
+    "iso:country":"US",
+    "sg:address":"1202 Van Voorhis Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 3640",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77bgKAWqmCsJsu3LuVfQPT_39.659149_-79.963271@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433872,
+    "wof:geomhash":"283709cdbbe5f48621cc510ba130ceac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823429687
+        }
+    ],
+    "wof:id":823429687,
+    "wof:lastmodified":1463433872,
+    "wof:name":"Street's Apartments",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -79.963271,
+    39.659149,
+    -79.963271,
+    39.659149
+],
+  "geometry": {"coordinates":[-79.96327100000001,39.659149],"type":"Point"}
+}

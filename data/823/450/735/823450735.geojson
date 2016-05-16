@@ -1,0 +1,71 @@
+{
+  "id": 823450735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.143653,37.979435,-81.143653,37.979435",
+    "geom:latitude":37.979435,
+    "geom:longitude":-81.143653,
+    "iso:country":"US",
+    "sg:address":"459 Park St",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 465 1456",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PvoKL1yuL1pX1zJZUeW5A_37.979435_-81.143653@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434843,
+    "wof:geomhash":"dc8379ef4c9d730c8f19064643192635",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823450735
+        }
+    ],
+    "wof:id":823450735,
+    "wof:lastmodified":1463434843,
+    "wof:name":"Sb Line Service Inc",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.143653,
+    37.979435,
+    -81.143653,
+    37.979435
+],
+  "geometry": {"coordinates":[-81.143653,37.979435],"type":"Point"}
+}

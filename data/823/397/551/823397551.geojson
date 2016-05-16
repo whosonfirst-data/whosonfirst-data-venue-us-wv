@@ -1,0 +1,73 @@
+{
+  "id": 823397551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.95882,39.629339,-79.95882,39.629339",
+    "geom:latitude":39.629339,
+    "geom:longitude":-79.95882,
+    "iso:country":"US",
+    "sg:address":"1117 University Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 6696",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60nvZGmBprf8YgLB1HWeJS_39.629339_-79.958820@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432456,
+    "wof:geomhash":"3f9d39c7f72a80f28509744c46bdd7cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851489,
+            "region_id":85688589,
+            "venue_id":823397551
+        }
+    ],
+    "wof:id":823397551,
+    "wof:lastmodified":1463432456,
+    "wof:name":"Bland's Auto Wrecking",
+    "wof:parent_id":85851489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -79.95882,
+    39.629339,
+    -79.95882,
+    39.629339
+],
+  "geometry": {"coordinates":[-79.95882,39.629339],"type":"Point"}
+}

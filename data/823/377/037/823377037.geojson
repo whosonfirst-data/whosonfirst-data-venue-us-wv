@@ -1,0 +1,71 @@
+{
+  "id": 823377037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.549383,40.618553,-80.549383,40.618553",
+    "geom:latitude":40.618553,
+    "geom:longitude":-80.549383,
+    "iso:country":"US",
+    "sg:address":"52 Liberty Ave",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 0143",
+    "sg:postcode":"26034",
+    "sg:province":"WV",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53GwGuCsqRu1BZfAGxcodb_40.618553_-80.549383@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431507,
+    "wof:geomhash":"e910c760251575c6b99311a816fb4974",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823377037
+        }
+    ],
+    "wof:id":823377037,
+    "wof:lastmodified":1463431507,
+    "wof:name":"M&S Construction",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -80.549383,
+    40.618553,
+    -80.549383,
+    40.618553
+],
+  "geometry": {"coordinates":[-80.54938300000001,40.618553],"type":"Point"}
+}

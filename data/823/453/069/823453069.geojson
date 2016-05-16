@@ -1,0 +1,75 @@
+{
+  "id": 823453069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.195903,37.829076,-81.195903,37.829076",
+    "geom:latitude":37.829076,
+    "geom:longitude":-81.195903,
+    "iso:country":"US",
+    "sg:address":"4702 Robert C Byrd Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/pax/206253-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ATi4pliKkaWV0mHAqbwQA_37.829076_-81.195903@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434932,
+    "wof:geomhash":"18b5be67851b95fe918fd98dac32bc55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823453069
+        }
+    ],
+    "wof:id":823453069,
+    "wof:lastmodified":1463434932,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -81.195903,
+    37.829076,
+    -81.195903,
+    37.829076
+],
+  "geometry": {"coordinates":[-81.195903,37.829076],"type":"Point"}
+}

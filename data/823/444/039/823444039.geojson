@@ -1,0 +1,74 @@
+{
+  "id": 823444039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.738379,38.360239,-81.738379,38.360239",
+    "geom:latitude":38.360239,
+    "geom:longitude":-81.738379,
+    "iso:country":"US",
+    "sg:address":"1143 Dunbar Ave",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 8523",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "sg:website":"www.kanawhahospice.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dDGHK7NBRjDqvCMPywmEc_38.360239_-81.738379@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434543,
+    "wof:geomhash":"941b1c96748d77c5aa6dc332f89bcf9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823444039
+        }
+    ],
+    "wof:id":823444039,
+    "wof:lastmodified":1463434543,
+    "wof:name":"Hospicecare",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -81.738379,
+    38.360239,
+    -81.738379,
+    38.360239
+],
+  "geometry": {"coordinates":[-81.73837899999999,38.360239],"type":"Point"}
+}

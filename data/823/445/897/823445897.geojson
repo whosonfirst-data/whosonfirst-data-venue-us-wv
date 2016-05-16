@@ -1,0 +1,71 @@
+{
+  "id": 823445897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.555209,39.280923,-80.555209,39.280923",
+    "geom:latitude":39.280923,
+    "geom:longitude":-80.555209,
+    "iso:country":"US",
+    "sg:address":"290 Gain St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 782 2354",
+    "sg:postcode":"26426",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85810773,
+        102082619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3spNsf6QizBFybS1MYQ42T_39.280923_-80.555209@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434636,
+    "wof:geomhash":"a6084ec1db1b350aee7dbb4f8580f928",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "neighbourhood_id":85810773,
+            "region_id":85688589,
+            "venue_id":823445897
+        }
+    ],
+    "wof:id":823445897,
+    "wof:lastmodified":1463434636,
+    "wof:name":"Adept Properties LLC",
+    "wof:parent_id":85810773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -80.555209,
+    39.280923,
+    -80.555209,
+    39.280923
+],
+  "geometry": {"coordinates":[-80.555209,39.280923],"type":"Point"}
+}

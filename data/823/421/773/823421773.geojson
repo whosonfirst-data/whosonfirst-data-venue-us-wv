@@ -1,0 +1,69 @@
+{
+  "id": 823421773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.587178,37.415233,-81.587178,37.415233",
+    "geom:latitude":37.415233,
+    "geom:longitude":-81.587178,
+    "iso:country":"US",
+    "sg:address":"905 Riverside Dr",
+    "sg:city":"Welch",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 436 2377",
+    "sg:postcode":"24801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85809677,
+        102083405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zeSRfpdGgjwDalGQ7F5pK_37.415233_-81.587178@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433534,
+    "wof:geomhash":"546ff9aa71d91671cc46b618ed2d8578",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083405,
+            "neighbourhood_id":85809677,
+            "region_id":85688589,
+            "venue_id":823421773
+        }
+    ],
+    "wof:id":823421773,
+    "wof:lastmodified":1463433534,
+    "wof:name":"Jones Cornett Co",
+    "wof:parent_id":85809677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing"
+    ]
+},
+  "bbox": [
+    -81.587178,
+    37.415233,
+    -81.587178,
+    37.415233
+],
+  "geometry": {"coordinates":[-81.58717799999999,37.415233],"type":"Point"}
+}

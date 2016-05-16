@@ -1,0 +1,73 @@
+{
+  "id": 823452477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.563115,38.305094,-81.563115,38.305094",
+    "geom:latitude":38.305094,
+    "geom:longitude":-81.563115,
+    "iso:country":"US",
+    "sg:address":"6414 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/belle/206306-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qCiOMQavryOWLNmY5omGJ_38.305094_-81.563115@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434908,
+    "wof:geomhash":"eb3f55ae175dbb12f977096fa72f7263",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823452477
+        }
+    ],
+    "wof:id":823452477,
+    "wof:lastmodified":1463434908,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -81.563115,
+    38.305094,
+    -81.563115,
+    38.305094
+],
+  "geometry": {"coordinates":[-81.563115,38.305094],"type":"Point"}
+}

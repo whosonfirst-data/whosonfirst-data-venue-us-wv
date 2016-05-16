@@ -1,0 +1,71 @@
+{
+  "id": 823412041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.46996,38.248612,-81.46996,38.248612",
+    "geom:latitude":38.248612,
+    "geom:longitude":-81.46996,
+    "iso:country":"US",
+    "sg:address":"700 Witcher Rd",
+    "sg:city":"Belle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 6377",
+    "sg:postcode":"25015",
+    "sg:province":"WV",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60TklyMbxTc7HEqnRqCpkt_38.248612_-81.469960@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433105,
+    "wof:geomhash":"21252a2615f71627b6b44699582ccd6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823412041
+        }
+    ],
+    "wof:id":823412041,
+    "wof:lastmodified":1463433105,
+    "wof:name":"Dans Construction Co",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -81.46996,
+    38.248612,
+    -81.46996,
+    38.248612
+],
+  "geometry": {"coordinates":[-81.46996,38.248612],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 823422239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.972752,39.471581,-77.972752,39.471581",
+    "geom:latitude":39.471581,
+    "geom:longitude":-77.972752,
+    "iso:country":"US",
+    "sg:address":"311 Pendleton Dr",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 264 9227",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85846047,
+        102083367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RcmRLTp4Zez8XklM9I0WV_39.471581_-77.972752@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433550,
+    "wof:geomhash":"8d031928e7628b476d4289949b6187a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "neighbourhood_id":85846047,
+            "region_id":85688589,
+            "venue_id":823422239
+        }
+    ],
+    "wof:id":823422239,
+    "wof:lastmodified":1463433550,
+    "wof:name":"Hancock Dental Arts",
+    "wof:parent_id":85846047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -77.972752,
+    39.471581,
+    -77.972752,
+    39.471581
+],
+  "geometry": {"coordinates":[-77.972752,39.471581],"type":"Point"}
+}

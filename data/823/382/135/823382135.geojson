@@ -1,0 +1,71 @@
+{
+  "id": 823382135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.040406,39.15279,-80.040406,39.15279",
+    "geom:latitude":39.15279,
+    "geom:longitude":-80.040406,
+    "iso:country":"US",
+    "sg:address":"108 N Main St",
+    "sg:city":"Philippi",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 457 3700",
+    "sg:postcode":"26416",
+    "sg:province":"WV",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Dy0F0cB6yw0HvdMXE9oey_39.152790_-80.040406@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431742,
+    "wof:geomhash":"acfc6fbccf119399a0df89a72765c74d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823382135
+        }
+    ],
+    "wof:id":823382135,
+    "wof:lastmodified":1463431742,
+    "wof:name":"Philippi City Police Hdqrs",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -80.040406,
+    39.15279,
+    -80.040406,
+    39.15279
+],
+  "geometry": {"coordinates":[-80.040406,39.15279],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823400049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.613089,40.264002,-80.613089,40.264002",
+    "geom:latitude":40.264002,
+    "geom:longitude":-80.613089,
+    "iso:country":"US",
+    "sg:address":"16 Commerce St Exd",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 1047",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60l8vCZ6XURyD9WJCL47Ru_40.264002_-80.613089@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432589,
+    "wof:geomhash":"838f4926dace64287d4b70ff06a3d4ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823400049
+        }
+    ],
+    "wof:id":823400049,
+    "wof:lastmodified":1463432589,
+    "wof:name":"Auto Medic Amoco",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -80.613089,
+    40.264002,
+    -80.613089,
+    40.264002
+],
+  "geometry": {"coordinates":[-80.613089,40.264002],"type":"Point"}
+}

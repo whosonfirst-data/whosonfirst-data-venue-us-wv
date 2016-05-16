@@ -1,0 +1,75 @@
+{
+  "id": 823378297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.98127,38.452262,-81.98127,38.452262",
+    "geom:latitude":38.452262,
+    "geom:longitude":-81.98127,
+    "iso:country":"US",
+    "sg:address":"3713 Cambridge Cir",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 562 7007",
+    "sg:postcode":"25526",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731829,
+        102083381,
+        85868321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RHFVF1utWZpzJxvPJrp1o_38.452262_-81.981270@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431569,
+    "wof:geomhash":"b4609d08bc3fd432a175251bf95f8acb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731829,
+            "neighbourhood_id":85868321,
+            "region_id":85688589,
+            "venue_id":823378297
+        }
+    ],
+    "wof:id":823378297,
+    "wof:lastmodified":1463431569,
+    "wof:name":"Dolin Trucking Company Inc",
+    "wof:parent_id":85868321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -81.98127,
+    38.452262,
+    -81.98127,
+    38.452262
+],
+  "geometry": {"coordinates":[-81.98126999999999,38.452262],"type":"Point"}
+}

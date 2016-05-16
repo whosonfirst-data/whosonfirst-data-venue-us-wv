@@ -1,0 +1,75 @@
+{
+  "id": 823440767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.020106,39.34096,-80.020106,39.34096",
+    "geom:latitude":39.34096,
+    "geom:longitude":-80.020106,
+    "iso:country":"US",
+    "sg:address":"224 W Main St",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 265 1032",
+    "sg:postcode":"26354",
+    "sg:province":"WV",
+    "sg:tags":[
+        "print",
+        "printer",
+        "lithographic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731717,
+        102083351,
+        85849697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CER9oBhIcDxvgGtrmgeLT_39.340960_-80.020106@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434398,
+    "wof:geomhash":"08e3e1b34392de3bb94d20fcf8572d68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083351,
+            "locality_id":101731717,
+            "neighbourhood_id":85849697,
+            "region_id":85688589,
+            "venue_id":823440767
+        }
+    ],
+    "wof:id":823440767,
+    "wof:lastmodified":1463434398,
+    "wof:name":"Main Street Printers Inc",
+    "wof:parent_id":85849697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "print",
+        "printer",
+        "lithographic"
+    ]
+},
+  "bbox": [
+    -80.020106,
+    39.34096,
+    -80.020106,
+    39.34096
+],
+  "geometry": {"coordinates":[-80.020106,39.34096],"type":"Point"}
+}

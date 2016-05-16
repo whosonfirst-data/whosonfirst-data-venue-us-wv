@@ -1,0 +1,76 @@
+{
+  "id": 823432399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.964337,39.607629,-79.964337,39.607629",
+    "geom:latitude":39.607629,
+    "geom:longitude":-79.964337,
+    "iso:country":"US",
+    "sg:address":"203 Greenbag Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 1185",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5u75rQ4tkgLqenrkstCd1M_39.607629_-79.964337@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433989,
+    "wof:geomhash":"e6ea17233fbf3584aad21d77c9b14b6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823432399
+        }
+    ],
+    "wof:id":823432399,
+    "wof:lastmodified":1463433989,
+    "wof:name":"Horizon Mobile Health Svc",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -79.964337,
+    39.607629,
+    -79.964337,
+    39.607629
+],
+  "geometry": {"coordinates":[-79.964337,39.607629],"type":"Point"}
+}

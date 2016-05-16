@@ -1,0 +1,67 @@
+{
+  "id": 823424593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.670543,38.478093,-81.670543,38.478093",
+    "geom:latitude":38.478093,
+    "geom:longitude":-81.670543,
+    "iso:country":"US",
+    "sg:address":"6401 Sissonville Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 984 9597",
+    "sg:postcode":"25312",
+    "sg:province":"WV",
+    "sg:website":"www.riteaid.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sfgRA8hbL4NPglYeNvuCe_38.478093_-81.670543@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433644,
+    "wof:geomhash":"c493d71d82f2e311b8f8d31d39c67993",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823424593
+        }
+    ],
+    "wof:id":823424593,
+    "wof:lastmodified":1463433644,
+    "wof:name":"Rite Aid Pharmacy",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.670543,
+    38.478093,
+    -81.670543,
+    38.478093
+],
+  "geometry": {"coordinates":[-81.670543,38.478093],"type":"Point"}
+}

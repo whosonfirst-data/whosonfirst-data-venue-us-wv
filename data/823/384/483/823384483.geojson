@@ -1,0 +1,71 @@
+{
+  "id": 823384483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.094959,37.369621,-81.094959,37.369621",
+    "geom:latitude":37.369621,
+    "geom:longitude":-81.094959,
+    "iso:country":"US",
+    "sg:address":"866 Mercer St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 7265",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "optician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7m2BfWG9Gw8COxDdX7rhJD_37.369621_-81.094959@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431827,
+    "wof:geomhash":"ba8b90c0220b6a535e3187ad1bd66c1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823384483
+        }
+    ],
+    "wof:id":823384483,
+    "wof:lastmodified":1463431827,
+    "wof:name":"Taylor Optical Co",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "optician"
+    ]
+},
+  "bbox": [
+    -81.094959,
+    37.369621,
+    -81.094959,
+    37.369621
+],
+  "geometry": {"coordinates":[-81.094959,37.369621],"type":"Point"}
+}

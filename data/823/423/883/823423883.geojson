@@ -1,0 +1,68 @@
+{
+  "id": 823423883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.124178,37.744085,-81.124178,37.744085",
+    "geom:latitude":37.744085,
+    "geom:longitude":-81.124178,
+    "iso:country":"US",
+    "sg:address":"1324 Ritter Dr",
+    "sg:city":"Daniels",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 252 0933",
+    "sg:postcode":"25832",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jJ5DlgidxpTQxHlmLeL8o_37.744085_-81.124178@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433616,
+    "wof:geomhash":"5d8ebc2b4357bf66587c11905f2fcdbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823423883
+        }
+    ],
+    "wof:id":823423883,
+    "wof:lastmodified":1463433616,
+    "wof:name":"Blue Water Seafood",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.124178,
+    37.744085,
+    -81.124178,
+    37.744085
+],
+  "geometry": {"coordinates":[-81.124178,37.744085],"type":"Point"}
+}

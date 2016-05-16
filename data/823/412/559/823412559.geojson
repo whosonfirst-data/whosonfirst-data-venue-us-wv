@@ -1,0 +1,71 @@
+{
+  "id": 823412559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.124306,37.371632,-81.124306,37.371632",
+    "geom:latitude":37.371632,
+    "geom:longitude":-81.124306,
+    "iso:country":"US",
+    "sg:address":"122 Kingbird Way",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 2560",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pz5iM0Je0fi0ZlEfwlmGv_37.371632_-81.124306@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433123,
+    "wof:geomhash":"5bdfa57e5f95dccc33e893bf41326e3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823412559
+        }
+    ],
+    "wof:id":823412559,
+    "wof:lastmodified":1463433123,
+    "wof:name":"American Electric Power Co",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -81.124306,
+    37.371632,
+    -81.124306,
+    37.371632
+],
+  "geometry": {"coordinates":[-81.124306,37.371632],"type":"Point"}
+}

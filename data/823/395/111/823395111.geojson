@@ -1,0 +1,71 @@
+{
+  "id": 823395111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.611963,40.271861,-80.611963,40.271861",
+    "geom:latitude":40.271861,
+    "geom:longitude":-80.611963,
+    "iso:country":"US",
+    "sg:address":"927 Charles St",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"News",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 3262",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WddOW4sZkNXEy5EiP8M97_40.271861_-80.611963@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432334,
+    "wof:geomhash":"5d480852ab8df5d52caca2310dfb74bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823395111
+        }
+    ],
+    "wof:id":823395111,
+    "wof:lastmodified":1463432334,
+    "wof:name":"Myers Quick Stop",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -80.611963,
+    40.271861,
+    -80.611963,
+    40.271861
+],
+  "geometry": {"coordinates":[-80.611963,40.271861],"type":"Point"}
+}

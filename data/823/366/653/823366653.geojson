@@ -1,0 +1,73 @@
+{
+  "id": 823366653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.886682,38.470242,-81.886682,38.470242",
+    "geom:latitude":38.470242,
+    "geom:longitude":-81.886682,
+    "iso:country":"US",
+    "sg:address":"169 Rocky Step Rd",
+    "sg:city":"Scott Depot",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 757 6102",
+    "sg:postcode":"25560",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868323,
+        102083381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zdM1EU9o4sippNDm1SqG1_38.470242_-81.886682@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431044,
+    "wof:geomhash":"5e7e87215c8589693b1b3cad382d6e10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "neighbourhood_id":85868323,
+            "region_id":85688589,
+            "venue_id":823366653
+        }
+    ],
+    "wof:id":823366653,
+    "wof:lastmodified":1463431044,
+    "wof:name":"J Adkins Trucking",
+    "wof:parent_id":85868323,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -81.886682,
+    38.470242,
+    -81.886682,
+    38.470242
+],
+  "geometry": {"coordinates":[-81.88668199999999,38.470242],"type":"Point"}
+}

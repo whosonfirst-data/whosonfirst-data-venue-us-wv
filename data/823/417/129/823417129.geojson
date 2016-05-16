@@ -1,0 +1,71 @@
+{
+  "id": 823417129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.569673,38.397653,-81.569673,38.397653",
+    "geom:latitude":38.397653,
+    "geom:longitude":-81.569673,
+    "iso:country":"US",
+    "sg:address":"3320 Pennsylvania Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 348 7776",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DpCeSI7jX6Nd4P8xyUtfX_38.397653_-81.569673@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433340,
+    "wof:geomhash":"0b1fec3b8af03caadb51c6abf7e11afa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823417129
+        }
+    ],
+    "wof:id":823417129,
+    "wof:lastmodified":1463433340,
+    "wof:name":"Elk Elementary Center",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -81.569673,
+    38.397653,
+    -81.569673,
+    38.397653
+],
+  "geometry": {"coordinates":[-81.56967299999999,38.397653],"type":"Point"}
+}

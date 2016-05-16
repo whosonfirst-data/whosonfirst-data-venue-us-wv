@@ -1,0 +1,76 @@
+{
+  "id": 823453725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.971545,39.650682,-79.971545,39.650682",
+    "geom:latitude":39.650682,
+    "geom:longitude":-79.971545,
+    "iso:country":"US",
+    "sg:address":"353 Patteson Dr",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/central/27710-eat-n-park/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 598 0020",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3K7V948WCX8iSbsLYsSehx_39.650682_-79.971545@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434958,
+    "wof:geomhash":"5380c0b03d5e085e79785bec098cdbc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851419,
+            "region_id":85688589,
+            "venue_id":823453725
+        }
+    ],
+    "wof:id":823453725,
+    "wof:lastmodified":1463434958,
+    "wof:name":"Eat N' Park",
+    "wof:parent_id":85851419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -79.971545,
+    39.650682,
+    -79.971545,
+    39.650682
+],
+  "geometry": {"coordinates":[-79.97154500000001,39.650682],"type":"Point"}
+}

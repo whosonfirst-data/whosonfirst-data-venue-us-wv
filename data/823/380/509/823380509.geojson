@@ -1,0 +1,71 @@
+{
+  "id": 823380509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.338755,39.27917,-80.338755,39.27917",
+    "geom:latitude":39.27917,
+    "geom:longitude":-80.338755,
+    "iso:country":"US",
+    "sg:address":"222 W Main St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 624 1683",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aMi9MXuAup55nhmDEN5NK_39.279170_-80.338755@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431664,
+    "wof:geomhash":"a932fe56843aa384f4e276cd5ab0c277",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823380509
+        }
+    ],
+    "wof:id":823380509,
+    "wof:lastmodified":1463431664,
+    "wof:name":"Purchasing & Personnel",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -80.338755,
+    39.27917,
+    -80.338755,
+    39.27917
+],
+  "geometry": {"coordinates":[-80.33875500000001,39.27917],"type":"Point"}
+}

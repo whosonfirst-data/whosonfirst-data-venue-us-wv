@@ -1,0 +1,73 @@
+{
+  "id": 823437499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.483982,38.401739,-81.483982,38.401739",
+    "geom:latitude":38.401739,
+    "geom:longitude":-81.483982,
+    "iso:country":"US",
+    "sg:address":"1 Maple Ln",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 937 7000",
+    "sg:postcode":"25071",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electric",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rIsEPlNHd3jUEzHE92Cfk_38.401739_-81.483982@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434258,
+    "wof:geomhash":"00f2b3ad04b846ced1dc3c86b665abf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823437499
+        }
+    ],
+    "wof:id":823437499,
+    "wof:lastmodified":1463434258,
+    "wof:name":"Toyota Motor Manufacturing Co",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "motor"
+    ]
+},
+  "bbox": [
+    -81.483982,
+    38.401739,
+    -81.483982,
+    38.401739
+],
+  "geometry": {"coordinates":[-81.483982,38.401739],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 823410683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.732148,38.360786,-81.732148,38.360786",
+    "geom:latitude":38.360786,
+    "geom:longitude":-81.732148,
+    "iso:country":"US",
+    "sg:address":"4 Carney Ct",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 2598",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uU28mqdpLKU9rpvQ6O7Tu_38.360786_-81.732148@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433054,
+    "wof:geomhash":"796a9d401f09e9e5d6ec683e3f40ca4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823410683
+        }
+    ],
+    "wof:id":823410683,
+    "wof:lastmodified":1463433054,
+    "wof:name":"New Earl Scheib Paint & Body",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -81.732148,
+    38.360786,
+    -81.732148,
+    38.360786
+],
+  "geometry": {"coordinates":[-81.732148,38.360786],"type":"Point"}
+}

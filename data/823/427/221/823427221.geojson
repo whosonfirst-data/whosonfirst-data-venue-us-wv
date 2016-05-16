@@ -1,0 +1,71 @@
+{
+  "id": 823427221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.938824,39.013215,-79.938824,39.013215",
+    "geom:latitude":39.013215,
+    "geom:longitude":-79.938824,
+    "iso:country":"US",
+    "sg:address":"806 Crim Ave",
+    "sg:city":"Belington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 823 3104",
+    "sg:postcode":"26250",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hymPh4iYNzttkOVH9xryF_39.013215_-79.938824@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433760,
+    "wof:geomhash":"f0a9338d07402800c7301e147a441379",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823427221
+        }
+    ],
+    "wof:id":823427221,
+    "wof:lastmodified":1463433760,
+    "wof:name":"Shop 'n Save",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -79.938824,
+    39.013215,
+    -79.938824,
+    39.013215
+],
+  "geometry": {"coordinates":[-79.938824,39.013215],"type":"Point"}
+}

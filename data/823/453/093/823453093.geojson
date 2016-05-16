@@ -1,0 +1,76 @@
+{
+  "id": 823453093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.184274,37.803505,-81.184274,37.803505",
+    "geom:latitude":37.803505,
+    "geom:longitude":-81.184274,
+    "iso:country":"US",
+    "sg:address":"3692 Robert C Byrd Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/pax/159097-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 252 5015",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3t18ie68YkTQCshr3JBK6U_37.803505_-81.184274@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434933,
+    "wof:geomhash":"2c629bf50e9884f7188996ad05f2c681",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823453093
+        }
+    ],
+    "wof:id":823453093,
+    "wof:lastmodified":1463434933,
+    "wof:name":"Arby's",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -81.184274,
+    37.803505,
+    -81.184274,
+    37.803505
+],
+  "geometry": {"coordinates":[-81.184274,37.803505],"type":"Point"}
+}

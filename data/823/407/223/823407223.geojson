@@ -1,0 +1,75 @@
+{
+  "id": 823407223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.847495,38.925118,-79.847495,38.925118",
+    "geom:latitude":38.925118,
+    "geom:longitude":-79.847495,
+    "iso:country":"US",
+    "sg:address":"214 3rd St",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 5169",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "health",
+        "store",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cGcIyxLV50aGej5RxNys8_38.925118_-79.847495@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432911,
+    "wof:geomhash":"91f34638a1b7ff4f8eab260141b32c2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823407223
+        }
+    ],
+    "wof:id":823407223,
+    "wof:lastmodified":1463432911,
+    "wof:name":"Good Energy Foods Inc",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "store",
+        "diet"
+    ]
+},
+  "bbox": [
+    -79.847495,
+    38.925118,
+    -79.847495,
+    38.925118
+],
+  "geometry": {"coordinates":[-79.847495,38.925118],"type":"Point"}
+}

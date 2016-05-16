@@ -1,0 +1,80 @@
+{
+  "id": 823442979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.05794,37.365015,-81.05794,37.365015",
+    "geom:latitude":37.365015,
+    "geom:longitude":-81.05794,
+    "iso:country":"US",
+    "sg:address":"160 Springdale Ave",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 3866",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kbFqd5wcvWefEDRy82LM5_37.365015_-81.057940@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434492,
+    "wof:geomhash":"4f390b966559d89c7ac58d014acc4a44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823442979
+        }
+    ],
+    "wof:id":823442979,
+    "wof:lastmodified":1463434492,
+    "wof:name":"F M C Mercer County",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ]
+},
+  "bbox": [
+    -81.05794,
+    37.365015,
+    -81.05794,
+    37.365015
+],
+  "geometry": {"coordinates":[-81.05794,37.365015],"type":"Point"}
+}

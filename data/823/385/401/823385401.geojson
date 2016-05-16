@@ -1,0 +1,73 @@
+{
+  "id": 823385401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.269829,39.302473,-80.269829,39.302473",
+    "geom:latitude":39.302473,
+    "geom:longitude":-80.269829,
+    "iso:country":"US",
+    "sg:address":"12 Woodbrook Ln",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 6594",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kS1DwneAYPfQ5ilxD3SP5_39.302473_-80.269829@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431864,
+    "wof:geomhash":"6bca8ef53721aaab99138dc041db6454",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823385401
+        }
+    ],
+    "wof:id":823385401,
+    "wof:lastmodified":1463431864,
+    "wof:name":"Mtw Apts LLC",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -80.269829,
+    39.302473,
+    -80.269829,
+    39.302473
+],
+  "geometry": {"coordinates":[-80.269829,39.302473],"type":"Point"}
+}

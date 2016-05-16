@@ -1,0 +1,74 @@
+{
+  "id": 823453511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.275776,39.299521,-80.275776,39.299521",
+    "geom:latitude":39.299521,
+    "geom:longitude":-80.275776,
+    "iso:country":"US",
+    "sg:address":"1221 Johnson Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/bridgeport/67902-foxs-pizza-den/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 1700",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_404Bd0eBRXs7MXdRgwgxH3_39.299521_-80.275776@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434950,
+    "wof:geomhash":"5635ca9921c3099556293f03db7ad542",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823453511
+        }
+    ],
+    "wof:id":823453511,
+    "wof:lastmodified":1463434950,
+    "wof:name":"Fox's Pizza Den",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -80.275776,
+    39.299521,
+    -80.275776,
+    39.299521
+],
+  "geometry": {"coordinates":[-80.27577599999999,39.299521],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823410929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.137597,38.840047,-82.137597,38.840047",
+    "geom:latitude":38.840047,
+    "geom:longitude":-82.137597,
+    "iso:country":"US",
+    "sg:address":"404 2nd St",
+    "sg:city":"Point Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 675 4414",
+    "sg:postcode":"25550",
+    "sg:province":"WV",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85983229,
+        102083675,
+        85824533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wP5KBPLjkiTBzeyqnCqV1_38.840047_-82.137597@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433063,
+    "wof:geomhash":"d2aa59d5708832d45c31801d706d61d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "neighbourhood_id":85824533,
+            "region_id":85688485,
+            "venue_id":823410929
+        }
+    ],
+    "wof:id":823410929,
+    "wof:lastmodified":1463433063,
+    "wof:name":"Point Pleasant Housing Auth",
+    "wof:parent_id":85824533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [
+    -82.137597,
+    38.840047,
+    -82.137597,
+    38.840047
+],
+  "geometry": {"coordinates":[-82.137597,38.840047],"type":"Point"}
+}

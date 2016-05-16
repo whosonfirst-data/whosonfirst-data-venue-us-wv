@@ -1,0 +1,71 @@
+{
+  "id": 823449865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.473759,39.033277,-80.473759,39.033277",
+    "geom:latitude":39.033277,
+    "geom:longitude":-80.473759,
+    "iso:country":"US",
+    "sg:address":"171 S Main St",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 269 7690",
+    "sg:postcode":"26452",
+    "sg:province":"WV",
+    "sg:tags":[
+        "merchandise",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85828579,
+        102083339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UrzNBu3jnRVQ4eKOhzqpr_39.033277_-80.473759@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434811,
+    "wof:geomhash":"261a083e346303752ac984c3d203112e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083339,
+            "neighbourhood_id":85828579,
+            "region_id":85688589,
+            "venue_id":823449865
+        }
+    ],
+    "wof:id":823449865,
+    "wof:lastmodified":1463434811,
+    "wof:name":"WV General Store",
+    "wof:parent_id":85828579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [
+    -80.473759,
+    39.033277,
+    -80.473759,
+    39.033277
+],
+  "geometry": {"coordinates":[-80.473759,39.033277],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823400475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.954816,39.632596,-79.954816,39.632596",
+    "geom:latitude":39.632596,
+    "geom:longitude":-79.954816,
+    "iso:country":"US",
+    "sg:address":"146 Willey St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 1448",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40Osy1Bym2N8hxofE9aVvc_39.632596_-79.954816@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432606,
+    "wof:geomhash":"07d36c2fbb9f6f91cd586abecdd974ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851489,
+            "region_id":85688589,
+            "venue_id":823400475
+        }
+    ],
+    "wof:id":823400475,
+    "wof:lastmodified":1463432606,
+    "wof:name":"Loan Assistance",
+    "wof:parent_id":85851489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -79.954816,
+    39.632596,
+    -79.954816,
+    39.632596
+],
+  "geometry": {"coordinates":[-79.95481599999999,39.632596],"type":"Point"}
+}

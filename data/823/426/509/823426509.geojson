@@ -1,0 +1,71 @@
+{
+  "id": 823426509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.866066,39.638479,-80.866066,39.638479",
+    "geom:latitude":39.638479,
+    "geom:longitude":-80.866066,
+    "iso:country":"US",
+    "sg:address":"191 Main St",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 9125",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1t02YK5MEmHNSXTqELm53c_39.638479_-80.866066@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433728,
+    "wof:geomhash":"5b34903e00c15eff7390392be5dfa2b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823426509
+        }
+    ],
+    "wof:id":823426509,
+    "wof:lastmodified":1463433728,
+    "wof:name":"New Martinsville Municipal",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -80.866066,
+    39.638479,
+    -80.866066,
+    39.638479
+],
+  "geometry": {"coordinates":[-80.866066,39.638479],"type":"Point"}
+}

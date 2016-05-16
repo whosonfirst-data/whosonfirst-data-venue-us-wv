@@ -1,0 +1,71 @@
+{
+  "id": 823370743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.166427,37.893181,-81.166427,37.893181",
+    "geom:latitude":37.893181,
+    "geom:longitude":-81.166427,
+    "iso:country":"US",
+    "sg:address":"509 Main St",
+    "sg:city":"Mt Hope",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 877 6551",
+    "sg:postcode":"25880",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731505,
+        102083359,
+        85852821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sPKDbheSbnb0rY8nlzsuP_37.893181_-81.166427@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431204,
+    "wof:geomhash":"65b6d3ebfa115ba0c5c0e3daa954421d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "locality_id":101731505,
+            "neighbourhood_id":85852821,
+            "region_id":85688589,
+            "venue_id":823370743
+        }
+    ],
+    "wof:id":823370743,
+    "wof:lastmodified":1463431204,
+    "wof:name":"Harold Murphy",
+    "wof:parent_id":85852821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -81.166427,
+    37.893181,
+    -81.166427,
+    37.893181
+],
+  "geometry": {"coordinates":[-81.166427,37.893181],"type":"Point"}
+}

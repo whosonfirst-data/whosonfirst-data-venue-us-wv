@@ -1,0 +1,75 @@
+{
+  "id": 823389981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.633026,38.359769,-81.633026,38.359769",
+    "geom:latitude":38.359769,
+    "geom:longitude":-81.633026,
+    "iso:country":"US",
+    "sg:address":"1010 Pennsylvania Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 344 7220",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "local",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BK96fJAmvfGU2ekXIkmVo_38.359769_-81.633026@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432076,
+    "wof:geomhash":"239f2786cdb288aa47f8c228151b289b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823389981
+        }
+    ],
+    "wof:id":823389981,
+    "wof:lastmodified":1463432076,
+    "wof:name":"Verizon",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "community"
+    ]
+},
+  "bbox": [
+    -81.633026,
+    38.359769,
+    -81.633026,
+    38.359769
+],
+  "geometry": {"coordinates":[-81.633026,38.359769],"type":"Point"}
+}

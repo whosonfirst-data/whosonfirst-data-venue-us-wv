@@ -1,0 +1,73 @@
+{
+  "id": 823396895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.742853,38.372057,-81.742853,38.372057",
+    "geom:latitude":38.372057,
+    "geom:longitude":-81.742853,
+    "iso:country":"US",
+    "sg:address":"900 Dutch Hollow Rd",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 8006",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "housing",
+        "redevelopment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lH0adS4Qgq9sQFRTIduwY_38.372057_-81.742853@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432428,
+    "wof:geomhash":"b06f50c8e4ddf74c1fc842bf0afe1f6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823396895
+        }
+    ],
+    "wof:id":823396895,
+    "wof:lastmodified":1463432428,
+    "wof:name":"Dunbar Housing Authority",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housing",
+        "redevelopment"
+    ]
+},
+  "bbox": [
+    -81.742853,
+    38.372057,
+    -81.742853,
+    38.372057
+],
+  "geometry": {"coordinates":[-81.742853,38.372057],"type":"Point"}
+}

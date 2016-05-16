@@ -1,0 +1,76 @@
+{
+  "id": 823395675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.540829,38.234796,-81.540829,38.234796",
+    "geom:latitude":38.234796,
+    "geom:longitude":-81.540829,
+    "iso:country":"US",
+    "sg:address":"112 E Dupont Ave",
+    "sg:city":"Belle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 2744",
+    "sg:postcode":"25015",
+    "sg:province":"WV",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6w1w7zE3MgYC6bXcJdLYJJ_38.234796_-81.540829@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432358,
+    "wof:geomhash":"1136c6598cd0f112b521956e5cb7c2d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823395675
+        }
+    ],
+    "wof:id":823395675,
+    "wof:lastmodified":1463432358,
+    "wof:name":"Perry's Animal Hospital",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -81.540829,
+    38.234796,
+    -81.540829,
+    38.234796
+],
+  "geometry": {"coordinates":[-81.540829,38.234796],"type":"Point"}
+}

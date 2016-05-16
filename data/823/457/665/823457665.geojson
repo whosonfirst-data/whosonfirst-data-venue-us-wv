@@ -1,0 +1,73 @@
+{
+  "id": 823457665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.906693,39.623219,-79.906693,39.623219",
+    "geom:latitude":39.623219,
+    "geom:longitude":-79.906693,
+    "iso:country":"US",
+    "sg:address":"201 Finch Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 5184",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "feeding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732105,
+        102082587,
+        85807831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77RcGtnm1QOwt5x5SVlaXH_39.623219_-79.906693@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435175,
+    "wof:geomhash":"f6b4ba8d91bc4701f5eaf4f9e304f775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101732105,
+            "neighbourhood_id":85807831,
+            "region_id":85688589,
+            "venue_id":823457665
+        }
+    ],
+    "wof:id":823457665,
+    "wof:lastmodified":1463435175,
+    "wof:name":"George Cyphert",
+    "wof:parent_id":85807831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feeding"
+    ]
+},
+  "bbox": [
+    -79.906693,
+    39.623219,
+    -79.906693,
+    39.623219
+],
+  "geometry": {"coordinates":[-79.906693,39.623219],"type":"Point"}
+}

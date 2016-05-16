@@ -1,0 +1,71 @@
+{
+  "id": 823393873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.559336,39.282907,-80.559336,39.282907",
+    "geom:latitude":39.282907,
+    "geom:longitude":-80.559336,
+    "iso:country":"US",
+    "sg:address":"121 W Main St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 782 4222",
+    "sg:postcode":"26426",
+    "sg:province":"WV",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85810773,
+        102082619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PFB8rgiTGitcxk1OiW5M2_39.282907_-80.559336@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432271,
+    "wof:geomhash":"cb002a601716728e7a4318127afee593",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "neighbourhood_id":85810773,
+            "region_id":85688589,
+            "venue_id":823393873
+        }
+    ],
+    "wof:id":823393873,
+    "wof:lastmodified":1463432271,
+    "wof:name":"Nicholson Auto Used Cars",
+    "wof:parent_id":85810773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -80.559336,
+    39.282907,
+    -80.559336,
+    39.282907
+],
+  "geometry": {"coordinates":[-80.559336,39.282907],"type":"Point"}
+}

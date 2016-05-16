@@ -1,0 +1,83 @@
+{
+  "id": 823455607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.029081,39.351101,-78.029081,39.351101",
+    "geom:latitude":39.351101,
+    "geom:longitude":-78.029081,
+    "iso:country":"US",
+    "sg:address":"745 Middleway Pike",
+    "sg:city":"Inwood",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 229 5242",
+    "sg:postcode":"25428",
+    "sg:province":"WV",
+    "sg:tags":[
+        "orthopedic",
+        "appliances-manufacturing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GLmsMZNhIcYPROqjhpYyv_39.351101_-78.029081@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435082,
+    "wof:geomhash":"5b8e33dc5e3a9c366775c7bdeafc2437",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823455607
+        }
+    ],
+    "wof:id":823455607,
+    "wof:lastmodified":1463435082,
+    "wof:name":"Dollar Stretcher",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "orthopedic",
+        "appliances-manufacturing"
+    ]
+},
+  "bbox": [
+    -78.029081,
+    39.351101,
+    -78.029081,
+    39.351101
+],
+  "geometry": {"coordinates":[-78.02908100000001,39.351101],"type":"Point"}
+}

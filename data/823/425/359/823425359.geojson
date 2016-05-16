@@ -1,0 +1,75 @@
+{
+  "id": 823425359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.625733,38.347349,-81.625733,38.347349",
+    "geom:latitude":38.347349,
+    "geom:longitude":-81.625733,
+    "iso:country":"US",
+    "sg:address":"406 Morris St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 347 4388",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "educational",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KKoP22rkytCIX7G8DxPvE_38.347349_-81.625733@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433674,
+    "wof:geomhash":"c90657582a2b83d1e2e956918a529b9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823425359
+        }
+    ],
+    "wof:id":823425359,
+    "wof:lastmodified":1463433674,
+    "wof:name":"West SIDE Tanf",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational",
+        "program"
+    ]
+},
+  "bbox": [
+    -81.625733,
+    38.347349,
+    -81.625733,
+    38.347349
+],
+  "geometry": {"coordinates":[-81.625733,38.347349],"type":"Point"}
+}

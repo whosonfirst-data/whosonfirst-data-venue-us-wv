@@ -1,0 +1,71 @@
+{
+  "id": 823375775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.221056,37.259259,-81.221056,37.259259",
+    "geom:latitude":37.259259,
+    "geom:longitude":-81.221056,
+    "iso:country":"US",
+    "sg:address":"212 North St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 327 8177",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CpTpabi1zloJNJ4YLOjgW_37.259259_-81.221056@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431447,
+    "wof:geomhash":"fb94f95c8661a8308d013e16e3cb6e13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823375775
+        }
+    ],
+    "wof:id":823375775,
+    "wof:lastmodified":1463431447,
+    "wof:name":"Gary R Lawson DDS",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -81.221056,
+    37.259259,
+    -81.221056,
+    37.259259
+],
+  "geometry": {"coordinates":[-81.221056,37.259259],"type":"Point"}
+}

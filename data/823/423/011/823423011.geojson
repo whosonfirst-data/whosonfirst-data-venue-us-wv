@@ -1,0 +1,71 @@
+{
+  "id": 823423011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.340379,39.279439,-80.340379,39.279439",
+    "geom:latitude":39.279439,
+    "geom:longitude":-80.340379,
+    "iso:country":"US",
+    "sg:address":"321 W Main St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 624 3133",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69HqnVDLPW5kDHy0r0LZEA_39.279439_-80.340379@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433578,
+    "wof:geomhash":"8472da397b33ebdc38acf7841467ffbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823423011
+        }
+    ],
+    "wof:id":823423011,
+    "wof:lastmodified":1463433578,
+    "wof:name":"Labyrinth Solutions",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "internet"
+    ]
+},
+  "bbox": [
+    -80.340379,
+    39.279439,
+    -80.340379,
+    39.279439
+],
+  "geometry": {"coordinates":[-80.340379,39.279439],"type":"Point"}
+}

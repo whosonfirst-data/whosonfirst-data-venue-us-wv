@@ -1,0 +1,67 @@
+{
+  "id": 823457053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.883324,39.206169,-79.883324,39.206169",
+    "geom:latitude":39.206169,
+    "geom:longitude":-79.883324,
+    "iso:country":"US",
+    "sg:address":"STATE ROUTE 92",
+    "sg:city":"Moatsville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 457 1787",
+    "sg:postcode":"26405",
+    "sg:province":"WV",
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_439j3cCR65TsikigXNv1z9_39.206169_-79.883324@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435139,
+    "wof:geomhash":"c12ab3549b369731899cc81df2c141ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823457053
+        }
+    ],
+    "wof:id":823457053,
+    "wof:lastmodified":1463435139,
+    "wof:name":"USPS - United States Post Office",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.883324,
+    39.206169,
+    -79.883324,
+    39.206169
+],
+  "geometry": {"coordinates":[-79.883324,39.206169],"type":"Point"}
+}

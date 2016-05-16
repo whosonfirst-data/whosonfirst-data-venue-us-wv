@@ -1,0 +1,73 @@
+{
+  "id": 823430171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.018032,38.436674,-82.018032,38.436674",
+    "geom:latitude":38.436674,
+    "geom:longitude":-82.018032,
+    "iso:country":"US",
+    "sg:address":"3 Davis Ct",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 562 5819",
+    "sg:postcode":"25526",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731829,
+        102083381,
+        85868321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PGvZOI6oJCYmcOmlbjL5R_38.436674_-82.018032@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433889,
+    "wof:geomhash":"9cc776a7a2cb97197fc123e6ef9a3b8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731829,
+            "neighbourhood_id":85868321,
+            "region_id":85688589,
+            "venue_id":823430171
+        }
+    ],
+    "wof:id":823430171,
+    "wof:lastmodified":1463433889,
+    "wof:name":"Putnam Medical Group Inc",
+    "wof:parent_id":85868321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -82.018032,
+    38.436674,
+    -82.018032,
+    38.436674
+],
+  "geometry": {"coordinates":[-82.01803200000001,38.436674],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823434225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.156976,39.481305,-80.156976,39.481305",
+    "geom:latitude":39.481305,
+    "geom:longitude":-80.156976,
+    "iso:country":"US",
+    "sg:address":"19 Oakwood Rd",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 6511",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41TnwXfTbP2nJ4xME2N9L2_39.481305_-80.156976@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434082,
+    "wof:geomhash":"5a183808ecdd915a12754450fe70b6ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823434225
+        }
+    ],
+    "wof:id":823434225,
+    "wof:lastmodified":1463434082,
+    "wof:name":"Jack S Koay Inc",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -80.156976,
+    39.481305,
+    -80.156976,
+    39.481305
+],
+  "geometry": {"coordinates":[-80.156976,39.481305],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 823453643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.963362,39.658703,-79.963362,39.658703",
+    "geom:latitude":39.658703,
+    "geom:longitude":-79.963362,
+    "iso:country":"US",
+    "sg:address":"1125 Van Voorhis Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/central/241933-peking-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 598 3333",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "asian",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78Pr7OMpBlfT5JWFEQ24m8_39.658703_-79.963362@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434955,
+    "wof:geomhash":"49cff797ed89517df723b034fe59b830",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823453643
+        }
+    ],
+    "wof:id":823453643,
+    "wof:lastmodified":1463434955,
+    "wof:name":"Peking House",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -79.963362,
+    39.658703,
+    -79.963362,
+    39.658703
+],
+  "geometry": {"coordinates":[-79.963362,39.658703],"type":"Point"}
+}

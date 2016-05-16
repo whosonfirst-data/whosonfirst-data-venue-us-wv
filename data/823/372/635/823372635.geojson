@@ -1,0 +1,69 @@
+{
+  "id": 823372635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.948709,38.536929,-81.948709,38.536929",
+    "geom:latitude":38.536929,
+    "geom:longitude":-81.948709,
+    "iso:country":"US",
+    "sg:address":"4527 Winfield Rd",
+    "sg:city":"Winfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 937 4976",
+    "sg:postcode":"25213",
+    "sg:province":"WV",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868323,
+        102083381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VjqFHSKpLZ6vBgIEPM9og_38.536929_-81.948709@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431308,
+    "wof:geomhash":"dc463d50a3b6d0a2ef2ef4dbf0ad089c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "neighbourhood_id":85868323,
+            "region_id":85688589,
+            "venue_id":823372635
+        }
+    ],
+    "wof:id":823372635,
+    "wof:lastmodified":1463431308,
+    "wof:name":"U-Haul",
+    "wof:parent_id":85868323,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -81.948709,
+    38.536929,
+    -81.948709,
+    38.536929
+],
+  "geometry": {"coordinates":[-81.94870899999999,38.536929],"type":"Point"}
+}

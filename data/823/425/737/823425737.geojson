@@ -1,0 +1,73 @@
+{
+  "id": 823425737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.50901,39.232261,-81.50901,39.232261",
+    "geom:latitude":39.232261,
+    "geom:longitude":-81.50901,
+    "iso:country":"US",
+    "sg:address":"158 Hayes St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 422 8606",
+    "sg:postcode":"26104",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automobile",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_412c3D1zfqWiQVt4AF4usa_39.232261_-81.509010@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433689,
+    "wof:geomhash":"6a1ba1df8fd6fcac0d47c266b4edda45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823425737
+        }
+    ],
+    "wof:id":823425737,
+    "wof:lastmodified":1463433689,
+    "wof:name":"Allan's Foreign Car Svc",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "electric"
+    ]
+},
+  "bbox": [
+    -81.50901,
+    39.232261,
+    -81.50901,
+    39.232261
+],
+  "geometry": {"coordinates":[-81.50901,39.232261],"type":"Point"}
+}

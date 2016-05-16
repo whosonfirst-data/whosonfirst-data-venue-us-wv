@@ -1,0 +1,71 @@
+{
+  "id": 823412585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.74061,38.359527,-81.74061,38.359527",
+    "geom:latitude":38.359527,
+    "geom:longitude":-81.74061,
+    "iso:country":"US",
+    "sg:address":"1221 Ohio Ave",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 2596",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "social"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VDjDxydYQfNNoFuuV2mIX_38.359527_-81.740610@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433124,
+    "wof:geomhash":"4dbcb037937b67ae50470265bc638662",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823412585
+        }
+    ],
+    "wof:id":823412585,
+    "wof:lastmodified":1463433124,
+    "wof:name":"American Diabetes Association",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "social"
+    ]
+},
+  "bbox": [
+    -81.74061,
+    38.359527,
+    -81.74061,
+    38.359527
+],
+  "geometry": {"coordinates":[-81.74061,38.359527],"type":"Point"}
+}

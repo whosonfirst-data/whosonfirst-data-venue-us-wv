@@ -1,0 +1,73 @@
+{
+  "id": 823429849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.631939,38.345223,-81.631939,38.345223",
+    "geom:latitude":38.345223,
+    "geom:longitude":-81.631939,
+    "iso:country":"US",
+    "sg:address":"109 Brooks St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 344 4787",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60TcTvkGVh7CSzQjjzgnYv_38.345223_-81.631939@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433878,
+    "wof:geomhash":"533092b39ef97bdf5e1e7b7dda250c06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823429849
+        }
+    ],
+    "wof:id":823429849,
+    "wof:lastmodified":1463433878,
+    "wof:name":"Michael S Cavender DDS",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -81.631939,
+    38.345223,
+    -81.631939,
+    38.345223
+],
+  "geometry": {"coordinates":[-81.631939,38.345223],"type":"Point"}
+}

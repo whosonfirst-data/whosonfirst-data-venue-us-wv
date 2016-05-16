@@ -1,0 +1,75 @@
+{
+  "id": 823455233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.992602,39.409231,-77.992602,39.409231",
+    "geom:latitude":39.409231,
+    "geom:longitude":-77.992602,
+    "iso:country":"US",
+    "sg:address":"3635 Winchester Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 267 3555",
+    "sg:postcode":"25405",
+    "sg:province":"WV",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tiVUMjFUmJqAvgluZlKaE_39.409231_-77.992602@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435067,
+    "wof:geomhash":"7a3baec359e3dd2a6578eb9e02abc54c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823455233
+        }
+    ],
+    "wof:id":823455233,
+    "wof:lastmodified":1463435067,
+    "wof:name":"Berkeley County Schools",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -77.992602,
+    39.409231,
+    -77.992602,
+    39.409231
+],
+  "geometry": {"coordinates":[-77.99260200000001,39.409231],"type":"Point"}
+}

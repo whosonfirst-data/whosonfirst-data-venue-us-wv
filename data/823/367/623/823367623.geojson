@@ -1,0 +1,71 @@
+{
+  "id": 823367623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.10114,37.366688,-81.10114,37.366688",
+    "geom:latitude":37.366688,
+    "geom:longitude":-81.10114,
+    "iso:country":"US",
+    "sg:address":"1401 Honaker Ave",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 4680",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eQerItMoUjMeaae9lvvre_37.366688_-81.101140@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431079,
+    "wof:geomhash":"d2fd5f3fd6cfc4e42f93e28428826c38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823367623
+        }
+    ],
+    "wof:id":823367623,
+    "wof:lastmodified":1463431079,
+    "wof:name":"Jim's Service Station",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -81.10114,
+    37.366688,
+    -81.10114,
+    37.366688
+],
+  "geometry": {"coordinates":[-81.10114,37.366688],"type":"Point"}
+}

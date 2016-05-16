@@ -1,0 +1,73 @@
+{
+  "id": 823382323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.217949,37.253674,-81.217949,37.253674",
+    "geom:latitude":37.253674,
+    "geom:longitude":-81.217949,
+    "iso:country":"US",
+    "sg:address":"412 Toledo St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 325 6890",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "assembly",
+        "fabricating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mm0ezpEHqmzai4IDzgxJc_37.253674_-81.217949@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431749,
+    "wof:geomhash":"264b343137b857e7093e4fe519eab146",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823382323
+        }
+    ],
+    "wof:id":823382323,
+    "wof:lastmodified":1463431749,
+    "wof:name":"Moore Contracting",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assembly",
+        "fabricating"
+    ]
+},
+  "bbox": [
+    -81.217949,
+    37.253674,
+    -81.217949,
+    37.253674
+],
+  "geometry": {"coordinates":[-81.217949,37.253674],"type":"Point"}
+}

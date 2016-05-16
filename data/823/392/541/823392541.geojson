@@ -1,0 +1,71 @@
+{
+  "id": 823392541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.687581,38.365642,-81.687581,38.365642",
+    "geom:latitude":38.365642,
+    "geom:longitude":-81.687581,
+    "iso:country":"US",
+    "sg:address":"501 1st Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 755 9018",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wqyh6iCVFKN11v3BDBb9z_38.365642_-81.687581@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432208,
+    "wof:geomhash":"7fd860498c496b5eebeaea520f20c86b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823392541
+        }
+    ],
+    "wof:id":823392541,
+    "wof:lastmodified":1463432208,
+    "wof:name":"Nitro Supermarket",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -81.687581,
+    38.365642,
+    -81.687581,
+    38.365642
+],
+  "geometry": {"coordinates":[-81.68758099999999,38.365642],"type":"Point"}
+}

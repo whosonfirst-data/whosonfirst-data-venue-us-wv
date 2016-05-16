@@ -1,0 +1,83 @@
+{
+  "id": 823420105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.881157,38.537537,-81.881157,38.537537",
+    "geom:latitude":38.537537,
+    "geom:longitude":-81.881157,
+    "iso:country":"US",
+    "sg:address":"128 Westland Ests",
+    "sg:city":"Winfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 586 3982",
+    "sg:postcode":"25213",
+    "sg:province":"WV",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731321,
+        102083381,
+        85868327,
+        85868329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0t2DwuOR52J55OXyabJMzu_38.537537_-81.881157@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433470,
+    "wof:geomhash":"ca1d8d2eae097b175ed320117907b79b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731321,
+            "neighbourhood_id":85868327,
+            "region_id":85688589,
+            "venue_id":823420105
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731321,
+            "neighbourhood_id":85868329,
+            "region_id":85688589,
+            "venue_id":823420105
+        }
+    ],
+    "wof:id":823420105,
+    "wof:lastmodified":1463433470,
+    "wof:name":"Bfs Rtail Cmmrcial Oprtons LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -81.881157,
+    38.537537,
+    -81.881157,
+    38.537537
+],
+  "geometry": {"coordinates":[-81.881157,38.537537],"type":"Point"}
+}

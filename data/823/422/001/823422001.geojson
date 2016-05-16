@@ -1,0 +1,71 @@
+{
+  "id": 823422001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.296816,38.4105,-82.296816,38.4105",
+    "geom:latitude":38.4105,
+    "geom:longitude":-82.296816,
+    "iso:country":"US",
+    "sg:address":"6479 Farmdale Rd",
+    "sg:city":"Barboursville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 736 6511",
+    "sg:postcode":"25504",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85816671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GoTYBMPHujCAS42kFw3uJ_38.410500_-82.296816@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433542,
+    "wof:geomhash":"6294ccbe52e6d51bf56bedb4383725a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85816671,
+            "region_id":85688589,
+            "venue_id":823422001
+        }
+    ],
+    "wof:id":823422001,
+    "wof:lastmodified":1463433542,
+    "wof:name":"Fred Abraham DDS",
+    "wof:parent_id":85816671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -82.296816,
+    38.4105,
+    -82.296816,
+    38.4105
+],
+  "geometry": {"coordinates":[-82.29681600000001,38.4105],"type":"Point"}
+}

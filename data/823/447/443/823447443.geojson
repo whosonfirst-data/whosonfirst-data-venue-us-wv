@@ -1,0 +1,73 @@
+{
+  "id": 823447443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.357782,38.519129,-81.357782,38.519129",
+    "geom:latitude":38.519129,
+    "geom:longitude":-81.357782,
+    "iso:country":"US",
+    "sg:address":"5 Bufflick Rd",
+    "sg:city":"Clendenin",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 548 5555",
+    "sg:postcode":"25045",
+    "sg:province":"WV",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00zmZtEQnowdzK0D0M3nOc_38.519129_-81.357782@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434710,
+    "wof:geomhash":"b22151c38f3ac6702f75e4efd8c91e95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823447443
+        }
+    ],
+    "wof:id":823447443,
+    "wof:lastmodified":1463434710,
+    "wof:name":"Shafer's Preowned Vehicles",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -81.357782,
+    38.519129,
+    -81.357782,
+    38.519129
+],
+  "geometry": {"coordinates":[-81.357782,38.519129],"type":"Point"}
+}

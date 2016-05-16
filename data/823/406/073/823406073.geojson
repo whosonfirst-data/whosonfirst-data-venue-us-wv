@@ -1,0 +1,71 @@
+{
+  "id": 823406073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.138142,38.841356,-82.138142,38.841356",
+    "geom:latitude":38.841356,
+    "geom:longitude":-82.138142,
+    "iso:country":"US",
+    "sg:address":"201 Viand St",
+    "sg:city":"Point Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 675 7386",
+    "sg:postcode":"25550",
+    "sg:province":"WV",
+    "sg:tags":[
+        "brake"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85983229,
+        102083675,
+        85824533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QFzWwRrJBQlwCtsWiC4GI_38.841356_-82.138142@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432860,
+    "wof:geomhash":"dde758dc49075a4cbc3a4dbd02484432",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "neighbourhood_id":85824533,
+            "region_id":85688485,
+            "venue_id":823406073
+        }
+    ],
+    "wof:id":823406073,
+    "wof:lastmodified":1463432860,
+    "wof:name":"Possum's Muffler & Brake",
+    "wof:parent_id":85824533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brake"
+    ]
+},
+  "bbox": [
+    -82.138142,
+    38.841356,
+    -82.138142,
+    38.841356
+],
+  "geometry": {"coordinates":[-82.138142,38.841356],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823372591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.465774,39.039469,-80.465774,39.039469",
+    "geom:latitude":39.039469,
+    "geom:longitude":-80.465774,
+    "iso:country":"US",
+    "sg:address":"349 E 3rd St",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 269 3066",
+    "sg:postcode":"26452",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731403,
+        102083339,
+        85808257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Fs92YTTqea60UwtkNggWV_39.039469_-80.465774@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431306,
+    "wof:geomhash":"38aee5d1bcb973c70ce13f2c7dc1352d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083339,
+            "locality_id":101731403,
+            "neighbourhood_id":85808257,
+            "region_id":85688589,
+            "venue_id":823372591
+        }
+    ],
+    "wof:id":823372591,
+    "wof:lastmodified":1463431306,
+    "wof:name":"Sesame Inn",
+    "wof:parent_id":85808257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -80.465774,
+    39.039469,
+    -80.465774,
+    39.039469
+],
+  "geometry": {"coordinates":[-80.465774,39.039469],"type":"Point"}
+}

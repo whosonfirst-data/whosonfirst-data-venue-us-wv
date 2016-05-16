@@ -1,0 +1,66 @@
+{
+  "id": 823420199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.465819,39.039504,-80.465819,39.039504",
+    "geom:latitude":39.039504,
+    "geom:longitude":-80.465819,
+    "iso:country":"US",
+    "sg:address":"227 E 3rd St",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 269 6418",
+    "sg:postcode":"26452",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731403,
+        102083339,
+        85808257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4j93OiXsyLAYqORnwmJhEe_39.039504_-80.465819@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433473,
+    "wof:geomhash":"8b9e427bb84b574fe950fb825d3dace3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083339,
+            "locality_id":101731403,
+            "neighbourhood_id":85808257,
+            "region_id":85688589,
+            "venue_id":823420199
+        }
+    ],
+    "wof:id":823420199,
+    "wof:lastmodified":1463433473,
+    "wof:name":"Pantry Store",
+    "wof:parent_id":85808257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.465819,
+    39.039504,
+    -80.465819,
+    39.039504
+],
+  "geometry": {"coordinates":[-80.465819,39.039504],"type":"Point"}
+}

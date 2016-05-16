@@ -1,0 +1,75 @@
+{
+  "id": 823382717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.627618,38.345983,-81.627618,38.345983",
+    "geom:latitude":38.345983,
+    "geom:longitude":-81.627618,
+    "iso:country":"US",
+    "sg:address":"301 Morris St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 5210",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6j2m81TZtB4BwHQ7FR2nOh_38.345983_-81.627618@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431764,
+    "wof:geomhash":"b2bf99582d50c982d3cf2d992e3d3f96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823382717
+        }
+    ],
+    "wof:id":823382717,
+    "wof:lastmodified":1463431764,
+    "wof:name":"Physical Therapy Assoc",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -81.627618,
+    38.345983,
+    -81.627618,
+    38.345983
+],
+  "geometry": {"coordinates":[-81.627618,38.345983],"type":"Point"}
+}

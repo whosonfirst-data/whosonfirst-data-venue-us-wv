@@ -1,0 +1,71 @@
+{
+  "id": 823382605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.981454,38.616612,-81.981454,38.616612",
+    "geom:latitude":38.616612,
+    "geom:longitude":-81.981454,
+    "iso:country":"US",
+    "sg:address":"3234 High St",
+    "sg:city":"Buffalo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 937 4110",
+    "sg:postcode":"25033",
+    "sg:province":"WV",
+    "sg:tags":[
+        "personal",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868323,
+        102083381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eNBBC2jAwjzwrUSOH3RAm_38.616612_-81.981454@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431760,
+    "wof:geomhash":"c92ba9a16f78f6339dfa5056e8b7cf21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "neighbourhood_id":85868323,
+            "region_id":85688589,
+            "venue_id":823382605
+        }
+    ],
+    "wof:id":823382605,
+    "wof:lastmodified":1463431760,
+    "wof:name":"Country Villa Care Inc",
+    "wof:parent_id":85868323,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "home"
+    ]
+},
+  "bbox": [
+    -81.981454,
+    38.616612,
+    -81.981454,
+    38.616612
+],
+  "geometry": {"coordinates":[-81.981454,38.616612],"type":"Point"}
+}

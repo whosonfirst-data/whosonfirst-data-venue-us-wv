@@ -1,0 +1,71 @@
+{
+  "id": 823406495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.645234,38.367981,-81.645234,38.367981",
+    "geom:latitude":38.367981,
+    "geom:longitude":-81.645234,
+    "iso:country":"US",
+    "sg:address":"894 Poplar Rd",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 344 4862",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "development"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YHSYSPcbC90GKzupyy1F1_38.367981_-81.645234@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432880,
+    "wof:geomhash":"8dbde8254bcbe358aad387d909c71a59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823406495
+        }
+    ],
+    "wof:id":823406495,
+    "wof:lastmodified":1463432880,
+    "wof:name":"Pison",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development"
+    ]
+},
+  "bbox": [
+    -81.645234,
+    38.367981,
+    -81.645234,
+    38.367981
+],
+  "geometry": {"coordinates":[-81.645234,38.367981],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 823384299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.709492,40.076569,-80.709492,40.076569",
+    "geom:latitude":40.076569,
+    "geom:longitude":-80.709492,
+    "iso:country":"US",
+    "sg:address":"1 Bank St",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 234 9000",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "company",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85820833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bWriV6hsGZ5XwSmRzts37_40.076569_-80.709492@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431820,
+    "wof:geomhash":"adcdc8fc2b5c2c99e99babbb781cd220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85820833,
+            "region_id":85688589,
+            "venue_id":823384299
+        }
+    ],
+    "wof:id":823384299,
+    "wof:lastmodified":1463431820,
+    "wof:name":"Wes Banco Inc",
+    "wof:parent_id":85820833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding"
+    ]
+},
+  "bbox": [
+    -80.709492,
+    40.076569,
+    -80.709492,
+    40.076569
+],
+  "geometry": {"coordinates":[-80.709492,40.076569],"type":"Point"}
+}

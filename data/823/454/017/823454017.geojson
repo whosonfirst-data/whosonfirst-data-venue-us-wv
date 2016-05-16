@@ -1,0 +1,76 @@
+{
+  "id": 823454017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.137647,38.84283,-82.137647,38.84283",
+    "geom:latitude":38.84283,
+    "geom:longitude":-82.137647,
+    "iso:country":"US",
+    "sg:address":"420 Viand St",
+    "sg:city":"Point Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/lewis/80469-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 675 5858",
+    "sg:postcode":"25550",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85983229,
+        102083675,
+        85824533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MHPtrYHt3TQ10dNlF73tl_38.843414_-82.137349@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434991,
+    "wof:geomhash":"898d769fd952296359353e95b294a44a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "neighbourhood_id":85824533,
+            "region_id":85688485,
+            "venue_id":823454017
+        }
+    ],
+    "wof:id":823454017,
+    "wof:lastmodified":1463434991,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85824533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -82.137647,
+    38.84283,
+    -82.137647,
+    38.84283
+],
+  "geometry": {"coordinates":[-82.137647,38.84283],"type":"Point"}
+}

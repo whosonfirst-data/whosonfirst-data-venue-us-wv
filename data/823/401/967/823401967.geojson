@@ -1,0 +1,71 @@
+{
+  "id": 823401967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.562392,40.613377,-80.562392,40.613377",
+    "geom:latitude":40.613377,
+    "geom:longitude":-80.562392,
+    "iso:country":"US",
+    "sg:address":"507 Carolina Ave",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 5008",
+    "sg:postcode":"26034",
+    "sg:province":"WV",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19filWEIUZSDyOWSlkKIBZ_40.613377_-80.562392@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432670,
+    "wof:geomhash":"4940e6f0e14547126ce0128d9fd26364",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823401967
+        }
+    ],
+    "wof:id":823401967,
+    "wof:lastmodified":1463432670,
+    "wof:name":"Panhandle Pizza",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -80.562392,
+    40.613377,
+    -80.562392,
+    40.613377
+],
+  "geometry": {"coordinates":[-80.562392,40.613377],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823398499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.648459,38.361605,-81.648459,38.361605",
+    "geom:latitude":38.361605,
+    "geom:longitude":-81.648459,
+    "iso:country":"US",
+    "sg:address":"404 Virginia St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 5202",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ILrLaPD6uX4zGBIWMIBLx_38.361605_-81.648459@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432510,
+    "wof:geomhash":"fbafeecb9311e5f95dec590d5fe537b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823398499
+        }
+    ],
+    "wof:id":823398499,
+    "wof:lastmodified":1463432510,
+    "wof:name":"Fraternal Order Of Eagles",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -81.648459,
+    38.361605,
+    -81.648459,
+    38.361605
+],
+  "geometry": {"coordinates":[-81.648459,38.361605],"type":"Point"}
+}

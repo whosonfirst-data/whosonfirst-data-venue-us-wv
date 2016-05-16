@@ -1,0 +1,71 @@
+{
+  "id": 823387031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.531736,40.268156,-80.531736,40.268156",
+    "geom:latitude":40.268156,
+    "geom:longitude":-80.531736,
+    "iso:country":"US",
+    "sg:address":"1544 Washington Pike",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 3734",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66SBVthX3MF4bNe43km1jx_40.268156_-80.531736@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431930,
+    "wof:geomhash":"09b0754123dc14661bbaa15d1bbe6924",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823387031
+        }
+    ],
+    "wof:id":823387031,
+    "wof:lastmodified":1463431930,
+    "wof:name":"Paradise Lounge",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -80.531736,
+    40.268156,
+    -80.531736,
+    40.268156
+],
+  "geometry": {"coordinates":[-80.531736,40.268156],"type":"Point"}
+}

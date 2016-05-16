@@ -1,0 +1,72 @@
+{
+  "id": 823457237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.984767,39.630491,-79.984767,39.630491",
+    "geom:latitude":39.630491,
+    "geom:longitude":-79.984767,
+    "iso:country":"US",
+    "sg:address":"40 Commerce Dr",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Science Facility",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 284 9000",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "development",
+        "laboratories-research"
+    ],
+    "sg:website":"http://www.saic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818601,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66aT38a7Z0kTbe4soczDTt_39.630491_-79.984767@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435150,
+    "wof:geomhash":"fae4256536e46be2f3802e2505fb8435",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85818601,
+            "region_id":85688589,
+            "venue_id":823457237
+        }
+    ],
+    "wof:id":823457237,
+    "wof:lastmodified":1463435150,
+    "wof:name":"Saic",
+    "wof:parent_id":85818601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "laboratories-research"
+    ]
+},
+  "bbox": [
+    -79.984767,
+    39.630491,
+    -79.984767,
+    39.630491
+],
+  "geometry": {"coordinates":[-79.98476700000001,39.630491],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823446373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.694113,38.36521,-81.694113,38.36521",
+    "geom:latitude":38.36521,
+    "geom:longitude":-81.694113,
+    "iso:country":"US",
+    "sg:address":"209 D St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 8273",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "audio",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59qakAtdWHsDWo2cNiVW2M_38.365210_-81.694113@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434668,
+    "wof:geomhash":"c5b081d815c7aec29ce2288672764611",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823446373
+        }
+    ],
+    "wof:id":823446373,
+    "wof:lastmodified":1463434668,
+    "wof:name":"VMI Productions",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "audio",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -81.694113,
+    38.36521,
+    -81.694113,
+    38.36521
+],
+  "geometry": {"coordinates":[-81.694113,38.36521],"type":"Point"}
+}

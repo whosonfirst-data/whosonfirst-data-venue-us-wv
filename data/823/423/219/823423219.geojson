@@ -1,0 +1,71 @@
+{
+  "id": 823423219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.096098,37.373178,-81.096098,37.373178",
+    "geom:latitude":37.373178,
+    "geom:longitude":-81.096098,
+    "iso:country":"US",
+    "sg:address":"911 Reynolds Ave",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 4223",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uvl6yx5ruhJuinykiHtxO_37.373178_-81.096098@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433585,
+    "wof:geomhash":"caea596a885c26b2186fc624e75c52e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823423219
+        }
+    ],
+    "wof:id":823423219,
+    "wof:lastmodified":1463433585,
+    "wof:name":"Fantasy Fashion Hair Salon",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.096098,
+    37.373178,
+    -81.096098,
+    37.373178
+],
+  "geometry": {"coordinates":[-81.096098,37.373178],"type":"Point"}
+}

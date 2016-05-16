@@ -1,0 +1,69 @@
+{
+  "id": 823447525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.105235,38.052547,-81.105235,38.052547",
+    "geom:latitude":38.052547,
+    "geom:longitude":-81.105235,
+    "iso:country":"US",
+    "sg:address":"100 High St",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 574 0455",
+    "sg:postcode":"25840",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TIep9BFVV82GQaP9svElU_38.052547_-81.105235@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434713,
+    "wof:geomhash":"cc69e06433e5647b153e6337722d3861",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823447525
+        }
+    ],
+    "wof:id":823447525,
+    "wof:lastmodified":1463434713,
+    "wof:name":"Daniel's Fresh Market",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -81.105235,
+    38.052547,
+    -81.105235,
+    38.052547
+],
+  "geometry": {"coordinates":[-81.10523499999999,38.052547],"type":"Point"}
+}

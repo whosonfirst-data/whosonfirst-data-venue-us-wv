@@ -1,0 +1,80 @@
+{
+  "id": 823371555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.878963,37.677249,-80.878963,37.677249",
+    "geom:latitude":37.677249,
+    "geom:longitude":-80.878963,
+    "iso:country":"US",
+    "sg:address":"607 Fayette St",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 465 3210",
+    "sg:postcode":"25951",
+    "sg:province":"WV",
+    "sg:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731641,
+        102083407,
+        85804037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42ZRcqwA948blt7eAmEuj6_37.677249_-80.878963@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431259,
+    "wof:geomhash":"d98ff19f03dab814d0292c5ac3363f07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083407,
+            "locality_id":101731641,
+            "neighbourhood_id":85804037,
+            "region_id":85688589,
+            "venue_id":823371555
+        }
+    ],
+    "wof:id":823371555,
+    "wof:lastmodified":1463431259,
+    "wof:name":"Fresenius Medical Care Oak Hl",
+    "wof:parent_id":85804037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ]
+},
+  "bbox": [
+    -80.878963,
+    37.677249,
+    -80.878963,
+    37.677249
+],
+  "geometry": {"coordinates":[-80.878963,37.677249],"type":"Point"}
+}

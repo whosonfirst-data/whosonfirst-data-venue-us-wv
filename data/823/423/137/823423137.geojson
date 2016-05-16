@@ -1,0 +1,75 @@
+{
+  "id": 823423137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.552753,39.30805,-81.552753,39.30805",
+    "geom:latitude":39.30805,
+    "geom:longitude":-81.552753,
+    "iso:country":"US",
+    "sg:address":"55 9th St",
+    "sg:city":"Vienna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 295 9541",
+    "sg:postcode":"26105",
+    "sg:province":"WV",
+    "sg:tags":[
+        "product",
+        "asphalt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731685,
+        102083343,
+        85819937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21Km4GXvR060bd3OFNpJyf_39.308050_-81.552753@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433582,
+    "wof:geomhash":"d108d425ba848e3466762afb72fe85b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731685,
+            "neighbourhood_id":85819937,
+            "region_id":85688589,
+            "venue_id":823423137
+        }
+    ],
+    "wof:id":823423137,
+    "wof:lastmodified":1463433582,
+    "wof:name":"Asphalt Maintenance",
+    "wof:parent_id":85819937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "asphalt"
+    ]
+},
+  "bbox": [
+    -81.552753,
+    39.30805,
+    -81.552753,
+    39.30805
+],
+  "geometry": {"coordinates":[-81.552753,39.30805],"type":"Point"}
+}

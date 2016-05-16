@@ -1,0 +1,71 @@
+{
+  "id": 823427603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.575272,40.609527,-80.575272,40.609527",
+    "geom:latitude":40.609527,
+    "geom:longitude":-80.575272,
+    "iso:country":"US",
+    "sg:address":"1 Carolina Ave",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 3400",
+    "sg:postcode":"26034",
+    "sg:province":"WV",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5K2Gu3RpLLOW2blrHuWi1Y_40.609527_-80.575272@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433774,
+    "wof:geomhash":"1ab5e752518e2353482a53f72100b5b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823427603
+        }
+    ],
+    "wof:id":823427603,
+    "wof:lastmodified":1463433774,
+    "wof:name":"Linger Law Office",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -80.575272,
+    40.609527,
+    -80.575272,
+    40.609527
+],
+  "geometry": {"coordinates":[-80.575272,40.609527],"type":"Point"}
+}

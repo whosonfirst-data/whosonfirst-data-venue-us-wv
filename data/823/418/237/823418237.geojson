@@ -1,0 +1,75 @@
+{
+  "id": 823418237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.135313,37.736006,-81.135313,37.736006",
+    "geom:latitude":37.736006,
+    "geom:longitude":-81.135313,
+    "iso:country":"US",
+    "sg:address":"202 Oak St",
+    "sg:city":"Daniels",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 253 8888",
+    "sg:postcode":"25832",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fShgDiezNEiu142lOPrdX_37.736006_-81.135313@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433391,
+    "wof:geomhash":"8c3305119e1717ef8d68ec63ab509840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823418237
+        }
+    ],
+    "wof:id":823418237,
+    "wof:lastmodified":1463433391,
+    "wof:name":"Jefford's Painting & Drywall",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.135313,
+    37.736006,
+    -81.135313,
+    37.736006
+],
+  "geometry": {"coordinates":[-81.135313,37.736006],"type":"Point"}
+}

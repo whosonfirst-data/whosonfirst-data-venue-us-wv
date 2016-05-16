@@ -1,0 +1,73 @@
+{
+  "id": 823450073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.082089,37.370171,-81.082089,37.370171",
+    "geom:latitude":37.370171,
+    "geom:longitude":-81.082089,
+    "iso:country":"US",
+    "sg:address":"225 Thorn St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 7932",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Jtt27a7GLKVU6Yfto3Wdh_37.370171_-81.082089@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434819,
+    "wof:geomhash":"e737b07b8302d0b8267093d70dd80205",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823450073
+        }
+    ],
+    "wof:id":823450073,
+    "wof:lastmodified":1463434819,
+    "wof:name":"White Motor Co",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -81.082089,
+    37.370171,
+    -81.082089,
+    37.370171
+],
+  "geometry": {"coordinates":[-81.082089,37.370171],"type":"Point"}
+}

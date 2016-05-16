@@ -1,0 +1,71 @@
+{
+  "id": 823417437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.944972,38.454569,-81.944972,38.454569",
+    "geom:latitude":38.454569,
+    "geom:longitude":-81.944972,
+    "iso:country":"US",
+    "sg:address":"75 Scott Dr",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 757 0074",
+    "sg:postcode":"25526",
+    "sg:province":"WV",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731829,
+        102083381,
+        85868321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1T6uYEJTLfBbMigWgUc0fc_38.454569_-81.944972@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433359,
+    "wof:geomhash":"0765377fd58f31173dfba2eacc5f827a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731829,
+            "neighbourhood_id":85868321,
+            "region_id":85688589,
+            "venue_id":823417437
+        }
+    ],
+    "wof:id":823417437,
+    "wof:lastmodified":1463433359,
+    "wof:name":"Moutaineer Moving System",
+    "wof:parent_id":85868321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -81.944972,
+    38.454569,
+    -81.944972,
+    38.454569
+],
+  "geometry": {"coordinates":[-81.94497200000001,38.454569],"type":"Point"}
+}

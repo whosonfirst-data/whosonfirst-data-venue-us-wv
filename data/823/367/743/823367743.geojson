@@ -1,0 +1,71 @@
+{
+  "id": 823367743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.441506,37.801164,-80.441506,37.801164",
+    "geom:latitude":37.801164,
+    "geom:longitude":-80.441506,
+    "iso:country":"US",
+    "sg:address":"206 N Lee St",
+    "sg:city":"Lewisburg",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 647 6450",
+    "sg:postcode":"24901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "combined"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XYHaEijIwGncEnr8Scu04_37.801164_-80.441506@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431084,
+    "wof:geomhash":"e551240cb63774f3362c6ed145362aae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823367743
+        }
+    ],
+    "wof:id":823367743,
+    "wof:lastmodified":1463431084,
+    "wof:name":"Lewisburg Junior High School",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "combined"
+    ]
+},
+  "bbox": [
+    -80.441506,
+    37.801164,
+    -80.441506,
+    37.801164
+],
+  "geometry": {"coordinates":[-80.441506,37.801164],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 823418183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.524876,39.295216,-81.524876,39.295216",
+    "geom:latitude":39.295216,
+    "geom:longitude":-81.524876,
+    "iso:country":"US",
+    "sg:address":"4441 Rosemar Rd",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 424 7172",
+    "sg:postcode":"26104",
+    "sg:province":"WV",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "sg:website":"www.gentiva.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818799,
+        102083343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JDsLEzTUg0ZbxnlqT2BSd_39.295216_-81.524876@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433388,
+    "wof:geomhash":"e0931c759a19459ebd5f6d5202c13809",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "neighbourhood_id":85818799,
+            "region_id":85688589,
+            "venue_id":823418183
+        }
+    ],
+    "wof:id":823418183,
+    "wof:lastmodified":1463433388,
+    "wof:name":"Gentiva Health Svc",
+    "wof:parent_id":85818799,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -81.524876,
+    39.295216,
+    -81.524876,
+    39.295216
+],
+  "geometry": {"coordinates":[-81.52487600000001,39.295216],"type":"Point"}
+}

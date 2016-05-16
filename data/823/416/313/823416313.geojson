@@ -1,0 +1,73 @@
+{
+  "id": 823416313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.297892,37.796205,-80.297892,37.796205",
+    "geom:latitude":37.796205,
+    "geom:longitude":-80.297892,
+    "iso:country":"US",
+    "sg:address":"108 E Main St",
+    "sg:city":"White Slphr Spgs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 536 4500",
+    "sg:postcode":"24986",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6D87Wbd0JDEYula1gAzRqh_37.796205_-80.297892@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433295,
+    "wof:geomhash":"e3db5868bb99619541c6177bdcf31f6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823416313
+        }
+    ],
+    "wof:id":823416313,
+    "wof:lastmodified":1463433295,
+    "wof:name":"White Sulplhur Springs Svc",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -80.297892,
+    37.796205,
+    -80.297892,
+    37.796205
+],
+  "geometry": {"coordinates":[-80.297892,37.796205],"type":"Point"}
+}

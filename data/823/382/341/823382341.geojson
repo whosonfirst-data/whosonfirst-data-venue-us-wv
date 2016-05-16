@@ -1,0 +1,73 @@
+{
+  "id": 823382341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.45456,37.784488,-80.45456,37.784488",
+    "geom:latitude":37.784488,
+    "geom:longitude":-80.45456,
+    "iso:country":"US",
+    "sg:address":"102 Goheen St",
+    "sg:city":"Lewisburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 647 9958",
+    "sg:postcode":"24901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "colonic",
+        "irrigation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NT3gnryJQvZ3PGXbBUMr6_37.784488_-80.454560@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431749,
+    "wof:geomhash":"2150baad9daac791d645f7545441cd8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823382341
+        }
+    ],
+    "wof:id":823382341,
+    "wof:lastmodified":1463431749,
+    "wof:name":"Internal Health",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "colonic",
+        "irrigation"
+    ]
+},
+  "bbox": [
+    -80.45456,
+    37.784488,
+    -80.45456,
+    37.784488
+],
+  "geometry": {"coordinates":[-80.45456,37.784488],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 823444913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.805881,38.384876,-81.805881,38.384876",
+    "geom:latitude":38.384876,
+    "geom:longitude":-81.805881,
+    "iso:country":"US",
+    "sg:address":"2301 Maccorkle Ave",
+    "sg:city":"St Albans",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 727 0242",
+    "sg:postcode":"25177",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wooden",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731773,
+        102083335,
+        85840775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2anGjYLDg5lk9Vgvvuh0g5_38.384876_-81.805881@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434589,
+    "wof:geomhash":"9e764dc682950f09253b1018981707ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731773,
+            "neighbourhood_id":85840775,
+            "region_id":85688589,
+            "venue_id":823444913
+        }
+    ],
+    "wof:id":823444913,
+    "wof:lastmodified":1463434589,
+    "wof:name":"Building Center",
+    "wof:parent_id":85840775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wooden",
+        "storage"
+    ]
+},
+  "bbox": [
+    -81.805881,
+    38.384876,
+    -81.805881,
+    38.384876
+],
+  "geometry": {"coordinates":[-81.805881,38.384876],"type":"Point"}
+}

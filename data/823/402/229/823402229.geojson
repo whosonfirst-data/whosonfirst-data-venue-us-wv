@@ -1,0 +1,66 @@
+{
+  "id": 823402229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.54428,39.238844,-81.54428,39.238844",
+    "geom:latitude":39.238844,
+    "geom:longitude":-81.54428,
+    "iso:country":"US",
+    "sg:address":"1920 Blizzard Dr",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 422 0921",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uU4adpk8cM70wvOCDgjiN_39.238844_-81.544280@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432684,
+    "wof:geomhash":"0b18f5d0062a3f7985dd898c3264d093",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823402229
+        }
+    ],
+    "wof:id":823402229,
+    "wof:lastmodified":1463432684,
+    "wof:name":"Parkersburg Floral Co",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.54428,
+    39.238844,
+    -81.54428,
+    39.238844
+],
+  "geometry": {"coordinates":[-81.54428,39.238844],"type":"Point"}
+}

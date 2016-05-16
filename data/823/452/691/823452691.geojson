@@ -1,0 +1,76 @@
+{
+  "id": 823452691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.047859,39.359686,-78.047859,39.359686",
+    "geom:latitude":39.359686,
+    "geom:longitude":-78.047859,
+    "iso:country":"US",
+    "sg:address":"33 True Apple Way",
+    "sg:city":"Inwood",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/shenandoah/80465-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 229 2121",
+    "sg:postcode":"25428",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1llyJ4TBXwi9JMbD9ArMKJ_39.359686_-78.047859@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434916,
+    "wof:geomhash":"98e18b4947ff61fb4ef679a6b6385c77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823452691
+        }
+    ],
+    "wof:id":823452691,
+    "wof:lastmodified":1463434916,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -78.047859,
+    39.359686,
+    -78.047859,
+    39.359686
+],
+  "geometry": {"coordinates":[-78.047859,39.359686],"type":"Point"}
+}

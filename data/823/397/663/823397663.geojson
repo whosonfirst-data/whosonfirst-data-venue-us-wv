@@ -1,0 +1,71 @@
+{
+  "id": 823397663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.598634,38.329357,-81.598634,38.329357",
+    "geom:latitude":38.329357,
+    "geom:longitude":-81.598634,
+    "iso:country":"US",
+    "sg:address":"3410 Noyes Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 344 0799",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FMb1qnyS9fpNJiQvL2wEs_38.329357_-81.598634@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432465,
+    "wof:geomhash":"fcdbc0f5aad365b992a54df0254f9c0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823397663
+        }
+    ],
+    "wof:id":823397663,
+    "wof:lastmodified":1463432465,
+    "wof:name":"Skin Cellar",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.598634,
+    38.329357,
+    -81.598634,
+    38.329357
+],
+  "geometry": {"coordinates":[-81.598634,38.329357],"type":"Point"}
+}

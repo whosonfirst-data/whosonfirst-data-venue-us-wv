@@ -1,0 +1,78 @@
+{
+  "id": 823453393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.85863,39.655333,-80.85863,39.655333",
+    "geom:latitude":39.655333,
+    "geom:longitude":-80.85863,
+    "iso:country":"US",
+    "sg:address":"1142 S Bridge St",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/new-martinsville/139696-sicilias-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 1911",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Zg6yXon2u8boLeYmEnwoQ_39.655333_-80.858630@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434945,
+    "wof:geomhash":"79dc030ec75d515b53a6ded9156ab231",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823453393
+        }
+    ],
+    "wof:id":823453393,
+    "wof:lastmodified":1463434945,
+    "wof:name":"Sicilia's Pizzeria",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -80.85863,
+    39.655333,
+    -80.85863,
+    39.655333
+],
+  "geometry": {"coordinates":[-80.85863000000001,39.655333],"type":"Point"}
+}

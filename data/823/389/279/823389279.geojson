@@ -1,0 +1,73 @@
+{
+  "id": 823389279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.682317,38.362747,-81.682317,38.362747",
+    "geom:latitude":38.362747,
+    "geom:longitude":-81.682317,
+    "iso:country":"US",
+    "sg:address":"433 Highland Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 746 1065",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xG4ZNGCS1dkVO1mkjDvss_38.362747_-81.682317@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432041,
+    "wof:geomhash":"3268ff149e86ae05ac71367d75ca77c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823389279
+        }
+    ],
+    "wof:id":823389279,
+    "wof:lastmodified":1463432041,
+    "wof:name":"Ej Properties of WV LLC",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -81.682317,
+    38.362747,
+    -81.682317,
+    38.362747
+],
+  "geometry": {"coordinates":[-81.682317,38.362747],"type":"Point"}
+}

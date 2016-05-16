@@ -1,0 +1,73 @@
+{
+  "id": 823411327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.623653,38.351256,-81.623653,38.351256",
+    "geom:latitude":38.351256,
+    "geom:longitude":-81.623653,
+    "iso:country":"US",
+    "sg:address":"901 Brooks St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 346 0601",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "steel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vmRagdRLyi8fxluvodG75_38.351256_-81.623653@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433078,
+    "wof:geomhash":"da9dc463c7a7ee1a85e4e9820c2e4c65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823411327
+        }
+    ],
+    "wof:id":823411327,
+    "wof:lastmodified":1463433078,
+    "wof:name":"West Virginia Steel",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel"
+    ]
+},
+  "bbox": [
+    -81.623653,
+    38.351256,
+    -81.623653,
+    38.351256
+],
+  "geometry": {"coordinates":[-81.623653,38.351256],"type":"Point"}
+}

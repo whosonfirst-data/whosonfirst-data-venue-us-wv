@@ -1,0 +1,71 @@
+{
+  "id": 823366293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.631814,40.088781,-80.631814,40.088781",
+    "geom:latitude":40.088781,
+    "geom:longitude":-80.631814,
+    "iso:country":"US",
+    "sg:address":"196 Peters Run Rd",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 242 3100",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823177,
+        102082621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36o9POoG8nlKNJ0CSCGJ4b_40.088781_-80.631814@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431031,
+    "wof:geomhash":"1204cbd0e017fe0a165e94ac25262990",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082621,
+            "neighbourhood_id":85823177,
+            "region_id":85688589,
+            "venue_id":823366293
+        }
+    ],
+    "wof:id":823366293,
+    "wof:lastmodified":1463431031,
+    "wof:name":"Savage Construction Co",
+    "wof:parent_id":85823177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.631814,
+    40.088781,
+    -80.631814,
+    40.088781
+],
+  "geometry": {"coordinates":[-80.63181400000001,40.088781],"type":"Point"}
+}

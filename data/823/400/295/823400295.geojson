@@ -1,0 +1,80 @@
+{
+  "id": 823400295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.575413,38.333542,-81.575413,38.333542",
+    "geom:latitude":38.333542,
+    "geom:longitude":-81.575413,
+    "iso:country":"US",
+    "sg:address":"1000 Kennawa Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 3200",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "employment",
+        "center",
+        "corps"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YguzmTaTAsdmkk3Jby9n9_38.333542_-81.575413@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432599,
+    "wof:geomhash":"6c2802f2b6892ce7412e237c3069d02b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823400295
+        }
+    ],
+    "wof:id":823400295,
+    "wof:lastmodified":1463432599,
+    "wof:name":"Charleston Job Corps Center",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "employment",
+        "center",
+        "corps"
+    ]
+},
+  "bbox": [
+    -81.575413,
+    38.333542,
+    -81.575413,
+    38.333542
+],
+  "geometry": {"coordinates":[-81.575413,38.333542],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 823439239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.858481,39.667136,-79.858481,39.667136",
+    "geom:latitude":39.667136,
+    "geom:longitude":-79.858481,
+    "iso:country":"US",
+    "sg:address":"11 Mont Chateau Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 598 4172",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732105,
+        102082587,
+        85807831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TsaaJw5PMI94Mn1JU0YjQ_39.667136_-79.858481@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434334,
+    "wof:geomhash":"c9ef7015e640f861a84b3b48298349cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101732105,
+            "neighbourhood_id":85807831,
+            "region_id":85688589,
+            "venue_id":823439239
+        }
+    ],
+    "wof:id":823439239,
+    "wof:lastmodified":1463434334,
+    "wof:name":"Ruby Memorial Hospital",
+    "wof:parent_id":85807831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -79.858481,
+    39.667136,
+    -79.858481,
+    39.667136
+],
+  "geometry": {"coordinates":[-79.858481,39.667136],"type":"Point"}
+}

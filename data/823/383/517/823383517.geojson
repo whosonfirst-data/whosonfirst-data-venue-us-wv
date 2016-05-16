@@ -1,0 +1,73 @@
+{
+  "id": 823383517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.262582,37.315691,-81.262582,37.315691",
+    "geom:latitude":37.315691,
+    "geom:longitude":-81.262582,
+    "iso:country":"US",
+    "sg:address":"112 Gypsum St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 589 5392",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OJi1sC9vSnOsbPS1Vnds4_37.315691_-81.262582@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431793,
+    "wof:geomhash":"6ff141f39e22a90fe423c31c6dc8f61a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823383517
+        }
+    ],
+    "wof:id":823383517,
+    "wof:lastmodified":1463431793,
+    "wof:name":"Shoda Construction",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.262582,
+    37.315691,
+    -81.262582,
+    37.315691
+],
+  "geometry": {"coordinates":[-81.26258199999999,37.315691],"type":"Point"}
+}

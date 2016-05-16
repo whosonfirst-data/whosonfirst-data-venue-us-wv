@@ -1,0 +1,81 @@
+{
+  "id": 823373665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.163433,37.775793,-81.163433,37.775793",
+    "geom:latitude":37.775793,
+    "geom:longitude":-81.163433,
+    "iso:country":"US",
+    "sg:address":"418 Myers Ave",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 253 2292",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "track",
+        "operation",
+        "racing",
+        "or",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Lgau0ToiE4o2xeygcslra_37.775793_-81.163433@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431347,
+    "wof:geomhash":"d026f2c90cdf4aaa8a5f850aa956ef29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823373665
+        }
+    ],
+    "wof:id":823373665,
+    "wof:lastmodified":1463431347,
+    "wof:name":"Randy Boley Automotive Machine",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "track",
+        "operation",
+        "racing",
+        "or",
+        "general"
+    ]
+},
+  "bbox": [
+    -81.163433,
+    37.775793,
+    -81.163433,
+    37.775793
+],
+  "geometry": {"coordinates":[-81.163433,37.775793],"type":"Point"}
+}

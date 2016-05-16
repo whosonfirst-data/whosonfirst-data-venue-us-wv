@@ -1,0 +1,71 @@
+{
+  "id": 823436633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.559831,40.61489,-80.559831,40.61489",
+    "geom:latitude":40.61489,
+    "geom:longitude":-80.559831,
+    "iso:country":"US",
+    "sg:address":"663 Carolina Ave",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 3098",
+    "sg:postcode":"26034",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1F15T4c1j7roebEzzIjhHF_40.614890_-80.559831@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434204,
+    "wof:geomhash":"6bf2a63e1fe1bba37f55fe7adc19892c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823436633
+        }
+    ],
+    "wof:id":823436633,
+    "wof:lastmodified":1463434204,
+    "wof:name":"Jerry N Linger DDS",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -80.559831,
+    40.61489,
+    -80.559831,
+    40.61489
+],
+  "geometry": {"coordinates":[-80.559831,40.61489],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823368277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.085814,37.370191,-81.085814,37.370191",
+    "geom:latitude":37.370191,
+    "geom:longitude":-81.085814,
+    "iso:country":"US",
+    "sg:address":"114 Mercer St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 2651",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CQH8zmSaHP95kPExSgK1c_37.370191_-81.085814@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431108,
+    "wof:geomhash":"0351a4276db016b51e06c5990bff2d51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823368277
+        }
+    ],
+    "wof:id":823368277,
+    "wof:lastmodified":1463431108,
+    "wof:name":"Wheby's TV Sales & Svc",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [
+    -81.085814,
+    37.370191,
+    -81.085814,
+    37.370191
+],
+  "geometry": {"coordinates":[-81.085814,37.370191],"type":"Point"}
+}

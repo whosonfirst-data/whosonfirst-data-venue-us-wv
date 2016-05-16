@@ -1,0 +1,73 @@
+{
+  "id": 823365381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.723597,38.320443,-81.723597,38.320443",
+    "geom:latitude":38.320443,
+    "geom:longitude":-81.723597,
+    "iso:country":"US",
+    "sg:address":"100 Graceland Cir",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 5621",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cemetery",
+        "mausoleum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nqbrvrgahgy6rH5wmYD3z_38.320443_-81.723597@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463430983,
+    "wof:geomhash":"f9a1a22523f5c4ef676a0bd9574b7c8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823365381
+        }
+    ],
+    "wof:id":823365381,
+    "wof:lastmodified":1463430983,
+    "wof:name":"Graceland Memorial Park Inc",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery",
+        "mausoleum"
+    ]
+},
+  "bbox": [
+    -81.723597,
+    38.320443,
+    -81.723597,
+    38.320443
+],
+  "geometry": {"coordinates":[-81.723597,38.320443],"type":"Point"}
+}

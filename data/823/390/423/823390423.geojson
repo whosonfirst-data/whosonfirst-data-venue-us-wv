@@ -1,0 +1,73 @@
+{
+  "id": 823390423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.143129,39.451475,-80.143129,39.451475",
+    "geom:latitude":39.451475,
+    "geom:longitude":-80.143129,
+    "iso:country":"US",
+    "sg:address":"1706 Butternut Rd",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 5398",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85834381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yIyXSpGdn2Izhbgz87H30_39.451475_-80.143129@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432097,
+    "wof:geomhash":"8d3bb3daf4c4a9b81dfc8749d96cb660",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85834381,
+            "region_id":85688589,
+            "venue_id":823390423
+        }
+    ],
+    "wof:id":823390423,
+    "wof:lastmodified":1463432097,
+    "wof:name":"Ed's Home Improvements",
+    "wof:parent_id":85834381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.143129,
+    39.451475,
+    -80.143129,
+    39.451475
+],
+  "geometry": {"coordinates":[-80.143129,39.451475],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823380197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.190187,37.775833,-81.190187,37.775833",
+    "geom:latitude":37.775833,
+    "geom:longitude":-81.190187,
+    "iso:country":"US",
+    "sg:address":"100 Earwood St",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 253 5222",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21VL8JCAWkEhef3O8JMdgH_37.775833_-81.190187@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431643,
+    "wof:geomhash":"a693c679ece10e087ea8aa6a30fc9c87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823380197
+        }
+    ],
+    "wof:id":823380197,
+    "wof:lastmodified":1463431643,
+    "wof:name":"Kurt Reiber Inc",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -81.190187,
+    37.775833,
+    -81.190187,
+    37.775833
+],
+  "geometry": {"coordinates":[-81.19018699999999,37.775833],"type":"Point"}
+}

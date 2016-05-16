@@ -1,0 +1,71 @@
+{
+  "id": 823417369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.22309,37.264856,-81.22309,37.264856",
+    "geom:latitude":37.264856,
+    "geom:longitude":-81.22309,
+    "iso:country":"US",
+    "sg:address":"208 Wilson St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 325 3459",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZK7bL4Jumi0gsxTVwhY1P_37.264856_-81.223090@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433351,
+    "wof:geomhash":"1d51299e1f31195d9119778d3736699d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823417369
+        }
+    ],
+    "wof:id":823417369,
+    "wof:lastmodified":1463433351,
+    "wof:name":"Union Baptist Church",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.22309,
+    37.264856,
+    -81.22309,
+    37.264856
+],
+  "geometry": {"coordinates":[-81.22309,37.264856],"type":"Point"}
+}

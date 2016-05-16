@@ -1,0 +1,75 @@
+{
+  "id": 823372215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.16099,37.344621,-81.16099,37.344621",
+    "geom:latitude":37.344621,
+    "geom:longitude":-81.16099,
+    "iso:country":"US",
+    "sg:address":"260 Charwood Ave",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 2049",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YKwGkk3LF0tG3xhnjtXsi_37.344621_-81.160990@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431292,
+    "wof:geomhash":"b032712bb770e197302f639ac333a952",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823372215
+        }
+    ],
+    "wof:id":823372215,
+    "wof:lastmodified":1463431292,
+    "wof:name":"Greenskeeper",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -81.16099,
+    37.344621,
+    -81.16099,
+    37.344621
+],
+  "geometry": {"coordinates":[-81.16099,37.344621],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823384721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.709424,38.371191,-81.709424,38.371191",
+    "geom:latitude":38.371191,
+    "geom:longitude":-81.709424,
+    "iso:country":"US",
+    "sg:address":"2005 Wilson St",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 5616",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07bpL8RihPy3AI1tPGweD3_38.371191_-81.709424@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431840,
+    "wof:geomhash":"ec517372bf9404093ee1b9497f2ea449",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823384721
+        }
+    ],
+    "wof:id":823384721,
+    "wof:lastmodified":1463431840,
+    "wof:name":"13th Street Barber Shop",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.709424,
+    38.371191,
+    -81.709424,
+    38.371191
+],
+  "geometry": {"coordinates":[-81.709424,38.371191],"type":"Point"}
+}

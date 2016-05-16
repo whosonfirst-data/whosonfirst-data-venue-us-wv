@@ -1,0 +1,82 @@
+{
+  "id": 823434325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.295679,37.794487,-80.295679,37.794487",
+    "geom:latitude":37.794487,
+    "geom:longitude":-80.295679,
+    "iso:country":"US",
+    "sg:address":"135 Mountain Ave",
+    "sg:city":"Lewisburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 645 5482",
+    "sg:postcode":"24986",
+    "sg:province":"WV",
+    "sg:tags":[
+        "ind",
+        "electrician",
+        "company",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65DegKbohlgo3yC9IFxKWs_37.794487_-80.295679@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434090,
+    "wof:geomhash":"ec8829b6b60ea55548faae260b91fe46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823434325
+        }
+    ],
+    "wof:id":823434325,
+    "wof:lastmodified":1463434090,
+    "wof:name":"Ecer Technologies  LLC",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ind",
+        "electrician",
+        "company",
+        "lighting"
+    ]
+},
+  "bbox": [
+    -80.295679,
+    37.794487,
+    -80.295679,
+    37.794487
+],
+  "geometry": {"coordinates":[-80.29567900000001,37.794487],"type":"Point"}
+}

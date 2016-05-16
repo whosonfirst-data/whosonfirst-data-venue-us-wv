@@ -1,0 +1,74 @@
+{
+  "id": 823457955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.949181,39.71962,-79.949181,39.71962",
+    "geom:latitude":39.71962,
+    "geom:longitude":-79.949181,
+    "iso:country":"US",
+    "sg:address":"1732 Fort Martin Rd",
+    "sg:city":"Maidsville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 598 5200",
+    "sg:postcode":"26541",
+    "sg:province":"WV",
+    "sg:tags":[
+        "equipment-testing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68izE9w89YdbMNScZh3RxD_39.719620_-79.949181@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435189,
+    "wof:geomhash":"1f9a50da50bfc6a1c096b42d9c76ee82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823457955
+        }
+    ],
+    "wof:id":823457955,
+    "wof:lastmodified":1463435189,
+    "wof:name":"Allegheny Energy Service Corporation",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment-testing"
+    ]
+},
+  "bbox": [
+    -79.949181,
+    39.71962,
+    -79.949181,
+    39.71962
+],
+  "geometry": {"coordinates":[-79.949181,39.71962],"type":"Point"}
+}

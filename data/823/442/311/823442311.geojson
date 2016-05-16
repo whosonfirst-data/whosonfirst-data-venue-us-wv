@@ -1,0 +1,75 @@
+{
+  "id": 823442311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.634422,38.349258,-81.634422,38.349258",
+    "geom:latitude":38.349258,
+    "geom:longitude":-81.634422,
+    "iso:country":"US",
+    "sg:address":"111 Hale St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 5152",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4E09sf5s7rGRtu0bw2EZJ9_38.349258_-81.634422@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434463,
+    "wof:geomhash":"e1c47fa2b3c182be9ac6722353ee5fb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823442311
+        }
+    ],
+    "wof:id":823442311,
+    "wof:lastmodified":1463434463,
+    "wof:name":"National Multiple Sclerosis",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -81.634422,
+    38.349258,
+    -81.634422,
+    38.349258
+],
+  "geometry": {"coordinates":[-81.634422,38.349258],"type":"Point"}
+}

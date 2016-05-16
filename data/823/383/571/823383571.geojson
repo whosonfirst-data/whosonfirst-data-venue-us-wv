@@ -1,0 +1,73 @@
+{
+  "id": 823383571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.300581,37.803765,-80.300581,37.803765",
+    "geom:latitude":37.803765,
+    "geom:longitude":-80.300581,
+    "iso:country":"US",
+    "sg:address":"630 Big Draft Rd",
+    "sg:city":"White Slphr Spgs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 536 1244",
+    "sg:postcode":"24986",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72sH0MQICAiR97RSpQ4Pmo_37.803765_-80.300581@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431795,
+    "wof:geomhash":"a0d66af6a552b05e0d01ebf6628b8a98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823383571
+        }
+    ],
+    "wof:id":823383571,
+    "wof:lastmodified":1463431795,
+    "wof:name":"Big Draft Auto & Small Equip",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -80.300581,
+    37.803765,
+    -80.300581,
+    37.803765
+],
+  "geometry": {"coordinates":[-80.30058099999999,37.803765],"type":"Point"}
+}

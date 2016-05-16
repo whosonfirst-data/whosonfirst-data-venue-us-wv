@@ -1,0 +1,82 @@
+{
+  "id": 823431277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.571714,40.276137,-80.571714,40.276137",
+    "geom:latitude":40.276137,
+    "geom:longitude":-80.571714,
+    "iso:country":"US",
+    "sg:address":"890 Washington Pike",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 2811",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "urban",
+        "company",
+        "sewage",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64jM3toCVem1ZWYb3GE9de_40.276137_-80.571714@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433931,
+    "wof:geomhash":"36c937ad5b1a9a8a7eb8dab123d9d9c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823431277
+        }
+    ],
+    "wof:id":823431277,
+    "wof:lastmodified":1463433931,
+    "wof:name":"Washington Pike Public Svc Dst",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "urban",
+        "company",
+        "sewage",
+        "supply"
+    ]
+},
+  "bbox": [
+    -80.571714,
+    40.276137,
+    -80.571714,
+    40.276137
+],
+  "geometry": {"coordinates":[-80.571714,40.276137],"type":"Point"}
+}

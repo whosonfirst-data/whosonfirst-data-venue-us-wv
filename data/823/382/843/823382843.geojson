@@ -1,0 +1,71 @@
+{
+  "id": 823382843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.530593,38.309794,-81.530593,38.309794",
+    "geom:latitude":38.309794,
+    "geom:longitude":-81.530593,
+    "iso:country":"US",
+    "sg:address":"3617 Springfork Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 926 8173",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HeHJnqBufhzAUv3iXohzH_38.309794_-81.530593@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431769,
+    "wof:geomhash":"0ab0608a02bb3e4677f9ef06ce4cf151",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823382843
+        }
+    ],
+    "wof:id":823382843,
+    "wof:lastmodified":1463431769,
+    "wof:name":"Randall Wilson",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -81.530593,
+    38.309794,
+    -81.530593,
+    38.309794
+],
+  "geometry": {"coordinates":[-81.530593,38.309794],"type":"Point"}
+}

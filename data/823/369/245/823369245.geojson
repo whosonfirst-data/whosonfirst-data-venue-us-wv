@@ -1,0 +1,73 @@
+{
+  "id": 823369245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.572318,38.309142,-81.572318,38.309142",
+    "geom:latitude":38.309142,
+    "geom:longitude":-81.572318,
+    "iso:country":"US",
+    "sg:address":"729 57th St SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 4674",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uho9YFerMtNHMFFKvuAkK_38.309142_-81.572318@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431141,
+    "wof:geomhash":"2516dd08524f47909700217a2d7dbb41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823369245
+        }
+    ],
+    "wof:id":823369245,
+    "wof:lastmodified":1463431141,
+    "wof:name":"James Hundley",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -81.572318,
+    38.309142,
+    -81.572318,
+    38.309142
+],
+  "geometry": {"coordinates":[-81.572318,38.309142],"type":"Point"}
+}

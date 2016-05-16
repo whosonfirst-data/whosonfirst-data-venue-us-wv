@@ -1,0 +1,73 @@
+{
+  "id": 823376255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.945907,39.637149,-79.945907,39.637149",
+    "geom:latitude":39.637149,
+    "geom:longitude":-79.945907,
+    "iso:country":"US",
+    "sg:address":"394 Newton Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 293 2493",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KYi5ebJvhWP09cKHSx0Rw_39.637149_-79.945907@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431468,
+    "wof:geomhash":"79e69faf6cbb145d7d409be1ec34cbb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851489,
+            "region_id":85688589,
+            "venue_id":823376255
+        }
+    ],
+    "wof:id":823376255,
+    "wof:lastmodified":1463431468,
+    "wof:name":"Wvu College Park Maint",
+    "wof:parent_id":85851489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -79.945907,
+    39.637149,
+    -79.945907,
+    39.637149
+],
+  "geometry": {"coordinates":[-79.94590700000001,39.637149],"type":"Point"}
+}

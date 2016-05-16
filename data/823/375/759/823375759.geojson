@@ -1,0 +1,75 @@
+{
+  "id": 823375759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.660606,40.0458,-80.660606,40.0458",
+    "geom:latitude":40.0458,
+    "geom:longitude":-80.660606,
+    "iso:country":"US",
+    "sg:address":"2195 National Rd",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 243 8915",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "music",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85840717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KyqXfsnVlVJFcP8jv1CIB_40.045800_-80.660606@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431447,
+    "wof:geomhash":"60c27048b979ad554ae32e035049acd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85840717,
+            "region_id":85688589,
+            "venue_id":823375759
+        }
+    ],
+    "wof:id":823375759,
+    "wof:lastmodified":1463431447,
+    "wof:name":"Werner Smith Music",
+    "wof:parent_id":85840717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "music",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -80.660606,
+    40.0458,
+    -80.660606,
+    40.0458
+],
+  "geometry": {"coordinates":[-80.660606,40.0458],"type":"Point"}
+}

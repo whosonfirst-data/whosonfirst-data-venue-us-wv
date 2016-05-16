@@ -1,0 +1,73 @@
+{
+  "id": 823415173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.192456,37.784916,-81.192456,37.784916",
+    "geom:latitude":37.784916,
+    "geom:longitude":-81.192456,
+    "iso:country":"US",
+    "sg:address":"104 Adair St",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 256 1813",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ba6431F4MS9tFklvlMJBN_37.784916_-81.192456@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433236,
+    "wof:geomhash":"0c21e536bf4a3011610cf3372bc77cc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823415173
+        }
+    ],
+    "wof:id":823415173,
+    "wof:lastmodified":1463433236,
+    "wof:name":"Beckley Recycling",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -81.192456,
+    37.784916,
+    -81.192456,
+    37.784916
+],
+  "geometry": {"coordinates":[-81.19245600000001,37.784916],"type":"Point"}
+}

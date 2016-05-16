@@ -1,0 +1,71 @@
+{
+  "id": 823414307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.032072,39.672959,-80.032072,39.672959",
+    "geom:latitude":39.672959,
+    "geom:longitude":-80.032072,
+    "iso:country":"US",
+    "sg:address":"1126 Blue Horizon Dr",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 3667",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731749,
+        102082587,
+        85807277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Z1mBzg04ENdEmf7ynkwRm_39.672959_-80.032072@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433198,
+    "wof:geomhash":"56ac9e968fa93851cbe7b1a24eabad29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731749,
+            "neighbourhood_id":85807277,
+            "region_id":85688589,
+            "venue_id":823414307
+        }
+    ],
+    "wof:id":823414307,
+    "wof:lastmodified":1463433198,
+    "wof:name":"Danny's Door Svc",
+    "wof:parent_id":85807277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door"
+    ]
+},
+  "bbox": [
+    -80.032072,
+    39.672959,
+    -80.032072,
+    39.672959
+],
+  "geometry": {"coordinates":[-80.032072,39.672959],"type":"Point"}
+}

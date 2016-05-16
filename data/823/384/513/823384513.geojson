@@ -1,0 +1,69 @@
+{
+  "id": 823384513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.956889,39.621706,-79.956889,39.621706",
+    "geom:latitude":39.621706,
+    "geom:longitude":-79.956889,
+    "iso:country":"US",
+    "sg:address":"45 Maple Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 291 2602",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6l7vS428eJ9WZooFDFhXBm_39.621706_-79.956889@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431828,
+    "wof:geomhash":"0121b20ae2c05d769f72aa39ebd0ace3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823384513
+        }
+    ],
+    "wof:id":823384513,
+    "wof:lastmodified":1463431828,
+    "wof:name":"Hilltop Home Rebuilders",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -79.956889,
+    39.621706,
+    -79.956889,
+    39.621706
+],
+  "geometry": {"coordinates":[-79.956889,39.621706],"type":"Point"}
+}

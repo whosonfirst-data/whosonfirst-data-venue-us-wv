@@ -1,0 +1,68 @@
+{
+  "id": 823431153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.886881,38.536819,-81.886881,38.536819",
+    "geom:latitude":38.536819,
+    "geom:longitude":-81.886881,
+    "iso:country":"US",
+    "sg:address":"3278 Winfield Rd",
+    "sg:city":"Winfield",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 586 9783",
+    "sg:postcode":"25213",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731321,
+        102083381,
+        85868329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VdGsQSwBkrtMdfJ6RAV0L_38.536819_-81.886881@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433926,
+    "wof:geomhash":"62c383fcdab29ee0b5e0f77dd4f9668c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731321,
+            "neighbourhood_id":85868329,
+            "region_id":85688589,
+            "venue_id":823431153
+        }
+    ],
+    "wof:id":823431153,
+    "wof:lastmodified":1463433926,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85868329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.886881,
+    38.536819,
+    -81.886881,
+    38.536819
+],
+  "geometry": {"coordinates":[-81.886881,38.536819],"type":"Point"}
+}

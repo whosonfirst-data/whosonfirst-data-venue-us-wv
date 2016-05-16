@@ -1,0 +1,73 @@
+{
+  "id": 823425011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.346986,39.281971,-80.346986,39.281971",
+    "geom:latitude":39.281971,
+    "geom:longitude":-80.346986,
+    "iso:country":"US",
+    "sg:address":"703 W Pike St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 622 6178",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pPRRBaALZYRxASoObaNMK_39.281971_-80.346986@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433660,
+    "wof:geomhash":"3eabf7e8017acb5c9b076a161cd7a3af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823425011
+        }
+    ],
+    "wof:id":823425011,
+    "wof:lastmodified":1463433660,
+    "wof:name":"Michele Kish's School Of Dance",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -80.346986,
+    39.281971,
+    -80.346986,
+    39.281971
+],
+  "geometry": {"coordinates":[-80.346986,39.281971],"type":"Point"}
+}

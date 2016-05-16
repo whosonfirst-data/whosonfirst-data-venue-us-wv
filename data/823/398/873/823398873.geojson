@@ -1,0 +1,71 @@
+{
+  "id": 823398873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.608836,40.394725,-80.608836,40.394725",
+    "geom:latitude":40.394725,
+    "geom:longitude":-80.608836,
+    "iso:country":"US",
+    "sg:address":"1094 Barone Dr",
+    "sg:city":"Weirton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 748 0400",
+    "sg:postcode":"26062",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731371,
+        102082633,
+        85832497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JaMvNoJS2W3qNsefpflYI_40.394725_-80.608836@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432528,
+    "wof:geomhash":"09266ebc3bab948bdd545d4fe2c943ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731371,
+            "neighbourhood_id":85832497,
+            "region_id":85688589,
+            "venue_id":823398873
+        }
+    ],
+    "wof:id":823398873,
+    "wof:lastmodified":1463432528,
+    "wof:name":"John F Graf DDS",
+    "wof:parent_id":85832497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -80.608836,
+    40.394725,
+    -80.608836,
+    40.394725
+],
+  "geometry": {"coordinates":[-80.608836,40.394725],"type":"Point"}
+}

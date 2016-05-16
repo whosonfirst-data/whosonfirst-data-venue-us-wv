@@ -1,0 +1,71 @@
+{
+  "id": 823409611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.937255,39.607155,-80.937255,39.607155",
+    "geom:latitude":39.607155,
+    "geom:longitude":-80.937255,
+    "iso:country":"US",
+    "sg:address":"417 W Main St",
+    "sg:city":"Paden City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 337 9020",
+    "sg:postcode":"26159",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0w8I6qfqfrIRTwdFx1DCzu_39.607155_-80.937255@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433006,
+    "wof:geomhash":"35a4bdf0e5b5e51752088f38cdcff245",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823409611
+        }
+    ],
+    "wof:id":823409611,
+    "wof:lastmodified":1463433006,
+    "wof:name":"Safari Salon",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -80.937255,
+    39.607155,
+    -80.937255,
+    39.607155
+],
+  "geometry": {"coordinates":[-80.93725499999999,39.607155],"type":"Point"}
+}

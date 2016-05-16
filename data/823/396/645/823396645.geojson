@@ -1,0 +1,71 @@
+{
+  "id": 823396645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.595532,38.328669,-81.595532,38.328669",
+    "geom:latitude":38.328669,
+    "geom:longitude":-81.595532,
+    "iso:country":"US",
+    "sg:address":"305 37th St SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 0201",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "handyman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wZyduTtYrxKdkJvKVVG92_38.328669_-81.595532@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432412,
+    "wof:geomhash":"4d8923db1f94bd7aa1db026eb258092e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823396645
+        }
+    ],
+    "wof:id":823396645,
+    "wof:lastmodified":1463432412,
+    "wof:name":"House Doctors Handyman Svc",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handyman"
+    ]
+},
+  "bbox": [
+    -81.595532,
+    38.328669,
+    -81.595532,
+    38.328669
+],
+  "geometry": {"coordinates":[-81.59553200000001,38.328669],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 823385183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.565379,38.276395,-81.565379,38.276395",
+    "geom:latitude":38.276395,
+    "geom:longitude":-81.565379,
+    "iso:country":"US",
+    "sg:address":"5609 Church Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 926 8740",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04CrOtxxQYXwmkUZjLbCKD_38.276395_-81.565379@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431856,
+    "wof:geomhash":"deb3ab2a9b0448f5d6618459b61781f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823385183
+        }
+    ],
+    "wof:id":823385183,
+    "wof:lastmodified":1463431856,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -81.565379,
+    38.276395,
+    -81.565379,
+    38.276395
+],
+  "geometry": {"coordinates":[-81.56537899999999,38.276395],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823394011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.755466,38.358091,-81.755466,38.358091",
+    "geom:latitude":38.358091,
+    "geom:longitude":-81.755466,
+    "iso:country":"US",
+    "sg:address":"5925 Maccorkle Ave",
+    "sg:city":"Saint Albans",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 766 0006",
+    "sg:postcode":"25177",
+    "sg:province":"WV",
+    "sg:tags":[
+        "town"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IyXnLCxMNPL5i4He8Ej7U_38.358091_-81.755466@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432279,
+    "wof:geomhash":"92ffc763d74d9bd77d73cf496050817d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823394011
+        }
+    ],
+    "wof:id":823394011,
+    "wof:lastmodified":1463432279,
+    "wof:name":"Town of Jefferson",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "town"
+    ]
+},
+  "bbox": [
+    -81.755466,
+    38.358091,
+    -81.755466,
+    38.358091
+],
+  "geometry": {"coordinates":[-81.755466,38.358091],"type":"Point"}
+}

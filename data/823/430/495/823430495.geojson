@@ -1,0 +1,74 @@
+{
+  "id": 823430495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.566289,38.295554,-81.566289,38.295554",
+    "geom:latitude":38.295554,
+    "geom:longitude":-81.566289,
+    "iso:country":"US",
+    "sg:address":"315 70th St SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 926 0075",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "coal",
+        "coke"
+    ],
+    "sg:website":"www.masseyenergyco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5u71PTHWcJTAfAckgUJxOY_38.295554_-81.566289@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433900,
+    "wof:geomhash":"d3776094d5e1dde51be780ce11347aed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823430495
+        }
+    ],
+    "wof:id":823430495,
+    "wof:lastmodified":1463433900,
+    "wof:name":"Massey Coal Svc Inc",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coal",
+        "coke"
+    ]
+},
+  "bbox": [
+    -81.566289,
+    38.295554,
+    -81.566289,
+    38.295554
+],
+  "geometry": {"coordinates":[-81.566289,38.295554],"type":"Point"}
+}

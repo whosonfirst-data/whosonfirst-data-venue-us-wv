@@ -1,0 +1,71 @@
+{
+  "id": 823380883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.127553,38.422607,-82.127553,38.422607",
+    "geom:latitude":38.422607,
+    "geom:longitude":-82.127553,
+    "iso:country":"US",
+    "sg:address":"1207 Main St",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 743 3149",
+    "sg:postcode":"25541",
+    "sg:province":"WV",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85816671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fmkEIEniTRmesHvlEwShf_38.422607_-82.127553@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431685,
+    "wof:geomhash":"7482ff0c30bf70e1c7d1cd16b00c8a57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85816671,
+            "region_id":85688589,
+            "venue_id":823380883
+        }
+    ],
+    "wof:id":823380883,
+    "wof:lastmodified":1463431685,
+    "wof:name":"American Legion",
+    "wof:parent_id":85816671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military"
+    ]
+},
+  "bbox": [
+    -82.127553,
+    38.422607,
+    -82.127553,
+    38.422607
+],
+  "geometry": {"coordinates":[-82.12755300000001,38.422607],"type":"Point"}
+}

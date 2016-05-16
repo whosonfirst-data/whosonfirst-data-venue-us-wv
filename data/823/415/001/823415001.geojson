@@ -1,0 +1,78 @@
+{
+  "id": 823415001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.972816,39.665676,-79.972816,39.665676",
+    "geom:latitude":39.665676,
+    "geom:longitude":-79.972816,
+    "iso:country":"US",
+    "sg:address":"1456 Dogwood Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 3218",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kBsFeyILtQXLqku0ZAzCw_39.665676_-79.972816@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433224,
+    "wof:geomhash":"63d7b2a2b9df5ce8a5651e372c1264df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851419,
+            "region_id":85688589,
+            "venue_id":823415001
+        }
+    ],
+    "wof:id":823415001,
+    "wof:lastmodified":1463433224,
+    "wof:name":"W V Janitorial & Packaging",
+    "wof:parent_id":85851419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -79.972816,
+    39.665676,
+    -79.972816,
+    39.665676
+],
+  "geometry": {"coordinates":[-79.97281599999999,39.665676],"type":"Point"}
+}

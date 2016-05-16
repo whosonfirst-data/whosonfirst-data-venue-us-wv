@@ -1,0 +1,68 @@
+{
+  "id": 823435883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.955804,39.631325,-79.955804,39.631325",
+    "geom:latitude":39.631325,
+    "geom:longitude":-79.955804,
+    "iso:country":"US",
+    "sg:address":"154 Fayette St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 291 7100",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mDIjkYBJFyDtNHtsCf4hT_39.631325_-79.955804@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434160,
+    "wof:geomhash":"9c48cb7db54dbd7980726657431c329c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851489,
+            "region_id":85688589,
+            "venue_id":823435883
+        }
+    ],
+    "wof:id":823435883,
+    "wof:lastmodified":1463434160,
+    "wof:name":"United Bank",
+    "wof:parent_id":85851489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.955804,
+    39.631325,
+    -79.955804,
+    39.631325
+],
+  "geometry": {"coordinates":[-79.955804,39.631325],"type":"Point"}
+}

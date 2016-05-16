@@ -1,0 +1,75 @@
+{
+  "id": 823373561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.121826,37.763955,-81.121826,37.763955",
+    "geom:latitude":37.763955,
+    "geom:longitude":-81.121826,
+    "iso:country":"US",
+    "sg:address":"231 Airport Rd",
+    "sg:city":"Beaver",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 929 2676",
+    "sg:postcode":"25813",
+    "sg:province":"WV",
+    "sg:tags":[
+        "music",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oHh34NqorIfr3u7cP9JDD_37.763955_-81.121826@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431342,
+    "wof:geomhash":"047a045cbb40554ed837ec991f7f8bac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823373561
+        }
+    ],
+    "wof:id":823373561,
+    "wof:lastmodified":1463431342,
+    "wof:name":"K & K Music",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "music",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -81.121826,
+    37.763955,
+    -81.121826,
+    37.763955
+],
+  "geometry": {"coordinates":[-81.121826,37.763955],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823396053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.078439,37.362193,-81.078439,37.362193",
+    "geom:latitude":37.362193,
+    "geom:longitude":-81.078439,
+    "iso:country":"US",
+    "sg:address":"313 Locust St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 7709",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QIvLicdPp4ezDGZgD3zHA_37.362193_-81.078439@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432377,
+    "wof:geomhash":"273c3fcb70f1ae16dd75b711e62192a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823396053
+        }
+    ],
+    "wof:id":823396053,
+    "wof:lastmodified":1463432377,
+    "wof:name":"Hair Studio",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.078439,
+    37.362193,
+    -81.078439,
+    37.362193
+],
+  "geometry": {"coordinates":[-81.078439,37.362193],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823387583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.091433,37.376357,-81.091433,37.376357",
+    "geom:latitude":37.376357,
+    "geom:longitude":-81.091433,
+    "iso:country":"US",
+    "sg:address":"201 Thornton Ave",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 3043",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FnrEkqDjCyO0DckTX49sX_37.376357_-81.091433@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431949,
+    "wof:geomhash":"ae984e93aa10513cd958330d9b3a8f34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823387583
+        }
+    ],
+    "wof:id":823387583,
+    "wof:lastmodified":1463431949,
+    "wof:name":"AA Auto Detailing",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -81.091433,
+    37.376357,
+    -81.091433,
+    37.376357
+],
+  "geometry": {"coordinates":[-81.09143299999999,37.376357],"type":"Point"}
+}

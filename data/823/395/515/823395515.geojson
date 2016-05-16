@@ -1,0 +1,73 @@
+{
+  "id": 823395515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.931048,39.012763,-79.931048,39.012763",
+    "geom:latitude":39.012763,
+    "geom:longitude":-79.931048,
+    "iso:country":"US",
+    "sg:address":"108 Industrial Park Rd",
+    "sg:city":"Belington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 823 3130",
+    "sg:postcode":"26250",
+    "sg:province":"WV",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7m0Ij3jkQigZv6VQuaIbZ5_39.012763_-79.931048@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432348,
+    "wof:geomhash":"6cef5b27780c4189aa8f9cdcd1553c8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823395515
+        }
+    ],
+    "wof:id":823395515,
+    "wof:lastmodified":1463432348,
+    "wof:name":"Miller's Used Cars",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -79.931048,
+    39.012763,
+    -79.931048,
+    39.012763
+],
+  "geometry": {"coordinates":[-79.931048,39.012763],"type":"Point"}
+}

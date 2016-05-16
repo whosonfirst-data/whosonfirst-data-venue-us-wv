@@ -1,0 +1,71 @@
+{
+  "id": 823425913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.097541,37.361726,-81.097541,37.361726",
+    "geom:latitude":37.361726,
+    "geom:longitude":-81.097541,
+    "iso:country":"US",
+    "sg:address":"1281 Stafford Dr",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 5559",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WN30dIxw7e0cUGVH2jd7M_37.361726_-81.097541@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433703,
+    "wof:geomhash":"913e6a0552da57f583b595bc836bdc90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823425913
+        }
+    ],
+    "wof:id":823425913,
+    "wof:lastmodified":1463433703,
+    "wof:name":"Nbs Inc",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -81.097541,
+    37.361726,
+    -81.097541,
+    37.361726
+],
+  "geometry": {"coordinates":[-81.09754100000001,37.361726],"type":"Point"}
+}

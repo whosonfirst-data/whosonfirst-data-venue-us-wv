@@ -1,0 +1,71 @@
+{
+  "id": 823381523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.954467,39.664621,-79.954467,39.664621",
+    "geom:latitude":39.664621,
+    "geom:longitude":-79.954467,
+    "iso:country":"US",
+    "sg:address":"121 Cobblestone Cir",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 598 2709",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XixHlrN49ZAY3QrxwPlxP_39.664621_-79.954467@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431714,
+    "wof:geomhash":"e4602d86d54a022156314c030def6e1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823381523
+        }
+    ],
+    "wof:id":823381523,
+    "wof:lastmodified":1463431714,
+    "wof:name":"Drury Armistead MD",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -79.954467,
+    39.664621,
+    -79.954467,
+    39.664621
+],
+  "geometry": {"coordinates":[-79.95446699999999,39.664621],"type":"Point"}
+}

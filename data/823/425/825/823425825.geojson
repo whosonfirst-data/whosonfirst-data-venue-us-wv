@@ -1,0 +1,71 @@
+{
+  "id": 823425825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.981266,39.584739,-79.981266,39.584739",
+    "geom:latitude":39.584739,
+    "geom:longitude":-79.981266,
+    "iso:country":"US",
+    "sg:address":"1115 Andrew Dr",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 284 0954",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03X7BXV5NziFwza8wrQvNM_39.584739_-79.981266@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433698,
+    "wof:geomhash":"99e7fd7ab28298e1349efe4a71d8aa80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823425825
+        }
+    ],
+    "wof:id":823425825,
+    "wof:lastmodified":1463433698,
+    "wof:name":"Macnick Properties LLC",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -79.981266,
+    39.584739,
+    -79.981266,
+    39.584739
+],
+  "geometry": {"coordinates":[-79.98126600000001,39.584739],"type":"Point"}
+}

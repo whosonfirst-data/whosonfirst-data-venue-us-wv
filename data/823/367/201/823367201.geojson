@@ -1,0 +1,73 @@
+{
+  "id": 823367201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.64978,38.362273,-81.64978,38.362273",
+    "geom:latitude":38.362273,
+    "geom:longitude":-81.64978,
+    "iso:country":"US",
+    "sg:address":"521 Central Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 3825",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yzEPoaGI12SDmWRTivO2H_38.362273_-81.649780@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431065,
+    "wof:geomhash":"f76793800fa2d06edb1a55e69600a431",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823367201
+        }
+    ],
+    "wof:id":823367201,
+    "wof:lastmodified":1463431065,
+    "wof:name":"Charleston Veterans Ctr",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -81.64978,
+    38.362273,
+    -81.64978,
+    38.362273
+],
+  "geometry": {"coordinates":[-81.64978000000001,38.362273],"type":"Point"}
+}

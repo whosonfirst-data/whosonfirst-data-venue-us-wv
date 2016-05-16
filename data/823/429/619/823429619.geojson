@@ -1,0 +1,71 @@
+{
+  "id": 823429619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.59508,38.324427,-81.59508,38.324427",
+    "geom:latitude":38.324427,
+    "geom:longitude":-81.59508,
+    "iso:country":"US",
+    "sg:address":"5 Courtney Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 926 0955",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eVqqoMVS3k1M59wUeuQqY_38.324427_-81.595080@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433870,
+    "wof:geomhash":"ed5d392d9e5cd6b6297f8a0a1797bd15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823429619
+        }
+    ],
+    "wof:id":823429619,
+    "wof:lastmodified":1463433870,
+    "wof:name":"Cataract Rfrctive Surgery Inst",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -81.59508,
+    38.324427,
+    -81.59508,
+    38.324427
+],
+  "geometry": {"coordinates":[-81.59508,38.324427],"type":"Point"}
+}

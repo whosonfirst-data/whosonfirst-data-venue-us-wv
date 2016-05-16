@@ -1,0 +1,71 @@
+{
+  "id": 823423593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.985593,39.630359,-79.985593,39.630359",
+    "geom:latitude":39.630359,
+    "geom:longitude":-79.985593,
+    "iso:country":"US",
+    "sg:address":"990 Fairmont Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 284 9797",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "club",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818601,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yw9Rw0bHKhz7KAIRM5G7T_39.630359_-79.985593@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433605,
+    "wof:geomhash":"13c66fdec62f561e7e18063bbffc0219",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85818601,
+            "region_id":85688589,
+            "venue_id":823423593
+        }
+    ],
+    "wof:id":823423593,
+    "wof:lastmodified":1463433605,
+    "wof:name":"Hot Spot",
+    "wof:parent_id":85818601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "night"
+    ]
+},
+  "bbox": [
+    -79.985593,
+    39.630359,
+    -79.985593,
+    39.630359
+],
+  "geometry": {"coordinates":[-79.98559299999999,39.630359],"type":"Point"}
+}

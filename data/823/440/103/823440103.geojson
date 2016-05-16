@@ -1,0 +1,73 @@
+{
+  "id": 823440103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.79472,38.381216,-81.79472,38.381216",
+    "geom:latitude":38.381216,
+    "geom:longitude":-81.79472,
+    "iso:country":"US",
+    "sg:address":"105 Oak St",
+    "sg:city":"St Albans",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 201 2007",
+    "sg:postcode":"25177",
+    "sg:province":"WV",
+    "sg:tags":[
+        "flea",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731773,
+        102083335,
+        85840775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iDibLqvSgUttEhvwtrVWF_38.381216_-81.794720@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434368,
+    "wof:geomhash":"4806fe36ba40377abbf267f159a267ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731773,
+            "neighbourhood_id":85840775,
+            "region_id":85688589,
+            "venue_id":823440103
+        }
+    ],
+    "wof:id":823440103,
+    "wof:lastmodified":1463434368,
+    "wof:name":"Oak Street Station Trading Pst",
+    "wof:parent_id":85840775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flea",
+        "market"
+    ]
+},
+  "bbox": [
+    -81.79472,
+    38.381216,
+    -81.79472,
+    38.381216
+],
+  "geometry": {"coordinates":[-81.79472,38.381216],"type":"Point"}
+}

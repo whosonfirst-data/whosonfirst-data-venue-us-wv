@@ -1,0 +1,73 @@
+{
+  "id": 823446109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.27517,39.303092,-80.27517,39.303092",
+    "geom:latitude":39.303092,
+    "geom:longitude":-80.27517,
+    "iso:country":"US",
+    "sg:address":"1525 Johnson Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 5180",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85831189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WAg22opG8xujKiRTEy0np_39.303092_-80.275170@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434648,
+    "wof:geomhash":"350891ea0795a18347134215919c2750",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85831189,
+            "region_id":85688589,
+            "venue_id":823446109
+        }
+    ],
+    "wof:id":823446109,
+    "wof:lastmodified":1463434648,
+    "wof:name":"Go-Mart 84",
+    "wof:parent_id":85831189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -80.27517,
+    39.303092,
+    -80.27517,
+    39.303092
+],
+  "geometry": {"coordinates":[-80.27517,39.303092],"type":"Point"}
+}

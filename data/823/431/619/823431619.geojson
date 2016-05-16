@@ -1,0 +1,73 @@
+{
+  "id": 823431619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.151982,37.340353,-81.151982,37.340353",
+    "geom:latitude":37.340353,
+    "geom:longitude":-81.151982,
+    "iso:country":"US",
+    "sg:address":"869 Maple Acres Rd",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 2009",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4p8y3l3p3zojGEtXcSsdwl_37.340353_-81.151982@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433949,
+    "wof:geomhash":"9a0e08b315cf6bf21b4cf9dfcd32f4df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823431619
+        }
+    ],
+    "wof:id":823431619,
+    "wof:lastmodified":1463433949,
+    "wof:name":"Glenwood Country Store",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -81.151982,
+    37.340353,
+    -81.151982,
+    37.340353
+],
+  "geometry": {"coordinates":[-81.151982,37.340353],"type":"Point"}
+}

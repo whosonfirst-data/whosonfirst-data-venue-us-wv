@@ -1,0 +1,74 @@
+{
+  "id": 823452973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.202985,37.779275,-81.202985,37.779275",
+    "geom:latitude":37.779275,
+    "geom:longitude":-81.202985,
+    "iso:country":"US",
+    "sg:address":"1334 Harper Rd",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/pax/114174-ginos-pizza--spaghetti/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 253 3137",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SRAEkTmwybEDKLrInmwsA_37.779275_-81.202985@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434928,
+    "wof:geomhash":"4d90fc00d5c0d022e47339a4d3afc814",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823452973
+        }
+    ],
+    "wof:id":823452973,
+    "wof:lastmodified":1463434928,
+    "wof:name":"Gino's Pizza & Spaghetti",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -81.202985,
+    37.779275,
+    -81.202985,
+    37.779275
+],
+  "geometry": {"coordinates":[-81.202985,37.779275],"type":"Point"}
+}

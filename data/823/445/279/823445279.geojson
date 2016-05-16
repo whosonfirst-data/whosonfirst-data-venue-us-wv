@@ -1,0 +1,79 @@
+{
+  "id": 823445279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.244794,37.803208,-81.244794,37.803208",
+    "geom:latitude":37.803208,
+    "geom:longitude":-81.244794,
+    "iso:country":"US",
+    "sg:address":"3854 Harper Rd",
+    "sg:city":"Eccles",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 250 0068",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61mpa4EHoefcJf8dsVA1qT_37.803208_-81.244794@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434605,
+    "wof:geomhash":"95987b31bb86b6382d393dca827019e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823445279
+        }
+    ],
+    "wof:id":823445279,
+    "wof:lastmodified":1463434605,
+    "wof:name":"Eccles Video",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -81.244794,
+    37.803208,
+    -81.244794,
+    37.803208
+],
+  "geometry": {"coordinates":[-81.244794,37.803208],"type":"Point"}
+}

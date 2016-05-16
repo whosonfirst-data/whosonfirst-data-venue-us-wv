@@ -1,0 +1,75 @@
+{
+  "id": 823376297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.161157,37.773445,-81.161157,37.773445",
+    "geom:latitude":37.773445,
+    "geom:longitude":-81.161157,
+    "iso:country":"US",
+    "sg:address":"708 S Eisenhower Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 253 9767",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "station",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wA7rWkqeVv3kQZc4jq26h_37.773445_-81.161157@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431469,
+    "wof:geomhash":"18e50389b49ffc0f0bbf7c2829187e4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823376297
+        }
+    ],
+    "wof:id":823376297,
+    "wof:lastmodified":1463431469,
+    "wof:name":"Go-Mart 56",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gas"
+    ]
+},
+  "bbox": [
+    -81.161157,
+    37.773445,
+    -81.161157,
+    37.773445
+],
+  "geometry": {"coordinates":[-81.161157,37.773445],"type":"Point"}
+}

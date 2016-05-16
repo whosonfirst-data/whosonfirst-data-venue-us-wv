@@ -1,0 +1,71 @@
+{
+  "id": 823447237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.34816,38.498695,-81.34816,38.498695",
+    "geom:latitude":38.498695,
+    "geom:longitude":-81.34816,
+    "iso:country":"US",
+    "sg:address":"85 US Hwy 119",
+    "sg:city":"Danville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 369 5626",
+    "sg:postcode":"25045",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QTAK8sceMSqER7iuFtuZX_38.498695_-81.348160@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434702,
+    "wof:geomhash":"8a24167670c65a8ddfdf5cb37e625759",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823447237
+        }
+    ],
+    "wof:id":823447237,
+    "wof:lastmodified":1463434702,
+    "wof:name":"Danville VP",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -81.34816,
+    38.498695,
+    -81.34816,
+    38.498695
+],
+  "geometry": {"coordinates":[-81.34815999999999,38.498695],"type":"Point"}
+}

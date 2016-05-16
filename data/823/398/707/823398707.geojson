@@ -1,0 +1,73 @@
+{
+  "id": 823398707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.71475,40.064575,-80.71475,40.064575",
+    "geom:latitude":40.064575,
+    "geom:longitude":-80.71475,
+    "iso:country":"US",
+    "sg:address":"1610 Wood St",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 232 6654",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85816921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tvitbZDMCpVvqXIVxxntl_40.064575_-80.714750@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432520,
+    "wof:geomhash":"054a29561068e6f1d18976eeb9b3e017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85816921,
+            "region_id":85688589,
+            "venue_id":823398707
+        }
+    ],
+    "wof:id":823398707,
+    "wof:lastmodified":1463432520,
+    "wof:name":"Neely's Grocery",
+    "wof:parent_id":85816921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -80.71475,
+    40.064575,
+    -80.71475,
+    40.064575
+],
+  "geometry": {"coordinates":[-80.71475,40.064575],"type":"Point"}
+}

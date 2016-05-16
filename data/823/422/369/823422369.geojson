@@ -1,0 +1,73 @@
+{
+  "id": 823422369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.218536,37.25427,-81.218536,37.25427",
+    "geom:latitude":37.25427,
+    "geom:longitude":-81.218536,
+    "iso:country":"US",
+    "sg:address":"2100 Washington St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 323 3315",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZtESelrGogPvVJ4H6SUso_37.254270_-81.218536@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433555,
+    "wof:geomhash":"07cea1ba789928f86fee86204d93742a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823422369
+        }
+    ],
+    "wof:id":823422369,
+    "wof:lastmodified":1463433555,
+    "wof:name":"A L Cleaning",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -81.218536,
+    37.25427,
+    -81.218536,
+    37.25427
+],
+  "geometry": {"coordinates":[-81.218536,37.25427],"type":"Point"}
+}

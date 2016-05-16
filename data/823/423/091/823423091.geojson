@@ -1,0 +1,71 @@
+{
+  "id": 823423091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.120992,37.349387,-81.120992,37.349387",
+    "geom:latitude":37.349387,
+    "geom:longitude":-81.120992,
+    "iso:country":"US",
+    "sg:address":"316 Courthouse Rd",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 5773",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "monument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PYjGBNWJIVXi3FiJChC30_37.349387_-81.120992@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433580,
+    "wof:geomhash":"b77b0452493ab70c7fcd0501dd75bfda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823423091
+        }
+    ],
+    "wof:id":823423091,
+    "wof:lastmodified":1463433580,
+    "wof:name":"Everlasting Monument Co",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monument"
+    ]
+},
+  "bbox": [
+    -81.120992,
+    37.349387,
+    -81.120992,
+    37.349387
+],
+  "geometry": {"coordinates":[-81.120992,37.349387],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 823392741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.940671,38.498996,-81.940671,38.498996",
+    "geom:latitude":38.498996,
+    "geom:longitude":-81.940671,
+    "iso:country":"US",
+    "sg:address":"5000 Poplar Fork Rd",
+    "sg:city":"Winfield",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 562 3425",
+    "sg:postcode":"25213",
+    "sg:province":"WV",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868323,
+        102083381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1d0Xt7BWmvGD4FfmLE56G8_38.498996_-81.940671@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432215,
+    "wof:geomhash":"0d461fe2a009add0248f6cfe693a4107",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "neighbourhood_id":85868323,
+            "region_id":85688589,
+            "venue_id":823392741
+        }
+    ],
+    "wof:id":823392741,
+    "wof:lastmodified":1463432215,
+    "wof:name":"FMC Sportsmen Club Pool",
+    "wof:parent_id":85868323,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -81.940671,
+    38.498996,
+    -81.940671,
+    38.498996
+],
+  "geometry": {"coordinates":[-81.94067099999999,38.498996],"type":"Point"}
+}

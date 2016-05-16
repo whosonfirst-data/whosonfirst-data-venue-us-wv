@@ -1,0 +1,71 @@
+{
+  "id": 823411319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.268709,39.294096,-80.268709,39.294096",
+    "geom:latitude":39.294096,
+    "geom:longitude":-80.268709,
+    "iso:country":"US",
+    "sg:address":"914 Sunset Dr",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 3877",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24SKw2V2eaMxJl4WjD9kRG_39.294096_-80.268709@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433078,
+    "wof:geomhash":"6834d61f0443f104ec148be30ea1de94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823411319
+        }
+    ],
+    "wof:id":823411319,
+    "wof:lastmodified":1463433078,
+    "wof:name":"Jls Inc",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -80.268709,
+    39.294096,
+    -80.268709,
+    39.294096
+],
+  "geometry": {"coordinates":[-80.268709,39.294096],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 823452277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.052484,37.354785,-81.052484,37.354785",
+    "geom:latitude":37.354785,
+    "geom:longitude":-81.052484,
+    "iso:country":"US",
+    "sg:address":"654 Greasy Ridge Rd",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/iii/114183-campestre/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 0003",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mPrbksRmxJ9SLFNJkmA4e_37.354785_-81.052484@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434901,
+    "wof:geomhash":"cff2eaba8270cbf7f6e6857528b93644",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823452277
+        }
+    ],
+    "wof:id":823452277,
+    "wof:lastmodified":1463434901,
+    "wof:name":"Campestre",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -81.052484,
+    37.354785,
+    -81.052484,
+    37.354785
+],
+  "geometry": {"coordinates":[-81.05248400000001,37.354785],"type":"Point"}
+}

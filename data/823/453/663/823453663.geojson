@@ -1,0 +1,76 @@
+{
+  "id": 823453663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.962364,39.641793,-79.962364,39.641793",
+    "geom:latitude":39.641793,
+    "geom:longitude":-79.962364,
+    "iso:country":"US",
+    "sg:address":"708 Beechurst Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/central/281873-vinnys-great-pizza--more/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 7711",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85847767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UZJcaoZnR4NbkF8FWFCQ8_39.641793_-79.962364@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434955,
+    "wof:geomhash":"3a676cde0ca38d5edaf12e9242396383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85847767,
+            "region_id":85688589,
+            "venue_id":823453663
+        }
+    ],
+    "wof:id":823453663,
+    "wof:lastmodified":1463434955,
+    "wof:name":"Vinny's Great Pizza & More",
+    "wof:parent_id":85847767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -79.962364,
+    39.641793,
+    -79.962364,
+    39.641793
+],
+  "geometry": {"coordinates":[-79.96236399999999,39.641793],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823380081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.45946,37.780359,-80.45946,37.780359",
+    "geom:latitude":37.780359,
+    "geom:longitude":-80.45946,
+    "iso:country":"US",
+    "sg:address":"149 Maplewood Ave",
+    "sg:city":"Lewisburg",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 645 1058",
+    "sg:postcode":"24901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qDIdxtf18XPns5c2z4y8H_37.780359_-80.459460@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431639,
+    "wof:geomhash":"d306ddf86687358c831e208de18eaf0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823380081
+        }
+    ],
+    "wof:id":823380081,
+    "wof:lastmodified":1463431639,
+    "wof:name":"American Home Patient Inc",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital"
+    ]
+},
+  "bbox": [
+    -80.45946,
+    37.780359,
+    -80.45946,
+    37.780359
+],
+  "geometry": {"coordinates":[-80.45946000000001,37.780359],"type":"Point"}
+}

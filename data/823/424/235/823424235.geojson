@@ -1,0 +1,68 @@
+{
+  "id": 823424235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.973705,39.649883,-79.973705,39.649883",
+    "geom:latitude":39.649883,
+    "geom:longitude":-79.973705,
+    "iso:country":"US",
+    "sg:address":"334 Patteson Dr",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 598 0700",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85818311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GtkZIqlUTqWKL5bLFEWGq_39.649883_-79.973705@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433630,
+    "wof:geomhash":"e430f7a232df09ebc8af16cdd1df56cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85818311,
+            "region_id":85688589,
+            "venue_id":823424235
+        }
+    ],
+    "wof:id":823424235,
+    "wof:lastmodified":1463433630,
+    "wof:name":"Pargo's",
+    "wof:parent_id":85818311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.973705,
+    39.649883,
+    -79.973705,
+    39.649883
+],
+  "geometry": {"coordinates":[-79.973705,39.649883],"type":"Point"}
+}

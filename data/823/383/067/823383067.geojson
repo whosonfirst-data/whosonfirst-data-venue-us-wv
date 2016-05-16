@@ -1,0 +1,71 @@
+{
+  "id": 823383067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.950805,38.68769,-81.950805,38.68769",
+    "geom:latitude":38.68769,
+    "geom:longitude":-81.950805,
+    "iso:country":"US",
+    "sg:address":"6252 Charleston Rd",
+    "sg:city":"Leon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 937 2325",
+    "sg:postcode":"25123",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85983229,
+        102083675,
+        85824533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wkO2gJmJ2zefoGu2wCPWb_38.687690_-81.950805@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431776,
+    "wof:geomhash":"561aa740897b33105cdb8528ee63f5cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "neighbourhood_id":85824533,
+            "region_id":85688485,
+            "venue_id":823383067
+        }
+    ],
+    "wof:id":823383067,
+    "wof:lastmodified":1463431776,
+    "wof:name":"Cossins Tire & Exhaust",
+    "wof:parent_id":85824533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -81.950805,
+    38.68769,
+    -81.950805,
+    38.68769
+],
+  "geometry": {"coordinates":[-81.950805,38.68769],"type":"Point"}
+}

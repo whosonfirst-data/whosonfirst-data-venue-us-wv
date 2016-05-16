@@ -1,0 +1,73 @@
+{
+  "id": 823388293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.314458,38.485255,-81.314458,38.485255",
+    "geom:latitude":38.485255,
+    "geom:longitude":-81.314458,
+    "iso:country":"US",
+    "sg:address":"208 Elk River Rd N",
+    "sg:city":"Clendenin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 548 5300",
+    "sg:postcode":"25045",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NNaAN7wzGWA6CR11Q1aoH_38.485255_-81.314458@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431984,
+    "wof:geomhash":"0f4ff9b373db644dd217a4790515c97b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823388293
+        }
+    ],
+    "wof:id":823388293,
+    "wof:lastmodified":1463431984,
+    "wof:name":"J & S Complete Auto Repair",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -81.314458,
+    38.485255,
+    -81.314458,
+    38.485255
+],
+  "geometry": {"coordinates":[-81.314458,38.485255],"type":"Point"}
+}

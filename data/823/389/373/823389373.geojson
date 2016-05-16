@@ -1,0 +1,73 @@
+{
+  "id": 823389373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.248565,37.281568,-81.248565,37.281568",
+    "geom:latitude":37.281568,
+    "geom:longitude":-81.248565,
+    "iso:country":"US",
+    "sg:address":"297 Coppinger St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 323 2765",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pvshNaw5BOU6HEx1au4Ua_37.281568_-81.248565@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432049,
+    "wof:geomhash":"1f266e09e09626a4966b1be23f38bedf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823389373
+        }
+    ],
+    "wof:id":823389373,
+    "wof:lastmodified":1463432049,
+    "wof:name":"Rejuvenating Landscaping",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.248565,
+    37.281568,
+    -81.248565,
+    37.281568
+],
+  "geometry": {"coordinates":[-81.248565,37.281568],"type":"Point"}
+}

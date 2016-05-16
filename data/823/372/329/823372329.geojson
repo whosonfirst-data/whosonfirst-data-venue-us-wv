@@ -1,0 +1,71 @@
+{
+  "id": 823372329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.802866,38.378596,-81.802866,38.378596",
+    "geom:latitude":38.378596,
+    "geom:longitude":-81.802866,
+    "iso:country":"US",
+    "sg:address":"2501 Washington Ave",
+    "sg:city":"St Albans",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 727 7140",
+    "sg:postcode":"25177",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731773,
+        102083335,
+        85840775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4n7uzUqDlklbz8ABf1AyQN_38.378596_-81.802866@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431297,
+    "wof:geomhash":"4615a4a9ff680bddade3994eb7a4cfca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731773,
+            "neighbourhood_id":85840775,
+            "region_id":85688589,
+            "venue_id":823372329
+        }
+    ],
+    "wof:id":823372329,
+    "wof:lastmodified":1463431297,
+    "wof:name":"Highlawn Presbyterian Church",
+    "wof:parent_id":85840775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.802866,
+    38.378596,
+    -81.802866,
+    38.378596
+],
+  "geometry": {"coordinates":[-81.80286599999999,38.378596],"type":"Point"}
+}

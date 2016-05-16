@@ -1,0 +1,71 @@
+{
+  "id": 823431017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.865728,39.640947,-80.865728,39.640947",
+    "geom:latitude":39.640947,
+    "geom:longitude":-80.865728,
+    "iso:country":"US",
+    "sg:address":"248 Main St",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 5003",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3g0KmQjf0k532FqppYZf2z_39.640947_-80.865728@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433920,
+    "wof:geomhash":"85e6b65cce86b68e21f09fcb3c9647a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823431017
+        }
+    ],
+    "wof:id":823431017,
+    "wof:lastmodified":1463433920,
+    "wof:name":"Bee Electric Heating & Cooling",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.865728,
+    39.640947,
+    -80.865728,
+    39.640947
+],
+  "geometry": {"coordinates":[-80.865728,39.640947],"type":"Point"}
+}

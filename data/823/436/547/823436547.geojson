@@ -1,0 +1,71 @@
+{
+  "id": 823436547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.963488,39.66522,-79.963488,39.66522",
+    "geom:latitude":39.66522,
+    "geom:longitude":-79.963488,
+    "iso:country":"US",
+    "sg:address":"200 Wedgewood Dr",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 285 2742",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5W1daBQtAVj1pXKIlKQGCf_39.665220_-79.963488@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434195,
+    "wof:geomhash":"9922c446ef3c6b5eead677c25a769741",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823436547
+        }
+    ],
+    "wof:id":823436547,
+    "wof:lastmodified":1463434195,
+    "wof:name":"Wedgewood Imaging Ctr",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -79.963488,
+    39.66522,
+    -79.963488,
+    39.66522
+],
+  "geometry": {"coordinates":[-79.963488,39.66522],"type":"Point"}
+}

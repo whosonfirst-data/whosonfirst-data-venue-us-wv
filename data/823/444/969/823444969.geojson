@@ -1,0 +1,73 @@
+{
+  "id": 823444969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.987966,39.456307,-77.987966,39.456307",
+    "geom:latitude":39.456307,
+    "geom:longitude":-77.987966,
+    "iso:country":"US",
+    "sg:address":"764 Foxcroft Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 264 0400",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6E9bPYgwztmpWpQ6wWQloM_39.456307_-77.987966@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434591,
+    "wof:geomhash":"c60bdb66b2519c22e9a8b8a5718c9ecb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823444969
+        }
+    ],
+    "wof:id":823444969,
+    "wof:lastmodified":1463434591,
+    "wof:name":"US Cellular",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -77.987966,
+    39.456307,
+    -77.987966,
+    39.456307
+],
+  "geometry": {"coordinates":[-77.987966,39.456307],"type":"Point"}
+}

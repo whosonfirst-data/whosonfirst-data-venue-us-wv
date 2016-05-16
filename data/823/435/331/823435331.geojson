@@ -1,0 +1,75 @@
+{
+  "id": 823435331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.591965,38.316345,-81.591965,38.316345",
+    "geom:latitude":38.316345,
+    "geom:longitude":-81.591965,
+    "iso:country":"US",
+    "sg:address":"824 Chappell Rd SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 2804",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qW4QUfq9q2xw8h1hKU9rR_38.316345_-81.591965@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434140,
+    "wof:geomhash":"713b5294ef17a88f51919755d5a2388a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823435331
+        }
+    ],
+    "wof:id":823435331,
+    "wof:lastmodified":1463434140,
+    "wof:name":"Tall Timber Trucking Co LLC",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -81.591965,
+    38.316345,
+    -81.591965,
+    38.316345
+],
+  "geometry": {"coordinates":[-81.591965,38.316345],"type":"Point"}
+}

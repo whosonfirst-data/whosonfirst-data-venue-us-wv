@@ -1,0 +1,71 @@
+{
+  "id": 823408819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.696554,38.367564,-81.696554,38.367564",
+    "geom:latitude":38.367564,
+    "geom:longitude":-81.696554,
+    "iso:country":"US",
+    "sg:address":"207 6th Ave SW",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 4708",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3anCCaWT8oKUo1jdYHkNlG_38.367564_-81.696554@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432978,
+    "wof:geomhash":"341729a3566c87349aa0ef25bc627a3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823408819
+        }
+    ],
+    "wof:id":823408819,
+    "wof:lastmodified":1463432978,
+    "wof:name":"A T & T Comm Svcs Intl",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -81.696554,
+    38.367564,
+    -81.696554,
+    38.367564
+],
+  "geometry": {"coordinates":[-81.69655400000001,38.367564],"type":"Point"}
+}

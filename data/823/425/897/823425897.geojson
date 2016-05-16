@@ -1,0 +1,71 @@
+{
+  "id": 823425897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.726004,38.355586,-81.726004,38.355586",
+    "geom:latitude":38.355586,
+    "geom:longitude":-81.726004,
+    "iso:country":"US",
+    "sg:address":"428 Division St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 766 3688",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0S8sRL3jG3aZA7posqrKPh_38.355586_-81.726004@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433702,
+    "wof:geomhash":"a7acc144cbe5a49673d1041a855062ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823425897
+        }
+    ],
+    "wof:id":823425897,
+    "wof:lastmodified":1463433702,
+    "wof:name":"Kishore K Challa",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -81.726004,
+    38.355586,
+    -81.726004,
+    38.355586
+],
+  "geometry": {"coordinates":[-81.726004,38.355586],"type":"Point"}
+}

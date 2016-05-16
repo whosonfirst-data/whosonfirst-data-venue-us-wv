@@ -1,0 +1,71 @@
+{
+  "id": 823435269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.48343,39.049673,-80.48343,39.049673",
+    "geom:latitude":39.049673,
+    "geom:longitude":-80.48343,
+    "iso:country":"US",
+    "sg:address":"743 US Hwy 33",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 269 6495",
+    "sg:postcode":"26452",
+    "sg:province":"WV",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85828579,
+        102083339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mQ4SSX5KUjIfd0gIpAJYj_39.049673_-80.483430@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434137,
+    "wof:geomhash":"d4b094b0dc2a69cd973c977d387614e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083339,
+            "neighbourhood_id":85828579,
+            "region_id":85688589,
+            "venue_id":823435269
+        }
+    ],
+    "wof:id":823435269,
+    "wof:lastmodified":1463434137,
+    "wof:name":"Turner's Used Cars",
+    "wof:parent_id":85828579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -80.48343,
+    39.049673,
+    -80.48343,
+    39.049673
+],
+  "geometry": {"coordinates":[-80.48343,39.049673],"type":"Point"}
+}

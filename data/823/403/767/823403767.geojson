@@ -1,0 +1,73 @@
+{
+  "id": 823403767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.568694,38.3139,-81.568694,38.3139",
+    "geom:latitude":38.3139,
+    "geom:longitude":-81.568694,
+    "iso:country":"US",
+    "sg:address":"5621 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 720 3279",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "treatment",
+        "skin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GaoRwnCfJVewhgITY4XJf_38.313900_-81.568694@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432743,
+    "wof:geomhash":"e45aab6fa8f4fd45141357b6a4acc235",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823403767
+        }
+    ],
+    "wof:id":823403767,
+    "wof:lastmodified":1463432743,
+    "wof:name":"Southern Skincare",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "treatment",
+        "skin"
+    ]
+},
+  "bbox": [
+    -81.568694,
+    38.3139,
+    -81.568694,
+    38.3139
+],
+  "geometry": {"coordinates":[-81.56869399999999,38.3139],"type":"Point"}
+}

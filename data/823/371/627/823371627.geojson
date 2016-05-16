@@ -1,0 +1,71 @@
+{
+  "id": 823371627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.103952,37.363048,-81.103952,37.363048",
+    "geom:latitude":37.363048,
+    "geom:longitude":-81.103952,
+    "iso:country":"US",
+    "sg:address":"221 S Walker St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 9488",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "investigator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ENVUzYFuiMpXSBt6YmERl_37.363048_-81.103952@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431264,
+    "wof:geomhash":"86b7901cdcc4bf10b974cfd4b6f0c25e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823371627
+        }
+    ],
+    "wof:id":823371627,
+    "wof:lastmodified":1463431264,
+    "wof:name":"Boone's Detective Agency",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investigator"
+    ]
+},
+  "bbox": [
+    -81.103952,
+    37.363048,
+    -81.103952,
+    37.363048
+],
+  "geometry": {"coordinates":[-81.10395200000001,37.363048],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 823452613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.966688,39.447424,-77.966688,39.447424",
+    "geom:latitude":39.447424,
+    "geom:longitude":-77.966688,
+    "iso:country":"US",
+    "sg:address":"1016 S Queen St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/adam-stephens/192394-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 6735",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3y7TxhI7k3HjzZcAajmUH3_39.447424_-77.966688@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434914,
+    "wof:geomhash":"6df5a23b055c815dfd4015fe77b69ba7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823452613
+        }
+    ],
+    "wof:id":823452613,
+    "wof:lastmodified":1463434914,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -77.966688,
+    39.447424,
+    -77.966688,
+    39.447424
+],
+  "geometry": {"coordinates":[-77.966688,39.447424],"type":"Point"}
+}

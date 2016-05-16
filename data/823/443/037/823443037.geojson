@@ -1,0 +1,71 @@
+{
+  "id": 823443037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.259615,39.287224,-80.259615,39.287224",
+    "geom:latitude":39.287224,
+    "geom:longitude":-80.259615,
+    "iso:country":"US",
+    "sg:address":"716 James St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 4042",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2frp2CvGHbpljQh1BTPQ5Y_39.287224_-80.259615@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434500,
+    "wof:geomhash":"ed2709132e3f0c6737181cd7125ad8db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823443037
+        }
+    ],
+    "wof:id":823443037,
+    "wof:lastmodified":1463434500,
+    "wof:name":"Jamestown Village",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -80.259615,
+    39.287224,
+    -80.259615,
+    39.287224
+],
+  "geometry": {"coordinates":[-80.259615,39.287224],"type":"Point"}
+}

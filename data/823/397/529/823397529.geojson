@@ -1,0 +1,71 @@
+{
+  "id": 823397529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.649114,38.363733,-81.649114,38.363733",
+    "geom:latitude":38.363733,
+    "geom:longitude":-81.649114,
+    "iso:country":"US",
+    "sg:address":"615 Randolph St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 6547",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UgHegCwWqgrG2m4I0G79X_38.363733_-81.649114@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432455,
+    "wof:geomhash":"27eeb125e93706b35c84c9856dff54e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823397529
+        }
+    ],
+    "wof:id":823397529,
+    "wof:lastmodified":1463432455,
+    "wof:name":"Christian First Advent Church",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.649114,
+    38.363733,
+    -81.649114,
+    38.363733
+],
+  "geometry": {"coordinates":[-81.649114,38.363733],"type":"Point"}
+}

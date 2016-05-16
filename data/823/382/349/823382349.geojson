@@ -1,0 +1,75 @@
+{
+  "id": 823382349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.193604,37.776531,-81.193604,37.776531",
+    "geom:latitude":37.776531,
+    "geom:longitude":-81.193604,
+    "iso:country":"US",
+    "sg:address":"402 W Prince St",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 253 7891",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automotive",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25CqJE863Hs5R7byNn2wcL_37.776531_-81.193604@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431751,
+    "wof:geomhash":"962ebee183493cfffb40db0c62b822b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823382349
+        }
+    ],
+    "wof:id":823382349,
+    "wof:lastmodified":1463431751,
+    "wof:name":"AC Electric Company",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "electric"
+    ]
+},
+  "bbox": [
+    -81.193604,
+    37.776531,
+    -81.193604,
+    37.776531
+],
+  "geometry": {"coordinates":[-81.19360399999999,37.776531],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 823409243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.921741,39.610571,-79.921741,39.610571",
+    "geom:latitude":39.610571,
+    "geom:longitude":-79.921741,
+    "iso:country":"US",
+    "sg:address":"1899 Earl L Core Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 291 3333",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automotive",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732105,
+        102082587,
+        85807831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zSkr6njZMdgfPp9NvnF4X_39.610571_-79.921741@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432994,
+    "wof:geomhash":"e99fc5df6bb12fcd73ee4eaf35948a51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101732105,
+            "neighbourhood_id":85807831,
+            "region_id":85688589,
+            "venue_id":823409243
+        }
+    ],
+    "wof:id":823409243,
+    "wof:lastmodified":1463432994,
+    "wof:name":"Exxon",
+    "wof:parent_id":85807831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -79.921741,
+    39.610571,
+    -79.921741,
+    39.610571
+],
+  "geometry": {"coordinates":[-79.921741,39.610571],"type":"Point"}
+}

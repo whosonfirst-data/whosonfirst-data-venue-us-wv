@@ -1,0 +1,73 @@
+{
+  "id": 823408463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.185973,37.776986,-81.185973,37.776986",
+    "geom:latitude":37.776986,
+    "geom:longitude":-81.185973,
+    "iso:country":"US",
+    "sg:address":"126 Vale St",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 253 8400",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hALMEpJjorQ8EKJ1oCuao_37.776986_-81.185973@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432965,
+    "wof:geomhash":"d6d7c23333d88fbdcb00498b50bfa4cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823408463
+        }
+    ],
+    "wof:id":823408463,
+    "wof:lastmodified":1463432965,
+    "wof:name":"Value City Department Store",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.185973,
+    37.776986,
+    -81.185973,
+    37.776986
+],
+  "geometry": {"coordinates":[-81.185973,37.776986],"type":"Point"}
+}

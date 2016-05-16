@@ -1,0 +1,81 @@
+{
+  "id": 823456205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.723993,40.068717,-80.723993,40.068717",
+    "geom:latitude":40.068717,
+    "geom:longitude":-80.723993,
+    "iso:country":"US",
+    "sg:address":"1049 Main St",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 233 0711",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "merchandise",
+        "store"
+    ],
+    "sg:website":"http://www.imperialteachersstore.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85837739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vnlRh3F8FCBOAbp5PpXl0_40.068717_-80.723993@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435104,
+    "wof:geomhash":"cb5f0a8b8738d64f9821b4bda33ac02a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85837739,
+            "region_id":85688589,
+            "venue_id":823456205
+        }
+    ],
+    "wof:id":823456205,
+    "wof:lastmodified":1463435104,
+    "wof:name":"Imperial Teachers Store",
+    "wof:parent_id":85837739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "store"
+    ]
+},
+  "bbox": [
+    -80.723993,
+    40.068717,
+    -80.723993,
+    40.068717
+],
+  "geometry": {"coordinates":[-80.72399299999999,40.068717],"type":"Point"}
+}

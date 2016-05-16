@@ -1,0 +1,71 @@
+{
+  "id": 823368589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.122515,39.475169,-80.122515,39.475169",
+    "geom:latitude":39.475169,
+    "geom:longitude":-80.122515,
+    "iso:country":"US",
+    "sg:address":"200 E Grafton Rd",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 6666",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1l6BVhuy2EwD97wZ9H6CbL_39.475169_-80.122515@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431119,
+    "wof:geomhash":"72b998b7c057af6418582229f44e4b5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823368589
+        }
+    ],
+    "wof:id":823368589,
+    "wof:lastmodified":1463431119,
+    "wof:name":"Chevron",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -80.122515,
+    39.475169,
+    -80.122515,
+    39.475169
+],
+  "geometry": {"coordinates":[-80.12251500000001,39.475169],"type":"Point"}
+}

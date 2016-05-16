@@ -1,0 +1,73 @@
+{
+  "id": 823428053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.968821,39.457071,-77.968821,39.457071",
+    "geom:latitude":39.457071,
+    "geom:longitude":-77.968821,
+    "iso:country":"US",
+    "sg:address":"411 W King St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 262 1995",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5i88py53paGozz8xaxOokw_39.457071_-77.968821@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433791,
+    "wof:geomhash":"7951917dbe48a7dab259d84214cfebbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823428053
+        }
+    ],
+    "wof:id":823428053,
+    "wof:lastmodified":1463433791,
+    "wof:name":"Greystone Mechanical Inc",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -77.968821,
+    39.457071,
+    -77.968821,
+    39.457071
+],
+  "geometry": {"coordinates":[-77.96882100000001,39.457071],"type":"Point"}
+}

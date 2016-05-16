@@ -1,0 +1,73 @@
+{
+  "id": 823383271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.865949,39.639924,-80.865949,39.639924",
+    "geom:latitude":39.639924,
+    "geom:longitude":-80.865949,
+    "iso:country":"US",
+    "sg:address":"128 Main St",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 2701",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aJxhHeN4UdfOgZ9QYtgRS_39.639924_-80.865949@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431784,
+    "wof:geomhash":"9ff94cf43f39899c4ad5bf033d437a63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823383271
+        }
+    ],
+    "wof:id":823383271,
+    "wof:lastmodified":1463431784,
+    "wof:name":"Community Resources Inc",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -80.865949,
+    39.639924,
+    -80.865949,
+    39.639924
+],
+  "geometry": {"coordinates":[-80.865949,39.639924],"type":"Point"}
+}

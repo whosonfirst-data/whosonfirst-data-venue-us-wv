@@ -1,0 +1,73 @@
+{
+  "id": 823435667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.176062,37.793497,-81.176062,37.793497",
+    "geom:latitude":37.793497,
+    "geom:longitude":-81.176062,
+    "iso:country":"US",
+    "sg:address":"412 Rural Acres Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 252 0187",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4H8wmxQkthH2uCHDlv9DQ0_37.793497_-81.176062@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434152,
+    "wof:geomhash":"61fbd8081b17a013761ea87f526ce653",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823435667
+        }
+    ],
+    "wof:id":823435667,
+    "wof:lastmodified":1463434152,
+    "wof:name":"Community Health Systems Inc",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -81.176062,
+    37.793497,
+    -81.176062,
+    37.793497
+],
+  "geometry": {"coordinates":[-81.176062,37.793497],"type":"Point"}
+}

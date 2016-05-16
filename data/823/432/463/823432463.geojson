@@ -1,0 +1,73 @@
+{
+  "id": 823432463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.980195,39.44703,-77.980195,39.44703",
+    "geom:latitude":39.44703,
+    "geom:longitude":-77.980195,
+    "iso:country":"US",
+    "sg:address":"1014 Winchester Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 267 7675",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50t7teT4NrD4STlFkqpx33_39.447030_-77.980195@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433992,
+    "wof:geomhash":"1d29b1bad37a709f1b3d51f0c8a2056f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823432463
+        }
+    ],
+    "wof:id":823432463,
+    "wof:lastmodified":1463433992,
+    "wof:name":"Thrifty Car Rental",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -77.980195,
+    39.44703,
+    -77.980195,
+    39.44703
+],
+  "geometry": {"coordinates":[-77.98019499999999,39.44703],"type":"Point"}
+}

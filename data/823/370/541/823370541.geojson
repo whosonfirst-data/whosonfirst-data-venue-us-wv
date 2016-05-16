@@ -1,0 +1,68 @@
+{
+  "id": 823370541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.617995,38.341311,-81.617995,38.341311",
+    "geom:latitude":38.341311,
+    "geom:longitude":-81.617995,
+    "iso:country":"US",
+    "sg:address":"1586 Washington St E",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 4249",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85850023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XWe1U2ZH9O3OMOoqlIw9u_38.341311_-81.617995@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431196,
+    "wof:geomhash":"aa2510f459603024c33176bede5f2121",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85850023,
+            "region_id":85688589,
+            "venue_id":823370541
+        }
+    ],
+    "wof:id":823370541,
+    "wof:lastmodified":1463431196,
+    "wof:name":"Tray's Barbershop",
+    "wof:parent_id":85850023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.617995,
+    38.341311,
+    -81.617995,
+    38.341311
+],
+  "geometry": {"coordinates":[-81.61799499999999,38.341311],"type":"Point"}
+}

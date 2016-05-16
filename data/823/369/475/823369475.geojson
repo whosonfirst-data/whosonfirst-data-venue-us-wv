@@ -1,0 +1,73 @@
+{
+  "id": 823369475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.140225,39.48582,-80.140225,39.48582",
+    "geom:latitude":39.48582,
+    "geom:longitude":-80.140225,
+    "iso:country":"US",
+    "sg:address":"400 Quincy St",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 8177",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GGaQExkXbniwDXkwdOiet_39.485820_-80.140225@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431150,
+    "wof:geomhash":"03dbfa5c720fc699e074f7af49679c0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823369475
+        }
+    ],
+    "wof:id":823369475,
+    "wof:lastmodified":1463431150,
+    "wof:name":"Fairmont Mrion Cnty Trnst Auth",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -80.140225,
+    39.48582,
+    -80.140225,
+    39.48582
+],
+  "geometry": {"coordinates":[-80.140225,39.48582],"type":"Point"}
+}

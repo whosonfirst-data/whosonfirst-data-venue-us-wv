@@ -1,0 +1,73 @@
+{
+  "id": 823390291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.728571,38.355046,-81.728571,38.355046",
+    "geom:latitude":38.355046,
+    "geom:longitude":-81.728571,
+    "iso:country":"US",
+    "sg:address":"4708 Maccorkle Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 9002",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5L4Qw2yGKzdBvfAxIQXsC4_38.355046_-81.728571@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432093,
+    "wof:geomhash":"1bdb83fdc41787875250b81a9342dc56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823390291
+        }
+    ],
+    "wof:id":823390291,
+    "wof:lastmodified":1463432093,
+    "wof:name":"Rite Aid",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -81.728571,
+    38.355046,
+    -81.728571,
+    38.355046
+],
+  "geometry": {"coordinates":[-81.728571,38.355046],"type":"Point"}
+}

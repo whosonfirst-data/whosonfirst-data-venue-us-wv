@@ -1,0 +1,73 @@
+{
+  "id": 823417199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.750517,38.366767,-81.750517,38.366767",
+    "geom:latitude":38.366767,
+    "geom:longitude":-81.750517,
+    "iso:country":"US",
+    "sg:address":"523 24th St",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 2345",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home",
+        "group"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jSwbBpUos6BaKZIHKbWeL_38.366767_-81.750517@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433344,
+    "wof:geomhash":"353184566313f700fcd98e771d965444",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823417199
+        }
+    ],
+    "wof:id":823417199,
+    "wof:lastmodified":1463433344,
+    "wof:name":"ARC-KP",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "group"
+    ]
+},
+  "bbox": [
+    -81.750517,
+    38.366767,
+    -81.750517,
+    38.366767
+],
+  "geometry": {"coordinates":[-81.750517,38.366767],"type":"Point"}
+}

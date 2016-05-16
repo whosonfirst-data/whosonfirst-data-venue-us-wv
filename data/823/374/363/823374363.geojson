@@ -1,0 +1,73 @@
+{
+  "id": 823374363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.34018,39.279373,-80.34018,39.279373",
+    "geom:latitude":39.279373,
+    "geom:longitude":-80.34018,
+    "iso:country":"US",
+    "sg:address":"335 W Main St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 623 5437",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57Y6cLDE5M4qg7U30i5631_39.279373_-80.340180@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431373,
+    "wof:geomhash":"981a4ca985afb2ac065514302487ac88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823374363
+        }
+    ],
+    "wof:id":823374363,
+    "wof:lastmodified":1463431373,
+    "wof:name":"Big Brothers & Big Sisters",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -80.34018,
+    39.279373,
+    -80.34018,
+    39.279373
+],
+  "geometry": {"coordinates":[-80.34018,39.279373],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823396121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.33838,39.283816,-80.33838,39.283816",
+    "geom:latitude":39.283816,
+    "geom:longitude":-80.33838,
+    "iso:country":"US",
+    "sg:address":"410 N 4th St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 624 5755",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gDILamTMBAgUhaokyezkx_39.283816_-80.338380@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432379,
+    "wof:geomhash":"f855b03d1576c26e58b5a52bbf8cf3f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823396121
+        }
+    ],
+    "wof:id":823396121,
+    "wof:lastmodified":1463432379,
+    "wof:name":"M & M Bonding",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bond"
+    ]
+},
+  "bbox": [
+    -80.33838,
+    39.283816,
+    -80.33838,
+    39.283816
+],
+  "geometry": {"coordinates":[-80.33838,39.283816],"type":"Point"}
+}

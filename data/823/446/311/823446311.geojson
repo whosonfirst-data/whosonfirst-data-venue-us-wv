@@ -1,0 +1,78 @@
+{
+  "id": 823446311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.535692,38.231507,-81.535692,38.231507",
+    "geom:latitude":38.231507,
+    "geom:longitude":-81.535692,
+    "iso:country":"US",
+    "sg:address":"428 Midland Ave",
+    "sg:city":"Belle",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 6950",
+    "sg:postcode":"25015",
+    "sg:province":"WV",
+    "sg:tags":[
+        "oil",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GZEtHdCq2Dx4DX1SJJ7Ay_38.231507_-81.535692@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434664,
+    "wof:geomhash":"2153be8da3a05c482c20be3d12163efe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823446311
+        }
+    ],
+    "wof:id":823446311,
+    "wof:lastmodified":1463434664,
+    "wof:name":"Fred's Ashland Station 1",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "general"
+    ]
+},
+  "bbox": [
+    -81.535692,
+    38.231507,
+    -81.535692,
+    38.231507
+],
+  "geometry": {"coordinates":[-81.535692,38.231507],"type":"Point"}
+}

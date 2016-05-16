@@ -1,0 +1,71 @@
+{
+  "id": 823413409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.531803,38.316589,-81.531803,38.316589",
+    "geom:latitude":38.316589,
+    "geom:longitude":-81.531803,
+    "iso:country":"US",
+    "sg:address":"385 Gap View Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 4315",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0o2mTvSPxLx3h6OztY9e10_38.316589_-81.531803@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433152,
+    "wof:geomhash":"429002925867b3df6892f9d0f4222d38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823413409
+        }
+    ],
+    "wof:id":823413409,
+    "wof:lastmodified":1463433152,
+    "wof:name":"G Edward Jarrett",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -81.531803,
+    38.316589,
+    -81.531803,
+    38.316589
+],
+  "geometry": {"coordinates":[-81.531803,38.316589],"type":"Point"}
+}

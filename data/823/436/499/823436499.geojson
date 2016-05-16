@@ -1,0 +1,71 @@
+{
+  "id": 823436499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.608974,40.274172,-80.608974,40.274172",
+    "geom:latitude":40.274172,
+    "geom:longitude":-80.608974,
+    "iso:country":"US",
+    "sg:address":"1423 Commerce St",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 4336",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ouzzOgrYBvXrj68njAdVV_40.274172_-80.608974@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434194,
+    "wof:geomhash":"81f4c5c8d9d99ad4970886cab43ed6c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823436499
+        }
+    ],
+    "wof:id":823436499,
+    "wof:lastmodified":1463434194,
+    "wof:name":"Wellsburg Medical Offices",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -80.608974,
+    40.274172,
+    -80.608974,
+    40.274172
+],
+  "geometry": {"coordinates":[-80.608974,40.274172],"type":"Point"}
+}

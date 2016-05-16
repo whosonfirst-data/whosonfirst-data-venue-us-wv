@@ -1,0 +1,73 @@
+{
+  "id": 823377315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.589486,38.326005,-81.589486,38.326005",
+    "geom:latitude":38.326005,
+    "geom:longitude":-81.589486,
+    "iso:country":"US",
+    "sg:address":"4004 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 926 0172",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07GLjatBxd54meBAuTbIM3_38.326005_-81.589486@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431528,
+    "wof:geomhash":"2f02cbac75c26d67da713bca8cce8b04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823377315
+        }
+    ],
+    "wof:id":823377315,
+    "wof:lastmodified":1463431528,
+    "wof:name":"Sandra J Lewis MD",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.589486,
+    38.326005,
+    -81.589486,
+    38.326005
+],
+  "geometry": {"coordinates":[-81.58948599999999,38.326005],"type":"Point"}
+}

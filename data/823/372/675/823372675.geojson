@@ -1,0 +1,69 @@
+{
+  "id": 823372675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.519838,39.294869,-81.519838,39.294869",
+    "geom:latitude":39.294869,
+    "geom:longitude":-81.519838,
+    "iso:country":"US",
+    "sg:address":"4544 Emerson Ave",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 428 5222",
+    "sg:postcode":"26104",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cafe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818799,
+        102083343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7m1fE8y6gQF8P2oQxP45Kc_39.294869_-81.519838@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431310,
+    "wof:geomhash":"93e0d6a4c3e97d6a9c559ef226da9e9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "neighbourhood_id":85818799,
+            "region_id":85688589,
+            "venue_id":823372675
+        }
+    ],
+    "wof:id":823372675,
+    "wof:lastmodified":1463431310,
+    "wof:name":"Stoney Cafe",
+    "wof:parent_id":85818799,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cafe"
+    ]
+},
+  "bbox": [
+    -81.519838,
+    39.294869,
+    -81.519838,
+    39.294869
+],
+  "geometry": {"coordinates":[-81.51983799999999,39.294869],"type":"Point"}
+}

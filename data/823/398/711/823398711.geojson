@@ -1,0 +1,71 @@
+{
+  "id": 823398711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.947955,39.6718,-79.947955,39.6718",
+    "geom:latitude":39.6718,
+    "geom:longitude":-79.947955,
+    "iso:country":"US",
+    "sg:address":"1179 Bakers Ridge Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 4786",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54pUdfdgKtFddo5kwIjzs3_39.671800_-79.947955@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432520,
+    "wof:geomhash":"9ced345faa71805c41e976ff985766e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823398711
+        }
+    ],
+    "wof:id":823398711,
+    "wof:lastmodified":1463432520,
+    "wof:name":"Earth Movers & Co",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -79.947955,
+    39.6718,
+    -79.947955,
+    39.6718
+],
+  "geometry": {"coordinates":[-79.94795499999999,39.6718],"type":"Point"}
+}

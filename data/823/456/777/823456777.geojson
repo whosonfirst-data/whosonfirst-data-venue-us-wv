@@ -1,0 +1,76 @@
+{
+  "id": 823456777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.591761,40.398058,-80.591761,40.398058",
+    "geom:latitude":40.398058,
+    "geom:longitude":-80.591761,
+    "iso:country":"US",
+    "sg:address":"3628 Main St",
+    "sg:city":"Weirton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 748 9694",
+    "sg:postcode":"26062",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grocers-specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731371,
+        102082633,
+        85832497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KnNZD5U2yNDCRzTtqSidS_40.398058_-80.591761@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435124,
+    "wof:geomhash":"1c4599b24b7131c63a2e09592c66b4bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731371,
+            "neighbourhood_id":85832497,
+            "region_id":85688589,
+            "venue_id":823456777
+        }
+    ],
+    "wof:id":823456777,
+    "wof:lastmodified":1463435124,
+    "wof:name":"M & B Market",
+    "wof:parent_id":85832497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocers-specialty"
+    ]
+},
+  "bbox": [
+    -80.591761,
+    40.398058,
+    -80.591761,
+    40.398058
+],
+  "geometry": {"coordinates":[-80.59176100000001,40.398058],"type":"Point"}
+}

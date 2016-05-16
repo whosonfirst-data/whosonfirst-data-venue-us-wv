@@ -1,0 +1,73 @@
+{
+  "id": 823441883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.988282,39.456023,-77.988282,39.456023",
+    "geom:latitude":39.456023,
+    "geom:longitude":-77.988282,
+    "iso:country":"US",
+    "sg:address":"940 Foxcroft Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 264 8883",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0C4YjUkzpygzce7OgVdO6H_39.456023_-77.988282@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434439,
+    "wof:geomhash":"7d055c8f501a8a210af9768ede4956cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823441883
+        }
+    ],
+    "wof:id":823441883,
+    "wof:lastmodified":1463434439,
+    "wof:name":"Video Warehouse Inc",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -77.988282,
+    39.456023,
+    -77.988282,
+    39.456023
+],
+  "geometry": {"coordinates":[-77.988282,39.456023],"type":"Point"}
+}

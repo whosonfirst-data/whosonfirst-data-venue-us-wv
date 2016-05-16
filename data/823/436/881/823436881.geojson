@@ -1,0 +1,73 @@
+{
+  "id": 823436881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.927945,39.021727,-79.927945,39.021727",
+    "geom:latitude":39.021727,
+    "geom:longitude":-79.927945,
+    "iso:country":"US",
+    "sg:address":"319 Serpell Ave",
+    "sg:city":"Belington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 823 3300",
+    "sg:postcode":"26250",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QgMbx1IGh1OE5sBJ23odF_39.021727_-79.927945@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434213,
+    "wof:geomhash":"25783a6340af221d65ef634667661c9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823436881
+        }
+    ],
+    "wof:id":823436881,
+    "wof:lastmodified":1463434213,
+    "wof:name":"Talbott Personal Care Home",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -79.927945,
+    39.021727,
+    -79.927945,
+    39.021727
+],
+  "geometry": {"coordinates":[-79.92794499999999,39.021727],"type":"Point"}
+}

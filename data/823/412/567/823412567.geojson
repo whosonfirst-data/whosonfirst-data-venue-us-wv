@@ -1,0 +1,75 @@
+{
+  "id": 823412567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.700142,38.367937,-81.700142,38.367937",
+    "geom:latitude":38.367937,
+    "geom:longitude":-81.700142,
+    "iso:country":"US",
+    "sg:address":"107 Maccorkle Ave SW",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 3644",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "renting",
+        "automobile",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BJDtgHiBaBD5vAp1wIKqK_38.367937_-81.700142@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433124,
+    "wof:geomhash":"b0d9cce086610051099f9376ecaead0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823412567
+        }
+    ],
+    "wof:id":823412567,
+    "wof:lastmodified":1463433124,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -81.700142,
+    38.367937,
+    -81.700142,
+    38.367937
+],
+  "geometry": {"coordinates":[-81.700142,38.367937],"type":"Point"}
+}

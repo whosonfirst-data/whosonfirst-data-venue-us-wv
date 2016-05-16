@@ -1,0 +1,71 @@
+{
+  "id": 823430899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.640725,38.359752,-81.640725,38.359752",
+    "geom:latitude":38.359752,
+    "geom:longitude":-81.640725,
+    "iso:country":"US",
+    "sg:address":"611 Pennsylvania Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 9562",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PXFGs04pw7SIfoNQk6kgU_38.359752_-81.640725@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433915,
+    "wof:geomhash":"09cc5c3ee684ef66b9be1b018fe0360a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823430899
+        }
+    ],
+    "wof:id":823430899,
+    "wof:lastmodified":1463433915,
+    "wof:name":"Jones Printing Co",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial"
+    ]
+},
+  "bbox": [
+    -81.640725,
+    38.359752,
+    -81.640725,
+    38.359752
+],
+  "geometry": {"coordinates":[-81.640725,38.359752],"type":"Point"}
+}

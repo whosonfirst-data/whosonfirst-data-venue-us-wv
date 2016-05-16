@@ -1,0 +1,67 @@
+{
+  "id": 823443929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.576979,38.370739,-81.576979,38.370739",
+    "geom:latitude":38.370739,
+    "geom:longitude":-81.576979,
+    "iso:country":"US",
+    "sg:address":"1500 Greenbrier St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 348 6500",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:website":"www.capitalhigh.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3365MKSV6Gn3comh6REtlB_38.370739_-81.576979@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434539,
+    "wof:geomhash":"1e5e5444a14de5760219e66cb433edd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823443929
+        }
+    ],
+    "wof:id":823443929,
+    "wof:lastmodified":1463434539,
+    "wof:name":"Capitol High School",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.576979,
+    38.370739,
+    -81.576979,
+    38.370739
+],
+  "geometry": {"coordinates":[-81.57697899999999,38.370739],"type":"Point"}
+}

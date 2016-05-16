@@ -1,0 +1,73 @@
+{
+  "id": 823409137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.700165,38.366887,-81.700165,38.366887",
+    "geom:latitude":38.366887,
+    "geom:longitude":-81.700165,
+    "iso:country":"US",
+    "sg:address":"135 7th Ave",
+    "sg:city":"South Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 3911",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XaxISCr44uUnr4SRshJUh_38.366887_-81.700165@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432990,
+    "wof:geomhash":"46ef04c02bb181c947e3c23467a01e08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823409137
+        }
+    ],
+    "wof:id":823409137,
+    "wof:lastmodified":1463432990,
+    "wof:name":"Jose Y Auditor MD",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.700165,
+    38.366887,
+    -81.700165,
+    38.366887
+],
+  "geometry": {"coordinates":[-81.700165,38.366887],"type":"Point"}
+}

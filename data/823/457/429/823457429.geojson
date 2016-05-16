@@ -1,0 +1,97 @@
+{
+  "id": 823457429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.989484,39.653888,-79.989484,39.653888",
+    "geom:latitude":39.653888,
+    "geom:longitude":-79.989484,
+    "iso:country":"US",
+    "sg:address":"252 N Main St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 598 7788",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "control",
+        "weight",
+        "consultant",
+        "program",
+        "fitness",
+        "physical"
+    ],
+    "sg:website":"http://www.curves.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731749,
+        102082587,
+        85807277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jY9Vc5kt9N4fJuuC6SBiJ_39.653888_-79.989484@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435159,
+    "wof:geomhash":"182eb830233ba3f5933b85bdabae6d4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731749,
+            "neighbourhood_id":85807277,
+            "region_id":85688589,
+            "venue_id":823457429
+        }
+    ],
+    "wof:id":823457429,
+    "wof:lastmodified":1463435159,
+    "wof:name":"Curves",
+    "wof:parent_id":85807277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "weight",
+        "consultant",
+        "program",
+        "fitness",
+        "physical"
+    ]
+},
+  "bbox": [
+    -79.989484,
+    39.653888,
+    -79.989484,
+    39.653888
+],
+  "geometry": {"coordinates":[-79.989484,39.653888],"type":"Point"}
+}

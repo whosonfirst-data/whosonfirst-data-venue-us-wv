@@ -1,0 +1,73 @@
+{
+  "id": 823398137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.92853,39.637139,-79.92853,39.637139",
+    "geom:latitude":39.637139,
+    "geom:longitude":-79.92853,
+    "iso:country":"US",
+    "sg:address":"1233 Tyson Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 291 5135",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85858573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2p12udpq6ksEQ3AP9z2L05_39.637139_-79.928530@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432494,
+    "wof:geomhash":"31e09860c2246094390f7606f4d7304f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85858573,
+            "region_id":85688589,
+            "venue_id":823398137
+        }
+    ],
+    "wof:id":823398137,
+    "wof:lastmodified":1463432494,
+    "wof:name":"Transmissions Plus",
+    "wof:parent_id":85858573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -79.92853,
+    39.637139,
+    -79.92853,
+    39.637139
+],
+  "geometry": {"coordinates":[-79.92852999999999,39.637139],"type":"Point"}
+}

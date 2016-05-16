@@ -1,0 +1,75 @@
+{
+  "id": 823449911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.146664,39.484926,-80.146664,39.484926",
+    "geom:latitude":39.484926,
+    "geom:longitude":-80.146664,
+    "iso:country":"US",
+    "sg:address":"10 Locust Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 3090",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KwTm3JlU2ffhJvnqdDY3c_39.484926_-80.146664@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434814,
+    "wof:geomhash":"f1ea2aa5825b3fc44356f58ab2962100",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823449911
+        }
+    ],
+    "wof:id":823449911,
+    "wof:lastmodified":1463434814,
+    "wof:name":"Wayne's Body Shop",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -80.146664,
+    39.484926,
+    -80.146664,
+    39.484926
+],
+  "geometry": {"coordinates":[-80.146664,39.484926],"type":"Point"}
+}

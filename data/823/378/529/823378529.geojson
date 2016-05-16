@@ -1,0 +1,75 @@
+{
+  "id": 823378529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.506929,38.400778,-82.506929,38.400778",
+    "geom:latitude":38.400778,
+    "geom:longitude":-82.506929,
+    "iso:country":"US",
+    "sg:address":"3457 Piedmont Rd",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 429 6265",
+    "sg:postcode":"25704",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083329,
+        85868315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58eSGfPtagsu4O9damIXIF_38.400778_-82.506929@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431578,
+    "wof:geomhash":"a52824fe6b5c1f74ed7bff86cb0802a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731553,
+            "neighbourhood_id":85868315,
+            "region_id":85688589,
+            "venue_id":823378529
+        }
+    ],
+    "wof:id":823378529,
+    "wof:lastmodified":1463431578,
+    "wof:name":"Billy M Jordan Inc",
+    "wof:parent_id":85868315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -82.506929,
+    38.400778,
+    -82.506929,
+    38.400778
+],
+  "geometry": {"coordinates":[-82.506929,38.400778],"type":"Point"}
+}

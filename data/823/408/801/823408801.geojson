@@ -1,0 +1,73 @@
+{
+  "id": 823408801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.843519,38.922985,-79.843519,38.922985",
+    "geom:latitude":38.922985,
+    "geom:longitude":-79.843519,
+    "iso:country":"US",
+    "sg:address":"4 Randolph Ave",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 2053",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "county",
+        "counsel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MdbBzE9mLu7kHBzGjSjd3_38.922985_-79.843519@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432977,
+    "wof:geomhash":"f05b3ee71d9c71b98d5615b8468218bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823408801
+        }
+    ],
+    "wof:id":823408801,
+    "wof:lastmodified":1463432977,
+    "wof:name":"Randolph County Prosecuting",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "counsel"
+    ]
+},
+  "bbox": [
+    -79.843519,
+    38.922985,
+    -79.843519,
+    38.922985
+],
+  "geometry": {"coordinates":[-79.843519,38.922985],"type":"Point"}
+}

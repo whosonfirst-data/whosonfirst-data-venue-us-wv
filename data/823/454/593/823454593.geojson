@@ -1,0 +1,86 @@
+{
+  "id": 823454593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.967476,39.454246,-77.967476,39.454246",
+    "geom:latitude":39.454246,
+    "geom:longitude":-77.967476,
+    "iso:country":"US",
+    "sg:address":"316 W Stephen St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 3788",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "psychologist",
+        "sleep",
+        "treatment",
+        "surgeon",
+        "disorders-information"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Rf1lrUR5L1n8lr9PKSLV8_39.454246_-77.967476@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435039,
+    "wof:geomhash":"c3941e0226a7c7b38896ea0787050e33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823454593
+        }
+    ],
+    "wof:id":823454593,
+    "wof:lastmodified":1463435039,
+    "wof:name":"Paul F Kradel Dr",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "psychologist",
+        "sleep",
+        "treatment",
+        "surgeon",
+        "disorders-information"
+    ]
+},
+  "bbox": [
+    -77.967476,
+    39.454246,
+    -77.967476,
+    39.454246
+],
+  "geometry": {"coordinates":[-77.967476,39.454246],"type":"Point"}
+}

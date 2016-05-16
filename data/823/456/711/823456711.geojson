@@ -1,0 +1,78 @@
+{
+  "id": 823456711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.598662,40.390305,-80.598662,40.390305",
+    "geom:latitude":40.390305,
+    "geom:longitude":-80.598662,
+    "iso:country":"US",
+    "sg:address":"4337 Freedom Way",
+    "sg:city":"Weirton",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 748 1900",
+    "sg:postcode":"26062",
+    "sg:province":"WV",
+    "sg:tags":[
+        "tavern",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731371,
+        102082633,
+        85832497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_120XiNYfpsRBwUame8BIpL_40.390305_-80.598662@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435122,
+    "wof:geomhash":"1aca2cf289ab79cf170134657ed33b60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731371,
+            "neighbourhood_id":85832497,
+            "region_id":85688589,
+            "venue_id":823456711
+        }
+    ],
+    "wof:id":823456711,
+    "wof:lastmodified":1463435122,
+    "wof:name":"Freedom Way Lounge",
+    "wof:parent_id":85832497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -80.598662,
+    40.390305,
+    -80.598662,
+    40.390305
+],
+  "geometry": {"coordinates":[-80.598662,40.390305],"type":"Point"}
+}

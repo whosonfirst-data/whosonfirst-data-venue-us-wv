@@ -1,0 +1,73 @@
+{
+  "id": 823379275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.934801,39.654165,-79.934801,39.654165",
+    "geom:latitude":39.654165,
+    "geom:longitude":-79.934801,
+    "iso:country":"US",
+    "sg:address":"1325 Stewartstown Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 1000",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731747,
+        102082587,
+        85819247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1B3wTMhuWiRk4Y1adzj4CR_39.654165_-79.934801@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431610,
+    "wof:geomhash":"2f3a9930a3aaeef050ea52036f5d9e65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85819247,
+            "region_id":85688589,
+            "venue_id":823379275
+        }
+    ],
+    "wof:id":823379275,
+    "wof:lastmodified":1463431610,
+    "wof:name":"Alexander Construction Co",
+    "wof:parent_id":85819247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -79.934801,
+    39.654165,
+    -79.934801,
+    39.654165
+],
+  "geometry": {"coordinates":[-79.93480099999999,39.654165],"type":"Point"}
+}

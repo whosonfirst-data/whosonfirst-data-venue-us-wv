@@ -1,0 +1,71 @@
+{
+  "id": 823390625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.920789,38.45216,-81.920789,38.45216",
+    "geom:latitude":38.45216,
+    "geom:longitude":-81.920789,
+    "iso:country":"US",
+    "sg:address":"153 Oakwood Ests",
+    "sg:city":"Scott Depot",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 776 5616",
+    "sg:postcode":"25560",
+    "sg:province":"WV",
+    "sg:tags":[
+        "special"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731829,
+        102083381,
+        85868321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07u5ATmzVuJ2o7ZoSjJeJW_38.452160_-81.920789@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432105,
+    "wof:geomhash":"b5f6b6eee2bdb177a0e64bea024d148c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731829,
+            "neighbourhood_id":85868321,
+            "region_id":85688589,
+            "venue_id":823390625
+        }
+    ],
+    "wof:id":823390625,
+    "wof:lastmodified":1463432105,
+    "wof:name":"JMJ Mini Storage",
+    "wof:parent_id":85868321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "special"
+    ]
+},
+  "bbox": [
+    -81.920789,
+    38.45216,
+    -81.920789,
+    38.45216
+],
+  "geometry": {"coordinates":[-81.920789,38.45216],"type":"Point"}
+}

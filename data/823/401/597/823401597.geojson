@@ -1,0 +1,73 @@
+{
+  "id": 823401597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.225579,37.269014,-81.225579,37.269014",
+    "geom:latitude":37.269014,
+    "geom:longitude":-81.225579,
+    "iso:country":"US",
+    "sg:address":"100 Princeton Ave",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 325 6815",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4abni6GGrob4Yvat7SdQA2_37.269014_-81.225579@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432656,
+    "wof:geomhash":"52f6def59f64620f502b61632bf900a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823401597
+        }
+    ],
+    "wof:id":823401597,
+    "wof:lastmodified":1463432656,
+    "wof:name":"C & M Auto A/C & Repair",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -81.225579,
+    37.269014,
+    -81.225579,
+    37.269014
+],
+  "geometry": {"coordinates":[-81.225579,37.269014],"type":"Point"}
+}

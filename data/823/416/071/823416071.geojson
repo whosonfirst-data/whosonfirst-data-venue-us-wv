@@ -1,0 +1,71 @@
+{
+  "id": 823416071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.983214,39.44026,-77.983214,39.44026",
+    "geom:latitude":39.44026,
+    "geom:longitude":-77.983214,
+    "iso:country":"US",
+    "sg:address":"1140 Winchester Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 264 8781",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xCPYYkB8IH3R2J4owpN8k_39.440260_-77.983214@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433282,
+    "wof:geomhash":"b1cfea30e07e9100d1324f9b345efec6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823416071
+        }
+    ],
+    "wof:id":823416071,
+    "wof:lastmodified":1463433282,
+    "wof:name":"Food Lion",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -77.983214,
+    39.44026,
+    -77.983214,
+    39.44026
+],
+  "geometry": {"coordinates":[-77.983214,39.44026],"type":"Point"}
+}

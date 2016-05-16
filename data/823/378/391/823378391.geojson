@@ -1,0 +1,79 @@
+{
+  "id": 823378391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.222436,37.254138,-81.222436,37.254138",
+    "geom:latitude":37.254138,
+    "geom:longitude":-81.222436,
+    "iso:country":"US",
+    "sg:address":"1909 Wythe Ave",
+    "sg:city":"Bluewell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 325 8644",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "shop",
+        "automotive",
+        "radiator",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5twkEFb1kLXxapKZaHM3GA_37.254138_-81.222436@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431573,
+    "wof:geomhash":"9e4f0043e456aa3f10b23ca4c2b02a8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823378391
+        }
+    ],
+    "wof:id":823378391,
+    "wof:lastmodified":1463431573,
+    "wof:name":"Bellini's Radiator",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "shop",
+        "automotive",
+        "radiator",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -81.222436,
+    37.254138,
+    -81.222436,
+    37.254138
+],
+  "geometry": {"coordinates":[-81.222436,37.254138],"type":"Point"}
+}

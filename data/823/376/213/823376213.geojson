@@ -1,0 +1,75 @@
+{
+  "id": 823376213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.957126,39.631152,-79.957126,39.631152",
+    "geom:latitude":39.631152,
+    "geom:longitude":-79.957126,
+    "iso:country":"US",
+    "sg:address":"1301 University Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 4257",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automobile",
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12O3FfxVcy155FoOV2YnbY_39.631152_-79.957126@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431467,
+    "wof:geomhash":"b80b5e90ea588d3aeb65c2d90813d260",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851489,
+            "region_id":85688589,
+            "venue_id":823376213
+        }
+    ],
+    "wof:id":823376213,
+    "wof:lastmodified":1463431467,
+    "wof:name":"Vics Garage & Towing",
+    "wof:parent_id":85851489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "towing"
+    ]
+},
+  "bbox": [
+    -79.957126,
+    39.631152,
+    -79.957126,
+    39.631152
+],
+  "geometry": {"coordinates":[-79.957126,39.631152],"type":"Point"}
+}

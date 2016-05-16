@@ -1,0 +1,71 @@
+{
+  "id": 823378633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.586005,38.348013,-81.586005,38.348013",
+    "geom:latitude":38.348013,
+    "geom:longitude":-81.586005,
+    "iso:country":"US",
+    "sg:address":"412 Spence Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 6680",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "janitorial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ATod8s6Td9MRhKbtKp3PL_38.348013_-81.586005@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431582,
+    "wof:geomhash":"43815dba6dfc5648e32a26fd8b9956f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823378633
+        }
+    ],
+    "wof:id":823378633,
+    "wof:lastmodified":1463431582,
+    "wof:name":"Olstons Cleaning Service",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitorial"
+    ]
+},
+  "bbox": [
+    -81.586005,
+    38.348013,
+    -81.586005,
+    38.348013
+],
+  "geometry": {"coordinates":[-81.586005,38.348013],"type":"Point"}
+}

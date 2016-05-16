@@ -1,0 +1,73 @@
+{
+  "id": 823419349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.692486,38.365021,-81.692486,38.365021",
+    "geom:latitude":38.365021,
+    "geom:longitude":-81.692486,
+    "iso:country":"US",
+    "sg:address":"323 2nd Ave SW",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 1307",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MpR3Eu7D2SpSmTMNWmzkr_38.365021_-81.692486@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433439,
+    "wof:geomhash":"01833fa77fcd078fd15c28c9892c04be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823419349
+        }
+    ],
+    "wof:id":823419349,
+    "wof:lastmodified":1463433439,
+    "wof:name":"Wesbanco",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -81.692486,
+    38.365021,
+    -81.692486,
+    38.365021
+],
+  "geometry": {"coordinates":[-81.692486,38.365021],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823371577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.670422,38.478119,-81.670422,38.478119",
+    "geom:latitude":38.478119,
+    "geom:longitude":-81.670422,
+    "iso:country":"US",
+    "sg:address":"6438 Sissonville Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 984 0006",
+    "sg:postcode":"25320",
+    "sg:province":"WV",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gvL34lOFcSMunOvIcYIxz_38.478119_-81.670422@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431260,
+    "wof:geomhash":"da691377f7b9780a85959ddefd2b56b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823371577
+        }
+    ],
+    "wof:id":823371577,
+    "wof:lastmodified":1463431260,
+    "wof:name":"Sissonville Sheriff's Dept",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -81.670422,
+    38.478119,
+    -81.670422,
+    38.478119
+],
+  "geometry": {"coordinates":[-81.670422,38.478119],"type":"Point"}
+}

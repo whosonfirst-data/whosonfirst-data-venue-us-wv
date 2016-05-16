@@ -1,0 +1,73 @@
+{
+  "id": 823367413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.96427,38.985825,-81.96427,38.985825",
+    "geom:latitude":38.985825,
+    "geom:longitude":-81.96427,
+    "iso:country":"US",
+    "sg:address":"907 4th St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 882 3194",
+    "sg:postcode":"25265",
+    "sg:province":"WV",
+    "sg:tags":[
+        "prod",
+        "prepared"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731555,
+        102082637,
+        85830595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gLlku37Teh1Gy8Nx603JA_38.985825_-81.964270@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431072,
+    "wof:geomhash":"cf20ce811730f6e707613b6ffaca0b93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082637,
+            "locality_id":101731555,
+            "neighbourhood_id":85830595,
+            "region_id":85688589,
+            "venue_id":823367413
+        }
+    ],
+    "wof:id":823367413,
+    "wof:lastmodified":1463431072,
+    "wof:name":"WV Sausage Inc",
+    "wof:parent_id":85830595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "prod",
+        "prepared"
+    ]
+},
+  "bbox": [
+    -81.96427,
+    38.985825,
+    -81.96427,
+    38.985825
+],
+  "geometry": {"coordinates":[-81.96427,38.985825],"type":"Point"}
+}

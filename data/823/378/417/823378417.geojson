@@ -1,0 +1,71 @@
+{
+  "id": 823378417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.209014,39.290089,-80.209014,39.290089",
+    "geom:latitude":39.290089,
+    "geom:longitude":-80.209014,
+    "iso:country":"US",
+    "sg:address":"101 Maple Lake",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 6840",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ijUg8NWRcMR6PbZnTzlFD_39.290089_-80.209014@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431574,
+    "wof:geomhash":"6e752e963164bba14ab3cfb397caefca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823378417
+        }
+    ],
+    "wof:id":823378417,
+    "wof:lastmodified":1463431574,
+    "wof:name":"Carolyn's Hair Corner",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -80.209014,
+    39.290089,
+    -80.209014,
+    39.290089
+],
+  "geometry": {"coordinates":[-80.209014,39.290089],"type":"Point"}
+}

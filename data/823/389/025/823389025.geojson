@@ -1,0 +1,75 @@
+{
+  "id": 823389025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.743618,38.360193,-81.743618,38.360193",
+    "geom:latitude":38.360193,
+    "geom:longitude":-81.743618,
+    "iso:country":"US",
+    "sg:address":"1428 Ohio Ave",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 766 6900",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_579kFu6kUdd41cqTj9vQSZ_38.360193_-81.743618@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432031,
+    "wof:geomhash":"c60cd28fbd3de6b5abf21ad1ffea22ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823389025
+        }
+    ],
+    "wof:id":823389025,
+    "wof:lastmodified":1463432031,
+    "wof:name":"Custom Plating & Polishing",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -81.743618,
+    38.360193,
+    -81.743618,
+    38.360193
+],
+  "geometry": {"coordinates":[-81.743618,38.360193],"type":"Point"}
+}

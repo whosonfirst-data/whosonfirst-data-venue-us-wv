@@ -1,0 +1,71 @@
+{
+  "id": 823420165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.340209,39.279383,-80.340209,39.279383",
+    "geom:latitude":39.279383,
+    "geom:longitude":-80.340209,
+    "iso:country":"US",
+    "sg:address":"333 W Main St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 624 9149",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RRq7RCGox9voBxUXTh7Ty_39.279383_-80.340209@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433472,
+    "wof:geomhash":"7ae5e34279ca0b38971c9bee2ef151df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823420165
+        }
+    ],
+    "wof:id":823420165,
+    "wof:lastmodified":1463433472,
+    "wof:name":"Secret & Shields",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -80.340209,
+    39.279383,
+    -80.340209,
+    39.279383
+],
+  "geometry": {"coordinates":[-80.340209,39.279383],"type":"Point"}
+}

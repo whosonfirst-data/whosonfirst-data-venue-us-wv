@@ -1,0 +1,71 @@
+{
+  "id": 823446937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.974515,38.986892,-81.974515,38.986892",
+    "geom:latitude":38.986892,
+    "geom:longitude":-81.974515,
+    "iso:country":"US",
+    "sg:address":"311 5th St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 882 3401",
+    "sg:postcode":"25265",
+    "sg:province":"WV",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731555,
+        102082637,
+        85830595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YgahcmZvtImfgj2t3tvfd_38.986892_-81.974515@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434689,
+    "wof:geomhash":"da6fd2ff25d7cb0528644699ecdf078a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082637,
+            "locality_id":101731555,
+            "neighbourhood_id":85830595,
+            "region_id":85688589,
+            "venue_id":823446937
+        }
+    ],
+    "wof:id":823446937,
+    "wof:lastmodified":1463434689,
+    "wof:name":"Siders Jewelers",
+    "wof:parent_id":85830595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -81.974515,
+    38.986892,
+    -81.974515,
+    38.986892
+],
+  "geometry": {"coordinates":[-81.974515,38.986892],"type":"Point"}
+}

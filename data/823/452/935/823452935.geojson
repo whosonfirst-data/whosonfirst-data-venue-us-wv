@@ -1,0 +1,74 @@
+{
+  "id": 823452935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.472273,38.415162,-82.472273,38.415162",
+    "geom:latitude":38.415162,
+    "geom:longitude":-82.472273,
+    "iso:country":"US",
+    "sg:address":"51 Washington Ct",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/hodges/167474-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 525 3682",
+    "sg:postcode":"25704",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731553,
+        102083329,
+        85855709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KKCztc8eIqKywkiFO6aKr_38.415162_-82.472273@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434926,
+    "wof:geomhash":"f475f440bad0fb93053d138f4978090b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731553,
+            "neighbourhood_id":85855709,
+            "region_id":85688589,
+            "venue_id":823452935
+        }
+    ],
+    "wof:id":823452935,
+    "wof:lastmodified":1463434926,
+    "wof:name":"Burger King",
+    "wof:parent_id":85855709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -82.472273,
+    38.415162,
+    -82.472273,
+    38.415162
+],
+  "geometry": {"coordinates":[-82.472273,38.415162],"type":"Point"}
+}

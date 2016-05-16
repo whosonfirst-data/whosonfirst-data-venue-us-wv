@@ -1,0 +1,73 @@
+{
+  "id": 823379699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.201433,37.257018,-81.201433,37.257018",
+    "geom:latitude":37.257018,
+    "geom:longitude":-81.201433,
+    "iso:country":"US",
+    "sg:address":"2813 Crestwood Dr",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 327 8185",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YMQiMoVhTaIS6IBGTVKZp_37.257018_-81.201433@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431626,
+    "wof:geomhash":"fbcacf687fb2dd3c0912722b207847bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823379699
+        }
+    ],
+    "wof:id":823379699,
+    "wof:lastmodified":1463431626,
+    "wof:name":"Allens Electric",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.201433,
+    37.257018,
+    -81.201433,
+    37.257018
+],
+  "geometry": {"coordinates":[-81.20143299999999,37.257018],"type":"Point"}
+}

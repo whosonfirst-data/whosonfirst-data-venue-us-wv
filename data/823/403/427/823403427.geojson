@@ -1,0 +1,67 @@
+{
+  "id": 823403427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.281021,39.279549,-80.281021,39.279549",
+    "geom:latitude":39.279549,
+    "geom:longitude":-80.281021,
+    "iso:country":"US",
+    "sg:address":"540 Emily Dr",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 622 1982",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:website":"www.dollartree.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MYL25iYkEvieWgdSb4mrJ_39.279549_-80.281021@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432729,
+    "wof:geomhash":"fb0cbf0d449c7ff3199654ed5e211f8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823403427
+        }
+    ],
+    "wof:id":823403427,
+    "wof:lastmodified":1463432729,
+    "wof:name":"Dollar Tree",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.281021,
+    39.279549,
+    -80.281021,
+    39.279549
+],
+  "geometry": {"coordinates":[-80.281021,39.279549],"type":"Point"}
+}

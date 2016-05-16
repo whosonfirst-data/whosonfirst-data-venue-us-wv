@@ -1,0 +1,75 @@
+{
+  "id": 823370833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.66915,40.055573,-80.66915,40.055573",
+    "geom:latitude":40.055573,
+    "geom:longitude":-80.66915,
+    "iso:country":"US",
+    "sg:address":"1801 National Rd",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 243 7890",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "chambers",
+        "commerce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85840717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UMNTZ0pFg2RdE3rvHsrAo_40.055573_-80.669150@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431207,
+    "wof:geomhash":"18475c39f199de4a50b0705a9a88ac9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85840717,
+            "region_id":85688589,
+            "venue_id":823370833
+        }
+    ],
+    "wof:id":823370833,
+    "wof:lastmodified":1463431207,
+    "wof:name":"Chamber Of Commerce",
+    "wof:parent_id":85840717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chambers",
+        "commerce"
+    ]
+},
+  "bbox": [
+    -80.66915,
+    40.055573,
+    -80.66915,
+    40.055573
+],
+  "geometry": {"coordinates":[-80.66915,40.055573],"type":"Point"}
+}

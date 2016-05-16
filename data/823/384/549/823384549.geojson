@@ -1,0 +1,71 @@
+{
+  "id": 823384549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.466421,39.037259,-80.466421,39.037259",
+    "geom:latitude":39.037259,
+    "geom:longitude":-80.466421,
+    "iso:country":"US",
+    "sg:address":"104 Center St",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 269 4660",
+    "sg:postcode":"26452",
+    "sg:province":"WV",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85833241,
+        102083339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kYW7pVihlLR96UHHmXZCk_39.037259_-80.466421@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431834,
+    "wof:geomhash":"214556842fe67a5f849848c7e6240b43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083339,
+            "neighbourhood_id":85833241,
+            "region_id":85688589,
+            "venue_id":823384549
+        }
+    ],
+    "wof:id":823384549,
+    "wof:lastmodified":1463431834,
+    "wof:name":"Lewis County Agriculture Extn",
+    "wof:parent_id":85833241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -80.466421,
+    39.037259,
+    -80.466421,
+    39.037259
+],
+  "geometry": {"coordinates":[-80.466421,39.037259],"type":"Point"}
+}

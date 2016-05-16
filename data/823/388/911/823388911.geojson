@@ -1,0 +1,71 @@
+{
+  "id": 823388911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.592056,38.327359,-81.592056,38.327359",
+    "geom:latitude":38.327359,
+    "geom:longitude":-81.592056,
+    "iso:country":"US",
+    "sg:address":"3822 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 5980",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YE9Xo7aLKm9efKt0OI0jG_38.327359_-81.592056@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432022,
+    "wof:geomhash":"c64f7330eba5444a04a42b458b2a655c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823388911
+        }
+    ],
+    "wof:id":823388911,
+    "wof:lastmodified":1463432022,
+    "wof:name":"Home Care Medical",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -81.592056,
+    38.327359,
+    -81.592056,
+    38.327359
+],
+  "geometry": {"coordinates":[-81.592056,38.327359],"type":"Point"}
+}

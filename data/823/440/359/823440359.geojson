@@ -1,0 +1,77 @@
+{
+  "id": 823440359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.525672,39.238542,-81.525672,39.238542",
+    "geom:latitude":39.238542,
+    "geom:longitude":-81.525672,
+    "iso:country":"US",
+    "sg:address":"4400 Camden Ave",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 485 9575",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator",
+        "local",
+        "storage",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jAaYzYTaBiZavDsF5Z5k7_39.238542_-81.525672@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434378,
+    "wof:geomhash":"039edb37821c30207c0b883cbc0e5cd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823440359
+        }
+    ],
+    "wof:id":823440359,
+    "wof:lastmodified":1463434378,
+    "wof:name":"Overnite Transportation Co",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "storage",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -81.525672,
+    39.238542,
+    -81.525672,
+    39.238542
+],
+  "geometry": {"coordinates":[-81.525672,39.238542],"type":"Point"}
+}

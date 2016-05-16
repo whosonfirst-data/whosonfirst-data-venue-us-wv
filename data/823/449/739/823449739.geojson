@@ -1,0 +1,71 @@
+{
+  "id": 823449739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.612169,40.616797,-80.612169,40.616797",
+    "geom:latitude":40.616797,
+    "geom:longitude":-80.612169,
+    "iso:country":"US",
+    "sg:address":"1000 Washington St",
+    "sg:city":"Newell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 2327",
+    "sg:postcode":"26050",
+    "sg:province":"WV",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PjsVYU3pb6x5oP3mkWvH3_40.616797_-80.612169@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434807,
+    "wof:geomhash":"38aed730a3b06e2065d52988d27d9db4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823449739
+        }
+    ],
+    "wof:id":823449739,
+    "wof:lastmodified":1463434807,
+    "wof:name":"Stapler's Upholstery",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -80.612169,
+    40.616797,
+    -80.612169,
+    40.616797
+],
+  "geometry": {"coordinates":[-80.61216899999999,40.616797],"type":"Point"}
+}

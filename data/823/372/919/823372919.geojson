@@ -1,0 +1,83 @@
+{
+  "id": 823372919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.520725,39.271311,-81.520725,39.271311",
+    "geom:latitude":39.271311,
+    "geom:longitude":-81.520725,
+    "iso:country":"US",
+    "sg:address":"2301 Kennedy Ave",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 485 5503",
+    "sg:postcode":"26104",
+    "sg:province":"WV",
+    "sg:tags":[
+        "personal",
+        "residential",
+        "intermediate",
+        "home"
+    ],
+    "sg:website":"www.arlingtonpersonalcarehome.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85818775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Q93mS3m8UOtxn9aGw6wNr_39.271311_-81.520725@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431319,
+    "wof:geomhash":"3b13b7a64ca1c959861bd99a2ecf74df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85818775,
+            "region_id":85688589,
+            "venue_id":823372919
+        }
+    ],
+    "wof:id":823372919,
+    "wof:lastmodified":1463431319,
+    "wof:name":"Arlington Personal Care Hm Inc",
+    "wof:parent_id":85818775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "residential",
+        "intermediate",
+        "home"
+    ]
+},
+  "bbox": [
+    -81.520725,
+    39.271311,
+    -81.520725,
+    39.271311
+],
+  "geometry": {"coordinates":[-81.520725,39.271311],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823403503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.256951,39.282505,-80.256951,39.282505",
+    "geom:latitude":39.282505,
+    "geom:longitude":-80.256951,
+    "iso:country":"US",
+    "sg:address":"399 W Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 7614",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47rfkBSFF3GnyAc9LfHoUD_39.282505_-80.256951@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432731,
+    "wof:geomhash":"812fc29f5bbb65540f81273c980109f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823403503
+        }
+    ],
+    "wof:id":823403503,
+    "wof:lastmodified":1463432731,
+    "wof:name":"Global Mortgages",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -80.256951,
+    39.282505,
+    -80.256951,
+    39.282505
+],
+  "geometry": {"coordinates":[-80.256951,39.282505],"type":"Point"}
+}

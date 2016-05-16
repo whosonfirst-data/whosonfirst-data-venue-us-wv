@@ -1,0 +1,71 @@
+{
+  "id": 823443565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.611322,40.288551,-80.611322,40.288551",
+    "geom:latitude":40.288551,
+    "geom:longitude":-80.611322,
+    "iso:country":"US",
+    "sg:address":"49 26th St",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 2356",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ajsWcEw9QsYe5pdqc6nlf_40.288551_-80.611322@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434527,
+    "wof:geomhash":"cef98c9292caa10976440a825e17092b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823443565
+        }
+    ],
+    "wof:id":823443565,
+    "wof:lastmodified":1463434527,
+    "wof:name":"Ed Smith Contracting",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.611322,
+    40.288551,
+    -80.611322,
+    40.288551
+],
+  "geometry": {"coordinates":[-80.611322,40.288551],"type":"Point"}
+}

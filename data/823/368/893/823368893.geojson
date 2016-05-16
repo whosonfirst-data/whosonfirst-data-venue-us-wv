@@ -1,0 +1,71 @@
+{
+  "id": 823368893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.220839,37.269329,-81.220839,37.269329",
+    "geom:latitude":37.269329,
+    "geom:longitude":-81.220839,
+    "iso:country":"US",
+    "sg:address":"530 Raleigh St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 325 8960",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fbIt6VFVJSZzekRKT8e3H_37.269329_-81.220839@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431129,
+    "wof:geomhash":"e29243866907c6b87e6d4ac83958df8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823368893
+        }
+    ],
+    "wof:id":823368893,
+    "wof:lastmodified":1463431129,
+    "wof:name":"Cow Palace",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -81.220839,
+    37.269329,
+    -81.220839,
+    37.269329
+],
+  "geometry": {"coordinates":[-81.220839,37.269329],"type":"Point"}
+}

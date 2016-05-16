@@ -1,0 +1,71 @@
+{
+  "id": 823384589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.134935,39.482345,-80.134935,39.482345",
+    "geom:latitude":39.482345,
+    "geom:longitude":-80.134935,
+    "iso:country":"US",
+    "sg:address":"102 Maryland Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 365 1923",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kzMKbB7zrYsAwK7U3p6oD_39.482345_-80.134935@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431835,
+    "wof:geomhash":"ebde09dfed0a97ac8d787e784be8d214",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823384589
+        }
+    ],
+    "wof:id":823384589,
+    "wof:lastmodified":1463431835,
+    "wof:name":"Wash & Wax Auto Detailing",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -80.134935,
+    39.482345,
+    -80.134935,
+    39.482345
+],
+  "geometry": {"coordinates":[-80.134935,39.482345],"type":"Point"}
+}

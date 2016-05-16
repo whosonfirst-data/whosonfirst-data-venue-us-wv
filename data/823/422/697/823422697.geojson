@@ -1,0 +1,73 @@
+{
+  "id": 823422697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.559664,38.373659,-82.559664,38.373659",
+    "geom:latitude":38.373659,
+    "geom:longitude":-82.559664,
+    "iso:country":"US",
+    "sg:address":"1463 Airport Rd",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 2745",
+    "sg:postcode":"25704",
+    "sg:province":"WV",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083365,
+        85857035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DPGfcfEf5HsDkO1IMQa4G_38.373659_-82.559664@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433566,
+    "wof:geomhash":"a45173f75a259ebe73d3378235f983af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731553,
+            "neighbourhood_id":85857035,
+            "region_id":85688589,
+            "venue_id":823422697
+        }
+    ],
+    "wof:id":823422697,
+    "wof:lastmodified":1463433566,
+    "wof:name":"Hertz Rent A Car",
+    "wof:parent_id":85857035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -82.559664,
+    38.373659,
+    -82.559664,
+    38.373659
+],
+  "geometry": {"coordinates":[-82.559664,38.373659],"type":"Point"}
+}

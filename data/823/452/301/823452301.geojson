@@ -1,0 +1,78 @@
+{
+  "id": 823452301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.107103,37.359435,-81.107103,37.359435",
+    "geom:latitude":37.359435,
+    "geom:longitude":-81.107103,
+    "iso:country":"US",
+    "sg:address":"109 Courthouse Rd",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/princeton/139691-sicilias-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 8480",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78ciIX8xTSybDk0fXchkp5_37.359435_-81.107103@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434902,
+    "wof:geomhash":"033a3e9a2f0fae2ee17914aad1af51ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823452301
+        }
+    ],
+    "wof:id":823452301,
+    "wof:lastmodified":1463434902,
+    "wof:name":"Sicilia's Pizzeria",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -81.107103,
+    37.359435,
+    -81.107103,
+    37.359435
+],
+  "geometry": {"coordinates":[-81.107103,37.359435],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823384403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.633124,38.350064,-81.633124,38.350064",
+    "geom:latitude":38.350064,
+    "geom:longitude":-81.633124,
+    "iso:country":"US",
+    "sg:address":"211 Hale St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 9388",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iJK0O0oFLfMhljZ1q9nwR_38.350064_-81.633124@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431824,
+    "wof:geomhash":"16a0d8959d894d80f6e463c374c2bc75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823384403
+        }
+    ],
+    "wof:id":823384403,
+    "wof:lastmodified":1463431824,
+    "wof:name":"Sam's Hot Dog Stand",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -81.633124,
+    38.350064,
+    -81.633124,
+    38.350064
+],
+  "geometry": {"coordinates":[-81.633124,38.350064],"type":"Point"}
+}

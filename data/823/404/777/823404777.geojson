@@ -1,0 +1,67 @@
+{
+  "id": 823404777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.449156,37.800995,-80.449156,37.800995",
+    "geom:latitude":37.800995,
+    "geom:longitude":-80.449156,
+    "iso:country":"US",
+    "sg:address":"218 Church St",
+    "sg:city":"Lewisburg",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 645 2588",
+    "sg:postcode":"24901",
+    "sg:province":"WV",
+    "sg:website":"www.stjamesepiscopalchurch.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5avEqc2xzdyaHoMB4CohGn_37.800995_-80.449156@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432796,
+    "wof:geomhash":"766edfce0e46de2506c4265f410dab29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823404777
+        }
+    ],
+    "wof:id":823404777,
+    "wof:lastmodified":1463432796,
+    "wof:name":"St James Episcopal Church",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.449156,
+    37.800995,
+    -80.449156,
+    37.800995
+],
+  "geometry": {"coordinates":[-80.449156,37.800995],"type":"Point"}
+}

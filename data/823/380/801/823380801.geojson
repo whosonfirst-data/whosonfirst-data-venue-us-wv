@@ -1,0 +1,71 @@
+{
+  "id": 823380801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.611812,40.272085,-80.611812,40.272085",
+    "geom:latitude":40.272085,
+    "geom:longitude":-80.611812,
+    "iso:country":"US",
+    "sg:address":"901 Charles St",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 0751",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ijnuXCJXzs5IoUopiUIc9_40.272085_-80.611812@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431682,
+    "wof:geomhash":"04c6e9144cc9c7ad2f90d16d3ff2df0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823380801
+        }
+    ],
+    "wof:id":823380801,
+    "wof:lastmodified":1463431682,
+    "wof:name":"Presbyterian Church",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -80.611812,
+    40.272085,
+    -80.611812,
+    40.272085
+],
+  "geometry": {"coordinates":[-80.611812,40.272085],"type":"Point"}
+}

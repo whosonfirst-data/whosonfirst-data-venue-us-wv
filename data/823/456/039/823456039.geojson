@@ -1,0 +1,79 @@
+{
+  "id": 823456039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.183453,37.81265,-81.183453,37.81265",
+    "geom:latitude":37.81265,
+    "geom:longitude":-81.183453,
+    "iso:country":"US",
+    "sg:address":"308 Beckley Plz",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 252 3239",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "furnishing",
+        "dog",
+        "store",
+        "cat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2H1VfxNZKfOgXEJFHjhHT3_37.812650_-81.183453@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435097,
+    "wof:geomhash":"ed58fb857ca278c4fbb4a6ceeb89317a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823456039
+        }
+    ],
+    "wof:id":823456039,
+    "wof:lastmodified":1463435097,
+    "wof:name":"Petland",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furnishing",
+        "dog",
+        "store",
+        "cat"
+    ]
+},
+  "bbox": [
+    -81.183453,
+    37.81265,
+    -81.183453,
+    37.81265
+],
+  "geometry": {"coordinates":[-81.183453,37.81265],"type":"Point"}
+}

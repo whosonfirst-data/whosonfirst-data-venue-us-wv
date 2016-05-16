@@ -1,0 +1,77 @@
+{
+  "id": 823425433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.6514,38.363621,-81.6514,38.363621",
+    "geom:latitude":38.363621,
+    "geom:longitude":-81.6514,
+    "iso:country":"US",
+    "sg:address":"402 Elm St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 4565",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "agency",
+        "public",
+        "relations",
+        "advertising"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ifYM0zz9DeIC5n71cVpHs_38.363621_-81.651400@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433676,
+    "wof:geomhash":"b17400a7d93320535c4a4946cef6c293",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823425433
+        }
+    ],
+    "wof:id":823425433,
+    "wof:lastmodified":1463433676,
+    "wof:name":"Write Place",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "public",
+        "relations",
+        "advertising"
+    ]
+},
+  "bbox": [
+    -81.6514,
+    38.363621,
+    -81.6514,
+    38.363621
+],
+  "geometry": {"coordinates":[-81.6514,38.363621],"type":"Point"}
+}

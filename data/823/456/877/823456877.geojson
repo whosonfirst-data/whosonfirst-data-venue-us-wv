@@ -1,0 +1,81 @@
+{
+  "id": 823456877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.593231,40.395195,-80.593231,40.395195",
+    "geom:latitude":40.395195,
+    "geom:longitude":-80.593231,
+    "iso:country":"US",
+    "sg:address":"3920 Washington St",
+    "sg:city":"Weirton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 748 3780",
+    "sg:postcode":"26062",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731371,
+        102082633,
+        85832497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4447UJGlp2Awr8Vrn8f0te_40.395195_-80.593231@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435127,
+    "wof:geomhash":"a182eaf8c705d345b1b4ee1513ea6d5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731371,
+            "neighbourhood_id":85832497,
+            "region_id":85688589,
+            "venue_id":823456877
+        }
+    ],
+    "wof:id":823456877,
+    "wof:lastmodified":1463435127,
+    "wof:name":"Hagins Tod MD",
+    "wof:parent_id":85832497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -80.593231,
+    40.395195,
+    -80.593231,
+    40.395195
+],
+  "geometry": {"coordinates":[-80.593231,40.395195],"type":"Point"}
+}

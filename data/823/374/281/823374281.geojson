@@ -1,0 +1,71 @@
+{
+  "id": 823374281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.740242,38.353802,-81.740242,38.353802",
+    "geom:latitude":38.353802,
+    "geom:longitude":-81.740242,
+    "iso:country":"US",
+    "sg:address":"5220 Maccorkle Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 720 6735",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Xg3CHE47dXJRbk3XzjAon_38.353802_-81.740242@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431369,
+    "wof:geomhash":"6bbb1565668cb7cbae89e29ebe1d8eb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823374281
+        }
+    ],
+    "wof:id":823374281,
+    "wof:lastmodified":1463431369,
+    "wof:name":"Berry D Duane",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -81.740242,
+    38.353802,
+    -81.740242,
+    38.353802
+],
+  "geometry": {"coordinates":[-81.74024199999999,38.353802],"type":"Point"}
+}

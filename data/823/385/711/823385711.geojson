@@ -1,0 +1,71 @@
+{
+  "id": 823385711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.731787,38.354368,-81.731787,38.354368",
+    "geom:latitude":38.354368,
+    "geom:longitude":-81.731787,
+    "iso:country":"US",
+    "sg:address":"4933 Maccorkle Ave",
+    "sg:city":"Spring Hill",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 7451",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01xKfVbWKGTACEq5vAnOPQ_38.354368_-81.731787@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431875,
+    "wof:geomhash":"bc95d716f568a840003475a3e006adbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823385711
+        }
+    ],
+    "wof:id":823385711,
+    "wof:lastmodified":1463431875,
+    "wof:name":"Nu Way Cleaning Co",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -81.731787,
+    38.354368,
+    -81.731787,
+    38.354368
+],
+  "geometry": {"coordinates":[-81.731787,38.354368],"type":"Point"}
+}

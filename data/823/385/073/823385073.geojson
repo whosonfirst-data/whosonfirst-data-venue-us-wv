@@ -1,0 +1,71 @@
+{
+  "id": 823385073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.969709,39.062461,-78.969709,39.062461",
+    "geom:latitude":39.062461,
+    "geom:longitude":-78.969709,
+    "iso:country":"US",
+    "sg:address":"145 N Main St",
+    "sg:city":"Moorefield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 538 2549",
+    "sg:postcode":"26836",
+    "sg:province":"WV",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731279,
+        102082645,
+        85851815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4opcShlpsPKctWtihg2PXo_39.062461_-78.969709@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431852,
+    "wof:geomhash":"b82f1b0ed758eeb90c07ce83fca3ca12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082645,
+            "locality_id":101731279,
+            "neighbourhood_id":85851815,
+            "region_id":85688589,
+            "venue_id":823385073
+        }
+    ],
+    "wof:id":823385073,
+    "wof:lastmodified":1463431852,
+    "wof:name":"Fraley Funeral Home",
+    "wof:parent_id":85851815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -78.969709,
+    39.062461,
+    -78.969709,
+    39.062461
+],
+  "geometry": {"coordinates":[-78.96970899999999,39.062461],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823457357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.963448,39.655209,-79.963448,39.655209",
+    "geom:latitude":39.655209,
+    "geom:longitude":-79.963448,
+    "iso:country":"US",
+    "sg:address":"1085 Van Voorhis Rd # 350",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Science Facility",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 276 4011",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "development",
+        "laboratories-research"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1L3uiU4FRawk57SzEpd9xE_39.655209_-79.963448@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435156,
+    "wof:geomhash":"0c645993bab59f75ad62d3c7e7a7700e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823457357
+        }
+    ],
+    "wof:id":823457357,
+    "wof:lastmodified":1463435156,
+    "wof:name":"Plastic Innovations, Inc.",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "laboratories-research"
+    ]
+},
+  "bbox": [
+    -79.963448,
+    39.655209,
+    -79.963448,
+    39.655209
+],
+  "geometry": {"coordinates":[-79.963448,39.655209],"type":"Point"}
+}

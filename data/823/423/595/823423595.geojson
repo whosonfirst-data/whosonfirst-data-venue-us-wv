@@ -1,0 +1,71 @@
+{
+  "id": 823423595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.579451,38.398891,-82.579451,38.398891",
+    "geom:latitude":38.398891,
+    "geom:longitude":-82.579451,
+    "iso:country":"US",
+    "sg:address":"1501 Pine St",
+    "sg:city":"Kenova",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 1601",
+    "sg:postcode":"25530",
+    "sg:province":"WV",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731517,
+        102083365,
+        85806071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2r2POzrNNxnxAVDAGG5EOL_38.398891_-82.579451@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433605,
+    "wof:geomhash":"f66cdec221a0cb8d99878c45bb6001f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731517,
+            "neighbourhood_id":85806071,
+            "region_id":85688589,
+            "venue_id":823423595
+        }
+    ],
+    "wof:id":823423595,
+    "wof:lastmodified":1463433605,
+    "wof:name":"Kenova Fire Dept",
+    "wof:parent_id":85806071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -82.579451,
+    38.398891,
+    -82.579451,
+    38.398891
+],
+  "geometry": {"coordinates":[-82.57945100000001,38.398891],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823402257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.713354,38.368679,-81.713354,38.368679",
+    "geom:latitude":38.368679,
+    "geom:longitude":-81.713354,
+    "iso:country":"US",
+    "sg:address":"505 Caldwell Ln",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 7400",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "intermediate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48OYJidGtXRrbqCzPWYlPd_38.368679_-81.713354@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432685,
+    "wof:geomhash":"b32a3785a8365773d9feb200e5f4c5f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823402257
+        }
+    ],
+    "wof:id":823402257,
+    "wof:lastmodified":1463432685,
+    "wof:name":"Sweet Briar",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "intermediate"
+    ]
+},
+  "bbox": [
+    -81.713354,
+    38.368679,
+    -81.713354,
+    38.368679
+],
+  "geometry": {"coordinates":[-81.713354,38.368679],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823432683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.735812,38.353741,-81.735812,38.353741",
+    "geom:latitude":38.353741,
+    "geom:longitude":-81.735812,
+    "iso:country":"US",
+    "sg:address":"5111 Maccorkle Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 545 1251",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kdoD1Q5dvJp3kBS4RuZ8J_38.353741_-81.735812@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434006,
+    "wof:geomhash":"26421d9e8575697f64f381c4e2557a2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823432683
+        }
+    ],
+    "wof:id":823432683,
+    "wof:lastmodified":1463434006,
+    "wof:name":"S Lester Raines DDS",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -81.735812,
+    38.353741,
+    -81.735812,
+    38.353741
+],
+  "geometry": {"coordinates":[-81.735812,38.353741],"type":"Point"}
+}

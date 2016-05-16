@@ -1,0 +1,67 @@
+{
+  "id": 823400059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.104515,37.362249,-81.104515,37.362249",
+    "geom:latitude":37.362249,
+    "geom:longitude":-81.104515,
+    "iso:country":"US",
+    "sg:address":"322 S Walker St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 3000",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:website":"www.mcnbbanks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DhxJtYNu7UZlMpjgpIprM_37.362249_-81.104515@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432590,
+    "wof:geomhash":"f225f97d0993908d78dc8f2ea160d589",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823400059
+        }
+    ],
+    "wof:id":823400059,
+    "wof:lastmodified":1463432590,
+    "wof:name":"MCNB Banks",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.104515,
+    37.362249,
+    -81.104515,
+    37.362249
+],
+  "geometry": {"coordinates":[-81.10451500000001,37.362249],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 823453145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.136554,38.000958,-81.136554,38.000958",
+    "geom:latitude":38.000958,
+    "geom:longitude":-81.136554,
+    "iso:country":"US",
+    "sg:address":"100 Fayette Town Center",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/plateau/139684-sicilias-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 574 3525",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Jo4ZXh02cWDJkkdI60WGy_38.000958_-81.136554@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434936,
+    "wof:geomhash":"04dfb97c39eb17232d0a0fc236170cae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823453145
+        }
+    ],
+    "wof:id":823453145,
+    "wof:lastmodified":1463434936,
+    "wof:name":"Sicilia's Pizzeria",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -81.136554,
+    38.000958,
+    -81.136554,
+    38.000958
+],
+  "geometry": {"coordinates":[-81.136554,38.000958],"type":"Point"}
+}

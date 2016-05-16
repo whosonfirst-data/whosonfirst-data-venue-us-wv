@@ -1,0 +1,74 @@
+{
+  "id": 823452257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.201481,37.255427,-81.201481,37.255427",
+    "geom:latitude":37.255427,
+    "geom:longitude":-81.201481,
+    "iso:country":"US",
+    "sg:address":"3152 E Cumberland Rd",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/bramwell/71749-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 325 5795",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45ARI04qpopckEuipUopej_37.255427_-81.201481@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434900,
+    "wof:geomhash":"90b019dd9e7b8df1b58e88239b350ee8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823452257
+        }
+    ],
+    "wof:id":823452257,
+    "wof:lastmodified":1463434900,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -81.201481,
+    37.255427,
+    -81.201481,
+    37.255427
+],
+  "geometry": {"coordinates":[-81.201481,37.255427],"type":"Point"}
+}

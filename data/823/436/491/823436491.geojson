@@ -1,0 +1,75 @@
+{
+  "id": 823436491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.339479,39.277542,-80.339479,39.277542",
+    "geom:latitude":39.277542,
+    "geom:longitude":-80.339479,
+    "iso:country":"US",
+    "sg:address":"410 S 3rd St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 624 9888",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2e4KCOgFQmTdtVFI6QXgpm_39.277542_-80.339479@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434193,
+    "wof:geomhash":"2f9fbd907671e09997a8b5576edf7642",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823436491
+        }
+    ],
+    "wof:id":823436491,
+    "wof:lastmodified":1463434193,
+    "wof:name":"Don's Garage",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ]
+},
+  "bbox": [
+    -80.339479,
+    39.277542,
+    -80.339479,
+    39.277542
+],
+  "geometry": {"coordinates":[-80.339479,39.277542],"type":"Point"}
+}

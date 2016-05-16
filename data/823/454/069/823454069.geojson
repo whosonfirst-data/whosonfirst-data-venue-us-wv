@@ -1,0 +1,74 @@
+{
+  "id": 823454069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.185434,37.810689,-81.185434,37.810689",
+    "geom:latitude":37.810689,
+    "geom:longitude":-81.185434,
+    "iso:country":"US",
+    "sg:address":"122 Industrial Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/pax/42891-bob-evans/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 252 9700",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sSCekE93u6j8Pb6Qqusp5_37.810764_-81.185294@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434998,
+    "wof:geomhash":"11fa02c73b0c1f4509c4ae9de400c421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823454069
+        }
+    ],
+    "wof:id":823454069,
+    "wof:lastmodified":1463434998,
+    "wof:name":"Bob Evans",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -81.185434,
+    37.810689,
+    -81.185434,
+    37.810689
+],
+  "geometry": {"coordinates":[-81.185434,37.810689],"type":"Point"}
+}

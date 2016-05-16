@@ -1,0 +1,75 @@
+{
+  "id": 823404621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.238191,37.263793,-81.238191,37.263793",
+    "geom:latitude":37.263793,
+    "geom:longitude":-81.238191,
+    "iso:country":"US",
+    "sg:address":"95 Cherry St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 325 0490",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2es5P3LXJh4q3h4YnoVGJn_37.263793_-81.238191@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432791,
+    "wof:geomhash":"095f8a7abd90d3a86aaa6d8ab31396ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823404621
+        }
+    ],
+    "wof:id":823404621,
+    "wof:lastmodified":1463432791,
+    "wof:name":"Total Auto Care",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -81.238191,
+    37.263793,
+    -81.238191,
+    37.263793
+],
+  "geometry": {"coordinates":[-81.238191,37.263793],"type":"Point"}
+}

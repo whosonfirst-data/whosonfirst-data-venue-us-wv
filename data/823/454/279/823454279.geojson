@@ -1,0 +1,88 @@
+{
+  "id": 823454279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.089207,37.369881,-81.089207,37.369881",
+    "geom:latitude":37.369881,
+    "geom:longitude":-81.089207,
+    "iso:country":"US",
+    "sg:address":"736 Mercer St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 9060",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "directory",
+        "publisher",
+        "guide",
+        "publishers-directory"
+    ],
+    "sg:website":"http://www.ogdendirectories.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BznKVngrnSlJpbxfBVsQf_37.369881_-81.089207@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435012,
+    "wof:geomhash":"28e613ca8c1c4e28bf7b82c0f44800b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823454279
+        }
+    ],
+    "wof:id":823454279,
+    "wof:lastmodified":1463435012,
+    "wof:name":"Ogden Directories, Inc",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "directory",
+        "publisher",
+        "guide",
+        "publishers-directory"
+    ]
+},
+  "bbox": [
+    -81.089207,
+    37.369881,
+    -81.089207,
+    37.369881
+],
+  "geometry": {"coordinates":[-81.089207,37.369881],"type":"Point"}
+}

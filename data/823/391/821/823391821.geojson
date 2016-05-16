@@ -1,0 +1,71 @@
+{
+  "id": 823391821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.301202,39.399323,-80.301202,39.399323",
+    "geom:latitude":39.399323,
+    "geom:longitude":-80.301202,
+    "iso:country":"US",
+    "sg:address":"702 Clark St",
+    "sg:city":"Shinnston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 592 1560",
+    "sg:postcode":"26431",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85831189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lodO3wwtTsAVkX7zAty4m_39.399323_-80.301202@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432165,
+    "wof:geomhash":"37c91321f2d74ee6a53c93f687d292b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85831189,
+            "region_id":85688589,
+            "venue_id":823391821
+        }
+    ],
+    "wof:id":823391821,
+    "wof:lastmodified":1463432165,
+    "wof:name":"Mike Rife & Sons",
+    "wof:parent_id":85831189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -80.301202,
+    39.399323,
+    -80.301202,
+    39.399323
+],
+  "geometry": {"coordinates":[-80.301202,39.399323],"type":"Point"}
+}

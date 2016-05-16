@@ -1,0 +1,71 @@
+{
+  "id": 823406509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.648376,38.36147,-81.648376,38.36147",
+    "geom:latitude":38.36147,
+    "geom:longitude":-81.648376,
+    "iso:country":"US",
+    "sg:address":"416 Virginia St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 9523",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36Y4vvTUmMyzH2yxVabUPe_38.361470_-81.648376@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432880,
+    "wof:geomhash":"e88d4a2e941800a0f309fce7192615f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823406509
+        }
+    ],
+    "wof:id":823406509,
+    "wof:lastmodified":1463432880,
+    "wof:name":"Wanda's Barber Salon",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.648376,
+    38.36147,
+    -81.648376,
+    38.36147
+],
+  "geometry": {"coordinates":[-81.648376,38.36147],"type":"Point"}
+}

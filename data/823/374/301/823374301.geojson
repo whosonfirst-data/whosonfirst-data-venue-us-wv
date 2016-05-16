@@ -1,0 +1,71 @@
+{
+  "id": 823374301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.512584,38.399056,-82.512584,38.399056",
+    "geom:latitude":38.399056,
+    "geom:longitude":-82.512584,
+    "iso:country":"US",
+    "sg:address":"4015 Piedmont Rd",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 429 8013",
+    "sg:postcode":"25704",
+    "sg:province":"WV",
+    "sg:tags":[
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083365,
+        85857035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VTZjT1sQTZKwD88gIvutR_38.399056_-82.512584@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431370,
+    "wof:geomhash":"64ecd4c20b753929dfd95b7f326c7c87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731553,
+            "neighbourhood_id":85857035,
+            "region_id":85688589,
+            "venue_id":823374301
+        }
+    ],
+    "wof:id":823374301,
+    "wof:lastmodified":1463431370,
+    "wof:name":"Coffman Construction",
+    "wof:parent_id":85857035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial"
+    ]
+},
+  "bbox": [
+    -82.512584,
+    38.399056,
+    -82.512584,
+    38.399056
+],
+  "geometry": {"coordinates":[-82.512584,38.399056],"type":"Point"}
+}

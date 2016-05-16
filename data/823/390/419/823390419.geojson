@@ -1,0 +1,68 @@
+{
+  "id": 823390419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.954469,39.63127,-79.954469,39.63127",
+    "geom:latitude":39.63127,
+    "geom:longitude":-79.954469,
+    "iso:country":"US",
+    "sg:address":"418 High St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 225 2000",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1i5HF9z8KWi8iYB6TYkPYZ_39.631270_-79.954469@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432097,
+    "wof:geomhash":"f794dc9ceb2bf46707ab812c1b6cffa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851489,
+            "region_id":85688589,
+            "venue_id":823390419
+        }
+    ],
+    "wof:id":823390419,
+    "wof:lastmodified":1463432097,
+    "wof:name":"Tangles",
+    "wof:parent_id":85851489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.954469,
+    39.63127,
+    -79.954469,
+    39.63127
+],
+  "geometry": {"coordinates":[-79.954469,39.63127],"type":"Point"}
+}

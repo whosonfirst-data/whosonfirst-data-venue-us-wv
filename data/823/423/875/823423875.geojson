@@ -1,0 +1,71 @@
+{
+  "id": 823423875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.137012,37.984478,-81.137012,37.984478",
+    "geom:latitude":37.984478,
+    "geom:longitude":-81.137012,
+    "iso:country":"US",
+    "sg:address":"1220 Main St E",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 469 2942",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automobile",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vASLBA9KPK0wUj0C7iQ8n_37.984478_-81.137012@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433615,
+    "wof:geomhash":"a74d3dd859964798cbbb43956dad8563",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823423875
+        }
+    ],
+    "wof:id":823423875,
+    "wof:lastmodified":1463433615,
+    "wof:name":"Geralds Auto Parts Inc",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -81.137012,
+    37.984478,
+    -81.137012,
+    37.984478
+],
+  "geometry": {"coordinates":[-81.137012,37.984478],"type":"Point"}
+}

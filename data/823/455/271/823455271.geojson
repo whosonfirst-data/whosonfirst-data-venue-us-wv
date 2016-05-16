@@ -1,0 +1,94 @@
+{
+  "id": 823455271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.001524,39.38488,-78.001524,39.38488",
+    "geom:latitude":39.38488,
+    "geom:longitude":-78.001524,
+    "iso:country":"US",
+    "sg:address":"1052 Aztec Dr",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 262 3011",
+    "sg:postcode":"25405",
+    "sg:province":"WV",
+    "sg:tags":[
+        "plate",
+        "automobile",
+        "glass-auto",
+        "accessory",
+        "window",
+        "part",
+        "windshield"
+    ],
+    "sg:website":"http://www.knightsautoglass.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YoSXQXfIQ4YQDDl0TJ1iw_39.384880_-78.001524@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435068,
+    "wof:geomhash":"1dd7c3e262cd5f4a42fd3cd6ca9d1d87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823455271
+        }
+    ],
+    "wof:id":823455271,
+    "wof:lastmodified":1463435068,
+    "wof:name":"Knight's Auto Glass",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "automobile",
+        "glass-auto",
+        "accessory",
+        "window",
+        "part",
+        "windshield"
+    ]
+},
+  "bbox": [
+    -78.001524,
+    39.38488,
+    -78.001524,
+    39.38488
+],
+  "geometry": {"coordinates":[-78.001524,39.38488],"type":"Point"}
+}

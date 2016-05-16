@@ -1,0 +1,71 @@
+{
+  "id": 823394353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.684564,38.377679,-81.684564,38.377679",
+    "geom:latitude":38.377679,
+    "geom:longitude":-81.684564,
+    "iso:country":"US",
+    "sg:address":"3137 Washington St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 7333",
+    "sg:postcode":"25312",
+    "sg:province":"WV",
+    "sg:tags":[
+        "catering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1T8VWtpJrWGi0aDSE926OO_38.377679_-81.684564@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432302,
+    "wof:geomhash":"3545551c2f72900c7c2f011a63e7ca90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823394353
+        }
+    ],
+    "wof:id":823394353,
+    "wof:lastmodified":1463432302,
+    "wof:name":"Custom Catering",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "catering"
+    ]
+},
+  "bbox": [
+    -81.684564,
+    38.377679,
+    -81.684564,
+    38.377679
+],
+  "geometry": {"coordinates":[-81.68456399999999,38.377679],"type":"Point"}
+}

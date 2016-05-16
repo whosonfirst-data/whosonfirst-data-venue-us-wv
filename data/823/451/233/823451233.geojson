@@ -1,0 +1,73 @@
+{
+  "id": 823451233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.858494,39.651697,-80.858494,39.651697",
+    "geom:latitude":39.651697,
+    "geom:longitude":-80.858494,
+    "iso:country":"US",
+    "sg:address":"801 2nd St",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 4805",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vEPcAzpqdP2y1FcFQbE0M_39.651697_-80.858494@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434861,
+    "wof:geomhash":"da4e16834b5809aa40916bfb5b4ad73a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823451233
+        }
+    ],
+    "wof:id":823451233,
+    "wof:lastmodified":1463434861,
+    "wof:name":"Moellendick Electric Ente",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.858494,
+    39.651697,
+    -80.858494,
+    39.651697
+],
+  "geometry": {"coordinates":[-80.85849399999999,39.651697],"type":"Point"}
+}

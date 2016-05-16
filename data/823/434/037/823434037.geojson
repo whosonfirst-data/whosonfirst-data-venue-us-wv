@@ -1,0 +1,75 @@
+{
+  "id": 823434037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.559806,38.373924,-82.559806,38.373924",
+    "geom:latitude":38.373924,
+    "geom:longitude":-82.559806,
+    "iso:country":"US",
+    "sg:address":"1400 Airport Rd",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 4949",
+    "sg:postcode":"25704",
+    "sg:province":"WV",
+    "sg:tags":[
+        "air",
+        "courier",
+        "ground"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083365,
+        85857035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PHtI4xVgE8BWizSkgF2vC_38.373924_-82.559806@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434068,
+    "wof:geomhash":"4abd9a1bc7a4f31dedb62cf9acbcf1a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731553,
+            "neighbourhood_id":85857035,
+            "region_id":85688589,
+            "venue_id":823434037
+        }
+    ],
+    "wof:id":823434037,
+    "wof:lastmodified":1463434068,
+    "wof:name":"Federal Express Corporation",
+    "wof:parent_id":85857035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "courier",
+        "ground"
+    ]
+},
+  "bbox": [
+    -82.559806,
+    38.373924,
+    -82.559806,
+    38.373924
+],
+  "geometry": {"coordinates":[-82.55980599999999,38.373924],"type":"Point"}
+}

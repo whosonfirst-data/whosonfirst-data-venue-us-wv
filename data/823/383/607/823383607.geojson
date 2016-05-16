@@ -1,0 +1,71 @@
+{
+  "id": 823383607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.360739,38.4125,-82.360739,38.4125",
+    "geom:latitude":38.4125,
+    "geom:longitude":-82.360739,
+    "iso:country":"US",
+    "sg:address":"4810 W Pea Ridge Rd",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tattoo Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 733 4746",
+    "sg:postcode":"25705",
+    "sg:province":"WV",
+    "sg:tags":[
+        "tattooing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85856091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27VQsHzIWeCGOAGfe0YZry_38.412500_-82.360739@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431796,
+    "wof:geomhash":"9192882fc03a41bf6047922cbaf171ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85856091,
+            "region_id":85688589,
+            "venue_id":823383607
+        }
+    ],
+    "wof:id":823383607,
+    "wof:lastmodified":1463431796,
+    "wof:name":"Tattoo Alley",
+    "wof:parent_id":85856091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tattooing"
+    ]
+},
+  "bbox": [
+    -82.360739,
+    38.4125,
+    -82.360739,
+    38.4125
+],
+  "geometry": {"coordinates":[-82.360739,38.4125],"type":"Point"}
+}

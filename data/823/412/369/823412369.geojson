@@ -1,0 +1,71 @@
+{
+  "id": 823412369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.020166,39.340978,-80.020166,39.340978",
+    "geom:latitude":39.340978,
+    "geom:longitude":-80.020166,
+    "iso:country":"US",
+    "sg:address":"215 W Main St",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 265 0948",
+    "sg:postcode":"26354",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dwelling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731717,
+        102083351,
+        85849697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46tl7xwRFiRMWYzcaawSD0_39.340978_-80.020166@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433117,
+    "wof:geomhash":"8c350f95765d5eda0344b5da7afb210b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083351,
+            "locality_id":101731717,
+            "neighbourhood_id":85849697,
+            "region_id":85688589,
+            "venue_id":823412369
+        }
+    ],
+    "wof:id":823412369,
+    "wof:lastmodified":1463433117,
+    "wof:name":"Laverne Sweeney Inc",
+    "wof:parent_id":85849697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dwelling"
+    ]
+},
+  "bbox": [
+    -80.020166,
+    39.340978,
+    -80.020166,
+    39.340978
+],
+  "geometry": {"coordinates":[-80.020166,39.340978],"type":"Point"}
+}

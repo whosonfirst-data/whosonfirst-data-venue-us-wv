@@ -1,0 +1,71 @@
+{
+  "id": 823389283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.56036,40.27988,-80.56036,40.27988",
+    "geom:latitude":40.27988,
+    "geom:longitude":-80.56036,
+    "iso:country":"US",
+    "sg:address":"160 Parkway Dr",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 4245",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bVCIZiLN6dmZhOtgsIdMb_40.279880_-80.560360@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432041,
+    "wof:geomhash":"3ef7bf356b31d5c7788b0f36e2e09e50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823389283
+        }
+    ],
+    "wof:id":823389283,
+    "wof:lastmodified":1463432041,
+    "wof:name":"Palmer Home Improvement",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -80.56036,
+    40.27988,
+    -80.56036,
+    40.27988
+],
+  "geometry": {"coordinates":[-80.56036,40.27988],"type":"Point"}
+}

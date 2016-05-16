@@ -1,0 +1,75 @@
+{
+  "id": 823422839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.553345,39.231433,-81.553345,39.231433",
+    "geom:latitude":39.231433,
+    "geom:longitude":-81.553345,
+    "iso:country":"US",
+    "sg:address":"2109 Gihon Rd",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 422 8361",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gmi4Rf4tFgtqtQh1zO3KH_39.231433_-81.553345@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433571,
+    "wof:geomhash":"0302b118729f77666fcb66f5458d8369",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823422839
+        }
+    ],
+    "wof:id":823422839,
+    "wof:lastmodified":1463433571,
+    "wof:name":"John's Lawnmower Repair",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ]
+},
+  "bbox": [
+    -81.553345,
+    39.231433,
+    -81.553345,
+    39.231433
+],
+  "geometry": {"coordinates":[-81.55334499999999,39.231433],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823397891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.954227,39.630363,-79.954227,39.630363",
+    "geom:latitude":39.630363,
+    "geom:longitude":-79.954227,
+    "iso:country":"US",
+    "sg:address":"389 Spruce St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 284 7431",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CLOOQAZd1xloZsHklcClT_39.630363_-79.954227@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432477,
+    "wof:geomhash":"798871197c789ed9653f100529c05d99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851489,
+            "region_id":85688589,
+            "venue_id":823397891
+        }
+    ],
+    "wof:id":823397891,
+    "wof:lastmodified":1463432477,
+    "wof:name":"City Planner",
+    "wof:parent_id":85851489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -79.954227,
+    39.630363,
+    -79.954227,
+    39.630363
+],
+  "geometry": {"coordinates":[-79.954227,39.630363],"type":"Point"}
+}

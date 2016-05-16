@@ -1,0 +1,71 @@
+{
+  "id": 823450297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.597518,40.619344,-80.597518,40.619344",
+    "geom:latitude":40.619344,
+    "geom:longitude":-80.597518,
+    "iso:country":"US",
+    "sg:address":"106 Washington St",
+    "sg:city":"Newell",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 3448",
+    "sg:postcode":"26050",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bhPEWLEDvmFOvzLIODT38_40.619344_-80.597518@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434827,
+    "wof:geomhash":"1d7aaa3223f3ccfad878c3004b7ce8a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823450297
+        }
+    ],
+    "wof:id":823450297,
+    "wof:lastmodified":1463434827,
+    "wof:name":"Phillies Quick Stop",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -80.597518,
+    40.619344,
+    -80.597518,
+    40.619344
+],
+  "geometry": {"coordinates":[-80.59751799999999,40.619344],"type":"Point"}
+}

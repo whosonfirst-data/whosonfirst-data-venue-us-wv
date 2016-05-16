@@ -1,0 +1,73 @@
+{
+  "id": 823452653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.988008,39.452639,-77.988008,39.452639",
+    "geom:latitude":39.452639,
+    "geom:longitude":-77.988008,
+    "iso:country":"US",
+    "sg:address":"800 Foxcroft Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/adam-stephens/206337-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62gU4mfKJ02pVFeEiWtf7r_39.452639_-77.988008@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434915,
+    "wof:geomhash":"6b7685aa77efdc4ce534230f7cdf38c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823452653
+        }
+    ],
+    "wof:id":823452653,
+    "wof:lastmodified":1463434915,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -77.988008,
+    39.452639,
+    -77.988008,
+    39.452639
+],
+  "geometry": {"coordinates":[-77.98800799999999,39.452639],"type":"Point"}
+}

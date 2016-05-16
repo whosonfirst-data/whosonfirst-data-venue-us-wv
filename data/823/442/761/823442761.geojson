@@ -1,0 +1,71 @@
+{
+  "id": 823442761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.142664,39.484761,-80.142664,39.484761",
+    "geom:latitude":39.484761,
+    "geom:longitude":-80.142664,
+    "iso:country":"US",
+    "sg:address":"202 Adams St",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 1170",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sbTQj5oCuC9LAQpJXM6if_39.484761_-80.142664@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434484,
+    "wof:geomhash":"cc381d872211e6381494b75804019dd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823442761
+        }
+    ],
+    "wof:id":823442761,
+    "wof:lastmodified":1463434484,
+    "wof:name":"R S Pizatella & Associates",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -80.142664,
+    39.484761,
+    -80.142664,
+    39.484761
+],
+  "geometry": {"coordinates":[-80.142664,39.484761],"type":"Point"}
+}

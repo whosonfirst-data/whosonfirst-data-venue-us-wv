@@ -1,0 +1,74 @@
+{
+  "id": 823383275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.890479,37.67279,-80.890479,37.67279",
+    "geom:latitude":37.67279,
+    "geom:longitude":-80.890479,
+    "iso:country":"US",
+    "sg:address":"415 2nd Ave",
+    "sg:city":"Hinton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 466 6910",
+    "sg:postcode":"25951",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.practicelink.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731641,
+        102083407,
+        85804037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CIMWbByfbE6Se3Vx5fHMT_37.672790_-80.890479@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431784,
+    "wof:geomhash":"01bffe3cfc0f41729ee01726fe6e584b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083407,
+            "locality_id":101731641,
+            "neighbourhood_id":85804037,
+            "region_id":85688589,
+            "venue_id":823383275
+        }
+    ],
+    "wof:id":823383275,
+    "wof:lastmodified":1463431784,
+    "wof:name":"Practice Link LTD",
+    "wof:parent_id":85804037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -80.890479,
+    37.67279,
+    -80.890479,
+    37.67279
+],
+  "geometry": {"coordinates":[-80.890479,37.67279],"type":"Point"}
+}

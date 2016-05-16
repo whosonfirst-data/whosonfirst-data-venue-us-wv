@@ -1,0 +1,73 @@
+{
+  "id": 823370635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.976821,39.449487,-77.976821,39.449487",
+    "geom:latitude":39.449487,
+    "geom:longitude":-77.976821,
+    "iso:country":"US",
+    "sg:address":"900 Maryland Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 267 8111",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "national",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OU1hpJQo2AEs2l16cIp41_39.449487_-77.976821@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431200,
+    "wof:geomhash":"bad8fcf86c0710ae417129b49ee0995c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823370635
+        }
+    ],
+    "wof:id":823370635,
+    "wof:lastmodified":1463431200,
+    "wof:name":"Army Reserve Training Center",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "security"
+    ]
+},
+  "bbox": [
+    -77.976821,
+    39.449487,
+    -77.976821,
+    39.449487
+],
+  "geometry": {"coordinates":[-77.976821,39.449487],"type":"Point"}
+}

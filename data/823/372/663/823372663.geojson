@@ -1,0 +1,75 @@
+{
+  "id": 823372663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.008391,39.348297,-80.008391,39.348297",
+    "geom:latitude":39.348297,
+    "geom:longitude":-80.008391,
+    "iso:country":"US",
+    "sg:address":"481 N Pike St",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 265 4002",
+    "sg:postcode":"26354",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automotive",
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731717,
+        102083351,
+        85849697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fai6Cc89qoangF2gnyCAV_39.348297_-80.008391@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431309,
+    "wof:geomhash":"1218f3a4ec3979af146ee3aabed5b1f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083351,
+            "locality_id":101731717,
+            "neighbourhood_id":85849697,
+            "region_id":85688589,
+            "venue_id":823372663
+        }
+    ],
+    "wof:id":823372663,
+    "wof:lastmodified":1463431309,
+    "wof:name":"Pit Stop Oil Lube",
+    "wof:parent_id":85849697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -80.008391,
+    39.348297,
+    -80.008391,
+    39.348297
+],
+  "geometry": {"coordinates":[-80.008391,39.348297],"type":"Point"}
+}

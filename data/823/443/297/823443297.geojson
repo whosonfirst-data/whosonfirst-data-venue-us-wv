@@ -1,0 +1,76 @@
+{
+  "id": 823443297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.094146,38.223217,-80.094146,38.223217",
+    "geom:latitude":38.223217,
+    "geom:longitude":-80.094146,
+    "iso:country":"US",
+    "sg:address":"214 8th St",
+    "sg:city":"Marlinton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 799 6358",
+    "sg:postcode":"24954",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731759,
+        102082613,
+        85805067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QdQgRkX9e3C4VmY9leMPg_38.223217_-80.094146@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434515,
+    "wof:geomhash":"a54dbd8afafb3ba25fd22033b6dac839",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082613,
+            "locality_id":101731759,
+            "neighbourhood_id":85805067,
+            "region_id":85688589,
+            "venue_id":823443297
+        }
+    ],
+    "wof:id":823443297,
+    "wof:lastmodified":1463434515,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85805067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -80.094146,
+    38.223217,
+    -80.094146,
+    38.223217
+],
+  "geometry": {"coordinates":[-80.09414599999999,38.223217],"type":"Point"}
+}

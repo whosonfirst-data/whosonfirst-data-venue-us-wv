@@ -1,0 +1,75 @@
+{
+  "id": 823434001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.941382,39.389347,-77.941382,39.389347",
+    "geom:latitude":39.389347,
+    "geom:longitude":-77.941382,
+    "iso:country":"US",
+    "sg:address":"264 Naomi Ln",
+    "sg:city":"Kearneysville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 260 1234",
+    "sg:postcode":"25430",
+    "sg:province":"WV",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oMnoXsqaQbTyKzXBrmfhT_39.389347_-77.941382@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434061,
+    "wof:geomhash":"528d01e002d30f3fbd56853961c592de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823434001
+        }
+    ],
+    "wof:id":823434001,
+    "wof:lastmodified":1463434061,
+    "wof:name":"Grooming Room & Pet Suites",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -77.941382,
+    39.389347,
+    -77.941382,
+    39.389347
+],
+  "geometry": {"coordinates":[-77.941382,39.389347],"type":"Point"}
+}

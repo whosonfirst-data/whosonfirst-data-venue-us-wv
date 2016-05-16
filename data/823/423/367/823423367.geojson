@@ -1,0 +1,73 @@
+{
+  "id": 823423367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.08752,37.696079,-81.08752,37.696079",
+    "geom:latitude":37.696079,
+    "geom:longitude":-81.08752,
+    "iso:country":"US",
+    "sg:address":"202 Division St",
+    "sg:city":"Shady Spring",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 763 3750",
+    "sg:postcode":"25918",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rv0tJWFLeWcmYwrKDCuGN_37.696079_-81.087520@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433591,
+    "wof:geomhash":"b344f0587c1ec332ac5baed506c07c06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823423367
+        }
+    ],
+    "wof:id":823423367,
+    "wof:lastmodified":1463433591,
+    "wof:name":"Garten Cemetery Inc",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -81.08752,
+    37.696079,
+    -81.08752,
+    37.696079
+],
+  "geometry": {"coordinates":[-81.08752,37.696079],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823436581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.740413,38.359202,-81.740413,38.359202",
+    "geom:latitude":38.359202,
+    "geom:longitude":-81.740413,
+    "iso:country":"US",
+    "sg:address":"1215 Stewart Plz",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 2213",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3i1UkTkXzpDmzfMwpT9eit_38.359202_-81.740413@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434202,
+    "wof:geomhash":"40d02e00c0e448a283173ceb6c01e29d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823436581
+        }
+    ],
+    "wof:id":823436581,
+    "wof:lastmodified":1463434202,
+    "wof:name":"Community Behavioral Svc",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -81.740413,
+    38.359202,
+    -81.740413,
+    38.359202
+],
+  "geometry": {"coordinates":[-81.740413,38.359202],"type":"Point"}
+}

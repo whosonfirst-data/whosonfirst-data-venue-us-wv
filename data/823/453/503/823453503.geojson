@@ -1,0 +1,74 @@
+{
+  "id": 823453503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.274417,39.313848,-80.274417,39.313848",
+    "geom:latitude":39.313848,
+    "geom:longitude":-80.274417,
+    "iso:country":"US",
+    "sg:address":"2625 Meadowbrook Mall",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/bridgeport/230642-great-american-cookies/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 2002",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85831189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oifknHm9sN4I7U9e4cqGR_39.313848_-80.274417@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434950,
+    "wof:geomhash":"0adf4abfd7e076a24ada6c0d65057032",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85831189,
+            "region_id":85688589,
+            "venue_id":823453503
+        }
+    ],
+    "wof:id":823453503,
+    "wof:lastmodified":1463434950,
+    "wof:name":"Great American Cookies",
+    "wof:parent_id":85831189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -80.274417,
+    39.313848,
+    -80.274417,
+    39.313848
+],
+  "geometry": {"coordinates":[-80.274417,39.313848],"type":"Point"}
+}

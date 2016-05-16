@@ -1,0 +1,83 @@
+{
+  "id": 823455355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.052422,39.33313,-78.052422,39.33313",
+    "geom:latitude":39.33313,
+    "geom:longitude":-78.052422,
+    "iso:country":"US",
+    "sg:address":"64 Giles Mill Rd",
+    "sg:city":"Bunker Hill",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 229 0116",
+    "sg:postcode":"25413",
+    "sg:province":"WV",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Z6gymNPJnhF7ifQl4ohaM_39.333130_-78.052422@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435071,
+    "wof:geomhash":"cdfcb41d1ef29302e74d2cae5f223e48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823455355
+        }
+    ],
+    "wof:id":823455355,
+    "wof:lastmodified":1463435071,
+    "wof:name":"Playroom the",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -78.052422,
+    39.33313,
+    -78.052422,
+    39.33313
+],
+  "geometry": {"coordinates":[-78.05242200000001,39.33313],"type":"Point"}
+}

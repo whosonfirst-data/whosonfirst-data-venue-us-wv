@@ -1,0 +1,73 @@
+{
+  "id": 823381661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.224499,37.801717,-81.224499,37.801717",
+    "geom:latitude":37.801717,
+    "geom:longitude":-81.224499,
+    "iso:country":"US",
+    "sg:address":"100 Heartland Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 256 1650",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "skilled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EUEIGgtq4LHJD1sTeuB8P_37.801717_-81.224499@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431719,
+    "wof:geomhash":"4646495c7653a845615f9179a33ea24b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823381661
+        }
+    ],
+    "wof:id":823381661,
+    "wof:lastmodified":1463431719,
+    "wof:name":"Heartland of Beckley",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled"
+    ]
+},
+  "bbox": [
+    -81.224499,
+    37.801717,
+    -81.224499,
+    37.801717
+],
+  "geometry": {"coordinates":[-81.22449899999999,37.801717],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 823416241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.563868,38.280783,-81.563868,38.280783",
+    "geom:latitude":38.280783,
+    "geom:longitude":-81.563868,
+    "iso:country":"US",
+    "sg:address":"5357 Midland Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 9566",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yud7Y9IIV5TsLdNhV513V_38.280783_-81.563868@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433288,
+    "wof:geomhash":"2a7ad5ca06bafafda71b2e2244da60cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823416241
+        }
+    ],
+    "wof:id":823416241,
+    "wof:lastmodified":1463433288,
+    "wof:name":"Charlie Bob's Bar",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.563868,
+    38.280783,
+    -81.563868,
+    38.280783
+],
+  "geometry": {"coordinates":[-81.563868,38.280783],"type":"Point"}
+}

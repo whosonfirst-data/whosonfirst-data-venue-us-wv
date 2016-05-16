@@ -1,0 +1,67 @@
+{
+  "id": 823373911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.59516,38.369574,-81.59516,38.369574",
+    "geom:latitude":38.369574,
+    "geom:longitude":-81.59516,
+    "iso:country":"US",
+    "sg:address":"177 Airport Rd",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 344 1159",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        102530929,
+        85688589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ljCwxBCaHpxWpzhkGbDbp_38.369574_-81.595160@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431355,
+    "wof:geomhash":"af96a28360cb1dfe927b728de8f55a2d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530929,
+            "country_id":85633793,
+            "region_id":85688589,
+            "venue_id":823373911
+        }
+    ],
+    "wof:id":823373911,
+    "wof:lastmodified":1463431355,
+    "wof:name":"Yeager Airport",
+    "wof:parent_id":102530929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    -81.59516,
+    38.369574,
+    -81.59516,
+    38.369574
+],
+  "geometry": {"coordinates":[-81.59516000000001,38.369574],"type":"Point"}
+}

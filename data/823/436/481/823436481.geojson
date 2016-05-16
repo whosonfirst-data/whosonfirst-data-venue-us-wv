@@ -1,0 +1,72 @@
+{
+  "id": 823436481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.98884,39.456088,-77.98884,39.456088",
+    "geom:latitude":39.456088,
+    "geom:longitude":-77.98884,
+    "iso:country":"US",
+    "sg:address":"1020 Foxcroft Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 264 9161",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "sg:website":"www.tacobell.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7k1n8Or74vLg5Q2a4bJaWr_39.456088_-77.988840@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434193,
+    "wof:geomhash":"1e20ce25ae5ab714d0335b53643d43cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823436481
+        }
+    ],
+    "wof:id":823436481,
+    "wof:lastmodified":1463434193,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -77.98884,
+    39.456088,
+    -77.98884,
+    39.456088
+],
+  "geometry": {"coordinates":[-77.98884,39.456088],"type":"Point"}
+}

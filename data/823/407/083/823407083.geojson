@@ -1,0 +1,71 @@
+{
+  "id": 823407083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.094253,37.381057,-81.094253,37.381057",
+    "geom:latitude":37.381057,
+    "geom:longitude":-81.094253,
+    "iso:country":"US",
+    "sg:address":"419 Thornton Ave",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 0870",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uTBeftkIOoNnPR6Aysy2D_37.381057_-81.094253@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432906,
+    "wof:geomhash":"48f0d604d509214098e06c083126055f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823407083
+        }
+    ],
+    "wof:id":823407083,
+    "wof:lastmodified":1463432906,
+    "wof:name":"Davidson Construction",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -81.094253,
+    37.381057,
+    -81.094253,
+    37.381057
+],
+  "geometry": {"coordinates":[-81.09425299999999,37.381057],"type":"Point"}
+}

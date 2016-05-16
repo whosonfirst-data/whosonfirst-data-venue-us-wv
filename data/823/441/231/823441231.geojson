@@ -1,0 +1,71 @@
+{
+  "id": 823441231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.15634,39.47972,-80.15634,39.47972",
+    "geom:latitude":39.47972,
+    "geom:longitude":-80.15634,
+    "iso:country":"US",
+    "sg:address":"1 Oakwood Rd",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 1239",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19pbvsxgB4HnU8Bi7C8J8X_39.479720_-80.156340@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434415,
+    "wof:geomhash":"61385ba89ecd7e780f9662f0d6bafb34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823441231
+        }
+    ],
+    "wof:id":823441231,
+    "wof:lastmodified":1463434415,
+    "wof:name":"Church Of Christ",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -80.15634,
+    39.47972,
+    -80.15634,
+    39.47972
+],
+  "geometry": {"coordinates":[-80.15634,39.47972],"type":"Point"}
+}

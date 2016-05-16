@@ -1,0 +1,84 @@
+{
+  "id": 823452485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.598435,38.328264,-81.598435,38.328264",
+    "geom:latitude":38.328264,
+    "geom:longitude":-81.598435,
+    "iso:country":"US",
+    "sg:address":"3509 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/davis-creek/222523-donut-connection/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 4261",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2z9i2OIFfgpfjeDGZlaDpc_38.328264_-81.598435@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434909,
+    "wof:geomhash":"218ffb627427e3260c96ca19a7c632c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823452485
+        }
+    ],
+    "wof:id":823452485,
+    "wof:lastmodified":1463434909,
+    "wof:name":"Donut Connection",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -81.598435,
+    38.328264,
+    -81.598435,
+    38.328264
+],
+  "geometry": {"coordinates":[-81.59843499999999,38.328264],"type":"Point"}
+}

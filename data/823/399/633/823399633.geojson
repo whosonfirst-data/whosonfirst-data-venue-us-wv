@@ -1,0 +1,71 @@
+{
+  "id": 823399633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.022901,38.431955,-82.022901,38.431955",
+    "geom:latitude":38.431955,
+    "geom:longitude":-82.022901,
+    "iso:country":"US",
+    "sg:address":"2825 Main St",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 562 1889",
+    "sg:postcode":"25526",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731829,
+        102083381,
+        85868321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WlVzeDr9cqP2NbXKDBDME_38.431955_-82.022901@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432570,
+    "wof:geomhash":"d800a5fcc445184126a640ed578a5e8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731829,
+            "neighbourhood_id":85868321,
+            "region_id":85688589,
+            "venue_id":823399633
+        }
+    ],
+    "wof:id":823399633,
+    "wof:lastmodified":1463432570,
+    "wof:name":"Amenity House Salon & Day Spa",
+    "wof:parent_id":85868321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -82.022901,
+    38.431955,
+    -82.022901,
+    38.431955
+],
+  "geometry": {"coordinates":[-82.022901,38.431955],"type":"Point"}
+}

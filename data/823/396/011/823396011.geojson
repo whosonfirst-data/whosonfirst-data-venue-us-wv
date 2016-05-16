@@ -1,0 +1,71 @@
+{
+  "id": 823396011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.251192,39.285678,-80.251192,39.285678",
+    "geom:latitude":39.285678,
+    "geom:longitude":-80.251192,
+    "iso:country":"US",
+    "sg:address":"118 E Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 5192",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SR4AImz9BNubgphQ6To2X_39.285678_-80.251192@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432376,
+    "wof:geomhash":"bd4e47227633e73f8f5e64fca5b009e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823396011
+        }
+    ],
+    "wof:id":823396011,
+    "wof:lastmodified":1463432376,
+    "wof:name":"Roger A Murray CPA",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -80.251192,
+    39.285678,
+    -80.251192,
+    39.285678
+],
+  "geometry": {"coordinates":[-80.251192,39.285678],"type":"Point"}
+}

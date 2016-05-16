@@ -1,0 +1,73 @@
+{
+  "id": 823401089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.139578,39.496601,-80.139578,39.496601",
+    "geom:latitude":39.496601,
+    "geom:longitude":-80.139578,
+    "iso:country":"US",
+    "sg:address":"718 Carlone St",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 367 9700",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "skating",
+        "rink"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WWlLE7fXq88fpXnDLh6Qt_39.496601_-80.139578@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432633,
+    "wof:geomhash":"4b43279810c91686d9cb8cf1bc9606f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823401089
+        }
+    ],
+    "wof:id":823401089,
+    "wof:lastmodified":1463432633,
+    "wof:name":"Skate A Way",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skating",
+        "rink"
+    ]
+},
+  "bbox": [
+    -80.139578,
+    39.496601,
+    -80.139578,
+    39.496601
+],
+  "geometry": {"coordinates":[-80.139578,39.496601],"type":"Point"}
+}

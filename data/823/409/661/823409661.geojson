@@ -1,0 +1,67 @@
+{
+  "id": 823409661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.167467,39.442231,-80.167467,39.442231",
+    "geom:latitude":39.442231,
+    "geom:longitude":-80.167467,
+    "iso:country":"US",
+    "sg:address":"2017 Pleasant Valley Rd",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Amusement Park",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 2500",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:website":"www.valleyworldsoffun.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85834381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WkTpvG6fm7FsYnEcAuKrD_39.442231_-80.167467@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433007,
+    "wof:geomhash":"856deb831aa6b75f2f5685a3426b9a39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85834381,
+            "region_id":85688589,
+            "venue_id":823409661
+        }
+    ],
+    "wof:id":823409661,
+    "wof:lastmodified":1463433007,
+    "wof:name":"Valley Worlds Of Fun",
+    "wof:parent_id":85834381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.167467,
+    39.442231,
+    -80.167467,
+    39.442231
+],
+  "geometry": {"coordinates":[-80.167467,39.442231],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823365973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.570984,38.313331,-81.570984,38.313331",
+    "geom:latitude":38.313331,
+    "geom:longitude":-81.570984,
+    "iso:country":"US",
+    "sg:address":"5513 Washington Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 2891",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22dWiAO3tstORIxt16vunv_38.313331_-81.570984@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431008,
+    "wof:geomhash":"f01bb416661851382c27395ac14e404a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823365973
+        }
+    ],
+    "wof:id":823365973,
+    "wof:lastmodified":1463431008,
+    "wof:name":"Adkins Wrecker",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -81.570984,
+    38.313331,
+    -81.570984,
+    38.313331
+],
+  "geometry": {"coordinates":[-81.570984,38.313331],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 823382195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.726232,38.35292,-81.726232,38.35292",
+    "geom:latitude":38.35292,
+    "geom:longitude":-81.726232,
+    "iso:country":"US",
+    "sg:address":"500 Poplar St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 766 7622",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ena65puuHkJePwOunLzVj_38.352920_-81.726232@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431744,
+    "wof:geomhash":"fce5e57d43c401793708083fb6209694",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823382195
+        }
+    ],
+    "wof:id":823382195,
+    "wof:lastmodified":1463431744,
+    "wof:name":"Perinatal Center The",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.726232,
+    38.35292,
+    -81.726232,
+    38.35292
+],
+  "geometry": {"coordinates":[-81.726232,38.35292],"type":"Point"}
+}

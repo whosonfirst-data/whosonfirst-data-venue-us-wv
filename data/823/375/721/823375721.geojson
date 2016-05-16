@@ -1,0 +1,71 @@
+{
+  "id": 823375721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.138246,38.844614,-82.138246,38.844614",
+    "geom:latitude":38.844614,
+    "geom:longitude":-82.138246,
+    "iso:country":"US",
+    "sg:address":"200 6th St",
+    "sg:city":"Point Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 675 3883",
+    "sg:postcode":"25550",
+    "sg:province":"WV",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85983229,
+        102083675,
+        85824533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zQUpZxEyFPGQpQC3A5dck_38.844614_-82.138246@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431445,
+    "wof:geomhash":"03295eed7c005ded3d43018af73b72cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "neighbourhood_id":85824533,
+            "region_id":85688485,
+            "venue_id":823375721
+        }
+    ],
+    "wof:id":823375721,
+    "wof:lastmodified":1463431445,
+    "wof:name":"Mason County Law Enforcement",
+    "wof:parent_id":85824533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -82.138246,
+    38.844614,
+    -82.138246,
+    38.844614
+],
+  "geometry": {"coordinates":[-82.138246,38.844614],"type":"Point"}
+}

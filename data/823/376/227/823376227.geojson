@@ -1,0 +1,71 @@
+{
+  "id": 823376227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.649902,38.413299,-81.649902,38.413299",
+    "geom:latitude":38.413299,
+    "geom:longitude":-81.649902,
+    "iso:country":"US",
+    "sg:address":"3343 Northfield Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 558 2214",
+    "sg:postcode":"25312",
+    "sg:province":"WV",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0geHIMOQ0xnikzzmOeJSjE_38.413299_-81.649902@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431467,
+    "wof:geomhash":"b19f7dfbbb9683745286ec6de6d493c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823376227
+        }
+    ],
+    "wof:id":823376227,
+    "wof:lastmodified":1463431467,
+    "wof:name":"WV State Agriculture Animal",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -81.649902,
+    38.413299,
+    -81.649902,
+    38.413299
+],
+  "geometry": {"coordinates":[-81.649902,38.413299],"type":"Point"}
+}

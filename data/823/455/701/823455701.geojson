@@ -1,0 +1,71 @@
+{
+  "id": 823455701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.012618,39.396653,-78.012618,39.396653",
+    "geom:latitude":39.396653,
+    "geom:longitude":-78.012618,
+    "iso:country":"US",
+    "sg:address":"196 Carlton Dr",
+    "sg:city":"Inwood",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 5731",
+    "sg:postcode":"25428",
+    "sg:province":"WV",
+    "sg:tags":[
+        "vegetables-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jeNUx6PrS2MbOF606qddn_39.396653_-78.012618@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435085,
+    "wof:geomhash":"9fad6455991ddb67fc87bbd1322c0332",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823455701
+        }
+    ],
+    "wof:id":823455701,
+    "wof:lastmodified":1463435085,
+    "wof:name":"C Lewis-Kilmer Fruit Co",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vegetables-wholesale"
+    ]
+},
+  "bbox": [
+    -78.012618,
+    39.396653,
+    -78.012618,
+    39.396653
+],
+  "geometry": {"coordinates":[-78.012618,39.396653],"type":"Point"}
+}

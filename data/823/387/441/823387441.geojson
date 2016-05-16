@@ -1,0 +1,73 @@
+{
+  "id": 823387441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.587963,38.406385,-82.587963,38.406385",
+    "geom:latitude":38.406385,
+    "geom:longitude":-82.587963,
+    "iso:country":"US",
+    "sg:address":"2100 Beech St",
+    "sg:city":"Kenova",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 3800",
+    "sg:postcode":"25530",
+    "sg:province":"WV",
+    "sg:tags":[
+        "warehouse",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731517,
+        102083365,
+        85806071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49MWlpWf5FZX0cWnp1HEOY_38.406385_-82.587963@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431944,
+    "wof:geomhash":"89c62b4deb30f06f64b364851ee73fbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731517,
+            "neighbourhood_id":85806071,
+            "region_id":85688589,
+            "venue_id":823387441
+        }
+    ],
+    "wof:id":823387441,
+    "wof:lastmodified":1463431944,
+    "wof:name":"Allied Warehousing Services",
+    "wof:parent_id":85806071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "general"
+    ]
+},
+  "bbox": [
+    -82.587963,
+    38.406385,
+    -82.587963,
+    38.406385
+],
+  "geometry": {"coordinates":[-82.587963,38.406385],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 823434515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.60031,40.610632,-80.60031,40.610632",
+    "geom:latitude":40.610632,
+    "geom:longitude":-80.60031,
+    "iso:country":"US",
+    "sg:address":"513 Harker Ave",
+    "sg:city":"Newell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 2525",
+    "sg:postcode":"26050",
+    "sg:province":"WV",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39YmDCT1WYOgDnDuFW11Xc_40.610632_-80.600310@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434102,
+    "wof:geomhash":"1ec0e1e30d80bec1c4dcfab42803886b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823434515
+        }
+    ],
+    "wof:id":823434515,
+    "wof:lastmodified":1463434102,
+    "wof:name":"Javens Muffler & Svc",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -80.60031,
+    40.610632,
+    -80.60031,
+    40.610632
+],
+  "geometry": {"coordinates":[-80.60030999999999,40.610632],"type":"Point"}
+}

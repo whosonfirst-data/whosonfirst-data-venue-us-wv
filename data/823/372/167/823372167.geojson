@@ -1,0 +1,73 @@
+{
+  "id": 823372167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.442977,38.216838,-81.442977,38.216838",
+    "geom:latitude":38.216838,
+    "geom:longitude":-81.442977,
+    "iso:country":"US",
+    "sg:address":"2010 2nd Ave",
+    "sg:city":"East Bank",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 595 1456",
+    "sg:postcode":"25067",
+    "sg:province":"WV",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ijhpvgkLXmvjG3RBLsDzY_38.216838_-81.442977@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431290,
+    "wof:geomhash":"43fb54466a874729c387bdd659a6c335",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823372167
+        }
+    ],
+    "wof:id":823372167,
+    "wof:lastmodified":1463431290,
+    "wof:name":"T E Wells Excavating",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.442977,
+    38.216838,
+    -81.442977,
+    38.216838
+],
+  "geometry": {"coordinates":[-81.442977,38.216838],"type":"Point"}
+}

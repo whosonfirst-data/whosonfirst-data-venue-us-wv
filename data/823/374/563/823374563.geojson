@@ -1,0 +1,73 @@
+{
+  "id": 823374563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.131163,38.433671,-82.131163,38.433671",
+    "geom:latitude":38.433671,
+    "geom:longitude":-82.131163,
+    "iso:country":"US",
+    "sg:address":"22 Damon Ave",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 743 1620",
+    "sg:postcode":"25541",
+    "sg:province":"WV",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85816671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mW8NfUFOZAAQT4QF9ssGz_38.433671_-82.131163@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431381,
+    "wof:geomhash":"5187bc1ca903a688f977a14c12017076",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85816671,
+            "region_id":85688589,
+            "venue_id":823374563
+        }
+    ],
+    "wof:id":823374563,
+    "wof:lastmodified":1463431381,
+    "wof:name":"Zipper Enterprises Excavating",
+    "wof:parent_id":85816671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.131163,
+    38.433671,
+    -82.131163,
+    38.433671
+],
+  "geometry": {"coordinates":[-82.131163,38.433671],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823385095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.27588,39.281212,-80.27588,39.281212",
+    "geom:latitude":39.281212,
+    "geom:longitude":-80.27588,
+    "iso:country":"US",
+    "sg:address":"1178 W Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 5476",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "leasing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1u60rboKQy9jtsQsJTAoAo_39.281212_-80.275880@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431853,
+    "wof:geomhash":"3268c7814211f104c9c575da0852ada0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823385095
+        }
+    ],
+    "wof:id":823385095,
+    "wof:lastmodified":1463431853,
+    "wof:name":"Rentway",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -80.27588,
+    39.281212,
+    -80.27588,
+    39.281212
+],
+  "geometry": {"coordinates":[-80.27588,39.281212],"type":"Point"}
+}

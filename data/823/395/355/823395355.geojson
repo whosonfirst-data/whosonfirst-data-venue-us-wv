@@ -1,0 +1,77 @@
+{
+  "id": 823395355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.548088,39.302849,-81.548088,39.302849",
+    "geom:latitude":39.302849,
+    "geom:longitude":-81.548088,
+    "iso:country":"US",
+    "sg:address":"1401 5th St",
+    "sg:city":"Vienna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 295 9376",
+    "sg:postcode":"26105",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731687,
+        102083343,
+        85805293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28rDWkaqAdgmthsVQexC5o_39.302849_-81.548088@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432342,
+    "wof:geomhash":"a9c00732e02254b78937872f9ec07e3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85805293,
+            "region_id":85688589,
+            "venue_id":823395355
+        }
+    ],
+    "wof:id":823395355,
+    "wof:lastmodified":1463432342,
+    "wof:name":"Car Care Ctr",
+    "wof:parent_id":85805293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -81.548088,
+    39.302849,
+    -81.548088,
+    39.302849
+],
+  "geometry": {"coordinates":[-81.54808800000001,39.302849],"type":"Point"}
+}

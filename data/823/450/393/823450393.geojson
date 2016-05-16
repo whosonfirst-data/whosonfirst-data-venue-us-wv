@@ -1,0 +1,71 @@
+{
+  "id": 823450393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.601858,40.618628,-80.601858,40.618628",
+    "geom:latitude":40.618628,
+    "geom:longitude":-80.601858,
+    "iso:country":"US",
+    "sg:address":"416 Washington St",
+    "sg:city":"Newell",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 5800",
+    "sg:postcode":"26050",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10GtthDH1CDqNw6ROMYLxP_40.618628_-80.601858@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434830,
+    "wof:geomhash":"26c3bededac7ed142088b4cdc6f208cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823450393
+        }
+    ],
+    "wof:id":823450393,
+    "wof:lastmodified":1463434830,
+    "wof:name":"River's Edge Restaurant",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -80.601858,
+    40.618628,
+    -80.601858,
+    40.618628
+],
+  "geometry": {"coordinates":[-80.60185799999999,40.618628],"type":"Point"}
+}

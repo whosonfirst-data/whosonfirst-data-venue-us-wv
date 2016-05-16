@@ -1,0 +1,75 @@
+{
+  "id": 823426865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.962228,39.648988,-79.962228,39.648988",
+    "geom:latitude":39.648988,
+    "geom:longitude":-79.962228,
+    "iso:country":"US",
+    "sg:address":"404 Inglewood Blvd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 2004",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85847767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4w3HEtlZxgIF6Y2aI9yWMs_39.648988_-79.962228@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433741,
+    "wof:geomhash":"875b14b7b4a2e1bd4ea444c49a2597aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85847767,
+            "region_id":85688589,
+            "venue_id":823426865
+        }
+    ],
+    "wof:id":823426865,
+    "wof:lastmodified":1463433741,
+    "wof:name":"Monongalia Pediatric & Youth",
+    "wof:parent_id":85847767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -79.962228,
+    39.648988,
+    -79.962228,
+    39.648988
+],
+  "geometry": {"coordinates":[-79.962228,39.648988],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823383771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.747662,38.36078,-81.747662,38.36078",
+    "geom:latitude":38.36078,
+    "geom:longitude":-81.747662,
+    "iso:country":"US",
+    "sg:address":"330 18th St",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 8071",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kMCk6Uo8MiurtDQtIIJRO_38.360780_-81.747662@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431803,
+    "wof:geomhash":"8efc1cf7f0d0b667d2b8289318305366",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823383771
+        }
+    ],
+    "wof:id":823383771,
+    "wof:lastmodified":1463431803,
+    "wof:name":"Starkey Microwave Service",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -81.747662,
+    38.36078,
+    -81.747662,
+    38.36078
+],
+  "geometry": {"coordinates":[-81.74766200000001,38.36078],"type":"Point"}
+}

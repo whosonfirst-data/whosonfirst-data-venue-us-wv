@@ -1,0 +1,71 @@
+{
+  "id": 823371105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.353441,39.268919,-80.353441,39.268919",
+    "geom:latitude":39.268919,
+    "geom:longitude":-80.353441,
+    "iso:country":"US",
+    "sg:address":"1040 S Chestnut St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 622 7590",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electric",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85810773,
+        102082619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44ufsbcynAeytCqRjsGGLL_39.268919_-80.353441@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431218,
+    "wof:geomhash":"526bdb0aa9893d17dcc41ed2652eff3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "neighbourhood_id":85810773,
+            "region_id":85688589,
+            "venue_id":823371105
+        }
+    ],
+    "wof:id":823371105,
+    "wof:lastmodified":1463431218,
+    "wof:name":"Cardinal Sales & Svc Inc",
+    "wof:parent_id":85810773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "motor"
+    ]
+},
+  "bbox": [
+    -80.353441,
+    39.268919,
+    -80.353441,
+    39.268919
+],
+  "geometry": {"coordinates":[-80.353441,39.268919],"type":"Point"}
+}

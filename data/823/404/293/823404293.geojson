@@ -1,0 +1,74 @@
+{
+  "id": 823404293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.568733,38.237323,-81.568733,38.237323",
+    "geom:latitude":38.237323,
+    "geom:longitude":-81.568733,
+    "iso:country":"US",
+    "sg:address":"1 Sutphin Dr",
+    "sg:city":"Marmet",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 1580",
+    "sg:postcode":"25315",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "sg:website":"www.marmethealthcare.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qejdOgKQ2t1lWzSzBWkH9_38.237323_-81.568733@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432774,
+    "wof:geomhash":"6c93e7fbe37fe2e73c3618a944b71af0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823404293
+        }
+    ],
+    "wof:id":823404293,
+    "wof:lastmodified":1463432774,
+    "wof:name":"Marmet Health Care Ctr",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -81.568733,
+    38.237323,
+    -81.568733,
+    38.237323
+],
+  "geometry": {"coordinates":[-81.56873299999999,38.237323],"type":"Point"}
+}

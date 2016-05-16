@@ -1,0 +1,71 @@
+{
+  "id": 823409821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.964263,39.069965,-78.964263,39.069965",
+    "geom:latitude":39.069965,
+    "geom:longitude":-78.964263,
+    "iso:country":"US",
+    "sg:address":"310 Jackson Ave",
+    "sg:city":"Moorefield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 530 6290",
+    "sg:postcode":"26836",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731279,
+        102082645,
+        85851815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AE11YtFKtRdgsJpqLDOyh_39.069965_-78.964263@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433013,
+    "wof:geomhash":"64960326053193b893890c6ce1bd219b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082645,
+            "locality_id":101731279,
+            "neighbourhood_id":85851815,
+            "region_id":85688589,
+            "venue_id":823409821
+        }
+    ],
+    "wof:id":823409821,
+    "wof:lastmodified":1463433013,
+    "wof:name":"Fisher Family Dentistry",
+    "wof:parent_id":85851815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -78.964263,
+    39.069965,
+    -78.964263,
+    39.069965
+],
+  "geometry": {"coordinates":[-78.964263,39.069965],"type":"Point"}
+}

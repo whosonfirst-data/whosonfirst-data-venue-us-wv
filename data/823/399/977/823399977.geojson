@@ -1,0 +1,73 @@
+{
+  "id": 823399977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.921241,39.66799,-79.921241,39.66799",
+    "geom:latitude":39.66799,
+    "geom:longitude":-79.921241,
+    "iso:country":"US",
+    "sg:address":"2006 Pinecrest Dr",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 594 2641",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731747,
+        102082587,
+        85819247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UAchW9hHHpKkR2Ii6NoTH_39.667990_-79.921241@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432587,
+    "wof:geomhash":"be3178758bac7f95f0eb471664ffd670",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85819247,
+            "region_id":85688589,
+            "venue_id":823399977
+        }
+    ],
+    "wof:id":823399977,
+    "wof:lastmodified":1463432587,
+    "wof:name":"Silver Thread Properties",
+    "wof:parent_id":85819247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -79.921241,
+    39.66799,
+    -79.921241,
+    39.66799
+],
+  "geometry": {"coordinates":[-79.92124099999999,39.66799],"type":"Point"}
+}

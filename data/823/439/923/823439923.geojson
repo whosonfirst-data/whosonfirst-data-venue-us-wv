@@ -1,0 +1,73 @@
+{
+  "id": 823439923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.26503,37.308816,-81.26503,37.308816",
+    "geom:latitude":37.308816,
+    "geom:longitude":-81.26503,
+    "iso:country":"US",
+    "sg:address":"59 Saxon St",
+    "sg:city":"Bluewell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 589 6674",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "residential",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69aNLFR95TJzbDgAgNnajn_37.308816_-81.265030@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434362,
+    "wof:geomhash":"3691922e19243a424e9deb15766912ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823439923
+        }
+    ],
+    "wof:id":823439923,
+    "wof:lastmodified":1463434362,
+    "wof:name":"Shoemaker Construction Co Inc",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.26503,
+    37.308816,
+    -81.26503,
+    37.308816
+],
+  "geometry": {"coordinates":[-81.26503,37.308816],"type":"Point"}
+}

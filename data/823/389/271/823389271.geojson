@@ -1,0 +1,71 @@
+{
+  "id": 823389271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.22183,37.264952,-81.22183,37.264952",
+    "geom:latitude":37.264952,
+    "geom:longitude":-81.22183,
+    "iso:country":"US",
+    "sg:address":"910 Bland St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 325 8649",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Kptn6YotdNp7vhXAwzbYW_37.264952_-81.221830@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432040,
+    "wof:geomhash":"5a7fca38d03515645075512a62e80d56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823389271
+        }
+    ],
+    "wof:id":823389271,
+    "wof:lastmodified":1463432040,
+    "wof:name":"Richardson Funeral Home",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -81.22183,
+    37.264952,
+    -81.22183,
+    37.264952
+],
+  "geometry": {"coordinates":[-81.22183,37.264952],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823395543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.639167,38.398425,-81.639167,38.398425",
+    "geom:latitude":38.398425,
+    "geom:longitude":-81.639167,
+    "iso:country":"US",
+    "sg:address":"2217 Lilly Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 3498",
+    "sg:postcode":"25312",
+    "sg:province":"WV",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rGvVMjsU48GTvT5q3fZwC_38.398425_-81.639167@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432349,
+    "wof:geomhash":"f2f00798796e581f410cd3908f25327a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823395543
+        }
+    ],
+    "wof:id":823395543,
+    "wof:lastmodified":1463432349,
+    "wof:name":"Professional Window Cleaning",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -81.639167,
+    38.398425,
+    -81.639167,
+    38.398425
+],
+  "geometry": {"coordinates":[-81.639167,38.398425],"type":"Point"}
+}

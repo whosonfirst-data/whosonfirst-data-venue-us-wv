@@ -1,0 +1,71 @@
+{
+  "id": 823441769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.281044,39.279515,-80.281044,39.279515",
+    "geom:latitude":39.279515,
+    "geom:longitude":-80.281044,
+    "iso:country":"US",
+    "sg:address":"546 Emily Dr",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 622 1062",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3khJtQwnr3C0bmaAZtlp9g_39.279515_-80.281044@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434435,
+    "wof:geomhash":"d38919bfd6f67cec9ab19ccf345fe012",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823441769
+        }
+    ],
+    "wof:id":823441769,
+    "wof:lastmodified":1463434435,
+    "wof:name":"Subway",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -80.281044,
+    39.279515,
+    -80.281044,
+    39.279515
+],
+  "geometry": {"coordinates":[-80.28104399999999,39.279515],"type":"Point"}
+}

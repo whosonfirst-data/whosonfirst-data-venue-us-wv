@@ -1,0 +1,71 @@
+{
+  "id": 823425639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.580941,38.399359,-82.580941,38.399359",
+    "geom:latitude":38.399359,
+    "geom:longitude":-82.580941,
+    "iso:country":"US",
+    "sg:address":"1600 Pine St",
+    "sg:city":"Kenova",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 4153",
+    "sg:postcode":"25530",
+    "sg:province":"WV",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731517,
+        102083365,
+        85806071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74pImU9h5c65qwuH5z5BfJ_38.399359_-82.580941@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433684,
+    "wof:geomhash":"0fdd68b2f9d9fbaba9b483190ce14bab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731517,
+            "neighbourhood_id":85806071,
+            "region_id":85688589,
+            "venue_id":823425639
+        }
+    ],
+    "wof:id":823425639,
+    "wof:lastmodified":1463433684,
+    "wof:name":"Kenova Volunteer Fire Dept",
+    "wof:parent_id":85806071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -82.580941,
+    38.399359,
+    -82.580941,
+    38.399359
+],
+  "geometry": {"coordinates":[-82.580941,38.399359],"type":"Point"}
+}

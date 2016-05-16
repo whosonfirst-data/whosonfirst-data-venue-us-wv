@@ -1,0 +1,75 @@
+{
+  "id": 823441411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.552883,38.310273,-81.552883,38.310273",
+    "geom:latitude":38.310273,
+    "geom:longitude":-81.552883,
+    "iso:country":"US",
+    "sg:address":"159 Campbells Creek Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 4743",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xfpU37Ed7cPtldsMU0sPE_38.310273_-81.552883@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434422,
+    "wof:geomhash":"667b51a18bedf123a8ad42738a2b434c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823441411
+        }
+    ],
+    "wof:id":823441411,
+    "wof:lastmodified":1463434422,
+    "wof:name":"Pjax Trucking",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -81.552883,
+    38.310273,
+    -81.552883,
+    38.310273
+],
+  "geometry": {"coordinates":[-81.55288299999999,38.310273],"type":"Point"}
+}

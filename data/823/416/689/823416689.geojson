@@ -1,0 +1,75 @@
+{
+  "id": 823416689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.159695,37.799281,-81.159695,37.799281",
+    "geom:latitude":37.799281,
+    "geom:longitude":-81.159695,
+    "iso:country":"US",
+    "sg:address":"22 Mallard Ct",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 252 4216",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uMgLpMDmR4kq7M2n2GnKd_37.799281_-81.159695@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433314,
+    "wof:geomhash":"91b6bcd8c53273f9011da34ba07da734",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823416689
+        }
+    ],
+    "wof:id":823416689,
+    "wof:lastmodified":1463433314,
+    "wof:name":"Taoufik Sadat MD",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.159695,
+    37.799281,
+    -81.159695,
+    37.799281
+],
+  "geometry": {"coordinates":[-81.159695,37.799281],"type":"Point"}
+}

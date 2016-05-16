@@ -1,0 +1,83 @@
+{
+  "id": 823411417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.5713,38.312895,-81.5713,38.312895",
+    "geom:latitude":38.312895,
+    "geom:longitude":-81.5713,
+    "iso:country":"US",
+    "sg:address":"501 56th St SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 6100",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "development",
+        "oil",
+        "natural",
+        "transmission",
+        "gas",
+        "p",
+        "exploration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Dikc9W49FiySPNWTohHIb_38.312895_-81.571300@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433081,
+    "wof:geomhash":"e28464d82350f41f217b5c5b63cefff4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823411417
+        }
+    ],
+    "wof:id":823411417,
+    "wof:lastmodified":1463433081,
+    "wof:name":"Eastern American Energy Corp",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "oil",
+        "natural",
+        "transmission",
+        "gas",
+        "p",
+        "exploration"
+    ]
+},
+  "bbox": [
+    -81.5713,
+    38.312895,
+    -81.5713,
+    38.312895
+],
+  "geometry": {"coordinates":[-81.57129999999999,38.312895],"type":"Point"}
+}

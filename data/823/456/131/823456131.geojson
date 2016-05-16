@@ -1,0 +1,68 @@
+{
+  "id": 823456131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.681686,40.07711,-80.681686,40.07711",
+    "geom:latitude":40.07711,
+    "geom:longitude":-80.681686,
+    "iso:country":"US",
+    "sg:address":"109 Edgington Ln",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 242 4343",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85817519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46SzsyljLTA0gDtKuEdvAq_40.077110_-80.681686@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435101,
+    "wof:geomhash":"c21ced7092eba43ba5ac1a42cd299592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85817519,
+            "region_id":85688589,
+            "venue_id":823456131
+        }
+    ],
+    "wof:id":823456131,
+    "wof:lastmodified":1463435101,
+    "wof:name":"Frederick's Salon",
+    "wof:parent_id":85817519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.681686,
+    40.07711,
+    -80.681686,
+    40.07711
+],
+  "geometry": {"coordinates":[-80.681686,40.07711],"type":"Point"}
+}

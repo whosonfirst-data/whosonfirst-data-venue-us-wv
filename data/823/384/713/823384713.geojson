@@ -1,0 +1,71 @@
+{
+  "id": 823384713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.148529,37.973519,-81.148529,37.973519",
+    "geom:latitude":37.973519,
+    "geom:longitude":-81.148529,
+    "iso:country":"US",
+    "sg:address":"136 Lewis St",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 469 6683",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iuyQ8e6eqmdrcve32DIUn_37.973519_-81.148529@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431840,
+    "wof:geomhash":"9344f444d95ee6a9c9340ac95cbdce55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823384713
+        }
+    ],
+    "wof:id":823384713,
+    "wof:lastmodified":1463431840,
+    "wof:name":"Dance-It Oak Hill Dance Ctr",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -81.148529,
+    37.973519,
+    -81.148529,
+    37.973519
+],
+  "geometry": {"coordinates":[-81.148529,37.973519],"type":"Point"}
+}

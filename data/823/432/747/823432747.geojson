@@ -1,0 +1,71 @@
+{
+  "id": 823432747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.333344,38.180119,-81.333344,38.180119",
+    "geom:latitude":38.180119,
+    "geom:longitude":-81.333344,
+    "iso:country":"US",
+    "sg:address":"1101 2nd Ave",
+    "sg:city":"Montgomery",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 442 4469",
+    "sg:postcode":"25136",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6o2GdY0a6pmF7f4qE10jHN_38.180119_-81.333344@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434008,
+    "wof:geomhash":"32183cfa5960fd41d88d32f66c5a9966",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823432747
+        }
+    ],
+    "wof:id":823432747,
+    "wof:lastmodified":1463434008,
+    "wof:name":"Klassic Kuts",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.333344,
+    38.180119,
+    -81.333344,
+    38.180119
+],
+  "geometry": {"coordinates":[-81.333344,38.180119],"type":"Point"}
+}

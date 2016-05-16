@@ -1,0 +1,71 @@
+{
+  "id": 823399071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.063816,37.367372,-81.063816,37.367372",
+    "geom:latitude":37.367372,
+    "geom:longitude":-81.063816,
+    "iso:country":"US",
+    "sg:address":"115 S Shadowood Ln",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 6579",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uNxhrA8PzVpcJFduDCCu0_37.367372_-81.063816@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432535,
+    "wof:geomhash":"a682041c9ad5268f54505f3338405781",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823399071
+        }
+    ],
+    "wof:id":823399071,
+    "wof:lastmodified":1463432535,
+    "wof:name":"Mountain Air Heating Cool",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.063816,
+    37.367372,
+    -81.063816,
+    37.367372
+],
+  "geometry": {"coordinates":[-81.063816,37.367372],"type":"Point"}
+}

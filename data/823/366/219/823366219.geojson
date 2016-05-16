@@ -1,0 +1,82 @@
+{
+  "id": 823366219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.080452,37.374469,-81.080452,37.374469",
+    "geom:latitude":37.374469,
+    "geom:longitude":-81.080452,
+    "iso:country":"US",
+    "sg:address":"101 Westview Ave",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 2653",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "ready",
+        "concrete",
+        "mixed",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Yr6p5F5TpW4XGASLtDNEC_37.374469_-81.080452@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431023,
+    "wof:geomhash":"956aa36d33b9a6c9974d1338bb19f4f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823366219
+        }
+    ],
+    "wof:id":823366219,
+    "wof:lastmodified":1463431023,
+    "wof:name":"Boxley Concrete Products",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "concrete",
+        "mixed",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -81.080452,
+    37.374469,
+    -81.080452,
+    37.374469
+],
+  "geometry": {"coordinates":[-81.08045199999999,37.374469],"type":"Point"}
+}

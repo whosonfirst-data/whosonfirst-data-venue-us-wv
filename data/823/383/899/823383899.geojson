@@ -1,0 +1,68 @@
+{
+  "id": 823383899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.192802,37.775456,-81.192802,37.775456",
+    "geom:latitude":37.775456,
+    "geom:longitude":-81.192802,
+    "iso:country":"US",
+    "sg:address":"500 Neville St",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 256 2271",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NU1iDVvNaAkUbfSvwZnql_37.775456_-81.192802@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431807,
+    "wof:geomhash":"2ac6cfda4b20f2779db24e26b3262c0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823383899
+        }
+    ],
+    "wof:id":823383899,
+    "wof:lastmodified":1463431807,
+    "wof:name":"Bank One",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.192802,
+    37.775456,
+    -81.192802,
+    37.775456
+],
+  "geometry": {"coordinates":[-81.192802,37.775456],"type":"Point"}
+}

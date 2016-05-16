@@ -1,0 +1,71 @@
+{
+  "id": 823422173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.383474,38.472211,-81.383474,38.472211",
+    "geom:latitude":38.472211,
+    "geom:longitude":-81.383474,
+    "iso:country":"US",
+    "sg:address":"60 Reamer Rd",
+    "sg:city":"Clendenin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 548 8300",
+    "sg:postcode":"25045",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LahwhPfJLy5z9vWn623ZG_38.472211_-81.383474@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433548,
+    "wof:geomhash":"12b109834f2aaeec7ac2914b1dd257b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823422173
+        }
+    ],
+    "wof:id":823422173,
+    "wof:lastmodified":1463433548,
+    "wof:name":"Reamer Auto Repair",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -81.383474,
+    38.472211,
+    -81.383474,
+    38.472211
+],
+  "geometry": {"coordinates":[-81.38347400000001,38.472211],"type":"Point"}
+}

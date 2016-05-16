@@ -1,0 +1,73 @@
+{
+  "id": 823445621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.220541,37.269057,-81.220541,37.269057",
+    "geom:latitude":37.269057,
+    "geom:longitude":-81.220541,
+    "iso:country":"US",
+    "sg:address":"625 Commerce St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 327 0012",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lQE6OTX4qLwPdKxsRZKUb_37.269057_-81.220541@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434619,
+    "wof:geomhash":"0f1371807a9defe74ca7d7df86f721ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823445621
+        }
+    ],
+    "wof:id":823445621,
+    "wof:lastmodified":1463434619,
+    "wof:name":"Electro Lab Inc",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.220541,
+    37.269057,
+    -81.220541,
+    37.269057
+],
+  "geometry": {"coordinates":[-81.220541,37.269057],"type":"Point"}
+}

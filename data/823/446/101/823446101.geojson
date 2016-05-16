@@ -1,0 +1,73 @@
+{
+  "id": 823446101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.095042,38.222181,-80.095042,38.222181",
+    "geom:latitude":38.222181,
+    "geom:longitude":-80.095042,
+    "iso:country":"US",
+    "sg:address":"216 9th St",
+    "sg:city":"Marlinton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 799 4510",
+    "sg:postcode":"24954",
+    "sg:province":"WV",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731759,
+        102082613,
+        85805067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xx70LclLMTMFPuxjINeT6_38.222181_-80.095042@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434647,
+    "wof:geomhash":"0fbd6335be6eb088bbf2c6f2b83e7e32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082613,
+            "locality_id":101731759,
+            "neighbourhood_id":85805067,
+            "region_id":85688589,
+            "venue_id":823446101
+        }
+    ],
+    "wof:id":823446101,
+    "wof:lastmodified":1463434647,
+    "wof:name":"D Squared Computers",
+    "wof:parent_id":85805067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -80.095042,
+    38.222181,
+    -80.095042,
+    38.222181
+],
+  "geometry": {"coordinates":[-80.09504200000001,38.222181],"type":"Point"}
+}

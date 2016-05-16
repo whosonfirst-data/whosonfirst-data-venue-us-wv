@@ -1,0 +1,73 @@
+{
+  "id": 823421535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.859879,39.633561,-80.859879,39.633561",
+    "geom:latitude":39.633561,
+    "geom:longitude":-80.859879,
+    "iso:country":"US",
+    "sg:address":"191 State Rte 2",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 6680",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Iphl951qbyQZjwlvQQnTE_39.633561_-80.859879@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433525,
+    "wof:geomhash":"8b3c625b3eb1287f5d6faf177489540c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823421535
+        }
+    ],
+    "wof:id":823421535,
+    "wof:lastmodified":1463433525,
+    "wof:name":"New Martinsville Tower",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -80.859879,
+    39.633561,
+    -80.859879,
+    39.633561
+],
+  "geometry": {"coordinates":[-80.85987900000001,39.633561],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823378463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.581245,39.246513,-81.581245,39.246513",
+    "geom:latitude":39.246513,
+    "geom:longitude":-81.581245,
+    "iso:country":"US",
+    "sg:address":"4 8th Ave",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 422 4165",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85829881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09zmrJDpvfr7R2M1rJvpbs_39.246513_-81.581245@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431575,
+    "wof:geomhash":"13f839ff2dfe57962e85a21c36e2d34f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85829881,
+            "region_id":85688589,
+            "venue_id":823378463
+        }
+    ],
+    "wof:id":823378463,
+    "wof:lastmodified":1463431575,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85829881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.581245,
+    39.246513,
+    -81.581245,
+    39.246513
+],
+  "geometry": {"coordinates":[-81.581245,39.246513],"type":"Point"}
+}

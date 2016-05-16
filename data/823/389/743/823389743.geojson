@@ -1,0 +1,71 @@
+{
+  "id": 823389743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.445904,37.796686,-80.445904,37.796686",
+    "geom:latitude":37.796686,
+    "geom:longitude":-80.445904,
+    "iso:country":"US",
+    "sg:address":"312 Echols Ln",
+    "sg:city":"Lewisburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 647 5339",
+    "sg:postcode":"24901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tCgx1HOHYixfgntxIdHrr_37.796686_-80.445904@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432062,
+    "wof:geomhash":"aaf743b2017a45cafc550c371d08393f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823389743
+        }
+    ],
+    "wof:id":823389743,
+    "wof:lastmodified":1463432062,
+    "wof:name":"Clemons Window Clg & Jantr Svc",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -80.445904,
+    37.796686,
+    -80.445904,
+    37.796686
+],
+  "geometry": {"coordinates":[-80.445904,37.796686],"type":"Point"}
+}

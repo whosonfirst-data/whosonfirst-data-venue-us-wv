@@ -1,0 +1,71 @@
+{
+  "id": 823386531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.350948,38.801883,-81.350948,38.801883",
+    "geom:latitude":38.801883,
+    "geom:longitude":-81.350948,
+    "iso:country":"US",
+    "sg:address":"305 Market St",
+    "sg:city":"Spencer",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 927 1346",
+    "sg:postcode":"25276",
+    "sg:province":"WV",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731535,
+        102083399,
+        85868331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4P1qPgM1f12peNJhXEHDr6_38.801883_-81.350948@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431909,
+    "wof:geomhash":"60dec9f31edeedf209bd555a9f336e95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083399,
+            "locality_id":101731535,
+            "neighbourhood_id":85868331,
+            "region_id":85688589,
+            "venue_id":823386531
+        }
+    ],
+    "wof:id":823386531,
+    "wof:lastmodified":1463431909,
+    "wof:name":"Miller & Miller",
+    "wof:parent_id":85868331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -81.350948,
+    38.801883,
+    -81.350948,
+    38.801883
+],
+  "geometry": {"coordinates":[-81.350948,38.801883],"type":"Point"}
+}

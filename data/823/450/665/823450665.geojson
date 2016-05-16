@@ -1,0 +1,71 @@
+{
+  "id": 823450665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.562736,39.264568,-81.562736,39.264568",
+    "geom:latitude":39.264568,
+    "geom:longitude":-81.562736,
+    "iso:country":"US",
+    "sg:address":"1 Government Sq",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 424 8568",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85829881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TR5DCrkl0DnF2QjXKFlGv_39.264568_-81.562736@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434840,
+    "wof:geomhash":"01fd52c7117e5229c87d1eda46f87300",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85829881,
+            "region_id":85688589,
+            "venue_id":823450665
+        }
+    ],
+    "wof:id":823450665,
+    "wof:lastmodified":1463434840,
+    "wof:name":"Parkersburg Engineering Dept",
+    "wof:parent_id":85829881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -81.562736,
+    39.264568,
+    -81.562736,
+    39.264568
+],
+  "geometry": {"coordinates":[-81.562736,39.264568],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823378147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.55871,38.396456,-82.55871,38.396456",
+    "geom:latitude":38.396456,
+    "geom:longitude":-82.55871,
+    "iso:country":"US",
+    "sg:address":"750 C St",
+    "sg:city":"Ceredo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 6384",
+    "sg:postcode":"25507",
+    "sg:province":"WV",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083365,
+        85857035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Fz8aquyzbzQ9briEwtyp4_38.396456_-82.558710@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431564,
+    "wof:geomhash":"6d706f2e750d6cbbf80b03e7a5f25157",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731553,
+            "neighbourhood_id":85857035,
+            "region_id":85688589,
+            "venue_id":823378147
+        }
+    ],
+    "wof:id":823378147,
+    "wof:lastmodified":1463431564,
+    "wof:name":"Ceredo Kenova Animal Clinic",
+    "wof:parent_id":85857035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -82.55871,
+    38.396456,
+    -82.55871,
+    38.396456
+],
+  "geometry": {"coordinates":[-82.55871,38.396456],"type":"Point"}
+}

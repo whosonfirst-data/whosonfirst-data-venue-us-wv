@@ -1,0 +1,73 @@
+{
+  "id": 823435089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.566229,38.295384,-81.566229,38.295384",
+    "geom:latitude":38.295384,
+    "geom:longitude":-81.566229,
+    "iso:country":"US",
+    "sg:address":"322 70th St SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 558 3724",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "state",
+        "taxation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Tk1ipJ6tsq3X3qLz0XAhl_38.295384_-81.566229@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434131,
+    "wof:geomhash":"78a2fc53ad91f89be23a62373b545464",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823435089
+        }
+    ],
+    "wof:id":823435089,
+    "wof:lastmodified":1463434131,
+    "wof:name":"Tax & Revenue Dept Enforcement",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "taxation"
+    ]
+},
+  "bbox": [
+    -81.566229,
+    38.295384,
+    -81.566229,
+    38.295384
+],
+  "geometry": {"coordinates":[-81.56622900000001,38.295384],"type":"Point"}
+}

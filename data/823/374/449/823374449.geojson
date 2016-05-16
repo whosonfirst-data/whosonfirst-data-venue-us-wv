@@ -1,0 +1,73 @@
+{
+  "id": 823374449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.588441,38.359886,-81.588441,38.359886",
+    "geom:latitude":38.359886,
+    "geom:longitude":-81.588441,
+    "iso:country":"US",
+    "sg:address":"1364 Greenbrier St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 6913",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40BvNZo8iFpEk3TvVNdjUl_38.359886_-81.588441@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431377,
+    "wof:geomhash":"9755c9cb58db6e13127a992133fdd12c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823374449
+        }
+    ],
+    "wof:id":823374449,
+    "wof:lastmodified":1463431377,
+    "wof:name":"Charleston Auto Exchange",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -81.588441,
+    38.359886,
+    -81.588441,
+    38.359886
+],
+  "geometry": {"coordinates":[-81.588441,38.359886],"type":"Point"}
+}

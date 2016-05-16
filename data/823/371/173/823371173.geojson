@@ -1,0 +1,71 @@
+{
+  "id": 823371173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.964376,39.607565,-79.964376,39.607565",
+    "geom:latitude":39.607565,
+    "geom:longitude":-79.964376,
+    "iso:country":"US",
+    "sg:address":"209 Greenbag Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 9481",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HYexeGl1swj4DDrTxRDxt_39.607565_-79.964376@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431241,
+    "wof:geomhash":"744600cb61d9b049f46c8d2f675c545b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823371173
+        }
+    ],
+    "wof:id":823371173,
+    "wof:lastmodified":1463431241,
+    "wof:name":"Auto Parts Co",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -79.964376,
+    39.607565,
+    -79.964376,
+    39.607565
+],
+  "geometry": {"coordinates":[-79.964376,39.607565],"type":"Point"}
+}

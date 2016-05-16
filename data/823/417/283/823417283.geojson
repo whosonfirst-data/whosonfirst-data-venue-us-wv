@@ -1,0 +1,71 @@
+{
+  "id": 823417283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.65902,38.366098,-81.65902,38.366098",
+    "geom:latitude":38.366098,
+    "geom:longitude":-81.65902,
+    "iso:country":"US",
+    "sg:address":"1104 Main St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 4157",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Mzqo1QgU1hsJHJETNvzhC_38.366098_-81.659020@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433348,
+    "wof:geomhash":"6d21858fec03a84d4ccc5eb00a9ba855",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823417283
+        }
+    ],
+    "wof:id":823417283,
+    "wof:lastmodified":1463433348,
+    "wof:name":"Headmasters",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine"
+    ]
+},
+  "bbox": [
+    -81.65902,
+    38.366098,
+    -81.65902,
+    38.366098
+],
+  "geometry": {"coordinates":[-81.65902,38.366098],"type":"Point"}
+}

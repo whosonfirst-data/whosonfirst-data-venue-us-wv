@@ -1,0 +1,71 @@
+{
+  "id": 823456509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.596926,40.321006,-80.596926,40.321006",
+    "geom:latitude":40.321006,
+    "geom:longitude":-80.596926,
+    "iso:country":"US",
+    "sg:address":"231 River Ave",
+    "sg:city":"Follansbee",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 527 3607",
+    "sg:postcode":"26037",
+    "sg:province":"WV",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rYOU1DFe4KIdT3Bta8YvK_40.321006_-80.596926@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435115,
+    "wof:geomhash":"56314ba238ef1093ce38de4a6a774a73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823456509
+        }
+    ],
+    "wof:id":823456509,
+    "wof:lastmodified":1463435115,
+    "wof:name":"Chuck S Body Shop",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -80.596926,
+    40.321006,
+    -80.596926,
+    40.321006
+],
+  "geometry": {"coordinates":[-80.596926,40.321006],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 823456181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.688155,40.089318,-80.688155,40.089318",
+    "geom:latitude":40.089318,
+    "geom:longitude":-80.688155,
+    "iso:country":"US",
+    "sg:address":"250 Bethany Pike",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 232 1880",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "used",
+        "van",
+        "car",
+        "truck",
+        "new",
+        "limousine"
+    ],
+    "sg:website":"http://www.gettoyota.com/jimrobinson",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823177,
+        102082621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1i4Dzz8OvHDpSXboPhNkoo_40.089318_-80.688155@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435103,
+    "wof:geomhash":"e3b16ec9b0050bc90abbac7479a383cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082621,
+            "neighbourhood_id":85823177,
+            "region_id":85688589,
+            "venue_id":823456181
+        }
+    ],
+    "wof:id":823456181,
+    "wof:lastmodified":1463435103,
+    "wof:name":"Jim Robinson Toyota Inc",
+    "wof:parent_id":85823177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used",
+        "van",
+        "car",
+        "truck",
+        "new",
+        "limousine"
+    ]
+},
+  "bbox": [
+    -80.688155,
+    40.089318,
+    -80.688155,
+    40.089318
+],
+  "geometry": {"coordinates":[-80.68815499999999,40.089318],"type":"Point"}
+}

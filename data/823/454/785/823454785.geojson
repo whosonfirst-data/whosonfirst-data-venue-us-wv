@@ -1,0 +1,74 @@
+{
+  "id": 823454785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.971098,39.462003,-77.971098,39.462003",
+    "geom:latitude":39.462003,
+    "geom:longitude":-77.971098,
+    "iso:country":"US",
+    "sg:address":"640 W Race St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 3333",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "oils-fuel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85846047,
+        102083367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5v8BnZcY29eXePAvt8VkKE_39.462003_-77.971098@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435051,
+    "wof:geomhash":"f86b226f56b4181de11710a2bf8f4a87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "neighbourhood_id":85846047,
+            "region_id":85688589,
+            "venue_id":823454785
+        }
+    ],
+    "wof:id":823454785,
+    "wof:lastmodified":1463435051,
+    "wof:name":"Griffith Energy Services",
+    "wof:parent_id":85846047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oils-fuel"
+    ]
+},
+  "bbox": [
+    -77.971098,
+    39.462003,
+    -77.971098,
+    39.462003
+],
+  "geometry": {"coordinates":[-77.971098,39.462003],"type":"Point"}
+}

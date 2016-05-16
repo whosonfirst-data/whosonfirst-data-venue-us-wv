@@ -1,0 +1,71 @@
+{
+  "id": 823383507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.27747,39.299949,-80.27747,39.299949",
+    "geom:latitude":39.299949,
+    "geom:longitude":-80.27747,
+    "iso:country":"US",
+    "sg:address":"1220 Johnson Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 2391",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "station"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85831189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_720SEmRxkhwoBT5CdfPw8l_39.299949_-80.277470@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431793,
+    "wof:geomhash":"2def7ca9ab6f5d44ec479483fc9f67e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85831189,
+            "region_id":85688589,
+            "venue_id":823383507
+        }
+    ],
+    "wof:id":823383507,
+    "wof:lastmodified":1463431793,
+    "wof:name":"Sheetz 182",
+    "wof:parent_id":85831189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station"
+    ]
+},
+  "bbox": [
+    -80.27747,
+    39.299949,
+    -80.27747,
+    39.299949
+],
+  "geometry": {"coordinates":[-80.27746999999999,39.299949],"type":"Point"}
+}

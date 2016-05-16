@@ -1,0 +1,71 @@
+{
+  "id": 823404485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.572995,38.398596,-82.572995,38.398596",
+    "geom:latitude":38.398596,
+    "geom:longitude":-82.572995,
+    "iso:country":"US",
+    "sg:address":"1102 Poplar St",
+    "sg:city":"Kenova",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 5458",
+    "sg:postcode":"25530",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731517,
+        102083365,
+        85806071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hd9lRxkvcCSPa0yE4owAY_38.398596_-82.572995@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432786,
+    "wof:geomhash":"a7df6d767929b0ad346873b9302230de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731517,
+            "neighbourhood_id":85806071,
+            "region_id":85688589,
+            "venue_id":823404485
+        }
+    ],
+    "wof:id":823404485,
+    "wof:lastmodified":1463432786,
+    "wof:name":"Ceredo Kenova Podiatry",
+    "wof:parent_id":85806071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -82.572995,
+    38.398596,
+    -82.572995,
+    38.398596
+],
+  "geometry": {"coordinates":[-82.57299500000001,38.398596],"type":"Point"}
+}

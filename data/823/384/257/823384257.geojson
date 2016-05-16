@@ -1,0 +1,80 @@
+{
+  "id": 823384257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.973455,39.454949,-77.973455,39.454949",
+    "geom:latitude":39.454949,
+    "geom:longitude":-77.973455,
+    "iso:country":"US",
+    "sg:address":"511 Cumberland Valley Pl",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 0961",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "baker",
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NKziqol4Xwab3LTGTIsEX_39.454949_-77.973455@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431819,
+    "wof:geomhash":"6dbe38f01f1b35911de60e8ddb561527",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823384257
+        }
+    ],
+    "wof:id":823384257,
+    "wof:lastmodified":1463431819,
+    "wof:name":"Schmidt Baking Company Inc",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker",
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -77.973455,
+    39.454949,
+    -77.973455,
+    39.454949
+],
+  "geometry": {"coordinates":[-77.973455,39.454949],"type":"Point"}
+}

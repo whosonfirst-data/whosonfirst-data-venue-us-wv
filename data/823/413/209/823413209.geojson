@@ -1,0 +1,71 @@
+{
+  "id": 823413209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.469829,39.042603,-80.469829,39.042603",
+    "geom:latitude":39.042603,
+    "geom:longitude":-80.469829,
+    "iso:country":"US",
+    "sg:address":"239 Brook St",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 269 6006",
+    "sg:postcode":"26452",
+    "sg:province":"WV",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731403,
+        102083339,
+        85808257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0l7d35Caio3siFaaFTUH4n_39.042603_-80.469829@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433146,
+    "wof:geomhash":"73f980a388f55b3303a6c4883df99651",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083339,
+            "locality_id":101731403,
+            "neighbourhood_id":85808257,
+            "region_id":85688589,
+            "venue_id":823413209
+        }
+    ],
+    "wof:id":823413209,
+    "wof:lastmodified":1463433146,
+    "wof:name":"Nelsons Lawn Service",
+    "wof:parent_id":85808257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -80.469829,
+    39.042603,
+    -80.469829,
+    39.042603
+],
+  "geometry": {"coordinates":[-80.469829,39.042603],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 823371177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.21347,37.797276,-81.21347,37.797276",
+    "geom:latitude":37.797276,
+    "geom:longitude":-81.21347,
+    "iso:country":"US",
+    "sg:address":"198 Neptune Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 253 1706",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VwbMf4Q63h6MWKxvwF2U1_37.797276_-81.213470@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431241,
+    "wof:geomhash":"86ac952748e98e03a40e20705deddd2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823371177
+        }
+    ],
+    "wof:id":823371177,
+    "wof:lastmodified":1463431241,
+    "wof:name":"Mackey Mini Storage",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -81.21347,
+    37.797276,
+    -81.21347,
+    37.797276
+],
+  "geometry": {"coordinates":[-81.21347,37.797276],"type":"Point"}
+}

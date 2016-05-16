@@ -1,0 +1,71 @@
+{
+  "id": 823429901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.947828,38.456042,-81.947828,38.456042",
+    "geom:latitude":38.456042,
+    "geom:longitude":-81.947828,
+    "iso:country":"US",
+    "sg:address":"701 Red Deer Dr",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 760 0900",
+    "sg:postcode":"25526",
+    "sg:province":"WV",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731829,
+        102083381,
+        85868321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CkFB9HT1gdNfhCHmzoXws_38.456042_-81.947828@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433880,
+    "wof:geomhash":"c0e3cd1882631526781569ce449c7362",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731829,
+            "neighbourhood_id":85868321,
+            "region_id":85688589,
+            "venue_id":823429901
+        }
+    ],
+    "wof:id":823429901,
+    "wof:lastmodified":1463433880,
+    "wof:name":"Sparkle Valley",
+    "wof:parent_id":85868321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -81.947828,
+    38.456042,
+    -81.947828,
+    38.456042
+],
+  "geometry": {"coordinates":[-81.947828,38.456042],"type":"Point"}
+}

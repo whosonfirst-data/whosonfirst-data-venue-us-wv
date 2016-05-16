@@ -1,0 +1,71 @@
+{
+  "id": 823391025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.641782,38.36234,-81.641782,38.36234",
+    "geom:latitude":38.36234,
+    "geom:longitude":-81.641782,
+    "iso:country":"US",
+    "sg:address":"607 Ohio Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 0745",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4P76ZNNZhu5fpz3WnwvF3h_38.362340_-81.641782@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432121,
+    "wof:geomhash":"7990cecc9597f09fab9b469cc8e94380",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823391025
+        }
+    ],
+    "wof:id":823391025,
+    "wof:lastmodified":1463432121,
+    "wof:name":"Zak & Assoc",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -81.641782,
+    38.36234,
+    -81.641782,
+    38.36234
+],
+  "geometry": {"coordinates":[-81.64178200000001,38.36234],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 823391403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.278014,39.280095,-80.278014,39.280095",
+    "geom:latitude":39.280095,
+    "geom:longitude":-80.278014,
+    "iso:country":"US",
+    "sg:address":"290 Emily Dr",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 623 1660",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "drinking",
+        "eating"
+    ],
+    "sg:website":"www.texasroadhouse.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3efYSZIqWbrt2jllm5IROI_39.280095_-80.278014@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432139,
+    "wof:geomhash":"30dbcc990f4b755bba7b32278e53b85c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823391403
+        }
+    ],
+    "wof:id":823391403,
+    "wof:lastmodified":1463432139,
+    "wof:name":"Texas Roadhouse The",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating"
+    ]
+},
+  "bbox": [
+    -80.278014,
+    39.280095,
+    -80.278014,
+    39.280095
+],
+  "geometry": {"coordinates":[-80.278014,39.280095],"type":"Point"}
+}

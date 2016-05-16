@@ -1,0 +1,71 @@
+{
+  "id": 823378643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.800105,38.409561,-81.800105,38.409561",
+    "geom:latitude":38.409561,
+    "geom:longitude":-81.800105,
+    "iso:country":"US",
+    "sg:address":"15 Goff Xing",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 776 7711",
+    "sg:postcode":"25313",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731773,
+        102083335,
+        85840775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6U1sv6zM6hqZL7tuE46vFq_38.409561_-81.800105@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431582,
+    "wof:geomhash":"93b17ddf9a61a8dc746e22a82fe26b55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731773,
+            "neighbourhood_id":85840775,
+            "region_id":85688589,
+            "venue_id":823378643
+        }
+    ],
+    "wof:id":823378643,
+    "wof:lastmodified":1463431582,
+    "wof:name":"Sleep Inn",
+    "wof:parent_id":85840775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -81.800105,
+    38.409561,
+    -81.800105,
+    38.409561
+],
+  "geometry": {"coordinates":[-81.800105,38.409561],"type":"Point"}
+}

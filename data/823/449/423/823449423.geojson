@@ -1,0 +1,75 @@
+{
+  "id": 823449423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.68852,38.366405,-81.68852,38.366405",
+    "geom:latitude":38.366405,
+    "geom:longitude":-81.68852,
+    "iso:country":"US",
+    "sg:address":"501 2nd Ave SW",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 746 8416",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "product",
+        "fabricated",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SKfp4qFoa0ojBqbeukhqE_38.366405_-81.688520@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434796,
+    "wof:geomhash":"aa01aea58c1ecd3c114ebf8e65d6e97c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823449423
+        }
+    ],
+    "wof:id":823449423,
+    "wof:lastmodified":1463434796,
+    "wof:name":"Bayer South Charleston Plant",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "fabricated",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -81.68852,
+    38.366405,
+    -81.68852,
+    38.366405
+],
+  "geometry": {"coordinates":[-81.68852,38.366405],"type":"Point"}
+}

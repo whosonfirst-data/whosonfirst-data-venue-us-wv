@@ -1,0 +1,73 @@
+{
+  "id": 823448083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.966782,39.456839,-77.966782,39.456839",
+    "geom:latitude":39.456839,
+    "geom:longitude":-77.966782,
+    "iso:country":"US",
+    "sg:address":"320 W King St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 264 9130",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "product",
+        "tobacco"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53S1033gG9goa7JctJtGt8_39.456839_-77.966782@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434744,
+    "wof:geomhash":"8876d2dab22e132397219ac826f28735",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823448083
+        }
+    ],
+    "wof:id":823448083,
+    "wof:lastmodified":1463434744,
+    "wof:name":"King Street Coffee and Tobacco",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "tobacco"
+    ]
+},
+  "bbox": [
+    -77.966782,
+    39.456839,
+    -77.966782,
+    39.456839
+],
+  "geometry": {"coordinates":[-77.96678199999999,39.456839],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 823427101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.593978,40.393124,-80.593978,40.393124",
+    "geom:latitude":40.393124,
+    "geom:longitude":-80.593978,
+    "iso:country":"US",
+    "sg:address":"4052 Washington St",
+    "sg:city":"Weirton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 797 9274",
+    "sg:postcode":"26062",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731371,
+        102082633,
+        85832497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FE6drL6P695rrHNpiFntt_40.393124_-80.593978@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433756,
+    "wof:geomhash":"23de37ff35b7f1c561a792efeca9087b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731371,
+            "neighbourhood_id":85832497,
+            "region_id":85688589,
+            "venue_id":823427101
+        }
+    ],
+    "wof:id":823427101,
+    "wof:lastmodified":1463433756,
+    "wof:name":"Misty Cove Laundry Mat",
+    "wof:parent_id":85832497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.593978,
+    40.393124,
+    -80.593978,
+    40.393124
+],
+  "geometry": {"coordinates":[-80.59397800000001,40.393124],"type":"Point"}
+}

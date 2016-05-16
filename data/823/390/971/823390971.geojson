@@ -1,0 +1,71 @@
+{
+  "id": 823390971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.119105,37.364497,-81.119105,37.364497",
+    "geom:latitude":37.364497,
+    "geom:longitude":-81.119105,
+    "iso:country":"US",
+    "sg:address":"216 New Hope Rd",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 2355",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Bg8P3uDhtOx2rCkFtwUaE_37.364497_-81.119105@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432119,
+    "wof:geomhash":"863e93649b4c9396d1c34dcc4a6f1c56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823390971
+        }
+    ],
+    "wof:id":823390971,
+    "wof:lastmodified":1463432119,
+    "wof:name":"Safder Asma MD",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -81.119105,
+    37.364497,
+    -81.119105,
+    37.364497
+],
+  "geometry": {"coordinates":[-81.119105,37.364497],"type":"Point"}
+}

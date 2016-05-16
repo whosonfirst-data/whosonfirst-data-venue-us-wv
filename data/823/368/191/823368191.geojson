@@ -1,0 +1,71 @@
+{
+  "id": 823368191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.550984,40.622952,-80.550984,40.622952",
+    "geom:latitude":40.622952,
+    "geom:longitude":-80.550984,
+    "iso:country":"US",
+    "sg:address":"1100 Collins Memorial Dr",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 3021",
+    "sg:postcode":"26034",
+    "sg:province":"WV",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WU3v0Vp5J93ZjqoHSDgdW_40.622952_-80.550984@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431105,
+    "wof:geomhash":"da4c88429555a311f5c6ad0eb4acf14a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823368191
+        }
+    ],
+    "wof:id":823368191,
+    "wof:lastmodified":1463431105,
+    "wof:name":"Congo Corp",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -80.550984,
+    40.622952,
+    -80.550984,
+    40.622952
+],
+  "geometry": {"coordinates":[-80.550984,40.622952],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823436157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.3742,39.271055,-80.3742,39.271055",
+    "geom:latitude":39.271055,
+    "geom:longitude":-80.3742,
+    "iso:country":"US",
+    "sg:address":"1 Hospital Plz",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 624 2224",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85810773,
+        102082619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77Ju8bZLU4VpVsp1ZCDcG9_39.271055_-80.374200@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434181,
+    "wof:geomhash":"c636884f18ff7c2ab7ab71c4f4213859",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "neighbourhood_id":85810773,
+            "region_id":85688589,
+            "venue_id":823436157
+        }
+    ],
+    "wof:id":823436157,
+    "wof:lastmodified":1463434181,
+    "wof:name":"Family Medicine Ctr",
+    "wof:parent_id":85810773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -80.3742,
+    39.271055,
+    -80.3742,
+    39.271055
+],
+  "geometry": {"coordinates":[-80.3742,39.271055],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 823386035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.603868,38.334863,-81.603868,38.334863",
+    "geom:latitude":38.334863,
+    "geom:longitude":-81.603868,
+    "iso:country":"US",
+    "sg:address":"2402 Kanawha Blvd E",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 7136",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "acupuncture",
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0u2tPN1JflcwRmlqEHqGDz_38.334863_-81.603868@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431891,
+    "wof:geomhash":"df409365121c92c5ece3d633207784eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823386035
+        }
+    ],
+    "wof:id":823386035,
+    "wof:lastmodified":1463431891,
+    "wof:name":"Comprehensive Health Center",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acupuncture",
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -81.603868,
+    38.334863,
+    -81.603868,
+    38.334863
+],
+  "geometry": {"coordinates":[-81.60386800000001,38.334863],"type":"Point"}
+}

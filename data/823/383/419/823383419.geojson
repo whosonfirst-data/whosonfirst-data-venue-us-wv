@@ -1,0 +1,73 @@
+{
+  "id": 823383419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.169081,37.892248,-81.169081,37.892248",
+    "geom:latitude":37.892248,
+    "geom:longitude":-81.169081,
+    "iso:country":"US",
+    "sg:address":"22 S Mill Ave",
+    "sg:city":"Mount Hope",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 255 2116",
+    "sg:postcode":"25880",
+    "sg:province":"WV",
+    "sg:tags":[
+        "motion",
+        "picture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731505,
+        102083359,
+        85852821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bZmc98q50V7JsbnhUvwEy_37.892248_-81.169081@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431790,
+    "wof:geomhash":"d0d1e695df4c5c8e0da36c9dc9668d71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "locality_id":101731505,
+            "neighbourhood_id":85852821,
+            "region_id":85688589,
+            "venue_id":823383419
+        }
+    ],
+    "wof:id":823383419,
+    "wof:lastmodified":1463431790,
+    "wof:name":"Crossroads Cinemas",
+    "wof:parent_id":85852821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motion",
+        "picture"
+    ]
+},
+  "bbox": [
+    -81.169081,
+    37.892248,
+    -81.169081,
+    37.892248
+],
+  "geometry": {"coordinates":[-81.16908100000001,37.892248],"type":"Point"}
+}

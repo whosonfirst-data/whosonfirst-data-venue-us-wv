@@ -1,0 +1,73 @@
+{
+  "id": 823371321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.758495,38.366347,-81.758495,38.366347",
+    "geom:latitude":38.366347,
+    "geom:longitude":-81.758495,
+    "iso:country":"US",
+    "sg:address":"2901 Gillespie Dr",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 2622",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75ssIVPjkIyYvAh8jQh39w_38.366347_-81.758495@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431246,
+    "wof:geomhash":"b5bb0a46de9002cb9718d4292ba613be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823371321
+        }
+    ],
+    "wof:id":823371321,
+    "wof:lastmodified":1463431246,
+    "wof:name":"Carter Car Care Center",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -81.758495,
+    38.366347,
+    -81.758495,
+    38.366347
+],
+  "geometry": {"coordinates":[-81.758495,38.366347],"type":"Point"}
+}

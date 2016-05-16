@@ -1,0 +1,72 @@
+{
+  "id": 823452253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.249098,37.284022,-81.249098,37.284022",
+    "geom:latitude":37.284022,
+    "geom:longitude":-81.249098,
+    "iso:country":"US",
+    "sg:address":"52 Airport Sq",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/bramwell/167456-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 325 9001",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lM7wYRjv5AnXFdWrQgJ9c_37.284022_-81.249098@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434900,
+    "wof:geomhash":"ae2aede259b9a0c2a30c8a77d19479ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823452253
+        }
+    ],
+    "wof:id":823452253,
+    "wof:lastmodified":1463434900,
+    "wof:name":"Burger King",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -81.249098,
+    37.284022,
+    -81.249098,
+    37.284022
+],
+  "geometry": {"coordinates":[-81.249098,37.284022],"type":"Point"}
+}

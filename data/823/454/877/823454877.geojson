@@ -1,0 +1,77 @@
+{
+  "id": 823454877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.990793,39.441548,-77.990793,39.441548",
+    "geom:latitude":39.441548,
+    "geom:longitude":-77.990793,
+    "iso:country":"US",
+    "sg:address":"198 Retail Commons Pkwy",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 262 0434",
+    "sg:postcode":"25403",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clothing"
+    ],
+    "sg:website":"http://www.tjmaxx.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pOdjbMFXFRHNyJAyd7Jon_39.441548_-77.990793@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435055,
+    "wof:geomhash":"32d7d56ab4b8314796b30c9d501eaaa2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823454877
+        }
+    ],
+    "wof:id":823454877,
+    "wof:lastmodified":1463435055,
+    "wof:name":"T.J. Maxx",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothing"
+    ]
+},
+  "bbox": [
+    -77.990793,
+    39.441548,
+    -77.990793,
+    39.441548
+],
+  "geometry": {"coordinates":[-77.990793,39.441548],"type":"Point"}
+}

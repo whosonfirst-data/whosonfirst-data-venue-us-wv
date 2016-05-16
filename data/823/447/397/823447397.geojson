@@ -1,0 +1,71 @@
+{
+  "id": 823447397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.591963,38.327335,-81.591963,38.327335",
+    "geom:latitude":38.327335,
+    "geom:longitude":-81.591963,
+    "iso:country":"US",
+    "sg:address":"3816 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 5078",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3reZHHqJP5dVEuJ1zAcRN6_38.327335_-81.591963@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434708,
+    "wof:geomhash":"c4acaecd9e743d9a9d68ab807e3ced3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823447397
+        }
+    ],
+    "wof:id":823447397,
+    "wof:lastmodified":1463434708,
+    "wof:name":"Nu Way Cleaning Co",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -81.591963,
+    38.327335,
+    -81.591963,
+    38.327335
+],
+  "geometry": {"coordinates":[-81.59196300000001,38.327335],"type":"Point"}
+}

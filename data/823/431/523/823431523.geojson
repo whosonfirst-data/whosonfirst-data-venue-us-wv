@@ -1,0 +1,75 @@
+{
+  "id": 823431523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.626678,38.343448,-81.626678,38.343448",
+    "geom:latitude":38.343448,
+    "geom:longitude":-81.626678,
+    "iso:country":"US",
+    "sg:address":"1313 Quarrier St E",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 1992",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24kpT4ekDsld31Kz8dBcXP_38.343448_-81.626678@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433940,
+    "wof:geomhash":"36e978f7817c13db681f903ca46acdda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823431523
+        }
+    ],
+    "wof:id":823431523,
+    "wof:lastmodified":1463433940,
+    "wof:name":"R O Sullesta MD",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.626678,
+    38.343448,
+    -81.626678,
+    38.343448
+],
+  "geometry": {"coordinates":[-81.626678,38.343448],"type":"Point"}
+}

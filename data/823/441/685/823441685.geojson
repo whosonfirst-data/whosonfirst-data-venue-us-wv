@@ -1,0 +1,66 @@
+{
+  "id": 823441685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.549504,39.232007,-81.549504,39.232007",
+    "geom:latitude":39.232007,
+    "geom:longitude":-81.549504,
+    "iso:country":"US",
+    "sg:address":"2320 Gihon Rd",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 422 7840",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EP3sFmZipL7fHEpjFOtuj_39.232007_-81.549504@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434432,
+    "wof:geomhash":"ec994a46390a65403d1623073a4db6be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823441685
+        }
+    ],
+    "wof:id":823441685,
+    "wof:lastmodified":1463434432,
+    "wof:name":"7-Eleven",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.549504,
+    39.232007,
+    -81.549504,
+    39.232007
+],
+  "geometry": {"coordinates":[-81.549504,39.232007],"type":"Point"}
+}

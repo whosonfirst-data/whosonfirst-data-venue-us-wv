@@ -1,0 +1,71 @@
+{
+  "id": 823410275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.927743,38.449365,-81.927743,38.449365",
+    "geom:latitude":38.449365,
+    "geom:longitude":-81.927743,
+    "iso:country":"US",
+    "sg:address":"4113 Teays Valley Rd",
+    "sg:city":"Scott Depot",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 757 6723",
+    "sg:postcode":"25560",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731829,
+        102083381,
+        85868321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2v5BWYwQMcNbDDtw3Xqk3o_38.449365_-81.927743@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433039,
+    "wof:geomhash":"ce7b8c97a4216bf7b4e84f5d30ddeea5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731829,
+            "neighbourhood_id":85868321,
+            "region_id":85688589,
+            "venue_id":823410275
+        }
+    ],
+    "wof:id":823410275,
+    "wof:lastmodified":1463433039,
+    "wof:name":"Family Dentistry",
+    "wof:parent_id":85868321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -81.927743,
+    38.449365,
+    -81.927743,
+    38.449365
+],
+  "geometry": {"coordinates":[-81.92774300000001,38.449365],"type":"Point"}
+}

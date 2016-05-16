@@ -1,0 +1,71 @@
+{
+  "id": 823449523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.475912,39.046103,-80.475912,39.046103",
+    "geom:latitude":39.046103,
+    "geom:longitude":-80.475912,
+    "iso:country":"US",
+    "sg:address":"499 US Hwy 33",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 269 2536",
+    "sg:postcode":"26452",
+    "sg:province":"WV",
+    "sg:tags":[
+        "government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731403,
+        102083339,
+        85808257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CkINX3BRMrm0IqyioQOET_39.046103_-80.475912@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434800,
+    "wof:geomhash":"13579f1bc0ad1f42e3fe4523e4661625",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083339,
+            "locality_id":101731403,
+            "neighbourhood_id":85808257,
+            "region_id":85688589,
+            "venue_id":823449523
+        }
+    ],
+    "wof:id":823449523,
+    "wof:lastmodified":1463434800,
+    "wof:name":"Forestry Division",
+    "wof:parent_id":85808257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government"
+    ]
+},
+  "bbox": [
+    -80.475912,
+    39.046103,
+    -80.475912,
+    39.046103
+],
+  "geometry": {"coordinates":[-80.47591199999999,39.046103],"type":"Point"}
+}

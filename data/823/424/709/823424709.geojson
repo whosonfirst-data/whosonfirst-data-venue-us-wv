@@ -1,0 +1,73 @@
+{
+  "id": 823424709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.802054,38.383787,-81.802054,38.383787",
+    "geom:latitude":38.383787,
+    "geom:longitude":-81.802054,
+    "iso:country":"US",
+    "sg:address":"2401 Maccorkle Ave",
+    "sg:city":"Saint Albans",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 727 5281",
+    "sg:postcode":"25177",
+    "sg:province":"WV",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731773,
+        102083335,
+        85840775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EeyXd0JDfrZDRVZ66FQTR_38.383787_-81.802054@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433648,
+    "wof:geomhash":"bb3e35e813caddcfdd6194dc210a8432",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731773,
+            "neighbourhood_id":85840775,
+            "region_id":85688589,
+            "venue_id":823424709
+        }
+    ],
+    "wof:id":823424709,
+    "wof:lastmodified":1463433648,
+    "wof:name":"Walnut Street Service Center",
+    "wof:parent_id":85840775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -81.802054,
+    38.383787,
+    -81.802054,
+    38.383787
+],
+  "geometry": {"coordinates":[-81.802054,38.383787],"type":"Point"}
+}

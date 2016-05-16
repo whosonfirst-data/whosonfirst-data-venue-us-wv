@@ -1,0 +1,87 @@
+{
+  "id": 823369767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.941931,39.623892,-79.941931,39.623892",
+    "geom:latitude":39.623892,
+    "geom:longitude":-79.941931,
+    "iso:country":"US",
+    "sg:address":"601 E Brockway Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 6091",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "living",
+        "independent",
+        "resource",
+        "for",
+        "disability"
+    ],
+    "sg:website":"www.nwvcil.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85858573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZZ19IoU0ZesWkJyAz1ttz_39.623892_-79.941931@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431160,
+    "wof:geomhash":"e186c35b17cbf1479e45effcf4926db3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85858573,
+            "region_id":85688589,
+            "venue_id":823369767
+        }
+    ],
+    "wof:id":823369767,
+    "wof:lastmodified":1463431160,
+    "wof:name":"Northern West Virginia Center",
+    "wof:parent_id":85858573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "living",
+        "independent",
+        "resource",
+        "for",
+        "disability"
+    ]
+},
+  "bbox": [
+    -79.941931,
+    39.623892,
+    -79.941931,
+    39.623892
+],
+  "geometry": {"coordinates":[-79.941931,39.623892],"type":"Point"}
+}

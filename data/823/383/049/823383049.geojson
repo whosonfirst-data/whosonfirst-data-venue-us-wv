@@ -1,0 +1,73 @@
+{
+  "id": 823383049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.109571,37.763903,-81.109571,37.763903",
+    "geom:latitude":37.763903,
+    "geom:longitude":-81.109571,
+    "iso:country":"US",
+    "sg:address":"469 Airport Rd",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 252 6216",
+    "sg:postcode":"25813",
+    "sg:province":"WV",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51SqI4NCHZkdkJ482XBJ4b_37.763903_-81.109571@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431775,
+    "wof:geomhash":"ceec9c9e6ac2ea523b2213ba751a1349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823383049
+        }
+    ],
+    "wof:id":823383049,
+    "wof:lastmodified":1463431775,
+    "wof:name":"US Transportation Dept",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -81.109571,
+    37.763903,
+    -81.109571,
+    37.763903
+],
+  "geometry": {"coordinates":[-81.109571,37.763903],"type":"Point"}
+}

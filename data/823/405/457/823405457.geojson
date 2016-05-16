@@ -1,0 +1,73 @@
+{
+  "id": 823405457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.102435,37.366997,-81.102435,37.366997",
+    "geom:latitude":37.366997,
+    "geom:longitude":-81.102435,
+    "iso:country":"US",
+    "sg:address":"1600 N Walker St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 8327",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OML83XV4L0Y2eiY6zL1RK_37.366997_-81.102435@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432839,
+    "wof:geomhash":"732884810bf7978b63349ece7dba563a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823405457
+        }
+    ],
+    "wof:id":823405457,
+    "wof:lastmodified":1463432839,
+    "wof:name":"Link's Service Ctr",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -81.102435,
+    37.366997,
+    -81.102435,
+    37.366997
+],
+  "geometry": {"coordinates":[-81.102435,37.366997],"type":"Point"}
+}

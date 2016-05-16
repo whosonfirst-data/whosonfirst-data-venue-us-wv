@@ -1,0 +1,76 @@
+{
+  "id": 823452979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.218394,37.796007,-81.218394,37.796007",
+    "geom:latitude":37.796007,
+    "geom:longitude":-81.218394,
+    "iso:country":"US",
+    "sg:address":"2082 Harper Rd",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/pax/104084-ruby-tuesdays/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 254 0481",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dgidAyzWLsPJtcAD7JcCm_37.796007_-81.218394@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434928,
+    "wof:geomhash":"7271cb5fc2c6333ea21b5d68270d19af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823452979
+        }
+    ],
+    "wof:id":823452979,
+    "wof:lastmodified":1463434928,
+    "wof:name":"Ruby Tuesdays",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -81.218394,
+    37.796007,
+    -81.218394,
+    37.796007
+],
+  "geometry": {"coordinates":[-81.218394,37.796007],"type":"Point"}
+}

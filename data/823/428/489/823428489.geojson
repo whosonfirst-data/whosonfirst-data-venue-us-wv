@@ -1,0 +1,73 @@
+{
+  "id": 823428489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.677274,38.36496,-81.677274,38.36496",
+    "geom:latitude":38.36496,
+    "geom:longitude":-81.677274,
+    "iso:country":"US",
+    "sg:address":"700 Maccorkle Ave SW",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 8233",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IpVLBTbxksktX1yJp1Uqt_38.364960_-81.677274@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433808,
+    "wof:geomhash":"04e4bf0cce8d095165325369e62c6f9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823428489
+        }
+    ],
+    "wof:id":823428489,
+    "wof:lastmodified":1463433808,
+    "wof:name":"Carbide Exxon Shop",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -81.677274,
+    38.36496,
+    -81.677274,
+    38.36496
+],
+  "geometry": {"coordinates":[-81.677274,38.36496],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 823422967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.202004,37.789348,-81.202004,37.789348",
+    "geom:latitude":37.789348,
+    "geom:longitude":-81.202004,
+    "iso:country":"US",
+    "sg:address":"105 Sandstone Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 252 6264",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment",
+        "complex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jiZ3KZ4JUPe3LSJtYGVis_37.789348_-81.202004@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433576,
+    "wof:geomhash":"f62b0ea0ccb316844d74f7d4cdb3dcd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823422967
+        }
+    ],
+    "wof:id":823422967,
+    "wof:lastmodified":1463433576,
+    "wof:name":"Hillcrest Apartments",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "complex"
+    ]
+},
+  "bbox": [
+    -81.202004,
+    37.789348,
+    -81.202004,
+    37.789348
+],
+  "geometry": {"coordinates":[-81.202004,37.789348],"type":"Point"}
+}

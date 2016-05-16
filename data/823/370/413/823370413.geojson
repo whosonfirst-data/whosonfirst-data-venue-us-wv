@@ -1,0 +1,78 @@
+{
+  "id": 823370413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.707962,38.373422,-81.707962,38.373422",
+    "geom:latitude":38.373422,
+    "geom:longitude":-81.707962,
+    "iso:country":"US",
+    "sg:address":"4005 Washington St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 1640",
+    "sg:postcode":"25313",
+    "sg:province":"WV",
+    "sg:tags":[
+        "machine",
+        "eating",
+        "vending",
+        "operator"
+    ],
+    "sg:website":"www.thecoldspot.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xCRYnCj3yGGrWS1Nq3vLX_38.373422_-81.707962@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431191,
+    "wof:geomhash":"8dd2257921010338dedce9e7349eca39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823370413
+        }
+    ],
+    "wof:id":823370413,
+    "wof:lastmodified":1463431191,
+    "wof:name":"Cold Spot",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "eating",
+        "vending",
+        "operator"
+    ]
+},
+  "bbox": [
+    -81.707962,
+    38.373422,
+    -81.707962,
+    38.373422
+],
+  "geometry": {"coordinates":[-81.70796199999999,38.373422],"type":"Point"}
+}

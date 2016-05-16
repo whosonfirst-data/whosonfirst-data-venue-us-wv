@@ -1,0 +1,73 @@
+{
+  "id": 823435259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.28566,39.396803,-80.28566,39.396803",
+    "geom:latitude":39.396803,
+    "geom:longitude":-80.28566,
+    "iso:country":"US",
+    "sg:address":"28 Roosevelt St",
+    "sg:city":"Shinnston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 592 1434",
+    "sg:postcode":"26431",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85831189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RqWYgYhzm1BjpssBut0Xe_39.396803_-80.285660@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434137,
+    "wof:geomhash":"83ffa6ecb195c03744b39fa9c0fdd8fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85831189,
+            "region_id":85688589,
+            "venue_id":823435259
+        }
+    ],
+    "wof:id":823435259,
+    "wof:lastmodified":1463434137,
+    "wof:name":"Sassafras Hills Apartments",
+    "wof:parent_id":85831189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -80.28566,
+    39.396803,
+    -80.28566,
+    39.396803
+],
+  "geometry": {"coordinates":[-80.28565999999999,39.396803],"type":"Point"}
+}

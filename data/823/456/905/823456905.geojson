@@ -1,0 +1,78 @@
+{
+  "id": 823456905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.535656,40.38059,-80.535656,40.38059",
+    "geom:latitude":40.38059,
+    "geom:longitude":-80.535656,
+    "iso:country":"US",
+    "sg:address":"101 Colliers Way",
+    "sg:city":"Weirton",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 723 1560",
+    "sg:postcode":"26062",
+    "sg:province":"WV",
+    "sg:tags":[
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731371,
+        102082633,
+        85854989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PLnCuV2Q1w6yYmonFSBOe_40.380590_-80.535656@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435133,
+    "wof:geomhash":"560d6f6f90f52ea40c09baa3c6b54096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731371,
+            "neighbourhood_id":85854989,
+            "region_id":85688589,
+            "venue_id":823456905
+        }
+    ],
+    "wof:id":823456905,
+    "wof:lastmodified":1463435133,
+    "wof:name":"Cafe Comub Cafe",
+    "wof:parent_id":85854989,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "espresso"
+    ]
+},
+  "bbox": [
+    -80.535656,
+    40.38059,
+    -80.535656,
+    40.38059
+],
+  "geometry": {"coordinates":[-80.535656,40.38059],"type":"Point"}
+}

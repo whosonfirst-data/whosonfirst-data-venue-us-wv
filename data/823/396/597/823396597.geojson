@@ -1,0 +1,71 @@
+{
+  "id": 823396597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.316295,39.377885,-80.316295,39.377885",
+    "geom:latitude":39.377885,
+    "geom:longitude":-80.316295,
+    "iso:country":"US",
+    "sg:address":"33 Lincoln Dr",
+    "sg:city":"Shinnston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 592 5336",
+    "sg:postcode":"26431",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85831189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Z402HCaYZ3No2ZAu1LwV3_39.377885_-80.316295@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432409,
+    "wof:geomhash":"86d3ef605d3f1acb3d26ab781250c654",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85831189,
+            "region_id":85688589,
+            "venue_id":823396597
+        }
+    ],
+    "wof:id":823396597,
+    "wof:lastmodified":1463432409,
+    "wof:name":"Lincoln Apartments",
+    "wof:parent_id":85831189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -80.316295,
+    39.377885,
+    -80.316295,
+    39.377885
+],
+  "geometry": {"coordinates":[-80.316295,39.377885],"type":"Point"}
+}

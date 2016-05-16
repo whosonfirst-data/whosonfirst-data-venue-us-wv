@@ -1,0 +1,71 @@
+{
+  "id": 823434337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.647843,38.488036,-81.647843,38.488036",
+    "geom:latitude":38.488036,
+    "geom:longitude":-81.647843,
+    "iso:country":"US",
+    "sg:address":"1975 Kelmont Ln",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 984 4008",
+    "sg:postcode":"25320",
+    "sg:province":"WV",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13SephsccxIjblxXPXjN91_38.488036_-81.647843@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434091,
+    "wof:geomhash":"590d67c2b1d2367d301dcc0e34464136",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823434337
+        }
+    ],
+    "wof:id":823434337,
+    "wof:lastmodified":1463434091,
+    "wof:name":"Little Kids Day Care Center",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -81.647843,
+    38.488036,
+    -81.647843,
+    38.488036
+],
+  "geometry": {"coordinates":[-81.64784299999999,38.488036],"type":"Point"}
+}

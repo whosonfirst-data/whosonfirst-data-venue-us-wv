@@ -1,0 +1,73 @@
+{
+  "id": 823438819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.194462,37.261604,-81.194462,37.261604",
+    "geom:latitude":37.261604,
+    "geom:longitude":-81.194462,
+    "iso:country":"US",
+    "sg:address":"2817 Grassy Branch Rd",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 327 0089",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ihKtD7mgSZ8kMn6oEwthS_37.261604_-81.194462@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434319,
+    "wof:geomhash":"5dcc8c3dd644f4e39faddc1883cb1ce0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823438819
+        }
+    ],
+    "wof:id":823438819,
+    "wof:lastmodified":1463434319,
+    "wof:name":"D & R Automotive",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -81.194462,
+    37.261604,
+    -81.194462,
+    37.261604
+],
+  "geometry": {"coordinates":[-81.194462,37.261604],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823399901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.086894,37.37213,-81.086894,37.37213",
+    "geom:latitude":37.37213,
+    "geom:longitude":-81.086894,
+    "iso:country":"US",
+    "sg:address":"312 N 2nd St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 4711",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Src0XWpnr21djqAdfOeZ9_37.372130_-81.086894@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432579,
+    "wof:geomhash":"66473e2795c651ce3629846e32c5c6c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823399901
+        }
+    ],
+    "wof:id":823399901,
+    "wof:lastmodified":1463432579,
+    "wof:name":"M & R Distributing Co",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -81.086894,
+    37.37213,
+    -81.086894,
+    37.37213
+],
+  "geometry": {"coordinates":[-81.086894,37.37213],"type":"Point"}
+}

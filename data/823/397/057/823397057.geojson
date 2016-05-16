@@ -1,0 +1,71 @@
+{
+  "id": 823397057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.970282,38.986057,-81.970282,38.986057",
+    "geom:latitude":38.986057,
+    "geom:longitude":-81.970282,
+    "iso:country":"US",
+    "sg:address":"617 5th St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 882 3121",
+    "sg:postcode":"25265",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731555,
+        102082637,
+        85830595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7S9ckq2xAfIYbmuWUv15fa_38.986057_-81.970282@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432434,
+    "wof:geomhash":"6222ca28e4251306f5b84aa206e343b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082637,
+            "locality_id":101731555,
+            "neighbourhood_id":85830595,
+            "region_id":85688589,
+            "venue_id":823397057
+        }
+    ],
+    "wof:id":823397057,
+    "wof:lastmodified":1463432434,
+    "wof:name":"River Bend Place",
+    "wof:parent_id":85830595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -81.970282,
+    38.986057,
+    -81.970282,
+    38.986057
+],
+  "geometry": {"coordinates":[-81.970282,38.986057],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823415397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.557312,40.205255,-80.557312,40.205255",
+    "geom:latitude":40.205255,
+    "geom:longitude":-80.557312,
+    "iso:country":"US",
+    "sg:address":"200 Main St",
+    "sg:city":"Bethany",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 829 9099",
+    "sg:postcode":"26032",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uviVfacUySWVFdts4iR5Y_40.205255_-80.557312@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433254,
+    "wof:geomhash":"6b942cd346fb5b6ffb01e39364d1f58e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823415397
+        }
+    ],
+    "wof:id":823415397,
+    "wof:lastmodified":1463433254,
+    "wof:name":"Delphi Development",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.557312,
+    40.205255,
+    -80.557312,
+    40.205255
+],
+  "geometry": {"coordinates":[-80.557312,40.205255],"type":"Point"}
+}

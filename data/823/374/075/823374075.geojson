@@ -1,0 +1,73 @@
+{
+  "id": 823374075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.957234,39.618317,-79.957234,39.618317",
+    "geom:latitude":39.618317,
+    "geom:longitude":-79.957234,
+    "iso:country":"US",
+    "sg:address":"713 Sheldon Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 0273",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "house",
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LyPdFqq6HnXM0eeJpuNnG_39.618317_-79.957234@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431361,
+    "wof:geomhash":"10e7ad645715004f6a3321f086709c63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823374075
+        }
+    ],
+    "wof:id":823374075,
+    "wof:lastmodified":1463431361,
+    "wof:name":"Cramer Electrical",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -79.957234,
+    39.618317,
+    -79.957234,
+    39.618317
+],
+  "geometry": {"coordinates":[-79.957234,39.618317],"type":"Point"}
+}

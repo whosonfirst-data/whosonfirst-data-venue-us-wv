@@ -1,0 +1,73 @@
+{
+  "id": 823399075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.544499,39.236574,-81.544499,39.236574",
+    "geom:latitude":39.236574,
+    "geom:longitude":-81.544499,
+    "iso:country":"US",
+    "sg:address":"2526 21st Ave",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 485 6284",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "siding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5y0fMOqep5DdoJmrcMybaN_39.236574_-81.544499@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432535,
+    "wof:geomhash":"5c9b3dcea6d81714e88274112ac0d2c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823399075
+        }
+    ],
+    "wof:id":823399075,
+    "wof:lastmodified":1463432535,
+    "wof:name":"Bob's Siding Svc",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "siding",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.544499,
+    39.236574,
+    -81.544499,
+    39.236574
+],
+  "geometry": {"coordinates":[-81.544499,39.236574],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 823454699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.978838,39.43888,-77.978838,39.43888",
+    "geom:latitude":39.43888,
+    "geom:longitude":-77.978838,
+    "iso:country":"US",
+    "sg:address":"1647 New York Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Mobile Phones",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 267 9948",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "manufactured",
+        "housing-communities",
+        "homes-repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yo5wzB85nzeHK5wMyGK3N_39.438880_-77.978838@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435048,
+    "wof:geomhash":"4b0e25e87ef47f955c59c9b5ea331886",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823454699
+        }
+    ],
+    "wof:id":823454699,
+    "wof:lastmodified":1463435048,
+    "wof:name":"Rankin Mobile Home Sales & Svc",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufactured",
+        "housing-communities",
+        "homes-repair"
+    ]
+},
+  "bbox": [
+    -77.978838,
+    39.43888,
+    -77.978838,
+    39.43888
+],
+  "geometry": {"coordinates":[-77.978838,39.43888],"type":"Point"}
+}

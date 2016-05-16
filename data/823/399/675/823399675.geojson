@@ -1,0 +1,80 @@
+{
+  "id": 823399675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.632906,38.352325,-81.632906,38.352325",
+    "geom:latitude":38.352325,
+    "geom:longitude":-81.632906,
+    "iso:country":"US",
+    "sg:address":"612 Washington St E",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 9377",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ePwOju9y1hDu4AsBJQk8o_38.352325_-81.632906@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432572,
+    "wof:geomhash":"2538a42c1416eccc49d0c2c776436921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823399675
+        }
+    ],
+    "wof:id":823399675,
+    "wof:lastmodified":1463432572,
+    "wof:name":"Cokesbury Books & Church Sups",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church",
+        "supply"
+    ]
+},
+  "bbox": [
+    -81.632906,
+    38.352325,
+    -81.632906,
+    38.352325
+],
+  "geometry": {"coordinates":[-81.63290600000001,38.352325],"type":"Point"}
+}

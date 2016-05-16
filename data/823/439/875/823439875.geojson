@@ -1,0 +1,75 @@
+{
+  "id": 823439875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.58121,39.246607,-81.58121,39.246607",
+    "geom:latitude":39.246607,
+    "geom:longitude":-81.58121,
+    "iso:country":"US",
+    "sg:address":"77 8th Ave",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 420 9099",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dry",
+        "bulk",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85829881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WDpnN6MH3nZfnmcmiqqpf_39.246607_-81.581210@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434360,
+    "wof:geomhash":"9ffe35b42ff604f112a7981cf9c4b685",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85829881,
+            "region_id":85688589,
+            "venue_id":823439875
+        }
+    ],
+    "wof:id":823439875,
+    "wof:lastmodified":1463434360,
+    "wof:name":"A & R Transport Inc",
+    "wof:parent_id":85829881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry",
+        "bulk",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -81.58121,
+    39.246607,
+    -81.58121,
+    39.246607
+],
+  "geometry": {"coordinates":[-81.58121,39.246607],"type":"Point"}
+}

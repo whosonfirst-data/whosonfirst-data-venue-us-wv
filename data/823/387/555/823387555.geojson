@@ -1,0 +1,73 @@
+{
+  "id": 823387555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.700445,38.36666,-81.700445,38.36666",
+    "geom:latitude":38.36666,
+    "geom:longitude":-81.700445,
+    "iso:country":"US",
+    "sg:address":"144 7th Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 720 6130",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0C7a3kPI4wB4lNAUlesRip_38.366660_-81.700445@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431948,
+    "wof:geomhash":"866d6dc64964a96387de751519aece85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823387555
+        }
+    ],
+    "wof:id":823387555,
+    "wof:lastmodified":1463431948,
+    "wof:name":"Allied Nursing",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -81.700445,
+    38.36666,
+    -81.700445,
+    38.36666
+],
+  "geometry": {"coordinates":[-81.700445,38.36666],"type":"Point"}
+}

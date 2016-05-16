@@ -1,0 +1,71 @@
+{
+  "id": 823383691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.594193,38.358413,-81.594193,38.358413",
+    "geom:latitude":38.358413,
+    "geom:longitude":-81.594193,
+    "iso:country":"US",
+    "sg:address":"1266 Greenbrier St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 8933",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EE08oU2L823yU4Kv2sMdY_38.358413_-81.594193@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431799,
+    "wof:geomhash":"ca0ee0b957e8b9217313e6d921e0dabc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823383691
+        }
+    ],
+    "wof:id":823383691,
+    "wof:lastmodified":1463431799,
+    "wof:name":"Radon Medical Imaging Corp WV",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "related"
+    ]
+},
+  "bbox": [
+    -81.594193,
+    38.358413,
+    -81.594193,
+    38.358413
+],
+  "geometry": {"coordinates":[-81.594193,38.358413],"type":"Point"}
+}

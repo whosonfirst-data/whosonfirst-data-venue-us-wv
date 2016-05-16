@@ -1,0 +1,76 @@
+{
+  "id": 823456063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.170898,37.797608,-81.170898,37.797608",
+    "geom:latitude":37.797608,
+    "geom:longitude":-81.170898,
+    "iso:country":"US",
+    "sg:address":"250 Stanaford Rd Ste 203",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 255 3601",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"http://www.wvvascularinstitute.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QlxpNk5tblpuZlBBq3XwT_37.797608_-81.170898@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435098,
+    "wof:geomhash":"4e141f90e21aadd541eacb9fa3c13fdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823456063
+        }
+    ],
+    "wof:id":823456063,
+    "wof:lastmodified":1463435098,
+    "wof:name":"WV Vascular Institute",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.170898,
+    37.797608,
+    -81.170898,
+    37.797608
+],
+  "geometry": {"coordinates":[-81.17089799999999,37.797608],"type":"Point"}
+}

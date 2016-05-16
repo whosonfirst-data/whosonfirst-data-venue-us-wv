@@ -1,0 +1,71 @@
+{
+  "id": 823368077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.334172,39.278429,-80.334172,39.278429",
+    "geom:latitude":39.278429,
+    "geom:longitude":-80.334172,
+    "iso:country":"US",
+    "sg:address":"104 E Main St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 623 5421",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zYWaaWkzH1W4mO9VVe8vR_39.278429_-80.334172@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431101,
+    "wof:geomhash":"20c48a8626b5f151d96d968953968d93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823368077
+        }
+    ],
+    "wof:id":823368077,
+    "wof:lastmodified":1463431101,
+    "wof:name":"Ernie's Hairstylist",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -80.334172,
+    39.278429,
+    -80.334172,
+    39.278429
+],
+  "geometry": {"coordinates":[-80.334172,39.278429],"type":"Point"}
+}

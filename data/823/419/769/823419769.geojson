@@ -1,0 +1,69 @@
+{
+  "id": 823419769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.949615,39.575956,-79.949615,39.575956",
+    "geom:latitude":39.575956,
+    "geom:longitude":-79.949615,
+    "iso:country":"US",
+    "sg:address":"1562 Grafton Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 291 8359",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wTAMbINsqdJtnUVal0fqE_39.575956_-79.949615@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433454,
+    "wof:geomhash":"5eba1c5f6529d4ae95f90e198097f550",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823419769
+        }
+    ],
+    "wof:id":823419769,
+    "wof:lastmodified":1463433454,
+    "wof:name":"G R Restaurants",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -79.949615,
+    39.575956,
+    -79.949615,
+    39.575956
+],
+  "geometry": {"coordinates":[-79.94961499999999,39.575956],"type":"Point"}
+}

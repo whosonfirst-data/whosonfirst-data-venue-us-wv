@@ -1,0 +1,73 @@
+{
+  "id": 823374321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.219083,37.255984,-81.219083,37.255984",
+    "geom:latitude":37.255984,
+    "geom:longitude":-81.219083,
+    "iso:country":"US",
+    "sg:address":"1916 Jefferson St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 327 9181",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qeqDTc40GqbQjLM16QNmT_37.255984_-81.219083@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431371,
+    "wof:geomhash":"c40e2b0c7b854e69e80ebc2e7110f6f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823374321
+        }
+    ],
+    "wof:id":823374321,
+    "wof:lastmodified":1463431371,
+    "wof:name":"Mothers Against Drunk Driving",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -81.219083,
+    37.255984,
+    -81.219083,
+    37.255984
+],
+  "geometry": {"coordinates":[-81.219083,37.255984],"type":"Point"}
+}

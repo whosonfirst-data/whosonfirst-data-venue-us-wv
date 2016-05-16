@@ -1,0 +1,71 @@
+{
+  "id": 823382261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.126956,37.361547,-81.126956,37.361547",
+    "geom:latitude":37.361547,
+    "geom:longitude":-81.126956,
+    "iso:country":"US",
+    "sg:address":"311 New Hope Rd",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 5002",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LjoBjypn9qZiAz8K8D50e_37.361547_-81.126956@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431747,
+    "wof:geomhash":"eefe23f401988c5660257d8aca400dbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823382261
+        }
+    ],
+    "wof:id":823382261,
+    "wof:lastmodified":1463431747,
+    "wof:name":"Memorial Church Of Christ",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.126956,
+    37.361547,
+    -81.126956,
+    37.361547
+],
+  "geometry": {"coordinates":[-81.12695600000001,37.361547],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823434761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.065926,38.873641,-82.065926,38.873641",
+    "geom:latitude":38.873641,
+    "geom:longitude":-82.065926,
+    "iso:country":"US",
+    "sg:address":"3 Pebbles Ln",
+    "sg:city":"Point Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 675 2792",
+    "sg:postcode":"25550",
+    "sg:province":"WV",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731555,
+        102082637,
+        85830595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3g00GknD1teWdw7j34bH3Z_38.873641_-82.065926@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434116,
+    "wof:geomhash":"92903ac7002aa6f000b7d21c8a5e3056",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082637,
+            "locality_id":101731555,
+            "neighbourhood_id":85830595,
+            "region_id":85688589,
+            "venue_id":823434761
+        }
+    ],
+    "wof:id":823434761,
+    "wof:lastmodified":1463434116,
+    "wof:name":"Essential Heating Cooling",
+    "wof:parent_id":85830595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.065926,
+    38.873641,
+    -82.065926,
+    38.873641
+],
+  "geometry": {"coordinates":[-82.065926,38.873641],"type":"Point"}
+}

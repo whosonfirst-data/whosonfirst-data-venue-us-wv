@@ -1,0 +1,71 @@
+{
+  "id": 823430373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.371354,39.274214,-80.371354,39.274214",
+    "geom:latitude":39.274214,
+    "geom:longitude":-80.371354,
+    "iso:country":"US",
+    "sg:address":"101 Stoneybrook Rd",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 623 1933",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85810773,
+        102082619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jr89FbP2vLoTngiA6WDiY_39.274214_-80.371354@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433896,
+    "wof:geomhash":"19dc5588aee96b4d31cd46ff33bed0ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "neighbourhood_id":85810773,
+            "region_id":85688589,
+            "venue_id":823430373
+        }
+    ],
+    "wof:id":823430373,
+    "wof:lastmodified":1463433896,
+    "wof:name":"Saturn Of Clarksburg",
+    "wof:parent_id":85810773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -80.371354,
+    39.274214,
+    -80.371354,
+    39.274214
+],
+  "geometry": {"coordinates":[-80.371354,39.274214],"type":"Point"}
+}

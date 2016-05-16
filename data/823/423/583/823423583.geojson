@@ -1,0 +1,71 @@
+{
+  "id": 823423583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.147292,37.984367,-81.147292,37.984367",
+    "geom:latitude":37.984367,
+    "geom:longitude":-81.147292,
+    "iso:country":"US",
+    "sg:address":"1300 Virginia St",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 469 6673",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WoFOI1By5ogpochNHJ9zG_37.984367_-81.147292@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433605,
+    "wof:geomhash":"640ed7a36f4e1f3de0e08c120b587986",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823423583
+        }
+    ],
+    "wof:id":823423583,
+    "wof:lastmodified":1463433605,
+    "wof:name":"Fayette Manor Apartments",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -81.147292,
+    37.984367,
+    -81.147292,
+    37.984367
+],
+  "geometry": {"coordinates":[-81.14729199999999,37.984367],"type":"Point"}
+}

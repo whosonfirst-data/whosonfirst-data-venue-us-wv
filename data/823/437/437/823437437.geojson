@@ -1,0 +1,71 @@
+{
+  "id": 823437437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.75879,38.366997,-81.75879,38.366997",
+    "geom:latitude":38.366997,
+    "geom:longitude":-81.75879,
+    "iso:country":"US",
+    "sg:address":"2910 Gillespie Dr",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 2171",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ORlnP9Ge2IN7soqUByZPq_38.366997_-81.758790@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434256,
+    "wof:geomhash":"5e9e89413320ed084007450ea0e8b42f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823437437
+        }
+    ],
+    "wof:id":823437437,
+    "wof:lastmodified":1463434256,
+    "wof:name":"Boggess Air Conditioning",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.75879,
+    38.366997,
+    -81.75879,
+    38.366997
+],
+  "geometry": {"coordinates":[-81.75879,38.366997],"type":"Point"}
+}

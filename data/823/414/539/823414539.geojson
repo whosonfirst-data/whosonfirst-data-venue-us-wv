@@ -1,0 +1,71 @@
+{
+  "id": 823414539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.125748,37.989144,-81.125748,37.989144",
+    "geom:latitude":37.989144,
+    "geom:longitude":-81.125748,
+    "iso:country":"US",
+    "sg:address":"503 Hidden Valley Dr",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 469 3148",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "work",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hFOslSOMJoFOdu6n32Q1x_37.989144_-81.125748@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433206,
+    "wof:geomhash":"02998aa18d844c1537b9e554ea672fd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823414539
+        }
+    ],
+    "wof:id":823414539,
+    "wof:lastmodified":1463433206,
+    "wof:name":"Bucks Electric",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "work",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -81.125748,
+    37.989144,
+    -81.125748,
+    37.989144
+],
+  "geometry": {"coordinates":[-81.125748,37.989144],"type":"Point"}
+}

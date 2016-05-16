@@ -1,0 +1,71 @@
+{
+  "id": 823404261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.21923,37.257018,-81.21923,37.257018",
+    "geom:latitude":37.257018,
+    "geom:longitude":-81.21923,
+    "iso:country":"US",
+    "sg:address":"212 College Ave",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 325 3481",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45tawtQbnRMDPAj3L6kqp7_37.257018_-81.219230@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432773,
+    "wof:geomhash":"0ec13d67b302d354c208196184abddb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823404261
+        }
+    ],
+    "wof:id":823404261,
+    "wof:lastmodified":1463432773,
+    "wof:name":"Appalachian Engineering Inc",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -81.21923,
+    37.257018,
+    -81.21923,
+    37.257018
+],
+  "geometry": {"coordinates":[-81.21923,37.257018],"type":"Point"}
+}

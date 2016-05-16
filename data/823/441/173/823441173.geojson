@@ -1,0 +1,71 @@
+{
+  "id": 823441173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.804721,38.384172,-81.804721,38.384172",
+    "geom:latitude":38.384172,
+    "geom:longitude":-81.804721,
+    "iso:country":"US",
+    "sg:address":"2374 Cleveland Ave",
+    "sg:city":"St Albans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 727 2442",
+    "sg:postcode":"25177",
+    "sg:province":"WV",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731773,
+        102083335,
+        85840775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eTAzFiIHokietSuhdftvb_38.384172_-81.804721@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434413,
+    "wof:geomhash":"568080ecf9c3906555e23e77e391d5e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731773,
+            "neighbourhood_id":85840775,
+            "region_id":85688589,
+            "venue_id":823441173
+        }
+    ],
+    "wof:id":823441173,
+    "wof:lastmodified":1463434413,
+    "wof:name":"Academy Animal Hospital",
+    "wof:parent_id":85840775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -81.804721,
+    38.384172,
+    -81.804721,
+    38.384172
+],
+  "geometry": {"coordinates":[-81.804721,38.384172],"type":"Point"}
+}

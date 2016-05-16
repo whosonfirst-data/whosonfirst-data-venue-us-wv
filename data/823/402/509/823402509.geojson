@@ -1,0 +1,71 @@
+{
+  "id": 823402509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.973909,39.45402,-77.973909,39.45402",
+    "geom:latitude":39.45402,
+    "geom:longitude":-77.973909,
+    "iso:country":"US",
+    "sg:address":"519 Winchester Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 267 7700",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PiGo7BE8QnuecVqlHRljC_39.454020_-77.973909@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432693,
+    "wof:geomhash":"3d9de605bf3454453bb4ae5ff6a17fbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823402509
+        }
+    ],
+    "wof:id":823402509,
+    "wof:lastmodified":1463432693,
+    "wof:name":"Jlb Hair Studio",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -77.973909,
+    39.45402,
+    -77.973909,
+    39.45402
+],
+  "geometry": {"coordinates":[-77.97390900000001,39.45402],"type":"Point"}
+}

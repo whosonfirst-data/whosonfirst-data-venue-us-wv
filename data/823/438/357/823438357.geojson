@@ -1,0 +1,73 @@
+{
+  "id": 823438357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.138999,39.497872,-80.138999,39.497872",
+    "geom:latitude":39.497872,
+    "geom:longitude":-80.138999,
+    "iso:country":"US",
+    "sg:address":"801 Pennsylvania Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 1860",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Pbh49FzRHdcCr9abFuG0D_39.497872_-80.138999@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434292,
+    "wof:geomhash":"1cc0c196bf43d48a002b9fd818276bbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823438357
+        }
+    ],
+    "wof:id":823438357,
+    "wof:lastmodified":1463434292,
+    "wof:name":"M & M Merrifield Auto",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -80.138999,
+    39.497872,
+    -80.138999,
+    39.497872
+],
+  "geometry": {"coordinates":[-80.138999,39.497872],"type":"Point"}
+}

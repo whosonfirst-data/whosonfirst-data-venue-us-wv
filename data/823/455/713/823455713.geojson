@@ -1,0 +1,67 @@
+{
+  "id": 823455713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.040467,39.361597,-78.040467,39.361597",
+    "geom:latitude":39.361597,
+    "geom:longitude":-78.040467,
+    "iso:country":"US",
+    "sg:address":"4701 Gerradstown Rd",
+    "sg:city":"Inwood",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 229 6705",
+    "sg:postcode":"25428",
+    "sg:province":"WV",
+    "sg:website":"www.shell.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gIPbrAJarSjcRXTE6CDV8_39.361597_-78.040467@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435086,
+    "wof:geomhash":"f729f3f238acbe47f9760a8fc808e5ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823455713
+        }
+    ],
+    "wof:id":823455713,
+    "wof:lastmodified":1463435086,
+    "wof:name":"Shell",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.040467,
+    39.361597,
+    -78.040467,
+    39.361597
+],
+  "geometry": {"coordinates":[-78.04046700000001,39.361597],"type":"Point"}
+}

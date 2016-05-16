@@ -1,0 +1,73 @@
+{
+  "id": 823412005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.114947,37.365896,-81.114947,37.365896",
+    "geom:latitude":37.365896,
+    "geom:longitude":-81.114947,
+    "iso:country":"US",
+    "sg:address":"65 New Hope Rd",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 9724",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6o2Dp06mnNcLVl7Do3MmP1_37.365896_-81.114947@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433103,
+    "wof:geomhash":"9d926282f1e51d40afd4b472a44a68a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823412005
+        }
+    ],
+    "wof:id":823412005,
+    "wof:lastmodified":1463433103,
+    "wof:name":"Doctors Anesthesia Assoc Inc",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.114947,
+    37.365896,
+    -81.114947,
+    37.365896
+],
+  "geometry": {"coordinates":[-81.114947,37.365896],"type":"Point"}
+}

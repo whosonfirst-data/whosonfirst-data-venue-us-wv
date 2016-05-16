@@ -1,0 +1,71 @@
+{
+  "id": 823419139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.695085,38.363811,-81.695085,38.363811",
+    "geom:latitude":38.363811,
+    "geom:longitude":-81.695085,
+    "iso:country":"US",
+    "sg:address":"229 2nd Ave SW",
+    "sg:city":"South Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 5222",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_369mPyM8B5gPPC59zLc8yj_38.363811_-81.695085@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433431,
+    "wof:geomhash":"77e6c602c3735f383834265a3801f3a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823419139
+        }
+    ],
+    "wof:id":823419139,
+    "wof:lastmodified":1463433431,
+    "wof:name":"Precision Works Orthodontic",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -81.695085,
+    38.363811,
+    -81.695085,
+    38.363811
+],
+  "geometry": {"coordinates":[-81.69508500000001,38.363811],"type":"Point"}
+}

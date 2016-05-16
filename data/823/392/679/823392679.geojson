@@ -1,0 +1,71 @@
+{
+  "id": 823392679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.653178,38.361747,-81.653178,38.361747",
+    "geom:latitude":38.361747,
+    "geom:longitude":-81.653178,
+    "iso:country":"US",
+    "sg:address":"706 Grant St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 4254",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74M2GmyjJA4uMPaKfdtrZD_38.361747_-81.653178@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432213,
+    "wof:geomhash":"0ce7798dad1a753f1b06198648810a5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823392679
+        }
+    ],
+    "wof:id":823392679,
+    "wof:lastmodified":1463432213,
+    "wof:name":"Wandells Child Care",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -81.653178,
+    38.361747,
+    -81.653178,
+    38.361747
+],
+  "geometry": {"coordinates":[-81.653178,38.361747],"type":"Point"}
+}

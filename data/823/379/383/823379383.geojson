@@ -1,0 +1,75 @@
+{
+  "id": 823379383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.878224,39.545214,-79.878224,39.545214",
+    "geom:latitude":39.545214,
+    "geom:longitude":-79.878224,
+    "iso:country":"US",
+    "sg:address":"207 Mountainview Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 8712",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "mill",
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732105,
+        102082587,
+        85807831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ClasRu00QwwqEYHgHkW5B_39.545214_-79.878224@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431615,
+    "wof:geomhash":"91b7818bfbedb4dc692c530ad270657b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101732105,
+            "neighbourhood_id":85807831,
+            "region_id":85688589,
+            "venue_id":823379383
+        }
+    ],
+    "wof:id":823379383,
+    "wof:lastmodified":1463431615,
+    "wof:name":"Dalton Brothers Lumber",
+    "wof:parent_id":85807831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mill",
+        "logging"
+    ]
+},
+  "bbox": [
+    -79.878224,
+    39.545214,
+    -79.878224,
+    39.545214
+],
+  "geometry": {"coordinates":[-79.878224,39.545214],"type":"Point"}
+}

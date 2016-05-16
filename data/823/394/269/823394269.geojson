@@ -1,0 +1,75 @@
+{
+  "id": 823394269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.597473,38.3258,-81.597473,38.3258",
+    "geom:latitude":38.3258,
+    "geom:longitude":-81.597473,
+    "iso:country":"US",
+    "sg:address":"3428 Chesterfield Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 6411",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BpxCpy5nN4c0ykrB2UzCE_38.325800_-81.597473@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432298,
+    "wof:geomhash":"8594a3d8551aa40c85603621752f58da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823394269
+        }
+    ],
+    "wof:id":823394269,
+    "wof:lastmodified":1463432298,
+    "wof:name":"Bell's Auto Repair",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -81.597473,
+    38.3258,
+    -81.597473,
+    38.3258
+],
+  "geometry": {"coordinates":[-81.59747299999999,38.3258],"type":"Point"}
+}

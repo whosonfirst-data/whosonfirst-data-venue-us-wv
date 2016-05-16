@@ -1,0 +1,71 @@
+{
+  "id": 823370547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.991733,37.846771,-81.991733,37.846771",
+    "geom:latitude":37.846771,
+    "geom:longitude":-81.991733,
+    "iso:country":"US",
+    "sg:address":"308 Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 752 2900",
+    "sg:postcode":"25601",
+    "sg:province":"WV",
+    "sg:tags":[
+        "motion",
+        "picture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868319,
+        102083369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oYG71MYhDZhAC4HbiTzIx_37.846771_-81.991733@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431196,
+    "wof:geomhash":"b5535f12cb8a4c1223074e85ac56fac4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083369,
+            "neighbourhood_id":85868319,
+            "region_id":85688589,
+            "venue_id":823370547
+        }
+    ],
+    "wof:id":823370547,
+    "wof:lastmodified":1463431196,
+    "wof:name":"Coalfield Jamboree",
+    "wof:parent_id":85868319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motion",
+        "picture"
+    ]
+},
+  "bbox": [
+    -81.991733,
+    37.846771,
+    -81.991733,
+    37.846771
+],
+  "geometry": {"coordinates":[-81.991733,37.846771],"type":"Point"}
+}

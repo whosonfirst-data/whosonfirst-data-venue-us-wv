@@ -1,0 +1,73 @@
+{
+  "id": 823447733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.950819,38.982917,-81.950819,38.982917",
+    "geom:latitude":38.982917,
+    "geom:longitude":-81.950819,
+    "iso:country":"US",
+    "sg:address":"212 Walnut St",
+    "sg:city":"Ripley",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 273 0088",
+    "sg:postcode":"25265",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731555,
+        102082637,
+        85830595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3E58yLOyK4r61fpwEVkBxH_38.982917_-81.950819@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434725,
+    "wof:geomhash":"a6357c689ba8524c8d51c07ddc40c106",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082637,
+            "locality_id":101731555,
+            "neighbourhood_id":85830595,
+            "region_id":85688589,
+            "venue_id":823447733
+        }
+    ],
+    "wof:id":823447733,
+    "wof:lastmodified":1463434725,
+    "wof:name":"Habitat For Humanity",
+    "wof:parent_id":85830595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -81.950819,
+    38.982917,
+    -81.950819,
+    38.982917
+],
+  "geometry": {"coordinates":[-81.950819,38.982917],"type":"Point"}
+}

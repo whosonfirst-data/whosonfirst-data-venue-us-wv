@@ -1,0 +1,71 @@
+{
+  "id": 823409299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.743589,38.360186,-81.743589,38.360186",
+    "geom:latitude":38.360186,
+    "geom:longitude":-81.743589,
+    "iso:country":"US",
+    "sg:address":"1424 Ohio Ave",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 6309",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00kWHXrVq3rftvQafRSwJt_38.360186_-81.743589@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432995,
+    "wof:geomhash":"b8e04d2cf90b59723ad635ff112ce835",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823409299
+        }
+    ],
+    "wof:id":823409299,
+    "wof:lastmodified":1463432995,
+    "wof:name":"Office & Commercial Cleaning",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -81.743589,
+    38.360186,
+    -81.743589,
+    38.360186
+],
+  "geometry": {"coordinates":[-81.743589,38.360186],"type":"Point"}
+}

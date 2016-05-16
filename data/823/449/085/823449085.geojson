@@ -1,0 +1,71 @@
+{
+  "id": 823449085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.983535,39.631611,-79.983535,39.631611",
+    "geom:latitude":39.631611,
+    "geom:longitude":-79.983535,
+    "iso:country":"US",
+    "sg:address":"879 Fairmont Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 2381",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818601,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6E9Q0afneaaYjIquCBL9ib_39.631611_-79.983535@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434784,
+    "wof:geomhash":"403f322a7be8df32c4236c30c8373f7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85818601,
+            "region_id":85688589,
+            "venue_id":823449085
+        }
+    ],
+    "wof:id":823449085,
+    "wof:lastmodified":1463434784,
+    "wof:name":"Bfs Foods 38",
+    "wof:parent_id":85818601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -79.983535,
+    39.631611,
+    -79.983535,
+    39.631611
+],
+  "geometry": {"coordinates":[-79.983535,39.631611],"type":"Point"}
+}

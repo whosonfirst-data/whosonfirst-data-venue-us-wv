@@ -1,0 +1,73 @@
+{
+  "id": 823372279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.271178,39.284514,-80.271178,39.284514",
+    "geom:latitude":39.284514,
+    "geom:longitude":-80.271178,
+    "iso:country":"US",
+    "sg:address":"164 Thompson Dr",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 3495",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0O0eqabRJ8KC35br3bDjS0_39.284514_-80.271178@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431295,
+    "wof:geomhash":"1b599018f3fcb5fa96c42fa68c318a7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823372279
+        }
+    ],
+    "wof:id":823372279,
+    "wof:lastmodified":1463431295,
+    "wof:name":"AGS Used Cars",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -80.271178,
+    39.284514,
+    -80.271178,
+    39.284514
+],
+  "geometry": {"coordinates":[-80.27117800000001,39.284514],"type":"Point"}
+}

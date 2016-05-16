@@ -1,0 +1,81 @@
+{
+  "id": 823405801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.621507,38.350693,-81.621507,38.350693",
+    "geom:latitude":38.350693,
+    "geom:longitude":-81.621507,
+    "iso:country":"US",
+    "sg:address":"912 Morris St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 344 0821",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "laboratory",
+        "engineer"
+    ],
+    "sg:website":"www.hcnutting.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AETzyBhKz0ctAVpyOduBx_38.350693_-81.621507@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432850,
+    "wof:geomhash":"dd676714963142910a684040cb8eea86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823405801
+        }
+    ],
+    "wof:id":823405801,
+    "wof:lastmodified":1463432850,
+    "wof:name":"H C Nutting Company",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -81.621507,
+    38.350693,
+    -81.621507,
+    38.350693
+],
+  "geometry": {"coordinates":[-81.62150699999999,38.350693],"type":"Point"}
+}

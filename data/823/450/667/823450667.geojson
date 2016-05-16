@@ -1,0 +1,71 @@
+{
+  "id": 823450667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.25271,39.284581,-80.25271,39.284581",
+    "geom:latitude":39.284581,
+    "geom:longitude":-80.25271,
+    "iso:country":"US",
+    "sg:address":"134 W Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 7777",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56Uw9U5OM9QpoQaxtBueVQ_39.284581_-80.252710@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434840,
+    "wof:geomhash":"2512f0571e7c7292c8e3f219e7d5b968",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823450667
+        }
+    ],
+    "wof:id":823450667,
+    "wof:lastmodified":1463434840,
+    "wof:name":"Home Oxygen",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -80.25271,
+    39.284581,
+    -80.25271,
+    39.284581
+],
+  "geometry": {"coordinates":[-80.25270999999999,39.284581],"type":"Point"}
+}

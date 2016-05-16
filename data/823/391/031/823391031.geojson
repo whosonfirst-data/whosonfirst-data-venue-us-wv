@@ -1,0 +1,71 @@
+{
+  "id": 823391031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.215246,39.32518,-80.215246,39.32518",
+    "geom:latitude":39.32518,
+    "geom:longitude":-80.215246,
+    "iso:country":"US",
+    "sg:address":"165 Diamond Cove",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 7894",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kmi4FlWodlYEGjmRHr0zr_39.325180_-80.215246@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432121,
+    "wof:geomhash":"5a5215e6c172baa0d9d7209cd6f5451c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823391031
+        }
+    ],
+    "wof:id":823391031,
+    "wof:lastmodified":1463432121,
+    "wof:name":"White Lightning Contracting",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.215246,
+    39.32518,
+    -80.215246,
+    39.32518
+],
+  "geometry": {"coordinates":[-80.21524599999999,39.32518],"type":"Point"}
+}

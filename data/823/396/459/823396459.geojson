@@ -1,0 +1,73 @@
+{
+  "id": 823396459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.062089,39.582092,-80.062089,39.582092",
+    "geom:latitude":39.582092,
+    "geom:longitude":-80.062089,
+    "iso:country":"US",
+    "sg:address":"4750 River Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 278 5884",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818601,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2So3EpXPdCwtKEpORlrMrW_39.582092_-80.062089@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432396,
+    "wof:geomhash":"960bbf828fe4a217f6b8ba528f4f8e15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85818601,
+            "region_id":85688589,
+            "venue_id":823396459
+        }
+    ],
+    "wof:id":823396459,
+    "wof:lastmodified":1463432396,
+    "wof:name":"Gump Transport",
+    "wof:parent_id":85818601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -80.062089,
+    39.582092,
+    -80.062089,
+    39.582092
+],
+  "geometry": {"coordinates":[-80.062089,39.582092],"type":"Point"}
+}

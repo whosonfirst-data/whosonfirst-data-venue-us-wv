@@ -1,0 +1,74 @@
+{
+  "id": 823446241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.953893,39.657623,-79.953893,39.657623",
+    "geom:latitude":39.657623,
+    "geom:longitude":-79.953893,
+    "iso:country":"US",
+    "sg:address":"1229 Pineview Dr",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 6800",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PLkQ2TVC31GIOPgkrpaFo_39.657623_-79.953893@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434657,
+    "wof:geomhash":"c8896884db3bf7c75652c26b21eb51f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823446241
+        }
+    ],
+    "wof:id":823446241,
+    "wof:lastmodified":1463434657,
+    "wof:name":"Ableworks Inc",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -79.953893,
+    39.657623,
+    -79.953893,
+    39.657623
+],
+  "geometry": {"coordinates":[-79.95389299999999,39.657623],"type":"Point"}
+}

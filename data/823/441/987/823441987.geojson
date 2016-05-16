@@ -1,0 +1,73 @@
+{
+  "id": 823441987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.578025,38.399362,-82.578025,38.399362",
+    "geom:latitude":38.399362,
+    "geom:longitude":-82.578025,
+    "iso:country":"US",
+    "sg:address":"1409 Chestnut St",
+    "sg:city":"Kenova",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 877 914 1573",
+    "sg:postcode":"25530",
+    "sg:province":"WV",
+    "sg:tags":[
+        "equipment",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731517,
+        102083365,
+        85806071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zE9I8NxUTsnyn9jvP02s2_38.399362_-82.578025@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434451,
+    "wof:geomhash":"6b56d1bea2bedb91eaedd45e11748691",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731517,
+            "neighbourhood_id":85806071,
+            "region_id":85688589,
+            "venue_id":823441987
+        }
+    ],
+    "wof:id":823441987,
+    "wof:lastmodified":1463434451,
+    "wof:name":"Diversified Medical Alliance",
+    "wof:parent_id":85806071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "medical"
+    ]
+},
+  "bbox": [
+    -82.578025,
+    38.399362,
+    -82.578025,
+    38.399362
+],
+  "geometry": {"coordinates":[-82.578025,38.399362],"type":"Point"}
+}

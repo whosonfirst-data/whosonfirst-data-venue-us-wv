@@ -1,0 +1,68 @@
+{
+  "id": 823393597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.684992,40.079243,-80.684992,40.079243",
+    "geom:latitude":40.079243,
+    "geom:longitude":-80.684992,
+    "iso:country":"US",
+    "sg:address":"1 Echo Point Cir",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 233 2610",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85817519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6liPebNduM76HttVmgOR75_40.079243_-80.684992@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432256,
+    "wof:geomhash":"498a1e44feb29e8886e98b800a7ca6bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85817519,
+            "region_id":85688589,
+            "venue_id":823393597
+        }
+    ],
+    "wof:id":823393597,
+    "wof:lastmodified":1463432256,
+    "wof:name":"Rax Restaurant",
+    "wof:parent_id":85817519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.684992,
+    40.079243,
+    -80.684992,
+    40.079243
+],
+  "geometry": {"coordinates":[-80.68499199999999,40.079243],"type":"Point"}
+}

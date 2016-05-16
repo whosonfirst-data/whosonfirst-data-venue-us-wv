@@ -1,0 +1,73 @@
+{
+  "id": 823456895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.549532,40.383396,-80.549532,40.383396",
+    "geom:latitude":40.383396,
+    "geom:longitude":-80.549532,
+    "iso:country":"US",
+    "sg:address":"490 Park Dr Ste C",
+    "sg:city":"Weirton",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 723 7272",
+    "sg:postcode":"26062",
+    "sg:province":"WV",
+    "sg:tags":[
+        "forwarding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731371,
+        102082633,
+        85854989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14epAWtWXKsHR94gkzcktI_40.383396_-80.549532@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435128,
+    "wof:geomhash":"1c772771b125b107f708e4d33c44d0ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731371,
+            "neighbourhood_id":85854989,
+            "region_id":85688589,
+            "venue_id":823456895
+        }
+    ],
+    "wof:id":823456895,
+    "wof:lastmodified":1463435128,
+    "wof:name":"Darby Movers, Inc.",
+    "wof:parent_id":85854989,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forwarding"
+    ]
+},
+  "bbox": [
+    -80.549532,
+    40.383396,
+    -80.549532,
+    40.383396
+],
+  "geometry": {"coordinates":[-80.549532,40.383396],"type":"Point"}
+}

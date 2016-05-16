@@ -1,0 +1,71 @@
+{
+  "id": 823435633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.661005,38.371756,-81.661005,38.371756",
+    "geom:latitude":38.371756,
+    "geom:longitude":-81.661005,
+    "iso:country":"US",
+    "sg:address":"1549 Washington St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 2966",
+    "sg:postcode":"25312",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Kj72btq2mFuSvG6RDGVuS_38.371756_-81.661005@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434151,
+    "wof:geomhash":"7a4890328e6c1f2740314a0f4af5551b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823435633
+        }
+    ],
+    "wof:id":823435633,
+    "wof:lastmodified":1463434151,
+    "wof:name":"Smoke House The",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -81.661005,
+    38.371756,
+    -81.661005,
+    38.371756
+],
+  "geometry": {"coordinates":[-81.661005,38.371756],"type":"Point"}
+}

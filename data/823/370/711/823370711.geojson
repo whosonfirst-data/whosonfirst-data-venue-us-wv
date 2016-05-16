@@ -1,0 +1,74 @@
+{
+  "id": 823370711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.977499,39.449669,-77.977499,39.449669",
+    "geom:latitude":39.449669,
+    "geom:longitude":-77.977499,
+    "iso:country":"US",
+    "sg:address":"150 Berry St",
+    "sg:city":"Charles Town",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 728 3051",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "desk",
+        "space"
+    ],
+    "sg:website":"www.jctc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1z5sUne5dzvrgJE88gTSPX_39.449669_-77.977499@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431202,
+    "wof:geomhash":"64a2fcbac3384e94d61e6ff3df4db4fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823370711
+        }
+    ],
+    "wof:id":823370711,
+    "wof:lastmodified":1463431202,
+    "wof:name":"Jefferson County Telecenter",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "desk",
+        "space"
+    ]
+},
+  "bbox": [
+    -77.977499,
+    39.449669,
+    -77.977499,
+    39.449669
+],
+  "geometry": {"coordinates":[-77.97749899999999,39.449669],"type":"Point"}
+}

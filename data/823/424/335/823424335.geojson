@@ -1,0 +1,71 @@
+{
+  "id": 823424335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.516885,38.3483,-82.516885,38.3483",
+    "geom:latitude":38.3483,
+    "geom:longitude":-82.516885,
+    "iso:country":"US",
+    "sg:address":"331 Buffalo Creek Rd",
+    "sg:city":"Kenova",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 429 2911",
+    "sg:postcode":"25530",
+    "sg:province":"WV",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083365,
+        85857035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20VzUuosUJuldk7mxS7oLT_38.348300_-82.516885@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433635,
+    "wof:geomhash":"b67cf3e3116dd923fa887f39bd9ec026",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731553,
+            "neighbourhood_id":85857035,
+            "region_id":85688589,
+            "venue_id":823424335
+        }
+    ],
+    "wof:id":823424335,
+    "wof:lastmodified":1463433635,
+    "wof:name":"Buffalo Elementary School",
+    "wof:parent_id":85857035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -82.516885,
+    38.3483,
+    -82.516885,
+    38.3483
+],
+  "geometry": {"coordinates":[-82.516885,38.3483],"type":"Point"}
+}

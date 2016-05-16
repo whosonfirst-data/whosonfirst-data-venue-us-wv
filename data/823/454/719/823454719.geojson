@@ -1,0 +1,71 @@
+{
+  "id": 823454719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.960899,39.444908,-77.960899,39.444908",
+    "geom:latitude":39.444908,
+    "geom:longitude":-77.960899,
+    "iso:country":"US",
+    "sg:address":"101 Boarman Pl",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 1801",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "advisory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WK4aoTKhMTgkSgoYmsyCW_39.444908_-77.960899@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435049,
+    "wof:geomhash":"1f374e057e06390567bf99a9da40d548",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823454719
+        }
+    ],
+    "wof:id":823454719,
+    "wof:lastmodified":1463435049,
+    "wof:name":"Capital Heights Townhouses",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory"
+    ]
+},
+  "bbox": [
+    -77.960899,
+    39.444908,
+    -77.960899,
+    39.444908
+],
+  "geometry": {"coordinates":[-77.960899,39.444908],"type":"Point"}
+}

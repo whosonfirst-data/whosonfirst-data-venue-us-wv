@@ -1,0 +1,77 @@
+{
+  "id": 823454263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.234009,37.256222,-81.234009,37.256222",
+    "geom:latitude":37.256222,
+    "geom:longitude":-81.234009,
+    "iso:country":"US",
+    "sg:address":"488 Cherry St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 327 1890",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "gynecology",
+        "physician",
+        "surgeons",
+        "obstetrics"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tqykvvSnmgRCnpWZe54Zw_37.256222_-81.234009@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435011,
+    "wof:geomhash":"6d51035fbd6a00fd537b23493b11b70e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823454263
+        }
+    ],
+    "wof:id":823454263,
+    "wof:lastmodified":1463435011,
+    "wof:name":"Edwards Robert",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gynecology",
+        "physician",
+        "surgeons",
+        "obstetrics"
+    ]
+},
+  "bbox": [
+    -81.234009,
+    37.256222,
+    -81.234009,
+    37.256222
+],
+  "geometry": {"coordinates":[-81.234009,37.256222],"type":"Point"}
+}

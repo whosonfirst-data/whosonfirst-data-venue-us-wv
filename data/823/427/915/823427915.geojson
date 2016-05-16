@@ -1,0 +1,71 @@
+{
+  "id": 823427915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.56905,38.248049,-81.56905,38.248049",
+    "geom:latitude":38.248049,
+    "geom:longitude":-81.56905,
+    "iso:country":"US",
+    "sg:address":"8806 Maccorkle Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 2556",
+    "sg:postcode":"25315",
+    "sg:province":"WV",
+    "sg:tags":[
+        "billing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xFGF9Jjza1kg6rMjtlWXy_38.248049_-81.569050@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433786,
+    "wof:geomhash":"cae1321ec3d7888ed26d57558bda80c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823427915
+        }
+    ],
+    "wof:id":823427915,
+    "wof:lastmodified":1463433786,
+    "wof:name":"Medical Billing & Consulting",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "billing"
+    ]
+},
+  "bbox": [
+    -81.56905,
+    38.248049,
+    -81.56905,
+    38.248049
+],
+  "geometry": {"coordinates":[-81.56905,38.248049],"type":"Point"}
+}

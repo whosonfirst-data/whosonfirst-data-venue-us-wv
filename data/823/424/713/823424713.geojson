@@ -1,0 +1,71 @@
+{
+  "id": 823424713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.094801,38.223287,-80.094801,38.223287",
+    "geom:latitude":38.223287,
+    "geom:longitude":-80.094801,
+    "iso:country":"US",
+    "sg:address":"828 2nd Ave",
+    "sg:city":"Marlinton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 799 6590",
+    "sg:postcode":"24954",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731759,
+        102082613,
+        85805067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18Y8bmunHo5UM17HSFdIwo_38.223287_-80.094801@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433648,
+    "wof:geomhash":"8f0ac845767f5ebd2a6418201c88fed7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082613,
+            "locality_id":101731759,
+            "neighbourhood_id":85805067,
+            "region_id":85688589,
+            "venue_id":823424713
+        }
+    ],
+    "wof:id":823424713,
+    "wof:lastmodified":1463433648,
+    "wof:name":"Shreve Appliance Services",
+    "wof:parent_id":85805067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -80.094801,
+    38.223287,
+    -80.094801,
+    38.223287
+],
+  "geometry": {"coordinates":[-80.094801,38.223287],"type":"Point"}
+}

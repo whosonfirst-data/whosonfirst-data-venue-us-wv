@@ -1,0 +1,71 @@
+{
+  "id": 823369321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.58084,38.31826,-81.58084,38.31826",
+    "geom:latitude":38.31826,
+    "geom:longitude":-81.58084,
+    "iso:country":"US",
+    "sg:address":"609 49th St SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 720 2276",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gCBQVl4oZEtPPQq5eCYHY_38.318260_-81.580840@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431145,
+    "wof:geomhash":"fb877b017a2776d4adfb6e15c8e28027",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823369321
+        }
+    ],
+    "wof:id":823369321,
+    "wof:lastmodified":1463431145,
+    "wof:name":"T J's Truck & Trailer Repair",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -81.58084,
+    38.31826,
+    -81.58084,
+    38.31826
+],
+  "geometry": {"coordinates":[-81.58083999999999,38.31826],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823387537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.334871,39.258255,-80.334871,39.258255",
+    "geom:latitude":39.258255,
+    "geom:longitude":-80.334871,
+    "iso:country":"US",
+    "sg:address":"407 Nutter Run Rd",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 624 4677",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85810773,
+        102082619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Qk0TCItbCv7MOn4ktfqYH_39.258255_-80.334871@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431947,
+    "wof:geomhash":"678df11da65c8e462e7a117616ca693e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "neighbourhood_id":85810773,
+            "region_id":85688589,
+            "venue_id":823387537
+        }
+    ],
+    "wof:id":823387537,
+    "wof:lastmodified":1463431947,
+    "wof:name":"Out Of The Way Pet Grooming",
+    "wof:parent_id":85810773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -80.334871,
+    39.258255,
+    -80.334871,
+    39.258255
+],
+  "geometry": {"coordinates":[-80.33487100000001,39.258255],"type":"Point"}
+}

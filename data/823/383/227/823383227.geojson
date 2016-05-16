@@ -1,0 +1,71 @@
+{
+  "id": 823383227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.851723,38.932463,-79.851723,38.932463",
+    "geom:latitude":38.932463,
+    "geom:longitude":-79.851723,
+    "iso:country":"US",
+    "sg:address":"1 Stoddard Ave",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 6793",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HyAAbmA4UUoRoU6FGBjX7_38.932463_-79.851723@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431782,
+    "wof:geomhash":"cf63429eed315452b9e0df59e95ce35d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823383227
+        }
+    ],
+    "wof:id":823383227,
+    "wof:lastmodified":1463431782,
+    "wof:name":"Gateway Apartments",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -79.851723,
+    38.932463,
+    -79.851723,
+    38.932463
+],
+  "geometry": {"coordinates":[-79.85172300000001,38.932463],"type":"Point"}
+}

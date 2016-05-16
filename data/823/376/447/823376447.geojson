@@ -1,0 +1,71 @@
+{
+  "id": 823376447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.096516,37.377382,-81.096516,37.377382",
+    "geom:latitude":37.377382,
+    "geom:longitude":-81.096516,
+    "iso:country":"US",
+    "sg:address":"711 Flint St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 1088",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1brsnxbUZa0aE8Mm5VW8Bt_37.377382_-81.096516@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431480,
+    "wof:geomhash":"0c3f728d90a718cabe5bc3c25f85334a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823376447
+        }
+    ],
+    "wof:id":823376447,
+    "wof:lastmodified":1463431480,
+    "wof:name":"A1 Auto Repair",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -81.096516,
+    37.377382,
+    -81.096516,
+    37.377382
+],
+  "geometry": {"coordinates":[-81.09651599999999,37.377382],"type":"Point"}
+}

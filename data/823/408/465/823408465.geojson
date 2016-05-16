@@ -1,0 +1,73 @@
+{
+  "id": 823408465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.189972,37.779334,-81.189972,37.779334",
+    "geom:latitude":37.779334,
+    "geom:longitude":-81.189972,
+    "iso:country":"US",
+    "sg:address":"216 N Fayette St",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 253 8471",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18tG4Qek8ZLV6LKVPFP8pa_37.779334_-81.189972@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432965,
+    "wof:geomhash":"745feda7ba0178893706a610b3c98bc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823408465
+        }
+    ],
+    "wof:id":823408465,
+    "wof:lastmodified":1463432965,
+    "wof:name":"Acme Bonding",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bond"
+    ]
+},
+  "bbox": [
+    -81.189972,
+    37.779334,
+    -81.189972,
+    37.779334
+],
+  "geometry": {"coordinates":[-81.189972,37.779334],"type":"Point"}
+}

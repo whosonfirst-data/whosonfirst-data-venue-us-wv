@@ -1,0 +1,73 @@
+{
+  "id": 823422785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.985551,39.658246,-79.985551,39.658246",
+    "geom:latitude":39.658246,
+    "geom:longitude":-79.985551,
+    "iso:country":"US",
+    "sg:address":"3456 University Ave",
+    "sg:city":"Star City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 598 0423",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731749,
+        102082587,
+        85807277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pmQ3iIghhH06A1EUE4eRW_39.658246_-79.985551@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433569,
+    "wof:geomhash":"544c8a7af127b9b39d46ac64ea103c21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731749,
+            "neighbourhood_id":85807277,
+            "region_id":85688589,
+            "venue_id":823422785
+        }
+    ],
+    "wof:id":823422785,
+    "wof:lastmodified":1463433569,
+    "wof:name":"Cars Inc",
+    "wof:parent_id":85807277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -79.985551,
+    39.658246,
+    -79.985551,
+    39.658246
+],
+  "geometry": {"coordinates":[-79.985551,39.658246],"type":"Point"}
+}

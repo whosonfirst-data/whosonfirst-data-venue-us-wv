@@ -1,0 +1,71 @@
+{
+  "id": 823417841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.555743,38.327815,-81.555743,38.327815",
+    "geom:latitude":38.327815,
+    "geom:longitude":-81.555743,
+    "iso:country":"US",
+    "sg:address":"3201 Nunley Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 7896",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JCiG5S0Ljha4W7ffScRA9_38.327815_-81.555743@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433375,
+    "wof:geomhash":"05430d30d03a3323672c35d7700e3eb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823417841
+        }
+    ],
+    "wof:id":823417841,
+    "wof:lastmodified":1463433375,
+    "wof:name":"Jerrys Repair Service",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -81.555743,
+    38.327815,
+    -81.555743,
+    38.327815
+],
+  "geometry": {"coordinates":[-81.55574300000001,38.327815],"type":"Point"}
+}

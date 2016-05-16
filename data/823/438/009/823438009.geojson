@@ -1,0 +1,73 @@
+{
+  "id": 823438009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.667639,38.424074,-81.667639,38.424074",
+    "geom:latitude":38.424074,
+    "geom:longitude":-81.667639,
+    "iso:country":"US",
+    "sg:address":"100 Jenkins Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 5254",
+    "sg:postcode":"25312",
+    "sg:province":"WV",
+    "sg:tags":[
+        "animal",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MXVD3T0sKQ7ostrgtVR2u_38.424074_-81.667639@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434280,
+    "wof:geomhash":"1b07470c9eed74b35c297814f57a8aee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823438009
+        }
+    ],
+    "wof:id":823438009,
+    "wof:lastmodified":1463434280,
+    "wof:name":"George Jenkins",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "animal",
+        "general"
+    ]
+},
+  "bbox": [
+    -81.667639,
+    38.424074,
+    -81.667639,
+    38.424074
+],
+  "geometry": {"coordinates":[-81.66763899999999,38.424074],"type":"Point"}
+}

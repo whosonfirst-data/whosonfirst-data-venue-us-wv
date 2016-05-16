@@ -1,0 +1,71 @@
+{
+  "id": 823447131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.563097,40.612812,-80.563097,40.612812",
+    "geom:latitude":40.612812,
+    "geom:longitude":-80.563097,
+    "iso:country":"US",
+    "sg:address":"450 Carolina Ave",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 3565",
+    "sg:postcode":"26034",
+    "sg:province":"WV",
+    "sg:tags":[
+        "pie"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3icgmQmiUwW5XAWwQE5lOw_40.612812_-80.563097@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434698,
+    "wof:geomhash":"ec095b3614b3b132cdbe04d3e018f8f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823447131
+        }
+    ],
+    "wof:id":823447131,
+    "wof:lastmodified":1463434698,
+    "wof:name":"Gene's Sugar Pressed Pies",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pie"
+    ]
+},
+  "bbox": [
+    -80.563097,
+    40.612812,
+    -80.563097,
+    40.612812
+],
+  "geometry": {"coordinates":[-80.563097,40.612812],"type":"Point"}
+}

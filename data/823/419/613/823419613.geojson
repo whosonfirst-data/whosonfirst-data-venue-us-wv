@@ -1,0 +1,73 @@
+{
+  "id": 823419613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.095161,37.369456,-81.095161,37.369456",
+    "geom:latitude":37.369456,
+    "geom:longitude":-81.095161,
+    "iso:country":"US",
+    "sg:address":"907 Mercer St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 5888",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Xe35R5OA3OCkro3gEzvPO_37.369456_-81.095161@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433448,
+    "wof:geomhash":"48341f43b3b8dad73d050bc42eed1999",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823419613
+        }
+    ],
+    "wof:id":823419613,
+    "wof:lastmodified":1463433448,
+    "wof:name":"Voca Of WV Regional Office",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -81.095161,
+    37.369456,
+    -81.095161,
+    37.369456
+],
+  "geometry": {"coordinates":[-81.095161,37.369456],"type":"Point"}
+}

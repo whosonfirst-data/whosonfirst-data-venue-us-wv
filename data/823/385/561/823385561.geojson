@@ -1,0 +1,73 @@
+{
+  "id": 823385561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.65042,38.41243,-81.65042,38.41243",
+    "geom:latitude":38.41243,
+    "geom:longitude":-81.65042,
+    "iso:country":"US",
+    "sg:address":"3300 Northfield Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 8200",
+    "sg:postcode":"25312",
+    "sg:province":"WV",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Czbij1xTeGpgJIyyZqsVW_38.412430_-81.650420@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431869,
+    "wof:geomhash":"5303a14c9a4cbb4c0e513e089ff93e94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823385561
+        }
+    ],
+    "wof:id":823385561,
+    "wof:lastmodified":1463431869,
+    "wof:name":"Rodney Loftis & Son Contrctng",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.65042,
+    38.41243,
+    -81.65042,
+    38.41243
+],
+  "geometry": {"coordinates":[-81.65042,38.41243],"type":"Point"}
+}

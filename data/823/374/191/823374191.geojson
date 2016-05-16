@@ -1,0 +1,71 @@
+{
+  "id": 823374191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.147395,39.491501,-80.147395,39.491501",
+    "geom:latitude":39.491501,
+    "geom:longitude":-80.147395,
+    "iso:country":"US",
+    "sg:address":"134 Burk St",
+    "sg:city":"Monongah",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 534 5172",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ld073VB9SJIhP3KGq215g_39.491501_-80.147395@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431365,
+    "wof:geomhash":"0b46e4a0d6e943dac62f114eba419ca7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823374191
+        }
+    ],
+    "wof:id":823374191,
+    "wof:lastmodified":1463431365,
+    "wof:name":"Monongah Volunteer Fire Dept",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -80.147395,
+    39.491501,
+    -80.147395,
+    39.491501
+],
+  "geometry": {"coordinates":[-80.147395,39.491501],"type":"Point"}
+}

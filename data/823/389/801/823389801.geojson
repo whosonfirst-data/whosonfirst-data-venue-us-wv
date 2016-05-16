@@ -1,0 +1,75 @@
+{
+  "id": 823389801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.635493,38.349538,-81.635493,38.349538",
+    "geom:latitude":38.349538,
+    "geom:longitude":-81.635493,
+    "iso:country":"US",
+    "sg:address":"108 Capitol St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 3525",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xLqeMYiZyjnIdlLXcv3fo_38.349538_-81.635493@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432065,
+    "wof:geomhash":"444576a461000573a27697dd8d87af7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823389801
+        }
+    ],
+    "wof:id":823389801,
+    "wof:lastmodified":1463432065,
+    "wof:name":"Gates Charles Estate of",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -81.635493,
+    38.349538,
+    -81.635493,
+    38.349538
+],
+  "geometry": {"coordinates":[-81.635493,38.349538],"type":"Point"}
+}

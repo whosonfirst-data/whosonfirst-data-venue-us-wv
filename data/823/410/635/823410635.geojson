@@ -1,0 +1,77 @@
+{
+  "id": 823410635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.963538,39.642565,-79.963538,39.642565",
+    "geom:latitude":39.642565,
+    "geom:longitude":-79.963538,
+    "iso:country":"US",
+    "sg:address":"824 Monongahela Blvd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 291 6298",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85847767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vmPInfzVoFNQ1gCaiEX8Q_39.642565_-79.963538@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433052,
+    "wof:geomhash":"3232a218ab844d0feb6c3d98ccdebd69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85847767,
+            "region_id":85688589,
+            "venue_id":823410635
+        }
+    ],
+    "wof:id":823410635,
+    "wof:lastmodified":1463433052,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85847767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -79.963538,
+    39.642565,
+    -79.963538,
+    39.642565
+],
+  "geometry": {"coordinates":[-79.963538,39.642565],"type":"Point"}
+}

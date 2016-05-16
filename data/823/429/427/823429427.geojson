@@ -1,0 +1,71 @@
+{
+  "id": 823429427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.613392,40.269949,-80.613392,40.269949",
+    "geom:latitude":40.269949,
+    "geom:longitude":-80.613392,
+    "iso:country":"US",
+    "sg:address":"70 7th St",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 2104",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5n5QA5Fnfen9Xz0gHin9CF_40.269949_-80.613392@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433859,
+    "wof:geomhash":"9440190a8f41fafa272b0d7dbccf6a71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823429427
+        }
+    ],
+    "wof:id":823429427,
+    "wof:lastmodified":1463433859,
+    "wof:name":"City of Wellsburg",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -80.613392,
+    40.269949,
+    -80.613392,
+    40.269949
+],
+  "geometry": {"coordinates":[-80.613392,40.269949],"type":"Point"}
+}

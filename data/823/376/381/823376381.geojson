@@ -1,0 +1,73 @@
+{
+  "id": 823376381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.331741,39.279557,-80.331741,39.279557",
+    "geom:latitude":39.279557,
+    "geom:longitude":-80.331741,
+    "iso:country":"US",
+    "sg:address":"185 E Pike St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 623 2925",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Vi0MRO3Azh1yhlI2uCQxi_39.279557_-80.331741@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431478,
+    "wof:geomhash":"916edcfb54a4d4c1438bb12ebddf4d14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823376381
+        }
+    ],
+    "wof:id":823376381,
+    "wof:lastmodified":1463431478,
+    "wof:name":"New Directions",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -80.331741,
+    39.279557,
+    -80.331741,
+    39.279557
+],
+  "geometry": {"coordinates":[-80.33174099999999,39.279557],"type":"Point"}
+}

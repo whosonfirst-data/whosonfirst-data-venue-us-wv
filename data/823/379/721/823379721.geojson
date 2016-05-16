@@ -1,0 +1,71 @@
+{
+  "id": 823379721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.975275,38.447053,-81.975275,38.447053",
+    "geom:latitude":38.447053,
+    "geom:longitude":-81.975275,
+    "iso:country":"US",
+    "sg:address":"1 Morgan Ct",
+    "sg:city":"Hamlin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 824 2755",
+    "sg:postcode":"25526",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731829,
+        102083381,
+        85868321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CTVVs7PgxsXt9I9gPWCwV_38.447053_-81.975275@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431627,
+    "wof:geomhash":"aa499a9552f7168875b3fcd91daa6892",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731829,
+            "neighbourhood_id":85868321,
+            "region_id":85688589,
+            "venue_id":823379721
+        }
+    ],
+    "wof:id":823379721,
+    "wof:lastmodified":1463431627,
+    "wof:name":"G & G Builders",
+    "wof:parent_id":85868321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.975275,
+    38.447053,
+    -81.975275,
+    38.447053
+],
+  "geometry": {"coordinates":[-81.975275,38.447053],"type":"Point"}
+}

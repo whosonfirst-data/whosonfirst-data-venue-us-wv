@@ -1,0 +1,71 @@
+{
+  "id": 823440305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.963306,39.655718,-79.963306,39.655718",
+    "geom:latitude":39.655718,
+    "geom:longitude":-79.963306,
+    "iso:country":"US",
+    "sg:address":"1160 Van Voorhis Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 598 1100",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5i2Bkr4vCbPygZqKvO4Ozh_39.655718_-79.963306@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434375,
+    "wof:geomhash":"bdbdad5f34a7eee4aa9b62fcc9e63017",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823440305
+        }
+    ],
+    "wof:id":823440305,
+    "wof:lastmodified":1463434375,
+    "wof:name":"HealthSouth",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -79.963306,
+    39.655718,
+    -79.963306,
+    39.655718
+],
+  "geometry": {"coordinates":[-79.963306,39.655718],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823440533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.598632,38.328322,-81.598632,38.328322",
+    "geom:latitude":38.328322,
+    "geom:longitude":-81.598632,
+    "iso:country":"US",
+    "sg:address":"3404 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 348 6848",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51RAox47ReS2xiMsHrt0hY_38.328322_-81.598632@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434384,
+    "wof:geomhash":"c2f3f82c435eb61e67a25ce4eed2b1b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823440533
+        }
+    ],
+    "wof:id":823440533,
+    "wof:lastmodified":1463434384,
+    "wof:name":"Watt Powell Park",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -81.598632,
+    38.328322,
+    -81.598632,
+    38.328322
+],
+  "geometry": {"coordinates":[-81.59863199999999,38.328322],"type":"Point"}
+}

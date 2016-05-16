@@ -1,0 +1,71 @@
+{
+  "id": 823395071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.527853,38.405906,-81.527853,38.405906",
+    "geom:latitude":38.405906,
+    "geom:longitude":-81.527853,
+    "iso:country":"US",
+    "sg:address":"4636 Pennsylvania Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 965 3636",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "executive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58xGm3Ntm1eeGOPG49Dca4_38.405906_-81.527853@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432327,
+    "wof:geomhash":"dcdc8ca7fc47917863cfb5a7449a51d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823395071
+        }
+    ],
+    "wof:id":823395071,
+    "wof:lastmodified":1463432327,
+    "wof:name":"Elk Valley Branch Library",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "executive"
+    ]
+},
+  "bbox": [
+    -81.527853,
+    38.405906,
+    -81.527853,
+    38.405906
+],
+  "geometry": {"coordinates":[-81.52785299999999,38.405906],"type":"Point"}
+}

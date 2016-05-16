@@ -1,0 +1,74 @@
+{
+  "id": 823381675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.710647,38.331698,-81.710647,38.331698",
+    "geom:latitude":38.331698,
+    "geom:longitude":-81.710647,
+    "iso:country":"US",
+    "sg:address":"7 Dudley Farms Ln",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 746 0800",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.smithcars.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pt1Oq1os306BvRUsy6eFK_38.331698_-81.710647@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431720,
+    "wof:geomhash":"7d6cb450a8f4cfb122cc3f6f8230f83e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823381675
+        }
+    ],
+    "wof:id":823381675,
+    "wof:lastmodified":1463431720,
+    "wof:name":"Land Rover",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -81.710647,
+    38.331698,
+    -81.710647,
+    38.331698
+],
+  "geometry": {"coordinates":[-81.71064699999999,38.331698],"type":"Point"}
+}

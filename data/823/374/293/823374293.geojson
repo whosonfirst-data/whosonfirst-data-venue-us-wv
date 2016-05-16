@@ -1,0 +1,71 @@
+{
+  "id": 823374293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.339674,39.27911,-80.339674,39.27911",
+    "geom:latitude":39.27911,
+    "geom:longitude":-80.339674,
+    "iso:country":"US",
+    "sg:address":"218 Court St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 624 5479",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cajcTzzXhUrZra0UJSyvf_39.279110_-80.339674@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431369,
+    "wof:geomhash":"05c4474cee856630f8e9e3058ef7af7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823374293
+        }
+    ],
+    "wof:id":823374293,
+    "wof:lastmodified":1463431369,
+    "wof:name":"Kyle & Martin",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -80.339674,
+    39.27911,
+    -80.339674,
+    39.27911
+],
+  "geometry": {"coordinates":[-80.339674,39.27911],"type":"Point"}
+}

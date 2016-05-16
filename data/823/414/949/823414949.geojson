@@ -1,0 +1,71 @@
+{
+  "id": 823414949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.58685,38.402871,-82.58685,38.402871",
+    "geom:latitude":38.402871,
+    "geom:longitude":-82.58685,
+    "iso:country":"US",
+    "sg:address":"2100 Poplar St",
+    "sg:city":"Kenova",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 6720",
+    "sg:postcode":"25530",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731517,
+        102083365,
+        85806071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UM4UlVrqfZXq8Zu9mcH9k_38.402871_-82.586850@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433221,
+    "wof:geomhash":"095d6004534c98709001575b93c68ccb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731517,
+            "neighbourhood_id":85806071,
+            "region_id":85688589,
+            "venue_id":823414949
+        }
+    ],
+    "wof:id":823414949,
+    "wof:lastmodified":1463433221,
+    "wof:name":"Jamestown Apartments",
+    "wof:parent_id":85806071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -82.58685,
+    38.402871,
+    -82.58685,
+    38.402871
+],
+  "geometry": {"coordinates":[-82.58685,38.402871],"type":"Point"}
+}

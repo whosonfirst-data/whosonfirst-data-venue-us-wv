@@ -1,0 +1,74 @@
+{
+  "id": 823453159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.139012,37.999152,-81.139012,37.999152",
+    "geom:latitude":37.999152,
+    "geom:longitude":-81.139012,
+    "iso:country":"US",
+    "sg:address":"100 S Center St",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/plateau/140763-acapulco/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 574 0112",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Du7t3eapJUVtSIlvkVup5_37.999152_-81.139012@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434936,
+    "wof:geomhash":"4734a44b576c95538ef246651cc86460",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823453159
+        }
+    ],
+    "wof:id":823453159,
+    "wof:lastmodified":1463434936,
+    "wof:name":"Acapulco",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ]
+},
+  "bbox": [
+    -81.139012,
+    37.999152,
+    -81.139012,
+    37.999152
+],
+  "geometry": {"coordinates":[-81.13901199999999,37.999152],"type":"Point"}
+}

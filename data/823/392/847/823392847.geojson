@@ -1,0 +1,71 @@
+{
+  "id": 823392847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.252667,39.283394,-80.252667,39.283394",
+    "geom:latitude":39.283394,
+    "geom:longitude":-80.252667,
+    "iso:country":"US",
+    "sg:address":"105 Doctors Dr",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 5210",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3W0WKfM8XYYxBroW2sgi2P_39.283394_-80.252667@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432219,
+    "wof:geomhash":"bb9a3d105df62d4dd09b99500ca9476c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823392847
+        }
+    ],
+    "wof:id":823392847,
+    "wof:lastmodified":1463432219,
+    "wof:name":"Louis C Palmer MD",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -80.252667,
+    39.283394,
+    -80.252667,
+    39.283394
+],
+  "geometry": {"coordinates":[-80.252667,39.283394],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823368263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.96605,39.634776,-79.96605,39.634776",
+    "geom:latitude":39.634776,
+    "geom:longitude":-79.96605,
+    "iso:country":"US",
+    "sg:address":"11 Cottage St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 0840",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19cbqWH1oD2Lo6nqP6CpX1_39.634776_-79.966050@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431108,
+    "wof:geomhash":"936ac21b36a78ac0c5e68dd6ca4043b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851489,
+            "region_id":85688589,
+            "venue_id":823368263
+        }
+    ],
+    "wof:id":823368263,
+    "wof:lastmodified":1463431108,
+    "wof:name":"Westover Volunteer Fire Dept",
+    "wof:parent_id":85851489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -79.96605,
+    39.634776,
+    -79.96605,
+    39.634776
+],
+  "geometry": {"coordinates":[-79.96605,39.634776],"type":"Point"}
+}

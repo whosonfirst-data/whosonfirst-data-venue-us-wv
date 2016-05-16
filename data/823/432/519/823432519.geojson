@@ -1,0 +1,73 @@
+{
+  "id": 823432519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.526044,38.396154,-82.526044,38.396154",
+    "geom:latitude":38.396154,
+    "geom:longitude":-82.526044,
+    "iso:country":"US",
+    "sg:address":"4548 James River Rd",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 429 8302",
+    "sg:postcode":"25704",
+    "sg:province":"WV",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083365,
+        85857035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3f2IQkCLmdCdVVta1RdyjI_38.396154_-82.526044@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433999,
+    "wof:geomhash":"a54d8525fad909d354707d9b303458a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731553,
+            "neighbourhood_id":85857035,
+            "region_id":85688589,
+            "venue_id":823432519
+        }
+    ],
+    "wof:id":823432519,
+    "wof:lastmodified":1463433999,
+    "wof:name":"Grandads Auto Sales",
+    "wof:parent_id":85857035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -82.526044,
+    38.396154,
+    -82.526044,
+    38.396154
+],
+  "geometry": {"coordinates":[-82.526044,38.396154],"type":"Point"}
+}

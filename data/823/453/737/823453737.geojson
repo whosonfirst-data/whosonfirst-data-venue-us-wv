@@ -1,0 +1,78 @@
+{
+  "id": 823453737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.956535,39.631902,-79.956535,39.631902",
+    "geom:latitude":39.631902,
+    "geom:longitude":-79.956535,
+    "iso:country":"US",
+    "sg:address":"1370 University Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/central/262959-vocelli-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 6700",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "italian",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1S8BZVrmdtusXYbJIuql6Q_39.631902_-79.956535@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434959,
+    "wof:geomhash":"040fa574672b558f519fb849e9f998e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851489,
+            "region_id":85688589,
+            "venue_id":823453737
+        }
+    ],
+    "wof:id":823453737,
+    "wof:lastmodified":1463434959,
+    "wof:name":"Vocelli Pizza",
+    "wof:parent_id":85851489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "italian",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -79.956535,
+    39.631902,
+    -79.956535,
+    39.631902
+],
+  "geometry": {"coordinates":[-79.956535,39.631902],"type":"Point"}
+}

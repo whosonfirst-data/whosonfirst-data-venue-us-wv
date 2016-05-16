@@ -1,0 +1,76 @@
+{
+  "id": 823452551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.711625,38.320767,-81.711625,38.320767",
+    "geom:latitude":38.320767,
+    "geom:longitude":-81.711625,
+    "iso:country":"US",
+    "sg:address":"2805 Mountaineer Blvd",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/davis-creek/195884-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 746 0148",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OqExORwY1Adbo9RhAl59o_38.320767_-81.711625@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434911,
+    "wof:geomhash":"f82521a48b8ea306fe537a55d3add33b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823452551
+        }
+    ],
+    "wof:id":823452551,
+    "wof:lastmodified":1463434911,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -81.711625,
+    38.320767,
+    -81.711625,
+    38.320767
+],
+  "geometry": {"coordinates":[-81.711625,38.320767],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823425065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.949669,39.66498,-79.949669,39.66498",
+    "geom:latitude":39.66498,
+    "geom:longitude":-79.949669,
+    "iso:country":"US",
+    "sg:address":"900 Cottonwood St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 1800",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cgelLdpx9r9DdJWLZx0iB_39.664980_-79.949669@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433662,
+    "wof:geomhash":"17f68d8155c3a41a2581f5962c0c3862",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823425065
+        }
+    ],
+    "wof:id":823425065,
+    "wof:lastmodified":1463433662,
+    "wof:name":"Casdorph Piano Svc",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -79.949669,
+    39.66498,
+    -79.949669,
+    39.66498
+],
+  "geometry": {"coordinates":[-79.949669,39.66498],"type":"Point"}
+}

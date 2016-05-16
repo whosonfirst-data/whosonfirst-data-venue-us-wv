@@ -1,0 +1,71 @@
+{
+  "id": 823369775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.857226,39.655163,-80.857226,39.655163",
+    "geom:latitude":39.655163,
+    "geom:longitude":-80.857226,
+    "iso:country":"US",
+    "sg:address":"1020 3rd St",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 5931",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rDhvaRr0Ajnr9MDa5t4hy_39.655163_-80.857226@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431160,
+    "wof:geomhash":"db7604a6a465dfde30a071bfb2a776d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823369775
+        }
+    ],
+    "wof:id":823369775,
+    "wof:lastmodified":1463431160,
+    "wof:name":"New Martinsville Ambulance Sqd",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -80.857226,
+    39.655163,
+    -80.857226,
+    39.655163
+],
+  "geometry": {"coordinates":[-80.857226,39.655163],"type":"Point"}
+}

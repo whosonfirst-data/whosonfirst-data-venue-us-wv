@@ -1,0 +1,68 @@
+{
+  "id": 823425571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.630183,40.052284,-80.630183,40.052284",
+    "geom:latitude":40.052284,
+    "geom:longitude":-80.630183,
+    "iso:country":"US",
+    "sg:address":"175 National Rd",
+    "sg:city":"Triadelphia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 547 5125",
+    "sg:postcode":"26059",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85840717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3naBtOsdp6RD0PURiYSQmo_40.052284_-80.630183@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433681,
+    "wof:geomhash":"6717e88115539e0dad2d110be0923f7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85840717,
+            "region_id":85688589,
+            "venue_id":823425571
+        }
+    ],
+    "wof:id":823425571,
+    "wof:lastmodified":1463433681,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85840717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.630183,
+    40.052284,
+    -80.630183,
+    40.052284
+],
+  "geometry": {"coordinates":[-80.630183,40.052284],"type":"Point"}
+}

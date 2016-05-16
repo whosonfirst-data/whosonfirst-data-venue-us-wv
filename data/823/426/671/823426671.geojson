@@ -1,0 +1,75 @@
+{
+  "id": 823426671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.975062,39.661916,-79.975062,39.661916",
+    "geom:latitude":39.661916,
+    "geom:longitude":-79.975062,
+    "iso:country":"US",
+    "sg:address":"3366 Collins Ferry Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 7871",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "house",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tT46toE5OMtLMrJ87B6AQ_39.661916_-79.975062@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433734,
+    "wof:geomhash":"eac01b6ee46096c959e4a8c9c176408c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851419,
+            "region_id":85688589,
+            "venue_id":823426671
+        }
+    ],
+    "wof:id":823426671,
+    "wof:lastmodified":1463433734,
+    "wof:name":"American Maid",
+    "wof:parent_id":85851419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -79.975062,
+    39.661916,
+    -79.975062,
+    39.661916
+],
+  "geometry": {"coordinates":[-79.97506199999999,39.661916],"type":"Point"}
+}

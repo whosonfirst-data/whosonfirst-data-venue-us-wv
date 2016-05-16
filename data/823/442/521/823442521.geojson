@@ -1,0 +1,71 @@
+{
+  "id": 823442521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.118896,39.480976,-80.118896,39.480976",
+    "geom:latitude":39.480976,
+    "geom:longitude":-80.118896,
+    "iso:country":"US",
+    "sg:address":"1207 Morgantown Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 7002",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xQa0cEeVj1uIeVVKdDEhM_39.480976_-80.118896@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434471,
+    "wof:geomhash":"f8e255ca175ae6e332106af8b0d7eb79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823442521
+        }
+    ],
+    "wof:id":823442521,
+    "wof:lastmodified":1463434471,
+    "wof:name":"Ronald J Croteau DDS",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -80.118896,
+    39.480976,
+    -80.118896,
+    39.480976
+],
+  "geometry": {"coordinates":[-80.11889600000001,39.480976],"type":"Point"}
+}

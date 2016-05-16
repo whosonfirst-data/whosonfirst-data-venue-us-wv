@@ -1,0 +1,71 @@
+{
+  "id": 823448589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.463523,39.040405,-80.463523,39.040405",
+    "geom:latitude":39.040405,
+    "geom:longitude":-80.463523,
+    "iso:country":"US",
+    "sg:address":"345 Center St",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 269 2608",
+    "sg:postcode":"26452",
+    "sg:province":"WV",
+    "sg:tags":[
+        "chambers",
+        "commerce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85833241,
+        102083339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_773G6Bdlvvcoo4a2YbHZ4t_39.040405_-80.463523@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434762,
+    "wof:geomhash":"c3ccdeca65e895f5fa21b46fd8e18297",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083339,
+            "neighbourhood_id":85833241,
+            "region_id":85688589,
+            "venue_id":823448589
+        }
+    ],
+    "wof:id":823448589,
+    "wof:lastmodified":1463434762,
+    "wof:name":"Lewis County Chamber Of Commer",
+    "wof:parent_id":85833241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chambers",
+        "commerce"
+    ]
+},
+  "bbox": [
+    -80.463523,
+    39.040405,
+    -80.463523,
+    39.040405
+],
+  "geometry": {"coordinates":[-80.463523,39.040405],"type":"Point"}
+}

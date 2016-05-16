@@ -1,0 +1,75 @@
+{
+  "id": 823366839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.076238,37.366361,-81.076238,37.366361",
+    "geom:latitude":37.366361,
+    "geom:longitude":-81.076238,
+    "iso:country":"US",
+    "sg:address":"725 Rogers St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 2826",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FHhQhDrdTXrEWhTgwEn0R_37.366361_-81.076238@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431051,
+    "wof:geomhash":"aa6da76d8580b159a9f091c2f2abcc0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823366839
+        }
+    ],
+    "wof:id":823366839,
+    "wof:lastmodified":1463431051,
+    "wof:name":"Barker's Muffler City",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -81.076238,
+    37.366361,
+    -81.076238,
+    37.366361
+],
+  "geometry": {"coordinates":[-81.076238,37.366361],"type":"Point"}
+}

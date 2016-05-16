@@ -1,0 +1,92 @@
+{
+  "id": 823457365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.97034,39.657318,-79.97034,39.657318",
+    "geom:latitude":39.657318,
+    "geom:longitude":-79.97034,
+    "iso:country":"US",
+    "sg:address":"511 Burroughs St Ste 101 - 106",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 8000",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "pediatrics",
+        "surgeon",
+        "surgeons"
+    ],
+    "sg:website":"http://www.cardinalpediatrics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bG3rS7r5NGxbq0mqB78iA_39.657318_-79.970340@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435156,
+    "wof:geomhash":"7b202619a7295b35eab0f60ced377977",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851419,
+            "region_id":85688589,
+            "venue_id":823457365
+        }
+    ],
+    "wof:id":823457365,
+    "wof:lastmodified":1463435156,
+    "wof:name":"Cardinal Pediatrics PLLC",
+    "wof:parent_id":85851419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "pediatrics",
+        "surgeon",
+        "surgeons"
+    ]
+},
+  "bbox": [
+    -79.97034,
+    39.657318,
+    -79.97034,
+    39.657318
+],
+  "geometry": {"coordinates":[-79.97033999999999,39.657318],"type":"Point"}
+}

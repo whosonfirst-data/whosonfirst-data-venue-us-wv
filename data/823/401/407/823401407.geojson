@@ -1,0 +1,73 @@
+{
+  "id": 823401407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.170267,37.344975,-81.170267,37.344975",
+    "geom:latitude":37.344975,
+    "geom:longitude":-81.170267,
+    "iso:country":"US",
+    "sg:address":"177 Hawthorn Ln",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 431 3422",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BOyX7BGYvZPlfM5XwgeKU_37.344975_-81.170267@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432647,
+    "wof:geomhash":"d0affcfb69487f8fbd78786dffde1a6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823401407
+        }
+    ],
+    "wof:id":823401407,
+    "wof:lastmodified":1463432647,
+    "wof:name":"GMAC Mortgage Corp",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -81.170267,
+    37.344975,
+    -81.170267,
+    37.344975
+],
+  "geometry": {"coordinates":[-81.170267,37.344975],"type":"Point"}
+}

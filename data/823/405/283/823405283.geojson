@@ -1,0 +1,71 @@
+{
+  "id": 823405283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.970433,39.584083,-79.970433,39.584083",
+    "geom:latitude":39.584083,
+    "geom:longitude":-79.970433,
+    "iso:country":"US",
+    "sg:address":"330 Scott Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 594 1035",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RYkhRV4CGXis6OSCW4XVa_39.584083_-79.970433@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432823,
+    "wof:geomhash":"4528843cfaaaaad4f5242986c513c3b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823405283
+        }
+    ],
+    "wof:id":823405283,
+    "wof:lastmodified":1463432823,
+    "wof:name":"Elm Grove Properties",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -79.970433,
+    39.584083,
+    -79.970433,
+    39.584083
+],
+  "geometry": {"coordinates":[-79.970433,39.584083],"type":"Point"}
+}

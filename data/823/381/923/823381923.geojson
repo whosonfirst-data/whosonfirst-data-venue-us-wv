@@ -1,0 +1,73 @@
+{
+  "id": 823381923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.533559,38.405297,-81.533559,38.405297",
+    "geom:latitude":38.405297,
+    "geom:longitude":-81.533559,
+    "iso:country":"US",
+    "sg:address":"4510 Pennsylvania Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 965 7461",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "preparation",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gD7zpdrCuluiAzaXnSL7S_38.405297_-81.533559@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431735,
+    "wof:geomhash":"51ed90468c22e2f463f51f42089f3826",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823381923
+        }
+    ],
+    "wof:id":823381923,
+    "wof:lastmodified":1463431735,
+    "wof:name":"304 965 7461",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -81.533559,
+    38.405297,
+    -81.533559,
+    38.405297
+],
+  "geometry": {"coordinates":[-81.533559,38.405297],"type":"Point"}
+}

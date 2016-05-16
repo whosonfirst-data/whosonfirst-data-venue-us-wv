@@ -1,0 +1,103 @@
+{
+  "id": 823454437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.646133,38.36327,-81.646133,38.36327",
+    "geom:latitude":38.36327,
+    "geom:longitude":-81.646133,
+    "iso:country":"US",
+    "sg:address":"500 Delaware Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 6995",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "super",
+        "product",
+        "health",
+        "diet"
+    ],
+    "sg:website":"http://www.scottsfoods.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6B4EzwXG8OWtu0OZ0ARy60_38.363270_-81.646133@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435029,
+    "wof:geomhash":"3e9035d125fda8598e74d2978a6fc762",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823454437
+        }
+    ],
+    "wof:id":823454437,
+    "wof:lastmodified":1463435029,
+    "wof:name":"Kroger",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "super",
+        "product",
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -81.646133,
+    38.36327,
+    -81.646133,
+    38.36327
+],
+  "geometry": {"coordinates":[-81.64613300000001,38.36327],"type":"Point"}
+}

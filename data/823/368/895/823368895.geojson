@@ -1,0 +1,73 @@
+{
+  "id": 823368895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.582472,38.397627,-82.582472,38.397627",
+    "geom:latitude":38.397627,
+    "geom:longitude":-82.582472,
+    "iso:country":"US",
+    "sg:address":"1609 Maple St",
+    "sg:city":"Kenova",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 4671",
+    "sg:postcode":"25530",
+    "sg:province":"WV",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731517,
+        102083365,
+        85806071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bEWfWMP28j0WxZ6ESBFUM_38.397627_-82.582472@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431129,
+    "wof:geomhash":"95da6293d905746a26f58f8fb9fb1bed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731517,
+            "neighbourhood_id":85806071,
+            "region_id":85688589,
+            "venue_id":823368895
+        }
+    ],
+    "wof:id":823368895,
+    "wof:lastmodified":1463431129,
+    "wof:name":"J & G Plumbing Heating & AC",
+    "wof:parent_id":85806071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.582472,
+    38.397627,
+    -82.582472,
+    38.397627
+],
+  "geometry": {"coordinates":[-82.582472,38.397627],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 823452369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.471056,38.446019,-81.471056,38.446019",
+    "geom:latitude":38.446019,
+    "geom:longitude":-81.471056,
+    "iso:country":"US",
+    "sg:address":"211 Crossings Mall",
+    "sg:city":"Elkview",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/blue-creek/71705-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 965 1700",
+    "sg:postcode":"25071",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Xdw5OMnRHjhsGhudkcvS4_38.446019_-81.471056@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434905,
+    "wof:geomhash":"0a3caad0fe55ddab785bde5202f10083",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823452369
+        }
+    ],
+    "wof:id":823452369,
+    "wof:lastmodified":1463434905,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -81.471056,
+    38.446019,
+    -81.471056,
+    38.446019
+],
+  "geometry": {"coordinates":[-81.471056,38.446019],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823369307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.142775,39.484871,-80.142775,39.484871",
+    "geom:latitude":39.484871,
+    "geom:longitude":-80.142775,
+    "iso:country":"US",
+    "sg:address":"325 Adams St",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 2100",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05EpIqLXq2jyWla69sj0n1_39.484871_-80.142775@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431144,
+    "wof:geomhash":"dfd1d4ca57cd933dd6da7eb4501550d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823369307
+        }
+    ],
+    "wof:id":823369307,
+    "wof:lastmodified":1463431144,
+    "wof:name":"Duck Soup Books & Toys",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -80.142775,
+    39.484871,
+    -80.142775,
+    39.484871
+],
+  "geometry": {"coordinates":[-80.142775,39.484871],"type":"Point"}
+}

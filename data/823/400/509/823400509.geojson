@@ -1,0 +1,73 @@
+{
+  "id": 823400509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.478913,38.243099,-81.478913,38.243099",
+    "geom:latitude":38.243099,
+    "geom:longitude":-81.478913,
+    "iso:country":"US",
+    "sg:address":"465 Witcher Creek Rd",
+    "sg:city":"Belle",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 2921",
+    "sg:postcode":"25015",
+    "sg:province":"WV",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vfqPiGzB7gK4GmxJmBSig_38.243099_-81.478913@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432607,
+    "wof:geomhash":"1b80893501e0d7030ee904f6ab23121b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823400509
+        }
+    ],
+    "wof:id":823400509,
+    "wof:lastmodified":1463432607,
+    "wof:name":"Hancock Garbage Svc",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -81.478913,
+    38.243099,
+    -81.478913,
+    38.243099
+],
+  "geometry": {"coordinates":[-81.47891300000001,38.243099],"type":"Point"}
+}

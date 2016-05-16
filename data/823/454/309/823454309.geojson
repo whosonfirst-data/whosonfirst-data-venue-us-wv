@@ -1,0 +1,74 @@
+{
+  "id": 823454309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.07973,37.363747,-81.07973,37.363747",
+    "geom:latitude":37.363747,
+    "geom:longitude":-81.07973,
+    "iso:country":"US",
+    "sg:address":"102C Locust St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 6000",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "household",
+        "commercial"
+    ],
+    "sg:website":"http://www.bandbministorage.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0K0ujjq8LY6JU0NPqLlaEU_37.363747_-81.079730@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435015,
+    "wof:geomhash":"4c678987782f4c624281fcb572c0f897",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823454309
+        }
+    ],
+    "wof:id":823454309,
+    "wof:lastmodified":1463435015,
+    "wof:name":"B & B Mini Storage",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "household",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -81.07973,
+    37.363747,
+    -81.07973,
+    37.363747
+],
+  "geometry": {"coordinates":[-81.07973,37.363747],"type":"Point"}
+}

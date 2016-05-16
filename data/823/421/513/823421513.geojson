@@ -1,0 +1,73 @@
+{
+  "id": 823421513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.562363,38.35704,-82.562363,38.35704",
+    "geom:latitude":38.35704,
+    "geom:longitude":-82.562363,
+    "iso:country":"US",
+    "sg:address":"2182 Rte 75",
+    "sg:city":"Kenova",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 1632",
+    "sg:postcode":"25530",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083365,
+        85857035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DwUPkeRY5M7JGS1rXVYC0_38.357040_-82.562363@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433524,
+    "wof:geomhash":"10323c840f9838bff3263cf98d81bf9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731553,
+            "neighbourhood_id":85857035,
+            "region_id":85688589,
+            "venue_id":823421513
+        }
+    ],
+    "wof:id":823421513,
+    "wof:lastmodified":1463433524,
+    "wof:name":"Hatzel Buehler Inc",
+    "wof:parent_id":85857035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.562363,
+    38.35704,
+    -82.562363,
+    38.35704
+],
+  "geometry": {"coordinates":[-82.562363,38.35704],"type":"Point"}
+}

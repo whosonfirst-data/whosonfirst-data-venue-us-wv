@@ -1,0 +1,83 @@
+{
+  "id": 823402511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.873159,38.536234,-81.873159,38.536234",
+    "geom:latitude":38.536234,
+    "geom:longitude":-81.873159,
+    "iso:country":"US",
+    "sg:address":"10 Hampton Rd",
+    "sg:city":"Winfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 4020",
+    "sg:postcode":"25213",
+    "sg:province":"WV",
+    "sg:tags":[
+        "elevator",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868323,
+        102083381,
+        102191575,
+        101731321,
+        85868327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZOhw80EiFQjsXhTc96Tqr_38.536234_-81.873159@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432693,
+    "wof:geomhash":"89331e855e8ef01dbcba268c663eff74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "neighbourhood_id":85868323,
+            "region_id":85688589,
+            "venue_id":823402511
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731321,
+            "neighbourhood_id":85868327,
+            "region_id":85688589,
+            "venue_id":823402511
+        }
+    ],
+    "wof:id":823402511,
+    "wof:lastmodified":1463432693,
+    "wof:name":"Harmon Elevator Company Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elevator",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.873159,
+    38.536234,
+    -81.873159,
+    38.536234
+],
+  "geometry": {"coordinates":[-81.873159,38.536234],"type":"Point"}
+}

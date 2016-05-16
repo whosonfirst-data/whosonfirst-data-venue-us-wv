@@ -1,0 +1,72 @@
+{
+  "id": 823456095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.890519,37.676083,-80.890519,37.676083",
+    "geom:latitude":37.676083,
+    "geom:longitude":-80.890519,
+    "iso:country":"US",
+    "sg:address":"200 Front St",
+    "sg:city":"Hinton",
+    "sg:classifiers":[
+        {
+            "category":"Train Station",
+            "subcategory":"Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 466 2174",
+    "sg:postcode":"25951",
+    "sg:province":"WV",
+    "sg:tags":[
+        "railroad"
+    ],
+    "sg:website":"http://www.csxt.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731641,
+        102083407,
+        85804037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UYKz3yXjYj0YUzXMmoB7b_37.676083_-80.890519@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435099,
+    "wof:geomhash":"2c222d936e99c9ea8a0437b1b07b98db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083407,
+            "locality_id":101731641,
+            "neighbourhood_id":85804037,
+            "region_id":85688589,
+            "venue_id":823456095
+        }
+    ],
+    "wof:id":823456095,
+    "wof:lastmodified":1463435099,
+    "wof:name":"Csx",
+    "wof:parent_id":85804037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "railroad"
+    ]
+},
+  "bbox": [
+    -80.890519,
+    37.676083,
+    -80.890519,
+    37.676083
+],
+  "geometry": {"coordinates":[-80.890519,37.676083],"type":"Point"}
+}

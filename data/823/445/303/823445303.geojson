@@ -1,0 +1,71 @@
+{
+  "id": 823445303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.721909,38.392428,-81.721909,38.392428",
+    "geom:latitude":38.392428,
+    "geom:longitude":-81.721909,
+    "iso:country":"US",
+    "sg:address":"4402 Washington St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 0090",
+    "sg:postcode":"25313",
+    "sg:province":"WV",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26FPytRftMKrk7Mprckd63_38.392428_-81.721909@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434606,
+    "wof:geomhash":"3e55994af79516113ee257281d8b1d47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823445303
+        }
+    ],
+    "wof:id":823445303,
+    "wof:lastmodified":1463434606,
+    "wof:name":"Bens Transmission",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -81.721909,
+    38.392428,
+    -81.721909,
+    38.392428
+],
+  "geometry": {"coordinates":[-81.721909,38.392428],"type":"Point"}
+}

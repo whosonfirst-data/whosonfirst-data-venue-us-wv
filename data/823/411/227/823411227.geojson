@@ -1,0 +1,71 @@
+{
+  "id": 823411227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.095982,38.056824,-81.095982,38.056824",
+    "geom:latitude":38.056824,
+    "geom:longitude":-81.095982,
+    "iso:country":"US",
+    "sg:address":"202 Fayette Ave",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 574 1658",
+    "sg:postcode":"25840",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1c3PbGGSS7ObW0TUDaMP2W_38.056824_-81.095982@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433075,
+    "wof:geomhash":"ccf0d0a0e12aeb3f5bd76e8f667afc0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823411227
+        }
+    ],
+    "wof:id":823411227,
+    "wof:lastmodified":1463433075,
+    "wof:name":"Kw Electric Inc",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.095982,
+    38.056824,
+    -81.095982,
+    38.056824
+],
+  "geometry": {"coordinates":[-81.09598200000001,38.056824],"type":"Point"}
+}

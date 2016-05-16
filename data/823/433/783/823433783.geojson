@@ -1,0 +1,73 @@
+{
+  "id": 823433783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.862546,39.640337,-80.862546,39.640337",
+    "geom:latitude":39.640337,
+    "geom:longitude":-80.862546,
+    "iso:country":"US",
+    "sg:address":"249 Clark St",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 0902",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "rehab",
+        "government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1l8VMbpdIIfrNjRYSAW2LB_39.640337_-80.862546@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434053,
+    "wof:geomhash":"633242edc3313396c037587f236591e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823433783
+        }
+    ],
+    "wof:id":823433783,
+    "wof:lastmodified":1463434053,
+    "wof:name":"Employment Security Div",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehab",
+        "government"
+    ]
+},
+  "bbox": [
+    -80.862546,
+    39.640337,
+    -80.862546,
+    39.640337
+],
+  "geometry": {"coordinates":[-80.86254599999999,39.640337],"type":"Point"}
+}

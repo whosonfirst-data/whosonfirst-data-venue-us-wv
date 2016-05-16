@@ -1,0 +1,74 @@
+{
+  "id": 823453517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.271553,39.315681,-80.271553,39.315681",
+    "geom:latitude":39.315681,
+    "geom:longitude":-80.271553,
+    "iso:country":"US",
+    "sg:address":"3000 Meadowbrook Mall",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/bridgeport/97856-outback-steakhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 8915",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85831189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RG48gWhZw0TemBQFMdmUi_39.315681_-80.271553@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434950,
+    "wof:geomhash":"850c09ae3190dfcedb845ed5292bb677",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85831189,
+            "region_id":85688589,
+            "venue_id":823453517
+        }
+    ],
+    "wof:id":823453517,
+    "wof:lastmodified":1463434950,
+    "wof:name":"Outback Steakhouse",
+    "wof:parent_id":85831189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -80.271553,
+    39.315681,
+    -80.271553,
+    39.315681
+],
+  "geometry": {"coordinates":[-80.271553,39.315681],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823417409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.127102,37.981453,-81.127102,37.981453",
+    "geom:latitude":37.981453,
+    "geom:longitude":-81.127102,
+    "iso:country":"US",
+    "sg:address":"564 Terry Ave",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 465 5295",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YKvts7WhHguoF9wSrIGPS_37.981453_-81.127102@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433357,
+    "wof:geomhash":"6d93a1c4beac5586153204bab757a462",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823417409
+        }
+    ],
+    "wof:id":823417409,
+    "wof:lastmodified":1463433357,
+    "wof:name":"Charlie's Body Shop",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -81.127102,
+    37.981453,
+    -81.127102,
+    37.981453
+],
+  "geometry": {"coordinates":[-81.12710199999999,37.981453],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 823456327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.642956,40.049364,-80.642956,40.049364",
+    "geom:latitude":40.049364,
+    "geom:longitude":-80.642956,
+    "iso:country":"US",
+    "sg:address":"27 Peters Run Rd",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 242 7447",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85840717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qn1eB6wy5eu8KoCzCxhv3_40.049364_-80.642956@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435108,
+    "wof:geomhash":"e56973bbffaae768d40b2168e9d903f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85840717,
+            "region_id":85688589,
+            "venue_id":823456327
+        }
+    ],
+    "wof:id":823456327,
+    "wof:lastmodified":1463435108,
+    "wof:name":"Elm Grove Collision Center",
+    "wof:parent_id":85840717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [
+    -80.642956,
+    40.049364,
+    -80.642956,
+    40.049364
+],
+  "geometry": {"coordinates":[-80.642956,40.049364],"type":"Point"}
+}

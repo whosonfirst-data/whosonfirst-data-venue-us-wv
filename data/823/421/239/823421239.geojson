@@ -1,0 +1,71 @@
+{
+  "id": 823421239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.640179,38.368002,-81.640179,38.368002",
+    "geom:latitude":38.368002,
+    "geom:longitude":-81.640179,
+    "iso:country":"US",
+    "sg:address":"522 Daugherty St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 346 2112",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yx4uJF6IEMfmdLo1uI29w_38.368002_-81.640179@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433515,
+    "wof:geomhash":"8fa0e46d82dcf2c3d1409b141de11d2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823421239
+        }
+    ],
+    "wof:id":823421239,
+    "wof:lastmodified":1463433515,
+    "wof:name":"Church Of Christ",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.640179,
+    38.368002,
+    -81.640179,
+    38.368002
+],
+  "geometry": {"coordinates":[-81.640179,38.368002],"type":"Point"}
+}

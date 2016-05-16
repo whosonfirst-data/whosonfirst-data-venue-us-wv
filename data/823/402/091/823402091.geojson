@@ -1,0 +1,73 @@
+{
+  "id": 823402091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.621115,38.34067,-81.621115,38.34067",
+    "geom:latitude":38.34067,
+    "geom:longitude":-81.621115,
+    "iso:country":"US",
+    "sg:address":"1511 Quarrier St E",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 1511",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cruise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85850023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5N9VNqU0bThUO4LLTI1Zsj_38.340670_-81.621115@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432674,
+    "wof:geomhash":"6c726d97486410614cfe8fe618ce016d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85850023,
+            "region_id":85688589,
+            "venue_id":823402091
+        }
+    ],
+    "wof:id":823402091,
+    "wof:lastmodified":1463432674,
+    "wof:name":"Destination Cruise",
+    "wof:parent_id":85850023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cruise"
+    ]
+},
+  "bbox": [
+    -81.621115,
+    38.34067,
+    -81.621115,
+    38.34067
+],
+  "geometry": {"coordinates":[-81.621115,38.34067],"type":"Point"}
+}

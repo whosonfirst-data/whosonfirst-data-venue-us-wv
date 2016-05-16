@@ -1,0 +1,71 @@
+{
+  "id": 823389483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.144015,39.484393,-80.144015,39.484393",
+    "geom:latitude":39.484393,
+    "geom:longitude":-80.144015,
+    "iso:country":"US",
+    "sg:address":"109 Adams St",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 0428",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PgqwuWtv1DecNBap7jvXB_39.484393_-80.144015@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432053,
+    "wof:geomhash":"6621cc6a774bde92f0551af64c7a5c5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823389483
+        }
+    ],
+    "wof:id":823389483,
+    "wof:lastmodified":1463432053,
+    "wof:name":"WV State Ofc Complex-Bldg Mntc",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -80.144015,
+    39.484393,
+    -80.144015,
+    39.484393
+],
+  "geometry": {"coordinates":[-80.144015,39.484393],"type":"Point"}
+}

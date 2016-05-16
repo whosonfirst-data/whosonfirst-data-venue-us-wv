@@ -1,0 +1,71 @@
+{
+  "id": 823387175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.505808,38.327999,-81.505808,38.327999",
+    "geom:latitude":38.327999,
+    "geom:longitude":-81.505808,
+    "iso:country":"US",
+    "sg:address":"753 Campbells Creek Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 7075",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1E0g8nLtyM0b83rXswkHF4_38.327999_-81.505808@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431935,
+    "wof:geomhash":"0c02344d7df8dd50d2ac21eb24263efb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823387175
+        }
+    ],
+    "wof:id":823387175,
+    "wof:lastmodified":1463431935,
+    "wof:name":"Morton's Trucking & Excavating",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -81.505808,
+    38.327999,
+    -81.505808,
+    38.327999
+],
+  "geometry": {"coordinates":[-81.505808,38.327999],"type":"Point"}
+}

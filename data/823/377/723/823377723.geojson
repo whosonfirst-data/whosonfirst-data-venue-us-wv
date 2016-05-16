@@ -1,0 +1,73 @@
+{
+  "id": 823377723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.967173,39.538108,-79.967173,39.538108",
+    "geom:latitude":39.538108,
+    "geom:longitude":-79.967173,
+    "iso:country":"US",
+    "sg:address":"882 Goshen Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 291 0913",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GBdkEBDGCLBPk0xxwMic6_39.538108_-79.967173@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431544,
+    "wof:geomhash":"cf1609e44051297ad531c01219727c3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823377723
+        }
+    ],
+    "wof:id":823377723,
+    "wof:lastmodified":1463431544,
+    "wof:name":"Abigold",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -79.967173,
+    39.538108,
+    -79.967173,
+    39.538108
+],
+  "geometry": {"coordinates":[-79.967173,39.538108],"type":"Point"}
+}

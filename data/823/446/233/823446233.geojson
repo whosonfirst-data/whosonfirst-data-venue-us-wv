@@ -1,0 +1,71 @@
+{
+  "id": 823446233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.99524,39.51364,-79.99524,39.51364",
+    "geom:latitude":39.51364,
+    "geom:longitude":-79.99524,
+    "iso:country":"US",
+    "sg:address":"517 Toms Run Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 1687",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vrHRGfrt7lAr9lvA8ewXE_39.513640_-79.995240@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434656,
+    "wof:geomhash":"e95cd8cfcf2e3ccc9d10dfc18d541463",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823446233
+        }
+    ],
+    "wof:id":823446233,
+    "wof:lastmodified":1463434656,
+    "wof:name":"Star Electrical Svc",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -79.99524,
+    39.51364,
+    -79.99524,
+    39.51364
+],
+  "geometry": {"coordinates":[-79.99524,39.51364],"type":"Point"}
+}

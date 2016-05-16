@@ -1,0 +1,68 @@
+{
+  "id": 823378357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.155273,37.780575,-81.155273,37.780575",
+    "geom:latitude":37.780575,
+    "geom:longitude":-81.155273,
+    "iso:country":"US",
+    "sg:address":"410 Grey Flats Rd",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 256 4616",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EHbr5DCslfIgLelcrjQpg_37.780575_-81.155273@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431572,
+    "wof:geomhash":"908e5864196a20dee625c89fcb876fd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823378357
+        }
+    ],
+    "wof:id":823378357,
+    "wof:lastmodified":1463431572,
+    "wof:name":"Beckley Stratton Junior High",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.155273,
+    37.780575,
+    -81.155273,
+    37.780575
+],
+  "geometry": {"coordinates":[-81.15527299999999,37.780575],"type":"Point"}
+}

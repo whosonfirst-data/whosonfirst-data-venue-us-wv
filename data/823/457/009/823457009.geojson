@@ -1,0 +1,98 @@
+{
+  "id": 823457009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.578198,39.219754,-81.578198,39.219754",
+    "geom:latitude":39.219754,
+    "geom:longitude":-81.578198,
+    "iso:country":"US",
+    "sg:address":"119 Thomas Ln",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 428 2240",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "engine",
+        "repairing",
+        "lawn",
+        "mowers-sharpening",
+        "gasoline",
+        "mower",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pCsGRaHfUmXgIVhjBZK6T_39.219754_-81.578198@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435137,
+    "wof:geomhash":"5e4c67d93778f22046bf616fafcfb9e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823457009
+        }
+    ],
+    "wof:id":823457009,
+    "wof:lastmodified":1463435137,
+    "wof:name":"Thomas Lawn Mower Svc Inc",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "repairing",
+        "lawn",
+        "mowers-sharpening",
+        "gasoline",
+        "mower",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -81.578198,
+    39.219754,
+    -81.578198,
+    39.219754
+],
+  "geometry": {"coordinates":[-81.578198,39.219754],"type":"Point"}
+}

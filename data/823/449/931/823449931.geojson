@@ -1,0 +1,71 @@
+{
+  "id": 823449931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.545329,39.239433,-81.545329,39.239433",
+    "geom:latitude":39.239433,
+    "geom:longitude":-81.545329,
+    "iso:country":"US",
+    "sg:address":"1806 Blizzard Dr",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 428 5320",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kuiDeiseSMMJX6YWUDtWa_39.239433_-81.545329@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434814,
+    "wof:geomhash":"33ae08cd73964edb621860f36aa90529",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823449931
+        }
+    ],
+    "wof:id":823449931,
+    "wof:lastmodified":1463434814,
+    "wof:name":"Lute Supply",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating"
+    ]
+},
+  "bbox": [
+    -81.545329,
+    39.239433,
+    -81.545329,
+    39.239433
+],
+  "geometry": {"coordinates":[-81.545329,39.239433],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 823380449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.168838,37.783083,-81.168838,37.783083",
+    "geom:latitude":37.783083,
+    "geom:longitude":-81.168838,
+    "iso:country":"US",
+    "sg:address":"107 N Eisenhower Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 252 6400",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "renting",
+        "passenger",
+        "leasing",
+        "truck",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vJnPEemcT26ED3Nhls4nT_37.783083_-81.168838@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431657,
+    "wof:geomhash":"8331e697354bedb6018e714eab358412",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823380449
+        }
+    ],
+    "wof:id":823380449,
+    "wof:lastmodified":1463431657,
+    "wof:name":"T & T Car Rental",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "passenger",
+        "leasing",
+        "truck",
+        "car"
+    ]
+},
+  "bbox": [
+    -81.168838,
+    37.783083,
+    -81.168838,
+    37.783083
+],
+  "geometry": {"coordinates":[-81.16883799999999,37.783083],"type":"Point"}
+}

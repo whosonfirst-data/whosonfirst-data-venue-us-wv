@@ -1,0 +1,71 @@
+{
+  "id": 823406857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.604,38.34104,-81.604,38.34104",
+    "geom:latitude":38.34104,
+    "geom:longitude":-81.604,
+    "iso:country":"US",
+    "sg:address":"790 Walker Rd",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 8926",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3C4X3qjs9P21qprMZTNjOk_38.341040_-81.604000@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432897,
+    "wof:geomhash":"47442f0bf7b8834b2c10a3d65edfd50d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823406857
+        }
+    ],
+    "wof:id":823406857,
+    "wof:lastmodified":1463432897,
+    "wof:name":"Keely Surveying",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -81.604,
+    38.34104,
+    -81.604,
+    38.34104
+],
+  "geometry": {"coordinates":[-81.604,38.34104],"type":"Point"}
+}

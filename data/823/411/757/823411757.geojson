@@ -1,0 +1,71 @@
+{
+  "id": 823411757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.541013,39.227553,-81.541013,39.227553",
+    "geom:latitude":39.227553,
+    "geom:longitude":-81.541013,
+    "iso:country":"US",
+    "sg:address":"2820 Pike St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 489 3550",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Z7ASZnGMiRC26j2fAOfXM_39.227553_-81.541013@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433094,
+    "wof:geomhash":"6c45d9e3284c8d708c1407d8365c8178",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823411757
+        }
+    ],
+    "wof:id":823411757,
+    "wof:lastmodified":1463433094,
+    "wof:name":"Edward Jones Co",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -81.541013,
+    39.227553,
+    -81.541013,
+    39.227553
+],
+  "geometry": {"coordinates":[-81.54101300000001,39.227553],"type":"Point"}
+}

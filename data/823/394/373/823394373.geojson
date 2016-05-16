@@ -1,0 +1,75 @@
+{
+  "id": 823394373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.625088,38.334033,-81.625088,38.334033",
+    "geom:latitude":38.334033,
+    "geom:longitude":-81.625088,
+    "iso:country":"US",
+    "sg:address":"1818 Roundhill Rd",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 344 2457",
+    "sg:postcode":"25314",
+    "sg:province":"WV",
+    "sg:tags":[
+        "water",
+        "heater"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85850023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50FpbKtSBmNbwdV2BVvn7q_38.334033_-81.625088@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432303,
+    "wof:geomhash":"79f1275c338204a70bfdf33fe53f3ee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85850023,
+            "region_id":85688589,
+            "venue_id":823394373
+        }
+    ],
+    "wof:id":823394373,
+    "wof:lastmodified":1463432303,
+    "wof:name":"Vaught's Plumbing",
+    "wof:parent_id":85850023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "heater"
+    ]
+},
+  "bbox": [
+    -81.625088,
+    38.334033,
+    -81.625088,
+    38.334033
+],
+  "geometry": {"coordinates":[-81.62508800000001,38.334033],"type":"Point"}
+}

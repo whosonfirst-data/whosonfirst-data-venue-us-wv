@@ -1,0 +1,71 @@
+{
+  "id": 823395077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.593252,38.391168,-82.593252,38.391168",
+    "geom:latitude":38.391168,
+    "geom:longitude":-82.593252,
+    "iso:country":"US",
+    "sg:address":"2590 Big Sandy Rd",
+    "sg:city":"Kenova",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 2234",
+    "sg:postcode":"25530",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731517,
+        102083365,
+        85806071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64cL1vgQxRXaQyC6zTcjP9_38.391168_-82.593252@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432333,
+    "wof:geomhash":"5c82769055a0ece4f63e4b46968ce79a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731517,
+            "neighbourhood_id":85806071,
+            "region_id":85688589,
+            "venue_id":823395077
+        }
+    ],
+    "wof:id":823395077,
+    "wof:lastmodified":1463432333,
+    "wof:name":"Wayne Welding Inc",
+    "wof:parent_id":85806071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.593252,
+    38.391168,
+    -82.593252,
+    38.391168
+],
+  "geometry": {"coordinates":[-82.59325200000001,38.391168],"type":"Point"}
+}

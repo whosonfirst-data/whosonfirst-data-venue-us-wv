@@ -1,0 +1,73 @@
+{
+  "id": 823384003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.158181,39.450672,-80.158181,39.450672",
+    "geom:latitude":39.450672,
+    "geom:longitude":-80.158181,
+    "iso:country":"US",
+    "sg:address":"1993 Airport Rd",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 5012",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85834381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HUfJp5wbh1cpFxySupjaA_39.450672_-80.158181@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431810,
+    "wof:geomhash":"4fa4a3105165abe22151717a259a7238",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85834381,
+            "region_id":85688589,
+            "venue_id":823384003
+        }
+    ],
+    "wof:id":823384003,
+    "wof:lastmodified":1463431810,
+    "wof:name":"Parent Resource Ctr",
+    "wof:parent_id":85834381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -80.158181,
+    39.450672,
+    -80.158181,
+    39.450672
+],
+  "geometry": {"coordinates":[-80.158181,39.450672],"type":"Point"}
+}

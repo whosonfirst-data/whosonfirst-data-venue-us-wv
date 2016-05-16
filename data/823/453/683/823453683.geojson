@@ -1,0 +1,70 @@
+{
+  "id": 823453683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.963366,39.658415,-79.963366,39.658415",
+    "geom:latitude":39.658415,
+    "geom:longitude":-79.963366,
+    "iso:country":"US",
+    "sg:address":"1085 Van Voorhis Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/eastern/241931-firkin-and-fox/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 3475",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39LU2sJAX0NFr007rmAVVr_39.658415_-79.963366@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434956,
+    "wof:geomhash":"42efd9d1e418157c7b1dbda7bb06a172",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823453683
+        }
+    ],
+    "wof:id":823453683,
+    "wof:lastmodified":1463434956,
+    "wof:name":"Firkin And Fox",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -79.963366,
+    39.658415,
+    -79.963366,
+    39.658415
+],
+  "geometry": {"coordinates":[-79.96336599999999,39.658415],"type":"Point"}
+}

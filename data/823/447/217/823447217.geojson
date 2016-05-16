@@ -1,0 +1,66 @@
+{
+  "id": 823447217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.259536,39.286465,-80.259536,39.286465",
+    "geom:latitude":39.286465,
+    "geom:longitude":-80.259536,
+    "iso:country":"US",
+    "sg:address":"222 Johnson Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 4428",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BBTCyEhsoBPV0KUrzjZmH_39.286465_-80.259536@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434701,
+    "wof:geomhash":"824b63cf4f6aff95360cfbcae0652ebf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823447217
+        }
+    ],
+    "wof:id":823447217,
+    "wof:lastmodified":1463434701,
+    "wof:name":"Lighthouse Real Estate",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.259536,
+    39.286465,
+    -80.259536,
+    39.286465
+],
+  "geometry": {"coordinates":[-80.259536,39.286465],"type":"Point"}
+}

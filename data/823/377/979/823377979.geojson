@@ -1,0 +1,67 @@
+{
+  "id": 823377979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.277514,39.280895,-80.277514,39.280895",
+    "geom:latitude":39.280895,
+    "geom:longitude":-80.277514,
+    "iso:country":"US",
+    "sg:address":"156 Emily Dr",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 623 6056",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:website":"www.radioshack.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Qd3rPq5z4gdQhju2mHsGk_39.280895_-80.277514@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431558,
+    "wof:geomhash":"7b2eec72099358acd5f1bda0c0c0ae74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823377979
+        }
+    ],
+    "wof:id":823377979,
+    "wof:lastmodified":1463431558,
+    "wof:name":"Radio Shack",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.277514,
+    39.280895,
+    -80.277514,
+    39.280895
+],
+  "geometry": {"coordinates":[-80.277514,39.280895],"type":"Point"}
+}

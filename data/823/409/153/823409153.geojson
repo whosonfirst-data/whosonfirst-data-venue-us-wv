@@ -1,0 +1,71 @@
+{
+  "id": 823409153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.149894,39.47794,-80.149894,39.47794",
+    "geom:latitude":39.47794,
+    "geom:longitude":-80.149894,
+    "iso:country":"US",
+    "sg:address":"606 Fairmont Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 1830",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UlZbdNWIGcwwDFvgyOHn5_39.477940_-80.149894@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432991,
+    "wof:geomhash":"0066ebfeffd93f43c952da8726ec55c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823409153
+        }
+    ],
+    "wof:id":823409153,
+    "wof:lastmodified":1463432991,
+    "wof:name":"Sudha R Katragadda MD",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -80.149894,
+    39.47794,
+    -80.149894,
+    39.47794
+],
+  "geometry": {"coordinates":[-80.149894,39.47794],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823376579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.577958,38.31804,-81.577958,38.31804",
+    "geom:latitude":38.31804,
+    "geom:longitude":-81.577958,
+    "iso:country":"US",
+    "sg:address":"5003 Venable Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 5400",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RuxEh6gQTCl3zAqE6on4N_38.318040_-81.577958@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431485,
+    "wof:geomhash":"6b7f1fe974e9d7cccb540ea449370223",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823376579
+        }
+    ],
+    "wof:id":823376579,
+    "wof:lastmodified":1463431485,
+    "wof:name":"Richard A Hawkins MD",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.577958,
+    38.31804,
+    -81.577958,
+    38.31804
+],
+  "geometry": {"coordinates":[-81.577958,38.31804],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823430317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.749878,38.35329,-81.749878,38.35329",
+    "geom:latitude":38.35329,
+    "geom:longitude":-81.749878,
+    "iso:country":"US",
+    "sg:address":"5695 Kanawha Tpke",
+    "sg:city":"St Albans",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 766 2421",
+    "sg:postcode":"25177",
+    "sg:province":"WV",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31qADtb5riUl9A2hVd7J03_38.353290_-81.749878@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433894,
+    "wof:geomhash":"a93dda5280fc8fcc8b01329d08715be2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823430317
+        }
+    ],
+    "wof:id":823430317,
+    "wof:lastmodified":1463433894,
+    "wof:name":"Slavens Reconstructed Cars",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -81.749878,
+    38.35329,
+    -81.749878,
+    38.35329
+],
+  "geometry": {"coordinates":[-81.749878,38.35329],"type":"Point"}
+}

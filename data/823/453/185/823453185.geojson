@@ -1,0 +1,78 @@
+{
+  "id": 823453185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.648317,40.047327,-80.648317,40.047327",
+    "geom:latitude":40.047327,
+    "geom:longitude":-80.648317,
+    "iso:country":"US",
+    "sg:address":"12 Elm Grove Crossing Mall",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/wheeling/195861-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 243 0156",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85840717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GJDw9O2v41VKfqGKnb2DC_40.047327_-80.648317@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434938,
+    "wof:geomhash":"787c5036427940b0c8903787401f7bcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85840717,
+            "region_id":85688589,
+            "venue_id":823453185
+        }
+    ],
+    "wof:id":823453185,
+    "wof:lastmodified":1463434938,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85840717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -80.648317,
+    40.047327,
+    -80.648317,
+    40.047327
+],
+  "geometry": {"coordinates":[-80.64831700000001,40.047327],"type":"Point"}
+}

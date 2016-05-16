@@ -1,0 +1,72 @@
+{
+  "id": 823457155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.963013,39.624081,-79.963013,39.624081",
+    "geom:latitude":39.624081,
+    "geom:longitude":-79.963013,
+    "iso:country":"US",
+    "sg:address":"1 Waterfront Pl",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Science Facility",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 293 3792",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "development",
+        "laboratories-research"
+    ],
+    "sg:website":"http://www.wvit.wvnet.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1c3Ev1UI3geSmbhALyk4DJ_39.624081_-79.963013@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435147,
+    "wof:geomhash":"3d992adba77a506d97d4439ae5b381f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823457155
+        }
+    ],
+    "wof:id":823457155,
+    "wof:lastmodified":1463435147,
+    "wof:name":"Environmental Health & Safety",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "laboratories-research"
+    ]
+},
+  "bbox": [
+    -79.963013,
+    39.624081,
+    -79.963013,
+    39.624081
+],
+  "geometry": {"coordinates":[-79.963013,39.624081],"type":"Point"}
+}

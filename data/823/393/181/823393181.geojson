@@ -1,0 +1,71 @@
+{
+  "id": 823393181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.301521,39.39521,-80.301521,39.39521",
+    "geom:latitude":39.39521,
+    "geom:longitude":-80.301521,
+    "iso:country":"US",
+    "sg:address":"223 Pike St",
+    "sg:city":"Shinnston",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 592 1030",
+    "sg:postcode":"26431",
+    "sg:province":"WV",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85831189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74kyx3ROvNoc6nR1uhNkz1_39.395210_-80.301521@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432238,
+    "wof:geomhash":"ad7816a0c26b8ba66439b4dbf3cf44d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85831189,
+            "region_id":85688589,
+            "venue_id":823393181
+        }
+    ],
+    "wof:id":823393181,
+    "wof:lastmodified":1463432238,
+    "wof:name":"Shinnston News",
+    "wof:parent_id":85831189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -80.301521,
+    39.39521,
+    -80.301521,
+    39.39521
+],
+  "geometry": {"coordinates":[-80.30152099999999,39.39521],"type":"Point"}
+}

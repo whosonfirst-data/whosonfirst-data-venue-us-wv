@@ -1,0 +1,84 @@
+{
+  "id": 823452479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.563269,38.306455,-81.563269,38.306455",
+    "geom:latitude":38.306455,
+    "geom:longitude":-81.563269,
+    "iso:country":"US",
+    "sg:address":"6308 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/belle/95448-ihop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 4467",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PbwPbielSyss0bF2vozWk_38.306455_-81.563269@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434909,
+    "wof:geomhash":"9f5aecab8e12f096adef01e1fed554de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823452479
+        }
+    ],
+    "wof:id":823452479,
+    "wof:lastmodified":1463434909,
+    "wof:name":"IHOP",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -81.563269,
+    38.306455,
+    -81.563269,
+    38.306455
+],
+  "geometry": {"coordinates":[-81.56326900000001,38.306455],"type":"Point"}
+}

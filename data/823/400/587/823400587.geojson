@@ -1,0 +1,74 @@
+{
+  "id": 823400587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.232919,37.266023,-81.232919,37.266023",
+    "geom:latitude":37.266023,
+    "geom:longitude":-81.232919,
+    "iso:country":"US",
+    "sg:address":"711 Bluefield Ave",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 324 8281",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "sg:website":"www.autozone.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2T66WismsOmrGQ8vLXKJ7E_37.266023_-81.232919@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432610,
+    "wof:geomhash":"b6d7093d5f4d5319fb795bbebb92a43a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823400587
+        }
+    ],
+    "wof:id":823400587,
+    "wof:lastmodified":1463432610,
+    "wof:name":"Autozone",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -81.232919,
+    37.266023,
+    -81.232919,
+    37.266023
+],
+  "geometry": {"coordinates":[-81.232919,37.266023],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 823435491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.075003,38.461964,-81.075003,38.461964",
+    "geom:latitude":38.461964,
+    "geom:longitude":-81.075003,
+    "iso:country":"US",
+    "sg:address":"106 Carr St",
+    "sg:city":"Clay",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 587 4232",
+    "sg:postcode":"25043",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85811219,
+        102082627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EtGphlU6M2b7RhavbvbDd_38.461964_-81.075003@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434146,
+    "wof:geomhash":"44ffe8f331b3b3a0f4468f6182a215ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082627,
+            "neighbourhood_id":85811219,
+            "region_id":85688589,
+            "venue_id":823435491
+        }
+    ],
+    "wof:id":823435491,
+    "wof:lastmodified":1463434146,
+    "wof:name":"Leggs Dental Clinic",
+    "wof:parent_id":85811219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -81.075003,
+    38.461964,
+    -81.075003,
+    38.461964
+],
+  "geometry": {"coordinates":[-81.075003,38.461964],"type":"Point"}
+}

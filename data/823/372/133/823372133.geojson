@@ -1,0 +1,71 @@
+{
+  "id": 823372133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.72568,38.35512,-81.72568,38.35512",
+    "geom:latitude":38.35512,
+    "geom:longitude":-81.72568,
+    "iso:country":"US",
+    "sg:address":"416 Division St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 766 7141",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Fld5jQbbM3eeqPugiaSgv_38.355120_-81.725680@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431288,
+    "wof:geomhash":"c052cc3a8a1a9db21c3f58e97b081201",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823372133
+        }
+    ],
+    "wof:id":823372133,
+    "wof:lastmodified":1463431288,
+    "wof:name":"Kanawha Valley Radiologists",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -81.72568,
+    38.35512,
+    -81.72568,
+    38.35512
+],
+  "geometry": {"coordinates":[-81.72568,38.35512],"type":"Point"}
+}

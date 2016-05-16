@@ -1,0 +1,67 @@
+{
+  "id": 823435919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.8495,38.925116,-79.8495,38.925116",
+    "geom:latitude":38.925116,
+    "geom:longitude":-79.8495,
+    "iso:country":"US",
+    "sg:address":"104 3rd St",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 1680",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:website":"www.alleghenyinsurance.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zti0nNStdAAA3mzjkcelv_38.925116_-79.849500@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434161,
+    "wof:geomhash":"b887a0d2153299cabe78367067a95d09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823435919
+        }
+    ],
+    "wof:id":823435919,
+    "wof:lastmodified":1463434161,
+    "wof:name":"Allegheny Insurance",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.8495,
+    38.925116,
+    -79.8495,
+    38.925116
+],
+  "geometry": {"coordinates":[-79.84950000000001,38.925116],"type":"Point"}
+}

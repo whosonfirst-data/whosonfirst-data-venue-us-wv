@@ -1,0 +1,71 @@
+{
+  "id": 823451755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.070938,37.384768,-81.070938,37.384768",
+    "geom:latitude":37.384768,
+    "geom:longitude":-81.070938,
+    "iso:country":"US",
+    "sg:address":"93 Duncan Rd",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 1836",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1p0vmzWx2FsVtABnIm2oMw_37.384593_-81.070164@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463434882,
+    "wof:geomhash":"6af46c6178f64fbdc6996cf26754f54c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823451755
+        }
+    ],
+    "wof:id":823451755,
+    "wof:lastmodified":1463434882,
+    "wof:name":"Harry G Thomas Logging",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "logging"
+    ]
+},
+  "bbox": [
+    -81.070938,
+    37.384768,
+    -81.070938,
+    37.384768
+],
+  "geometry": {"coordinates":[-81.070938,37.384768],"type":"Point"}
+}

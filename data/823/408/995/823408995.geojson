@@ -1,0 +1,71 @@
+{
+  "id": 823408995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.567945,38.398128,-82.567945,38.398128",
+    "geom:latitude":38.398128,
+    "geom:longitude":-82.567945,
+    "iso:country":"US",
+    "sg:address":"302 8th St",
+    "sg:city":"Kenova",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 6722",
+    "sg:postcode":"25530",
+    "sg:province":"WV",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731517,
+        102083365,
+        85806071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Wfk1G05NvFbeMUwuGXdmB_38.398128_-82.567945@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432986,
+    "wof:geomhash":"a1cc4113ee806652a37eab54c706579f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731517,
+            "neighbourhood_id":85806071,
+            "region_id":85688589,
+            "venue_id":823408995
+        }
+    ],
+    "wof:id":823408995,
+    "wof:lastmodified":1463432986,
+    "wof:name":"American Legion",
+    "wof:parent_id":85806071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military"
+    ]
+},
+  "bbox": [
+    -82.567945,
+    38.398128,
+    -82.567945,
+    38.398128
+],
+  "geometry": {"coordinates":[-82.56794499999999,38.398128],"type":"Point"}
+}

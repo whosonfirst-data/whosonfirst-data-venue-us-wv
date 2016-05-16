@@ -1,0 +1,71 @@
+{
+  "id": 823418369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.123112,39.529182,-80.123112,39.529182",
+    "geom:latitude":39.529182,
+    "geom:longitude":-80.123112,
+    "iso:country":"US",
+    "sg:address":"115 Main St",
+    "sg:city":"Rivesville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 278 5367",
+    "sg:postcode":"26588",
+    "sg:province":"WV",
+    "sg:tags":[
+        "national"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fHMQJhG0q5dfRp7G5p7sY_39.529182_-80.123112@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433395,
+    "wof:geomhash":"6fedf741b7fd810721efe9819c67949a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823418369
+        }
+    ],
+    "wof:id":823418369,
+    "wof:lastmodified":1463433395,
+    "wof:name":"Huntington Bank",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national"
+    ]
+},
+  "bbox": [
+    -80.123112,
+    39.529182,
+    -80.123112,
+    39.529182
+],
+  "geometry": {"coordinates":[-80.12311200000001,39.529182],"type":"Point"}
+}

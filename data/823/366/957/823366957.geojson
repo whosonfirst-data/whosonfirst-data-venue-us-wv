@@ -1,0 +1,73 @@
+{
+  "id": 823366957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.5547,39.250015,-81.5547,39.250015",
+    "geom:latitude":39.250015,
+    "geom:longitude":-81.5547,
+    "iso:country":"US",
+    "sg:address":"906 Division St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 428 2000",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85829881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ePg2HF3zPbtfeRbjwhtV0_39.250015_-81.554700@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431056,
+    "wof:geomhash":"fa40efe74dc05eef734dc693f36aa17d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85829881,
+            "region_id":85688589,
+            "venue_id":823366957
+        }
+    ],
+    "wof:id":823366957,
+    "wof:lastmodified":1463431056,
+    "wof:name":"Archer's Plumbing & Heating",
+    "wof:parent_id":85829881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.5547,
+    39.250015,
+    -81.5547,
+    39.250015
+],
+  "geometry": {"coordinates":[-81.5547,39.250015],"type":"Point"}
+}

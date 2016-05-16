@@ -1,0 +1,71 @@
+{
+  "id": 823385623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.541243,39.23106,-81.541243,39.23106",
+    "geom:latitude":39.23106,
+    "geom:longitude":-81.541243,
+    "iso:country":"US",
+    "sg:address":"2520 Pike St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 865 2290",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cafe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52mlHfcVzLsPUSZlVoDyY6_39.231060_-81.541243@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431871,
+    "wof:geomhash":"5e0754774c83bd152547c9d095e9a408",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823385623
+        }
+    ],
+    "wof:id":823385623,
+    "wof:lastmodified":1463431871,
+    "wof:name":"City Perk Cafe I I",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cafe"
+    ]
+},
+  "bbox": [
+    -81.541243,
+    39.23106,
+    -81.541243,
+    39.23106
+],
+  "geometry": {"coordinates":[-81.54124299999999,39.23106],"type":"Point"}
+}

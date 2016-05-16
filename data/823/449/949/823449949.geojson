@@ -1,0 +1,71 @@
+{
+  "id": 823449949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.566442,40.610776,-80.566442,40.610776",
+    "geom:latitude":40.610776,
+    "geom:longitude":-80.566442,
+    "iso:country":"US",
+    "sg:address":"301 Carolina Ave",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 1101",
+    "sg:postcode":"26034",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cafe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Wl26x3wLZLUltPKHxvfhp_40.610776_-80.566442@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434815,
+    "wof:geomhash":"62110755d76f489f386df6be3c042122",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823449949
+        }
+    ],
+    "wof:id":823449949,
+    "wof:lastmodified":1463434815,
+    "wof:name":"Sofia Rae's Cafe",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cafe"
+    ]
+},
+  "bbox": [
+    -80.566442,
+    40.610776,
+    -80.566442,
+    40.610776
+],
+  "geometry": {"coordinates":[-80.566442,40.610776],"type":"Point"}
+}

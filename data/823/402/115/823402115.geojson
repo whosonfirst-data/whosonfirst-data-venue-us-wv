@@ -1,0 +1,71 @@
+{
+  "id": 823402115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.093571,37.372449,-81.093571,37.372449",
+    "geom:latitude":37.372449,
+    "geom:longitude":-81.093571,
+    "iso:country":"US",
+    "sg:address":"307 N 8th St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 2630",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "monument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7h9XyapWstMfH4xTUQfFuO_37.372449_-81.093571@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432675,
+    "wof:geomhash":"47054618653b6efe32dc416049b7c7e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823402115
+        }
+    ],
+    "wof:id":823402115,
+    "wof:lastmodified":1463432675,
+    "wof:name":"Mercer Monument Co",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monument"
+    ]
+},
+  "bbox": [
+    -81.093571,
+    37.372449,
+    -81.093571,
+    37.372449
+],
+  "geometry": {"coordinates":[-81.093571,37.372449],"type":"Point"}
+}

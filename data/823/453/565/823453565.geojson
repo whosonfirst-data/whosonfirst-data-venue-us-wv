@@ -1,0 +1,72 @@
+{
+  "id": 823453565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.986136,39.630074,-79.986136,39.630074",
+    "geom:latitude":39.630074,
+    "geom:longitude":-79.986136,
+    "iso:country":"US",
+    "sg:address":"688 Fairmont Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/western/192367-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 0602",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818601,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_740pMIO3b80dF5N4VKRg65_39.630074_-79.986136@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434952,
+    "wof:geomhash":"24c01e93f8016f64fae6559f3ea2a7bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85818601,
+            "region_id":85688589,
+            "venue_id":823453565
+        }
+    ],
+    "wof:id":823453565,
+    "wof:lastmodified":1463434952,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85818601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -79.986136,
+    39.630074,
+    -79.986136,
+    39.630074
+],
+  "geometry": {"coordinates":[-79.986136,39.630074],"type":"Point"}
+}

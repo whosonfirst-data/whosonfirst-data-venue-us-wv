@@ -1,0 +1,71 @@
+{
+  "id": 823422725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.0981,37.370196,-81.0981,37.370196",
+    "geom:latitude":37.370196,
+    "geom:longitude":-81.0981,
+    "iso:country":"US",
+    "sg:address":"103 Hale Ave",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 2756",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "piece"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qaPusr7G2krlNRQre0cUD_37.370196_-81.098100@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433567,
+    "wof:geomhash":"f64155792a06e43a1bdfd23532e93e27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823422725
+        }
+    ],
+    "wof:id":823422725,
+    "wof:lastmodified":1463433567,
+    "wof:name":"Powell Wholesale Co",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "piece"
+    ]
+},
+  "bbox": [
+    -81.0981,
+    37.370196,
+    -81.0981,
+    37.370196
+],
+  "geometry": {"coordinates":[-81.0981,37.370196],"type":"Point"}
+}

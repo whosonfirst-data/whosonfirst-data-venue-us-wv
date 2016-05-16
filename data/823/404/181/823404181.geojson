@@ -1,0 +1,76 @@
+{
+  "id": 823404181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.71452,38.36315,-81.71452,38.36315",
+    "geom:latitude":38.36315,
+    "geom:longitude":-81.71452,
+    "iso:country":"US",
+    "sg:address":"15 River Walk Mall",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 746 0926",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5w8dYM8Xei6rP8msVlq07l_38.363150_-81.714520@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432770,
+    "wof:geomhash":"0076313439a9852349ae281b4bfebeb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823404181
+        }
+    ],
+    "wof:id":823404181,
+    "wof:lastmodified":1463432770,
+    "wof:name":"Nail & Tanning",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -81.71452,
+    38.36315,
+    -81.71452,
+    38.36315
+],
+  "geometry": {"coordinates":[-81.71451999999999,38.36315],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823393405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.299249,38.445232,-82.299249,38.445232",
+    "geom:latitude":38.445232,
+    "geom:longitude":-82.299249,
+    "iso:country":"US",
+    "sg:address":"6480 Merrick Creek Rd",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 736 2475",
+    "sg:postcode":"25702",
+    "sg:province":"WV",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85816671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tCEnd7suqtCNsoSlQ7e95_38.445232_-82.299249@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432249,
+    "wof:geomhash":"e46eafe29345e4c849e10632ded9625f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85816671,
+            "region_id":85688589,
+            "venue_id":823393405
+        }
+    ],
+    "wof:id":823393405,
+    "wof:lastmodified":1463432249,
+    "wof:name":"Morrison's Plumbing",
+    "wof:parent_id":85816671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.299249,
+    38.445232,
+    -82.299249,
+    38.445232
+],
+  "geometry": {"coordinates":[-82.299249,38.445232],"type":"Point"}
+}

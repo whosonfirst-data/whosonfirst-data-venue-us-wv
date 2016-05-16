@@ -1,0 +1,73 @@
+{
+  "id": 823424721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.486357,38.440322,-81.486357,38.440322",
+    "geom:latitude":38.440322,
+    "geom:longitude":-81.486357,
+    "iso:country":"US",
+    "sg:address":"5082 Elk River Rd",
+    "sg:city":"Elkview",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 965 5312",
+    "sg:postcode":"25071",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kbHVs4RWHaspt58gfLYwr_38.440322_-81.486357@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433648,
+    "wof:geomhash":"9dee13886a8402300181c62be5154b8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823424721
+        }
+    ],
+    "wof:id":823424721,
+    "wof:lastmodified":1463433648,
+    "wof:name":"Elk Auto Supply",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -81.486357,
+    38.440322,
+    -81.486357,
+    38.440322
+],
+  "geometry": {"coordinates":[-81.486357,38.440322],"type":"Point"}
+}

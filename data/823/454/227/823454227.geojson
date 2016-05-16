@@ -1,0 +1,72 @@
+{
+  "id": 823454227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.151756,39.475295,-80.151756,39.475295",
+    "geom:latitude":39.475295,
+    "geom:longitude":-80.151756,
+    "iso:country":"US",
+    "sg:address":"808 Fairmont Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/middletown/167467-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 367 0054",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ursTRZ89L5uoAUJmsJAL3_39.475198_-80.151690@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463435009,
+    "wof:geomhash":"dd7819090431ac9f6ff9fe5d85ec96b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823454227
+        }
+    ],
+    "wof:id":823454227,
+    "wof:lastmodified":1463435009,
+    "wof:name":"Burger King",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -80.151756,
+    39.475295,
+    -80.151756,
+    39.475295
+],
+  "geometry": {"coordinates":[-80.15175600000001,39.475295],"type":"Point"}
+}

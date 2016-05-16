@@ -1,0 +1,73 @@
+{
+  "id": 823440053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.51619,38.38449,-82.51619,38.38449",
+    "geom:latitude":38.38449,
+    "geom:longitude":-82.51619,
+    "iso:country":"US",
+    "sg:address":"1540 Spring Valley Dr",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 429 6755",
+    "sg:postcode":"25704",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083365,
+        85857035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HopRJm3GGRNVxdpnuCp1B_38.384490_-82.516190@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434366,
+    "wof:geomhash":"936982fa43c04271b4737c62249171b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731553,
+            "neighbourhood_id":85857035,
+            "region_id":85688589,
+            "venue_id":823440053
+        }
+    ],
+    "wof:id":823440053,
+    "wof:lastmodified":1463434366,
+    "wof:name":"Veena Shenoy MD",
+    "wof:parent_id":85857035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -82.51619,
+    38.38449,
+    -82.51619,
+    38.38449
+],
+  "geometry": {"coordinates":[-82.51618999999999,38.38449],"type":"Point"}
+}

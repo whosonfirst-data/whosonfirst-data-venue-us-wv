@@ -1,0 +1,79 @@
+{
+  "id": 823454179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.988069,39.656235,-79.988069,39.656235",
+    "geom:latitude":39.656235,
+    "geom:longitude":-79.988069,
+    "iso:country":"US",
+    "sg:address":"3505 Monongahela Blvd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/central/10675-texas-roadhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 598 0109",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731749,
+        102082587,
+        85807277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jMBy643lQfJNm2AXmsbWB_39.655743_-79.987432@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463435005,
+    "wof:geomhash":"7cd0e1906f959c2d4fe91d3793db0c81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731749,
+            "neighbourhood_id":85807277,
+            "region_id":85688589,
+            "venue_id":823454179
+        }
+    ],
+    "wof:id":823454179,
+    "wof:lastmodified":1463435005,
+    "wof:name":"Texas Roadhouse",
+    "wof:parent_id":85807277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -79.988069,
+    39.656235,
+    -79.988069,
+    39.656235
+],
+  "geometry": {"coordinates":[-79.988069,39.656235],"type":"Point"}
+}

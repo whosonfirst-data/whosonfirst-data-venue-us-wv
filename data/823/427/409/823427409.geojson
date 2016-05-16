@@ -1,0 +1,73 @@
+{
+  "id": 823427409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.023862,38.431782,-82.023862,38.431782",
+    "geom:latitude":38.431782,
+    "geom:longitude":-82.023862,
+    "iso:country":"US",
+    "sg:address":"2716 Main St",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 562 5663",
+    "sg:postcode":"25526",
+    "sg:province":"WV",
+    "sg:tags":[
+        "department",
+        "volunteer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731829,
+        102083381,
+        85868321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lbrmxAKTxJlQrRP1L5dli_38.431782_-82.023862@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433767,
+    "wof:geomhash":"e054bd46610ce9b5ad15b912bc5cc2c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731829,
+            "neighbourhood_id":85868321,
+            "region_id":85688589,
+            "venue_id":823427409
+        }
+    ],
+    "wof:id":823427409,
+    "wof:lastmodified":1463433767,
+    "wof:name":"Hurricane Volunteer Fire Dept",
+    "wof:parent_id":85868321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "volunteer"
+    ]
+},
+  "bbox": [
+    -82.023862,
+    38.431782,
+    -82.023862,
+    38.431782
+],
+  "geometry": {"coordinates":[-82.02386199999999,38.431782],"type":"Point"}
+}

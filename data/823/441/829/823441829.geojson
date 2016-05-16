@@ -1,0 +1,73 @@
+{
+  "id": 823441829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.522383,39.268225,-81.522383,39.268225",
+    "geom:latitude":39.268225,
+    "geom:longitude":-81.522383,
+    "iso:country":"US",
+    "sg:address":"2002 7th St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 428 4116",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85818775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Q0s51aHSoZQjT13234vmV_39.268225_-81.522383@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434437,
+    "wof:geomhash":"634a590aea0b4386bc43af9591b32893",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85818775,
+            "region_id":85688589,
+            "venue_id":823441829
+        }
+    ],
+    "wof:id":823441829,
+    "wof:lastmodified":1463434437,
+    "wof:name":"Cooper's Service Ctr",
+    "wof:parent_id":85818775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -81.522383,
+    39.268225,
+    -81.522383,
+    39.268225
+],
+  "geometry": {"coordinates":[-81.522383,39.268225],"type":"Point"}
+}

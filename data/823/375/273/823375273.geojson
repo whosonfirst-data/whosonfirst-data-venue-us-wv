@@ -1,0 +1,73 @@
+{
+  "id": 823375273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.15803,37.979323,-81.15803,37.979323",
+    "geom:latitude":37.979323,
+    "geom:longitude":-81.15803,
+    "iso:country":"US",
+    "sg:address":"202 Lamont St",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 469 6294",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "line",
+        "electric",
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HhIlYmhOgm5xCCy3CEIRw_37.979323_-81.158030@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431428,
+    "wof:geomhash":"81a61330bf4a26d3a61adf94efff2843",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823375273
+        }
+    ],
+    "wof:id":823375273,
+    "wof:lastmodified":1463431428,
+    "wof:name":"Rader Line Company Inc",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "line",
+        "electric",
+        "power"
+    ]
+},
+  "bbox": [
+    -81.15803,
+    37.979323,
+    -81.15803,
+    37.979323
+],
+  "geometry": {"coordinates":[-81.15803,37.979323],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823398513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.614075,40.269109,-80.614075,40.269109",
+    "geom:latitude":40.269109,
+    "geom:longitude":-80.614075,
+    "iso:country":"US",
+    "sg:address":"700 Main St",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 3202",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6r6YTj54Dy9bJt4ftGnXRA_40.269109_-80.614075@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432511,
+    "wof:geomhash":"1c6305f0e0d543a8c0633236eb858cd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823398513
+        }
+    ],
+    "wof:id":823398513,
+    "wof:lastmodified":1463432511,
+    "wof:name":"Hudson House Saloon",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -80.614075,
+    40.269109,
+    -80.614075,
+    40.269109
+],
+  "geometry": {"coordinates":[-80.614075,40.269109],"type":"Point"}
+}

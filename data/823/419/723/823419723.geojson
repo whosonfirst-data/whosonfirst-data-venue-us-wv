@@ -1,0 +1,73 @@
+{
+  "id": 823419723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.989884,39.659533,-79.989884,39.659533",
+    "geom:latitude":39.659533,
+    "geom:longitude":-79.989884,
+    "iso:country":"US",
+    "sg:address":"425 Industrial Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 2750",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "prod",
+        "made"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731749,
+        102082587,
+        85807277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ASY7e4AK3sVrkhTJOxbWj_39.659533_-79.989884@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433452,
+    "wof:geomhash":"916286d540e486ffbf22bb24044482a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731749,
+            "neighbourhood_id":85807277,
+            "region_id":85688589,
+            "venue_id":823419723
+        }
+    ],
+    "wof:id":823419723,
+    "wof:lastmodified":1463433452,
+    "wof:name":"Gentile Glass Co",
+    "wof:parent_id":85807277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "prod",
+        "made"
+    ]
+},
+  "bbox": [
+    -79.989884,
+    39.659533,
+    -79.989884,
+    39.659533
+],
+  "geometry": {"coordinates":[-79.989884,39.659533],"type":"Point"}
+}

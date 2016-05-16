@@ -1,0 +1,71 @@
+{
+  "id": 823387559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.532191,38.379603,-81.532191,38.379603",
+    "geom:latitude":38.379603,
+    "geom:longitude":-81.532191,
+    "iso:country":"US",
+    "sg:address":"5 Villa Ests",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 6466",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78CFa7d47bqwS5rmTUGb5x_38.379603_-81.532191@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431948,
+    "wof:geomhash":"f77a2b895b009288050c02cc6f68d077",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823387559
+        }
+    ],
+    "wof:id":823387559,
+    "wof:lastmodified":1463431948,
+    "wof:name":"David Mitchell",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -81.532191,
+    38.379603,
+    -81.532191,
+    38.379603
+],
+  "geometry": {"coordinates":[-81.532191,38.379603],"type":"Point"}
+}

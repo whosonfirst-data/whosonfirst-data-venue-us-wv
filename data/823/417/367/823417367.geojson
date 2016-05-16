@@ -1,0 +1,73 @@
+{
+  "id": 823417367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.628229,38.347973,-81.628229,38.347973",
+    "geom:latitude":38.347973,
+    "geom:longitude":-81.628229,
+    "iso:country":"US",
+    "sg:address":"603 Brooks St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 1107",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6F2rqXa6sQRymIC7j8JTqA_38.347973_-81.628229@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433351,
+    "wof:geomhash":"3c80cb7c445c0cec62962f222531cf83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823417367
+        }
+    ],
+    "wof:id":823417367,
+    "wof:lastmodified":1463433351,
+    "wof:name":"Kanawha County Ambulance Auth",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -81.628229,
+    38.347973,
+    -81.628229,
+    38.347973
+],
+  "geometry": {"coordinates":[-81.628229,38.347973],"type":"Point"}
+}

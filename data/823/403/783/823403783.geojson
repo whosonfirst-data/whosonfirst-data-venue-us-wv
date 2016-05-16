@@ -1,0 +1,71 @@
+{
+  "id": 823403783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.530189,39.168493,-81.530189,39.168493",
+    "geom:latitude":39.168493,
+    "geom:longitude":-81.530189,
+    "iso:country":"US",
+    "sg:address":"201 Plantation Dr",
+    "sg:city":"Mineralwells",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 489 3026",
+    "sg:postcode":"26150",
+    "sg:province":"WV",
+    "sg:tags":[
+        "arrangement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hfW5DZ1k7A8VKBtBjQIpH_39.168493_-81.530189@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432748,
+    "wof:geomhash":"50a512137239e63bad8f5203a1cef86f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823403783
+        }
+    ],
+    "wof:id":823403783,
+    "wof:lastmodified":1463432748,
+    "wof:name":"Ronald Ferguson",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arrangement"
+    ]
+},
+  "bbox": [
+    -81.530189,
+    39.168493,
+    -81.530189,
+    39.168493
+],
+  "geometry": {"coordinates":[-81.53018899999999,39.168493],"type":"Point"}
+}

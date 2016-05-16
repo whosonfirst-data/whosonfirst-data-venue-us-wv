@@ -1,0 +1,73 @@
+{
+  "id": 823416049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.548782,39.289075,-81.548782,39.289075",
+    "geom:latitude":39.289075,
+    "geom:longitude":-81.548782,
+    "iso:country":"US",
+    "sg:address":"608 30th St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 428 1683",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731687,
+        102083343,
+        85805293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GWLaTfdiZw3Pa2fzOMGNU_39.289075_-81.548782@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433281,
+    "wof:geomhash":"d02f0261cccf5d33c3fc2c52d9d1c58d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85805293,
+            "region_id":85688589,
+            "venue_id":823416049
+        }
+    ],
+    "wof:id":823416049,
+    "wof:lastmodified":1463433281,
+    "wof:name":"Postlewait Plumbing & Heating",
+    "wof:parent_id":85805293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.548782,
+    39.289075,
+    -81.548782,
+    39.289075
+],
+  "geometry": {"coordinates":[-81.548782,39.289075],"type":"Point"}
+}

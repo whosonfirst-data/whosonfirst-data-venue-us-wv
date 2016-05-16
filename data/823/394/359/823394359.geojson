@@ -1,0 +1,71 @@
+{
+  "id": 823394359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.714059,38.375382,-81.714059,38.375382",
+    "geom:latitude":38.375382,
+    "geom:longitude":-81.714059,
+    "iso:country":"US",
+    "sg:address":"2300 Roxalana Rd",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 4082",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01bOUJkPAVIa53svJIVIiE_38.375382_-81.714059@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432302,
+    "wof:geomhash":"e06a21bde9cab03595dc19d5683cb534",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823394359
+        }
+    ],
+    "wof:id":823394359,
+    "wof:lastmodified":1463432302,
+    "wof:name":"Mikes Auto Service",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -81.714059,
+    38.375382,
+    -81.714059,
+    38.375382
+],
+  "geometry": {"coordinates":[-81.71405900000001,38.375382],"type":"Point"}
+}

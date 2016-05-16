@@ -1,0 +1,75 @@
+{
+  "id": 823438457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.553072,38.397228,-81.553072,38.397228",
+    "geom:latitude":38.397228,
+    "geom:longitude":-81.553072,
+    "iso:country":"US",
+    "sg:address":"2149 Greenbrier St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 344 4268",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home",
+        "skilled",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NnC54IK0pLhRn8yHPsQK7_38.397228_-81.553072@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434301,
+    "wof:geomhash":"5a2eff006520e626c2500007cced8b75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823438457
+        }
+    ],
+    "wof:id":823438457,
+    "wof:lastmodified":1463434301,
+    "wof:name":"Meadowbrook Acres Nursing Ctr",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "skilled",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -81.553072,
+    38.397228,
+    -81.553072,
+    38.397228
+],
+  "geometry": {"coordinates":[-81.553072,38.397228],"type":"Point"}
+}

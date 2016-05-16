@@ -1,0 +1,71 @@
+{
+  "id": 823432279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.444991,37.802251,-80.444991,37.802251",
+    "geom:latitude":37.802251,
+    "geom:longitude":-80.444991,
+    "iso:country":"US",
+    "sg:address":"105 N Jefferson St",
+    "sg:city":"Lewisburg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 645 7874",
+    "sg:postcode":"24901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OqpcPIwkyjRTU7HwGynyG_37.802251_-80.444991@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433977,
+    "wof:geomhash":"34fa7d55afb22281225dc9f40d85f074",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823432279
+        }
+    ],
+    "wof:id":823432279,
+    "wof:lastmodified":1463433977,
+    "wof:name":"Beauty Transitions",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -80.444991,
+    37.802251,
+    -80.444991,
+    37.802251
+],
+  "geometry": {"coordinates":[-80.444991,37.802251],"type":"Point"}
+}

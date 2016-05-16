@@ -1,0 +1,84 @@
+{
+  "id": 823455663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.978041,39.368874,-77.978041,39.368874",
+    "geom:latitude":39.368874,
+    "geom:longitude":-77.978041,
+    "iso:country":"US",
+    "sg:address":"1244 Strobridge Rd",
+    "sg:city":"Inwood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 229 1905",
+    "sg:postcode":"25428",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cleaner",
+        "carpet",
+        "cleaning-industrial",
+        "rug",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lLZr9gb8jHJTv7nA29HG2_39.368874_-77.978041@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435084,
+    "wof:geomhash":"471ef22119a0f4cb9407adc29763a198",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823455663
+        }
+    ],
+    "wof:id":823455663,
+    "wof:lastmodified":1463435084,
+    "wof:name":"A 1 Cleaning Service",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "carpet",
+        "cleaning-industrial",
+        "rug",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -77.978041,
+    39.368874,
+    -77.978041,
+    39.368874
+],
+  "geometry": {"coordinates":[-77.978041,39.368874],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823394477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.707764,38.373339,-81.707764,38.373339",
+    "geom:latitude":38.373339,
+    "geom:longitude":-81.707764,
+    "iso:country":"US",
+    "sg:address":"4008 Washington St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 7363",
+    "sg:postcode":"25313",
+    "sg:province":"WV",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5w0pNQ8dFv1rWgAg4yzWtH_38.373339_-81.707764@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432307,
+    "wof:geomhash":"3ee6289cf8e415c57614c86cb2d084ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823394477
+        }
+    ],
+    "wof:id":823394477,
+    "wof:lastmodified":1463432307,
+    "wof:name":"Fraternal Order Of Eagles",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -81.707764,
+    38.373339,
+    -81.707764,
+    38.373339
+],
+  "geometry": {"coordinates":[-81.707764,38.373339],"type":"Point"}
+}

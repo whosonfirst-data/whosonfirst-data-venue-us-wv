@@ -1,0 +1,73 @@
+{
+  "id": 823446807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.301211,39.396407,-80.301211,39.396407",
+    "geom:latitude":39.396407,
+    "geom:longitude":-80.301211,
+    "iso:country":"US",
+    "sg:address":"37 Bridge St",
+    "sg:city":"Shinnston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 592 1851",
+    "sg:postcode":"26431",
+    "sg:province":"WV",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85831189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vjodTdnEZGIu2LIiO01xQ_39.396407_-80.301211@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434684,
+    "wof:geomhash":"df33cc8a0138b565f493df5d1da6abad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85831189,
+            "region_id":85688589,
+            "venue_id":823446807
+        }
+    ],
+    "wof:id":823446807,
+    "wof:lastmodified":1463434684,
+    "wof:name":"Shinnston Volunteer Fire Dept",
+    "wof:parent_id":85831189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -80.301211,
+    39.396407,
+    -80.301211,
+    39.396407
+],
+  "geometry": {"coordinates":[-80.301211,39.396407],"type":"Point"}
+}

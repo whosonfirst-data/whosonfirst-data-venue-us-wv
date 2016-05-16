@@ -1,0 +1,71 @@
+{
+  "id": 823376023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.963421,39.656734,-79.963421,39.656734",
+    "geom:latitude":39.656734,
+    "geom:longitude":-79.963421,
+    "iso:country":"US",
+    "sg:address":"1137 Van Voorhis Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 598 2700",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dsX31qB50uEQh3IzO45yX_39.656734_-79.963421@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431460,
+    "wof:geomhash":"eb2087c7c2131bf82197e9f588f62603",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823376023
+        }
+    ],
+    "wof:id":823376023,
+    "wof:lastmodified":1463431460,
+    "wof:name":"Washington Financial Mortgage",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -79.963421,
+    39.656734,
+    -79.963421,
+    39.656734
+],
+  "geometry": {"coordinates":[-79.963421,39.656734],"type":"Point"}
+}

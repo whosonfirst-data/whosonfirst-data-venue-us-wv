@@ -1,0 +1,71 @@
+{
+  "id": 823366787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.541272,39.230987,-81.541272,39.230987",
+    "geom:latitude":39.230987,
+    "geom:longitude":-81.541272,
+    "iso:country":"US",
+    "sg:address":"2604 Unity Pl",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 428 4828",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HfBiBPUDncmaDO7ISboJL_39.230987_-81.541272@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431049,
+    "wof:geomhash":"4da1c049418c1dd6eae5973d1e6ae3af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823366787
+        }
+    ],
+    "wof:id":823366787,
+    "wof:lastmodified":1463431049,
+    "wof:name":"Unity Court Apartments",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -81.541272,
+    39.230987,
+    -81.541272,
+    39.230987
+],
+  "geometry": {"coordinates":[-81.54127200000001,39.230987],"type":"Point"}
+}

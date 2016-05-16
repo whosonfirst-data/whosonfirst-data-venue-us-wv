@@ -1,0 +1,71 @@
+{
+  "id": 823377199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.645933,38.488924,-81.645933,38.488924",
+    "geom:latitude":38.488924,
+    "geom:longitude":-81.645933,
+    "iso:country":"US",
+    "sg:address":"1972 Kelmont Ln",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 984 0808",
+    "sg:postcode":"25320",
+    "sg:province":"WV",
+    "sg:tags":[
+        "fence"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_779Rcc3kZmPwadZ83H8zel_38.488924_-81.645933@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431518,
+    "wof:geomhash":"f89af7bae79bc49704559c4aa2133a0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823377199
+        }
+    ],
+    "wof:id":823377199,
+    "wof:lastmodified":1463431518,
+    "wof:name":"Valley Fence Co",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence"
+    ]
+},
+  "bbox": [
+    -81.645933,
+    38.488924,
+    -81.645933,
+    38.488924
+],
+  "geometry": {"coordinates":[-81.645933,38.488924],"type":"Point"}
+}

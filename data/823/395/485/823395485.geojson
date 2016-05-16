@@ -1,0 +1,75 @@
+{
+  "id": 823395485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.86625,39.637942,-80.86625,39.637942",
+    "geom:latitude":39.637942,
+    "geom:longitude":-80.86625,
+    "iso:country":"US",
+    "sg:address":"98 Main St",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 2070",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_446Pp99h9GVPTbdOcmHfXL_39.637942_-80.866250@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432347,
+    "wof:geomhash":"3955fe03cd894db29e6c737324f4c0e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823395485
+        }
+    ],
+    "wof:id":823395485,
+    "wof:lastmodified":1463432347,
+    "wof:name":"Tri State Petroleum Inc",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -80.86625,
+    39.637942,
+    -80.86625,
+    39.637942
+],
+  "geometry": {"coordinates":[-80.86624999999999,39.637942],"type":"Point"}
+}

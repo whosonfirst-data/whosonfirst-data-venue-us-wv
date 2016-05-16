@@ -1,0 +1,71 @@
+{
+  "id": 823444981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.172151,37.348037,-81.172151,37.348037",
+    "geom:latitude":37.348037,
+    "geom:longitude":-81.172151,
+    "iso:country":"US",
+    "sg:address":"325 Teaberry St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 431 2003",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fkIdZ70jkIL6x88N4Nxvr_37.348037_-81.172151@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434591,
+    "wof:geomhash":"0b465f996dd305bcc41488839c3ccfa7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823444981
+        }
+    ],
+    "wof:id":823444981,
+    "wof:lastmodified":1463434591,
+    "wof:name":"East River Self Storage",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -81.172151,
+    37.348037,
+    -81.172151,
+    37.348037
+],
+  "geometry": {"coordinates":[-81.172151,37.348037],"type":"Point"}
+}

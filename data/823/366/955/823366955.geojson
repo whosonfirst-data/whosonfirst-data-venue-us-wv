@@ -1,0 +1,77 @@
+{
+  "id": 823366955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.611594,38.337714,-81.611594,38.337714",
+    "geom:latitude":38.337714,
+    "geom:longitude":-81.611594,
+    "iso:country":"US",
+    "sg:address":"1900 Washington St E",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 558 2234",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "program",
+        "state",
+        "adm"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85850023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07g6pP1DZXe7MnCS4Tv4CI_38.337714_-81.611594@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431056,
+    "wof:geomhash":"99fa390cb845fd5d7889372d89323a3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85850023,
+            "region_id":85688589,
+            "venue_id":823366955
+        }
+    ],
+    "wof:id":823366955,
+    "wof:lastmodified":1463431056,
+    "wof:name":"Development Office",
+    "wof:parent_id":85850023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "program",
+        "state",
+        "adm"
+    ]
+},
+  "bbox": [
+    -81.611594,
+    38.337714,
+    -81.611594,
+    38.337714
+],
+  "geometry": {"coordinates":[-81.611594,38.337714],"type":"Point"}
+}

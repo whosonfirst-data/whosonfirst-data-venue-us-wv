@@ -1,0 +1,71 @@
+{
+  "id": 823410527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.65407,38.37691,-81.65407,38.37691",
+    "geom:latitude":38.37691,
+    "geom:longitude":-81.65407,
+    "iso:country":"US",
+    "sg:address":"1817 Davis Cir",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 344 4290",
+    "sg:postcode":"25312",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JYqvKX8v4xwKdWj5KvExp_38.376910_-81.654070@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433048,
+    "wof:geomhash":"ba1550c1e17ffb35607df0b99d4bc530",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823410527
+        }
+    ],
+    "wof:id":823410527,
+    "wof:lastmodified":1463433048,
+    "wof:name":"Dudleys Heating & AC Serv",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.65407,
+    38.37691,
+    -81.65407,
+    38.37691
+],
+  "geometry": {"coordinates":[-81.65407,38.37691],"type":"Point"}
+}

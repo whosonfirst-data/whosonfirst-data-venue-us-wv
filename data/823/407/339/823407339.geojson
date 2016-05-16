@@ -1,0 +1,75 @@
+{
+  "id": 823407339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.64861,38.507271,-81.64861,38.507271",
+    "geom:latitude":38.507271,
+    "geom:longitude":-81.64861,
+    "iso:country":"US",
+    "sg:address":"2017 Derricks Creek Rd",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 984 2304",
+    "sg:postcode":"25320",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GLwXQJomKS00XIkUYONxF_38.507271_-81.648610@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432914,
+    "wof:geomhash":"e7a5d3be0ebf5aab33c312a59fd9d901",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823407339
+        }
+    ],
+    "wof:id":823407339,
+    "wof:lastmodified":1463432914,
+    "wof:name":"Moss Trucking",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -81.64861,
+    38.507271,
+    -81.64861,
+    38.507271
+],
+  "geometry": {"coordinates":[-81.64861000000001,38.507271],"type":"Point"}
+}

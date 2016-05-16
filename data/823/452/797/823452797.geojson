@@ -1,0 +1,73 @@
+{
+  "id": 823452797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.565538,38.397466,-82.565538,38.397466",
+    "geom:latitude":38.397466,
+    "geom:longitude":-82.565538,
+    "iso:country":"US",
+    "sg:address":"602 Oak St",
+    "sg:city":"Kenova",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/ceredo/206287-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"25530",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731517,
+        102083365,
+        85806071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kSBovl7nwg90nq6hn1dGz_38.397466_-82.565538@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434921,
+    "wof:geomhash":"df017dd5bbfa2868a567ce6ef094b52c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731517,
+            "neighbourhood_id":85806071,
+            "region_id":85688589,
+            "venue_id":823452797
+        }
+    ],
+    "wof:id":823452797,
+    "wof:lastmodified":1463434921,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85806071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -82.565538,
+    38.397466,
+    -82.565538,
+    38.397466
+],
+  "geometry": {"coordinates":[-82.565538,38.397466],"type":"Point"}
+}

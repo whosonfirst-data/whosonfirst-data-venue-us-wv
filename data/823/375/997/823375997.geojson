@@ -1,0 +1,71 @@
+{
+  "id": 823375997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.590772,38.326812,-81.590772,38.326812",
+    "geom:latitude":38.326812,
+    "geom:longitude":-81.590772,
+    "iso:country":"US",
+    "sg:address":"311 40th St SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 2332",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4V7UG0pAQLpHHwx0qoRqbl_38.326812_-81.590772@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431459,
+    "wof:geomhash":"f4ffe8285cd8601c98446c259950dec6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823375997
+        }
+    ],
+    "wof:id":823375997,
+    "wof:lastmodified":1463431459,
+    "wof:name":"Drive In Barber Shop",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.590772,
+    38.326812,
+    -81.590772,
+    38.326812
+],
+  "geometry": {"coordinates":[-81.590772,38.326812],"type":"Point"}
+}

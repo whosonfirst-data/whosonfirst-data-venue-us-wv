@@ -1,0 +1,71 @@
+{
+  "id": 823410173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.553214,39.248777,-81.553214,39.248777",
+    "geom:latitude":39.248777,
+    "geom:longitude":-81.553214,
+    "iso:country":"US",
+    "sg:address":"1006 Neal St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 485 2840",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PP2BlsV8NaB0Yocj3FytI_39.248777_-81.553214@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433031,
+    "wof:geomhash":"48fd2034e864e22e00c382d7a2c56918",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823410173
+        }
+    ],
+    "wof:id":823410173,
+    "wof:lastmodified":1463433031,
+    "wof:name":"Faith Plumbing",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.553214,
+    39.248777,
+    -81.553214,
+    39.248777
+],
+  "geometry": {"coordinates":[-81.553214,39.248777],"type":"Point"}
+}

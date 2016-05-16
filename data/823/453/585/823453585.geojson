@@ -1,0 +1,72 @@
+{
+  "id": 823453585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.002987,39.65027,-80.002987,39.65027",
+    "geom:latitude":39.65027,
+    "geom:longitude":-80.002987,
+    "iso:country":"US",
+    "sg:address":"5001 University Town Centre Dr",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/western/118405-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 1072",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731749,
+        102082587,
+        85807277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sIT4UsM0C67sO12NeSSjP_39.650270_-80.002987@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434953,
+    "wof:geomhash":"031deebb810e6c3681fed3b3c096f46d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731749,
+            "neighbourhood_id":85807277,
+            "region_id":85688589,
+            "venue_id":823453585
+        }
+    ],
+    "wof:id":823453585,
+    "wof:lastmodified":1463434953,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85807277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -80.002987,
+    39.65027,
+    -80.002987,
+    39.65027
+],
+  "geometry": {"coordinates":[-80.002987,39.65027],"type":"Point"}
+}

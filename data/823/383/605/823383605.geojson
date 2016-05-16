@@ -1,0 +1,73 @@
+{
+  "id": 823383605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.623016,38.343869,-81.623016,38.343869",
+    "geom:latitude":38.343869,
+    "geom:longitude":-81.623016,
+    "iso:country":"US",
+    "sg:address":"1430 Washington St E",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 346 9311",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nJvM9LrOCC9isjm1OckNl_38.343869_-81.623016@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431796,
+    "wof:geomhash":"0212d3504b25be22f0ee63e6d5d453c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823383605
+        }
+    ],
+    "wof:id":823383605,
+    "wof:lastmodified":1463431796,
+    "wof:name":"Strait's Cleaners & Coin Lndry",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -81.623016,
+    38.343869,
+    -81.623016,
+    38.343869
+],
+  "geometry": {"coordinates":[-81.62301600000001,38.343869],"type":"Point"}
+}

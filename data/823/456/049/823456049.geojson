@@ -1,0 +1,73 @@
+{
+  "id": 823456049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.17222,37.783355,-81.17222,37.783355",
+    "geom:latitude":37.783355,
+    "geom:longitude":-81.17222,
+    "iso:country":"US",
+    "sg:address":"207 Wood St",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Office Building",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 253 0424",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "park"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TFDZoIpeVnEr3Wkj5V2nY_37.783355_-81.172220@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435097,
+    "wof:geomhash":"acc7bb5fd5c8eaa6885b72954e6e1ab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823456049
+        }
+    ],
+    "wof:id":823456049,
+    "wof:lastmodified":1463435097,
+    "wof:name":"Riffle Rental Property",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "park"
+    ]
+},
+  "bbox": [
+    -81.17222,
+    37.783355,
+    -81.17222,
+    37.783355
+],
+  "geometry": {"coordinates":[-81.17222,37.783355],"type":"Point"}
+}

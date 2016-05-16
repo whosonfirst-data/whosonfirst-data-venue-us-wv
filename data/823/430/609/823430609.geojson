@@ -1,0 +1,71 @@
+{
+  "id": 823430609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.959867,39.625049,-79.959867,39.625049",
+    "geom:latitude":39.625049,
+    "geom:longitude":-79.959867,
+    "iso:country":"US",
+    "sg:address":"141 S High St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 291 4600",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6J3jI0OtSNE2nukxaZU8fE_39.625049_-79.959867@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433905,
+    "wof:geomhash":"cd9cfbb5702f950eac444ebf33d5147e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823430609
+        }
+    ],
+    "wof:id":823430609,
+    "wof:lastmodified":1463433905,
+    "wof:name":"Mountain Crest Properties LLC",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -79.959867,
+    39.625049,
+    -79.959867,
+    39.625049
+],
+  "geometry": {"coordinates":[-79.959867,39.625049],"type":"Point"}
+}

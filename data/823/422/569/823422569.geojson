@@ -1,0 +1,73 @@
+{
+  "id": 823422569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.728933,38.34426,-81.728933,38.34426",
+    "geom:latitude":38.34426,
+    "geom:longitude":-81.728933,
+    "iso:country":"US",
+    "sg:address":"1058 Chestnut St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 766 6222",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RMTpHVRRzvz1AizNEs3JD_38.344260_-81.728933@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433562,
+    "wof:geomhash":"8731f6b33a716046fd0c281912b301d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823422569
+        }
+    ],
+    "wof:id":823422569,
+    "wof:lastmodified":1463433562,
+    "wof:name":"Ostrin Electric Co",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.728933,
+    38.34426,
+    -81.728933,
+    38.34426
+],
+  "geometry": {"coordinates":[-81.728933,38.34426],"type":"Point"}
+}

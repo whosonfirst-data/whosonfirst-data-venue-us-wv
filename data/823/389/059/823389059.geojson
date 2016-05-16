@@ -1,0 +1,71 @@
+{
+  "id": 823389059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.574173,38.318453,-81.574173,38.318453",
+    "geom:latitude":38.318453,
+    "geom:longitude":-81.574173,
+    "iso:country":"US",
+    "sg:address":"5104 Noyes Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 746 0666",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lR02qZpf43ASInXaWrKOf_38.318453_-81.574173@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432033,
+    "wof:geomhash":"9d8c3b49cfd47bbb6887e9c49a676cb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823389059
+        }
+    ],
+    "wof:id":823389059,
+    "wof:lastmodified":1463432033,
+    "wof:name":"CAM Tran",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.574173,
+    38.318453,
+    -81.574173,
+    38.318453
+],
+  "geometry": {"coordinates":[-81.574173,38.318453],"type":"Point"}
+}

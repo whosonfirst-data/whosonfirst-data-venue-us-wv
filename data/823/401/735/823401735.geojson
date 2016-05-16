@@ -1,0 +1,73 @@
+{
+  "id": 823401735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.64728,38.360025,-81.64728,38.360025",
+    "geom:latitude":38.360025,
+    "geom:longitude":-81.64728,
+    "iso:country":"US",
+    "sg:address":"300 Virginia St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 6616",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78hyQO7AvnU2yQMcvlauDa_38.360025_-81.647280@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432661,
+    "wof:geomhash":"588f9fd8fbaf3a5a3f8296efb2415fb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823401735
+        }
+    ],
+    "wof:id":823401735,
+    "wof:lastmodified":1463432661,
+    "wof:name":"D Z S",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -81.64728,
+    38.360025,
+    -81.64728,
+    38.360025
+],
+  "geometry": {"coordinates":[-81.64727999999999,38.360025],"type":"Point"}
+}

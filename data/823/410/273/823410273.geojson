@@ -1,0 +1,73 @@
+{
+  "id": 823410273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.685955,38.361554,-81.685955,38.361554",
+    "geom:latitude":38.361554,
+    "geom:longitude":-81.685955,
+    "iso:country":"US",
+    "sg:address":"318 Montrose Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 2542",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fMgoQhStiueA4cPTrglZn_38.361554_-81.685955@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433039,
+    "wof:geomhash":"a242c505a6f04b5e470807bd83dbfbc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823410273
+        }
+    ],
+    "wof:id":823410273,
+    "wof:lastmodified":1463433039,
+    "wof:name":"Coram",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -81.685955,
+    38.361554,
+    -81.685955,
+    38.361554
+],
+  "geometry": {"coordinates":[-81.68595500000001,38.361554],"type":"Point"}
+}

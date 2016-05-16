@@ -1,0 +1,74 @@
+{
+  "id": 823438165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.650349,40.04699,-80.650349,40.04699",
+    "geom:latitude":40.04699,
+    "geom:longitude":-80.650349,
+    "iso:country":"US",
+    "sg:address":"2345 National Rd",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 242 0880",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "sg:website":"www.pizzahut.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85840717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4StEkfDfzgpdGu7PRY2586_40.046990_-80.650349@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434285,
+    "wof:geomhash":"b48751e90d9cf0de690719d185b4ce09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85840717,
+            "region_id":85688589,
+            "venue_id":823438165
+        }
+    ],
+    "wof:id":823438165,
+    "wof:lastmodified":1463434285,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85840717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -80.650349,
+    40.04699,
+    -80.650349,
+    40.04699
+],
+  "geometry": {"coordinates":[-80.65034900000001,40.04699],"type":"Point"}
+}

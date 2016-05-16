@@ -1,0 +1,69 @@
+{
+  "id": 823451511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.151565,37.973645,-81.151565,37.973645",
+    "geom:latitude":37.973645,
+    "geom:longitude":-81.151565,
+    "iso:country":"US",
+    "sg:address":"320 Jones Ave",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 469 2937",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_492qDsikgDuwX1x6q80QNQ_37.973645_-81.151565@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434874,
+    "wof:geomhash":"8bf76b71dea0aa5059c1e70fd73baac9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823451511
+        }
+    ],
+    "wof:id":823451511,
+    "wof:lastmodified":1463434874,
+    "wof:name":"Maducdoc Serafino S Jr MD PC",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician"
+    ]
+},
+  "bbox": [
+    -81.151565,
+    37.973645,
+    -81.151565,
+    37.973645
+],
+  "geometry": {"coordinates":[-81.15156500000001,37.973645],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823403785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.234092,37.256081,-81.234092,37.256081",
+    "geom:latitude":37.256081,
+    "geom:longitude":-81.234092,
+    "iso:country":"US",
+    "sg:address":"496 Cherry St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 327 7476",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NwFhUcyFwsgmF2DaSgDfJ_37.256081_-81.234092@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432749,
+    "wof:geomhash":"4c02c1fcf58b9567ca719123d4a75e86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823403785
+        }
+    ],
+    "wof:id":823403785,
+    "wof:lastmodified":1463432749,
+    "wof:name":"V R Phade MD",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.234092,
+    37.256081,
+    -81.234092,
+    37.256081
+],
+  "geometry": {"coordinates":[-81.234092,37.256081],"type":"Point"}
+}

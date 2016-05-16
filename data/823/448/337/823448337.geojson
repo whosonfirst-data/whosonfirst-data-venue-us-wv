@@ -1,0 +1,80 @@
+{
+  "id": 823448337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.510767,39.29238,-81.510767,39.29238",
+    "geom:latitude":39.29238,
+    "geom:longitude":-81.510767,
+    "iso:country":"US",
+    "sg:address":"108 Canterbury Dr",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 424 6521",
+    "sg:postcode":"26104",
+    "sg:province":"WV",
+    "sg:tags":[
+        "organization",
+        "grocery",
+        "consumer",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818799,
+        102083343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bCiVoF27UBLT9BTTYouKL_39.292380_-81.510767@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434754,
+    "wof:geomhash":"9da2cdfc79aaece03c67a349b89dd746",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "neighbourhood_id":85818799,
+            "region_id":85688589,
+            "venue_id":823448337
+        }
+    ],
+    "wof:id":823448337,
+    "wof:lastmodified":1463434754,
+    "wof:name":"National Dismantling & Equip",
+    "wof:parent_id":85818799,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "grocery",
+        "consumer",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.510767,
+    39.29238,
+    -81.510767,
+    39.29238
+],
+  "geometry": {"coordinates":[-81.510767,39.29238],"type":"Point"}
+}

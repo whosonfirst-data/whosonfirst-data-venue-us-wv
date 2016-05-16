@@ -1,0 +1,68 @@
+{
+  "id": 823450411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.97373,39.652954,-79.97373,39.652954",
+    "geom:latitude":39.652954,
+    "geom:longitude":-79.97373,
+    "iso:country":"US",
+    "sg:address":"308 Laurel St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 598 3725",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VIQVtSamNMcFob68NZy6I_39.652954_-79.973730@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434831,
+    "wof:geomhash":"2c4098b70969554280343d86c20ac802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851419,
+            "region_id":85688589,
+            "venue_id":823450411
+        }
+    ],
+    "wof:id":823450411,
+    "wof:lastmodified":1463434831,
+    "wof:name":"Department Council W Virgina",
+    "wof:parent_id":85851419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.97373,
+    39.652954,
+    -79.97373,
+    39.652954
+],
+  "geometry": {"coordinates":[-79.97373,39.652954],"type":"Point"}
+}

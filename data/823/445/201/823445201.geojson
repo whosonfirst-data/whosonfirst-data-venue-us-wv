@@ -1,0 +1,78 @@
+{
+  "id": 823445201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.594346,38.358383,-81.594346,38.358383",
+    "geom:latitude":38.358383,
+    "geom:longitude":-81.594346,
+    "iso:country":"US",
+    "sg:address":"1248 Greenbrier St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 1576",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shelter",
+        "veterinary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RNMNBdwDhI6AcArDTpDc2_38.358383_-81.594346@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434602,
+    "wof:geomhash":"d87e84d63d58b4bd9a71bc5595b67e95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823445201
+        }
+    ],
+    "wof:id":823445201,
+    "wof:lastmodified":1463434602,
+    "wof:name":"Kanawha Charleston Humane Assn",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelter",
+        "veterinary"
+    ]
+},
+  "bbox": [
+    -81.594346,
+    38.358383,
+    -81.594346,
+    38.358383
+],
+  "geometry": {"coordinates":[-81.594346,38.358383],"type":"Point"}
+}

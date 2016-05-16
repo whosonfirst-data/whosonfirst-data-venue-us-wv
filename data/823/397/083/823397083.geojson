@@ -1,0 +1,73 @@
+{
+  "id": 823397083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.057963,37.365066,-81.057963,37.365066",
+    "geom:latitude":37.365066,
+    "geom:longitude":-81.057963,
+    "iso:country":"US",
+    "sg:address":"162 Springdale Ave",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 3922",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FOlhAvc9166sE8lEDFUAP_37.365066_-81.057963@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432435,
+    "wof:geomhash":"1769b5cccd4a9bc4bcfe25ea996cc5e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823397083
+        }
+    ],
+    "wof:id":823397083,
+    "wof:lastmodified":1463432435,
+    "wof:name":"New Hope Family Practice",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.057963,
+    37.365066,
+    -81.057963,
+    37.365066
+],
+  "geometry": {"coordinates":[-81.057963,37.365066],"type":"Point"}
+}

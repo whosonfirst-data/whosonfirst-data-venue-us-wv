@@ -1,0 +1,73 @@
+{
+  "id": 823413809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.554638,39.250323,-81.554638,39.250323",
+    "geom:latitude":39.250323,
+    "geom:longitude":-81.554638,
+    "iso:country":"US",
+    "sg:address":"806 Division St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 485 7539",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85829881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IeSFPYZHwy17xLi4GyoRb_39.250323_-81.554638@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433171,
+    "wof:geomhash":"0d31ada4f3fc6a6063da4c9bd5b49686",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85829881,
+            "region_id":85688589,
+            "venue_id":823413809
+        }
+    ],
+    "wof:id":823413809,
+    "wof:lastmodified":1463433171,
+    "wof:name":"Loretto Auvil MD",
+    "wof:parent_id":85829881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.554638,
+    39.250323,
+    -81.554638,
+    39.250323
+],
+  "geometry": {"coordinates":[-81.554638,39.250323],"type":"Point"}
+}

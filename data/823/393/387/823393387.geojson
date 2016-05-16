@@ -1,0 +1,71 @@
+{
+  "id": 823393387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.028501,39.33869,-80.028501,39.33869",
+    "geom:latitude":39.33869,
+    "geom:longitude":-80.028501,
+    "iso:country":"US",
+    "sg:address":"202 Mc Graw Ave",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 265 0489",
+    "sg:postcode":"26354",
+    "sg:province":"WV",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731717,
+        102083351,
+        85855577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0M2ugyvWBdlOeqCrBDPprs_39.338690_-80.028501@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432248,
+    "wof:geomhash":"052d48f6acd2fc1392428c866e169ed4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083351,
+            "locality_id":101731717,
+            "neighbourhood_id":85855577,
+            "region_id":85688589,
+            "venue_id":823393387
+        }
+    ],
+    "wof:id":823393387,
+    "wof:lastmodified":1463432248,
+    "wof:name":"Bartlett Funeral Home",
+    "wof:parent_id":85855577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -80.028501,
+    39.33869,
+    -80.028501,
+    39.33869
+],
+  "geometry": {"coordinates":[-80.02850100000001,39.33869],"type":"Point"}
+}

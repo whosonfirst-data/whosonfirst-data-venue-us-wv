@@ -1,0 +1,71 @@
+{
+  "id": 823429699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.185552,39.425398,-80.185552,39.425398",
+    "geom:latitude":39.425398,
+    "geom:longitude":-80.185552,
+    "iso:country":"US",
+    "sg:address":"2642 David Cir",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 8457",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85834381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TgViJWKz0NswMif72j2Xo_39.425398_-80.185552@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433873,
+    "wof:geomhash":"b0509decbc99edea887383c621b254ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85834381,
+            "region_id":85688589,
+            "venue_id":823429699
+        }
+    ],
+    "wof:id":823429699,
+    "wof:lastmodified":1463433873,
+    "wof:name":"George E Piggott & Associates",
+    "wof:parent_id":85834381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -80.185552,
+    39.425398,
+    -80.185552,
+    39.425398
+],
+  "geometry": {"coordinates":[-80.185552,39.425398],"type":"Point"}
+}

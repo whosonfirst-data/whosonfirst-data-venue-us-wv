@@ -1,0 +1,73 @@
+{
+  "id": 823405399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.553279,39.248842,-81.553279,39.248842",
+    "geom:latitude":39.248842,
+    "geom:longitude":-81.553279,
+    "iso:country":"US",
+    "sg:address":"910 Neal St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 428 4684",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop",
+        "consignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CPmQWqUpgKB09f7eFOMb4_39.248842_-81.553279@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432832,
+    "wof:geomhash":"33ab5c07dbd9ec3546b563677c59a553",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823405399
+        }
+    ],
+    "wof:id":823405399,
+    "wof:lastmodified":1463432832,
+    "wof:name":"Neal Street Resale Store",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "consignment"
+    ]
+},
+  "bbox": [
+    -81.553279,
+    39.248842,
+    -81.553279,
+    39.248842
+],
+  "geometry": {"coordinates":[-81.553279,39.248842],"type":"Point"}
+}

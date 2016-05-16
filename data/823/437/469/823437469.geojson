@@ -1,0 +1,71 @@
+{
+  "id": 823437469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.125606,39.528246,-80.125606,39.528246",
+    "geom:latitude":39.528246,
+    "geom:longitude":-80.125606,
+    "iso:country":"US",
+    "sg:address":"142 Main St",
+    "sg:city":"Rivesville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 278 5301",
+    "sg:postcode":"26588",
+    "sg:province":"WV",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UVPFvUG66rsl1XqZBqq4J_39.528246_-80.125606@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434257,
+    "wof:geomhash":"e5be3426cf96410c8af3153dbaa24695",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823437469
+        }
+    ],
+    "wof:id":823437469,
+    "wof:lastmodified":1463434257,
+    "wof:name":"Rivesville Recorder",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -80.125606,
+    39.528246,
+    -80.125606,
+    39.528246
+],
+  "geometry": {"coordinates":[-80.125606,39.528246],"type":"Point"}
+}

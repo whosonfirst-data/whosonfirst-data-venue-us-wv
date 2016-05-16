@@ -1,0 +1,73 @@
+{
+  "id": 823435457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.133225,38.438248,-82.133225,38.438248",
+    "geom:latitude":38.438248,
+    "geom:longitude":-82.133225,
+    "iso:country":"US",
+    "sg:address":"1300 Smith St",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 743 4121",
+    "sg:postcode":"25541",
+    "sg:province":"WV",
+    "sg:tags":[
+        "gun",
+        "gunsmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85816671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4b1dAJ8wP5D0Xn75zMwAB7_38.438248_-82.133225@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434144,
+    "wof:geomhash":"fb3dcd0b5fe1e8a6f70f350798a01367",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85816671,
+            "region_id":85688589,
+            "venue_id":823435457
+        }
+    ],
+    "wof:id":823435457,
+    "wof:lastmodified":1463434144,
+    "wof:name":"Morris Watch Shop",
+    "wof:parent_id":85816671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gun",
+        "gunsmith"
+    ]
+},
+  "bbox": [
+    -82.133225,
+    38.438248,
+    -82.133225,
+    38.438248
+],
+  "geometry": {"coordinates":[-82.133225,38.438248],"type":"Point"}
+}

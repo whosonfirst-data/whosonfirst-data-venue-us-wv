@@ -1,0 +1,71 @@
+{
+  "id": 823444125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.846012,38.922751,-79.846012,38.922751",
+    "geom:latitude":38.922751,
+    "geom:longitude":-79.846012,
+    "iso:country":"US",
+    "sg:address":"114 Davis St",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 3301",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ikPRIQTqJe72HqlklbMAk_38.922751_-79.846012@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434546,
+    "wof:geomhash":"c4981c1cd487d90959a8405117809c34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823444125
+        }
+    ],
+    "wof:id":823444125,
+    "wof:lastmodified":1463434546,
+    "wof:name":"Kroger Fuel Ctr",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -79.846012,
+    38.922751,
+    -79.846012,
+    38.922751
+],
+  "geometry": {"coordinates":[-79.846012,38.922751],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823423515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.563317,40.611436,-80.563317,40.611436",
+    "geom:latitude":40.611436,
+    "geom:longitude":-80.563317,
+    "iso:country":"US",
+    "sg:address":"424 4th St",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 0198",
+    "sg:postcode":"26034",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vquF0mCWbJjaaBr9KCOBl_40.611436_-80.563317@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433602,
+    "wof:geomhash":"02619e6301456cef6528a5d3a3f07c77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823423515
+        }
+    ],
+    "wof:id":823423515,
+    "wof:lastmodified":1463433602,
+    "wof:name":"Sacred Heart Church",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -80.563317,
+    40.611436,
+    -80.563317,
+    40.611436
+],
+  "geometry": {"coordinates":[-80.563317,40.611436],"type":"Point"}
+}

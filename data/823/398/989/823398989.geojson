@@ -1,0 +1,71 @@
+{
+  "id": 823398989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.985294,39.436115,-77.985294,39.436115",
+    "geom:latitude":39.436115,
+    "geom:longitude":-77.985294,
+    "iso:country":"US",
+    "sg:address":"1230 Winchester Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 0985",
+    "sg:postcode":"25405",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FxkrDsCrbx3Ol3fuLuKug_39.436115_-77.985294@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432532,
+    "wof:geomhash":"188639e8246f839d904722ad0c8e986c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823398989
+        }
+    ],
+    "wof:id":823398989,
+    "wof:lastmodified":1463432532,
+    "wof:name":"Flohr Pools Inc",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -77.985294,
+    39.436115,
+    -77.985294,
+    39.436115
+],
+  "geometry": {"coordinates":[-77.985294,39.436115],"type":"Point"}
+}

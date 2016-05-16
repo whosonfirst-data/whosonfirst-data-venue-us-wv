@@ -1,0 +1,66 @@
+{
+  "id": 823411909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.548311,38.323541,-81.548311,38.323541",
+    "geom:latitude":38.323541,
+    "geom:longitude":-81.548311,
+    "iso:country":"US",
+    "sg:address":"278 Dry Branch Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 9248",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4F3qKPEzAv7CgjN0VsHVsJ_38.323541_-81.548311@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433100,
+    "wof:geomhash":"30f18a2ab5480831bc1b8602084c8171",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823411909
+        }
+    ],
+    "wof:id":823411909,
+    "wof:lastmodified":1463433100,
+    "wof:name":"R & R Repairs",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.548311,
+    38.323541,
+    -81.548311,
+    38.323541
+],
+  "geometry": {"coordinates":[-81.548311,38.323541],"type":"Point"}
+}

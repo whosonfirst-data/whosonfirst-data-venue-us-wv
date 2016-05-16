@@ -1,0 +1,73 @@
+{
+  "id": 823430761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.859629,39.643288,-80.859629,39.643288",
+    "geom:latitude":39.643288,
+    "geom:longitude":-80.859629,
+    "iso:country":"US",
+    "sg:address":"423 Walnut St",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 6565",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "body",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lmkCKwSLYHZyUHPbcOIc9_39.643288_-80.859629@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433910,
+    "wof:geomhash":"91cbf3d7d7559c4915671fae64fdb366",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823430761
+        }
+    ],
+    "wof:id":823430761,
+    "wof:lastmodified":1463433910,
+    "wof:name":"Ed Boggs Body Shop",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "general"
+    ]
+},
+  "bbox": [
+    -80.859629,
+    39.643288,
+    -80.859629,
+    39.643288
+],
+  "geometry": {"coordinates":[-80.859629,39.643288],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823390757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.058488,37.3655,-81.058488,37.3655",
+    "geom:latitude":37.3655,
+    "geom:longitude":-81.058488,
+    "iso:country":"US",
+    "sg:address":"153 Springdale Ave",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 3602",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08Meekm8lJ9yU7gIEK6dGf_37.365500_-81.058488@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432111,
+    "wof:geomhash":"2b42c4e4383618d0603b374a1625e1e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823390757
+        }
+    ],
+    "wof:id":823390757,
+    "wof:lastmodified":1463432111,
+    "wof:name":"Springhaven Inc",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -81.058488,
+    37.3655,
+    -81.058488,
+    37.3655
+],
+  "geometry": {"coordinates":[-81.058488,37.3655],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823401575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.950447,38.441115,-81.950447,38.441115",
+    "geom:latitude":38.441115,
+    "geom:longitude":-81.950447,
+    "iso:country":"US",
+    "sg:address":"302 Teays Ln",
+    "sg:city":"Scott Depot",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 760 1081",
+    "sg:postcode":"25526",
+    "sg:province":"WV",
+    "sg:tags":[
+        "national",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731829,
+        102083381,
+        85868321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59oR9ApNsz6PCNYfKgi0sr_38.441115_-81.950447@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432653,
+    "wof:geomhash":"b30b4c73e464ee7b16647c87be39158d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731829,
+            "neighbourhood_id":85868321,
+            "region_id":85688589,
+            "venue_id":823401575
+        }
+    ],
+    "wof:id":823401575,
+    "wof:lastmodified":1463432653,
+    "wof:name":"National Bank Of Commerce",
+    "wof:parent_id":85868321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -81.950447,
+    38.441115,
+    -81.950447,
+    38.441115
+],
+  "geometry": {"coordinates":[-81.950447,38.441115],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823406021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.635061,38.392738,-81.635061,38.392738",
+    "geom:latitude":38.392738,
+    "geom:longitude":-81.635061,
+    "iso:country":"US",
+    "sg:address":"1648 Sugar Creek Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 344 4810",
+    "sg:postcode":"25312",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OYtk4mIzf4837VbBhJQPn_38.392738_-81.635061@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432859,
+    "wof:geomhash":"dba7b4c4c949f4e9ff3f40f635cf80a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823406021
+        }
+    ],
+    "wof:id":823406021,
+    "wof:lastmodified":1463432859,
+    "wof:name":"Sugar Creek Missionary Baptist",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.635061,
+    38.392738,
+    -81.635061,
+    38.392738
+],
+  "geometry": {"coordinates":[-81.63506099999999,38.392738],"type":"Point"}
+}

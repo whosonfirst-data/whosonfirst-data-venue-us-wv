@@ -1,0 +1,71 @@
+{
+  "id": 823423217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.09649,37.369777,-81.09649,37.369777",
+    "geom:latitude":37.369777,
+    "geom:longitude":-81.09649,
+    "iso:country":"US",
+    "sg:address":"114 Park Ave",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 3222",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_667kOnGnCy4YmXbs9jGJdV_37.369777_-81.096490@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433585,
+    "wof:geomhash":"ef5f0cb243ef195227503b816c634c5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823423217
+        }
+    ],
+    "wof:id":823423217,
+    "wof:lastmodified":1463433585,
+    "wof:name":"Psychological Assessment Svc",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -81.09649,
+    37.369777,
+    -81.09649,
+    37.369777
+],
+  "geometry": {"coordinates":[-81.09649,37.369777],"type":"Point"}
+}

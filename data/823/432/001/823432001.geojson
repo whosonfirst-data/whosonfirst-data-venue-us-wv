@@ -1,0 +1,77 @@
+{
+  "id": 823432001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.528724,38.21868,-81.528724,38.21868",
+    "geom:latitude":38.21868,
+    "geom:longitude":-81.528724,
+    "iso:country":"US",
+    "sg:address":"9 134th St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 5771",
+    "sg:postcode":"25315",
+    "sg:province":"WV",
+    "sg:tags":[
+        "diving",
+        "commercial",
+        "salvage",
+        "marine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0m8HWDPcFu7SP4leBhp6G3_38.218680_-81.528724@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433967,
+    "wof:geomhash":"a4e66adfded1a0a61370399f60b6c468",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823432001
+        }
+    ],
+    "wof:id":823432001,
+    "wof:lastmodified":1463433967,
+    "wof:name":"Commercial Diving Inc",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diving",
+        "commercial",
+        "salvage",
+        "marine"
+    ]
+},
+  "bbox": [
+    -81.528724,
+    38.21868,
+    -81.528724,
+    38.21868
+],
+  "geometry": {"coordinates":[-81.528724,38.21868],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823394275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.612877,40.26958,-80.612877,40.26958",
+    "geom:latitude":40.26958,
+    "geom:longitude":-80.612877,
+    "iso:country":"US",
+    "sg:address":"627 Charles St",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 0951",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lLIeEBbnsvh454LyVWYON_40.269580_-80.612877@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432299,
+    "wof:geomhash":"3b1ead0c156a0516c41ef517ea4d5b36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823394275
+        }
+    ],
+    "wof:id":823394275,
+    "wof:lastmodified":1463432299,
+    "wof:name":"B C & D Air Conditioning Svc",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.612877,
+    40.26958,
+    -80.612877,
+    40.26958
+],
+  "geometry": {"coordinates":[-80.612877,40.26958],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 823402781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.231571,37.87562,-81.231571,37.87562",
+    "geom:latitude":37.87562,
+    "geom:longitude":-81.231571,
+    "iso:country":"US",
+    "sg:address":"304 Mound St",
+    "sg:city":"Mt Hope",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 877 3723",
+    "sg:postcode":"25880",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TdFWo7xk9dYiD5noX4DW8_37.875620_-81.231571@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432703,
+    "wof:geomhash":"c9a2e0d4970c24e3b6a95fb564f5af8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823402781
+        }
+    ],
+    "wof:id":823402781,
+    "wof:lastmodified":1463432703,
+    "wof:name":"Triple A Garage",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -81.231571,
+    37.87562,
+    -81.231571,
+    37.87562
+],
+  "geometry": {"coordinates":[-81.231571,37.87562],"type":"Point"}
+}

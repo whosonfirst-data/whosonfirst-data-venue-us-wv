@@ -1,0 +1,71 @@
+{
+  "id": 823376333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.659305,38.37679,-81.659305,38.37679",
+    "geom:latitude":38.37679,
+    "geom:longitude":-81.659305,
+    "iso:country":"US",
+    "sg:address":"920 Amity Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 344 5739",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79kTT5JE28R8ZVMuU2sXGA_38.376790_-81.659305@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431476,
+    "wof:geomhash":"ea06bacc28ac9668f615c44e3382c783",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823376333
+        }
+    ],
+    "wof:id":823376333,
+    "wof:lastmodified":1463431476,
+    "wof:name":"Community Baptist Church",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.659305,
+    38.37679,
+    -81.659305,
+    38.37679
+],
+  "geometry": {"coordinates":[-81.659305,38.37679],"type":"Point"}
+}

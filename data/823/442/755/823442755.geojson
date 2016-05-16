@@ -1,0 +1,68 @@
+{
+  "id": 823442755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.954313,39.635523,-79.954313,39.635523",
+    "geom:latitude":39.635523,
+    "geom:longitude":-79.954313,
+    "iso:country":"US",
+    "sg:address":"1549 University Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 293 4040",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DjfwyDyDEb1QCHSGZAIEU_39.635523_-79.954313@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434484,
+    "wof:geomhash":"a2c0586ae6451c8ce9c8781893eefcdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851489,
+            "region_id":85688589,
+            "venue_id":823442755
+        }
+    ],
+    "wof:id":823442755,
+    "wof:lastmodified":1463434484,
+    "wof:name":"West Virginia Univ Main Libr",
+    "wof:parent_id":85851489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.954313,
+    39.635523,
+    -79.954313,
+    39.635523
+],
+  "geometry": {"coordinates":[-79.954313,39.635523],"type":"Point"}
+}

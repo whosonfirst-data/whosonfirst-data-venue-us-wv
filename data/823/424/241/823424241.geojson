@@ -1,0 +1,71 @@
+{
+  "id": 823424241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.086853,37.371584,-81.086853,37.371584",
+    "geom:latitude":37.371584,
+    "geom:longitude":-81.086853,
+    "iso:country":"US",
+    "sg:address":"203 N 2nd St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 7815",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IG6qAx0YstRq8qfWVDwd7_37.371584_-81.086853@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433631,
+    "wof:geomhash":"067f3a5c394d3f76e8b8624dced6066b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823424241
+        }
+    ],
+    "wof:id":823424241,
+    "wof:lastmodified":1463433631,
+    "wof:name":"E-Sat Technologies",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sales"
+    ]
+},
+  "bbox": [
+    -81.086853,
+    37.371584,
+    -81.086853,
+    37.371584
+],
+  "geometry": {"coordinates":[-81.086853,37.371584],"type":"Point"}
+}

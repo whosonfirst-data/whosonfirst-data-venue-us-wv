@@ -1,0 +1,73 @@
+{
+  "id": 823426067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.338039,39.280169,-80.338039,39.280169",
+    "geom:latitude":39.280169,
+    "geom:longitude":-80.338039,
+    "iso:country":"US",
+    "sg:address":"217 W Pike St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 624 5491",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TgcR2H4OtilVCnU88ppw4_39.280169_-80.338039@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433710,
+    "wof:geomhash":"a2a180cc7c719c82165475ef98775371",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823426067
+        }
+    ],
+    "wof:id":823426067,
+    "wof:lastmodified":1463433710,
+    "wof:name":"Blands Drug Store Inc",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -80.338039,
+    39.280169,
+    -80.338039,
+    39.280169
+],
+  "geometry": {"coordinates":[-80.33803899999999,39.280169],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823392833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.642834,38.36396,-81.642834,38.36396",
+    "geom:latitude":38.36396,
+    "geom:longitude":-81.642834,
+    "iso:country":"US",
+    "sg:address":"512 Washington St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 7202",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Gef60codpMi04zntDDRpT_38.363960_-81.642834@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432218,
+    "wof:geomhash":"ceeb1ab25f2a77abb1ff51d406fd1187",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823392833
+        }
+    ],
+    "wof:id":823392833,
+    "wof:lastmodified":1463432218,
+    "wof:name":"Vet Center",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -81.642834,
+    38.36396,
+    -81.642834,
+    38.36396
+],
+  "geometry": {"coordinates":[-81.64283399999999,38.36396],"type":"Point"}
+}

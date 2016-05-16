@@ -1,0 +1,64 @@
+{
+  "id": 823434829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.874146,37.743703,-81.874146,37.743703",
+    "geom:latitude":37.743703,
+    "geom:longitude":-81.874146,
+    "iso:country":"US",
+    "sg:address":"124 Main St",
+    "sg:city":"Man",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 583 9910",
+    "sg:postcode":"25635",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868319,
+        102083369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BheIXwOsbvBwz6uaRaGrJ_37.743703_-81.874146@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434119,
+    "wof:geomhash":"31e86ad35e3548e61c091dbb6e5afda9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083369,
+            "neighbourhood_id":85868319,
+            "region_id":85688589,
+            "venue_id":823434829
+        }
+    ],
+    "wof:id":823434829,
+    "wof:lastmodified":1463434119,
+    "wof:name":"Man Pharmacy",
+    "wof:parent_id":85868319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.874146,
+    37.743703,
+    -81.874146,
+    37.743703
+],
+  "geometry": {"coordinates":[-81.874146,37.743703],"type":"Point"}
+}

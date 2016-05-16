@@ -1,0 +1,71 @@
+{
+  "id": 823413909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.667523,38.415827,-81.667523,38.415827",
+    "geom:latitude":38.415827,
+    "geom:longitude":-81.667523,
+    "iso:country":"US",
+    "sg:address":"123 Fore Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 3148",
+    "sg:postcode":"25312",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lkB1XvuVwMClBYaobbgGD_38.415827_-81.667523@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433180,
+    "wof:geomhash":"ce9a28104644dee33d719cf9e9949f75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823413909
+        }
+    ],
+    "wof:id":823413909,
+    "wof:lastmodified":1463433180,
+    "wof:name":"Tim Epperhart Contracting",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.667523,
+    38.415827,
+    -81.667523,
+    38.415827
+],
+  "geometry": {"coordinates":[-81.667523,38.415827],"type":"Point"}
+}

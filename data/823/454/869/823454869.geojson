@@ -1,0 +1,74 @@
+{
+  "id": 823454869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.983073,39.525632,-77.983073,39.525632",
+    "geom:latitude":39.525632,
+    "geom:longitude":-77.983073,
+    "iso:country":"US",
+    "sg:address":"14 Crab Apple Ct",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 725 7001",
+    "sg:postcode":"25403",
+    "sg:province":"WV",
+    "sg:tags":[
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85846047,
+        102083367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35mfTsdPfLGi9nwvSPNyCh_39.525632_-77.983073@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435054,
+    "wof:geomhash":"8107399a86e0ed1e95804215e27a88d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "neighbourhood_id":85846047,
+            "region_id":85688589,
+            "venue_id":823454869
+        }
+    ],
+    "wof:id":823454869,
+    "wof:lastmodified":1463435054,
+    "wof:name":"La Cafe",
+    "wof:parent_id":85846047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "espresso"
+    ]
+},
+  "bbox": [
+    -77.983073,
+    39.525632,
+    -77.983073,
+    39.525632
+],
+  "geometry": {"coordinates":[-77.983073,39.525632],"type":"Point"}
+}

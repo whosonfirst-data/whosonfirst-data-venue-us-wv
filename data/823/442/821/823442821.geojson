@@ -1,0 +1,80 @@
+{
+  "id": 823442821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.564465,40.612052,-80.564465,40.612052",
+    "geom:latitude":40.612052,
+    "geom:longitude":-80.564465,
+    "iso:country":"US",
+    "sg:address":"360 Carolina Ave",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 1449",
+    "sg:postcode":"26034",
+    "sg:province":"WV",
+    "sg:tags":[
+        "candle",
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1htaM2nZ7DN6lNF9Cq8Slt_40.612052_-80.564465@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434487,
+    "wof:geomhash":"6fd51067418b2039e58a906e8ce677bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823442821
+        }
+    ],
+    "wof:id":823442821,
+    "wof:lastmodified":1463434487,
+    "wof:name":"Virginia Avenue Candle Co",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "candle",
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -80.564465,
+    40.612052,
+    -80.564465,
+    40.612052
+],
+  "geometry": {"coordinates":[-80.564465,40.612052],"type":"Point"}
+}

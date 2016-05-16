@@ -1,0 +1,71 @@
+{
+  "id": 823416739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.123064,37.370561,-81.123064,37.370561",
+    "geom:latitude":37.370561,
+    "geom:longitude":-81.123064,
+    "iso:country":"US",
+    "sg:address":"224 Hummingbird Ave",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 4421",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SOrlR4WrWxGfEgYsh5sFP_37.370561_-81.123064@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433317,
+    "wof:geomhash":"3bfea5c4822cb808ef65a6d7b9c82fe9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823416739
+        }
+    ],
+    "wof:id":823416739,
+    "wof:lastmodified":1463433317,
+    "wof:name":"Servillano V Garcia MD In",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -81.123064,
+    37.370561,
+    -81.123064,
+    37.370561
+],
+  "geometry": {"coordinates":[-81.123064,37.370561],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823380187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.563462,38.303456,-81.563462,38.303456",
+    "geom:latitude":38.303456,
+    "geom:longitude":-81.563462,
+    "iso:country":"US",
+    "sg:address":"6500 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 0002",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "skilled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JZZNG4skpllF9CSITI4mL_38.303456_-81.563462@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431643,
+    "wof:geomhash":"8fad6f68a2243bc825937ff3b0494b0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823380187
+        }
+    ],
+    "wof:id":823380187,
+    "wof:lastmodified":1463431643,
+    "wof:name":"Riverside Nrsing Rhabilitation",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled"
+    ]
+},
+  "bbox": [
+    -81.563462,
+    38.303456,
+    -81.563462,
+    38.303456
+],
+  "geometry": {"coordinates":[-81.563462,38.303456],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823378839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.726611,38.306745,-81.726611,38.306745",
+    "geom:latitude":38.306745,
+    "geom:longitude":-81.726611,
+    "iso:country":"US",
+    "sg:address":"321 Trace Fork Rd",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 8895",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04XuGciqti2Jth4AJoCTtJ_38.306745_-81.726611@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431589,
+    "wof:geomhash":"a76a6f0b4782c83b71c4f030e7f70211",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823378839
+        }
+    ],
+    "wof:id":823378839,
+    "wof:lastmodified":1463431589,
+    "wof:name":"Blakes Roofing",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.726611,
+    38.306745,
+    -81.726611,
+    38.306745
+],
+  "geometry": {"coordinates":[-81.72661100000001,38.306745],"type":"Point"}
+}

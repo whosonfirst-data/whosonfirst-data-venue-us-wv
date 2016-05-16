@@ -1,0 +1,72 @@
+{
+  "id": 823399951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.988025,39.658935,-79.988025,39.658935",
+    "geom:latitude":39.658935,
+    "geom:longitude":-79.988025,
+    "iso:country":"US",
+    "sg:address":"3490 University Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 5173",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "sg:website":"www.jancare.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731749,
+        102082587,
+        85807277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OWAbWFWUPSRcNznnto2eQ_39.658935_-79.988025@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432586,
+    "wof:geomhash":"4489ecde52bc0155a84fbacb599ba0ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731749,
+            "neighbourhood_id":85807277,
+            "region_id":85688589,
+            "venue_id":823399951
+        }
+    ],
+    "wof:id":823399951,
+    "wof:lastmodified":1463432586,
+    "wof:name":"Jan-Care Ambulance",
+    "wof:parent_id":85807277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -79.988025,
+    39.658935,
+    -79.988025,
+    39.658935
+],
+  "geometry": {"coordinates":[-79.98802499999999,39.658935],"type":"Point"}
+}

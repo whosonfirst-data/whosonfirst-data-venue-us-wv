@@ -1,0 +1,73 @@
+{
+  "id": 823375903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.137507,38.84457,-82.137507,38.84457",
+    "geom:latitude":38.84457,
+    "geom:longitude":-82.137507,
+    "iso:country":"US",
+    "sg:address":"225 6th St",
+    "sg:city":"Point Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 675 0857",
+    "sg:postcode":"25550",
+    "sg:province":"WV",
+    "sg:tags":[
+        "rehab",
+        "government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85983229,
+        102083675,
+        85824533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ECvc0EIUSgZRP0gmJW5D2_38.844570_-82.137507@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431456,
+    "wof:geomhash":"ae5ce81ef1dde29c0e60158ea7b6aaac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "neighbourhood_id":85824533,
+            "region_id":85688485,
+            "venue_id":823375903
+        }
+    ],
+    "wof:id":823375903,
+    "wof:lastmodified":1463431456,
+    "wof:name":"Job Service",
+    "wof:parent_id":85824533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehab",
+        "government"
+    ]
+},
+  "bbox": [
+    -82.137507,
+    38.84457,
+    -82.137507,
+    38.84457
+],
+  "geometry": {"coordinates":[-82.137507,38.84457],"type":"Point"}
+}

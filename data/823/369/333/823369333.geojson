@@ -1,0 +1,73 @@
+{
+  "id": 823369333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.595064,38.324521,-81.595064,38.324521",
+    "geom:latitude":38.324521,
+    "geom:longitude":-81.595064,
+    "iso:country":"US",
+    "sg:address":"13 Courtney Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 4200",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JQzQhI81ztB17GImM0aWr_38.324521_-81.595064@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431145,
+    "wof:geomhash":"47e863a6d5201ff5f1f02b7a578695a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823369333
+        }
+    ],
+    "wof:id":823369333,
+    "wof:lastmodified":1463431145,
+    "wof:name":"WV Gynecologic Oncology Assoc",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.595064,
+    38.324521,
+    -81.595064,
+    38.324521
+],
+  "geometry": {"coordinates":[-81.59506399999999,38.324521],"type":"Point"}
+}

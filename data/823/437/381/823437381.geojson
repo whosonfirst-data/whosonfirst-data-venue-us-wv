@@ -1,0 +1,71 @@
+{
+  "id": 823437381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.725115,38.373291,-81.725115,38.373291",
+    "geom:latitude":38.373291,
+    "geom:longitude":-81.725115,
+    "iso:country":"US",
+    "sg:address":"700 Roxalana Hills Dr",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 9773",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1v5cIvbMEm83WajzexNin7_38.373291_-81.725115@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434248,
+    "wof:geomhash":"29b60795bd8b30a3909a6f09d10c16b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823437381
+        }
+    ],
+    "wof:id":823437381,
+    "wof:lastmodified":1463434248,
+    "wof:name":"Roxalana Hills Apartments",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -81.725115,
+    38.373291,
+    -81.725115,
+    38.373291
+],
+  "geometry": {"coordinates":[-81.725115,38.373291],"type":"Point"}
+}

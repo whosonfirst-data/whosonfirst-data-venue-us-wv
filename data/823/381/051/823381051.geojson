@@ -1,0 +1,73 @@
+{
+  "id": 823381051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.401432,38.39832,-82.401432,38.39832",
+    "geom:latitude":38.39832,
+    "geom:longitude":-82.401432,
+    "iso:country":"US",
+    "sg:address":"118 Summit Dr",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 529 5712",
+    "sg:postcode":"25705",
+    "sg:province":"WV",
+    "sg:tags":[
+        "national",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083329,
+        85868309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ax0CNz59mg5IJMgDagbeZ_38.398320_-82.401432@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431692,
+    "wof:geomhash":"25493d5fb72001ac6b27c56706c3cbbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731553,
+            "neighbourhood_id":85868309,
+            "region_id":85688589,
+            "venue_id":823381051
+        }
+    ],
+    "wof:id":823381051,
+    "wof:lastmodified":1463431692,
+    "wof:name":"US Army Corps of Engineers",
+    "wof:parent_id":85868309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "security"
+    ]
+},
+  "bbox": [
+    -82.401432,
+    38.39832,
+    -82.401432,
+    38.39832
+],
+  "geometry": {"coordinates":[-82.401432,38.39832],"type":"Point"}
+}

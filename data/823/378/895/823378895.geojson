@@ -1,0 +1,73 @@
+{
+  "id": 823378895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.651189,38.36114,-81.651189,38.36114",
+    "geom:latitude":38.36114,
+    "geom:longitude":-81.651189,
+    "iso:country":"US",
+    "sg:address":"500 Grant St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 3600",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oPQ63Qxr5d9wqaDp5DmqY_38.361140_-81.651189@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431592,
+    "wof:geomhash":"d3ee88ef2961716cf16265c5f67ca7c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823378895
+        }
+    ],
+    "wof:id":823378895,
+    "wof:lastmodified":1463431592,
+    "wof:name":"All In One Mortgage",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -81.651189,
+    38.36114,
+    -81.651189,
+    38.36114
+],
+  "geometry": {"coordinates":[-81.651189,38.36114],"type":"Point"}
+}

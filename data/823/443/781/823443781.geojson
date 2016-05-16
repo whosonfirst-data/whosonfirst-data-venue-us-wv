@@ -1,0 +1,71 @@
+{
+  "id": 823443781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.144118,39.484735,-80.144118,39.484735",
+    "geom:latitude":39.484735,
+    "geom:longitude":-80.144118,
+    "iso:country":"US",
+    "sg:address":"314 Monroe St",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 367 5307",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64szODP7VHatcWJRevf7qG_39.484735_-80.144118@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434533,
+    "wof:geomhash":"7f5b2df18442722f579ed8ede18ce4e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823443781
+        }
+    ],
+    "wof:id":823443781,
+    "wof:lastmodified":1463434533,
+    "wof:name":"Marion County Sheriff Records",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -80.144118,
+    39.484735,
+    -80.144118,
+    39.484735
+],
+  "geometry": {"coordinates":[-80.14411800000001,39.484735],"type":"Point"}
+}

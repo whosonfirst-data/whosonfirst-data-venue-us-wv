@@ -1,0 +1,73 @@
+{
+  "id": 823394751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.103274,37.36595,-81.103274,37.36595",
+    "geom:latitude":37.36595,
+    "geom:longitude":-81.103274,
+    "iso:country":"US",
+    "sg:address":"120 Scott St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 0414",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "state",
+        "counsel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zHTfnhJz139CnTTJHx3AP_37.365950_-81.103274@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432316,
+    "wof:geomhash":"8d4de4093799f6f0ed6e5253926e59ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823394751
+        }
+    ],
+    "wof:id":823394751,
+    "wof:lastmodified":1463432316,
+    "wof:name":"Mercer County Public Defender",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "counsel"
+    ]
+},
+  "bbox": [
+    -81.103274,
+    37.36595,
+    -81.103274,
+    37.36595
+],
+  "geometry": {"coordinates":[-81.103274,37.36595],"type":"Point"}
+}

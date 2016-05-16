@@ -1,0 +1,71 @@
+{
+  "id": 823397581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.610652,40.286482,-80.610652,40.286482",
+    "geom:latitude":40.286482,
+    "geom:longitude":-80.610652,
+    "iso:country":"US",
+    "sg:address":"2239 Charles St",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 0915",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QbCWt3UKFKttVKEzSaEEu_40.286482_-80.610652@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432457,
+    "wof:geomhash":"766d20c90a2e2ae8fb9ecb1c2bb166f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823397581
+        }
+    ],
+    "wof:id":823397581,
+    "wof:lastmodified":1463432457,
+    "wof:name":"Delaney Enterprises",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -80.610652,
+    40.286482,
+    -80.610652,
+    40.286482
+],
+  "geometry": {"coordinates":[-80.610652,40.286482],"type":"Point"}
+}

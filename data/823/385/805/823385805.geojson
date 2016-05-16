@@ -1,0 +1,73 @@
+{
+  "id": 823385805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.163404,37.899191,-81.163404,37.899191",
+    "geom:latitude":37.899191,
+    "geom:longitude":-81.163404,
+    "iso:country":"US",
+    "sg:address":"106 Virginia Ave",
+    "sg:city":"Mount Hope",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 877 2465",
+    "sg:postcode":"25880",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731505,
+        102083359,
+        85852821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10PnIMVao2z0Y5tWXJJe0H_37.899191_-81.163404@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431879,
+    "wof:geomhash":"7be97ff35056664263b9b6ddf620d925",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "locality_id":101731505,
+            "neighbourhood_id":85852821,
+            "region_id":85688589,
+            "venue_id":823385805
+        }
+    ],
+    "wof:id":823385805,
+    "wof:lastmodified":1463431879,
+    "wof:name":"Mountain Village Ltd",
+    "wof:parent_id":85852821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -81.163404,
+    37.899191,
+    -81.163404,
+    37.899191
+],
+  "geometry": {"coordinates":[-81.163404,37.899191],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823376081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.231814,37.253535,-81.231814,37.253535",
+    "geom:latitude":37.253535,
+    "geom:longitude":-81.231814,
+    "iso:country":"US",
+    "sg:address":"1607 Maryland Ave",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 324 8703",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lzUFprP68eC0wzGO5MQiF_37.253535_-81.231814@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431462,
+    "wof:geomhash":"ef18f0a8d441d86a34563050778cd959",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823376081
+        }
+    ],
+    "wof:id":823376081,
+    "wof:lastmodified":1463431462,
+    "wof:name":"Bluefield Dental Associates",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -81.231814,
+    37.253535,
+    -81.231814,
+    37.253535
+],
+  "geometry": {"coordinates":[-81.231814,37.253535],"type":"Point"}
+}

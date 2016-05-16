@@ -1,0 +1,72 @@
+{
+  "id": 823397729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.040911,39.34271,-80.040911,39.34271",
+    "geom:latitude":39.34271,
+    "geom:longitude":-80.040911,
+    "iso:country":"US",
+    "sg:address":"914 W Main St",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 265 3333",
+    "sg:postcode":"26354",
+    "sg:province":"WV",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "sg:website":"www.mountainstatesman.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731717,
+        102083351,
+        85855577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2T5QZ61kP4rjphIcXUKDFS_39.342710_-80.040911@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432468,
+    "wof:geomhash":"3d8d33aa522d907ac8309750101907af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083351,
+            "locality_id":101731717,
+            "neighbourhood_id":85855577,
+            "region_id":85688589,
+            "venue_id":823397729
+        }
+    ],
+    "wof:id":823397729,
+    "wof:lastmodified":1463432468,
+    "wof:name":"Mountain Statesman",
+    "wof:parent_id":85855577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -80.040911,
+    39.34271,
+    -80.040911,
+    39.34271
+],
+  "geometry": {"coordinates":[-80.04091099999999,39.34271],"type":"Point"}
+}

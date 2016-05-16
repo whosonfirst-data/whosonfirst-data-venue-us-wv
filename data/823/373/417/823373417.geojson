@@ -1,0 +1,71 @@
+{
+  "id": 823373417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.305848,38.589073,-81.305848,38.589073",
+    "geom:latitude":38.589073,
+    "geom:longitude":-81.305848,
+    "iso:country":"US",
+    "sg:address":"375 Lewis Station Rd",
+    "sg:city":"Clendenin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 549 5580",
+    "sg:postcode":"25045",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731535,
+        102083399,
+        85868331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6u9HmhsirXStXAh5piLN4G_38.589073_-81.305848@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431337,
+    "wof:geomhash":"060a837ffeb0c03d13e2c0fdeffd8045",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083399,
+            "locality_id":101731535,
+            "neighbourhood_id":85868331,
+            "region_id":85688589,
+            "venue_id":823373417
+        }
+    ],
+    "wof:id":823373417,
+    "wof:lastmodified":1463431337,
+    "wof:name":"Paxtons Garage Inc",
+    "wof:parent_id":85868331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -81.305848,
+    38.589073,
+    -81.305848,
+    38.589073
+],
+  "geometry": {"coordinates":[-81.305848,38.589073],"type":"Point"}
+}

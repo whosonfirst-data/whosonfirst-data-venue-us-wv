@@ -1,0 +1,71 @@
+{
+  "id": 823398905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.978926,39.479378,-77.978926,39.479378",
+    "geom:latitude":39.479378,
+    "geom:longitude":-77.978926,
+    "iso:country":"US",
+    "sg:address":"2101 Martins Landing Cir",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 4403",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85846047,
+        102083367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25MhvM1nxkK9U2FZGAdp2a_39.479378_-77.978926@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432529,
+    "wof:geomhash":"6bd4cc6321aec1706819d4b6e4564962",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "neighbourhood_id":85846047,
+            "region_id":85688589,
+            "venue_id":823398905
+        }
+    ],
+    "wof:id":823398905,
+    "wof:lastmodified":1463432529,
+    "wof:name":"Martins Landing Apartments",
+    "wof:parent_id":85846047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -77.978926,
+    39.479378,
+    -77.978926,
+    39.479378
+],
+  "geometry": {"coordinates":[-77.978926,39.479378],"type":"Point"}
+}

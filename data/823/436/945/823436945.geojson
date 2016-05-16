@@ -1,0 +1,73 @@
+{
+  "id": 823436945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.747197,38.370088,-81.747197,38.370088",
+    "geom:latitude":38.370088,
+    "geom:longitude":-81.747197,
+    "iso:country":"US",
+    "sg:address":"2315 Fairlawn Ave",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 766 8500",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aJQahsZe7EJFoZIZIIzvq_38.370088_-81.747197@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434216,
+    "wof:geomhash":"986f6d5fb986b737fd0230b9c0b2952f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823436945
+        }
+    ],
+    "wof:id":823436945,
+    "wof:lastmodified":1463434216,
+    "wof:name":"Pappy's Heating & Cooling Inc",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.747197,
+    38.370088,
+    -81.747197,
+    38.370088
+],
+  "geometry": {"coordinates":[-81.747197,38.370088],"type":"Point"}
+}

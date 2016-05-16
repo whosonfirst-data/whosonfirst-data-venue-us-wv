@@ -1,0 +1,76 @@
+{
+  "id": 823431041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.143923,39.486637,-80.143923,39.486637",
+    "geom:latitude":39.486637,
+    "geom:longitude":-80.143923,
+    "iso:country":"US",
+    "sg:address":"215 Scott Pl",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 6543",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fQbue045Yzp3fyXGIa1Jt_39.486637_-80.143923@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433921,
+    "wof:geomhash":"ea636e26d11273c4d1f719861027cb26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823431041
+        }
+    ],
+    "wof:id":823431041,
+    "wof:lastmodified":1463433921,
+    "wof:name":"Scott's Place Shelter",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welfare"
+    ]
+},
+  "bbox": [
+    -80.143923,
+    39.486637,
+    -80.143923,
+    39.486637
+],
+  "geometry": {"coordinates":[-80.143923,39.486637],"type":"Point"}
+}

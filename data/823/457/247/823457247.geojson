@@ -1,0 +1,89 @@
+{
+  "id": 823457247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.008364,39.605674,-80.008364,39.605674",
+    "geom:latitude":39.605674,
+    "geom:longitude":-80.008364,
+    "iso:country":"US",
+    "sg:address":"384 Saylor Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 216 4532",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cleaner",
+        "upholstery",
+        "fabric",
+        "rug",
+        "protection",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818601,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WZt5pzjwmmEiws49i0Nhj_39.605674_-80.008364@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435151,
+    "wof:geomhash":"5260172a11b786b220225d2ef5e0b215",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85818601,
+            "region_id":85688589,
+            "venue_id":823457247
+        }
+    ],
+    "wof:id":823457247,
+    "wof:lastmodified":1463435151,
+    "wof:name":"Extreme Green Carpet Cleaning",
+    "wof:parent_id":85818601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "upholstery",
+        "fabric",
+        "rug",
+        "protection",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -80.008364,
+    39.605674,
+    -80.008364,
+    39.605674
+],
+  "geometry": {"coordinates":[-80.008364,39.605674],"type":"Point"}
+}

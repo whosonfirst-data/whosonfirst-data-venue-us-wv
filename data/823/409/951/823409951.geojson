@@ -1,0 +1,71 @@
+{
+  "id": 823409951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.103713,37.373065,-81.103713,37.373065",
+    "geom:latitude":37.373065,
+    "geom:longitude":-81.103713,
+    "iso:country":"US",
+    "sg:address":"300 Blake Ave",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 3918",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "drycleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PENIJVGufX42LrX27SuJr_37.373065_-81.103713@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433018,
+    "wof:geomhash":"9e4b3f5d3119e09b338994bbed277f91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823409951
+        }
+    ],
+    "wof:id":823409951,
+    "wof:lastmodified":1463433018,
+    "wof:name":"Preston Dry Cleaners",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning"
+    ]
+},
+  "bbox": [
+    -81.103713,
+    37.373065,
+    -81.103713,
+    37.373065
+],
+  "geometry": {"coordinates":[-81.103713,37.373065],"type":"Point"}
+}

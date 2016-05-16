@@ -1,0 +1,72 @@
+{
+  "id": 823453163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.138136,37.98247,-81.138136,37.98247",
+    "geom:latitude":37.98247,
+    "geom:longitude":-81.138136,
+    "iso:country":"US",
+    "sg:address":"1005 Main St E",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/plateau/192381-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 469 6100",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Dt26D0d3j3fVuN8F9HkJc_37.982470_-81.138136@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434936,
+    "wof:geomhash":"cee1d7f5536d40c289bd64ab6dba427b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823453163
+        }
+    ],
+    "wof:id":823453163,
+    "wof:lastmodified":1463434936,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -81.138136,
+    37.98247,
+    -81.138136,
+    37.98247
+],
+  "geometry": {"coordinates":[-81.138136,37.98247],"type":"Point"}
+}

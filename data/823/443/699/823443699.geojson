@@ -1,0 +1,71 @@
+{
+  "id": 823443699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.582283,37.432367,-81.582283,37.432367",
+    "geom:latitude":37.432367,
+    "geom:longitude":-81.582283,
+    "iso:country":"US",
+    "sg:address":"165 Virgina Ave",
+    "sg:city":"Welch",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 436 4734",
+    "sg:postcode":"24801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85809677,
+        102083405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mF994xSbeb18zGPz3P5DW_37.432367_-81.582283@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434531,
+    "wof:geomhash":"b4ee77ac6863da1d2bec6f1ee975bff6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083405,
+            "neighbourhood_id":85809677,
+            "region_id":85688589,
+            "venue_id":823443699
+        }
+    ],
+    "wof:id":823443699,
+    "wof:lastmodified":1463434531,
+    "wof:name":"Greg's Electronic Repair",
+    "wof:parent_id":85809677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [
+    -81.582283,
+    37.432367,
+    -81.582283,
+    37.432367
+],
+  "geometry": {"coordinates":[-81.582283,37.432367],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823389087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.155477,37.97632,-81.155477,37.97632",
+    "geom:latitude":37.97632,
+    "geom:longitude":-81.155477,
+    "iso:country":"US",
+    "sg:address":"112 Burkholder St",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 469 4515",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21VfhjjvhZUy4rRIPiSvCn_37.976320_-81.155477@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432034,
+    "wof:geomhash":"f1827a7aedd48ad8e5a78b0eceba0fb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823389087
+        }
+    ],
+    "wof:id":823389087,
+    "wof:lastmodified":1463432034,
+    "wof:name":"Denny Neal Apts",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -81.155477,
+    37.97632,
+    -81.155477,
+    37.97632
+],
+  "geometry": {"coordinates":[-81.155477,37.97632],"type":"Point"}
+}

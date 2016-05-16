@@ -1,0 +1,71 @@
+{
+  "id": 823424861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.0507,39.352499,-78.0507,39.352499",
+    "geom:latitude":39.352499,
+    "geom:longitude":-78.0507,
+    "iso:country":"US",
+    "sg:address":"41 Co Rte 4/1",
+    "sg:city":"Hedgesville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 754 6639",
+    "sg:postcode":"25427",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fzSltbwKo0k2tWaohSdn2_39.352499_-78.050700@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433654,
+    "wof:geomhash":"098a82ebfa3bb7914c20f2c697e0f698",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823424861
+        }
+    ],
+    "wof:id":823424861,
+    "wof:lastmodified":1463433654,
+    "wof:name":"Wilts Contracting",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -78.0507,
+    39.352499,
+    -78.0507,
+    39.352499
+],
+  "geometry": {"coordinates":[-78.05070000000001,39.352499],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 823396885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.894105,37.666073,-80.894105,37.666073",
+    "geom:latitude":37.666073,
+    "geom:longitude":-80.894105,
+    "iso:country":"US",
+    "sg:address":"237 Main St",
+    "sg:city":"Hinton",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 466 0007",
+    "sg:postcode":"25951",
+    "sg:province":"WV",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731641,
+        102083407,
+        85804037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YnV9nad44BI70Nrbjq6Te_37.666073_-80.894105@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432428,
+    "wof:geomhash":"04bd695f74a21b35b02360770647c737",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083407,
+            "locality_id":101731641,
+            "neighbourhood_id":85804037,
+            "region_id":85688589,
+            "venue_id":823396885
+        }
+    ],
+    "wof:id":823396885,
+    "wof:lastmodified":1463432428,
+    "wof:name":"Fleshman's Auto Sales",
+    "wof:parent_id":85804037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -80.894105,
+    37.666073,
+    -80.894105,
+    37.666073
+],
+  "geometry": {"coordinates":[-80.894105,37.666073],"type":"Point"}
+}

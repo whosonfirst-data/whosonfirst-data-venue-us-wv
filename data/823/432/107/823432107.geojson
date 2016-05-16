@@ -1,0 +1,71 @@
+{
+  "id": 823432107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.412069,38.418789,-82.412069,38.418789",
+    "geom:latitude":38.418789,
+    "geom:longitude":-82.412069,
+    "iso:country":"US",
+    "sg:address":"2523 9th Ave",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 523 9166",
+    "sg:postcode":"25703",
+    "sg:province":"WV",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083329,
+        85868309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17wnoEC3uj5IiN4hfjhyr7_38.418789_-82.412069@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433972,
+    "wof:geomhash":"bd6882eefed1583f44dd9b30e8319a44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731553,
+            "neighbourhood_id":85868309,
+            "region_id":85688589,
+            "venue_id":823432107
+        }
+    ],
+    "wof:id":823432107,
+    "wof:lastmodified":1463433972,
+    "wof:name":"Janie Toney",
+    "wof:parent_id":85868309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -82.412069,
+    38.418789,
+    -82.412069,
+    38.418789
+],
+  "geometry": {"coordinates":[-82.412069,38.418789],"type":"Point"}
+}

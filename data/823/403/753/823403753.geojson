@@ -1,0 +1,75 @@
+{
+  "id": 823403753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.981525,39.452539,-77.981525,39.452539",
+    "geom:latitude":39.452539,
+    "geom:longitude":-77.981525,
+    "iso:country":"US",
+    "sg:address":"247 Rocky Ln",
+    "sg:city":"Harpers Ferry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 725 0855",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LtrZiimxiiDVJWLVolYVb_39.452539_-77.981525@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432742,
+    "wof:geomhash":"fc34f589cce2e069edce2b4b8a9ac0b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823403753
+        }
+    ],
+    "wof:id":823403753,
+    "wof:lastmodified":1463432742,
+    "wof:name":"Judy's Pet Sitting",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -77.981525,
+    39.452539,
+    -77.981525,
+    39.452539
+],
+  "geometry": {"coordinates":[-77.981525,39.452539],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823419181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.299518,37.794872,-80.299518,37.794872",
+    "geom:latitude":37.794872,
+    "geom:longitude":-80.299518,
+    "iso:country":"US",
+    "sg:address":"51 E Main St",
+    "sg:city":"White Slphr Spgs",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 536 1660",
+    "sg:postcode":"24986",
+    "sg:province":"WV",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28rbouvfeZo8znEdlaT3Ig_37.794872_-80.299518@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433433,
+    "wof:geomhash":"3556f481ae0bc464f0607e57cbe48866",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823419181
+        }
+    ],
+    "wof:id":823419181,
+    "wof:lastmodified":1463433433,
+    "wof:name":"White Sulphur Springs Rescue",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -80.299518,
+    37.794872,
+    -80.299518,
+    37.794872
+],
+  "geometry": {"coordinates":[-80.29951800000001,37.794872],"type":"Point"}
+}

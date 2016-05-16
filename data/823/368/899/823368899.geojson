@@ -1,0 +1,73 @@
+{
+  "id": 823368899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.137931,38.845463,-82.137931,38.845463",
+    "geom:latitude":38.845463,
+    "geom:longitude":-82.137931,
+    "iso:country":"US",
+    "sg:address":"626 Main St",
+    "sg:city":"Point Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 675 4300",
+    "sg:postcode":"25550",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85983229,
+        102083675,
+        85824533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54AM3UsnLw7hzmRwb9M1su_38.845463_-82.137931@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431130,
+    "wof:geomhash":"08b82376f8b794c0d217030a4ffa44f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "neighbourhood_id":85824533,
+            "region_id":85688485,
+            "venue_id":823368899
+        }
+    ],
+    "wof:id":823368899,
+    "wof:lastmodified":1463431130,
+    "wof:name":"Anwar Eye Ctr",
+    "wof:parent_id":85824533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -82.137931,
+    38.845463,
+    -82.137931,
+    38.845463
+],
+  "geometry": {"coordinates":[-82.13793099999999,38.845463],"type":"Point"}
+}

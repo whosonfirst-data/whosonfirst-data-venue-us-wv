@@ -1,0 +1,75 @@
+{
+  "id": 823380751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.218268,37.774322,-81.218268,37.774322",
+    "geom:latitude":37.774322,
+    "geom:longitude":-81.218268,
+    "iso:country":"US",
+    "sg:address":"222 Grist Mill Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 252 6750",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NRvg7JHe9jg0ukp70LFgm_37.774322_-81.218268@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431680,
+    "wof:geomhash":"1970ca25a7a1f65ecd8e3930eefbec36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823380751
+        }
+    ],
+    "wof:id":823380751,
+    "wof:lastmodified":1463431680,
+    "wof:name":"Daniel's Locksmith Alarm Systs",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -81.218268,
+    37.774322,
+    -81.218268,
+    37.774322
+],
+  "geometry": {"coordinates":[-81.21826799999999,37.774322],"type":"Point"}
+}

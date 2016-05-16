@@ -1,0 +1,71 @@
+{
+  "id": 823409723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.246425,39.285478,-80.246425,39.285478",
+    "geom:latitude":39.285478,
+    "geom:longitude":-80.246425,
+    "iso:country":"US",
+    "sg:address":"324 Bartlett Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 623 0307",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Xlk6YROsna47DjKslaPhs_39.285478_-80.246425@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433010,
+    "wof:geomhash":"e0145dfe4ad348222efc982a854d731e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823409723
+        }
+    ],
+    "wof:id":823409723,
+    "wof:lastmodified":1463433010,
+    "wof:name":"East View United Methodist Chr",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -80.246425,
+    39.285478,
+    -80.246425,
+    39.285478
+],
+  "geometry": {"coordinates":[-80.246425,39.285478],"type":"Point"}
+}

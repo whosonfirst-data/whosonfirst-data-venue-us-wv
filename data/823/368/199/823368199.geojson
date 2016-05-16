@@ -1,0 +1,73 @@
+{
+  "id": 823368199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.00978,37.422975,-81.00978,37.422975",
+    "geom:latitude":37.422975,
+    "geom:longitude":-81.00978,
+    "iso:country":"US",
+    "sg:address":"401 Vermillion St",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 384 7325",
+    "sg:postcode":"24712",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clinic",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KNBTEtqbhK7YcUb02yrXD_37.422975_-81.009780@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431105,
+    "wof:geomhash":"fe3eaaf4b6b1d7da9e42c53d38a496e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823368199
+        }
+    ],
+    "wof:id":823368199,
+    "wof:lastmodified":1463431105,
+    "wof:name":"Athens Family Practice",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "medical"
+    ]
+},
+  "bbox": [
+    -81.00978,
+    37.422975,
+    -81.00978,
+    37.422975
+],
+  "geometry": {"coordinates":[-81.00978000000001,37.422975],"type":"Point"}
+}

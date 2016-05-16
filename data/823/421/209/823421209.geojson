@@ -1,0 +1,77 @@
+{
+  "id": 823421209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.936231,39.672229,-79.936231,39.672229",
+    "geom:latitude":39.672229,
+    "geom:longitude":-79.936231,
+    "iso:country":"US",
+    "sg:address":"729 Bakers Ridge Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 2751",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "ope",
+        "apartment",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731747,
+        102082587,
+        85819247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36ntNqbB2IHAkNzJBuFzVP_39.672229_-79.936231@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433514,
+    "wof:geomhash":"77036c1b6ac6d0c4918e0e851fc7d348",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85819247,
+            "region_id":85688589,
+            "venue_id":823421209
+        }
+    ],
+    "wof:id":823421209,
+    "wof:lastmodified":1463433514,
+    "wof:name":"Morgantown Engineer & Cnstr Co",
+    "wof:parent_id":85819247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "ope",
+        "apartment",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -79.936231,
+    39.672229,
+    -79.936231,
+    39.672229
+],
+  "geometry": {"coordinates":[-79.93623100000001,39.672229],"type":"Point"}
+}

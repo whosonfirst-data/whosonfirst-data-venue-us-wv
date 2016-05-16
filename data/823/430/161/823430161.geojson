@@ -1,0 +1,71 @@
+{
+  "id": 823430161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.980984,39.472089,-77.980984,39.472089",
+    "geom:latitude":39.472089,
+    "geom:longitude":-77.980984,
+    "iso:country":"US",
+    "sg:address":"2004 Professional Ct",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 8964",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85846047,
+        102083367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00xY89WriI0XRxdr2AzqPI_39.472089_-77.980984@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433889,
+    "wof:geomhash":"ef2cf0ecb6dca3783f85153002bb7257",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "neighbourhood_id":85846047,
+            "region_id":85688589,
+            "venue_id":823430161
+        }
+    ],
+    "wof:id":823430161,
+    "wof:lastmodified":1463433889,
+    "wof:name":"Shenandoah Valley Med Syst Inc",
+    "wof:parent_id":85846047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -77.980984,
+    39.472089,
+    -77.980984,
+    39.472089
+],
+  "geometry": {"coordinates":[-77.98098400000001,39.472089],"type":"Point"}
+}

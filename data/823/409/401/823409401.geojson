@@ -1,0 +1,75 @@
+{
+  "id": 823409401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.958161,39.658025,-79.958161,39.658025",
+    "geom:latitude":39.658025,
+    "geom:longitude":-79.958161,
+    "iso:country":"US",
+    "sg:address":"767 Chestnut Ridge Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 1148",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "carwash",
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Zhj1FPKVqpf79hCa0azuc_39.658025_-79.958161@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432999,
+    "wof:geomhash":"311524c822907b00da00124106358291",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823409401
+        }
+    ],
+    "wof:id":823409401,
+    "wof:lastmodified":1463432999,
+    "wof:name":"Stenger's Car Wash",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash",
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -79.958161,
+    39.658025,
+    -79.958161,
+    39.658025
+],
+  "geometry": {"coordinates":[-79.958161,39.658025],"type":"Point"}
+}

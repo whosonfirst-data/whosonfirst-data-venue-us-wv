@@ -1,0 +1,71 @@
+{
+  "id": 823417363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.591921,40.395055,-80.591921,40.395055",
+    "geom:latitude":40.395055,
+    "geom:longitude":-80.591921,
+    "iso:country":"US",
+    "sg:address":"3924 Main St",
+    "sg:city":"Weirton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 797 8746",
+    "sg:postcode":"26062",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731371,
+        102082633,
+        85832497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eSwY0oIgw4r6yA30Hf4Hy_40.395055_-80.591921@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433351,
+    "wof:geomhash":"630c534a38553fe129f05e97aab2e0fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731371,
+            "neighbourhood_id":85832497,
+            "region_id":85688589,
+            "venue_id":823417363
+        }
+    ],
+    "wof:id":823417363,
+    "wof:lastmodified":1463433351,
+    "wof:name":"Tri State Medical",
+    "wof:parent_id":85832497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -80.591921,
+    40.395055,
+    -80.591921,
+    40.395055
+],
+  "geometry": {"coordinates":[-80.591921,40.395055],"type":"Point"}
+}

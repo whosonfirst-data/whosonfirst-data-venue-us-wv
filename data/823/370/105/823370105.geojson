@@ -1,0 +1,73 @@
+{
+  "id": 823370105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.091268,37.369716,-81.091268,37.369716",
+    "geom:latitude":37.369716,
+    "geom:longitude":-81.091268,
+    "iso:country":"US",
+    "sg:address":"613 Mercer St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 9500",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SdIfEtnMu7rwOgllvu2Dt_37.369716_-81.091268@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431179,
+    "wof:geomhash":"9ca09e82039c5a09a6736505ea35dcfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823370105
+        }
+    ],
+    "wof:id":823370105,
+    "wof:lastmodified":1463431179,
+    "wof:name":"Ayc Family Resource Ctr",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -81.091268,
+    37.369716,
+    -81.091268,
+    37.369716
+],
+  "geometry": {"coordinates":[-81.091268,37.369716],"type":"Point"}
+}

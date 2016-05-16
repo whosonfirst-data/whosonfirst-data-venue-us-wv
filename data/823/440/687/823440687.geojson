@@ -1,0 +1,73 @@
+{
+  "id": 823440687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.511032,38.321288,-81.511032,38.321288",
+    "geom:latitude":38.321288,
+    "geom:longitude":-81.511032,
+    "iso:country":"US",
+    "sg:address":"603 Staton Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 926 6350",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1p0pnWU1dJjy0l7t8VkcoD_38.321288_-81.511032@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434395,
+    "wof:geomhash":"e9d8300e8981443c5c4d567b419cf253",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823440687
+        }
+    ],
+    "wof:id":823440687,
+    "wof:lastmodified":1463434395,
+    "wof:name":"R Hall Builder",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.511032,
+    38.321288,
+    -81.511032,
+    38.321288
+],
+  "geometry": {"coordinates":[-81.511032,38.321288],"type":"Point"}
+}

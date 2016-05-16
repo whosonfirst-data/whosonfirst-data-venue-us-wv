@@ -1,0 +1,73 @@
+{
+  "id": 823387961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.942693,38.448248,-81.942693,38.448248",
+    "geom:latitude":38.448248,
+    "geom:longitude":-81.942693,
+    "iso:country":"US",
+    "sg:address":"420 Scary Rd",
+    "sg:city":"Scott Depot",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 755 8671",
+    "sg:postcode":"25560",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731829,
+        102083381,
+        85868321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SXVlS8DjLl6hEAYaZm4ss_38.448248_-81.942693@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431963,
+    "wof:geomhash":"08d0c191acf4ebaee9e140c901c83c48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731829,
+            "neighbourhood_id":85868321,
+            "region_id":85688589,
+            "venue_id":823387961
+        }
+    ],
+    "wof:id":823387961,
+    "wof:lastmodified":1463431963,
+    "wof:name":"Sam Pauley Trucking",
+    "wof:parent_id":85868321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -81.942693,
+    38.448248,
+    -81.942693,
+    38.448248
+],
+  "geometry": {"coordinates":[-81.94269300000001,38.448248],"type":"Point"}
+}

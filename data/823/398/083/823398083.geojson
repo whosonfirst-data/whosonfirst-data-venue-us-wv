@@ -1,0 +1,73 @@
+{
+  "id": 823398083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.08662,37.369972,-81.08662,37.369972",
+    "geom:latitude":37.369972,
+    "geom:longitude":-81.08662,
+    "iso:country":"US",
+    "sg:address":"217 Mercer St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 431 2489",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rx9rKX4KEEt0rkdbtSzgC_37.369972_-81.086620@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432491,
+    "wof:geomhash":"5e17fa1f6601005057eaeb7928f1bf5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823398083
+        }
+    ],
+    "wof:id":823398083,
+    "wof:lastmodified":1463432491,
+    "wof:name":"Computers Express",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -81.08662,
+    37.369972,
+    -81.08662,
+    37.369972
+],
+  "geometry": {"coordinates":[-81.08662,37.369972],"type":"Point"}
+}

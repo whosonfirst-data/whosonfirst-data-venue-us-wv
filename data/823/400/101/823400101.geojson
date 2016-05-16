@@ -1,0 +1,73 @@
+{
+  "id": 823400101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.162236,37.341512,-81.162236,37.341512",
+    "geom:latitude":37.341512,
+    "geom:longitude":-81.162236,
+    "iso:country":"US",
+    "sg:address":"3947 New Hope Rd",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 7537",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home",
+        "improvement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nrvrRdRhS7LTwHPrq1Rpq_37.341512_-81.162236@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432591,
+    "wof:geomhash":"9f45c75b332bf5547dd63599f931c16f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823400101
+        }
+    ],
+    "wof:id":823400101,
+    "wof:lastmodified":1463432591,
+    "wof:name":"Professional Home Improvement",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "improvement"
+    ]
+},
+  "bbox": [
+    -81.162236,
+    37.341512,
+    -81.162236,
+    37.341512
+],
+  "geometry": {"coordinates":[-81.16223599999999,37.341512],"type":"Point"}
+}

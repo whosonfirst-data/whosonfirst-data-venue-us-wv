@@ -1,0 +1,79 @@
+{
+  "id": 823457725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.92505,39.585305,-79.92505,39.585305",
+    "geom:latitude":39.585305,
+    "geom:longitude":-79.92505,
+    "iso:country":"US",
+    "sg:address":"886 Kingwood Pike",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 5536",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732105,
+        102082587,
+        85807831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UJULoPKuF1dcPIad5o4Xe_39.585305_-79.925050@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435178,
+    "wof:geomhash":"92c4823d15e340c7175e82210a31d34b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101732105,
+            "neighbourhood_id":85807831,
+            "region_id":85688589,
+            "venue_id":823457725
+        }
+    ],
+    "wof:id":823457725,
+    "wof:lastmodified":1463435178,
+    "wof:name":"Michael's Auto Body",
+    "wof:parent_id":85807831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [
+    -79.92505,
+    39.585305,
+    -79.92505,
+    39.585305
+],
+  "geometry": {"coordinates":[-79.92505,39.585305],"type":"Point"}
+}

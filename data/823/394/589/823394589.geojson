@@ -1,0 +1,73 @@
+{
+  "id": 823394589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.126239,39.478995,-80.126239,39.478995",
+    "geom:latitude":39.478995,
+    "geom:longitude":-80.126239,
+    "iso:country":"US",
+    "sg:address":"824 Morgantown Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 6001",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UJuVhLu7xOXfAmdbw8Qkn_39.478995_-80.126239@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432311,
+    "wof:geomhash":"758129e9e0ea61fd6fc890da11102806",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823394589
+        }
+    ],
+    "wof:id":823394589,
+    "wof:lastmodified":1463432311,
+    "wof:name":"CAM Concepts",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -80.126239,
+    39.478995,
+    -80.126239,
+    39.478995
+],
+  "geometry": {"coordinates":[-80.126239,39.478995],"type":"Point"}
+}

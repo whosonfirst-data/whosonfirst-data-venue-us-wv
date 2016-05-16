@@ -1,0 +1,71 @@
+{
+  "id": 823375875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.939527,39.028945,-79.939527,39.028945",
+    "geom:latitude":39.028945,
+    "geom:longitude":-79.939527,
+    "iso:country":"US",
+    "sg:address":"210 Brandenburg St",
+    "sg:city":"Belington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 823 1401",
+    "sg:postcode":"26250",
+    "sg:province":"WV",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OgWQ7vtobxW3KJzp3TqQH_39.028945_-79.939527@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431455,
+    "wof:geomhash":"f52d0f93c99fd2bf4531d93debbfdb3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823375875
+        }
+    ],
+    "wof:id":823375875,
+    "wof:lastmodified":1463431455,
+    "wof:name":"Talbott Funeral Home",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -79.939527,
+    39.028945,
+    -79.939527,
+    39.028945
+],
+  "geometry": {"coordinates":[-79.939527,39.028945],"type":"Point"}
+}

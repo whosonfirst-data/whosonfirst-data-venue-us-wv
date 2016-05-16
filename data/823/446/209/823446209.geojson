@@ -1,0 +1,73 @@
+{
+  "id": 823446209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.534437,39.271664,-81.534437,39.271664",
+    "geom:latitude":39.271664,
+    "geom:longitude":-81.534437,
+    "iso:country":"US",
+    "sg:address":"1801 19th St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 422 8392",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "deli",
+        "grocery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85818775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BZUaWck5jCRgWFAveIgOD_39.271664_-81.534437@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434654,
+    "wof:geomhash":"2467003f3d16193377910b2c16882dc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85818775,
+            "region_id":85688589,
+            "venue_id":823446209
+        }
+    ],
+    "wof:id":823446209,
+    "wof:lastmodified":1463434654,
+    "wof:name":"19th Street Meat Market",
+    "wof:parent_id":85818775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "deli",
+        "grocery"
+    ]
+},
+  "bbox": [
+    -81.534437,
+    39.271664,
+    -81.534437,
+    39.271664
+],
+  "geometry": {"coordinates":[-81.534437,39.271664],"type":"Point"}
+}

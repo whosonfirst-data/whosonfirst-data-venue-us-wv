@@ -1,0 +1,71 @@
+{
+  "id": 823436339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.980004,38.451614,-81.980004,38.451614",
+    "geom:latitude":38.451614,
+    "geom:longitude":-81.980004,
+    "iso:country":"US",
+    "sg:address":"3608 Brookshire Dr",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 562 2784",
+    "sg:postcode":"25526",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731829,
+        102083381,
+        85868321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1v36so5dsnw2s2kTF11cKV_38.451614_-81.980004@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434188,
+    "wof:geomhash":"8153bfbec6f8b43485d2bd5f4b60539f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731829,
+            "neighbourhood_id":85868321,
+            "region_id":85688589,
+            "venue_id":823436339
+        }
+    ],
+    "wof:id":823436339,
+    "wof:lastmodified":1463434188,
+    "wof:name":"Alumni Housing Corp For Alpha",
+    "wof:parent_id":85868321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.980004,
+    38.451614,
+    -81.980004,
+    38.451614
+],
+  "geometry": {"coordinates":[-81.98000399999999,38.451614],"type":"Point"}
+}

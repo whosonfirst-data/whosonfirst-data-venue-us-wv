@@ -1,0 +1,73 @@
+{
+  "id": 823418063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.562598,38.243832,-81.562598,38.243832",
+    "geom:latitude":38.243832,
+    "geom:longitude":-81.562598,
+    "iso:country":"US",
+    "sg:address":"212 100th St",
+    "sg:city":"Marmet",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 1631",
+    "sg:postcode":"25315",
+    "sg:province":"WV",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Rd9KyJELQkTFrDg72q8fW_38.243832_-81.562598@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433384,
+    "wof:geomhash":"f16d8fbf24700382aad5f645e1308111",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823418063
+        }
+    ],
+    "wof:id":823418063,
+    "wof:lastmodified":1463433384,
+    "wof:name":"H & J Storage",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -81.562598,
+    38.243832,
+    -81.562598,
+    38.243832
+],
+  "geometry": {"coordinates":[-81.56259799999999,38.243832],"type":"Point"}
+}

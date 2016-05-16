@@ -1,0 +1,71 @@
+{
+  "id": 823404813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.532643,39.244405,-81.532643,39.244405",
+    "geom:latitude":39.244405,
+    "geom:longitude":-81.532643,
+    "iso:country":"US",
+    "sg:address":"615 Broadway Ave",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 420 9531",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44Mv2rwAbelWVno9pvaLae_39.244405_-81.532643@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432803,
+    "wof:geomhash":"a27a7597db03d5c668ad46dbf04fcd33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823404813
+        }
+    ],
+    "wof:id":823404813,
+    "wof:lastmodified":1463432803,
+    "wof:name":"Fairplains Elementary School",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -81.532643,
+    39.244405,
+    -81.532643,
+    39.244405
+],
+  "geometry": {"coordinates":[-81.53264299999999,39.244405],"type":"Point"}
+}

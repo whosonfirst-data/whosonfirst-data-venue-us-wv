@@ -1,0 +1,71 @@
+{
+  "id": 823403935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.269569,39.28164,-80.269569,39.28164",
+    "geom:latitude":39.28164,
+    "geom:longitude":-80.269569,
+    "iso:country":"US",
+    "sg:address":"1009 W Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 3940",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bklK788eeYUfCMw4RjNm2_39.281640_-80.269569@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432758,
+    "wof:geomhash":"1105c4d5e66533ebf01d372b90169688",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823403935
+        }
+    ],
+    "wof:id":823403935,
+    "wof:lastmodified":1463432758,
+    "wof:name":"Quick Lube Inc",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -80.269569,
+    39.28164,
+    -80.269569,
+    39.28164
+],
+  "geometry": {"coordinates":[-80.269569,39.28164],"type":"Point"}
+}

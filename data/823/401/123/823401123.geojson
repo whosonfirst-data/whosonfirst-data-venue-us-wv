@@ -1,0 +1,79 @@
+{
+  "id": 823401123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.201285,37.767638,-81.201285,37.767638",
+    "geom:latitude":37.767638,
+    "geom:longitude":-81.201285,
+    "iso:country":"US",
+    "sg:address":"1007 S Oakwood Ave",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 256 1220",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "laboratory",
+        "medical",
+        "management",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WBt6axIwq765xhob7OHpU_37.767638_-81.201285@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432635,
+    "wof:geomhash":"3f98e605bd8ea16c7d6e4ab2620e76e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823401123
+        }
+    ],
+    "wof:id":823401123,
+    "wof:lastmodified":1463432635,
+    "wof:name":"Beckley Hospital",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "medical",
+        "management",
+        "general"
+    ]
+},
+  "bbox": [
+    -81.201285,
+    37.767638,
+    -81.201285,
+    37.767638
+],
+  "geometry": {"coordinates":[-81.201285,37.767638],"type":"Point"}
+}

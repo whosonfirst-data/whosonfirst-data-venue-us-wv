@@ -1,0 +1,73 @@
+{
+  "id": 823409319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.07517,37.376004,-81.07517,37.376004",
+    "geom:latitude":37.376004,
+    "geom:longitude":-81.07517,
+    "iso:country":"US",
+    "sg:address":"718 N Wickham Ave",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 7888",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Q6besNmDd8KcIxDQ2vvRz_37.376004_-81.075170@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432996,
+    "wof:geomhash":"9582a38cdf7fdc389824c8502d80bb86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823409319
+        }
+    ],
+    "wof:id":823409319,
+    "wof:lastmodified":1463432996,
+    "wof:name":"Interlok Machine Svc",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.07517,
+    37.376004,
+    -81.07517,
+    37.376004
+],
+  "geometry": {"coordinates":[-81.07517,37.376004],"type":"Point"}
+}

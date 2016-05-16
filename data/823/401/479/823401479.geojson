@@ -1,0 +1,73 @@
+{
+  "id": 823401479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.572576,38.253668,-81.572576,38.253668",
+    "geom:latitude":38.253668,
+    "geom:longitude":-81.572576,
+    "iso:country":"US",
+    "sg:address":"8105 Maccorkle Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 6300",
+    "sg:postcode":"25315",
+    "sg:province":"WV",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xmGvQPsuDD6RXR0qcx30O_38.253668_-81.572576@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432650,
+    "wof:geomhash":"cb262d2ec96559997d42c57ff91def49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823401479
+        }
+    ],
+    "wof:id":823401479,
+    "wof:lastmodified":1463432650,
+    "wof:name":"Benchmark Preowned Autos LLC",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -81.572576,
+    38.253668,
+    -81.572576,
+    38.253668
+],
+  "geometry": {"coordinates":[-81.572576,38.253668],"type":"Point"}
+}

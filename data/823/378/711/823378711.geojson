@@ -1,0 +1,71 @@
+{
+  "id": 823378711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.519673,38.31464,-81.519673,38.31464",
+    "geom:latitude":38.31464,
+    "geom:longitude":-81.519673,
+    "iso:country":"US",
+    "sg:address":"3587 Coal Fork Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 4440",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GWWvYkrtCqpvgujnkzUbe_38.314640_-81.519673@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431585,
+    "wof:geomhash":"dc4e0ed82a3e51f8bb12415566475f4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823378711
+        }
+    ],
+    "wof:id":823378711,
+    "wof:lastmodified":1463431585,
+    "wof:name":"Richard C Baker",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -81.519673,
+    38.31464,
+    -81.519673,
+    38.31464
+],
+  "geometry": {"coordinates":[-81.519673,38.31464],"type":"Point"}
+}

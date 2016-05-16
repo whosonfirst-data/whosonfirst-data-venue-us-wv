@@ -1,0 +1,73 @@
+{
+  "id": 823451959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.682739,40.076599,-80.682739,40.076599",
+    "geom:latitude":40.076599,
+    "geom:longitude":-80.682739,
+    "iso:country":"US",
+    "sg:address":"93 Edgington Ln",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 233 9755",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85817519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cT0p9ZfDcD47uo96RprmQ_40.076693_-80.682417@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463434890,
+    "wof:geomhash":"255511ee97bdf434952fca3b7ea9e1e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85817519,
+            "region_id":85688589,
+            "venue_id":823451959
+        }
+    ],
+    "wof:id":823451959,
+    "wof:lastmodified":1463434890,
+    "wof:name":"First Class Limo",
+    "wof:parent_id":85817519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [
+    -80.682739,
+    40.076599,
+    -80.682739,
+    40.076599
+],
+  "geometry": {"coordinates":[-80.682739,40.076599],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 823452833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.96604,37.841269,-81.96604,37.841269",
+    "geom:latitude":37.841269,
+    "geom:longitude":-81.96604,
+    "iso:country":"US",
+    "sg:address":"161 Stollings Ave",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/central/71739-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 752 8287",
+    "sg:postcode":"25601",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868319,
+        102083369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fMFLAdsHsQSR0mTukXKPf_37.841269_-81.966040@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434922,
+    "wof:geomhash":"2949152170a42439413cdf78b92224eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083369,
+            "neighbourhood_id":85868319,
+            "region_id":85688589,
+            "venue_id":823452833
+        }
+    ],
+    "wof:id":823452833,
+    "wof:lastmodified":1463434922,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85868319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -81.96604,
+    37.841269,
+    -81.96604,
+    37.841269
+],
+  "geometry": {"coordinates":[-81.96604000000001,37.841269],"type":"Point"}
+}

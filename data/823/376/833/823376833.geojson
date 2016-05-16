@@ -1,0 +1,73 @@
+{
+  "id": 823376833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.700551,38.367782,-81.700551,38.367782",
+    "geom:latitude":38.367782,
+    "geom:longitude":-81.700551,
+    "iso:country":"US",
+    "sg:address":"150 Maccorkle Ave SW",
+    "sg:city":"South Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 720 9343",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rEL6vuvtrBw4SdsB9Xg7w_38.367782_-81.700551@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431499,
+    "wof:geomhash":"41ca2277cdd9681ea40a88e79cc75d82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823376833
+        }
+    ],
+    "wof:id":823376833,
+    "wof:lastmodified":1463431499,
+    "wof:name":"Joe Holland Quick Lube",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -81.700551,
+    38.367782,
+    -81.700551,
+    38.367782
+],
+  "geometry": {"coordinates":[-81.700551,38.367782],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823446687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.14272,39.484901,-80.14272,39.484901",
+    "geom:latitude":39.484901,
+    "geom:longitude":-80.14272,
+    "iso:country":"US",
+    "sg:address":"211 Adams St",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 2171",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4k9kENUkRj8UvzRvjfZqUK_39.484901_-80.142720@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434679,
+    "wof:geomhash":"28fe4a2aa9483c93d0ae440ee5322e7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823446687
+        }
+    ],
+    "wof:id":823446687,
+    "wof:lastmodified":1463434679,
+    "wof:name":"Circle Maintenance Inc",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -80.14272,
+    39.484901,
+    -80.14272,
+    39.484901
+],
+  "geometry": {"coordinates":[-80.14272,39.484901],"type":"Point"}
+}

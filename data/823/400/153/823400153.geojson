@@ -1,0 +1,71 @@
+{
+  "id": 823400153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.294986,38.406819,-82.294986,38.406819",
+    "geom:latitude":38.406819,
+    "geom:longitude":-82.294986,
+    "iso:country":"US",
+    "sg:address":"715 Central Ave",
+    "sg:city":"Barboursville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 736 9441",
+    "sg:postcode":"25504",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85816671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bJ01tS3gbu61AxKGSOl8p_38.406819_-82.294986@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432593,
+    "wof:geomhash":"8c06c7b90d1de058471ed3c96a0118d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85816671,
+            "region_id":85688589,
+            "venue_id":823400153
+        }
+    ],
+    "wof:id":823400153,
+    "wof:lastmodified":1463432593,
+    "wof:name":"Thomas F Wilkinson DDS",
+    "wof:parent_id":85816671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -82.294986,
+    38.406819,
+    -82.294986,
+    38.406819
+],
+  "geometry": {"coordinates":[-82.29498599999999,38.406819],"type":"Point"}
+}

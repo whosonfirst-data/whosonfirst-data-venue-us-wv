@@ -1,0 +1,67 @@
+{
+  "id": 823383311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.931587,39.604431,-80.931587,39.604431",
+    "geom:latitude":39.604431,
+    "geom:longitude":-80.931587,
+    "iso:country":"US",
+    "sg:address":"145 N 5th Ave",
+    "sg:city":"Paden City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 337 8181",
+    "sg:postcode":"26159",
+    "sg:province":"WV",
+    "sg:website":"www.appliancedoc.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cqFvUjtBAoCaMV2k9zSLG_39.604431_-80.931587@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431785,
+    "wof:geomhash":"46d0853e3b2854b1387224cfc89964f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823383311
+        }
+    ],
+    "wof:id":823383311,
+    "wof:lastmodified":1463431785,
+    "wof:name":"Appliance Doctor",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.931587,
+    39.604431,
+    -80.931587,
+    39.604431
+],
+  "geometry": {"coordinates":[-80.93158699999999,39.604431],"type":"Point"}
+}

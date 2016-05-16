@@ -1,0 +1,71 @@
+{
+  "id": 823372651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.74204,38.362761,-81.74204,38.362761",
+    "geom:latitude":38.362761,
+    "geom:longitude":-81.74204,
+    "iso:country":"US",
+    "sg:address":"1315 Payne Ave",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 0213",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DotXn6TkhXHmJuariBI9z_38.362761_-81.742040@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431308,
+    "wof:geomhash":"1bbd4df3e181f11c39ccf88c245e941a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823372651
+        }
+    ],
+    "wof:id":823372651,
+    "wof:lastmodified":1463431308,
+    "wof:name":"CIS Internet",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "internet"
+    ]
+},
+  "bbox": [
+    -81.74204,
+    38.362761,
+    -81.74204,
+    38.362761
+],
+  "geometry": {"coordinates":[-81.74204,38.362761],"type":"Point"}
+}

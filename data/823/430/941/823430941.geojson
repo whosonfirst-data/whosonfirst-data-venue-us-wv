@@ -1,0 +1,71 @@
+{
+  "id": 823430941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.298429,37.796805,-80.298429,37.796805",
+    "geom:latitude":37.796805,
+    "geom:longitude":-80.298429,
+    "iso:country":"US",
+    "sg:address":"120 Willow St",
+    "sg:city":"White Slphr Spgs",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 536 3550",
+    "sg:postcode":"24986",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hR8RmKVzBQtBfGlkjIoO5_37.796805_-80.298429@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433917,
+    "wof:geomhash":"332496dc871034ae120c6e9423437174",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823430941
+        }
+    ],
+    "wof:id":823430941,
+    "wof:lastmodified":1463433917,
+    "wof:name":"White Sulphur Springs Baptist",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -80.298429,
+    37.796805,
+    -80.298429,
+    37.796805
+],
+  "geometry": {"coordinates":[-80.298429,37.796805],"type":"Point"}
+}

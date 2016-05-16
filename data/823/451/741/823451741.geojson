@@ -1,0 +1,73 @@
+{
+  "id": 823451741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.148908,39.477607,-80.148908,39.477607",
+    "geom:latitude":39.477607,
+    "geom:longitude":-80.148908,
+    "iso:country":"US",
+    "sg:address":"605 Gaston Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 6230",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1L1S87VcFnsvWRM4FoNGrS_39.477624_-80.148990@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463434881,
+    "wof:geomhash":"217121d551ea9a6ebf5f537fc8911fc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823451741
+        }
+    ],
+    "wof:id":823451741,
+    "wof:lastmodified":1463434881,
+    "wof:name":"Leezer's Auto Repair",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -80.148908,
+    39.477607,
+    -80.148908,
+    39.477607
+],
+  "geometry": {"coordinates":[-80.14890800000001,39.477607],"type":"Point"}
+}

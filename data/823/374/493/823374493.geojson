@@ -1,0 +1,71 @@
+{
+  "id": 823374493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.152449,37.972946,-81.152449,37.972946",
+    "geom:latitude":37.972946,
+    "geom:longitude":-81.152449,
+    "iso:country":"US",
+    "sg:address":"324 Highland Ave",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 465 0987",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3K6ZESxDWe6Akvqk4renFc_37.972946_-81.152449@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431379,
+    "wof:geomhash":"c288f4ece4c2410c17e1ae6969421e43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823374493
+        }
+    ],
+    "wof:id":823374493,
+    "wof:lastmodified":1463431379,
+    "wof:name":"Box Office Video",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -81.152449,
+    37.972946,
+    -81.152449,
+    37.972946
+],
+  "geometry": {"coordinates":[-81.152449,37.972946],"type":"Point"}
+}

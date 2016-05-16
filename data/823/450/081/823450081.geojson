@@ -1,0 +1,73 @@
+{
+  "id": 823450081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.167991,39.395129,-80.167991,39.395129",
+    "geom:latitude":39.395129,
+    "geom:longitude":-80.167991,
+    "iso:country":"US",
+    "sg:address":"9204 Carriage Ln",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 534 5500",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731717,
+        102083351,
+        85855577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pC8TxtNHoZxsr9RaVou2d_39.395129_-80.167991@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434819,
+    "wof:geomhash":"c9052cd16ad3c909e90ea903bb25838b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083351,
+            "locality_id":101731717,
+            "neighbourhood_id":85855577,
+            "region_id":85688589,
+            "venue_id":823450081
+        }
+    ],
+    "wof:id":823450081,
+    "wof:lastmodified":1463434819,
+    "wof:name":"WZM Inc",
+    "wof:parent_id":85855577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.167991,
+    39.395129,
+    -80.167991,
+    39.395129
+],
+  "geometry": {"coordinates":[-80.167991,39.395129],"type":"Point"}
+}

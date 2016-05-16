@@ -1,0 +1,71 @@
+{
+  "id": 823409745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.544193,38.229439,-81.544193,38.229439",
+    "geom:latitude":38.229439,
+    "geom:longitude":-81.544193,
+    "iso:country":"US",
+    "sg:address":"11844 Maccorkle Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 1282",
+    "sg:postcode":"25315",
+    "sg:province":"WV",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PzbHQNM3fN7lSOuDUDugn_38.229439_-81.544193@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433011,
+    "wof:geomhash":"c6b641ab73c370570cb43bdbbb934c27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823409745
+        }
+    ],
+    "wof:id":823409745,
+    "wof:lastmodified":1463433011,
+    "wof:name":"John's Tree & Stump Removal",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -81.544193,
+    38.229439,
+    -81.544193,
+    38.229439
+],
+  "geometry": {"coordinates":[-81.54419300000001,38.229439],"type":"Point"}
+}

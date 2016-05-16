@@ -1,0 +1,71 @@
+{
+  "id": 823444159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.559722,38.290168,-81.559722,38.290168",
+    "geom:latitude":38.290168,
+    "geom:longitude":-81.559722,
+    "iso:country":"US",
+    "sg:address":"4799 Kanawha Blvd E",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 3127",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BrsZ59cne1PnIFbmxwFT8_38.290168_-81.559722@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434547,
+    "wof:geomhash":"3db686facfc1d7d9f6d676c0d28da0b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823444159
+        }
+    ],
+    "wof:id":823444159,
+    "wof:lastmodified":1463434547,
+    "wof:name":"Smith & Jones Mobile Homes Inc",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.559722,
+    38.290168,
+    -81.559722,
+    38.290168
+],
+  "geometry": {"coordinates":[-81.55972199999999,38.290168],"type":"Point"}
+}

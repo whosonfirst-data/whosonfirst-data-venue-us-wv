@@ -1,0 +1,73 @@
+{
+  "id": 823434153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.222104,37.258409,-81.222104,37.258409",
+    "geom:latitude":37.258409,
+    "geom:longitude":-81.222104,
+    "iso:country":"US",
+    "sg:address":"324 North St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 325 8174",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gVTLLhHAKT6fskXCiVr4j_37.258409_-81.222104@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434073,
+    "wof:geomhash":"ceca25ebfd3e0b75c90a67c26abed870",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823434153
+        }
+    ],
+    "wof:id":823434153,
+    "wof:lastmodified":1463434073,
+    "wof:name":"Albert J Paine MD",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.222104,
+    37.258409,
+    -81.222104,
+    37.258409
+],
+  "geometry": {"coordinates":[-81.222104,37.258409],"type":"Point"}
+}

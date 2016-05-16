@@ -1,0 +1,73 @@
+{
+  "id": 823406807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.122787,37.344546,-81.122787,37.344546",
+    "geom:latitude":37.344546,
+    "geom:longitude":-81.122787,
+    "iso:country":"US",
+    "sg:address":"416 Old Bluefield Rd",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 1661",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "occupational",
+        "therapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lmFcJiXBpoX74ml5PueAQ_37.344546_-81.122787@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432891,
+    "wof:geomhash":"ac0a8f3087876e0811df91e76bd3602e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823406807
+        }
+    ],
+    "wof:id":823406807,
+    "wof:lastmodified":1463432891,
+    "wof:name":"Hand & Rehabilitation Ctr",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "occupational",
+        "therapist"
+    ]
+},
+  "bbox": [
+    -81.122787,
+    37.344546,
+    -81.122787,
+    37.344546
+],
+  "geometry": {"coordinates":[-81.122787,37.344546],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823370285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.652928,38.367062,-81.652928,38.367062",
+    "geom:latitude":38.367062,
+    "geom:longitude":-81.652928,
+    "iso:country":"US",
+    "sg:address":"808 Virginia St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 348 8111",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RhaLcdQ8shpKSfO0j0CWP_38.367062_-81.652928@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431186,
+    "wof:geomhash":"0fbfce8bb1169ee33e662891b7f36a42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823370285
+        }
+    ],
+    "wof:id":823370285,
+    "wof:lastmodified":1463431186,
+    "wof:name":"Charleston Ambulance",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -81.652928,
+    38.367062,
+    -81.652928,
+    38.367062
+],
+  "geometry": {"coordinates":[-81.652928,38.367062],"type":"Point"}
+}

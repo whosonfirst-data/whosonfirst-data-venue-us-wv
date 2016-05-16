@@ -1,0 +1,71 @@
+{
+  "id": 823435761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.138487,38.84364,-82.138487,38.84364",
+    "geom:latitude":38.84364,
+    "geom:longitude":-82.138487,
+    "iso:country":"US",
+    "sg:address":"408 Main St",
+    "sg:city":"Point Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 675 4477",
+    "sg:postcode":"25550",
+    "sg:province":"WV",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85983229,
+        102083675,
+        85824533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yQj2p3HgrK5wCvSgYwR9m_38.843640_-82.138487@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434156,
+    "wof:geomhash":"e261df2aa137c211d5e3ca1ed218d86e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "neighbourhood_id":85824533,
+            "region_id":85688485,
+            "venue_id":823435761
+        }
+    ],
+    "wof:id":823435761,
+    "wof:lastmodified":1463434156,
+    "wof:name":"Mason Jar",
+    "wof:parent_id":85824533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -82.138487,
+    38.84364,
+    -82.138487,
+    38.84364
+],
+  "geometry": {"coordinates":[-82.138487,38.84364],"type":"Point"}
+}

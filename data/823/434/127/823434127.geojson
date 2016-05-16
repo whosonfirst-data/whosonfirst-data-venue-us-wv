@@ -1,0 +1,71 @@
+{
+  "id": 823434127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.565925,38.316724,-81.565925,38.316724",
+    "geom:latitude":38.316724,
+    "geom:longitude":-81.565925,
+    "iso:country":"US",
+    "sg:address":"5615 Kanawha Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 4828",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Mti0rznzJefsYS3Z7c4rz_38.316724_-81.565925@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434072,
+    "wof:geomhash":"ed300a8fd28fadc8ffe7336c4e3541be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823434127
+        }
+    ],
+    "wof:id":823434127,
+    "wof:lastmodified":1463434072,
+    "wof:name":"Alices Sports Bar",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -81.565925,
+    38.316724,
+    -81.565925,
+    38.316724
+],
+  "geometry": {"coordinates":[-81.56592499999999,38.316724],"type":"Point"}
+}

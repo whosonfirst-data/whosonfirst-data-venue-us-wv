@@ -1,0 +1,82 @@
+{
+  "id": 823453705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.974385,39.649737,-79.974385,39.649737",
+    "geom:latitude":39.649737,
+    "geom:longitude":-79.974385,
+    "iso:country":"US",
+    "sg:address":"334 Patteson Dr",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/central/179522-chick-fil-a/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 1840",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85818311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ppOtVhTKPAB2OouiyIogP_39.649737_-79.974385@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434957,
+    "wof:geomhash":"61b985f549d9dcb812c5e8604da62217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85818311,
+            "region_id":85688589,
+            "venue_id":823453705
+        }
+    ],
+    "wof:id":823453705,
+    "wof:lastmodified":1463434957,
+    "wof:name":"Chick-fil-A",
+    "wof:parent_id":85818311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ]
+},
+  "bbox": [
+    -79.974385,
+    39.649737,
+    -79.974385,
+    39.649737
+],
+  "geometry": {"coordinates":[-79.974385,39.649737],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823436825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.371989,39.26217,-80.371989,39.26217",
+    "geom:latitude":39.26217,
+    "geom:longitude":-80.371989,
+    "iso:country":"US",
+    "sg:address":"269 Frank Ave",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 624 3855",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home",
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85810773,
+        102082619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WTN8lIF4d0ngXipTEZxlI_39.262170_-80.371989@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434212,
+    "wof:geomhash":"99f754ede5f4ccdf5ab46e3f2c42a64b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "neighbourhood_id":85810773,
+            "region_id":85688589,
+            "venue_id":823436825
+        }
+    ],
+    "wof:id":823436825,
+    "wof:lastmodified":1463434212,
+    "wof:name":"McElwain Construction",
+    "wof:parent_id":85810773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "repair"
+    ]
+},
+  "bbox": [
+    -80.371989,
+    39.26217,
+    -80.371989,
+    39.26217
+],
+  "geometry": {"coordinates":[-80.371989,39.26217],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 823405015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.042124,39.693714,-80.042124,39.693714",
+    "geom:latitude":39.693714,
+    "geom:longitude":-80.042124,
+    "iso:country":"US",
+    "sg:address":"1529 Blue Horizon Dr",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 328 5665",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shaft",
+        "boring",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731749,
+        102082587,
+        85807277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TVacUX4qS39UOSsMmjD8C_39.693714_-80.042124@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432813,
+    "wof:geomhash":"a9d2d2e9baef0acde6e8bf1064f4d789",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731749,
+            "neighbourhood_id":85807277,
+            "region_id":85688589,
+            "venue_id":823405015
+        }
+    ],
+    "wof:id":823405015,
+    "wof:lastmodified":1463432813,
+    "wof:name":"Zeni Drilling Co",
+    "wof:parent_id":85807277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shaft",
+        "boring",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.042124,
+    39.693714,
+    -80.042124,
+    39.693714
+],
+  "geometry": {"coordinates":[-80.042124,39.693714],"type":"Point"}
+}

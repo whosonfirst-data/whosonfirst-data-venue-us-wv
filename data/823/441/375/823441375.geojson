@@ -1,0 +1,73 @@
+{
+  "id": 823441375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.18448,37.797692,-81.18448,37.797692",
+    "geom:latitude":37.797692,
+    "geom:longitude":-81.18448,
+    "iso:country":"US",
+    "sg:address":"3704 Robert C Byrd Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 255 3920",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sJQViqZ9cxJZmvStMoZq9_37.797692_-81.184480@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434420,
+    "wof:geomhash":"86973b2ce77e98f818d0f72f5d7ddfbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823441375
+        }
+    ],
+    "wof:id":823441375,
+    "wof:lastmodified":1463434420,
+    "wof:name":"Family Coin Laundry",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -81.18448,
+    37.797692,
+    -81.18448,
+    37.797692
+],
+  "geometry": {"coordinates":[-81.18447999999999,37.797692],"type":"Point"}
+}

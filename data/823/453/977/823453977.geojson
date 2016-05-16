@@ -1,0 +1,79 @@
+{
+  "id": 823453977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.567429,38.313342,-81.567429,38.313342",
+    "geom:latitude":38.313342,
+    "geom:longitude":-81.567429,
+    "iso:country":"US",
+    "sg:address":"5720 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/belle/35303-cracker-barrel-old-country-store/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 6004",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "southern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oAcyDSleglFgSD12w2iCH_38.313431_-81.567632@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434989,
+    "wof:geomhash":"323e9d8415b70008225a2d9ff9b4d068",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823453977
+        }
+    ],
+    "wof:id":823453977,
+    "wof:lastmodified":1463434989,
+    "wof:name":"Cracker Barrel Old Country Store",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "southern"
+    ]
+},
+  "bbox": [
+    -81.567429,
+    38.313342,
+    -81.567429,
+    38.313342
+],
+  "geometry": {"coordinates":[-81.567429,38.313342],"type":"Point"}
+}

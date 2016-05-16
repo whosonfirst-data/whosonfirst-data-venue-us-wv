@@ -1,0 +1,72 @@
+{
+  "id": 823428113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.344022,39.281586,-80.344022,39.281586",
+    "geom:latitude":39.281586,
+    "geom:longitude":-80.344022,
+    "iso:country":"US",
+    "sg:address":"545 W Pike St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 626 2000",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "communications"
+    ],
+    "sg:website":"www.iolinc.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5G6b1vMa3HGV2aqkEA3apf_39.281586_-80.344022@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433793,
+    "wof:geomhash":"97d1ea838ecb11b94c6c22212989b853",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823428113
+        }
+    ],
+    "wof:id":823428113,
+    "wof:lastmodified":1463433793,
+    "wof:name":"International On Line",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -80.344022,
+    39.281586,
+    -80.344022,
+    39.281586
+],
+  "geometry": {"coordinates":[-80.344022,39.281586],"type":"Point"}
+}

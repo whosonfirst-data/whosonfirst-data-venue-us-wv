@@ -1,0 +1,66 @@
+{
+  "id": 823429335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.595119,38.324382,-81.595119,38.324382",
+    "geom:latitude":38.324382,
+    "geom:longitude":-81.595119,
+    "iso:country":"US",
+    "sg:address":"3 Courtney Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 926 9200",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wH6CfwLoudYVCEYoKqVfD_38.324382_-81.595119@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433855,
+    "wof:geomhash":"0ea43b86edc77b1d4edce29f6fcf8cee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823429335
+        }
+    ],
+    "wof:id":823429335,
+    "wof:lastmodified":1463433855,
+    "wof:name":"Medical Eye Bank West Virgina",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.595119,
+    38.324382,
+    -81.595119,
+    38.324382
+],
+  "geometry": {"coordinates":[-81.595119,38.324382],"type":"Point"}
+}

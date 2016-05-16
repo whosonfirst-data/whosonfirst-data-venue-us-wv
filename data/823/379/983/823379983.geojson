@@ -1,0 +1,71 @@
+{
+  "id": 823379983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.008694,39.348424,-80.008694,39.348424",
+    "geom:latitude":39.348424,
+    "geom:longitude":-80.008694,
+    "iso:country":"US",
+    "sg:address":"401 N Pike St",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 265 1350",
+    "sg:postcode":"26354",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731717,
+        102083351,
+        85849697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LqLMOM4pmq419hgT5lguB_39.348424_-80.008694@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431635,
+    "wof:geomhash":"26f08e77289a76ff4bc2845d5efcc6ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083351,
+            "locality_id":101731717,
+            "neighbourhood_id":85849697,
+            "region_id":85688589,
+            "venue_id":823379983
+        }
+    ],
+    "wof:id":823379983,
+    "wof:lastmodified":1463431635,
+    "wof:name":"James E Malone",
+    "wof:parent_id":85849697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -80.008694,
+    39.348424,
+    -80.008694,
+    39.348424
+],
+  "geometry": {"coordinates":[-80.00869400000001,39.348424],"type":"Point"}
+}

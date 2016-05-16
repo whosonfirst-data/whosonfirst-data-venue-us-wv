@@ -1,0 +1,71 @@
+{
+  "id": 823417555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.082265,37.367335,-81.082265,37.367335",
+    "geom:latitude":37.367335,
+    "geom:longitude":-81.082265,
+    "iso:country":"US",
+    "sg:address":"301 S Wickham Ave",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 8830",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7L7p3AcdvlEwPShHvdK1tz_37.367335_-81.082265@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433363,
+    "wof:geomhash":"24846686504d393bb74e72a9c6b7aabb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823417555
+        }
+    ],
+    "wof:id":823417555,
+    "wof:lastmodified":1463433363,
+    "wof:name":"Glen's Towing",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -81.082265,
+    37.367335,
+    -81.082265,
+    37.367335
+],
+  "geometry": {"coordinates":[-81.08226500000001,37.367335],"type":"Point"}
+}

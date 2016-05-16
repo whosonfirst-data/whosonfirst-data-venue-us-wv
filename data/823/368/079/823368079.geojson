@@ -1,0 +1,71 @@
+{
+  "id": 823368079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.062519,37.373069,-81.062519,37.373069",
+    "geom:latitude":37.373069,
+    "geom:longitude":-81.062519,
+    "iso:country":"US",
+    "sg:address":"200 E Valley St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 3591",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49JSONmJ69F1ECOu6azigE_37.373069_-81.062519@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431101,
+    "wof:geomhash":"a24bf1727e8391180fccc569746d0f8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823368079
+        }
+    ],
+    "wof:id":823368079,
+    "wof:lastmodified":1463431101,
+    "wof:name":"Paul Alford",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -81.062519,
+    37.373069,
+    -81.062519,
+    37.373069
+],
+  "geometry": {"coordinates":[-81.06251899999999,37.373069],"type":"Point"}
+}

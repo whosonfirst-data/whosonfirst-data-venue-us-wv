@@ -1,0 +1,80 @@
+{
+  "id": 823376731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.74197,38.365055,-81.74197,38.365055",
+    "geom:latitude":38.365055,
+    "geom:longitude":-81.74197,
+    "iso:country":"US",
+    "sg:address":"522 16th St",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 766 9357",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "hospital",
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xYaEhSibDIH2ayqIMjuCo_38.365055_-81.741970@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431491,
+    "wof:geomhash":"b00e667aba6bc3520a23efaaae3f0736",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823376731
+        }
+    ],
+    "wof:id":823376731,
+    "wof:lastmodified":1463431491,
+    "wof:name":"Respiratory Therapy Services",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -81.74197,
+    38.365055,
+    -81.74197,
+    38.365055
+],
+  "geometry": {"coordinates":[-81.74196999999999,38.365055],"type":"Point"}
+}

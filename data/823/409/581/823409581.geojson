@@ -1,0 +1,73 @@
+{
+  "id": 823409581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.473345,38.407,-81.473345,38.407",
+    "geom:latitude":38.407,
+    "geom:longitude":-81.473345,
+    "iso:country":"US",
+    "sg:address":"213 Willow St",
+    "sg:city":"Elkview",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 965 1911",
+    "sg:postcode":"25071",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ixc0etcL4ZIie3ogpP1bn_38.407000_-81.473345@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433005,
+    "wof:geomhash":"b781623684911382be00610839e3ad4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823409581
+        }
+    ],
+    "wof:id":823409581,
+    "wof:lastmodified":1463433005,
+    "wof:name":"Smith Builders",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.473345,
+    38.407,
+    -81.473345,
+    38.407
+],
+  "geometry": {"coordinates":[-81.47334499999999,38.407],"type":"Point"}
+}

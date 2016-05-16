@@ -1,0 +1,73 @@
+{
+  "id": 823380469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.511239,39.177422,-81.511239,39.177422",
+    "geom:latitude":39.177422,
+    "geom:longitude":-81.511239,
+    "iso:country":"US",
+    "sg:address":"67 Locust Dr",
+    "sg:city":"Mineral Wells",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 489 4101",
+    "sg:postcode":"26150",
+    "sg:province":"WV",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3j7SQv17IK2BwZQxmPL1CS_39.177422_-81.511239@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431658,
+    "wof:geomhash":"fe2a12569186800086396645b94e1965",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823380469
+        }
+    ],
+    "wof:id":823380469,
+    "wof:lastmodified":1463431658,
+    "wof:name":"Straight-Cut Lawn Care",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.511239,
+    39.177422,
+    -81.511239,
+    39.177422
+],
+  "geometry": {"coordinates":[-81.511239,39.177422],"type":"Point"}
+}

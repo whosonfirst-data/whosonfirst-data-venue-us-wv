@@ -1,0 +1,71 @@
+{
+  "id": 823425635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.094838,37.36331,-81.094838,37.36331",
+    "geom:latitude":37.36331,
+    "geom:longitude":-81.094838,
+    "iso:country":"US",
+    "sg:address":"1211 Stafford Dr",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 8924",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HogxBgMT5nixrv5ZUhJ4x_37.363310_-81.094838@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433684,
+    "wof:geomhash":"d93860b967ce442b9c6e3002cdd3bbae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823425635
+        }
+    ],
+    "wof:id":823425635,
+    "wof:lastmodified":1463433684,
+    "wof:name":"Angelos Pizzeria Inc",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -81.094838,
+    37.36331,
+    -81.094838,
+    37.36331
+],
+  "geometry": {"coordinates":[-81.094838,37.36331],"type":"Point"}
+}

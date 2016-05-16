@@ -1,0 +1,75 @@
+{
+  "id": 823428169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.090462,37.369776,-81.090462,37.369776",
+    "geom:latitude":37.369776,
+    "geom:longitude":-81.090462,
+    "iso:country":"US",
+    "sg:address":"529 Mercer St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 3130",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XdzCn0BcRoZab6MlRZzXS_37.369776_-81.090462@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433795,
+    "wof:geomhash":"c36ab6e13299006fc723d78e46d49d8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823428169
+        }
+    ],
+    "wof:id":823428169,
+    "wof:lastmodified":1463433795,
+    "wof:name":"Bolin's Muffler Shop",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -81.090462,
+    37.369776,
+    -81.090462,
+    37.369776
+],
+  "geometry": {"coordinates":[-81.090462,37.369776],"type":"Point"}
+}

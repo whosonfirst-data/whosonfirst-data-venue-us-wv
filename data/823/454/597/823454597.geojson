@@ -1,0 +1,67 @@
+{
+  "id": 823454597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.988179,39.45488,-77.988179,39.45488",
+    "geom:latitude":39.45488,
+    "geom:longitude":-77.988179,
+    "iso:country":"US",
+    "sg:address":"734 Foxcroft Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Nail Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 262 3895",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:website":"http://www.pronails.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29ws8ens7B3wvp9LJeFzc9_39.454880_-77.988179@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435040,
+    "wof:geomhash":"c91cddef6d95170a5fbe321bbae7fe11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823454597
+        }
+    ],
+    "wof:id":823454597,
+    "wof:lastmodified":1463435040,
+    "wof:name":"Pro Nails",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.988179,
+    39.45488,
+    -77.988179,
+    39.45488
+],
+  "geometry": {"coordinates":[-77.988179,39.45488],"type":"Point"}
+}

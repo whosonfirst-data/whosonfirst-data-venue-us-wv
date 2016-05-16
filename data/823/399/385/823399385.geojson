@@ -1,0 +1,73 @@
+{
+  "id": 823399385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.480885,38.405139,-81.480885,38.405139",
+    "geom:latitude":38.405139,
+    "geom:longitude":-81.480885,
+    "iso:country":"US",
+    "sg:address":"296 S Pinch Rd",
+    "sg:city":"Elkview",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 548 4020",
+    "sg:postcode":"25071",
+    "sg:province":"WV",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EPDMqooQAG1v5tePXuzAO_38.405139_-81.480885@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432562,
+    "wof:geomhash":"2fad26dfbd69a5e951dad75cc0c3e2cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823399385
+        }
+    ],
+    "wof:id":823399385,
+    "wof:lastmodified":1463432562,
+    "wof:name":"Mountaineer Grading",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.480885,
+    38.405139,
+    -81.480885,
+    38.405139
+],
+  "geometry": {"coordinates":[-81.480885,38.405139],"type":"Point"}
+}

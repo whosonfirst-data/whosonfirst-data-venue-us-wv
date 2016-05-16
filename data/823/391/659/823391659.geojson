@@ -1,0 +1,75 @@
+{
+  "id": 823391659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.213545,37.250865,-81.213545,37.250865",
+    "geom:latitude":37.250865,
+    "geom:longitude":-81.213545,
+    "iso:country":"US",
+    "sg:address":"323 W Cumberland Rd",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 325 5823",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automobile",
+        "lubrication",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vi8JvG16tLYaWQSG9TLL5_37.250865_-81.213545@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432154,
+    "wof:geomhash":"0dbb96c15978bfd89223cbf26f392ec1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823391659
+        }
+    ],
+    "wof:id":823391659,
+    "wof:lastmodified":1463432154,
+    "wof:name":"Cumberland's Finest",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -81.213545,
+    37.250865,
+    -81.213545,
+    37.250865
+],
+  "geometry": {"coordinates":[-81.213545,37.250865],"type":"Point"}
+}

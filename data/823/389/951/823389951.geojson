@@ -1,0 +1,71 @@
+{
+  "id": 823389951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.350434,39.378448,-80.350434,39.378448",
+    "geom:latitude":39.378448,
+    "geom:longitude":-80.350434,
+    "iso:country":"US",
+    "sg:address":"400 Cherry St",
+    "sg:city":"Lumberport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 584 4654",
+    "sg:postcode":"26386",
+    "sg:province":"WV",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85810773,
+        102082619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49USrAAzJxOHEeZoxc9kvW_39.378448_-80.350434@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432075,
+    "wof:geomhash":"b0bbd23585a797c4d6014beb43175440",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "neighbourhood_id":85810773,
+            "region_id":85688589,
+            "venue_id":823389951
+        }
+    ],
+    "wof:id":823389951,
+    "wof:lastmodified":1463432075,
+    "wof:name":"Price's Construction",
+    "wof:parent_id":85810773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.350434,
+    39.378448,
+    -80.350434,
+    39.378448
+],
+  "geometry": {"coordinates":[-80.35043400000001,39.378448],"type":"Point"}
+}

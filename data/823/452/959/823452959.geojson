@@ -1,0 +1,74 @@
+{
+  "id": 823452959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.342089,38.412425,-82.342089,38.412425",
+    "geom:latitude":38.412425,
+    "geom:longitude":-82.342089,
+    "iso:country":"US",
+    "sg:address":"5177 Us Route 60",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/barboursville/100334-golden-corral/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 736 3145",
+    "sg:postcode":"25705",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85856091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pPiS2OjtECyYo6P8MgbeR_38.412425_-82.342089@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434927,
+    "wof:geomhash":"bea3b77c6021e4162814de35072dc4a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85856091,
+            "region_id":85688589,
+            "venue_id":823452959
+        }
+    ],
+    "wof:id":823452959,
+    "wof:lastmodified":1463434927,
+    "wof:name":"Golden Corral",
+    "wof:parent_id":85856091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -82.342089,
+    38.412425,
+    -82.342089,
+    38.412425
+],
+  "geometry": {"coordinates":[-82.342089,38.412425],"type":"Point"}
+}

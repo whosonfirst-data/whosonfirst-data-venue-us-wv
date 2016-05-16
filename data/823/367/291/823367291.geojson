@@ -1,0 +1,66 @@
+{
+  "id": 823367291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.93241,39.020628,-79.93241,39.020628",
+    "geom:latitude":39.020628,
+    "geom:longitude":-79.93241,
+    "iso:country":"US",
+    "sg:address":"722 Beverly Pike",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 6910",
+    "sg:postcode":"26250",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fsxpLlodY4RF87tXgLvJL_39.020628_-79.932410@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431068,
+    "wof:geomhash":"7b9e2688866695ae2ea4e1c07290a0fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823367291
+        }
+    ],
+    "wof:id":823367291,
+    "wof:lastmodified":1463431068,
+    "wof:name":"Bob Evans Farms Restaurant",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.93241,
+    39.020628,
+    -79.93241,
+    39.020628
+],
+  "geometry": {"coordinates":[-79.93241,39.020628],"type":"Point"}
+}

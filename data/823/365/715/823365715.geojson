@@ -1,0 +1,73 @@
+{
+  "id": 823365715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.711341,38.376968,-81.711341,38.376968",
+    "geom:latitude":38.376968,
+    "geom:longitude":-81.711341,
+    "iso:country":"US",
+    "sg:address":"4103 Washington St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 746 9555",
+    "sg:postcode":"25313",
+    "sg:province":"WV",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rHbLWJOWmkKJYFC3Hyfi7_38.376968_-81.711341@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431000,
+    "wof:geomhash":"78e4f7c712dffef9246c81929a87722b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823365715
+        }
+    ],
+    "wof:id":823365715,
+    "wof:lastmodified":1463431000,
+    "wof:name":"Tri State Auto",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -81.711341,
+    38.376968,
+    -81.711341,
+    38.376968
+],
+  "geometry": {"coordinates":[-81.711341,38.376968],"type":"Point"}
+}

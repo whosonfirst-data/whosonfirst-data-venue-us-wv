@@ -1,0 +1,80 @@
+{
+  "id": 823432361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.719695,38.346644,-81.719695,38.346644",
+    "geom:latitude":38.346644,
+    "geom:longitude":-81.719695,
+    "iso:country":"US",
+    "sg:address":"99 Fairway Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 9646",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "club",
+        "membership",
+        "sport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Wb0EHMtrAZMcr0hrP9yu8_38.346644_-81.719695@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433986,
+    "wof:geomhash":"86b9c5496dd646370fb59017cf9564e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823432361
+        }
+    ],
+    "wof:id":823432361,
+    "wof:lastmodified":1463433986,
+    "wof:name":"Kanawha Country Club Inc",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "membership",
+        "sport"
+    ]
+},
+  "bbox": [
+    -81.719695,
+    38.346644,
+    -81.719695,
+    38.346644
+],
+  "geometry": {"coordinates":[-81.719695,38.346644],"type":"Point"}
+}

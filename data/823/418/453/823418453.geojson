@@ -1,0 +1,75 @@
+{
+  "id": 823418453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.683526,38.36649,-81.683526,38.36649",
+    "geom:latitude":38.36649,
+    "geom:longitude":-81.683526,
+    "iso:country":"US",
+    "sg:address":"702 2nd Ave SW",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 746 7955",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fDSUt2UmnoDsM4A5PRrHM_38.366490_-81.683526@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433404,
+    "wof:geomhash":"7bc06422d1c4c0f8ac1cb6cb9ae3d953",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823418453
+        }
+    ],
+    "wof:id":823418453,
+    "wof:lastmodified":1463433404,
+    "wof:name":"Quality Exhaust Inc",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -81.683526,
+    38.36649,
+    -81.683526,
+    38.36649
+],
+  "geometry": {"coordinates":[-81.683526,38.36649],"type":"Point"}
+}

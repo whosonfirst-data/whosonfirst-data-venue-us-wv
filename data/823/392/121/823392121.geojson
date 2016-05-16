@@ -1,0 +1,71 @@
+{
+  "id": 823392121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.579732,38.398157,-82.579732,38.398157",
+    "geom:latitude":38.398157,
+    "geom:longitude":-82.579732,
+    "iso:country":"US",
+    "sg:address":"724 15th St",
+    "sg:city":"Kenova",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 5380",
+    "sg:postcode":"25530",
+    "sg:province":"WV",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731517,
+        102083365,
+        85806071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4McrtNZ9Crhm6bM5NqSHnK_38.398157_-82.579732@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432181,
+    "wof:geomhash":"73f79b2aecd083273cffcd438c1658cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731517,
+            "neighbourhood_id":85806071,
+            "region_id":85688589,
+            "venue_id":823392121
+        }
+    ],
+    "wof:id":823392121,
+    "wof:lastmodified":1463432181,
+    "wof:name":"Brunetti's Italian Bakery",
+    "wof:parent_id":85806071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -82.579732,
+    38.398157,
+    -82.579732,
+    38.398157
+],
+  "geometry": {"coordinates":[-82.57973200000001,38.398157],"type":"Point"}
+}

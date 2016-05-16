@@ -1,0 +1,73 @@
+{
+  "id": 823395025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.89101,37.669607,-80.89101,37.669607",
+    "geom:latitude":37.669607,
+    "geom:longitude":-80.89101,
+    "iso:country":"US",
+    "sg:address":"127 Main St",
+    "sg:city":"Hinton",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 465 8888",
+    "sg:postcode":"25951",
+    "sg:province":"WV",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731641,
+        102083407,
+        85804037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xsO8KoQfu5uKBGd2mnISd_37.669607_-80.891010@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432326,
+    "wof:geomhash":"2201c425dd1210c123884e0c477bc8fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083407,
+            "locality_id":101731641,
+            "neighbourhood_id":85804037,
+            "region_id":85688589,
+            "venue_id":823395025
+        }
+    ],
+    "wof:id":823395025,
+    "wof:lastmodified":1463432326,
+    "wof:name":"Multicap Inc",
+    "wof:parent_id":85804037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -80.89101,
+    37.669607,
+    -80.89101,
+    37.669607
+],
+  "geometry": {"coordinates":[-80.89100999999999,37.669607],"type":"Point"}
+}

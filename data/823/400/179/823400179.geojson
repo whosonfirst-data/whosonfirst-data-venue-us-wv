@@ -1,0 +1,71 @@
+{
+  "id": 823400179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.966818,39.615774,-79.966818,39.615774",
+    "geom:latitude":39.615774,
+    "geom:longitude":-79.966818,
+    "iso:country":"US",
+    "sg:address":"668 Elysian Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 291 2705",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xjBHNXCcfyRcylmMqOI1R_39.615774_-79.966818@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432594,
+    "wof:geomhash":"0f96122bacf5b7391520db1343b37131",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823400179
+        }
+    ],
+    "wof:id":823400179,
+    "wof:lastmodified":1463432594,
+    "wof:name":"Tim Stockdale",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -79.966818,
+    39.615774,
+    -79.966818,
+    39.615774
+],
+  "geometry": {"coordinates":[-79.966818,39.615774],"type":"Point"}
+}

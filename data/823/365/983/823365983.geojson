@@ -1,0 +1,75 @@
+{
+  "id": 823365983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.696335,38.363108,-81.696335,38.363108",
+    "geom:latitude":38.363108,
+    "geom:longitude":-81.696335,
+    "iso:country":"US",
+    "sg:address":"156 2nd Ave SW",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 0430",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "distance",
+        "hauling",
+        "long"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QyNJmrxxp62gjjkCgkcZI_38.363108_-81.696335@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431012,
+    "wof:geomhash":"afc16b61a576cd6ee96d0b4db3c1cad9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823365983
+        }
+    ],
+    "wof:id":823365983,
+    "wof:lastmodified":1463431012,
+    "wof:name":"Petes Trucking",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distance",
+        "hauling",
+        "long"
+    ]
+},
+  "bbox": [
+    -81.696335,
+    38.363108,
+    -81.696335,
+    38.363108
+],
+  "geometry": {"coordinates":[-81.696335,38.363108],"type":"Point"}
+}

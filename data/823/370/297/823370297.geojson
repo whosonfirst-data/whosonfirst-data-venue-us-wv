@@ -1,0 +1,68 @@
+{
+  "id": 823370297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.955145,39.629005,-79.955145,39.629005",
+    "geom:latitude":39.629005,
+    "geom:longitude":-79.955145,
+    "iso:country":"US",
+    "sg:address":"278 Spruce St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 7525",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85858573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FrsbGa3ZqUueftLIYZDk6_39.629005_-79.955145@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431187,
+    "wof:geomhash":"9bd871112b3f47b4ea45903b6af29b16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85858573,
+            "region_id":85688589,
+            "venue_id":823370297
+        }
+    ],
+    "wof:id":823370297,
+    "wof:lastmodified":1463431187,
+    "wof:name":"United Way",
+    "wof:parent_id":85858573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.955145,
+    39.629005,
+    -79.955145,
+    39.629005
+],
+  "geometry": {"coordinates":[-79.955145,39.629005],"type":"Point"}
+}

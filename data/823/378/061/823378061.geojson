@@ -1,0 +1,73 @@
+{
+  "id": 823378061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.243419,37.419173,-81.243419,37.419173",
+    "geom:latitude":37.419173,
+    "geom:longitude":-81.243419,
+    "iso:country":"US",
+    "sg:address":"103 1st Ave",
+    "sg:city":"Matoaka",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 467 7366",
+    "sg:postcode":"24736",
+    "sg:province":"WV",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yGMgv1nTc2e7Kfsx5g87g_37.419173_-81.243419@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431560,
+    "wof:geomhash":"745fafb1a5d75f8acdff33387c258376",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823378061
+        }
+    ],
+    "wof:id":823378061,
+    "wof:lastmodified":1463431560,
+    "wof:name":"Matoaka Main Office",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -81.243419,
+    37.419173,
+    -81.243419,
+    37.419173
+],
+  "geometry": {"coordinates":[-81.243419,37.419173],"type":"Point"}
+}

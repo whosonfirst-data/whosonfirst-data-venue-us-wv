@@ -1,0 +1,73 @@
+{
+  "id": 823457273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.960672,39.64013,-79.960672,39.64013",
+    "geom:latitude":39.64013,
+    "geom:longitude":-79.960672,
+    "iso:country":"US",
+    "sg:address":"982 Irwin St Apt D8",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 2031",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85847767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Klvo9XuZXoc90VUK9Tb4n_39.640130_-79.960672@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435152,
+    "wof:geomhash":"5c0735a7ea8eee3eac9cf22aa14769e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85847767,
+            "region_id":85688589,
+            "venue_id":823457273
+        }
+    ],
+    "wof:id":823457273,
+    "wof:lastmodified":1463435152,
+    "wof:name":"Georgetown Apts Inc",
+    "wof:parent_id":85847767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -79.960672,
+    39.64013,
+    -79.960672,
+    39.64013
+],
+  "geometry": {"coordinates":[-79.960672,39.64013],"type":"Point"}
+}

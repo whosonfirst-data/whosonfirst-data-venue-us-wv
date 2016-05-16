@@ -1,0 +1,73 @@
+{
+  "id": 823423841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.017459,38.437547,-82.017459,38.437547",
+    "geom:latitude":38.437547,
+    "geom:longitude":-82.017459,
+    "iso:country":"US",
+    "sg:address":"108 Co Rte 19",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 562 6841",
+    "sg:postcode":"25526",
+    "sg:province":"WV",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731829,
+        102083381,
+        85868321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dIyBTSmwjqt4zjCNIg8dS_38.437547_-82.017459@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433614,
+    "wof:geomhash":"1f800a5a771bf3797f8290cdbcd59f9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731829,
+            "neighbourhood_id":85868321,
+            "region_id":85688589,
+            "venue_id":823423841
+        }
+    ],
+    "wof:id":823423841,
+    "wof:lastmodified":1463433614,
+    "wof:name":"Lukes Chexvron Service",
+    "wof:parent_id":85868321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -82.017459,
+    38.437547,
+    -82.017459,
+    38.437547
+],
+  "geometry": {"coordinates":[-82.017459,38.437547],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823374885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.194037,37.260266,-81.194037,37.260266",
+    "geom:latitude":37.260266,
+    "geom:longitude":-81.194037,
+    "iso:country":"US",
+    "sg:address":"3120 Grassy Branch Rd",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 325 7417",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UYhgu80SIjmBIjPTySNYa_37.260266_-81.194037@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431398,
+    "wof:geomhash":"8a67051ab0b2d11fc09e0d787c24d84d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823374885
+        }
+    ],
+    "wof:id":823374885,
+    "wof:lastmodified":1463431398,
+    "wof:name":"Oliver Plumbing & Electrical",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.194037,
+    37.260266,
+    -81.194037,
+    37.260266
+],
+  "geometry": {"coordinates":[-81.19403699999999,37.260266],"type":"Point"}
+}

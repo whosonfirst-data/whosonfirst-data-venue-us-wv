@@ -1,0 +1,81 @@
+{
+  "id": 823453979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.589143,38.325858,-81.589143,38.325858",
+    "geom:latitude":38.325858,
+    "geom:longitude":-81.589143,
+    "iso:country":"US",
+    "sg:address":"4120 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/belle/242932-baskin-robbins/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 3013",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RUb7GjubrhJQ40lm33isq_38.325383_-81.588355@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434989,
+    "wof:geomhash":"e83a9d121e0b355844d2db5cdf5c4535",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823453979
+        }
+    ],
+    "wof:id":823453979,
+    "wof:lastmodified":1463434989,
+    "wof:name":"Baskin-Robbins",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -81.589143,
+    38.325858,
+    -81.589143,
+    38.325858
+],
+  "geometry": {"coordinates":[-81.58914300000001,38.325858],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823395989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.969848,39.457356,-77.969848,39.457356",
+    "geom:latitude":39.457356,
+    "geom:longitude":-77.969848,
+    "iso:country":"US",
+    "sg:address":"500 W King St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 267 8269",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OMuPswXsi6UjhEyV70Z2H_39.457356_-77.969848@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432375,
+    "wof:geomhash":"d549b8e115a6dab9c22188d075faf474",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823395989
+        }
+    ],
+    "wof:id":823395989,
+    "wof:lastmodified":1463432375,
+    "wof:name":"A-1 Computers",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -77.969848,
+    39.457356,
+    -77.969848,
+    39.457356
+],
+  "geometry": {"coordinates":[-77.969848,39.457356],"type":"Point"}
+}

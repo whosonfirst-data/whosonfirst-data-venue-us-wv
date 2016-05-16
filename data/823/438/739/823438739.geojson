@@ -1,0 +1,73 @@
+{
+  "id": 823438739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.159434,37.770899,-81.159434,37.770899",
+    "geom:latitude":37.770899,
+    "geom:longitude":-81.159434,
+    "iso:country":"US",
+    "sg:address":"70 Brookshire Ln",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 253 0591",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "osteopathic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eiXmM3ztw9iPIJTOZTEck_37.770899_-81.159434@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434311,
+    "wof:geomhash":"b39d56e52c4c03a1a18e1d492f3bf5fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823438739
+        }
+    ],
+    "wof:id":823438739,
+    "wof:lastmodified":1463434311,
+    "wof:name":"Clinic The",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "osteopathic"
+    ]
+},
+  "bbox": [
+    -81.159434,
+    37.770899,
+    -81.159434,
+    37.770899
+],
+  "geometry": {"coordinates":[-81.159434,37.770899],"type":"Point"}
+}

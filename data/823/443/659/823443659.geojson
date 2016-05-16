@@ -1,0 +1,71 @@
+{
+  "id": 823443659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.037771,39.351639,-80.037771,39.351639",
+    "geom:latitude":39.351639,
+    "geom:longitude":-80.037771,
+    "iso:country":"US",
+    "sg:address":"1225 W Main St",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 265 1800",
+    "sg:postcode":"26354",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731717,
+        102083351,
+        85855577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3esihFBRRxreM5NKNBWVVZ_39.351639_-80.037771@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434529,
+    "wof:geomhash":"e753924bfabb9a89f1094ff61e64d219",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083351,
+            "locality_id":101731717,
+            "neighbourhood_id":85855577,
+            "region_id":85688589,
+            "venue_id":823443659
+        }
+    ],
+    "wof:id":823443659,
+    "wof:lastmodified":1463434529,
+    "wof:name":"Bartley Moore DDS",
+    "wof:parent_id":85855577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -80.037771,
+    39.351639,
+    -80.037771,
+    39.351639
+],
+  "geometry": {"coordinates":[-80.03777100000001,39.351639],"type":"Point"}
+}

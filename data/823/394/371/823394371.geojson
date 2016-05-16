@@ -1,0 +1,71 @@
+{
+  "id": 823394371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.041315,39.154511,-80.041315,39.154511",
+    "geom:latitude":39.154511,
+    "geom:longitude":-80.041315,
+    "iso:country":"US",
+    "sg:address":"216 N Walnut St",
+    "sg:city":"Philippi",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 457 2121",
+    "sg:postcode":"26416",
+    "sg:province":"WV",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78zxwR23eAwwTSnNd3PW46_39.154511_-80.041315@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432303,
+    "wof:geomhash":"4ae981d59955d6880451ea8f05dbd52f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823394371
+        }
+    ],
+    "wof:id":823394371,
+    "wof:lastmodified":1463432303,
+    "wof:name":"Wright Funeral Home",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -80.041315,
+    39.154511,
+    -80.041315,
+    39.154511
+],
+  "geometry": {"coordinates":[-80.041315,39.154511],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823402847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.858712,39.648512,-80.858712,39.648512",
+    "geom:latitude":39.648512,
+    "geom:longitude":-80.858712,
+    "iso:country":"US",
+    "sg:address":"747 2nd St",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 000 1111",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qb7TDraRjFHU8qeAXFTAu_39.648512_-80.858712@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432705,
+    "wof:geomhash":"73fe134de7b7af6c891c758b7e0351e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823402847
+        }
+    ],
+    "wof:id":823402847,
+    "wof:lastmodified":1463432705,
+    "wof:name":"New Martinsville Fire Dept",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -80.858712,
+    39.648512,
+    -80.858712,
+    39.648512
+],
+  "geometry": {"coordinates":[-80.858712,39.648512],"type":"Point"}
+}

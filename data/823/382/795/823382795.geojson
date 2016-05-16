@@ -1,0 +1,71 @@
+{
+  "id": 823382795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.962188,39.444435,-77.962188,39.444435",
+    "geom:latitude":39.444435,
+    "geom:longitude":-77.962188,
+    "iso:country":"US",
+    "sg:address":"405 Van Metre Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 267 4707",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XiDbRCrCjy9iKI4bn8oza_39.444435_-77.962188@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431767,
+    "wof:geomhash":"e340e58a62b19b256a2de2ca46ee2306",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823382795
+        }
+    ],
+    "wof:id":823382795,
+    "wof:lastmodified":1463431767,
+    "wof:name":"Martinsburg Church Of God",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -77.962188,
+    39.444435,
+    -77.962188,
+    39.444435
+],
+  "geometry": {"coordinates":[-77.962188,39.444435],"type":"Point"}
+}

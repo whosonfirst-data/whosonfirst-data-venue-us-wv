@@ -1,0 +1,71 @@
+{
+  "id": 823440509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.684957,38.377363,-81.684957,38.377363",
+    "geom:latitude":38.377363,
+    "geom:longitude":-81.684957,
+    "iso:country":"US",
+    "sg:address":"3110 7th Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 2100",
+    "sg:postcode":"25312",
+    "sg:province":"WV",
+    "sg:tags":[
+        "optical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DG3iPM1RtSU7164g5Dv0c_38.377363_-81.684957@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434384,
+    "wof:geomhash":"4fbbea6741752b152de3371f76c3ba12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823440509
+        }
+    ],
+    "wof:id":823440509,
+    "wof:lastmodified":1463434384,
+    "wof:name":"Richmond Optics Inc",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "optical"
+    ]
+},
+  "bbox": [
+    -81.684957,
+    38.377363,
+    -81.684957,
+    38.377363
+],
+  "geometry": {"coordinates":[-81.684957,38.377363],"type":"Point"}
+}

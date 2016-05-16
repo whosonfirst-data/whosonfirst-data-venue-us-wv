@@ -1,0 +1,75 @@
+{
+  "id": 823409255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.540237,39.284202,-81.540237,39.284202",
+    "geom:latitude":39.284202,
+    "geom:longitude":-81.540237,
+    "iso:country":"US",
+    "sg:address":"2910 Emerson Ave",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 428 1900",
+    "sg:postcode":"26104",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731687,
+        102083343,
+        85805293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UYwenW64EOajw5pWmhB1f_39.284202_-81.540237@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432994,
+    "wof:geomhash":"1e75cf90f27bc20af7ed3df5ad2c93ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85805293,
+            "region_id":85688589,
+            "venue_id":823409255
+        }
+    ],
+    "wof:id":823409255,
+    "wof:lastmodified":1463432994,
+    "wof:name":"Emerson Health Care",
+    "wof:parent_id":85805293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.540237,
+    39.284202,
+    -81.540237,
+    39.284202
+],
+  "geometry": {"coordinates":[-81.540237,39.284202],"type":"Point"}
+}

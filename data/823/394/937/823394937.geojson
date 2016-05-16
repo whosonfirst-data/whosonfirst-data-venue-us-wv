@@ -1,0 +1,73 @@
+{
+  "id": 823394937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.126295,37.335513,-81.126295,37.335513",
+    "geom:latitude":37.335513,
+    "geom:longitude":-81.126295,
+    "iso:country":"US",
+    "sg:address":"367 Garnet St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 1324",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PZb8sOqHb79pn0qWOAakV_37.335513_-81.126295@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432323,
+    "wof:geomhash":"47bd40d3768d4b09775b77cc7df8b576",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823394937
+        }
+    ],
+    "wof:id":823394937,
+    "wof:lastmodified":1463432323,
+    "wof:name":"Bluestone Machine Co",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.126295,
+    37.335513,
+    -81.126295,
+    37.335513
+],
+  "geometry": {"coordinates":[-81.126295,37.335513],"type":"Point"}
+}

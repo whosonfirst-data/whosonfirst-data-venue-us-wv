@@ -1,0 +1,71 @@
+{
+  "id": 823428055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.649884,38.362338,-81.649884,38.362338",
+    "geom:latitude":38.362338,
+    "geom:longitude":-81.649884,
+    "iso:country":"US",
+    "sg:address":"511 Central Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 5796",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gcDo26kVuLKZhIKM1P8Wl_38.362338_-81.649884@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433791,
+    "wof:geomhash":"49f6b17d8879b00c50617a22c3c5da06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823428055
+        }
+    ],
+    "wof:id":823428055,
+    "wof:lastmodified":1463433791,
+    "wof:name":"First American National",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -81.649884,
+    38.362338,
+    -81.649884,
+    38.362338
+],
+  "geometry": {"coordinates":[-81.649884,38.362338],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 823383643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.075484,37.405573,-81.075484,37.405573",
+    "geom:latitude":37.405573,
+    "geom:longitude":-81.075484,
+    "iso:country":"US",
+    "sg:address":"506 Gardner-Princeton Rd",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 2206",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "water",
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5111cAkNkW9YNALVQK0wXP_37.405573_-81.075484@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431798,
+    "wof:geomhash":"8a579b413f8bf9e6307fb1f57736cdd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823383643
+        }
+    ],
+    "wof:id":823383643,
+    "wof:lastmodified":1463431798,
+    "wof:name":"Canterbury Pump Svc",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -81.075484,
+    37.405573,
+    -81.075484,
+    37.405573
+],
+  "geometry": {"coordinates":[-81.075484,37.405573],"type":"Point"}
+}

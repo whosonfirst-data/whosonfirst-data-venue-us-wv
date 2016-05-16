@@ -1,0 +1,71 @@
+{
+  "id": 823430065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.298374,37.795677,-80.298374,37.795677",
+    "geom:latitude":37.795677,
+    "geom:longitude":-80.298374,
+    "iso:country":"US",
+    "sg:address":"71 E Main St",
+    "sg:city":"White Slphr Spgs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 536 1000",
+    "sg:postcode":"24986",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xSuArtmJlwL88LeSs3Z3C_37.795677_-80.298374@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433885,
+    "wof:geomhash":"07130fd11e1b56575d40c8679fc613f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823430065
+        }
+    ],
+    "wof:id":823430065,
+    "wof:lastmodified":1463433885,
+    "wof:name":"Edwin H Warfield Limited",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -80.298374,
+    37.795677,
+    -80.298374,
+    37.795677
+],
+  "geometry": {"coordinates":[-80.298374,37.795677],"type":"Point"}
+}

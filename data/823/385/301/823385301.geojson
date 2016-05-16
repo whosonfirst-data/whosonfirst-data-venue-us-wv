@@ -1,0 +1,67 @@
+{
+  "id": 823385301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.347786,39.28204,-80.347786,39.28204",
+    "geom:latitude":39.28204,
+    "geom:longitude":-80.347786,
+    "iso:country":"US",
+    "sg:address":"715 W Pike St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 624 5631",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:website":"www.hartlandplaningmill.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73ijjVIb33G2czwMV0KNM7_39.282040_-80.347786@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431860,
+    "wof:geomhash":"3a5310c162fe5b8f9ac01138549cbf03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823385301
+        }
+    ],
+    "wof:id":823385301,
+    "wof:lastmodified":1463431860,
+    "wof:name":"Hartland Building Supply Ctr",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.347786,
+    39.28204,
+    -80.347786,
+    39.28204
+],
+  "geometry": {"coordinates":[-80.347786,39.28204],"type":"Point"}
+}

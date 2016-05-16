@@ -1,0 +1,71 @@
+{
+  "id": 823407351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.849614,38.923513,-79.849614,38.923513",
+    "geom:latitude":38.923513,
+    "geom:longitude":-79.849614,
+    "iso:country":"US",
+    "sg:address":"102 Davis Ave",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 1550",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19Lxqiz8aATRDUOPlAE2rR_38.923513_-79.849614@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432915,
+    "wof:geomhash":"c13a204d6d69e4d39fa07d46b8009ad8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823407351
+        }
+    ],
+    "wof:id":823407351,
+    "wof:lastmodified":1463432915,
+    "wof:name":"Day Montessori Care Center",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -79.849614,
+    38.923513,
+    -79.849614,
+    38.923513
+],
+  "geometry": {"coordinates":[-79.849614,38.923513],"type":"Point"}
+}

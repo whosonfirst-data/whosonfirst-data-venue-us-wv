@@ -1,0 +1,74 @@
+{
+  "id": 823401051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.548812,39.326655,-81.548812,39.326655",
+    "geom:latitude":39.326655,
+    "geom:longitude":-81.548812,
+    "iso:country":"US",
+    "sg:address":"3104 Grand Central Ave",
+    "sg:city":"Vienna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 295 7811",
+    "sg:postcode":"26105",
+    "sg:province":"WV",
+    "sg:tags":[
+        "appliance"
+    ],
+    "sg:website":"www.maytag.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731685,
+        102083343,
+        85819937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64J8CO8t8enzmR6huMkRBF_39.326655_-81.548812@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432631,
+    "wof:geomhash":"b4e734d901fffa615a2e91214b795928",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731685,
+            "neighbourhood_id":85819937,
+            "region_id":85688589,
+            "venue_id":823401051
+        }
+    ],
+    "wof:id":823401051,
+    "wof:lastmodified":1463432631,
+    "wof:name":"Modern Maytag Home Appliance",
+    "wof:parent_id":85819937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -81.548812,
+    39.326655,
+    -81.548812,
+    39.326655
+],
+  "geometry": {"coordinates":[-81.548812,39.326655],"type":"Point"}
+}

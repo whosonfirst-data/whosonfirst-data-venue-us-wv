@@ -1,0 +1,71 @@
+{
+  "id": 823382087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.340645,38.412083,-82.340645,38.412083",
+    "geom:latitude":38.412083,
+    "geom:longitude":-82.340645,
+    "iso:country":"US",
+    "sg:address":"5220 US Hwy 60",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 736 5304",
+    "sg:postcode":"25705",
+    "sg:province":"WV",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85856091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Q8mxK2axz5p84rQzziCfx_38.412083_-82.340645@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431740,
+    "wof:geomhash":"5ef2130bb9a1d6f8eaf898a64a342ac1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85856091,
+            "region_id":85688589,
+            "venue_id":823382087
+        }
+    ],
+    "wof:id":823382087,
+    "wof:lastmodified":1463431740,
+    "wof:name":"Fifth Third Bank",
+    "wof:parent_id":85856091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -82.340645,
+    38.412083,
+    -82.340645,
+    38.412083
+],
+  "geometry": {"coordinates":[-82.34064499999999,38.412083],"type":"Point"}
+}

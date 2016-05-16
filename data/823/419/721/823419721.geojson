@@ -1,0 +1,71 @@
+{
+  "id": 823419721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.653302,38.362323,-81.653302,38.362323",
+    "geom:latitude":38.362323,
+    "geom:longitude":-81.653302,
+    "iso:country":"US",
+    "sg:address":"48 Park Ct",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 242 9976",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ye9euNflf5nJm4obC0pYI_38.362323_-81.653302@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433452,
+    "wof:geomhash":"88bea11560be8f3008d418f84623853b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823419721
+        }
+    ],
+    "wof:id":823419721,
+    "wof:lastmodified":1463433452,
+    "wof:name":"Verizon",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -81.653302,
+    38.362323,
+    -81.653302,
+    38.362323
+],
+  "geometry": {"coordinates":[-81.653302,38.362323],"type":"Point"}
+}

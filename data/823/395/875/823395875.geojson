@@ -1,0 +1,73 @@
+{
+  "id": 823395875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.574878,38.319951,-81.574878,38.319951",
+    "geom:latitude":38.319951,
+    "geom:longitude":-81.574878,
+    "iso:country":"US",
+    "sg:address":"5010 Staunton Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 3561",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RTUrEVk5LklBnEf87y4V8_38.319951_-81.574878@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432371,
+    "wof:geomhash":"fa5d201d452f39611d386af7b27809e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823395875
+        }
+    ],
+    "wof:id":823395875,
+    "wof:lastmodified":1463432371,
+    "wof:name":"Cad B Hall MD",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.574878,
+    38.319951,
+    -81.574878,
+    38.319951
+],
+  "geometry": {"coordinates":[-81.574878,38.319951],"type":"Point"}
+}

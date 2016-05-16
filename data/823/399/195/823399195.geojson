@@ -1,0 +1,71 @@
+{
+  "id": 823399195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.751453,38.373496,-81.751453,38.373496",
+    "geom:latitude":38.373496,
+    "geom:longitude":-81.751453,
+    "iso:country":"US",
+    "sg:address":"2735 Fairlawn Ave",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 720 2626",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10FOU8aV8XLrzYKelrZVrR_38.373496_-81.751453@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432540,
+    "wof:geomhash":"667f420b452aedb9b1d965af8086ceb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823399195
+        }
+    ],
+    "wof:id":823399195,
+    "wof:lastmodified":1463432540,
+    "wof:name":"Blitz Courier",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courier"
+    ]
+},
+  "bbox": [
+    -81.751453,
+    38.373496,
+    -81.751453,
+    38.373496
+],
+  "geometry": {"coordinates":[-81.751453,38.373496],"type":"Point"}
+}

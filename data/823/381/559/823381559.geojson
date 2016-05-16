@@ -1,0 +1,71 @@
+{
+  "id": 823381559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.563478,38.392222,-82.563478,38.392222",
+    "geom:latitude":38.392222,
+    "geom:longitude":-82.563478,
+    "iso:country":"US",
+    "sg:address":"351 High St",
+    "sg:city":"Ceredo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 4544",
+    "sg:postcode":"25507",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731517,
+        102083365,
+        85806071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_754IiXxqC7ebH7OetapNzA_38.392222_-82.563478@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431715,
+    "wof:geomhash":"e5636ee3af2249aaccfdbda2d0ba49c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731517,
+            "neighbourhood_id":85806071,
+            "region_id":85688589,
+            "venue_id":823381559
+        }
+    ],
+    "wof:id":823381559,
+    "wof:lastmodified":1463431715,
+    "wof:name":"Ceredo Manor",
+    "wof:parent_id":85806071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -82.563478,
+    38.392222,
+    -82.563478,
+    38.392222
+],
+  "geometry": {"coordinates":[-82.563478,38.392222],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823373303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.0983,37.36811,-81.0983,37.36811",
+    "geom:latitude":37.36811,
+    "geom:longitude":-81.0983,
+    "iso:country":"US",
+    "sg:address":"1155 Mercer St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 431 7000",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cEakWcFDfyEE8SKtfXLad_37.368110_-81.098300@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431333,
+    "wof:geomhash":"d32ca3f115abcc8da90bb2b810c48060",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823373303
+        }
+    ],
+    "wof:id":823373303,
+    "wof:lastmodified":1463431333,
+    "wof:name":"Pulmonary Services",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.0983,
+    37.36811,
+    -81.0983,
+    37.36811
+],
+  "geometry": {"coordinates":[-81.09829999999999,37.36811],"type":"Point"}
+}

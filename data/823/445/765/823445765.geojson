@@ -1,0 +1,66 @@
+{
+  "id": 823445765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.864395,39.642833,-80.864395,39.642833",
+    "geom:latitude":39.642833,
+    "geom:longitude":-80.864395,
+    "iso:country":"US",
+    "sg:address":"161 North St",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 5080",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2N36RKTowyWmiXhhgmOdJU_39.642833_-80.864395@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434625,
+    "wof:geomhash":"0219bfb12e7d47388449bdad32b67c66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823445765
+        }
+    ],
+    "wof:id":823445765,
+    "wof:lastmodified":1463434625,
+    "wof:name":"Book Store",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.864395,
+    39.642833,
+    -80.864395,
+    39.642833
+],
+  "geometry": {"coordinates":[-80.864395,39.642833],"type":"Point"}
+}

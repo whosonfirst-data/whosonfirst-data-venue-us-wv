@@ -1,0 +1,72 @@
+{
+  "id": 823410903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.275051,39.303254,-80.275051,39.303254",
+    "geom:latitude":39.303254,
+    "geom:longitude":-80.275051,
+    "iso:country":"US",
+    "sg:address":"1515 Johnson Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 9300",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operation"
+    ],
+    "sg:website":"www.hamptoninn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85831189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GG9U84GUEXChubzdwX75W_39.303254_-80.275051@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433062,
+    "wof:geomhash":"048770d16e697b4be98e21848125ac8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85831189,
+            "region_id":85688589,
+            "venue_id":823410903
+        }
+    ],
+    "wof:id":823410903,
+    "wof:lastmodified":1463433062,
+    "wof:name":"Hampton Inn",
+    "wof:parent_id":85831189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -80.275051,
+    39.303254,
+    -80.275051,
+    39.303254
+],
+  "geometry": {"coordinates":[-80.275051,39.303254],"type":"Point"}
+}

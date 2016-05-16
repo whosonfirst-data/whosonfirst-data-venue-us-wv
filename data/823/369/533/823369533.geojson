@@ -1,0 +1,73 @@
+{
+  "id": 823369533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.466887,39.03845,-80.466887,39.03845",
+    "geom:latitude":39.03845,
+    "geom:longitude":-80.466887,
+    "iso:country":"US",
+    "sg:address":"266 N Main St",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 269 8240",
+    "sg:postcode":"26452",
+    "sg:province":"WV",
+    "sg:tags":[
+        "county",
+        "counsel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731403,
+        102083339,
+        85808257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zDMtFvOYolk95OPxZONC2_39.038450_-80.466887@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431152,
+    "wof:geomhash":"b08ec66464c5c8fe5a34f5304c60025d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083339,
+            "locality_id":101731403,
+            "neighbourhood_id":85808257,
+            "region_id":85688589,
+            "venue_id":823369533
+        }
+    ],
+    "wof:id":823369533,
+    "wof:lastmodified":1463431152,
+    "wof:name":"Lewis County Prosecuting Atty",
+    "wof:parent_id":85808257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "counsel"
+    ]
+},
+  "bbox": [
+    -80.466887,
+    39.03845,
+    -80.466887,
+    39.03845
+],
+  "geometry": {"coordinates":[-80.466887,39.03845],"type":"Point"}
+}

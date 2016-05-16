@@ -1,0 +1,71 @@
+{
+  "id": 823424129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.09303,37.364402,-81.09303,37.364402",
+    "geom:latitude":37.364402,
+    "geom:longitude":-81.09303,
+    "iso:country":"US",
+    "sg:address":"1101 Stafford Dr",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 1465",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "return"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OF2eoyh4VP0RtOEbcCPvA_37.364402_-81.093030@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433627,
+    "wof:geomhash":"73052438d7f305a36a032fc15fcb66c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823424129
+        }
+    ],
+    "wof:id":823424129,
+    "wof:lastmodified":1463433627,
+    "wof:name":"H & R Block",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return"
+    ]
+},
+  "bbox": [
+    -81.09303,
+    37.364402,
+    -81.09303,
+    37.364402
+],
+  "geometry": {"coordinates":[-81.09303,37.364402],"type":"Point"}
+}

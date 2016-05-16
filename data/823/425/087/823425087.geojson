@@ -1,0 +1,71 @@
+{
+  "id": 823425087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.158378,38.434917,-82.158378,38.434917",
+    "geom:latitude":38.434917,
+    "geom:longitude":-82.158378,
+    "iso:country":"US",
+    "sg:address":"1854 Sunset Vw",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 743 6797",
+    "sg:postcode":"25541",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85816671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50IhlVYxsxleaOV107NrSr_38.434917_-82.158378@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433663,
+    "wof:geomhash":"71dc50847fa827ea48cda0b8ece81b11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85816671,
+            "region_id":85688589,
+            "venue_id":823425087
+        }
+    ],
+    "wof:id":823425087,
+    "wof:lastmodified":1463433663,
+    "wof:name":"Blake Charles",
+    "wof:parent_id":85816671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -82.158378,
+    38.434917,
+    -82.158378,
+    38.434917
+],
+  "geometry": {"coordinates":[-82.158378,38.434917],"type":"Point"}
+}

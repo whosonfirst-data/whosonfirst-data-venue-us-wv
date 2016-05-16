@@ -1,0 +1,71 @@
+{
+  "id": 823374319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.342378,39.280086,-80.342378,39.280086",
+    "geom:latitude":39.280086,
+    "geom:longitude":-80.342378,
+    "iso:country":"US",
+    "sg:address":"432 W Main St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 622 9837",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pt14YohlCtxQTXgH5liUv_39.280086_-80.342378@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431371,
+    "wof:geomhash":"bea32f35456c2a798061865b98b88c92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823374319
+        }
+    ],
+    "wof:id":823374319,
+    "wof:lastmodified":1463431371,
+    "wof:name":"Clarksburg Dental Associates",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -80.342378,
+    39.280086,
+    -80.342378,
+    39.280086
+],
+  "geometry": {"coordinates":[-80.342378,39.280086],"type":"Point"}
+}

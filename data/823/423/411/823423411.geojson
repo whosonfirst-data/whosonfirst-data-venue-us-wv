@@ -1,0 +1,75 @@
+{
+  "id": 823423411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.708671,40.076612,-80.708671,40.076612",
+    "geom:latitude":40.076612,
+    "geom:longitude":-80.708671,
+    "iso:country":"US",
+    "sg:address":"512 National Rd",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 232 0280",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "transmission",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85820833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EcQ2eIKCPndKs8psNMlUY_40.076612_-80.708671@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433598,
+    "wof:geomhash":"ef946af5c630fadd25386e7038ea041f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85820833,
+            "region_id":85688589,
+            "venue_id":823423411
+        }
+    ],
+    "wof:id":823423411,
+    "wof:lastmodified":1463433598,
+    "wof:name":"Fort Henry Autmtc Transm Svc",
+    "wof:parent_id":85820833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -80.708671,
+    40.076612,
+    -80.708671,
+    40.076612
+],
+  "geometry": {"coordinates":[-80.708671,40.076612],"type":"Point"}
+}

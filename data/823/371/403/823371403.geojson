@@ -1,0 +1,73 @@
+{
+  "id": 823371403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.140111,39.480422,-80.140111,39.480422",
+    "geom:latitude":39.480422,
+    "geom:longitude":-80.140111,
+    "iso:country":"US",
+    "sg:address":"110 Merchant St",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Stationery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 0765",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "school",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bV7iDrpjUU4AgpZHGZ051_39.480422_-80.140111@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431248,
+    "wof:geomhash":"8db9742b2a7708c2cb177e3696ecb2c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823371403
+        }
+    ],
+    "wof:id":823371403,
+    "wof:lastmodified":1463431248,
+    "wof:name":"Educational Resource Ctr",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "supply"
+    ]
+},
+  "bbox": [
+    -80.140111,
+    39.480422,
+    -80.140111,
+    39.480422
+],
+  "geometry": {"coordinates":[-80.140111,39.480422],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 823452499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.563273,38.305722,-81.563273,38.305722",
+    "geom:latitude":38.305722,
+    "geom:longitude":-81.563273,
+    "iso:country":"US",
+    "sg:address":"100 Alex Ln",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/belle/139682-sicilias-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 926 0095",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7G5ehxtBeopDEjGOBUgO1x_38.305722_-81.563273@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434909,
+    "wof:geomhash":"d40975873907b3c6abbe099b0a617ab1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823452499
+        }
+    ],
+    "wof:id":823452499,
+    "wof:lastmodified":1463434909,
+    "wof:name":"Sicilia's Pizzeria",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -81.563273,
+    38.305722,
+    -81.563273,
+    38.305722
+],
+  "geometry": {"coordinates":[-81.563273,38.305722],"type":"Point"}
+}

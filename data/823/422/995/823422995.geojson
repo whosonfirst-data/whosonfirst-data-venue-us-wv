@@ -1,0 +1,77 @@
+{
+  "id": 823422995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.126706,39.478948,-80.126706,39.478948",
+    "geom:latitude":39.478948,
+    "geom:longitude":-80.126706,
+    "iso:country":"US",
+    "sg:address":"705 Morgantown Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 367 1473",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ku2QyfhixdQbIJsmeahBJ_39.478948_-80.126706@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433577,
+    "wof:geomhash":"13e3a425d1a488702bcf43a841cbc91a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823422995
+        }
+    ],
+    "wof:id":823422995,
+    "wof:lastmodified":1463433577,
+    "wof:name":"Cameo Video",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -80.126706,
+    39.478948,
+    -80.126706,
+    39.478948
+],
+  "geometry": {"coordinates":[-80.126706,39.478948],"type":"Point"}
+}

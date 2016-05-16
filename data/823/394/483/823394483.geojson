@@ -1,0 +1,71 @@
+{
+  "id": 823394483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.934538,39.60417,-80.934538,39.60417",
+    "geom:latitude":39.60417,
+    "geom:longitude":-80.934538,
+    "iso:country":"US",
+    "sg:address":"101 W Main St",
+    "sg:city":"Paden City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 337 2626",
+    "sg:postcode":"26159",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Zt7fDq3LqD7KfO3I6Xv8B_39.604170_-80.934538@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432307,
+    "wof:geomhash":"477901c9bb9ff39f49921724ee44d082",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823394483
+        }
+    ],
+    "wof:id":823394483,
+    "wof:lastmodified":1463432307,
+    "wof:name":"Kelvin W Feather DDS",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -80.934538,
+    39.60417,
+    -80.934538,
+    39.60417
+],
+  "geometry": {"coordinates":[-80.934538,39.60417],"type":"Point"}
+}

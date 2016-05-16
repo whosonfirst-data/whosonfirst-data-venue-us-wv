@@ -1,0 +1,69 @@
+{
+  "id": 823412775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.123767,38.048552,-81.123767,38.048552",
+    "geom:latitude":38.048552,
+    "geom:longitude":-81.123767,
+    "iso:country":"US",
+    "sg:address":"75 Laurel St",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 574 0940",
+    "sg:postcode":"25840",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YfThHRxFVCC9xix6Rum43_38.048552_-81.123767@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433131,
+    "wof:geomhash":"771c644c0007ce5f3c07766f52e2123e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823412775
+        }
+    ],
+    "wof:id":823412775,
+    "wof:lastmodified":1463433131,
+    "wof:name":"Fayette Hills Apartments",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -81.123767,
+    38.048552,
+    -81.123767,
+    38.048552
+],
+  "geometry": {"coordinates":[-81.123767,38.048552],"type":"Point"}
+}

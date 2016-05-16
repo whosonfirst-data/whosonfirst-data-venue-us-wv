@@ -1,0 +1,69 @@
+{
+  "id": 823381667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.15559,37.975118,-81.15559,37.975118",
+    "geom:latitude":37.975118,
+    "geom:longitude":-81.15559,
+    "iso:country":"US",
+    "sg:address":"550 Jones Ave",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 469 2100",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5H04ZXkgU51NRAYAicd9dm_37.975118_-81.155590@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431719,
+    "wof:geomhash":"f6fdf166e770558635c3be02d780e809",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823381667
+        }
+    ],
+    "wof:id":823381667,
+    "wof:lastmodified":1463431719,
+    "wof:name":"City Cab",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -81.15559,
+    37.975118,
+    -81.15559,
+    37.975118
+],
+  "geometry": {"coordinates":[-81.15559,37.975118],"type":"Point"}
+}

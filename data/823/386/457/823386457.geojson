@@ -1,0 +1,71 @@
+{
+  "id": 823386457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.66277,38.482271,-81.66277,38.482271",
+    "geom:latitude":38.482271,
+    "geom:longitude":-81.66277,
+    "iso:country":"US",
+    "sg:address":"1930 Pinewood Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 984 1813",
+    "sg:postcode":"25320",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ysCkbXZtQ3szZgDABrIYS_38.482271_-81.662770@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431906,
+    "wof:geomhash":"aa802d2f97ec83b986eedc2f54ce7fda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823386457
+        }
+    ],
+    "wof:id":823386457,
+    "wof:lastmodified":1463431906,
+    "wof:name":"Hair Connections",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.66277,
+    38.482271,
+    -81.66277,
+    38.482271
+],
+  "geometry": {"coordinates":[-81.66276999999999,38.482271],"type":"Point"}
+}

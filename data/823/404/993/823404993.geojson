@@ -1,0 +1,75 @@
+{
+  "id": 823404993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.881664,37.678245,-80.881664,37.678245",
+    "geom:latitude":37.678245,
+    "geom:longitude":-80.881664,
+    "iso:country":"US",
+    "sg:address":"1022 Summers St",
+    "sg:city":"Hinton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 466 5469",
+    "sg:postcode":"25951",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731641,
+        102083407,
+        85804037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NmHg3zQsHXUtYV4BD92tU_37.678245_-80.881664@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432811,
+    "wof:geomhash":"7db1b48b9f959bbf8b181f20940c2709",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083407,
+            "locality_id":101731641,
+            "neighbourhood_id":85804037,
+            "region_id":85688589,
+            "venue_id":823404993
+        }
+    ],
+    "wof:id":823404993,
+    "wof:lastmodified":1463432811,
+    "wof:name":"Jones Cleaning Svc",
+    "wof:parent_id":85804037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -80.881664,
+    37.678245,
+    -80.881664,
+    37.678245
+],
+  "geometry": {"coordinates":[-80.881664,37.678245],"type":"Point"}
+}

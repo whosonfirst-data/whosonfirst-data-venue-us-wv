@@ -1,0 +1,71 @@
+{
+  "id": 823422319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.374253,39.270942,-80.374253,39.270942",
+    "geom:latitude":39.270942,
+    "geom:longitude":-80.374253,
+    "iso:country":"US",
+    "sg:address":"3 Hospital Plz",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 624 2230",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "special",
+        "interest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85810773,
+        102082619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KfZfa6PVkUObjyzNzUixo_39.270942_-80.374253@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433553,
+    "wof:geomhash":"27845c6a8666cca67c360d01332188c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "neighbourhood_id":85810773,
+            "region_id":85688589,
+            "venue_id":823422319
+        }
+    ],
+    "wof:id":823422319,
+    "wof:lastmodified":1463433553,
+    "wof:name":"Health Science Library",
+    "wof:parent_id":85810773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "special",
+        "interest"
+    ]
+},
+  "bbox": [
+    -80.374253,
+    39.270942,
+    -80.374253,
+    39.270942
+],
+  "geometry": {"coordinates":[-80.374253,39.270942],"type":"Point"}
+}

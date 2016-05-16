@@ -1,0 +1,71 @@
+{
+  "id": 823384795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.158883,39.481907,-80.158883,39.481907",
+    "geom:latitude":39.481907,
+    "geom:longitude":-80.158883,
+    "iso:country":"US",
+    "sg:address":"1201 Locust Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 367 1965",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XHtXYAv7gW3uDQeztPn0j_39.481907_-80.158883@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431843,
+    "wof:geomhash":"130a7a09ee3bfa001edfa742054a7997",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823384795
+        }
+    ],
+    "wof:id":823384795,
+    "wof:lastmodified":1463431843,
+    "wof:name":"Fairmont State Book Store",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -80.158883,
+    39.481907,
+    -80.158883,
+    39.481907
+],
+  "geometry": {"coordinates":[-80.158883,39.481907],"type":"Point"}
+}

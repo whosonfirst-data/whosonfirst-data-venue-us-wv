@@ -1,0 +1,75 @@
+{
+  "id": 823412271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.855037,39.653673,-80.855037,39.653673",
+    "geom:latitude":39.653673,
+    "geom:longitude":-80.855037,
+    "iso:country":"US",
+    "sg:address":"901 5th St",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 5628",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66kVvmRkrszHtTbWlXQnFl_39.653673_-80.855037@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433113,
+    "wof:geomhash":"e55fc7a395950654a3850d6b7eae9b2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823412271
+        }
+    ],
+    "wof:id":823412271,
+    "wof:lastmodified":1463433113,
+    "wof:name":"R & L Trucking",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -80.855037,
+    39.653673,
+    -80.855037,
+    39.653673
+],
+  "geometry": {"coordinates":[-80.855037,39.653673],"type":"Point"}
+}

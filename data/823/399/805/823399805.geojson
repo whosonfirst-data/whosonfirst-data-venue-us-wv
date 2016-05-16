@@ -1,0 +1,72 @@
+{
+  "id": 823399805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.487735,39.050102,-80.487735,39.050102",
+    "geom:latitude":39.050102,
+    "geom:longitude":-80.487735,
+    "iso:country":"US",
+    "sg:address":"788 US Hwy 33",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 269 6564",
+    "sg:postcode":"26452",
+    "sg:province":"WV",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.westonfordmercuryinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85828579,
+        102083339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21D7IoviqaSBbzT0xw5lxQ_39.050102_-80.487735@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432576,
+    "wof:geomhash":"821556616fd9e9cad5a8602143dae1d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083339,
+            "neighbourhood_id":85828579,
+            "region_id":85688589,
+            "venue_id":823399805
+        }
+    ],
+    "wof:id":823399805,
+    "wof:lastmodified":1463432576,
+    "wof:name":"Weston Ford-Mercury Inc",
+    "wof:parent_id":85828579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -80.487735,
+    39.050102,
+    -80.487735,
+    39.050102
+],
+  "geometry": {"coordinates":[-80.487735,39.050102],"type":"Point"}
+}

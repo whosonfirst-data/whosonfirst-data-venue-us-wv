@@ -1,0 +1,75 @@
+{
+  "id": 823444005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.695013,40.065752,-80.695013,40.065752",
+    "geom:latitude":40.065752,
+    "geom:longitude":-80.695013,
+    "iso:country":"US",
+    "sg:address":"10 Hunter Ave",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 234 3842",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automotive",
+        "executive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85830083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_377AjtB7L1a3CvwURCjmUw_40.065752_-80.695013@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434542,
+    "wof:geomhash":"67b38d2f6c03fdb5c4fb3efe1da0bbb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85830083,
+            "region_id":85688589,
+            "venue_id":823444005
+        }
+    ],
+    "wof:id":823444005,
+    "wof:lastmodified":1463434542,
+    "wof:name":"Ops Dept",
+    "wof:parent_id":85830083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "executive"
+    ]
+},
+  "bbox": [
+    -80.695013,
+    40.065752,
+    -80.695013,
+    40.065752
+],
+  "geometry": {"coordinates":[-80.695013,40.065752],"type":"Point"}
+}

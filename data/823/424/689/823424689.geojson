@@ -1,0 +1,71 @@
+{
+  "id": 823424689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.131202,39.482897,-80.131202,39.482897",
+    "geom:latitude":39.482897,
+    "geom:longitude":-80.131202,
+    "iso:country":"US",
+    "sg:address":"401 E Park Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 9044",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wcQKmHLpHSHBRAX5SOsl5_39.482897_-80.131202@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433647,
+    "wof:geomhash":"391e1be7b4a0e96f6733eb169b00f29b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823424689
+        }
+    ],
+    "wof:id":823424689,
+    "wof:lastmodified":1463433647,
+    "wof:name":"Arthur's Barber Shop",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -80.131202,
+    39.482897,
+    -80.131202,
+    39.482897
+],
+  "geometry": {"coordinates":[-80.131202,39.482897],"type":"Point"}
+}

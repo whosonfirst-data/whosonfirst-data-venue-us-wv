@@ -1,0 +1,71 @@
+{
+  "id": 823417393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.218906,37.319477,-81.218906,37.319477",
+    "geom:latitude":37.319477,
+    "geom:longitude":-81.218906,
+    "iso:country":"US",
+    "sg:address":"164 Grizzly Ln",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 327 6760",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VLB4GJEYrlc0tTrR8Hhw9_37.319477_-81.218906@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433357,
+    "wof:geomhash":"08f0876f99c8458b015d05a22d5e6ca3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823417393
+        }
+    ],
+    "wof:id":823417393,
+    "wof:lastmodified":1463433357,
+    "wof:name":"Mikes Repair Service",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -81.218906,
+    37.319477,
+    -81.218906,
+    37.319477
+],
+  "geometry": {"coordinates":[-81.218906,37.319477],"type":"Point"}
+}

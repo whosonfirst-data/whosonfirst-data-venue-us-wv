@@ -1,0 +1,71 @@
+{
+  "id": 823370249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.55889,38.301323,-81.55889,38.301323",
+    "geom:latitude":38.301323,
+    "geom:longitude":-81.55889,
+    "iso:country":"US",
+    "sg:address":"109 Georges Dr",
+    "sg:city":"Malden",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 6568",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "adult"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Fkoa4lWmHWnuO3opvJzed_38.301323_-81.558890@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431185,
+    "wof:geomhash":"c998efd69d0dde35c0c9ed771b339ea2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823370249
+        }
+    ],
+    "wof:id":823370249,
+    "wof:lastmodified":1463431185,
+    "wof:name":"Good Living",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "adult"
+    ]
+},
+  "bbox": [
+    -81.55889,
+    38.301323,
+    -81.55889,
+    38.301323
+],
+  "geometry": {"coordinates":[-81.55889000000001,38.301323],"type":"Point"}
+}

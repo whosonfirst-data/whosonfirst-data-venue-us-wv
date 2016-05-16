@@ -1,0 +1,71 @@
+{
+  "id": 823391627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.652395,40.122538,-80.652395,40.122538",
+    "geom:latitude":40.122538,
+    "geom:longitude":-80.652395,
+    "iso:country":"US",
+    "sg:address":"477 G C and P Rd",
+    "sg:city":"Warwood",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 277 4589",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823177,
+        102082621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00CZQOoSzr9TVqJq7n2rUb_40.122538_-80.652395@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432153,
+    "wof:geomhash":"d0a604c8a2417e3e5e0425876d5e19d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082621,
+            "neighbourhood_id":85823177,
+            "region_id":85688589,
+            "venue_id":823391627
+        }
+    ],
+    "wof:id":823391627,
+    "wof:lastmodified":1463432153,
+    "wof:name":"Stewart Electric Co",
+    "wof:parent_id":85823177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.652395,
+    40.122538,
+    -80.652395,
+    40.122538
+],
+  "geometry": {"coordinates":[-80.652395,40.122538],"type":"Point"}
+}

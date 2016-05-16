@@ -1,0 +1,76 @@
+{
+  "id": 823453275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.549418,40.39848,-80.549418,40.39848",
+    "geom:latitude":40.39848,
+    "geom:longitude":-80.549418,
+    "iso:country":"US",
+    "sg:address":"101 Three Springs Dr",
+    "sg:city":"Weirton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/weirton/71753-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 723 4240",
+    "sg:postcode":"26062",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731371,
+        102082633,
+        85854989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QpKFwOUZtQ24iyiy9pTDj_40.398480_-80.549418@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434941,
+    "wof:geomhash":"90eebb351deeebc45d8e87a1bcc3bae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731371,
+            "neighbourhood_id":85854989,
+            "region_id":85688589,
+            "venue_id":823453275
+        }
+    ],
+    "wof:id":823453275,
+    "wof:lastmodified":1463434941,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85854989,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -80.549418,
+    40.39848,
+    -80.549418,
+    40.39848
+],
+  "geometry": {"coordinates":[-80.549418,40.39848],"type":"Point"}
+}

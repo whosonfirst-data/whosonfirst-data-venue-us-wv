@@ -1,0 +1,71 @@
+{
+  "id": 823401417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.713348,38.363875,-81.713348,38.363875",
+    "geom:latitude":38.363875,
+    "geom:longitude":-81.713348,
+    "iso:country":"US",
+    "sg:address":"28 River Walk Mall",
+    "sg:city":"South Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 1111",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4H7Ct2IfF0kvyWMwd3zx3V_38.363875_-81.713348@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432648,
+    "wof:geomhash":"a34a7fa87b79df8aa5d12f0adf13749d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823401417
+        }
+    ],
+    "wof:id":823401417,
+    "wof:lastmodified":1463432648,
+    "wof:name":"Faith's Hallmark",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.713348,
+    38.363875,
+    -81.713348,
+    38.363875
+],
+  "geometry": {"coordinates":[-81.713348,38.363875],"type":"Point"}
+}

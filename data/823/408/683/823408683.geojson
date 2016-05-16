@@ -1,0 +1,73 @@
+{
+  "id": 823408683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.146796,39.481989,-80.146796,39.481989",
+    "geom:latitude":39.481989,
+    "geom:longitude":-80.146796,
+    "iso:country":"US",
+    "sg:address":"200 Fairmont Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 2554",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qYSpvWzF1271P0QXYYb32_39.481989_-80.146796@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432972,
+    "wof:geomhash":"aff284030b8437c53446fe058a2c623b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823408683
+        }
+    ],
+    "wof:id":823408683,
+    "wof:lastmodified":1463432972,
+    "wof:name":"City Center",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "parks"
+    ]
+},
+  "bbox": [
+    -80.146796,
+    39.481989,
+    -80.146796,
+    39.481989
+],
+  "geometry": {"coordinates":[-80.14679599999999,39.481989],"type":"Point"}
+}

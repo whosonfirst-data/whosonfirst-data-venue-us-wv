@@ -1,0 +1,74 @@
+{
+  "id": 823451631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.690437,40.067871,-80.690437,40.067871",
+    "geom:latitude":40.067871,
+    "geom:longitude":-80.690437,
+    "iso:country":"US",
+    "sg:address":"316 Washington Ave",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 243 2000",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "university"
+    ],
+    "sg:website":"http://www.wju.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85830083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HDiuyMomr9l4cZMblnZaI_40.067492_-80.690799@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463434878,
+    "wof:geomhash":"3bcb63505ea01389946eb876c0915f1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85830083,
+            "region_id":85688589,
+            "venue_id":823451631
+        }
+    ],
+    "wof:id":823451631,
+    "wof:lastmodified":1463434878,
+    "wof:name":"Wheeling Jesuit University Inc",
+    "wof:parent_id":85830083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "university"
+    ]
+},
+  "bbox": [
+    -80.690437,
+    40.067871,
+    -80.690437,
+    40.067871
+],
+  "geometry": {"coordinates":[-80.690437,40.067871],"type":"Point"}
+}

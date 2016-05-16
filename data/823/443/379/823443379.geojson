@@ -1,0 +1,77 @@
+{
+  "id": 823443379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.859883,39.642595,-80.859883,39.642595",
+    "geom:latitude":39.642595,
+    "geom:longitude":-80.859883,
+    "iso:country":"US",
+    "sg:address":"262 North St",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 5677",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "plumbing",
+        "electrical",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pR4nnGwR8pKsfFwhn7uGL_39.642595_-80.859883@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434519,
+    "wof:geomhash":"e2ff7847953718e5b6f6b98ce6bbddfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823443379
+        }
+    ],
+    "wof:id":823443379,
+    "wof:lastmodified":1463434519,
+    "wof:name":"Valley Plumbing & Electric Inc",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "electrical",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.859883,
+    39.642595,
+    -80.859883,
+    39.642595
+],
+  "geometry": {"coordinates":[-80.859883,39.642595],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823399501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.27011,39.29742,-80.27011,39.29742",
+    "geom:latitude":39.29742,
+    "geom:longitude":-80.27011,
+    "iso:country":"US",
+    "sg:address":"636 Rivendell Dr",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 3446",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68bK3Z4OYD3bsTZ1O9vxfe_39.297420_-80.270110@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432566,
+    "wof:geomhash":"dc03cb30dcf9591e462c626c459c179f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823399501
+        }
+    ],
+    "wof:id":823399501,
+    "wof:lastmodified":1463432566,
+    "wof:name":"Urology Center",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -80.27011,
+    39.29742,
+    -80.27011,
+    39.29742
+],
+  "geometry": {"coordinates":[-80.27011,39.29742],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823371785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.646159,38.358693,-81.646159,38.358693",
+    "geom:latitude":38.358693,
+    "geom:longitude":-81.646159,
+    "iso:country":"US",
+    "sg:address":"222 Virginia St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 9374",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automobile",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vaSdouT73Yreg8FnYa6Vc_38.358693_-81.646159@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431275,
+    "wof:geomhash":"0fe8148730a4ca7bc72498c1235ffc87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823371785
+        }
+    ],
+    "wof:id":823371785,
+    "wof:lastmodified":1463431275,
+    "wof:name":"Dyna Automotive",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "electric"
+    ]
+},
+  "bbox": [
+    -81.646159,
+    38.358693,
+    -81.646159,
+    38.358693
+],
+  "geometry": {"coordinates":[-81.646159,38.358693],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823377751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.572937,40.609518,-80.572937,40.609518",
+    "geom:latitude":40.609518,
+    "geom:longitude":-80.572937,
+    "iso:country":"US",
+    "sg:address":"120 Carolina Ave",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 2753",
+    "sg:postcode":"26034",
+    "sg:province":"WV",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jpJAi1jkHudCX6gqsdFeg_40.609518_-80.572937@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431545,
+    "wof:geomhash":"0a60e1e02bde9ab0e031d5e5a776745e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823377751
+        }
+    ],
+    "wof:id":823377751,
+    "wof:lastmodified":1463431545,
+    "wof:name":"Tri State Discount Liquors",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -80.572937,
+    40.609518,
+    -80.572937,
+    40.609518
+],
+  "geometry": {"coordinates":[-80.572937,40.609518],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 823375667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.035133,39.431257,-78.035133,39.431257",
+    "geom:latitude":39.431257,
+    "geom:longitude":-78.035133,
+    "iso:country":"US",
+    "sg:address":"7520 Nollville Rd",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 262 2600",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "house",
+        "carpet",
+        "rug",
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OgMRskJ7YLnYeHlj0wGLR_39.431257_-78.035133@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431443,
+    "wof:geomhash":"24c8d2ed3004935583a919e4fad3e001",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823375667
+        }
+    ],
+    "wof:id":823375667,
+    "wof:lastmodified":1463431443,
+    "wof:name":"Service Master",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "carpet",
+        "rug",
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -78.035133,
+    39.431257,
+    -78.035133,
+    39.431257
+],
+  "geometry": {"coordinates":[-78.035133,39.431257],"type":"Point"}
+}

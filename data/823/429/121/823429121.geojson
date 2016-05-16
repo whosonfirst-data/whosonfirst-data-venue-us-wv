@@ -1,0 +1,71 @@
+{
+  "id": 823429121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.655401,38.366466,-81.655401,38.366466",
+    "geom:latitude":38.366466,
+    "geom:longitude":-81.655401,
+    "iso:country":"US",
+    "sg:address":"517 Russell St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 344 3354",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7f1DwYUtLv3Zep0GNFRjb4_38.366466_-81.655401@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433847,
+    "wof:geomhash":"01e813b3e8b969a3612c5f21000a14b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823429121
+        }
+    ],
+    "wof:id":823429121,
+    "wof:lastmodified":1463433847,
+    "wof:name":"BBL Carlton",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -81.655401,
+    38.366466,
+    -81.655401,
+    38.366466
+],
+  "geometry": {"coordinates":[-81.655401,38.366466],"type":"Point"}
+}

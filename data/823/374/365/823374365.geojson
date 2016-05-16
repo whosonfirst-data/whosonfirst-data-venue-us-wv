@@ -1,0 +1,73 @@
+{
+  "id": 823374365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.845566,38.923085,-79.845566,38.923085",
+    "geom:latitude":38.923085,
+    "geom:longitude":-79.845566,
+    "iso:country":"US",
+    "sg:address":"309 Scott St",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 3950",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eJM9a4RGHeMVfGz5x0TsB_38.923085_-79.845566@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431374,
+    "wof:geomhash":"afe62199afbf365f3f7c5fa2ef131123",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823374365
+        }
+    ],
+    "wof:id":823374365,
+    "wof:lastmodified":1463431374,
+    "wof:name":"Davis Electrical Svc",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -79.845566,
+    38.923085,
+    -79.845566,
+    38.923085
+],
+  "geometry": {"coordinates":[-79.84556600000001,38.923085],"type":"Point"}
+}

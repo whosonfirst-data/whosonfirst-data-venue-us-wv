@@ -1,0 +1,71 @@
+{
+  "id": 823440125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.622618,40.388189,-80.622618,40.388189",
+    "geom:latitude":40.388189,
+    "geom:longitude":-80.622618,
+    "iso:country":"US",
+    "sg:address":"3048 Birch Dr",
+    "sg:city":"Weirton",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 748 1190",
+    "sg:postcode":"26062",
+    "sg:province":"WV",
+    "sg:tags":[
+        "terminal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731371,
+        102082633,
+        85832497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bseAKUtLIVAICLQhp9Tqf_40.388189_-80.622618@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434369,
+    "wof:geomhash":"93bc52fd9237e8d18b8f6251ee301b7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731371,
+            "neighbourhood_id":85832497,
+            "region_id":85688589,
+            "venue_id":823440125
+        }
+    ],
+    "wof:id":823440125,
+    "wof:lastmodified":1463434369,
+    "wof:name":"Apex Oil Co",
+    "wof:parent_id":85832497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "terminal"
+    ]
+},
+  "bbox": [
+    -80.622618,
+    40.388189,
+    -80.622618,
+    40.388189
+],
+  "geometry": {"coordinates":[-80.622618,40.388189],"type":"Point"}
+}

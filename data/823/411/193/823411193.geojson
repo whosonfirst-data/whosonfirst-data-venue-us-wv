@@ -1,0 +1,71 @@
+{
+  "id": 823411193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.85951,38.930003,-79.85951,38.930003",
+    "geom:latitude":38.930003,
+    "geom:longitude":-79.85951,
+    "iso:country":"US",
+    "sg:address":"1020 Harrison Ave",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 3134",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Vp6txdaYxBHdFqDEAE2IW_38.930003_-79.859510@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433074,
+    "wof:geomhash":"27319fedc96773d131c37f525ce0b6e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823411193
+        }
+    ],
+    "wof:id":823411193,
+    "wof:lastmodified":1463433074,
+    "wof:name":"NAPA Auto Parts",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -79.85951,
+    38.930003,
+    -79.85951,
+    38.930003
+],
+  "geometry": {"coordinates":[-79.85951,38.930003],"type":"Point"}
+}

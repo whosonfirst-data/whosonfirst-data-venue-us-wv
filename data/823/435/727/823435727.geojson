@@ -1,0 +1,73 @@
+{
+  "id": 823435727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.958179,39.638251,-79.958179,39.638251",
+    "geom:latitude":39.638251,
+    "geom:longitude":-79.958179,
+    "iso:country":"US",
+    "sg:address":"230 Beechurst Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 9555",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xMNsPAjTRAN2271ysslE9_39.638251_-79.958179@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434155,
+    "wof:geomhash":"ab1e5d524cb71645fa2ae9a9da7f0a82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851489,
+            "region_id":85688589,
+            "venue_id":823435727
+        }
+    ],
+    "wof:id":823435727,
+    "wof:lastmodified":1463434155,
+    "wof:name":"Panco Properties",
+    "wof:parent_id":85851489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -79.958179,
+    39.638251,
+    -79.958179,
+    39.638251
+],
+  "geometry": {"coordinates":[-79.958179,39.638251],"type":"Point"}
+}

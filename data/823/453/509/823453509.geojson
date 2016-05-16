@@ -1,0 +1,78 @@
+{
+  "id": 823453509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.275895,39.311514,-80.275895,39.311514",
+    "geom:latitude":39.311514,
+    "geom:longitude":-80.275895,
+    "iso:country":"US",
+    "sg:address":"2339 Meadowbrook Mall",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/bridgeport/139740-sicilias-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 7226",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85831189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eCshbEGtSn0a4ynbGpAGY_39.311514_-80.275895@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434950,
+    "wof:geomhash":"5e256c786ad57142b3f67a6b20148c02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85831189,
+            "region_id":85688589,
+            "venue_id":823453509
+        }
+    ],
+    "wof:id":823453509,
+    "wof:lastmodified":1463434950,
+    "wof:name":"Sicilia's Pizzeria",
+    "wof:parent_id":85831189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -80.275895,
+    39.311514,
+    -80.275895,
+    39.311514
+],
+  "geometry": {"coordinates":[-80.27589500000001,39.311514],"type":"Point"}
+}

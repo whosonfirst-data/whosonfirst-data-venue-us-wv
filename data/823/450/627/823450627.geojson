@@ -1,0 +1,71 @@
+{
+  "id": 823450627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.513407,38.397295,-82.513407,38.397295",
+    "geom:latitude":38.397295,
+    "geom:longitude":-82.513407,
+    "iso:country":"US",
+    "sg:address":"712 Mary St",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 429 3921",
+    "sg:postcode":"25704",
+    "sg:province":"WV",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083365,
+        85857035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1f7kcxmvl9l1D2oaQcL1qe_38.397295_-82.513407@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434839,
+    "wof:geomhash":"7534d1401b35fd55be6c3830d0528249",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731553,
+            "neighbourhood_id":85857035,
+            "region_id":85688589,
+            "venue_id":823450627
+        }
+    ],
+    "wof:id":823450627,
+    "wof:lastmodified":1463434839,
+    "wof:name":"Adkins Appliance & Refrig Svc",
+    "wof:parent_id":85857035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -82.513407,
+    38.397295,
+    -82.513407,
+    38.397295
+],
+  "geometry": {"coordinates":[-82.513407,38.397295],"type":"Point"}
+}

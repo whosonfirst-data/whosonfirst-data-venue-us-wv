@@ -1,0 +1,73 @@
+{
+  "id": 823453807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.12318,39.479343,-80.12318,39.479343",
+    "geom:latitude":39.479343,
+    "geom:longitude":-80.12318,
+    "iso:country":"US",
+    "sg:address":"1000 Speedway St",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/palatine/206423-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67fdBoRrNi7FZkB8HUkirF_39.479343_-80.123180@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434962,
+    "wof:geomhash":"300f83bf7e27e77dd67b7dcb27141511",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823453807
+        }
+    ],
+    "wof:id":823453807,
+    "wof:lastmodified":1463434962,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -80.12318,
+    39.479343,
+    -80.12318,
+    39.479343
+],
+  "geometry": {"coordinates":[-80.12318,39.479343],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823380171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.470541,39.040832,-80.470541,39.040832",
+    "geom:latitude":39.040832,
+    "geom:longitude":-80.470541,
+    "iso:country":"US",
+    "sg:address":"170 W 2nd St",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 269 6327",
+    "sg:postcode":"26452",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731403,
+        102083339,
+        85808257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zeXMprjV1EE8QN1jhxEF8_39.040832_-80.470541@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431642,
+    "wof:geomhash":"3f6d1e3b75e2dc43507752c57b6f840b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083339,
+            "locality_id":101731403,
+            "neighbourhood_id":85808257,
+            "region_id":85688589,
+            "venue_id":823380171
+        }
+    ],
+    "wof:id":823380171,
+    "wof:lastmodified":1463431642,
+    "wof:name":"Our Neighbor",
+    "wof:parent_id":85808257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -80.470541,
+    39.040832,
+    -80.470541,
+    39.040832
+],
+  "geometry": {"coordinates":[-80.470541,39.040832],"type":"Point"}
+}

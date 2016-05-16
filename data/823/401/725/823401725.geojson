@@ -1,0 +1,71 @@
+{
+  "id": 823401725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.420181,40.242333,-80.420181,40.242333",
+    "geom:latitude":40.242333,
+    "geom:longitude":-80.420181,
+    "iso:country":"US",
+    "sg:address":"125 E Main St",
+    "sg:city":"West Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 724 587 3754",
+    "sg:postcode":"15376",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688481,
+        85633793,
+        101720273,
+        102081343,
+        85808137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vi0rtIeklatYba9hVLKPa_40.242333_-80.420181@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432661,
+    "wof:geomhash":"785b82e48d10ceb6a9339d02fd802e2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081343,
+            "locality_id":101720273,
+            "neighbourhood_id":85808137,
+            "region_id":85688481,
+            "venue_id":823401725
+        }
+    ],
+    "wof:id":823401725,
+    "wof:lastmodified":1463432661,
+    "wof:name":"Grove United Presbyterian Chr",
+    "wof:parent_id":85808137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -80.420181,
+    40.242333,
+    -80.420181,
+    40.242333
+],
+  "geometry": {"coordinates":[-80.420181,40.242333],"type":"Point"}
+}

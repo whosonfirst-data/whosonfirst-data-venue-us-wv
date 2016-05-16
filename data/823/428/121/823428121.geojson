@@ -1,0 +1,73 @@
+{
+  "id": 823428121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.140003,38.839729,-82.140003,38.839729",
+    "geom:latitude":38.839729,
+    "geom:longitude":-82.140003,
+    "iso:country":"US",
+    "sg:address":"1 Main St",
+    "sg:city":"Point Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 675 0869",
+    "sg:postcode":"25550",
+    "sg:province":"WV",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85983229,
+        102083675,
+        85824533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70tXXBgNE1uAH4qeObYDYe_38.839729_-82.140003@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433793,
+    "wof:geomhash":"a24c36ef1d7ae8754a0fd16ca8297be4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "neighbourhood_id":85824533,
+            "region_id":85688485,
+            "venue_id":823428121
+        }
+    ],
+    "wof:id":823428121,
+    "wof:lastmodified":1463433793,
+    "wof:name":"Pt Pleasant Battle Monument",
+    "wof:parent_id":85824533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -82.140003,
+    38.839729,
+    -82.140003,
+    38.839729
+],
+  "geometry": {"coordinates":[-82.14000299999999,38.839729],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 823375173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.61273,40.2698,-80.61273,40.2698",
+    "geom:latitude":40.2698,
+    "geom:longitude":-80.61273,
+    "iso:country":"US",
+    "sg:address":"600 Charles St",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 0191",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "development",
+        "grant",
+        "loan",
+        "delivery",
+        "program",
+        "rural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66Y0f7en1Ezvx2HbAQcisa_40.269800_-80.612730@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431425,
+    "wof:geomhash":"62cf0182685ae7b3b5812e2e0a7c1102",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823375173
+        }
+    ],
+    "wof:id":823375173,
+    "wof:lastmodified":1463431425,
+    "wof:name":"Rural Development",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "grant",
+        "loan",
+        "delivery",
+        "program",
+        "rural"
+    ]
+},
+  "bbox": [
+    -80.61273,
+    40.2698,
+    -80.61273,
+    40.2698
+],
+  "geometry": {"coordinates":[-80.61273,40.2698],"type":"Point"}
+}

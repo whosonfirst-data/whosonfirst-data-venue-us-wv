@@ -1,0 +1,75 @@
+{
+  "id": 823374007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.249012,37.25916,-81.249012,37.25916",
+    "geom:latitude":37.25916,
+    "geom:longitude":-81.249012,
+    "iso:country":"US",
+    "sg:address":"139 Thorn St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 323 2579",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "station",
+        "gasoline",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DeamQdNiqfDQPUxQQEbOy_37.259160_-81.249012@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431358,
+    "wof:geomhash":"fc0b437fbff6a064ff927b8585b2137f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823374007
+        }
+    ],
+    "wof:id":823374007,
+    "wof:lastmodified":1463431358,
+    "wof:name":"Bland Street Exxon Inc",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline",
+        "oil"
+    ]
+},
+  "bbox": [
+    -81.249012,
+    37.25916,
+    -81.249012,
+    37.25916
+],
+  "geometry": {"coordinates":[-81.24901199999999,37.25916],"type":"Point"}
+}

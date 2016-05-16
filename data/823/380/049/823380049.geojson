@@ -1,0 +1,73 @@
+{
+  "id": 823380049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.348672,38.488611,-81.348672,38.488611",
+    "geom:latitude":38.488611,
+    "geom:longitude":-81.348672,
+    "iso:country":"US",
+    "sg:address":"6 Maywood Ave",
+    "sg:city":"Clendenin",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 548 6641",
+    "sg:postcode":"25045",
+    "sg:province":"WV",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GrWw4GjnDW1Vgaptiwv6e_38.488611_-81.348672@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431638,
+    "wof:geomhash":"f0ac6b1b910a64dc302f2314987cbd66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823380049
+        }
+    ],
+    "wof:id":823380049,
+    "wof:lastmodified":1463431638,
+    "wof:name":"Clendenin Water Dept",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -81.348672,
+    38.488611,
+    -81.348672,
+    38.488611
+],
+  "geometry": {"coordinates":[-81.34867199999999,38.488611],"type":"Point"}
+}

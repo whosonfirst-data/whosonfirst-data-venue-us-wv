@@ -1,0 +1,78 @@
+{
+  "id": 823457605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.866619,39.582466,-79.866619,39.582466",
+    "geom:latitude":39.582466,
+    "geom:longitude":-79.866619,
+    "iso:country":"US",
+    "sg:address":"3025 Earl L Core Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 1642",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732105,
+        102082587,
+        85807831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51FmR3yoCiwCrBlfB0Dzm4_39.582466_-79.866619@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435171,
+    "wof:geomhash":"6a7ba7401401a660e6cbd952c0ed6757",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101732105,
+            "neighbourhood_id":85807831,
+            "region_id":85688589,
+            "venue_id":823457605
+        }
+    ],
+    "wof:id":823457605,
+    "wof:lastmodified":1463435171,
+    "wof:name":"Midnight Auto Repair Inc",
+    "wof:parent_id":85807831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing"
+    ]
+},
+  "bbox": [
+    -79.866619,
+    39.582466,
+    -79.866619,
+    39.582466
+],
+  "geometry": {"coordinates":[-79.866619,39.582466],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823425013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.351693,38.800983,-81.351693,38.800983",
+    "geom:latitude":38.800983,
+    "geom:longitude":-81.351693,
+    "iso:country":"US",
+    "sg:address":"206 Beauty St",
+    "sg:city":"Spencer",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 927 2590",
+    "sg:postcode":"25276",
+    "sg:province":"WV",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731535,
+        102083399,
+        85868331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64uXmQx7te9L692y8jCeBX_38.800983_-81.351693@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433660,
+    "wof:geomhash":"6b56b2071cfdb07cfcf75b4d050015b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083399,
+            "locality_id":101731535,
+            "neighbourhood_id":85868331,
+            "region_id":85688589,
+            "venue_id":823425013
+        }
+    ],
+    "wof:id":823425013,
+    "wof:lastmodified":1463433660,
+    "wof:name":"Taylor-Vandale Funeral Home",
+    "wof:parent_id":85868331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -81.351693,
+    38.800983,
+    -81.351693,
+    38.800983
+],
+  "geometry": {"coordinates":[-81.351693,38.800983],"type":"Point"}
+}

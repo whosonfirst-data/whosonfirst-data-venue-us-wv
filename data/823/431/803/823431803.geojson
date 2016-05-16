@@ -1,0 +1,73 @@
+{
+  "id": 823431803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.482259,38.442627,-81.482259,38.442627",
+    "geom:latitude":38.442627,
+    "geom:longitude":-81.482259,
+    "iso:country":"US",
+    "sg:address":"5100 Elk River Rd",
+    "sg:city":"Elkview",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 965 2277",
+    "sg:postcode":"25071",
+    "sg:province":"WV",
+    "sg:tags":[
+        "auction",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ACe5ssksi3GNvmamxoqQz_38.442627_-81.482259@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433961,
+    "wof:geomhash":"1f5b9df4c3f59484a3185bc782144ac6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823431803
+        }
+    ],
+    "wof:id":823431803,
+    "wof:lastmodified":1463433961,
+    "wof:name":"Capitol City Auto Auction",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auction",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -81.482259,
+    38.442627,
+    -81.482259,
+    38.442627
+],
+  "geometry": {"coordinates":[-81.482259,38.442627],"type":"Point"}
+}

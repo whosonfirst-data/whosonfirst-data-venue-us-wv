@@ -1,0 +1,71 @@
+{
+  "id": 823437701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.495407,39.205467,-81.495407,39.205467",
+    "geom:latitude":39.205467,
+    "geom:longitude":-81.495407,
+    "iso:country":"US",
+    "sg:address":"341 Spruce St",
+    "sg:city":"Davisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 485 5342",
+    "sg:postcode":"26142",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bRp7Atvm4EZoWukd7tyWD_39.205467_-81.495407@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434267,
+    "wof:geomhash":"faf8809e1e109eb9301e226555dfc634",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823437701
+        }
+    ],
+    "wof:id":823437701,
+    "wof:lastmodified":1463434267,
+    "wof:name":"Rons Auto Techniques LLC",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -81.495407,
+    39.205467,
+    -81.495407,
+    39.205467
+],
+  "geometry": {"coordinates":[-81.495407,39.205467],"type":"Point"}
+}

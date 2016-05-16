@@ -1,0 +1,91 @@
+{
+  "id": 823454819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.967896,39.49999,-77.967896,39.49999",
+    "geom:latitude":39.49999,
+    "geom:longitude":-77.967896,
+    "iso:country":"US",
+    "sg:address":"11 Jetta Cir",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 1466",
+    "sg:postcode":"25403",
+    "sg:province":"WV",
+    "sg:tags":[
+        "industrial",
+        "warehouses-merchandise",
+        "warehouses-public-commercial",
+        "builder",
+        "contractor",
+        "contractors-commercial",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85846047,
+        102083367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3T4veBlIPKhffEMB3dEAcZ_39.499990_-77.967896@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435052,
+    "wof:geomhash":"0b2c0368e2ec088cf6de0399ee74a27a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "neighbourhood_id":85846047,
+            "region_id":85688589,
+            "venue_id":823454819
+        }
+    ],
+    "wof:id":823454819,
+    "wof:lastmodified":1463435052,
+    "wof:name":"Whitmore Homes Incorporated",
+    "wof:parent_id":85846047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "warehouses-merchandise",
+        "warehouses-public-commercial",
+        "builder",
+        "contractor",
+        "contractors-commercial",
+        "home"
+    ]
+},
+  "bbox": [
+    -77.967896,
+    39.49999,
+    -77.967896,
+    39.49999
+],
+  "geometry": {"coordinates":[-77.967896,39.49999],"type":"Point"}
+}

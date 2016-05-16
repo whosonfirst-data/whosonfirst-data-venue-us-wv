@@ -1,0 +1,71 @@
+{
+  "id": 823432909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.596794,38.347771,-81.596794,38.347771",
+    "geom:latitude":38.347771,
+    "geom:longitude":-81.596794,
+    "iso:country":"US",
+    "sg:address":"715 Ellette Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 346 7078",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "crane"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XATJ3KuopjfLVlx4tngY3_38.347771_-81.596794@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434015,
+    "wof:geomhash":"e8a3c300375404fd9751781051e76f0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823432909
+        }
+    ],
+    "wof:id":823432909,
+    "wof:lastmodified":1463434015,
+    "wof:name":"West Virginia Crane",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crane"
+    ]
+},
+  "bbox": [
+    -81.596794,
+    38.347771,
+    -81.596794,
+    38.347771
+],
+  "geometry": {"coordinates":[-81.596794,38.347771],"type":"Point"}
+}

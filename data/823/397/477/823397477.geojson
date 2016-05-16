@@ -1,0 +1,73 @@
+{
+  "id": 823397477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.971996,38.445415,-81.971996,38.445415",
+    "geom:latitude":38.445415,
+    "geom:longitude":-81.971996,
+    "iso:country":"US",
+    "sg:address":"3705 Teays Valley Rd",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 757 2500",
+    "sg:postcode":"25526",
+    "sg:province":"WV",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731829,
+        102083381,
+        85868321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GDk7CbQHr7cuWRc6RbioO_38.445415_-81.971996@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432453,
+    "wof:geomhash":"010e617ca5ce8701d2e36fd168ce8f2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731829,
+            "neighbourhood_id":85868321,
+            "region_id":85688589,
+            "venue_id":823397477
+        }
+    ],
+    "wof:id":823397477,
+    "wof:lastmodified":1463432453,
+    "wof:name":"Generations Physical Therapy",
+    "wof:parent_id":85868321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -81.971996,
+    38.445415,
+    -81.971996,
+    38.445415
+],
+  "geometry": {"coordinates":[-81.971996,38.445415],"type":"Point"}
+}

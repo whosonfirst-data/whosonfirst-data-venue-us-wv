@@ -1,0 +1,73 @@
+{
+  "id": 823431371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.597253,38.325747,-81.597253,38.325747",
+    "geom:latitude":38.325747,
+    "geom:longitude":-81.597253,
+    "iso:country":"US",
+    "sg:address":"3406 Chesterfield Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 3004",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "instruction",
+        "gymnastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Uyjuxlphhz0eqK1m1xKeW_38.325747_-81.597253@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433935,
+    "wof:geomhash":"bff3b748dafe96e4ae9054d73271bbe5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823431371
+        }
+    ],
+    "wof:id":823431371,
+    "wof:lastmodified":1463433935,
+    "wof:name":"Maverick Gymnastics Club",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "gymnastic"
+    ]
+},
+  "bbox": [
+    -81.597253,
+    38.325747,
+    -81.597253,
+    38.325747
+],
+  "geometry": {"coordinates":[-81.59725299999999,38.325747],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823455655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.0336,39.384399,-78.0336,39.384399",
+    "geom:latitude":39.384399,
+    "geom:longitude":-78.0336,
+    "iso:country":"US",
+    "sg:address":"792 Doe Run Rd",
+    "sg:city":"Inwood",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 229 8816",
+    "sg:postcode":"25428",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5J6AxvOAVx8lMU2UYbHaKD_39.384399_-78.033600@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435084,
+    "wof:geomhash":"a53db47d06445b4af85c82c330899fc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823455655
+        }
+    ],
+    "wof:id":823455655,
+    "wof:lastmodified":1463435084,
+    "wof:name":"Scott's Electric",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -78.0336,
+    39.384399,
+    -78.0336,
+    39.384399
+],
+  "geometry": {"coordinates":[-78.03360000000001,39.384399],"type":"Point"}
+}

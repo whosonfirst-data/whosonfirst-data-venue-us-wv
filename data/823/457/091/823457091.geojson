@@ -1,0 +1,71 @@
+{
+  "id": 823457091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.107013,39.61469,-80.107013,39.61469",
+    "geom:latitude":39.61469,
+    "geom:longitude":-80.107013,
+    "iso:country":"US",
+    "sg:address":"1072 Stewart Run",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 1191",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "management",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818601,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vzSFC3Uzb4QHZwzZyzC9m_39.614690_-80.107013@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435145,
+    "wof:geomhash":"d6607927cb7ff57bc6b9a52ad01396cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85818601,
+            "region_id":85688589,
+            "venue_id":823457091
+        }
+    ],
+    "wof:id":823457091,
+    "wof:lastmodified":1463435145,
+    "wof:name":"Whetco Enterprises",
+    "wof:parent_id":85818601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management",
+        "rental"
+    ]
+},
+  "bbox": [
+    -80.107013,
+    39.61469,
+    -80.107013,
+    39.61469
+],
+  "geometry": {"coordinates":[-80.10701299999999,39.61469],"type":"Point"}
+}

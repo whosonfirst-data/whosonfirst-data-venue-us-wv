@@ -1,0 +1,73 @@
+{
+  "id": 823440927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.977835,39.441948,-77.977835,39.441948",
+    "geom:latitude":39.441948,
+    "geom:longitude":-77.977835,
+    "iso:country":"US",
+    "sg:address":"1510 New York Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 262 6145",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ac77E7IE7mZ8wkjCACdeX_39.441948_-77.977835@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434404,
+    "wof:geomhash":"09b2d145469c9d7500b049f1730b5955",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823440927
+        }
+    ],
+    "wof:id":823440927,
+    "wof:lastmodified":1463434404,
+    "wof:name":"Autozone",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -77.977835,
+    39.441948,
+    -77.977835,
+    39.441948
+],
+  "geometry": {"coordinates":[-77.977835,39.441948],"type":"Point"}
+}

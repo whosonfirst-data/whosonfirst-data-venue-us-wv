@@ -1,0 +1,73 @@
+{
+  "id": 823437187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.021826,39.341516,-80.021826,39.341516",
+    "geom:latitude":39.341516,
+    "geom:longitude":-80.021826,
+    "iso:country":"US",
+    "sg:address":"25 W Main St",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 265 2388",
+    "sg:postcode":"26354",
+    "sg:province":"WV",
+    "sg:tags":[
+        "sewing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731717,
+        102083351,
+        85849697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Jol1FLlAubSgSeifiqSIB_39.341516_-80.021826@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434241,
+    "wof:geomhash":"9a6ced7ad1f7a0e52c428e89ac2f6c92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083351,
+            "locality_id":101731717,
+            "neighbourhood_id":85849697,
+            "region_id":85688589,
+            "venue_id":823437187
+        }
+    ],
+    "wof:id":823437187,
+    "wof:lastmodified":1463434241,
+    "wof:name":"Sewing Room",
+    "wof:parent_id":85849697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.021826,
+    39.341516,
+    -80.021826,
+    39.341516
+],
+  "geometry": {"coordinates":[-80.021826,39.341516],"type":"Point"}
+}

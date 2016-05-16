@@ -1,0 +1,75 @@
+{
+  "id": 823375891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.740402,38.360057,-81.740402,38.360057",
+    "geom:latitude":38.360057,
+    "geom:longitude":-81.740402,
+    "iso:country":"US",
+    "sg:address":"1 Dunbar Plz",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 766 2162",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "communications",
+        "radiotelephone",
+        "communication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jku41hWiolMI9x9QXXEoT_38.360057_-81.740402@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431456,
+    "wof:geomhash":"5b33cb76b3c6733ebab500c413e9afec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823375891
+        }
+    ],
+    "wof:id":823375891,
+    "wof:lastmodified":1463431456,
+    "wof:name":"Avaya Inc",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications",
+        "radiotelephone",
+        "communication"
+    ]
+},
+  "bbox": [
+    -81.740402,
+    38.360057,
+    -81.740402,
+    38.360057
+],
+  "geometry": {"coordinates":[-81.740402,38.360057],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823411717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.296678,38.346999,-82.296678,38.346999",
+    "geom:latitude":38.346999,
+    "geom:longitude":-82.296678,
+    "iso:country":"US",
+    "sg:address":"5143 State Rte 10",
+    "sg:city":"Barboursville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 733 2022",
+    "sg:postcode":"25504",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85865435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TbDqU8Q4bpIG99rvh4YvV_38.346999_-82.296678@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433093,
+    "wof:geomhash":"7ea4bc3e4da220c0b89ad5ae0e17d16e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85865435,
+            "region_id":85688589,
+            "venue_id":823411717
+        }
+    ],
+    "wof:id":823411717,
+    "wof:lastmodified":1463433093,
+    "wof:name":"Rick's Auto Repair Shop",
+    "wof:parent_id":85865435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -82.296678,
+    38.346999,
+    -82.296678,
+    38.346999
+],
+  "geometry": {"coordinates":[-82.296678,38.346999],"type":"Point"}
+}

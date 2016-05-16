@@ -1,0 +1,82 @@
+{
+  "id": 823414893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.741994,38.35232,-81.741994,38.35232",
+    "geom:latitude":38.35232,
+    "geom:longitude":-81.741994,
+    "iso:country":"US",
+    "sg:address":"5326 Ohio St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 766 7372",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "water",
+        "heater",
+        "supply",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ufA9kIIZfPTTxFvAN9QXI_38.352320_-81.741994@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433218,
+    "wof:geomhash":"d2be855df10af00d0c918e7a1544c93e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823414893
+        }
+    ],
+    "wof:id":823414893,
+    "wof:lastmodified":1463433218,
+    "wof:name":"First Class Plumbing",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "heater",
+        "supply",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.741994,
+    38.35232,
+    -81.741994,
+    38.35232
+],
+  "geometry": {"coordinates":[-81.74199400000001,38.35232],"type":"Point"}
+}

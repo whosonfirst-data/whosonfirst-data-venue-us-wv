@@ -1,0 +1,71 @@
+{
+  "id": 823368579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.301704,39.394315,-80.301704,39.394315",
+    "geom:latitude":39.394315,
+    "geom:longitude":-80.301704,
+    "iso:country":"US",
+    "sg:address":"78 Main St",
+    "sg:city":"Shinnston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 592 1915",
+    "sg:postcode":"26431",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85831189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XfiAZK5ycbowwMgqrbpd9_39.394315_-80.301704@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431119,
+    "wof:geomhash":"dbbde77d4eb7b96b739c52904fa41088",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85831189,
+            "region_id":85688589,
+            "venue_id":823368579
+        }
+    ],
+    "wof:id":823368579,
+    "wof:lastmodified":1463431119,
+    "wof:name":"Marys Hair Care",
+    "wof:parent_id":85831189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -80.301704,
+    39.394315,
+    -80.301704,
+    39.394315
+],
+  "geometry": {"coordinates":[-80.301704,39.394315],"type":"Point"}
+}

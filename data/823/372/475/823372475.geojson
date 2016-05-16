@@ -1,0 +1,75 @@
+{
+  "id": 823372475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.648128,38.35788,-81.648128,38.35788",
+    "geom:latitude":38.35788,
+    "geom:longitude":-81.648128,
+    "iso:country":"US",
+    "sg:address":"210 Kanawha Blvd W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 347 5766",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "federal",
+        "counsel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RnKYHzDd9eoKMAUV0sFAU_38.357880_-81.648128@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431302,
+    "wof:geomhash":"238965009a1253884b3d2258a726d10a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823372475
+        }
+    ],
+    "wof:id":823372475,
+    "wof:lastmodified":1463431302,
+    "wof:name":"US Justice Dept",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "counsel"
+    ]
+},
+  "bbox": [
+    -81.648128,
+    38.35788,
+    -81.648128,
+    38.35788
+],
+  "geometry": {"coordinates":[-81.648128,38.35788],"type":"Point"}
+}

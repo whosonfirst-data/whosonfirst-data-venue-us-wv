@@ -1,0 +1,73 @@
+{
+  "id": 823402671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.592642,38.382513,-82.592642,38.382513",
+    "geom:latitude":38.382513,
+    "geom:longitude":-82.592642,
+    "iso:country":"US",
+    "sg:address":"3261 Big Sandy Rd",
+    "sg:city":"Kenova",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 486 5566",
+    "sg:postcode":"25530",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repair",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731517,
+        102083365,
+        85806071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qXa8Qkt2oyexhs3yLGPCj_38.382513_-82.592642@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432699,
+    "wof:geomhash":"80197359c0c600d679517ca51dd712da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731517,
+            "neighbourhood_id":85806071,
+            "region_id":85688589,
+            "venue_id":823402671
+        }
+    ],
+    "wof:id":823402671,
+    "wof:lastmodified":1463432699,
+    "wof:name":"Smith Auto Sales Inc",
+    "wof:parent_id":85806071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "general"
+    ]
+},
+  "bbox": [
+    -82.592642,
+    38.382513,
+    -82.592642,
+    38.382513
+],
+  "geometry": {"coordinates":[-82.592642,38.382513],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 823450277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.188096,37.767395,-81.188096,37.767395",
+    "geom:latitude":37.767395,
+    "geom:longitude":-81.188096,
+    "iso:country":"US",
+    "sg:address":"217 Granville Ave",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 252 7291",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gHfDAs4zZdnbQVuUgpOJY_37.767395_-81.188096@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434826,
+    "wof:geomhash":"85a44af09e82d90c9d27aa0cc5dd5d64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823450277
+        }
+    ],
+    "wof:id":823450277,
+    "wof:lastmodified":1463434826,
+    "wof:name":"William D Mc Lean MD",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.188096,
+    37.767395,
+    -81.188096,
+    37.767395
+],
+  "geometry": {"coordinates":[-81.188096,37.767395],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823398455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.333127,39.276673,-80.333127,39.276673",
+    "geom:latitude":39.276673,
+    "geom:longitude":-80.333127,
+    "iso:country":"US",
+    "sg:address":"205 Virginia Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 2671",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39YnX6VnPGXMBoqiwpTTQ5_39.276673_-80.333127@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432508,
+    "wof:geomhash":"1b9dcc17bd2d017967f2b37ca8f9242c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823398455
+        }
+    ],
+    "wof:id":823398455,
+    "wof:lastmodified":1463432508,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -80.333127,
+    39.276673,
+    -80.333127,
+    39.276673
+],
+  "geometry": {"coordinates":[-80.333127,39.276673],"type":"Point"}
+}

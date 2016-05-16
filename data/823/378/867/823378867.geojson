@@ -1,0 +1,71 @@
+{
+  "id": 823378867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.398207,39.262739,-80.398207,39.262739",
+    "geom:latitude":39.262739,
+    "geom:longitude":-80.398207,
+    "iso:country":"US",
+    "sg:address":"600 Davisson Run Rd",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 623 1234",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85810773,
+        102082619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gMYH0EiHwnEGniNaicERw_39.262739_-80.398207@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431590,
+    "wof:geomhash":"ccb81443c6a39bcb698ecb4ccd8b1cb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "neighbourhood_id":85810773,
+            "region_id":85688589,
+            "venue_id":823378867
+        }
+    ],
+    "wof:id":823378867,
+    "wof:lastmodified":1463431590,
+    "wof:name":"Allen Med Medical Ctr",
+    "wof:parent_id":85810773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -80.398207,
+    39.262739,
+    -80.398207,
+    39.262739
+],
+  "geometry": {"coordinates":[-80.398207,39.262739],"type":"Point"}
+}

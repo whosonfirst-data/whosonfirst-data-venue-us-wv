@@ -1,0 +1,73 @@
+{
+  "id": 823444393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.950974,39.625548,-79.950974,39.625548",
+    "geom:latitude":39.625548,
+    "geom:longitude":-79.950974,
+    "iso:country":"US",
+    "sg:address":"260 Green St",
+    "sg:city":"Westover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 5300",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85858573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZMv1UVkG81xM8IObR2zsu_39.625548_-79.950974@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434555,
+    "wof:geomhash":"5162062dc2766efd67999c45eadfcb8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85858573,
+            "region_id":85688589,
+            "venue_id":823444393
+        }
+    ],
+    "wof:id":823444393,
+    "wof:lastmodified":1463434555,
+    "wof:name":"Spiker's Upholstery",
+    "wof:parent_id":85858573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -79.950974,
+    39.625548,
+    -79.950974,
+    39.625548
+],
+  "geometry": {"coordinates":[-79.950974,39.625548],"type":"Point"}
+}

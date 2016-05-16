@@ -1,0 +1,71 @@
+{
+  "id": 823390873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.09056,37.369917,-81.09056,37.369917",
+    "geom:latitude":37.369917,
+    "geom:longitude":-81.09056,
+    "iso:country":"US",
+    "sg:address":"538 Mercer St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 3873",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AAa83jJBCLaZ3bYJxb6xV_37.369917_-81.090560@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432115,
+    "wof:geomhash":"391fc0ac2eaf0e147cc40b6c44fc7f8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823390873
+        }
+    ],
+    "wof:id":823390873,
+    "wof:lastmodified":1463432115,
+    "wof:name":"Service Cleaners Inc",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -81.09056,
+    37.369917,
+    -81.09056,
+    37.369917
+],
+  "geometry": {"coordinates":[-81.09056,37.369917],"type":"Point"}
+}

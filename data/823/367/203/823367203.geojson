@@ -1,0 +1,73 @@
+{
+  "id": 823367203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.608265,38.331478,-81.608265,38.331478",
+    "geom:latitude":38.331478,
+    "geom:longitude":-81.608265,
+    "iso:country":"US",
+    "sg:address":"110 29th St SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 0171",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85850023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CQIFm3CExUQC2OpOGBPTW_38.331478_-81.608265@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431065,
+    "wof:geomhash":"8b5db5309aff8b691ce793f064b465d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85850023,
+            "region_id":85688589,
+            "venue_id":823367203
+        }
+    ],
+    "wof:id":823367203,
+    "wof:lastmodified":1463431065,
+    "wof:name":"Charleston Medical Ctr Housing",
+    "wof:parent_id":85850023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -81.608265,
+    38.331478,
+    -81.608265,
+    38.331478
+],
+  "geometry": {"coordinates":[-81.608265,38.331478],"type":"Point"}
+}

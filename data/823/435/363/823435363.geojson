@@ -1,0 +1,66 @@
+{
+  "id": 823435363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.281029,39.279538,-80.281029,39.279538",
+    "geom:latitude":39.279538,
+    "geom:longitude":-80.281029,
+    "iso:country":"US",
+    "sg:address":"542 Emily Dr",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 622 2868",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54oERHzmMYu9HZFKzQGAu2_39.279538_-80.281029@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434141,
+    "wof:geomhash":"4afc9782ad4bfe4a3a26ab917322d230",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823435363
+        }
+    ],
+    "wof:id":823435363,
+    "wof:lastmodified":1463434141,
+    "wof:name":"Shoe Dept",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.281029,
+    39.279538,
+    -80.281029,
+    39.279538
+],
+  "geometry": {"coordinates":[-80.281029,39.279538],"type":"Point"}
+}

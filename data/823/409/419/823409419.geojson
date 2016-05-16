@@ -1,0 +1,73 @@
+{
+  "id": 823409419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.042323,39.158462,-80.042323,39.158462",
+    "geom:latitude":39.158462,
+    "geom:longitude":-80.042323,
+    "iso:country":"US",
+    "sg:address":"102 Beech St",
+    "sg:city":"Philippi",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 457 2991",
+    "sg:postcode":"26416",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TIumFoaAPaAGfozvSr9Rh_39.158462_-80.042323@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432999,
+    "wof:geomhash":"fe7ed14ba0198542125710a372b4dcad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823409419
+        }
+    ],
+    "wof:id":823409419,
+    "wof:lastmodified":1463432999,
+    "wof:name":"T & T Automotive & Trans Rprs",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -80.042323,
+    39.158462,
+    -80.042323,
+    39.158462
+],
+  "geometry": {"coordinates":[-80.042323,39.158462],"type":"Point"}
+}

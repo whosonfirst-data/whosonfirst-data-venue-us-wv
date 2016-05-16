@@ -1,0 +1,76 @@
+{
+  "id": 823452639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.987785,39.463885,-77.987785,39.463885",
+    "geom:latitude":39.463885,
+    "geom:longitude":-77.987785,
+    "iso:country":"US",
+    "sg:address":"1619 W King St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/adam-stephens/139715-sicilias-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 264 2753",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85846047,
+        102083367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IzHrsSCN6vD1IZDJUfhcQ_39.463885_-77.987785@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434915,
+    "wof:geomhash":"428c08a7ff27868dee34357f4b364cfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "neighbourhood_id":85846047,
+            "region_id":85688589,
+            "venue_id":823452639
+        }
+    ],
+    "wof:id":823452639,
+    "wof:lastmodified":1463434915,
+    "wof:name":"Sicilia's Pizzeria",
+    "wof:parent_id":85846047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -77.987785,
+    39.463885,
+    -77.987785,
+    39.463885
+],
+  "geometry": {"coordinates":[-77.987785,39.463885],"type":"Point"}
+}

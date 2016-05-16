@@ -1,0 +1,71 @@
+{
+  "id": 823427969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.517881,39.268998,-81.517881,39.268998",
+    "geom:latitude":39.268998,
+    "geom:longitude":-81.517881,
+    "iso:country":"US",
+    "sg:address":"3020 7th St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 428 5955",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85818775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YyBrON8yyWFk7MLgARF4a_39.268998_-81.517881@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433788,
+    "wof:geomhash":"7892f04bf4022d43f29f02ec549f9fbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85818775,
+            "region_id":85688589,
+            "venue_id":823427969
+        }
+    ],
+    "wof:id":823427969,
+    "wof:lastmodified":1463433788,
+    "wof:name":"Ward's Farm Market",
+    "wof:parent_id":85818775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -81.517881,
+    39.268998,
+    -81.517881,
+    39.268998
+],
+  "geometry": {"coordinates":[-81.517881,39.268998],"type":"Point"}
+}

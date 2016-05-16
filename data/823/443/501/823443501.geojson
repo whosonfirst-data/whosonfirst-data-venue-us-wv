@@ -1,0 +1,71 @@
+{
+  "id": 823443501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.302429,37.791117,-80.302429,37.791117",
+    "geom:latitude":37.791117,
+    "geom:longitude":-80.302429,
+    "iso:country":"US",
+    "sg:address":"129 W Main St",
+    "sg:city":"Union",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 772 5811",
+    "sg:postcode":"24986",
+    "sg:province":"WV",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PAzSVS3TquujTZSjzratw_37.791117_-80.302429@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434524,
+    "wof:geomhash":"48f99556c2dfd5bfff33f2fba996dc50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823443501
+        }
+    ],
+    "wof:id":823443501,
+    "wof:lastmodified":1463434524,
+    "wof:name":"Broyles-Mc Guire Funeral Home",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -80.302429,
+    37.791117,
+    -80.302429,
+    37.791117
+],
+  "geometry": {"coordinates":[-80.302429,37.791117],"type":"Point"}
+}

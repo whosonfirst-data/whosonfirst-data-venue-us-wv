@@ -1,0 +1,73 @@
+{
+  "id": 823447767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.995143,39.343945,-79.995143,39.343945",
+    "geom:latitude":39.343945,
+    "geom:longitude":-79.995143,
+    "iso:country":"US",
+    "sg:address":"501 Blueville Dr",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 265 2191",
+    "sg:postcode":"26354",
+    "sg:province":"WV",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731717,
+        102083351,
+        85849697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PI7SgJ0z6ID9ku1DmpQDS_39.343945_-79.995143@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434727,
+    "wof:geomhash":"a2202f0c4c895d149080cdec227c63a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083351,
+            "locality_id":101731717,
+            "neighbourhood_id":85849697,
+            "region_id":85688589,
+            "venue_id":823447767
+        }
+    ],
+    "wof:id":823447767,
+    "wof:lastmodified":1463434727,
+    "wof:name":"Tygart Valley Rehabilitation",
+    "wof:parent_id":85849697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -79.995143,
+    39.343945,
+    -79.995143,
+    39.343945
+],
+  "geometry": {"coordinates":[-79.995143,39.343945],"type":"Point"}
+}

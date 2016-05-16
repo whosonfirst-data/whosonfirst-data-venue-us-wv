@@ -1,0 +1,79 @@
+{
+  "id": 823457393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.958362,39.638429,-79.958362,39.638429",
+    "geom:latitude":39.638429,
+    "geom:longitude":-79.958362,
+    "iso:country":"US",
+    "sg:address":"247 Beechurst Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 2266",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "espresso"
+    ],
+    "sg:website":"http://www.morgantownlavender.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1a1W4b2bG9BTbdOD7w9A5n_39.638429_-79.958362@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435157,
+    "wof:geomhash":"f80df54649d60629e1202a0d5bc02a27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851489,
+            "region_id":85688589,
+            "venue_id":823457393
+        }
+    ],
+    "wof:id":823457393,
+    "wof:lastmodified":1463435157,
+    "wof:name":"Lavender Cafe",
+    "wof:parent_id":85851489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "espresso"
+    ]
+},
+  "bbox": [
+    -79.958362,
+    39.638429,
+    -79.958362,
+    39.638429
+],
+  "geometry": {"coordinates":[-79.95836199999999,39.638429],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 823395301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.167722,39.442128,-80.167722,39.442128",
+    "geom:latitude":39.442128,
+    "geom:longitude":-80.167722,
+    "iso:country":"US",
+    "sg:address":"2040 Pleasant Valley Rd",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 6026",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator",
+        "courier",
+        "trucking"
+    ],
+    "sg:website":"www.ups.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85834381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RcxZgz7nXRw7mwBc6rXax_39.442128_-80.167722@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432341,
+    "wof:geomhash":"6d8c8937f5ed4c59033e77045e9da1df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85834381,
+            "region_id":85688589,
+            "venue_id":823395301
+        }
+    ],
+    "wof:id":823395301,
+    "wof:lastmodified":1463432341,
+    "wof:name":"UPS",
+    "wof:parent_id":85834381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "courier",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -80.167722,
+    39.442128,
+    -80.167722,
+    39.442128
+],
+  "geometry": {"coordinates":[-80.167722,39.442128],"type":"Point"}
+}

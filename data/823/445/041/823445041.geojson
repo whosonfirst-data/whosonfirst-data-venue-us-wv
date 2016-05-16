@@ -1,0 +1,73 @@
+{
+  "id": 823445041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.599677,38.515835,-81.599677,38.515835",
+    "geom:latitude":38.515835,
+    "geom:longitude":-81.599677,
+    "iso:country":"US",
+    "sg:address":"1681 Grapevine Rd",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 988 3033",
+    "sg:postcode":"25320",
+    "sg:province":"WV",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69L9tFroFc9F4yYvMJNMZv_38.515835_-81.599677@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434593,
+    "wof:geomhash":"f8b08c5782a4ae4e904cc021b93a5fe6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823445041
+        }
+    ],
+    "wof:id":823445041,
+    "wof:lastmodified":1463434593,
+    "wof:name":"Bostic Concrete",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.599677,
+    38.515835,
+    -81.599677,
+    38.515835
+],
+  "geometry": {"coordinates":[-81.599677,38.515835],"type":"Point"}
+}

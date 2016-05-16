@@ -1,0 +1,71 @@
+{
+  "id": 823389805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.934154,39.022576,-79.934154,39.022576",
+    "geom:latitude":39.022576,
+    "geom:longitude":-79.934154,
+    "iso:country":"US",
+    "sg:address":"530 Beverly Pike",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 0345",
+    "sg:postcode":"26250",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FrhopzGwOODKo7WxiV3qR_39.022576_-79.934154@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432065,
+    "wof:geomhash":"8a8bac519dd591703895a7b16e68c744",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823389805
+        }
+    ],
+    "wof:id":823389805,
+    "wof:lastmodified":1463432065,
+    "wof:name":"Sub Shop",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -79.934154,
+    39.022576,
+    -79.934154,
+    39.022576
+],
+  "geometry": {"coordinates":[-79.93415400000001,39.022576],"type":"Point"}
+}

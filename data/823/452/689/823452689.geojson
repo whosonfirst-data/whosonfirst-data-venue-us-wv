@@ -1,0 +1,76 @@
+{
+  "id": 823452689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.983608,39.5369,-77.983608,39.5369",
+    "geom:latitude":39.5369,
+    "geom:longitude":-77.983608,
+    "iso:country":"US",
+    "sg:address":"3790 Hedgesville Rd",
+    "sg:city":"Hedgesville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/valley/139773-sicilias-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 754 0060",
+    "sg:postcode":"25427",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85846047,
+        102083367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KWFtWmKxPIgVVN57fJGLN_39.536900_-77.983608@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434916,
+    "wof:geomhash":"dde8b949e06f3c425b85f938e40368ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "neighbourhood_id":85846047,
+            "region_id":85688589,
+            "venue_id":823452689
+        }
+    ],
+    "wof:id":823452689,
+    "wof:lastmodified":1463434916,
+    "wof:name":"Sicilia's Pizzeria",
+    "wof:parent_id":85846047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -77.983608,
+    39.5369,
+    -77.983608,
+    39.5369
+],
+  "geometry": {"coordinates":[-77.983608,39.5369],"type":"Point"}
+}

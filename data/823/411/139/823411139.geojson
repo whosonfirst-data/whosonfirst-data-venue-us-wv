@@ -1,0 +1,68 @@
+{
+  "id": 823411139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.212283,37.797697,-81.212283,37.797697",
+    "geom:latitude":37.797697,
+    "geom:longitude":-81.212283,
+    "iso:country":"US",
+    "sg:address":"225 Pikeview Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 256 8624",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55thoQ8YSVypnMMvH2Tkia_37.797697_-81.212283@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433071,
+    "wof:geomhash":"c86e79973aa77f25cc34df1fb70ccc39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823411139
+        }
+    ],
+    "wof:id":823411139,
+    "wof:lastmodified":1463433071,
+    "wof:name":"Munchies",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.212283,
+    37.797697,
+    -81.212283,
+    37.797697
+],
+  "geometry": {"coordinates":[-81.212283,37.797697],"type":"Point"}
+}

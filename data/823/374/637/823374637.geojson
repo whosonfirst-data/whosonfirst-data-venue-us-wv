@@ -1,0 +1,71 @@
+{
+  "id": 823374637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.118543,39.481185,-80.118543,39.481185",
+    "geom:latitude":39.481185,
+    "geom:longitude":-80.118543,
+    "iso:country":"US",
+    "sg:address":"1200 Morgantown Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 4251",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "bottler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60276abzERu4Yk6qPGIlPu_39.481185_-80.118543@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431384,
+    "wof:geomhash":"0121ef1a5ad4a3c287ca781e222e60ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823374637
+        }
+    ],
+    "wof:id":823374637,
+    "wof:lastmodified":1463431384,
+    "wof:name":"Coca-Cola Bottling Co",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bottler"
+    ]
+},
+  "bbox": [
+    -80.118543,
+    39.481185,
+    -80.118543,
+    39.481185
+],
+  "geometry": {"coordinates":[-80.118543,39.481185],"type":"Point"}
+}

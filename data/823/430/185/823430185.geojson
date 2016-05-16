@@ -1,0 +1,73 @@
+{
+  "id": 823430185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.212407,38.424919,-82.212407,38.424919",
+    "geom:latitude":38.424919,
+    "geom:longitude":-82.212407,
+    "iso:country":"US",
+    "sg:address":"2600 US Hwy 60",
+    "sg:city":"Ona",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 733 1018",
+    "sg:postcode":"25545",
+    "sg:province":"WV",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85816671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27fypeYwVy1iSYeA5K1WwC_38.424919_-82.212407@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433890,
+    "wof:geomhash":"4188fcd849a11fb1cd4f4829f97dbf4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85816671,
+            "region_id":85688589,
+            "venue_id":823430185
+        }
+    ],
+    "wof:id":823430185,
+    "wof:lastmodified":1463433890,
+    "wof:name":"Don's Plumbing Heating & Air",
+    "wof:parent_id":85816671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.212407,
+    38.424919,
+    -82.212407,
+    38.424919
+],
+  "geometry": {"coordinates":[-82.212407,38.424919],"type":"Point"}
+}

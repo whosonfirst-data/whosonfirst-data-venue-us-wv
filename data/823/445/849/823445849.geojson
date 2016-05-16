@@ -1,0 +1,73 @@
+{
+  "id": 823445849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.966984,39.618105,-79.966984,39.618105",
+    "geom:latitude":39.618105,
+    "geom:longitude":-79.966984,
+    "iso:country":"US",
+    "sg:address":"545 Callen Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 5123",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SIHCMHzEzMSgL1NTLHOlj_39.618105_-79.966984@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434628,
+    "wof:geomhash":"d2bb446f9cde76e964414197dc42a075",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823445849
+        }
+    ],
+    "wof:id":823445849,
+    "wof:lastmodified":1463434628,
+    "wof:name":"B & B Carpet Cleaning",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -79.966984,
+    39.618105,
+    -79.966984,
+    39.618105
+],
+  "geometry": {"coordinates":[-79.966984,39.618105],"type":"Point"}
+}

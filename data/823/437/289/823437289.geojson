@@ -1,0 +1,71 @@
+{
+  "id": 823437289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.695759,38.367665,-81.695759,38.367665",
+    "geom:latitude":38.367665,
+    "geom:longitude":-81.695759,
+    "iso:country":"US",
+    "sg:address":"520 D St",
+    "sg:city":"South Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 2920",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yXQjoBABREVnNEd486z5J_38.367665_-81.695759@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434245,
+    "wof:geomhash":"a7c3247fc4b9469983a379b9c1efbc3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823437289
+        }
+    ],
+    "wof:id":823437289,
+    "wof:lastmodified":1463434245,
+    "wof:name":"Edward Jones Co",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -81.695759,
+    38.367665,
+    -81.695759,
+    38.367665
+],
+  "geometry": {"coordinates":[-81.695759,38.367665],"type":"Point"}
+}

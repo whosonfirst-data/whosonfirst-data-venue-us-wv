@@ -1,0 +1,73 @@
+{
+  "id": 823412819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.5968,38.330006,-81.5968,38.330006",
+    "geom:latitude":38.330006,
+    "geom:longitude":-81.5968,
+    "iso:country":"US",
+    "sg:address":"3500 Staunton Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 610 6663",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CIFDeqSbjYvKmn3KCHdD7_38.330006_-81.596800@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433132,
+    "wof:geomhash":"44e1247814fdd7808996651e92a80f9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823412819
+        }
+    ],
+    "wof:id":823412819,
+    "wof:lastmodified":1463433132,
+    "wof:name":"A Rafael Gomez MD",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.5968,
+    38.330006,
+    -81.5968,
+    38.330006
+],
+  "geometry": {"coordinates":[-81.5968,38.330006],"type":"Point"}
+}

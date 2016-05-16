@@ -1,0 +1,71 @@
+{
+  "id": 823370099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.161422,39.488544,-80.161422,39.488544",
+    "geom:latitude":39.488544,
+    "geom:longitude":-80.161422,
+    "iso:country":"US",
+    "sg:address":"1200 College Park",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 2300",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WsJzFNF4GiP3z6oQiNxPB_39.488544_-80.161422@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431179,
+    "wof:geomhash":"5bd195df9aa6b057c57c3d8e2090363d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823370099
+        }
+    ],
+    "wof:id":823370099,
+    "wof:lastmodified":1463431179,
+    "wof:name":"Newman Center Catholic Chapel",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -80.161422,
+    39.488544,
+    -80.161422,
+    39.488544
+],
+  "geometry": {"coordinates":[-80.161422,39.488544],"type":"Point"}
+}

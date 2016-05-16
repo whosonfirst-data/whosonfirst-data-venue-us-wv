@@ -1,0 +1,68 @@
+{
+  "id": 823431361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.550911,39.3248,-81.550911,39.3248",
+    "geom:latitude":39.3248,
+    "geom:longitude":-81.550911,
+    "iso:country":"US",
+    "sg:address":"405 28th St",
+    "sg:city":"Vienna",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 295 3200",
+    "sg:postcode":"26105",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731685,
+        102083343,
+        85819937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75rgWpMxk3zIgghzqHCu5D_39.324800_-81.550911@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433934,
+    "wof:geomhash":"17cbbff389034f4a3f658405dc0174ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731685,
+            "neighbourhood_id":85819937,
+            "region_id":85688589,
+            "venue_id":823431361
+        }
+    ],
+    "wof:id":823431361,
+    "wof:lastmodified":1463433934,
+    "wof:name":"Grand Central Craft Station",
+    "wof:parent_id":85819937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.550911,
+    39.3248,
+    -81.550911,
+    39.3248
+],
+  "geometry": {"coordinates":[-81.550911,39.3248],"type":"Point"}
+}

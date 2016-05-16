@@ -1,0 +1,69 @@
+{
+  "id": 823380761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.951956,39.657385,-79.951956,39.657385",
+    "geom:latitude":39.657385,
+    "geom:longitude":-79.951956,
+    "iso:country":"US",
+    "sg:address":"954 Maple Dr",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 8080",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YHA0lPPMo6TPys4BxZyLc_39.657385_-79.951956@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431681,
+    "wof:geomhash":"ea66c4d20ce705c86c95fc14d4c70694",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823380761
+        }
+    ],
+    "wof:id":823380761,
+    "wof:lastmodified":1463431681,
+    "wof:name":"Direct Jewelry Outlet",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -79.951956,
+    39.657385,
+    -79.951956,
+    39.657385
+],
+  "geometry": {"coordinates":[-79.951956,39.657385],"type":"Point"}
+}

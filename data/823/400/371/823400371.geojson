@@ -1,0 +1,71 @@
+{
+  "id": 823400371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.646452,40.103599,-80.646452,40.103599",
+    "geom:latitude":40.103599,
+    "geom:longitude":-80.646452,
+    "iso:country":"US",
+    "sg:address":"103 Aaronwoods Ct",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 242 0495",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823177,
+        102082621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34rxKxzSYoequTh1HQbSMf_40.103599_-80.646452@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432602,
+    "wof:geomhash":"8fd5846708fb50ea8b88ecd7e3fe44f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082621,
+            "neighbourhood_id":85823177,
+            "region_id":85688589,
+            "venue_id":823400371
+        }
+    ],
+    "wof:id":823400371,
+    "wof:lastmodified":1463432602,
+    "wof:name":"Michael Slaymans MD",
+    "wof:parent_id":85823177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -80.646452,
+    40.103599,
+    -80.646452,
+    40.103599
+],
+  "geometry": {"coordinates":[-80.646452,40.103599],"type":"Point"}
+}

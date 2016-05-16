@@ -1,0 +1,73 @@
+{
+  "id": 823410205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.610229,40.275665,-80.610229,40.275665",
+    "geom:latitude":40.275665,
+    "geom:longitude":-80.610229,
+    "iso:country":"US",
+    "sg:address":"1340 Charles St",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 0511",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "organization",
+        "religious"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Z2daCdp1n1779uD9E94Wd_40.275665_-80.610229@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433032,
+    "wof:geomhash":"87a28ef34d2a45fe0f592dafb09f7056",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823410205
+        }
+    ],
+    "wof:id":823410205,
+    "wof:lastmodified":1463433032,
+    "wof:name":"St John School",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "religious"
+    ]
+},
+  "bbox": [
+    -80.610229,
+    40.275665,
+    -80.610229,
+    40.275665
+],
+  "geometry": {"coordinates":[-80.610229,40.275665],"type":"Point"}
+}

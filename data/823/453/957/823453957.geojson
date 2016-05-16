@@ -1,0 +1,76 @@
+{
+  "id": 823453957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.645805,38.365191,-81.645805,38.365191",
+    "geom:latitude":38.365191,
+    "geom:longitude":-81.645805,
+    "iso:country":"US",
+    "sg:address":"621 Washington St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/blue-creek/195877-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 9175",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14FyTFjyGfLCrCQaVULAGn_38.365153_-81.645871@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434982,
+    "wof:geomhash":"890dc399743e94fc5305c5985996ee7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823453957
+        }
+    ],
+    "wof:id":823453957,
+    "wof:lastmodified":1463434982,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -81.645805,
+    38.365191,
+    -81.645805,
+    38.365191
+],
+  "geometry": {"coordinates":[-81.645805,38.365191],"type":"Point"}
+}

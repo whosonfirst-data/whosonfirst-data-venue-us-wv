@@ -1,0 +1,71 @@
+{
+  "id": 823398247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.069185,37.365161,-81.069185,37.365161",
+    "geom:latitude":37.365161,
+    "geom:longitude":-81.069185,
+    "iso:country":"US",
+    "sg:address":"318 Oakvale Rd",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 5055",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qecycLpH8gBEgyc6r8k5c_37.365161_-81.069185@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432499,
+    "wof:geomhash":"dcfc6ad3714df73369efe882e6f30df2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823398247
+        }
+    ],
+    "wof:id":823398247,
+    "wof:lastmodified":1463432499,
+    "wof:name":"Mountaineer Mini Storage",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -81.069185,
+    37.365161,
+    -81.069185,
+    37.365161
+],
+  "geometry": {"coordinates":[-81.069185,37.365161],"type":"Point"}
+}

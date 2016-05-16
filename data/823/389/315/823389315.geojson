@@ -1,0 +1,71 @@
+{
+  "id": 823389315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.030149,39.1415,-80.030149,39.1415",
+    "geom:latitude":39.1415,
+    "geom:longitude":-80.030149,
+    "iso:country":"US",
+    "sg:address":"385 S Main St",
+    "sg:city":"Philippi",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 457 2900",
+    "sg:postcode":"26416",
+    "sg:province":"WV",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qqx3K893e97dibFNUrahI_39.141500_-80.030149@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432047,
+    "wof:geomhash":"2740db606e39d407f35aa82db0f5c8b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823389315
+        }
+    ],
+    "wof:id":823389315,
+    "wof:lastmodified":1463432047,
+    "wof:name":"Stemple & Foreman Funeral Home",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -80.030149,
+    39.1415,
+    -80.030149,
+    39.1415
+],
+  "geometry": {"coordinates":[-80.03014899999999,39.1415],"type":"Point"}
+}

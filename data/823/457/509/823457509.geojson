@@ -1,0 +1,72 @@
+{
+  "id": 823457509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.963515,39.653507,-79.963515,39.653507",
+    "geom:latitude":39.653507,
+    "geom:longitude":-79.963515,
+    "iso:country":"US",
+    "sg:address":"1053 Van Voorhis Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 1200",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "corporate",
+        "lodging"
+    ],
+    "sg:website":"http://www.morgantown.hamptoninn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mRWXeZJBZk5o4YkThZd7i_39.653507_-79.963515@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435162,
+    "wof:geomhash":"6ef1e34885d3882ac7ac97ddc602b77f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823457509
+        }
+    ],
+    "wof:id":823457509,
+    "wof:lastmodified":1463435162,
+    "wof:name":"Hampton Inn",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "corporate",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -79.963515,
+    39.653507,
+    -79.963515,
+    39.653507
+],
+  "geometry": {"coordinates":[-79.963515,39.653507],"type":"Point"}
+}

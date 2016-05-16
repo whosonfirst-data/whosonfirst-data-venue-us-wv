@@ -1,0 +1,73 @@
+{
+  "id": 823434847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.5726,38.316125,-81.5726,38.316125",
+    "geom:latitude":38.316125,
+    "geom:longitude":-81.5726,
+    "iso:country":"US",
+    "sg:address":"5321 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 5596",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "parts",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yveOHIL8g7iJe4LXOBFvv_38.316125_-81.572600@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434120,
+    "wof:geomhash":"c87e4103068db051a85ea3fc75eece14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823434847
+        }
+    ],
+    "wof:id":823434847,
+    "wof:lastmodified":1463434120,
+    "wof:name":"Computer Warehouse",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parts",
+        "supply"
+    ]
+},
+  "bbox": [
+    -81.5726,
+    38.316125,
+    -81.5726,
+    38.316125
+],
+  "geometry": {"coordinates":[-81.57259999999999,38.316125],"type":"Point"}
+}

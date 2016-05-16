@@ -1,0 +1,76 @@
+{
+  "id": 823384435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.696053,38.368723,-81.696053,38.368723",
+    "geom:latitude":38.368723,
+    "geom:longitude":-81.696053,
+    "iso:country":"US",
+    "sg:address":"302 7th Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 7727",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20QHQxOSrJzJl7FbjuaHSN_38.368723_-81.696053@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431825,
+    "wof:geomhash":"feb95a3fdfe557316780dbec1ec564e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823384435
+        }
+    ],
+    "wof:id":823384435,
+    "wof:lastmodified":1463431825,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.696053,
+    38.368723,
+    -81.696053,
+    38.368723
+],
+  "geometry": {"coordinates":[-81.69605300000001,38.368723],"type":"Point"}
+}

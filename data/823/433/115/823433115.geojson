@@ -1,0 +1,73 @@
+{
+  "id": 823433115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.094061,38.223797,-80.094061,38.223797",
+    "geom:latitude":38.223797,
+    "geom:longitude":-80.094061,
+    "iso:country":"US",
+    "sg:address":"709 2nd Ave",
+    "sg:city":"Marlinton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 799 4211",
+    "sg:postcode":"24954",
+    "sg:province":"WV",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731759,
+        102082613,
+        85805067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_551p54ROvOJid44Sim0YFi_38.223797_-80.094061@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434024,
+    "wof:geomhash":"8ece43ace53c17b4a753da5d2e5a41a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082613,
+            "locality_id":101731759,
+            "neighbourhood_id":85805067,
+            "region_id":85688589,
+            "venue_id":823433115
+        }
+    ],
+    "wof:id":823433115,
+    "wof:lastmodified":1463434024,
+    "wof:name":"Marlinton Volunteer Fire Dept",
+    "wof:parent_id":85805067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -80.094061,
+    38.223797,
+    -80.094061,
+    38.223797
+],
+  "geometry": {"coordinates":[-80.094061,38.223797],"type":"Point"}
+}

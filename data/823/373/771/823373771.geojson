@@ -1,0 +1,73 @@
+{
+  "id": 823373771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.121195,37.36203,-81.121195,37.36203",
+    "geom:latitude":37.36203,
+    "geom:longitude":-81.121195,
+    "iso:country":"US",
+    "sg:address":"209 Kim St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 1166",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NDrAPt0oADoPKT678ZnAF_37.362030_-81.121195@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431350,
+    "wof:geomhash":"fe56c31b9620b63eed046ed9f85c2fe5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823373771
+        }
+    ],
+    "wof:id":823373771,
+    "wof:lastmodified":1463431350,
+    "wof:name":"Wimmer and Wimmer Construction",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.121195,
+    37.36203,
+    -81.121195,
+    37.36203
+],
+  "geometry": {"coordinates":[-81.121195,37.36203],"type":"Point"}
+}

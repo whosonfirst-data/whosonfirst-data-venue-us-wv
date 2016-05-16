@@ -1,0 +1,71 @@
+{
+  "id": 823418299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.726485,38.361302,-81.726485,38.361302",
+    "geom:latitude":38.361302,
+    "geom:longitude":-81.726485,
+    "iso:country":"US",
+    "sg:address":"221 Dunbar Ave",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 3292",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QpToZHQtWSzjg4QX0Cl2F_38.361302_-81.726485@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433393,
+    "wof:geomhash":"546db7637a2bd9b301c6289308fefdba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823418299
+        }
+    ],
+    "wof:id":823418299,
+    "wof:lastmodified":1463433393,
+    "wof:name":"Dunbar Dental Svc",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -81.726485,
+    38.361302,
+    -81.726485,
+    38.361302
+],
+  "geometry": {"coordinates":[-81.726485,38.361302],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823418497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.248954,39.291242,-80.248954,39.291242",
+    "geom:latitude":39.291242,
+    "geom:longitude":-80.248954,
+    "iso:country":"US",
+    "sg:address":"331 Pennsylvania Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 3043",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "engineering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59LjGsujwrrvKGLZ5QUclJ_39.291242_-80.248954@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433406,
+    "wof:geomhash":"51252403a46d829c3ead79f4814a0d02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823418497
+        }
+    ],
+    "wof:id":823418497,
+    "wof:lastmodified":1463433406,
+    "wof:name":"Bridgeport Legion Home Corp",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineering"
+    ]
+},
+  "bbox": [
+    -80.248954,
+    39.291242,
+    -80.248954,
+    39.291242
+],
+  "geometry": {"coordinates":[-80.248954,39.291242],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823418251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.078484,37.365222,-81.078484,37.365222",
+    "geom:latitude":37.365222,
+    "geom:longitude":-81.078484,
+    "iso:country":"US",
+    "sg:address":"610 Rogers St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 431 2557",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64CnSP7Znl0daqRYZvngBt_37.365222_-81.078484@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433391,
+    "wof:geomhash":"00da62cbc8d58609c939ec67dd8d32a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823418251
+        }
+    ],
+    "wof:id":823418251,
+    "wof:lastmodified":1463433391,
+    "wof:name":"Cuttin Loose Hair & Tan Salon",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.078484,
+    37.365222,
+    -81.078484,
+    37.365222
+],
+  "geometry": {"coordinates":[-81.078484,37.365222],"type":"Point"}
+}

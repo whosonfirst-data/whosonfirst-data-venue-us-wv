@@ -1,0 +1,76 @@
+{
+  "id": 823382805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.608042,40.286021,-80.608042,40.286021",
+    "geom:latitude":40.286021,
+    "geom:longitude":-80.608042,
+    "iso:country":"US",
+    "sg:address":"2314 Commerce St",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 0333",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OeANhGt3wTIDDJKaVW37I_40.286021_-80.608042@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431767,
+    "wof:geomhash":"80a500b1d00894de62f07c4d0368220f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823382805
+        }
+    ],
+    "wof:id":823382805,
+    "wof:lastmodified":1463431767,
+    "wof:name":"Fonce's Produce",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -80.608042,
+    40.286021,
+    -80.608042,
+    40.286021
+],
+  "geometry": {"coordinates":[-80.608042,40.286021],"type":"Point"}
+}

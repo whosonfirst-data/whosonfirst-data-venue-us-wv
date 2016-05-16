@@ -1,0 +1,73 @@
+{
+  "id": 823438209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.037786,39.151545,-80.037786,39.151545",
+    "geom:latitude":39.151545,
+    "geom:longitude":-80.037786,
+    "iso:country":"US",
+    "sg:address":"110 Mason St",
+    "sg:city":"Philippi",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 457 1295",
+    "sg:postcode":"26416",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop",
+        "thrift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hzJPoGDS00gXlsi4x5m8U_39.151545_-80.037786@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434287,
+    "wof:geomhash":"6738121c9aa91cd258ae0fe59ac74d8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823438209
+        }
+    ],
+    "wof:id":823438209,
+    "wof:lastmodified":1463434287,
+    "wof:name":"Heart & Hand House",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "thrift"
+    ]
+},
+  "bbox": [
+    -80.037786,
+    39.151545,
+    -80.037786,
+    39.151545
+],
+  "geometry": {"coordinates":[-80.037786,39.151545],"type":"Point"}
+}

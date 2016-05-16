@@ -1,0 +1,83 @@
+{
+  "id": 823456783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.593041,40.392921,-80.593041,40.392921",
+    "geom:latitude":40.392921,
+    "geom:longitude":-80.593041,
+    "iso:country":"US",
+    "sg:address":"4075 Main St",
+    "sg:city":"Weirton",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 748 2004",
+    "sg:postcode":"26062",
+    "sg:province":"WV",
+    "sg:tags":[
+        "tavern",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731371,
+        102082633,
+        85832497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gkCW897A9cni0vw52rQjT_40.392921_-80.593041@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435124,
+    "wof:geomhash":"1cdc36283ac949c2bb5691ed38436a87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731371,
+            "neighbourhood_id":85832497,
+            "region_id":85688589,
+            "venue_id":823456783
+        }
+    ],
+    "wof:id":823456783,
+    "wof:lastmodified":1463435124,
+    "wof:name":"Bourbon Street Cafe",
+    "wof:parent_id":85832497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern",
+        "espresso"
+    ]
+},
+  "bbox": [
+    -80.593041,
+    40.392921,
+    -80.593041,
+    40.392921
+],
+  "geometry": {"coordinates":[-80.593041,40.392921],"type":"Point"}
+}

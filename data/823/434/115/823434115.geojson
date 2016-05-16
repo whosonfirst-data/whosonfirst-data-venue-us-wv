@@ -1,0 +1,73 @@
+{
+  "id": 823434115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.193949,37.278206,-81.193949,37.278206",
+    "geom:latitude":37.278206,
+    "geom:longitude":-81.193949,
+    "iso:country":"US",
+    "sg:address":"2412 Princeton Ave",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 327 8887",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YRvGraQnaWBdCFOTFrX4C_37.278206_-81.193949@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434071,
+    "wof:geomhash":"af15e6bdc5feb9045d71b5a05ccb9c7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823434115
+        }
+    ],
+    "wof:id":823434115,
+    "wof:lastmodified":1463434071,
+    "wof:name":"Bluefield Dental Lab Inc",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -81.193949,
+    37.278206,
+    -81.193949,
+    37.278206
+],
+  "geometry": {"coordinates":[-81.193949,37.278206],"type":"Point"}
+}

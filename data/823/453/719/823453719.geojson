@@ -1,0 +1,70 @@
+{
+  "id": 823453719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.963364,39.658578,-79.963364,39.658578",
+    "geom:latitude":39.658578,
+    "geom:longitude":-79.963364,
+    "iso:country":"US",
+    "sg:address":"1109 Van Voorhis Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/central/118359-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 2740",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QEkt0PR0TopMoBEExKUpH_39.658578_-79.963364@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434957,
+    "wof:geomhash":"a4ff141022922bdf7a3b3050ee958dc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823453719
+        }
+    ],
+    "wof:id":823453719,
+    "wof:lastmodified":1463434957,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -79.963364,
+    39.658578,
+    -79.963364,
+    39.658578
+],
+  "geometry": {"coordinates":[-79.963364,39.658578],"type":"Point"}
+}

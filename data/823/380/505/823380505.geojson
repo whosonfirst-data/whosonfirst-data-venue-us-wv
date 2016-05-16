@@ -1,0 +1,73 @@
+{
+  "id": 823380505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.992939,37.85293,-81.992939,37.85293",
+    "geom:latitude":37.85293,
+    "geom:longitude":-81.992939,
+    "iso:country":"US",
+    "sg:address":"10 High St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 752 7922",
+    "sg:postcode":"25601",
+    "sg:province":"WV",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868319,
+        102083369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0E37x7H5fjnxBM5J19h5Zm_37.852930_-81.992939@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431664,
+    "wof:geomhash":"a0bcbc4f77f3ca3da58e8b7e7269c9d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083369,
+            "neighbourhood_id":85868319,
+            "region_id":85688589,
+            "venue_id":823380505
+        }
+    ],
+    "wof:id":823380505,
+    "wof:lastmodified":1463431664,
+    "wof:name":"Barkin' Alley",
+    "wof:parent_id":85868319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -81.992939,
+    37.85293,
+    -81.992939,
+    37.85293
+],
+  "geometry": {"coordinates":[-81.99293900000001,37.85293],"type":"Point"}
+}

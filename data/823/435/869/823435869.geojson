@@ -1,0 +1,72 @@
+{
+  "id": 823435869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.335099,39.279778,-80.335099,39.279778",
+    "geom:latitude":39.279778,
+    "geom:longitude":-80.335099,
+    "iso:country":"US",
+    "sg:address":"100 W Pike St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 623 2996",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "plant"
+    ],
+    "sg:website":"www.elitewv.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5k6bqmKjtqxSaK60WRu8B3_39.279778_-80.335099@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434160,
+    "wof:geomhash":"db900b04875a4fd7e1199bc6667757eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823435869
+        }
+    ],
+    "wof:id":823435869,
+    "wof:lastmodified":1463434160,
+    "wof:name":"Elite Cleaners",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant"
+    ]
+},
+  "bbox": [
+    -80.335099,
+    39.279778,
+    -80.335099,
+    39.279778
+],
+  "geometry": {"coordinates":[-80.335099,39.279778],"type":"Point"}
+}

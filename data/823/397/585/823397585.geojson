@@ -1,0 +1,71 @@
+{
+  "id": 823397585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.968357,39.615116,-79.968357,39.615116",
+    "geom:latitude":39.615116,
+    "geom:longitude":-79.968357,
+    "iso:country":"US",
+    "sg:address":"708 Madigan Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 5396",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24ZFnZxZrrlQMQZqePKy8J_39.615116_-79.968357@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432457,
+    "wof:geomhash":"002e7c96296671c84bf99a2b456d8a62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823397585
+        }
+    ],
+    "wof:id":823397585,
+    "wof:lastmodified":1463432457,
+    "wof:name":"M K Electrical",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -79.968357,
+    39.615116,
+    -79.968357,
+    39.615116
+],
+  "geometry": {"coordinates":[-79.968357,39.615116],"type":"Point"}
+}

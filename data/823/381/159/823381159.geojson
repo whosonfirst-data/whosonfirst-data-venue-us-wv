@@ -1,0 +1,73 @@
+{
+  "id": 823381159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.982607,37.843645,-81.982607,37.843645",
+    "geom:latitude":37.843645,
+    "geom:longitude":-81.982607,
+    "iso:country":"US",
+    "sg:address":"656 Stratton St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 752 1616",
+    "sg:postcode":"25601",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868319,
+        102083369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rCx95OKWMUDvcgaBJbdO5_37.843645_-81.982607@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431695,
+    "wof:geomhash":"4f4607cc2822d1ad783e9d92d725d000",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083369,
+            "neighbourhood_id":85868319,
+            "region_id":85688589,
+            "venue_id":823381159
+        }
+    ],
+    "wof:id":823381159,
+    "wof:lastmodified":1463431695,
+    "wof:name":"Natalie Wesley Trucking Co",
+    "wof:parent_id":85868319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -81.982607,
+    37.843645,
+    -81.982607,
+    37.843645
+],
+  "geometry": {"coordinates":[-81.982607,37.843645],"type":"Point"}
+}

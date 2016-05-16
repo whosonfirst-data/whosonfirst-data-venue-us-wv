@@ -1,0 +1,71 @@
+{
+  "id": 823449045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.075911,37.366566,-81.075911,37.366566",
+    "geom:latitude":37.366566,
+    "geom:longitude":-81.075911,
+    "iso:country":"US",
+    "sg:address":"707 Rogers St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 6838",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ahw8DRoKecTPeAnJp4uRo_37.366566_-81.075911@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434783,
+    "wof:geomhash":"b13f0c3e82939efe1e0435f3889e269d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823449045
+        }
+    ],
+    "wof:id":823449045,
+    "wof:lastmodified":1463434783,
+    "wof:name":"Champion Pre-Owned Auto Sales",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -81.075911,
+    37.366566,
+    -81.075911,
+    37.366566
+],
+  "geometry": {"coordinates":[-81.075911,37.366566],"type":"Point"}
+}

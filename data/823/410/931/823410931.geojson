@@ -1,0 +1,71 @@
+{
+  "id": 823410931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.055899,37.389241,-81.055899,37.389241",
+    "geom:latitude":37.389241,
+    "geom:longitude":-81.055899,
+    "iso:country":"US",
+    "sg:address":"109 Simmons Cir",
+    "sg:city":"Bramwell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 248 7019",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07MJzNr7WTXDHmPzEJiCID_37.389241_-81.055899@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433063,
+    "wof:geomhash":"e46d891ca76b55111697db638175c226",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823410931
+        }
+    ],
+    "wof:id":823410931,
+    "wof:lastmodified":1463433063,
+    "wof:name":"Dave's Repairing",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "related"
+    ]
+},
+  "bbox": [
+    -81.055899,
+    37.389241,
+    -81.055899,
+    37.389241
+],
+  "geometry": {"coordinates":[-81.055899,37.389241],"type":"Point"}
+}

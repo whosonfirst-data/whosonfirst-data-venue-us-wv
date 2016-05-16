@@ -1,0 +1,73 @@
+{
+  "id": 823446979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.445527,37.801861,-80.445527,37.801861",
+    "geom:latitude":37.801861,
+    "geom:longitude":-80.445527,
+    "iso:country":"US",
+    "sg:address":"124 W Washington St",
+    "sg:city":"Lewisburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 647 5300",
+    "sg:postcode":"24901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grocery",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0q9g8rWcNWUs09f5tBT9JM_37.801861_-80.445527@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434693,
+    "wof:geomhash":"0a822d5cf144588979bce9b8be9d19b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823446979
+        }
+    ],
+    "wof:id":823446979,
+    "wof:lastmodified":1463434693,
+    "wof:name":"Stonehouse General Store",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -80.445527,
+    37.801861,
+    -80.445527,
+    37.801861
+],
+  "geometry": {"coordinates":[-80.445527,37.801861],"type":"Point"}
+}

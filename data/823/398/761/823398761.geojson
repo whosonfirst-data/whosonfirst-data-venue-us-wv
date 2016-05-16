@@ -1,0 +1,73 @@
+{
+  "id": 823398761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.65766,38.366252,-81.65766,38.366252",
+    "geom:latitude":38.366252,
+    "geom:longitude":-81.65766,
+    "iso:country":"US",
+    "sg:address":"1046 Central Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 414 0135",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home",
+        "group"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5D2NVTkOCDf9Ht8qVGApiD_38.366252_-81.657660@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432523,
+    "wof:geomhash":"79335976923bdd8174877a0a697372f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823398761
+        }
+    ],
+    "wof:id":823398761,
+    "wof:lastmodified":1463432523,
+    "wof:name":"Central Av Group Home",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "group"
+    ]
+},
+  "bbox": [
+    -81.65766,
+    38.366252,
+    -81.65766,
+    38.366252
+],
+  "geometry": {"coordinates":[-81.65766000000001,38.366252],"type":"Point"}
+}

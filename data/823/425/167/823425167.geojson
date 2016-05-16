@@ -1,0 +1,75 @@
+{
+  "id": 823425167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.53492,39.285574,-81.53492,39.285574",
+    "geom:latitude":39.285574,
+    "geom:longitude":-81.53492,
+    "iso:country":"US",
+    "sg:address":"3211 Dudley Ave",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 422 3904",
+    "sg:postcode":"26104",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731687,
+        102083343,
+        85805293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WWuL17xoVnyA8wv2guPMO_39.285574_-81.534920@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433666,
+    "wof:geomhash":"b86ad3c736b7fde882f9cdca2ff962c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85805293,
+            "region_id":85688589,
+            "venue_id":823425167
+        }
+    ],
+    "wof:id":823425167,
+    "wof:lastmodified":1463433666,
+    "wof:name":"United Anesthesia Inc",
+    "wof:parent_id":85805293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.53492,
+    39.285574,
+    -81.53492,
+    39.285574
+],
+  "geometry": {"coordinates":[-81.53492,39.285574],"type":"Point"}
+}

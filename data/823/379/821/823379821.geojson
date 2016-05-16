@@ -1,0 +1,81 @@
+{
+  "id": 823379821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.729013,38.343828,-81.729013,38.343828",
+    "geom:latitude":38.343828,
+    "geom:longitude":-81.729013,
+    "iso:country":"US",
+    "sg:address":"1005 Chestnut St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 9440",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "family",
+        "heating",
+        "general",
+        "plumbing",
+        "home",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14wLLNiizpMeTrEf3RQTVw_38.343828_-81.729013@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431630,
+    "wof:geomhash":"92c0c90672f62fda9d738a525f6b7080",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823379821
+        }
+    ],
+    "wof:id":823379821,
+    "wof:lastmodified":1463431630,
+    "wof:name":"A-Ace Plumbing",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "family",
+        "heating",
+        "general",
+        "plumbing",
+        "home",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.729013,
+    38.343828,
+    -81.729013,
+    38.343828
+],
+  "geometry": {"coordinates":[-81.72901299999999,38.343828],"type":"Point"}
+}

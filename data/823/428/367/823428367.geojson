@@ -1,0 +1,73 @@
+{
+  "id": 823428367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.603522,38.321768,-81.603522,38.321768",
+    "geom:latitude":38.321768,
+    "geom:longitude":-81.603522,
+    "iso:country":"US",
+    "sg:address":"668 S Park Rd",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 926 8893",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38hbp5xWh99WxrKEGSgEoj_38.321768_-81.603522@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433802,
+    "wof:geomhash":"3622bf17c4e5c8e4063dfbe185585809",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823428367
+        }
+    ],
+    "wof:id":823428367,
+    "wof:lastmodified":1463433802,
+    "wof:name":"Marco Construction",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.603522,
+    38.321768,
+    -81.603522,
+    38.321768
+],
+  "geometry": {"coordinates":[-81.603522,38.321768],"type":"Point"}
+}

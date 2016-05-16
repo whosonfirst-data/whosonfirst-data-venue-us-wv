@@ -1,0 +1,71 @@
+{
+  "id": 823444467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.599967,40.618796,-80.599967,40.618796",
+    "geom:latitude":40.618796,
+    "geom:longitude":-80.599967,
+    "iso:country":"US",
+    "sg:address":"321 Washington St",
+    "sg:city":"Newell",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 2110",
+    "sg:postcode":"26050",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VxUjVGHQMiHptol1oD127_40.618796_-80.599967@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434563,
+    "wof:geomhash":"a524d43b6b2e170b6d33cb9197df98ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823444467
+        }
+    ],
+    "wof:id":823444467,
+    "wof:lastmodified":1463434563,
+    "wof:name":"Church Of Christ",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -80.599967,
+    40.618796,
+    -80.599967,
+    40.618796
+],
+  "geometry": {"coordinates":[-80.59996700000001,40.618796],"type":"Point"}
+}

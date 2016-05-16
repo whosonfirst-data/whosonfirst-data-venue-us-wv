@@ -1,0 +1,73 @@
+{
+  "id": 823372071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.299826,39.396232,-80.299826,39.396232",
+    "geom:latitude":39.396232,
+    "geom:longitude":-80.299826,
+    "iso:country":"US",
+    "sg:address":"438 Pike St",
+    "sg:city":"Shinnston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 592 3349",
+    "sg:postcode":"26431",
+    "sg:province":"WV",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85831189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xtVT9ITMnxkU11HBQWFIE_39.396232_-80.299826@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431286,
+    "wof:geomhash":"23b9c3a7c797266f1d798dfa871742f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85831189,
+            "region_id":85688589,
+            "venue_id":823372071
+        }
+    ],
+    "wof:id":823372071,
+    "wof:lastmodified":1463431286,
+    "wof:name":"Minor's Auto Sales",
+    "wof:parent_id":85831189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -80.299826,
+    39.396232,
+    -80.299826,
+    39.396232
+],
+  "geometry": {"coordinates":[-80.299826,39.396232],"type":"Point"}
+}

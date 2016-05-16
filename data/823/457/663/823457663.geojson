@@ -1,0 +1,86 @@
+{
+  "id": 823457663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.911638,39.609875,-79.911638,39.609875",
+    "geom:latitude":39.609875,
+    "geom:longitude":-79.911638,
+    "iso:country":"US",
+    "sg:address":"1003 Morningside Dr",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 3581",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "trucking",
+        "trucking-heavy",
+        "local",
+        "trucking-motor",
+        "hauling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732105,
+        102082587,
+        85807831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ik9Ibts7DyESdJk3Wzh7S_39.609875_-79.911638@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435175,
+    "wof:geomhash":"7d97a2462c76cbd9d2d5884d52d5bfa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101732105,
+            "neighbourhood_id":85807831,
+            "region_id":85688589,
+            "venue_id":823457663
+        }
+    ],
+    "wof:id":823457663,
+    "wof:lastmodified":1463435175,
+    "wof:name":"Robert Conners Trucking",
+    "wof:parent_id":85807831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking",
+        "trucking-heavy",
+        "local",
+        "trucking-motor",
+        "hauling"
+    ]
+},
+  "bbox": [
+    -79.911638,
+    39.609875,
+    -79.911638,
+    39.609875
+],
+  "geometry": {"coordinates":[-79.911638,39.609875],"type":"Point"}
+}

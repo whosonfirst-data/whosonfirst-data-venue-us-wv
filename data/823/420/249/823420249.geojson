@@ -1,0 +1,73 @@
+{
+  "id": 823420249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.737501,38.359231,-81.737501,38.359231",
+    "geom:latitude":38.359231,
+    "geom:longitude":-81.737501,
+    "iso:country":"US",
+    "sg:address":"1000 Myers Ave",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 4554",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Dlv62xujD01s6LfOSbY8v_38.359231_-81.737501@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433475,
+    "wof:geomhash":"f99f7bbcfa78331d4f5724afa45fef13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823420249
+        }
+    ],
+    "wof:id":823420249,
+    "wof:lastmodified":1463433475,
+    "wof:name":"Dunbar Towers Apartments",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -81.737501,
+    38.359231,
+    -81.737501,
+    38.359231
+],
+  "geometry": {"coordinates":[-81.73750099999999,38.359231],"type":"Point"}
+}

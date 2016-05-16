@@ -1,0 +1,77 @@
+{
+  "id": 823407149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.46952,39.039913,-80.46952,39.039913",
+    "geom:latitude":39.039913,
+    "geom:longitude":-80.46952,
+    "iso:country":"US",
+    "sg:address":"142 W 2nd St",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 269 4161",
+    "sg:postcode":"26452",
+    "sg:province":"WV",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731403,
+        102083339,
+        85808257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zJalFHRKAP0ubEwdU0nGM_39.039913_-80.469520@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432908,
+    "wof:geomhash":"686566d3ba7776ddc75010d763402531",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083339,
+            "locality_id":101731403,
+            "neighbourhood_id":85808257,
+            "region_id":85688589,
+            "venue_id":823407149
+        }
+    ],
+    "wof:id":823407149,
+    "wof:lastmodified":1463432908,
+    "wof:name":"Video Zone",
+    "wof:parent_id":85808257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -80.46952,
+    39.039913,
+    -80.46952,
+    39.039913
+],
+  "geometry": {"coordinates":[-80.46952,39.039913],"type":"Point"}
+}

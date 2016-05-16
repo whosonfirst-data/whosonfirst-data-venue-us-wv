@@ -1,0 +1,71 @@
+{
+  "id": 823423245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.862095,39.64405,-80.862095,39.64405",
+    "geom:latitude":39.64405,
+    "geom:longitude":-80.862095,
+    "iso:country":"US",
+    "sg:address":"453 Maple Ave",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 5143",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iot5IzEBgRtlCMHcjxp7q_39.644050_-80.862095@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433586,
+    "wof:geomhash":"2849858988c36eda7e6f3e03081bb1d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823423245
+        }
+    ],
+    "wof:id":823423245,
+    "wof:lastmodified":1463433586,
+    "wof:name":"St Ann's Episcopal Church",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -80.862095,
+    39.64405,
+    -80.862095,
+    39.64405
+],
+  "geometry": {"coordinates":[-80.862095,39.64405],"type":"Point"}
+}

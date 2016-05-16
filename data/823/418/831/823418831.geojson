@@ -1,0 +1,71 @@
+{
+  "id": 823418831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.53566,38.223935,-81.53566,38.223935",
+    "geom:latitude":38.223935,
+    "geom:longitude":-81.53566,
+    "iso:country":"US",
+    "sg:address":"1 125th St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 3003",
+    "sg:postcode":"25315",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36nfAx43RGXPRbgAyZ5UBQ_38.223935_-81.535660@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433419,
+    "wof:geomhash":"59f683e2ea357b04dd80eeabbd3d116f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823418831
+        }
+    ],
+    "wof:id":823418831,
+    "wof:lastmodified":1463433419,
+    "wof:name":"Hughes Marina",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -81.53566,
+    38.223935,
+    -81.53566,
+    38.223935
+],
+  "geometry": {"coordinates":[-81.53565999999999,38.223935],"type":"Point"}
+}

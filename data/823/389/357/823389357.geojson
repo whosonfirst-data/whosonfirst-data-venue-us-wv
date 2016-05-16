@@ -1,0 +1,80 @@
+{
+  "id": 823389357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.583335,38.404883,-82.583335,38.404883",
+    "geom:latitude":38.404883,
+    "geom:longitude":-82.583335,
+    "iso:country":"US",
+    "sg:address":"1802 Beech St",
+    "sg:city":"Kenova",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 3173",
+    "sg:postcode":"25530",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home",
+        "group",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731517,
+        102083365,
+        85806071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hZBKYwIVTmwk1ptwYvlhk_38.404883_-82.583335@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432049,
+    "wof:geomhash":"5975091f0a264ee8c7d84190faac02fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731517,
+            "neighbourhood_id":85806071,
+            "region_id":85688589,
+            "venue_id":823389357
+        }
+    ],
+    "wof:id":823389357,
+    "wof:lastmodified":1463432049,
+    "wof:name":"Voca-Kenova Group Home",
+    "wof:parent_id":85806071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "group",
+        "residential"
+    ]
+},
+  "bbox": [
+    -82.583335,
+    38.404883,
+    -82.583335,
+    38.404883
+],
+  "geometry": {"coordinates":[-82.58333500000001,38.404883],"type":"Point"}
+}

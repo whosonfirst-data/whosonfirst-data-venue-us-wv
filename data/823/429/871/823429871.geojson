@@ -1,0 +1,71 @@
+{
+  "id": 823429871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.958165,38.449786,-81.958165,38.449786",
+    "geom:latitude":38.449786,
+    "geom:longitude":-81.958165,
+    "iso:country":"US",
+    "sg:address":"52 Cedar Dr",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 757 0970",
+    "sg:postcode":"25526",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731829,
+        102083381,
+        85868321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tv5a3GHlm0pSbZP3UXSfz_38.449786_-81.958165@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433879,
+    "wof:geomhash":"682c0ce61ff87604672b2cd2d1541664",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731829,
+            "neighbourhood_id":85868321,
+            "region_id":85688589,
+            "venue_id":823429871
+        }
+    ],
+    "wof:id":823429871,
+    "wof:lastmodified":1463433879,
+    "wof:name":"Vivian French DDS",
+    "wof:parent_id":85868321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -81.958165,
+    38.449786,
+    -81.958165,
+    38.449786
+],
+  "geometry": {"coordinates":[-81.95816499999999,38.449786],"type":"Point"}
+}

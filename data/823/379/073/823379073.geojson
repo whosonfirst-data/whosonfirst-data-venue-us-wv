@@ -1,0 +1,70 @@
+{
+  "id": 823379073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.595214,38.369264,-81.595214,38.369264",
+    "geom:latitude":38.369264,
+    "geom:longitude":-81.595214,
+    "iso:country":"US",
+    "sg:address":"169 Airport Rd",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 346 0573",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "sg:website":"www.hertz.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        102530929,
+        85688589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7F2Svm4iHtvx7puJ4zWGfL_38.369264_-81.595214@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431603,
+    "wof:geomhash":"cdd2df826bceebc7aa56793319ef43f6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530929,
+            "country_id":85633793,
+            "region_id":85688589,
+            "venue_id":823379073
+        }
+    ],
+    "wof:id":823379073,
+    "wof:lastmodified":1463431603,
+    "wof:name":"Hertz Rent A Car",
+    "wof:parent_id":102530929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -81.595214,
+    38.369264,
+    -81.595214,
+    38.369264
+],
+  "geometry": {"coordinates":[-81.595214,38.369264],"type":"Point"}
+}

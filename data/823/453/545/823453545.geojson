@@ -1,0 +1,74 @@
+{
+  "id": 823453545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.560068,39.283876,-80.560068,39.283876",
+    "geom:latitude":39.283876,
+    "geom:longitude":-80.560068,
+    "iso:country":"US",
+    "sg:address":"66 Valley St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/southwest/80491-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 782 4545",
+    "sg:postcode":"26426",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85810773,
+        102082619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ojnolVjQ6zbjN9GlTJuZr_39.283876_-80.560068@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434951,
+    "wof:geomhash":"fac3cce2873ccb5b805a58bc6dcd8e6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "neighbourhood_id":85810773,
+            "region_id":85688589,
+            "venue_id":823453545
+        }
+    ],
+    "wof:id":823453545,
+    "wof:lastmodified":1463434951,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85810773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -80.560068,
+    39.283876,
+    -80.560068,
+    39.283876
+],
+  "geometry": {"coordinates":[-80.560068,39.283876],"type":"Point"}
+}

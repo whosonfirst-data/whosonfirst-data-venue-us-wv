@@ -1,0 +1,78 @@
+{
+  "id": 823379899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.961851,39.626833,-79.961851,39.626833",
+    "geom:latitude":39.626833,
+    "geom:longitude":-79.961851,
+    "iso:country":"US",
+    "sg:address":"120 Clay St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 3133",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "plumbing",
+        "fixture",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xeMDhymwcDTWauQDkxY0K_39.626833_-79.961851@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431633,
+    "wof:geomhash":"064080dabf0657c7e63b8222ea1870ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823379899
+        }
+    ],
+    "wof:id":823379899,
+    "wof:lastmodified":1463431633,
+    "wof:name":"Hughart's Supply Inc",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "fixture",
+        "supply"
+    ]
+},
+  "bbox": [
+    -79.961851,
+    39.626833,
+    -79.961851,
+    39.626833
+],
+  "geometry": {"coordinates":[-79.961851,39.626833],"type":"Point"}
+}

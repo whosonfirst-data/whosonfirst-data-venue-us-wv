@@ -1,0 +1,73 @@
+{
+  "id": 823410093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.096555,37.371424,-81.096555,37.371424",
+    "geom:latitude":37.371424,
+    "geom:longitude":-81.096555,
+    "iso:country":"US",
+    "sg:address":"912 Highland Ave",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 0887",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mAo3kOTCFRCmkkPDWSCeO_37.371424_-81.096555@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433028,
+    "wof:geomhash":"15c5eebd0c3e92f106122baa111c7070",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823410093
+        }
+    ],
+    "wof:id":823410093,
+    "wof:lastmodified":1463433028,
+    "wof:name":"Blackfoot Construction LLC",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.096555,
+    37.371424,
+    -81.096555,
+    37.371424
+],
+  "geometry": {"coordinates":[-81.096555,37.371424],"type":"Point"}
+}

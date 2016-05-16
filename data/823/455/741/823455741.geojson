@@ -1,0 +1,66 @@
+{
+  "id": 823455741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.040539,39.361807,-78.040539,39.361807",
+    "geom:latitude":39.361807,
+    "geom:longitude":-78.040539,
+    "iso:country":"US",
+    "sg:address":"4701 Gerrardstown Rd",
+    "sg:city":"Inwood",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 229 6706",
+    "sg:postcode":"25428",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cNNhzaQZVQ1tRdiR2wdUz_39.361807_-78.040539@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435087,
+    "wof:geomhash":"625b05fe2cb5588c15786b7dc65249bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823455741
+        }
+    ],
+    "wof:id":823455741,
+    "wof:lastmodified":1463435087,
+    "wof:name":"Inwood Rocs",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.040539,
+    39.361807,
+    -78.040539,
+    39.361807
+],
+  "geometry": {"coordinates":[-78.040539,39.361807],"type":"Point"}
+}

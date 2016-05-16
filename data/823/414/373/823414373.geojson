@@ -1,0 +1,75 @@
+{
+  "id": 823414373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.565277,38.242384,-81.565277,38.242384",
+    "geom:latitude":38.242384,
+    "geom:longitude":-81.565277,
+    "iso:country":"US",
+    "sg:address":"9914 Maccorkle Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 2600",
+    "sg:postcode":"25315",
+    "sg:province":"WV",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1m02cSjsU3t72mWYTiy4c9_38.242384_-81.565277@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433201,
+    "wof:geomhash":"978816c6f8b0409b304760c7783fddb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823414373
+        }
+    ],
+    "wof:id":823414373,
+    "wof:lastmodified":1463433201,
+    "wof:name":"Body Shop",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -81.565277,
+    38.242384,
+    -81.565277,
+    38.242384
+],
+  "geometry": {"coordinates":[-81.56527699999999,38.242384],"type":"Point"}
+}

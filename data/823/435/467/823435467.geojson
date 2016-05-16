@@ -1,0 +1,73 @@
+{
+  "id": 823435467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.749347,38.358678,-81.749347,38.358678",
+    "geom:latitude":38.358678,
+    "geom:longitude":-81.749347,
+    "iso:country":"US",
+    "sg:address":"110 18th St",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 766 7561",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ebvhgq3oWSauxGhYElCQG_38.358678_-81.749347@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434145,
+    "wof:geomhash":"2ef3a7c38a5d2377f94ee9c3b1d05c3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823435467
+        }
+    ],
+    "wof:id":823435467,
+    "wof:lastmodified":1463434145,
+    "wof:name":"Jim Workman Plumbing & Heating",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.749347,
+    38.358678,
+    -81.749347,
+    38.358678
+],
+  "geometry": {"coordinates":[-81.749347,38.358678],"type":"Point"}
+}

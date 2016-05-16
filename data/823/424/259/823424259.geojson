@@ -1,0 +1,76 @@
+{
+  "id": 823424259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.533795,38.405071,-81.533795,38.405071",
+    "geom:latitude":38.405071,
+    "geom:longitude":-81.533795,
+    "iso:country":"US",
+    "sg:address":"4806 Chimney Dr",
+    "sg:city":"Big Chimney",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 965 3374",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VDZ37Jb4tSTIFodZpwE7K_38.405071_-81.533795@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433632,
+    "wof:geomhash":"5d403a192a9c75a8600fea129afbc33d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823424259
+        }
+    ],
+    "wof:id":823424259,
+    "wof:lastmodified":1463433632,
+    "wof:name":"NAPA Auto Parts",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile"
+    ]
+},
+  "bbox": [
+    -81.533795,
+    38.405071,
+    -81.533795,
+    38.405071
+],
+  "geometry": {"coordinates":[-81.533795,38.405071],"type":"Point"}
+}

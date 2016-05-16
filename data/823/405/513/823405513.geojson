@@ -1,0 +1,84 @@
+{
+  "id": 823405513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.298668,39.399501,-80.298668,39.399501",
+    "geom:latitude":39.399501,
+    "geom:longitude":-80.298668,
+    "iso:country":"US",
+    "sg:address":"805 Hood Ave",
+    "sg:city":"Shinnston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 592 5100",
+    "sg:postcode":"26431",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automotive",
+        "station",
+        "gasoline",
+        "wrecker",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85831189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eUxjQwSheLREE1kLkxESZ_39.399501_-80.298668@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432840,
+    "wof:geomhash":"d61d41a70541193e4a8ed007644c73f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85831189,
+            "region_id":85688589,
+            "venue_id":823405513
+        }
+    ],
+    "wof:id":823405513,
+    "wof:lastmodified":1463432840,
+    "wof:name":"Walt's Inc",
+    "wof:parent_id":85831189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "station",
+        "gasoline",
+        "wrecker",
+        "general"
+    ]
+},
+  "bbox": [
+    -80.298668,
+    39.399501,
+    -80.298668,
+    39.399501
+],
+  "geometry": {"coordinates":[-80.29866800000001,39.399501],"type":"Point"}
+}

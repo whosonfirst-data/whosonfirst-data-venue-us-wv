@@ -1,0 +1,71 @@
+{
+  "id": 823381717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.577852,38.319324,-81.577852,38.319324",
+    "geom:latitude":38.319324,
+    "geom:longitude":-81.577852,
+    "iso:country":"US",
+    "sg:address":"4918 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 4258",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0J9sNnHxfAbTKJBfjQ9Cmo_38.319324_-81.577852@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431721,
+    "wof:geomhash":"67369190322981b9255a50fbaa226d66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823381717
+        }
+    ],
+    "wof:id":823381717,
+    "wof:lastmodified":1463431721,
+    "wof:name":"Shammaa Orthodontics",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -81.577852,
+    38.319324,
+    -81.577852,
+    38.319324
+],
+  "geometry": {"coordinates":[-81.57785199999999,38.319324],"type":"Point"}
+}

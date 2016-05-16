@@ -1,0 +1,77 @@
+{
+  "id": 823419859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.172655,37.794684,-81.172655,37.794684",
+    "geom:latitude":37.794684,
+    "geom:longitude":-81.172655,
+    "iso:country":"US",
+    "sg:address":"154 Stanaford Rd",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 255 6100",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24TO0iA72HNtgoz7dxbq1e_37.794684_-81.172655@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433457,
+    "wof:geomhash":"93dd3a770a988bd2e4ac73e7caa5626e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823419859
+        }
+    ],
+    "wof:id":823419859,
+    "wof:lastmodified":1463433457,
+    "wof:name":"Brandon's Service Ctr",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -81.172655,
+    37.794684,
+    -81.172655,
+    37.794684
+],
+  "geometry": {"coordinates":[-81.17265500000001,37.794684],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823450753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.590901,38.326841,-81.590901,38.326841",
+    "geom:latitude":38.326841,
+    "geom:longitude":-81.590901,
+    "iso:country":"US",
+    "sg:address":"3920 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 6681",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41BNPSpBhirIr1opxu8WT6_38.326841_-81.590901@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434843,
+    "wof:geomhash":"c09f08c2328ab08d1d057ecdfcce8514",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823450753
+        }
+    ],
+    "wof:id":823450753,
+    "wof:lastmodified":1463434843,
+    "wof:name":"AAA Club Emergency Road Svc",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "road"
+    ]
+},
+  "bbox": [
+    -81.590901,
+    38.326841,
+    -81.590901,
+    38.326841
+],
+  "geometry": {"coordinates":[-81.590901,38.326841],"type":"Point"}
+}

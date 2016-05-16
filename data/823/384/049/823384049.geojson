@@ -1,0 +1,73 @@
+{
+  "id": 823384049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.342104,39.282295,-80.342104,39.282295",
+    "geom:latitude":39.282295,
+    "geom:longitude":-80.342104,
+    "iso:country":"US",
+    "sg:address":"137 N 6th St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 623 6666",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1a74JctI6FGJk3Zn1J3tPT_39.282295_-80.342104@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431812,
+    "wof:geomhash":"6661cefc47237f482984adc716c4046f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823384049
+        }
+    ],
+    "wof:id":823384049,
+    "wof:lastmodified":1463431812,
+    "wof:name":"Stuart-Mc Munn Co",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.342104,
+    39.282295,
+    -80.342104,
+    39.282295
+],
+  "geometry": {"coordinates":[-80.34210400000001,39.282295],"type":"Point"}
+}

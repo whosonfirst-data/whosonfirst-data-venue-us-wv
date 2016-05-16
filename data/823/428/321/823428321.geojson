@@ -1,0 +1,73 @@
+{
+  "id": 823428321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.086176,37.368753,-81.086176,37.368753",
+    "geom:latitude":37.368753,
+    "geom:longitude":-81.086176,
+    "iso:country":"US",
+    "sg:address":"202 Princeton Ave",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 2379",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Vq5zYeaGkLCnJlSbwhIzQ_37.368753_-81.086176@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433800,
+    "wof:geomhash":"507263d9a98845cf85c27bcd6b79769e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823428321
+        }
+    ],
+    "wof:id":823428321,
+    "wof:lastmodified":1463433800,
+    "wof:name":"J & M Paving & Sealing",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.086176,
+    37.368753,
+    -81.086176,
+    37.368753
+],
+  "geometry": {"coordinates":[-81.08617599999999,37.368753],"type":"Point"}
+}

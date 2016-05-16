@@ -1,0 +1,71 @@
+{
+  "id": 823457983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.99293,39.68587,-79.99293,39.68587",
+    "geom:latitude":39.68587,
+    "geom:longitude":-79.99293,
+    "iso:country":"US",
+    "sg:address":"937 Bethel Church Rd",
+    "sg:city":"Maidsville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 291 6919",
+    "sg:postcode":"26541",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731749,
+        102082587,
+        85807277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jnwnsWKbVgvJLXQpm5mci_39.685870_-79.992930@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435190,
+    "wof:geomhash":"e86434ccea467be63af8a99eca06f10b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731749,
+            "neighbourhood_id":85807277,
+            "region_id":85688589,
+            "venue_id":823457983
+        }
+    ],
+    "wof:id":823457983,
+    "wof:lastmodified":1463435190,
+    "wof:name":"Eclipse Haircuts & More",
+    "wof:parent_id":85807277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.99293,
+    39.68587,
+    -79.99293,
+    39.68587
+],
+  "geometry": {"coordinates":[-79.99293,39.68587],"type":"Point"}
+}

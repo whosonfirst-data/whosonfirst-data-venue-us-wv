@@ -1,0 +1,82 @@
+{
+  "id": 823422043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.097823,37.361615,-81.097823,37.361615",
+    "geom:latitude":37.361615,
+    "geom:longitude":-81.097823,
+    "iso:country":"US",
+    "sg:address":"1285 Stafford Dr",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 2480",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "video",
+        "disc",
+        "tape",
+        "cassette"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wfwoBudCHYt04Lzd2CK3i_37.361615_-81.097823@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433544,
+    "wof:geomhash":"8be0c8326534fe935307b057be4fe6fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823422043
+        }
+    ],
+    "wof:id":823422043,
+    "wof:lastmodified":1463433544,
+    "wof:name":"Super Star Video",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "disc",
+        "tape",
+        "cassette"
+    ]
+},
+  "bbox": [
+    -81.097823,
+    37.361615,
+    -81.097823,
+    37.361615
+],
+  "geometry": {"coordinates":[-81.09782300000001,37.361615],"type":"Point"}
+}

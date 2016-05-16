@@ -1,0 +1,73 @@
+{
+  "id": 823442199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.152161,37.765183,-81.152161,37.765183",
+    "geom:latitude":37.765183,
+    "geom:longitude":-81.152161,
+    "iso:country":"US",
+    "sg:address":"1501 S Eisenhower Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 255 7611",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1k7UYFLJo2uMbl8TD19bSs_37.765183_-81.152161@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434459,
+    "wof:geomhash":"1b33058af0331c550f2b5c734d0f4e3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823442199
+        }
+    ],
+    "wof:id":823442199,
+    "wof:lastmodified":1463434459,
+    "wof:name":"Jerry's Wrecker Svc",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -81.152161,
+    37.765183,
+    -81.152161,
+    37.765183
+],
+  "geometry": {"coordinates":[-81.15216100000001,37.765183],"type":"Point"}
+}

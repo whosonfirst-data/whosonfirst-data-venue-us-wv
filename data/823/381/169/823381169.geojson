@@ -1,0 +1,71 @@
+{
+  "id": 823381169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.990258,39.653927,-79.990258,39.653927",
+    "geom:latitude":39.653927,
+    "geom:longitude":-79.990258,
+    "iso:country":"US",
+    "sg:address":"268 Normandy St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 7368",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731749,
+        102082587,
+        85807277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mqnlEUjWRQZGkStb7xL5m_39.653927_-79.990258@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431696,
+    "wof:geomhash":"ca421d65f8b05bfca221598875f5de34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731749,
+            "neighbourhood_id":85807277,
+            "region_id":85688589,
+            "venue_id":823381169
+        }
+    ],
+    "wof:id":823381169,
+    "wof:lastmodified":1463431696,
+    "wof:name":"Ef Construction",
+    "wof:parent_id":85807277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -79.990258,
+    39.653927,
+    -79.990258,
+    39.653927
+],
+  "geometry": {"coordinates":[-79.990258,39.653927],"type":"Point"}
+}

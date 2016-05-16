@@ -1,0 +1,71 @@
+{
+  "id": 823430633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.445411,37.801586,-80.445411,37.801586",
+    "geom:latitude":37.801586,
+    "geom:longitude":-80.445411,
+    "iso:country":"US",
+    "sg:address":"110 S Jefferson St",
+    "sg:city":"Lewisburg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 645 6159",
+    "sg:postcode":"24901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18rRsEZVFU4fmRtkuzzLxP_37.801586_-80.445411@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433906,
+    "wof:geomhash":"c5e26edce2fbc508214c1dcfbd1f86e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823430633
+        }
+    ],
+    "wof:id":823430633,
+    "wof:lastmodified":1463433906,
+    "wof:name":"Greenbriar Valley Baking Co",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -80.445411,
+    37.801586,
+    -80.445411,
+    37.801586
+],
+  "geometry": {"coordinates":[-80.44541099999999,37.801586],"type":"Point"}
+}

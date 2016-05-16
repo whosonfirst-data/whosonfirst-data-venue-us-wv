@@ -1,0 +1,79 @@
+{
+  "id": 823423117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.932413,39.636679,-79.932413,39.636679",
+    "geom:latitude":39.636679,
+    "geom:longitude":-79.932413,
+    "iso:country":"US",
+    "sg:address":"1235 Hampton Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 5402",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85858573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XVMDUrLPeyzcon2QdIvds_39.636679_-79.932413@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433582,
+    "wof:geomhash":"272bacf92bc5d6dc6a611aa5050d7053",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85858573,
+            "region_id":85688589,
+            "venue_id":823423117
+        }
+    ],
+    "wof:id":823423117,
+    "wof:lastmodified":1463433582,
+    "wof:name":"Climate Control Company",
+    "wof:parent_id":85858573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -79.932413,
+    39.636679,
+    -79.932413,
+    39.636679
+],
+  "geometry": {"coordinates":[-79.932413,39.636679],"type":"Point"}
+}

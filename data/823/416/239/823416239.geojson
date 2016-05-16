@@ -1,0 +1,73 @@
+{
+  "id": 823416239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.098511,37.715659,-81.098511,37.715659",
+    "geom:latitude":37.715659,
+    "geom:longitude":-81.098511,
+    "iso:country":"US",
+    "sg:address":"2851 Ritter Dr",
+    "sg:city":"Shady Spring",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 763 0103",
+    "sg:postcode":"25918",
+    "sg:province":"WV",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7K2z2sktlc5ysxj290JnxI_37.715659_-81.098511@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433288,
+    "wof:geomhash":"b1dc060edd540c1cee94b632597263e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823416239
+        }
+    ],
+    "wof:id":823416239,
+    "wof:lastmodified":1463433288,
+    "wof:name":"Paws & Claws Animal Clinic",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -81.098511,
+    37.715659,
+    -81.098511,
+    37.715659
+],
+  "geometry": {"coordinates":[-81.098511,37.715659],"type":"Point"}
+}

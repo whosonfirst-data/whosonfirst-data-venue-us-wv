@@ -1,0 +1,71 @@
+{
+  "id": 823369463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.138437,38.843516,-82.138437,38.843516",
+    "geom:latitude":38.843516,
+    "geom:longitude":-82.138437,
+    "iso:country":"US",
+    "sg:address":"418 Main St",
+    "sg:city":"Point Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 675 3400",
+    "sg:postcode":"25550",
+    "sg:province":"WV",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85983229,
+        102083675,
+        85824533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HUKqzrCvJcAlVhuEKJDnO_38.843516_-82.138437@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431150,
+    "wof:geomhash":"5658630cecbfc73820dabce5a7d2cb2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "neighbourhood_id":85824533,
+            "region_id":85688485,
+            "venue_id":823369463
+        }
+    ],
+    "wof:id":823369463,
+    "wof:lastmodified":1463431150,
+    "wof:name":"Siders Jewelers",
+    "wof:parent_id":85824533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -82.138437,
+    38.843516,
+    -82.138437,
+    38.843516
+],
+  "geometry": {"coordinates":[-82.138437,38.843516],"type":"Point"}
+}

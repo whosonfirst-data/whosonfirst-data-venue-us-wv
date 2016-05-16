@@ -1,0 +1,71 @@
+{
+  "id": 823455305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.079399,39.294701,-78.079399,39.294701",
+    "geom:latitude":39.294701,
+    "geom:longitude":-78.079399,
+    "iso:country":"US",
+    "sg:address":"12715 Winchester Ave",
+    "sg:city":"Bunker Hill",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 229 4118",
+    "sg:postcode":"25413",
+    "sg:province":"WV",
+    "sg:tags":[
+        "nightlife"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2buhG5rRpqLOlpuXKkJP1Y_39.294701_-78.079399@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435070,
+    "wof:geomhash":"ff3a3141dabaa4ce10714548c8c16f78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823455305
+        }
+    ],
+    "wof:id":823455305,
+    "wof:lastmodified":1463435070,
+    "wof:name":"State Line Inn",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nightlife"
+    ]
+},
+  "bbox": [
+    -78.079399,
+    39.294701,
+    -78.079399,
+    39.294701
+],
+  "geometry": {"coordinates":[-78.079399,39.294701],"type":"Point"}
+}

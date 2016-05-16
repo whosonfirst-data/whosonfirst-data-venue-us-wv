@@ -1,0 +1,71 @@
+{
+  "id": 823431503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.138922,38.842255,-82.138922,38.842255",
+    "geom:latitude":38.842255,
+    "geom:longitude":-82.138922,
+    "iso:country":"US",
+    "sg:address":"301 Main St",
+    "sg:city":"Point Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 675 2330",
+    "sg:postcode":"25550",
+    "sg:province":"WV",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85983229,
+        102083675,
+        85824533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cGsmA53f3NbjgRzmm1m1t_38.842255_-82.138922@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433940,
+    "wof:geomhash":"326abd337c224c8e29c65562fcad3646",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "neighbourhood_id":85824533,
+            "region_id":85688485,
+            "venue_id":823431503
+        }
+    ],
+    "wof:id":823431503,
+    "wof:lastmodified":1463433940,
+    "wof:name":"Main Street Liquor Market",
+    "wof:parent_id":85824533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -82.138922,
+    38.842255,
+    -82.138922,
+    38.842255
+],
+  "geometry": {"coordinates":[-82.13892199999999,38.842255],"type":"Point"}
+}

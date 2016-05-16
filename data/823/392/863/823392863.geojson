@@ -1,0 +1,71 @@
+{
+  "id": 823392863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.133611,37.339993,-81.133611,37.339993",
+    "geom:latitude":37.339993,
+    "geom:longitude":-81.133611,
+    "iso:country":"US",
+    "sg:address":"226 Orange Ln",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 8208",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5a9KAespDqPgU5ZWn8Giur_37.339993_-81.133611@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432219,
+    "wof:geomhash":"744f98bee5e7099740c958baff81fca8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823392863
+        }
+    ],
+    "wof:id":823392863,
+    "wof:lastmodified":1463432219,
+    "wof:name":"Harrison Plumbing and Heating",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.133611,
+    37.339993,
+    -81.133611,
+    37.339993
+],
+  "geometry": {"coordinates":[-81.133611,37.339993],"type":"Point"}
+}

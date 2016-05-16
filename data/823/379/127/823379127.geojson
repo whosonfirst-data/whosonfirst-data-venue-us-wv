@@ -1,0 +1,71 @@
+{
+  "id": 823379127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.468979,39.03639,-80.468979,39.03639",
+    "geom:latitude":39.03639,
+    "geom:longitude":-80.468979,
+    "iso:country":"US",
+    "sg:address":"13 S Main St",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 269 7207",
+    "sg:postcode":"26452",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85828579,
+        102083339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Vk7QTdzqdmxj8tPVPbscF_39.036390_-80.468979@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431605,
+    "wof:geomhash":"ecd8da4a11981b2d38c27c605ea1ab6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083339,
+            "neighbourhood_id":85828579,
+            "region_id":85688589,
+            "venue_id":823379127
+        }
+    ],
+    "wof:id":823379127,
+    "wof:lastmodified":1463431605,
+    "wof:name":"Minute Man Mufflers",
+    "wof:parent_id":85828579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -80.468979,
+    39.03639,
+    -80.468979,
+    39.03639
+],
+  "geometry": {"coordinates":[-80.468979,39.03639],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823401103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.659201,38.368308,-81.659201,38.368308",
+    "geom:latitude":38.368308,
+    "geom:longitude":-81.659201,
+    "iso:country":"US",
+    "sg:address":"600 Florida St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 9700",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xFKEIZEjXOp28UQ7Ho96M_38.368308_-81.659201@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432634,
+    "wof:geomhash":"fd77b64a5725871319b8875286ff57dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823401103
+        }
+    ],
+    "wof:id":823401103,
+    "wof:lastmodified":1463432634,
+    "wof:name":"Tiskelwah Center",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -81.659201,
+    38.368308,
+    -81.659201,
+    38.368308
+],
+  "geometry": {"coordinates":[-81.659201,38.368308],"type":"Point"}
+}

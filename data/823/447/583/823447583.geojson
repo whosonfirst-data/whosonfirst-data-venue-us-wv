@@ -1,0 +1,71 @@
+{
+  "id": 823447583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.849463,38.925716,-79.849463,38.925716",
+    "geom:latitude":38.925716,
+    "geom:longitude":-79.849463,
+    "iso:country":"US",
+    "sg:address":"304 Davis Ave",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 1130",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "bible"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2u762jvlsClIrbRbLDv9OG_38.925716_-79.849463@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434715,
+    "wof:geomhash":"77bf4b0b75b03c4151e33b1c5b25ade1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823447583
+        }
+    ],
+    "wof:id":823447583,
+    "wof:lastmodified":1463434715,
+    "wof:name":"Good News Christian Books",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bible"
+    ]
+},
+  "bbox": [
+    -79.849463,
+    38.925716,
+    -79.849463,
+    38.925716
+],
+  "geometry": {"coordinates":[-79.849463,38.925716],"type":"Point"}
+}

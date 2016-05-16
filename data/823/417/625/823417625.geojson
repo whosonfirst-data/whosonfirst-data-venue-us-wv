@@ -1,0 +1,73 @@
+{
+  "id": 823417625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.381189,38.394109,-82.381189,38.394109",
+    "geom:latitude":38.394109,
+    "geom:longitude":-82.381189,
+    "iso:country":"US",
+    "sg:address":"205 Seneca Rd",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 529 4372",
+    "sg:postcode":"25705",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083329,
+        85868301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ax2nL9SHxGyp0QiD5O7uK_38.394109_-82.381189@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433366,
+    "wof:geomhash":"f498b00702b94e7d68dc60a4a0e6d635",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731553,
+            "neighbourhood_id":85868301,
+            "region_id":85688589,
+            "venue_id":823417625
+        }
+    ],
+    "wof:id":823417625,
+    "wof:lastmodified":1463433366,
+    "wof:name":"Alan Whitt",
+    "wof:parent_id":85868301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.381189,
+    38.394109,
+    -82.381189,
+    38.394109
+],
+  "geometry": {"coordinates":[-82.38118900000001,38.394109],"type":"Point"}
+}

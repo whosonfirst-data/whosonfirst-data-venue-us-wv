@@ -1,0 +1,71 @@
+{
+  "id": 823397575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.099651,37.360814,-81.099651,37.360814",
+    "geom:latitude":37.360814,
+    "geom:longitude":-81.099651,
+    "iso:country":"US",
+    "sg:address":"1318 Stafford Dr",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 5448",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MKOtGOEgh83P8ITcXvgc6_37.360814_-81.099651@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432457,
+    "wof:geomhash":"bf761bd49e678abc33bb7a92abd41d0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823397575
+        }
+    ],
+    "wof:id":823397575,
+    "wof:lastmodified":1463432457,
+    "wof:name":"Nicholas A Amigoni DDS",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -81.099651,
+    37.360814,
+    -81.099651,
+    37.360814
+],
+  "geometry": {"coordinates":[-81.09965099999999,37.360814],"type":"Point"}
+}

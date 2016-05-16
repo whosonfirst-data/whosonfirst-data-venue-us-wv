@@ -1,0 +1,71 @@
+{
+  "id": 823387955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.1081,37.37421,-81.1081,37.37421",
+    "geom:latitude":37.37421,
+    "geom:longitude":-81.1081,
+    "iso:country":"US",
+    "sg:address":"300 High St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 3573",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NQojbdCkyWE6BLCs4zujQ_37.374210_-81.108100@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431962,
+    "wof:geomhash":"a46e61f2bd22081c357524d562d3abae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823387955
+        }
+    ],
+    "wof:id":823387955,
+    "wof:lastmodified":1463431962,
+    "wof:name":"Thompsons",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -81.1081,
+    37.37421,
+    -81.1081,
+    37.37421
+],
+  "geometry": {"coordinates":[-81.10809999999999,37.37421],"type":"Point"}
+}

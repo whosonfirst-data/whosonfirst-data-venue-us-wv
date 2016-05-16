@@ -1,0 +1,71 @@
+{
+  "id": 823404943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.751961,38.355958,-81.751961,38.355958",
+    "geom:latitude":38.355958,
+    "geom:longitude":-81.751961,
+    "iso:country":"US",
+    "sg:address":"5810 Maccorkle Ave",
+    "sg:city":"Saint Albans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 0201",
+    "sg:postcode":"25177",
+    "sg:province":"WV",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6d5aEAW7bpQLkwY0oLQwCP_38.355958_-81.751961@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432809,
+    "wof:geomhash":"eb21f0c5bec87c9a119268c22055640e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823404943
+        }
+    ],
+    "wof:id":823404943,
+    "wof:lastmodified":1463432809,
+    "wof:name":"Custom Welding Service",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -81.751961,
+    38.355958,
+    -81.751961,
+    38.355958
+],
+  "geometry": {"coordinates":[-81.75196099999999,38.355958],"type":"Point"}
+}

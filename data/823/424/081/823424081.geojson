@@ -1,0 +1,73 @@
+{
+  "id": 823424081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.3412,39.284954,-80.3412,39.284954",
+    "geom:latitude":39.284954,
+    "geom:longitude":-80.3412,
+    "iso:country":"US",
+    "sg:address":"361 Byrd Ln",
+    "sg:city":"Jane Lew",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 884 7951",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cosmetic",
+        "perfume"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ndaJ6utxJY7YAqT5RYJif_39.284954_-80.341200@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433623,
+    "wof:geomhash":"a5aa333c426c893c63cb67e666c1bcb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823424081
+        }
+    ],
+    "wof:id":823424081,
+    "wof:lastmodified":1463433623,
+    "wof:name":"Mary Kay Cosmetics",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetic",
+        "perfume"
+    ]
+},
+  "bbox": [
+    -80.3412,
+    39.284954,
+    -80.3412,
+    39.284954
+],
+  "geometry": {"coordinates":[-80.3412,39.284954],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 823457515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.954481,39.658599,-79.954481,39.658599",
+    "geom:latitude":39.658599,
+    "geom:longitude":-79.954481,
+    "iso:country":"US",
+    "sg:address":"1191 Pineview Dr Ste H",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 4929",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32Wq64K6z06bNH3WMA0zPv_39.658599_-79.954481@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435162,
+    "wof:geomhash":"ffc3f9d753dd74bc85c8e0daa2eac9b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823457515
+        }
+    ],
+    "wof:id":823457515,
+    "wof:lastmodified":1463435162,
+    "wof:name":"Jason Donahue",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -79.954481,
+    39.658599,
+    -79.954481,
+    39.658599
+],
+  "geometry": {"coordinates":[-79.954481,39.658599],"type":"Point"}
+}

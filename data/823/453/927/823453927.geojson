@@ -1,0 +1,76 @@
+{
+  "id": 823453927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.196146,37.258282,-81.196146,37.258282",
+    "geom:latitude":37.258282,
+    "geom:longitude":-81.196146,
+    "iso:country":"US",
+    "sg:address":"3301 E Cumberland Rd",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/bramwell/195864-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 327 9217",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29Q8ggPilSsvUhlDZg0qlx_37.258817_-81.195437@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434975,
+    "wof:geomhash":"e568d6078b53056dcca8c23be96457f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823453927
+        }
+    ],
+    "wof:id":823453927,
+    "wof:lastmodified":1463434975,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -81.196146,
+    37.258282,
+    -81.196146,
+    37.258282
+],
+  "geometry": {"coordinates":[-81.196146,37.258282],"type":"Point"}
+}

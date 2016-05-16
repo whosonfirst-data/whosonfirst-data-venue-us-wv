@@ -1,0 +1,71 @@
+{
+  "id": 823428501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.530596,38.309786,-81.530596,38.309786",
+    "geom:latitude":38.309786,
+    "geom:longitude":-81.530596,
+    "iso:country":"US",
+    "sg:address":"3517 Springfork Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 722 5458",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uYoyk85dqpiTzs5pmVahB_38.309786_-81.530596@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433808,
+    "wof:geomhash":"787bf1ac7fe436c6ca54f783f2918064",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823428501
+        }
+    ],
+    "wof:id":823428501,
+    "wof:lastmodified":1463433808,
+    "wof:name":"Douglas Pence",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -81.530596,
+    38.309786,
+    -81.530596,
+    38.309786
+],
+  "geometry": {"coordinates":[-81.530596,38.309786],"type":"Point"}
+}

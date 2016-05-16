@@ -1,0 +1,71 @@
+{
+  "id": 823395883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.563032,39.262968,-81.563032,39.262968",
+    "geom:latitude":39.262968,
+    "geom:longitude":-81.563032,
+    "iso:country":"US",
+    "sg:address":"300 2nd St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 424 1853",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85829881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3T8GwPuJ04ZwyLriWdobYZ_39.262968_-81.563032@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432371,
+    "wof:geomhash":"f05553b6178c6f6f3d3d847aa6187ef8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85829881,
+            "region_id":85688589,
+            "venue_id":823395883
+        }
+    ],
+    "wof:id":823395883,
+    "wof:lastmodified":1463432371,
+    "wof:name":"Wood County Sheriffs Office",
+    "wof:parent_id":85829881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -81.563032,
+    39.262968,
+    -81.563032,
+    39.262968
+],
+  "geometry": {"coordinates":[-81.56303200000001,39.262968],"type":"Point"}
+}

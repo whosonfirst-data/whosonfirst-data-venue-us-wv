@@ -1,0 +1,69 @@
+{
+  "id": 823398109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.136538,37.985265,-81.136538,37.985265",
+    "geom:latitude":37.985265,
+    "geom:longitude":-81.136538,
+    "iso:country":"US",
+    "sg:address":"1401 Main St E",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 465 0913",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hSp77etgwPCdf1pBZTh6p_37.985265_-81.136538@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432493,
+    "wof:geomhash":"b2a0566c9fe2170bc0d116eae60e6ca4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823398109
+        }
+    ],
+    "wof:id":823398109,
+    "wof:lastmodified":1463432493,
+    "wof:name":"Carpetbaggers Antique Mall",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -81.136538,
+    37.985265,
+    -81.136538,
+    37.985265
+],
+  "geometry": {"coordinates":[-81.136538,37.985265],"type":"Point"}
+}

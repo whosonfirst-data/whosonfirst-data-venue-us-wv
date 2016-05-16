@@ -1,0 +1,71 @@
+{
+  "id": 823365833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.704,38.339097,-81.704,38.339097",
+    "geom:latitude":38.339097,
+    "geom:longitude":-81.704,
+    "iso:country":"US",
+    "sg:address":"1613 Oakhurst Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 5291",
+    "sg:postcode":"25314",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HpY49ESxj0eRoIxapoEiN_38.339097_-81.704000@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431004,
+    "wof:geomhash":"cf5c1ec2a6034162de603246bcd97cca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823365833
+        }
+    ],
+    "wof:id":823365833,
+    "wof:lastmodified":1463431004,
+    "wof:name":"Jack and Joanns Salon",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.704,
+    38.339097,
+    -81.704,
+    38.339097
+],
+  "geometry": {"coordinates":[-81.70399999999999,38.339097],"type":"Point"}
+}

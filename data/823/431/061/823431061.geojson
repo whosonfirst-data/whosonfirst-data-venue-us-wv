@@ -1,0 +1,71 @@
+{
+  "id": 823431061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.123238,38.434141,-82.123238,38.434141",
+    "geom:latitude":38.434141,
+    "geom:longitude":-82.123238,
+    "iso:country":"US",
+    "sg:address":"1069 US Hwy 60",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 743 5088",
+    "sg:postcode":"25541",
+    "sg:province":"WV",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85816671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AguvZ5IMqdvfhbmj4aTSw_38.434141_-82.123238@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433921,
+    "wof:geomhash":"237a920846b6ecba1ba41b659fafb8e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85816671,
+            "region_id":85688589,
+            "venue_id":823431061
+        }
+    ],
+    "wof:id":823431061,
+    "wof:lastmodified":1463433921,
+    "wof:name":"Rich Oil",
+    "wof:parent_id":85816671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -82.123238,
+    38.434141,
+    -82.123238,
+    38.434141
+],
+  "geometry": {"coordinates":[-82.123238,38.434141],"type":"Point"}
+}

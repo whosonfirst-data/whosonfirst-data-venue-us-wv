@@ -1,0 +1,72 @@
+{
+  "id": 823401795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.985593,39.630359,-79.985593,39.630359",
+    "geom:latitude":39.630359,
+    "geom:longitude":-79.985593,
+    "iso:country":"US",
+    "sg:address":"990 Fairmont Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 284 9975",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "sg:website":"www.uscellular.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818601,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SaNUmhFGOzYgPGT8O1luD_39.630359_-79.985593@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432665,
+    "wof:geomhash":"13c66fdec62f561e7e18063bbffc0219",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85818601,
+            "region_id":85688589,
+            "venue_id":823401795
+        }
+    ],
+    "wof:id":823401795,
+    "wof:lastmodified":1463432665,
+    "wof:name":"US Cellular",
+    "wof:parent_id":85818601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -79.985593,
+    39.630359,
+    -79.985593,
+    39.630359
+],
+  "geometry": {"coordinates":[-79.98559299999999,39.630359],"type":"Point"}
+}

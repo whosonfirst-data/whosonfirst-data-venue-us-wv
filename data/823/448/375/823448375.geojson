@@ -1,0 +1,71 @@
+{
+  "id": 823448375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.965029,39.606859,-79.965029,39.606859",
+    "geom:latitude":39.606859,
+    "geom:longitude":-79.965029,
+    "iso:country":"US",
+    "sg:address":"278 Greenbag Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 8443",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "govt",
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1G298SHERmH8CyBoEt7Axy_39.606859_-79.965029@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434755,
+    "wof:geomhash":"58047e0013e120a7040e6a52adb3d0d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823448375
+        }
+    ],
+    "wof:id":823448375,
+    "wof:lastmodified":1463434755,
+    "wof:name":"Morgantown Utility Board",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "city"
+    ]
+},
+  "bbox": [
+    -79.965029,
+    39.606859,
+    -79.965029,
+    39.606859
+],
+  "geometry": {"coordinates":[-79.965029,39.606859],"type":"Point"}
+}

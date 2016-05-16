@@ -1,0 +1,73 @@
+{
+  "id": 823419419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.201834,37.771156,-81.201834,37.771156",
+    "geom:latitude":37.771156,
+    "geom:longitude":-81.201834,
+    "iso:country":"US",
+    "sg:address":"202 James St",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 253 5763",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3T3dgzK41SZzBUD0xG8H6i_37.771156_-81.201834@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433442,
+    "wof:geomhash":"10dac32a4c924a4a6bb4b88c525bc045",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823419419
+        }
+    ],
+    "wof:id":823419419,
+    "wof:lastmodified":1463433442,
+    "wof:name":"Speedy Wrecking",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -81.201834,
+    37.771156,
+    -81.201834,
+    37.771156
+],
+  "geometry": {"coordinates":[-81.20183400000001,37.771156],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823382481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.305503,39.385324,-80.305503,39.385324",
+    "geom:latitude":39.385324,
+    "geom:longitude":-80.305503,
+    "iso:country":"US",
+    "sg:address":"604 S Pike St",
+    "sg:city":"Shinnston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 592 0316",
+    "sg:postcode":"26431",
+    "sg:province":"WV",
+    "sg:tags":[
+        "station",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85831189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vy1Z38rxbNwWN3SCigM0X_39.385324_-80.305503@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431755,
+    "wof:geomhash":"1e87eccabb1365323ff5bb3eede0ac4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85831189,
+            "region_id":85688589,
+            "venue_id":823382481
+        }
+    ],
+    "wof:id":823382481,
+    "wof:lastmodified":1463431755,
+    "wof:name":"Go-Mart 29",
+    "wof:parent_id":85831189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gas"
+    ]
+},
+  "bbox": [
+    -80.305503,
+    39.385324,
+    -80.305503,
+    39.385324
+],
+  "geometry": {"coordinates":[-80.305503,39.385324],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823402985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.541032,39.227482,-81.541032,39.227482",
+    "geom:latitude":39.227482,
+    "geom:longitude":-81.541032,
+    "iso:country":"US",
+    "sg:address":"2826 Pike St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 489 2230",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TpeI7jOHNf0xWHafaomlN_39.227482_-81.541032@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432711,
+    "wof:geomhash":"deb6444301a32051f5e756e9b48ce6a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823402985
+        }
+    ],
+    "wof:id":823402985,
+    "wof:lastmodified":1463432711,
+    "wof:name":"First Settlement Physical",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -81.541032,
+    39.227482,
+    -81.541032,
+    39.227482
+],
+  "geometry": {"coordinates":[-81.541032,39.227482],"type":"Point"}
+}

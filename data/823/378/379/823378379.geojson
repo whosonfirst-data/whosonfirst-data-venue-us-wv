@@ -1,0 +1,71 @@
+{
+  "id": 823378379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.037057,39.150765,-80.037057,39.150765",
+    "geom:latitude":39.150765,
+    "geom:longitude":-80.037057,
+    "iso:country":"US",
+    "sg:address":"102 S Main St",
+    "sg:city":"Philippi",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 457 3495",
+    "sg:postcode":"26416",
+    "sg:province":"WV",
+    "sg:tags":[
+        "executive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uja27gXX1EsaxLLje0yL7_39.150765_-80.037057@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431572,
+    "wof:geomhash":"fd2c9eb4b334bef7b994b130f3553929",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823378379
+        }
+    ],
+    "wof:id":823378379,
+    "wof:lastmodified":1463431572,
+    "wof:name":"Philippi Public Library",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "executive"
+    ]
+},
+  "bbox": [
+    -80.037057,
+    39.150765,
+    -80.037057,
+    39.150765
+],
+  "geometry": {"coordinates":[-80.037057,39.150765],"type":"Point"}
+}

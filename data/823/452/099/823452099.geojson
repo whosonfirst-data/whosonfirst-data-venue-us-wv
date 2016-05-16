@@ -1,0 +1,76 @@
+{
+  "id": 823452099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.1244,37.343976,-81.1244,37.343976",
+    "geom:latitude":37.343976,
+    "geom:longitude":-81.1244,
+    "iso:country":"US",
+    "sg:address":"463 Old Bluefield Rd",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 431 3030",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "renting",
+        "car",
+        "automobile"
+    ],
+    "sg:website":"http://www.enterprise.com/car_rental/deeplinkmap.do?gpbr=683B&bid=004&cnty=US&arc=YPTRL01&cm_mmc=Yellowpages.com-_-IYP-_-Tradelisting-_-branch",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bdzI7ybqtY74AOJSCkJcT_37.343857_-81.124452@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463434894,
+    "wof:geomhash":"c4a3845ae03531c142b9e22d48b3a754",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823452099
+        }
+    ],
+    "wof:id":823452099,
+    "wof:lastmodified":1463434894,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "car",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -81.1244,
+    37.343976,
+    -81.1244,
+    37.343976
+],
+  "geometry": {"coordinates":[-81.12439999999999,37.343976],"type":"Point"}
+}

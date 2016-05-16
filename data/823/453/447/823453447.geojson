@@ -1,0 +1,74 @@
+{
+  "id": 823453447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.935881,39.024582,-79.935881,39.024582",
+    "geom:latitude":39.024582,
+    "geom:longitude":-79.935881,
+    "iso:country":"US",
+    "sg:address":"100 Crim Ave",
+    "sg:city":"Belington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/south/67900-foxs-pizza-den/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 823 1000",
+    "sg:postcode":"26250",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YnfMdZonVUHYDsOlwNTq4_39.024582_-79.935881@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434947,
+    "wof:geomhash":"d0c59034116df17db0c9848def51e1ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823453447
+        }
+    ],
+    "wof:id":823453447,
+    "wof:lastmodified":1463434947,
+    "wof:name":"Fox's Pizza Den",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -79.935881,
+    39.024582,
+    -79.935881,
+    39.024582
+],
+  "geometry": {"coordinates":[-79.93588099999999,39.024582],"type":"Point"}
+}

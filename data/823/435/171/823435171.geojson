@@ -1,0 +1,73 @@
+{
+  "id": 823435171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.607444,40.617534,-80.607444,40.617534",
+    "geom:latitude":40.617534,
+    "geom:longitude":-80.607444,
+    "iso:country":"US",
+    "sg:address":"717 Washington St",
+    "sg:city":"Newell",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 3663",
+    "sg:postcode":"26050",
+    "sg:province":"WV",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14OJdPZICmeoQVq7TNmTvF_40.617534_-80.607444@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434134,
+    "wof:geomhash":"ec0f446a80459391b74d6a28d73b72e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823435171
+        }
+    ],
+    "wof:id":823435171,
+    "wof:lastmodified":1463434134,
+    "wof:name":"Kester's School Of Dancing",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -80.607444,
+    40.617534,
+    -80.607444,
+    40.617534
+],
+  "geometry": {"coordinates":[-80.607444,40.617534],"type":"Point"}
+}

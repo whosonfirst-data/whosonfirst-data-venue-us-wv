@@ -1,0 +1,71 @@
+{
+  "id": 823399261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.138951,38.841929,-82.138951,38.841929",
+    "geom:latitude":38.841929,
+    "geom:longitude":-82.138951,
+    "iso:country":"US",
+    "sg:address":"330 Main St",
+    "sg:city":"Point Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 675 5566",
+    "sg:postcode":"25550",
+    "sg:province":"WV",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85983229,
+        102083675,
+        85824533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1F8vmrKjX5biYo3WuNlToc_38.841929_-82.138951@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432547,
+    "wof:geomhash":"c4b9a7143219240ee119d4800daf8930",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "neighbourhood_id":85824533,
+            "region_id":85688485,
+            "venue_id":823399261
+        }
+    ],
+    "wof:id":823399261,
+    "wof:lastmodified":1463432547,
+    "wof:name":"T Cup",
+    "wof:parent_id":85824533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -82.138951,
+    38.841929,
+    -82.138951,
+    38.841929
+],
+  "geometry": {"coordinates":[-82.13895100000001,38.841929],"type":"Point"}
+}

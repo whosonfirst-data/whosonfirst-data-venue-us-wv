@@ -1,0 +1,75 @@
+{
+  "id": 823420775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.253171,38.573395,-81.253171,38.573395",
+    "geom:latitude":38.573395,
+    "geom:longitude":-81.253171,
+    "iso:country":"US",
+    "sg:address":"2474 Big Sandy Rd",
+    "sg:city":"Newton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 565 7057",
+    "sg:postcode":"25251",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731535,
+        102083399,
+        85868331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hFqVuPhEwrR0oTEtouOwZ_38.573395_-81.253171@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433497,
+    "wof:geomhash":"e826c2238dcff9bc8c49248474f2e6a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083399,
+            "locality_id":101731535,
+            "neighbourhood_id":85868331,
+            "region_id":85688589,
+            "venue_id":823420775
+        }
+    ],
+    "wof:id":823420775,
+    "wof:lastmodified":1463433497,
+    "wof:name":"Mountain State Clean Pro",
+    "wof:parent_id":85868331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -81.253171,
+    38.573395,
+    -81.253171,
+    38.573395
+],
+  "geometry": {"coordinates":[-81.25317099999999,38.573395],"type":"Point"}
+}

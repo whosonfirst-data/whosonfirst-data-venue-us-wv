@@ -1,0 +1,69 @@
+{
+  "id": 823447685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.114776,38.0457,-81.114776,38.0457",
+    "geom:latitude":38.0457,
+    "geom:longitude":-81.114776,
+    "iso:country":"US",
+    "sg:address":"204 W Maple Ave",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 574 0367",
+    "sg:postcode":"25840",
+    "sg:province":"WV",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fkyiNiwnuBWn93FywY42s_38.045700_-81.114776@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434718,
+    "wof:geomhash":"6ba797b244c9bf695a13bdb0ffda0d98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823447685
+        }
+    ],
+    "wof:id":823447685,
+    "wof:lastmodified":1463434718,
+    "wof:name":"Precision Survey Inc",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -81.114776,
+    38.0457,
+    -81.114776,
+    38.0457
+],
+  "geometry": {"coordinates":[-81.11477600000001,38.0457],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823450147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.629777,38.521824,-81.629777,38.521824",
+    "geom:latitude":38.521824,
+    "geom:longitude":-81.629777,
+    "iso:country":"US",
+    "sg:address":"8113 Sissonville Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 720 6801",
+    "sg:postcode":"25320",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qUAQPZy60ZqN1pL3pd5VV_38.521824_-81.629777@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434822,
+    "wof:geomhash":"a067b128f2e3913001a31014906d08b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823450147
+        }
+    ],
+    "wof:id":823450147,
+    "wof:lastmodified":1463434822,
+    "wof:name":"Physicians Services LC",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.629777,
+    38.521824,
+    -81.629777,
+    38.521824
+],
+  "geometry": {"coordinates":[-81.629777,38.521824],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823425505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.133056,37.991595,-81.133056,37.991595",
+    "geom:latitude":37.991595,
+    "geom:longitude":-81.133056,
+    "iso:country":"US",
+    "sg:address":"1520 Main St E",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 469 6272",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KeuJBZQJ5NCanxGY14GC5_37.991595_-81.133056@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433679,
+    "wof:geomhash":"113b156d3fb2dadbfc562eadfd89c7ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823425505
+        }
+    ],
+    "wof:id":823425505,
+    "wof:lastmodified":1463433679,
+    "wof:name":"NAPA Auto Parts",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -81.133056,
+    37.991595,
+    -81.133056,
+    37.991595
+],
+  "geometry": {"coordinates":[-81.133056,37.991595],"type":"Point"}
+}

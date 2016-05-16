@@ -1,0 +1,68 @@
+{
+  "id": 823442109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.946567,39.625949,-79.946567,39.625949",
+    "geom:latitude":39.625949,
+    "geom:longitude":-79.946567,
+    "iso:country":"US",
+    "sg:address":"100 E Brockway Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 9172",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85858573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pkjMd6aMGgYWWewqBVVO9_39.625949_-79.946567@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434456,
+    "wof:geomhash":"f25fba81f6454b18595d1f6359b75e08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85858573,
+            "region_id":85688589,
+            "venue_id":823442109
+        }
+    ],
+    "wof:id":823442109,
+    "wof:lastmodified":1463434456,
+    "wof:name":"Buck's Corner Pub",
+    "wof:parent_id":85858573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.946567,
+    39.625949,
+    -79.946567,
+    39.625949
+],
+  "geometry": {"coordinates":[-79.946567,39.625949],"type":"Point"}
+}

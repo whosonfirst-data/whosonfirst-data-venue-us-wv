@@ -1,0 +1,73 @@
+{
+  "id": 823451169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.622711,38.343698,-81.622711,38.343698",
+    "geom:latitude":38.343698,
+    "geom:longitude":-81.622711,
+    "iso:country":"US",
+    "sg:address":"1516 Washington St E",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 8659",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I2EizfTiv8z7LPh88msD0_38.343698_-81.622711@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434858,
+    "wof:geomhash":"d07bd74a7cc988cddda113e2add7a1a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823451169
+        }
+    ],
+    "wof:id":823451169,
+    "wof:lastmodified":1463434858,
+    "wof:name":"Friends Church",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.622711,
+    38.343698,
+    -81.622711,
+    38.343698
+],
+  "geometry": {"coordinates":[-81.622711,38.343698],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823425725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.004341,39.34569,-80.004341,39.34569",
+    "geom:latitude":39.34569,
+    "geom:longitude":-80.004341,
+    "iso:country":"US",
+    "sg:address":"223 Lincoln St",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 265 0648",
+    "sg:postcode":"26354",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731717,
+        102083351,
+        85849697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6j7z8r4x1vDgFCYXVzP1FR_39.345690_-80.004341@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433688,
+    "wof:geomhash":"1c8663154a4c7981875a0dad4d7c2624",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083351,
+            "locality_id":101731717,
+            "neighbourhood_id":85849697,
+            "region_id":85688589,
+            "venue_id":823425725
+        }
+    ],
+    "wof:id":823425725,
+    "wof:lastmodified":1463433688,
+    "wof:name":"Arnold L Mc Intosh",
+    "wof:parent_id":85849697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -80.004341,
+    39.34569,
+    -80.004341,
+    39.34569
+],
+  "geometry": {"coordinates":[-80.004341,39.34569],"type":"Point"}
+}

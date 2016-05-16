@@ -1,0 +1,71 @@
+{
+  "id": 823432535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.473716,39.033798,-80.473716,39.033798",
+    "geom:latitude":39.033798,
+    "geom:longitude":-80.473716,
+    "iso:country":"US",
+    "sg:address":"113 S Main St",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 269 4400",
+    "sg:postcode":"26452",
+    "sg:province":"WV",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85828579,
+        102083339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZniNfvrYMJ8BJnij2Levf_39.033798_-80.473716@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434000,
+    "wof:geomhash":"964aa08043a5c9fa67caca07e610bacf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083339,
+            "neighbourhood_id":85828579,
+            "region_id":85688589,
+            "venue_id":823432535
+        }
+    ],
+    "wof:id":823432535,
+    "wof:lastmodified":1463434000,
+    "wof:name":"Baseball Card Investors",
+    "wof:parent_id":85828579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -80.473716,
+    39.033798,
+    -80.473716,
+    39.033798
+],
+  "geometry": {"coordinates":[-80.473716,39.033798],"type":"Point"}
+}

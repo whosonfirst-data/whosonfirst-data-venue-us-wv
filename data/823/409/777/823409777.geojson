@@ -1,0 +1,74 @@
+{
+  "id": 823409777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.554105,38.39693,-82.554105,38.39693",
+    "geom:latitude":38.39693,
+    "geom:longitude":-82.554105,
+    "iso:country":"US",
+    "sg:address":"1288 B St",
+    "sg:city":"Ceredo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 3334",
+    "sg:postcode":"25704",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.stiletto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083365,
+        85857035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jFSjBXSIv9mYaKZNXgo60_38.396930_-82.554105@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433012,
+    "wof:geomhash":"4f386ac010133db0bd1704c1da2d7aa3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731553,
+            "neighbourhood_id":85857035,
+            "region_id":85688589,
+            "venue_id":823409777
+        }
+    ],
+    "wof:id":823409777,
+    "wof:lastmodified":1463433012,
+    "wof:name":"Jarrell Family Medicine",
+    "wof:parent_id":85857035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -82.554105,
+    38.39693,
+    -82.554105,
+    38.39693
+],
+  "geometry": {"coordinates":[-82.55410500000001,38.39693],"type":"Point"}
+}

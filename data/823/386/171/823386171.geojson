@@ -1,0 +1,73 @@
+{
+  "id": 823386171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.653326,38.36718,-81.653326,38.36718",
+    "geom:latitude":38.36718,
+    "geom:longitude":-81.653326,
+    "iso:country":"US",
+    "sg:address":"977 Virginia St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 0876",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ywKrLg5fIGYU3RGBRmaUC_38.367180_-81.653326@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431896,
+    "wof:geomhash":"5e593898baf956e504e5610b3286a96c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823386171
+        }
+    ],
+    "wof:id":823386171,
+    "wof:lastmodified":1463431896,
+    "wof:name":"Autozone",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -81.653326,
+    38.36718,
+    -81.653326,
+    38.36718
+],
+  "geometry": {"coordinates":[-81.65332600000001,38.36718],"type":"Point"}
+}

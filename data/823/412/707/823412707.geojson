@@ -1,0 +1,73 @@
+{
+  "id": 823412707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.145496,39.48429,-80.145496,39.48429",
+    "geom:latitude":39.48429,
+    "geom:longitude":-80.145496,
+    "iso:country":"US",
+    "sg:address":"309 Cleveland Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 2601",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Q2rdwKvVaFkdXufAI7ynE_39.484290_-80.145496@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433128,
+    "wof:geomhash":"91b805b1cd1837dc1be485287e087729",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823412707
+        }
+    ],
+    "wof:id":823412707,
+    "wof:lastmodified":1463433128,
+    "wof:name":"Salvation Army",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -80.145496,
+    39.48429,
+    -80.145496,
+    39.48429
+],
+  "geometry": {"coordinates":[-80.14549599999999,39.48429],"type":"Point"}
+}

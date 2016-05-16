@@ -1,0 +1,71 @@
+{
+  "id": 823401515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.554593,39.235895,-81.554593,39.235895",
+    "geom:latitude":39.235895,
+    "geom:longitude":-81.554593,
+    "iso:country":"US",
+    "sg:address":"2005 22nd Ave",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 485 7688",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VxbcKiz63NedusTT8tsso_39.235895_-81.554593@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432651,
+    "wof:geomhash":"19c1099ffbd819cebe91c25bc6426798",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823401515
+        }
+    ],
+    "wof:id":823401515,
+    "wof:lastmodified":1463432651,
+    "wof:name":"Video Dine",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -81.554593,
+    39.235895,
+    -81.554593,
+    39.235895
+],
+  "geometry": {"coordinates":[-81.554593,39.235895],"type":"Point"}
+}

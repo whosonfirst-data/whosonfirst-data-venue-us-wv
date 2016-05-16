@@ -1,0 +1,75 @@
+{
+  "id": 823453697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.964198,39.649386,-79.964198,39.649386",
+    "geom:latitude":39.649386,
+    "geom:longitude":-79.964198,
+    "iso:country":"US",
+    "sg:address":"2932 University Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/central/206624-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85847767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PKTEjdaWHLip9ez4zsAzU_39.649386_-79.964198@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434956,
+    "wof:geomhash":"de636b488da8cde37395bce9bc452e8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85847767,
+            "region_id":85688589,
+            "venue_id":823453697
+        }
+    ],
+    "wof:id":823453697,
+    "wof:lastmodified":1463434956,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85847767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -79.964198,
+    39.649386,
+    -79.964198,
+    39.649386
+],
+  "geometry": {"coordinates":[-79.964198,39.649386],"type":"Point"}
+}

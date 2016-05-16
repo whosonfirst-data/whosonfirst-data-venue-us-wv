@@ -1,0 +1,69 @@
+{
+  "id": 823379857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.958739,39.658004,-79.958739,39.658004",
+    "geom:latitude":39.658004,
+    "geom:longitude":-79.958739,
+    "iso:country":"US",
+    "sg:address":"781 Chestnut Ridge Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 2595",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hZ6z5x6t5Ds6eDdkQK1XL_39.658004_-79.958739@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431632,
+    "wof:geomhash":"51355f3a67e02f32d92cddb3003e7339",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823379857
+        }
+    ],
+    "wof:id":823379857,
+    "wof:lastmodified":1463431632,
+    "wof:name":"Mylan Pharmaceuticals Inc",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug"
+    ]
+},
+  "bbox": [
+    -79.958739,
+    39.658004,
+    -79.958739,
+    39.658004
+],
+  "geometry": {"coordinates":[-79.95873899999999,39.658004],"type":"Point"}
+}

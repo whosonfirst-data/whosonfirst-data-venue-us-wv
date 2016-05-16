@@ -1,0 +1,73 @@
+{
+  "id": 823433285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.342445,39.280109,-80.342445,39.280109",
+    "geom:latitude":39.280109,
+    "geom:longitude":-80.342445,
+    "iso:country":"US",
+    "sg:address":"428 W Main St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 622 9533",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1e3AlkDMxCgy7wLXlRylZc_39.280109_-80.342445@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434030,
+    "wof:geomhash":"f7e571a4af7b01a13fa76125a394d412",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823433285
+        }
+    ],
+    "wof:id":823433285,
+    "wof:lastmodified":1463434030,
+    "wof:name":"Modern Locksmith & Safes",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -80.342445,
+    39.280109,
+    -80.342445,
+    39.280109
+],
+  "geometry": {"coordinates":[-80.342445,39.280109],"type":"Point"}
+}

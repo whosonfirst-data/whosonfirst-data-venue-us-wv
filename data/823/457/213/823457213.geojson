@@ -1,0 +1,80 @@
+{
+  "id": 823457213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.959867,39.62803,-79.959867,39.62803",
+    "geom:latitude":39.62803,
+    "geom:longitude":-79.959867,
+    "iso:country":"US",
+    "sg:address":"966 Don Knotts Blvd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 468 4285",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "mover",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mcDQHBuHYyIKfJRWeJ397_39.628030_-79.959867@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435150,
+    "wof:geomhash":"e44f23cc2448cdec8cfc10a383d1700c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851489,
+            "region_id":85688589,
+            "venue_id":823457213
+        }
+    ],
+    "wof:id":823457213,
+    "wof:lastmodified":1463435150,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85851489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover",
+        "truck"
+    ]
+},
+  "bbox": [
+    -79.959867,
+    39.62803,
+    -79.959867,
+    39.62803
+],
+  "geometry": {"coordinates":[-79.959867,39.62803],"type":"Point"}
+}

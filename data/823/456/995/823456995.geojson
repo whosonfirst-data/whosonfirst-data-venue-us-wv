@@ -1,0 +1,73 @@
+{
+  "id": 823456995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.543785,40.292179,-80.543785,40.292179",
+    "geom:latitude":40.292179,
+    "geom:longitude":-80.543785,
+    "iso:country":"US",
+    "sg:address":"705 Pot Rock Rd",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 0456",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MjmnNEukih9aFdbVMigaT_40.292179_-80.543785@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435137,
+    "wof:geomhash":"4bebc445fca7dbddf8826ae429adbd0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823456995
+        }
+    ],
+    "wof:id":823456995,
+    "wof:lastmodified":1463435137,
+    "wof:name":"William H Thompson",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.543785,
+    40.292179,
+    -80.543785,
+    40.292179
+],
+  "geometry": {"coordinates":[-80.543785,40.292179],"type":"Point"}
+}

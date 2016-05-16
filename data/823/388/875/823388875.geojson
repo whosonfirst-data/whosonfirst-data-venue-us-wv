@@ -1,0 +1,71 @@
+{
+  "id": 823388875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.934587,39.60411,-80.934587,39.60411",
+    "geom:latitude":39.60411,
+    "geom:longitude":-80.934587,
+    "iso:country":"US",
+    "sg:address":"102 W Main St",
+    "sg:city":"Paden City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 337 8957",
+    "sg:postcode":"26159",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VJQcT9jXqEQmjsCjuqOuP_39.604110_-80.934587@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432021,
+    "wof:geomhash":"06f8d2c26349f931fe2fb912163cb222",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823388875
+        }
+    ],
+    "wof:id":823388875,
+    "wof:lastmodified":1463432021,
+    "wof:name":"Urval Shashi",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -80.934587,
+    39.60411,
+    -80.934587,
+    39.60411
+],
+  "geometry": {"coordinates":[-80.93458699999999,39.60411],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823433051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.566284,38.398201,-82.566284,38.398201",
+    "geom:latitude":38.398201,
+    "geom:longitude":-82.566284,
+    "iso:country":"US",
+    "sg:address":"700 Walnut St",
+    "sg:city":"Kenova",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 2356",
+    "sg:postcode":"25530",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731517,
+        102083365,
+        85806071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zSeXhjqGqdRqJtP0LJNQl_38.398201_-82.566284@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434020,
+    "wof:geomhash":"c9247b8b26469b5039b84b19fd7b8e26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731517,
+            "neighbourhood_id":85806071,
+            "region_id":85688589,
+            "venue_id":823433051
+        }
+    ],
+    "wof:id":823433051,
+    "wof:lastmodified":1463434020,
+    "wof:name":"Fedex Freight East Inc",
+    "wof:parent_id":85806071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -82.566284,
+    38.398201,
+    -82.566284,
+    38.398201
+],
+  "geometry": {"coordinates":[-82.566284,38.398201],"type":"Point"}
+}

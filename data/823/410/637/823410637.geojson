@@ -1,0 +1,71 @@
+{
+  "id": 823410637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.28102,39.279749,-80.28102,39.279749",
+    "geom:latitude":39.279749,
+    "geom:longitude":-80.28102,
+    "iso:country":"US",
+    "sg:address":"521 Emily Dr",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 624 3510",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HiYQTYxWVRHdY1Aa0Gh8a_39.279749_-80.281020@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433052,
+    "wof:geomhash":"85effb27b9053cc84b5ba260c6bb21b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823410637
+        }
+    ],
+    "wof:id":823410637,
+    "wof:lastmodified":1463433052,
+    "wof:name":"Circuit City",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -80.28102,
+    39.279749,
+    -80.28102,
+    39.279749
+],
+  "geometry": {"coordinates":[-80.28102,39.279749],"type":"Point"}
+}

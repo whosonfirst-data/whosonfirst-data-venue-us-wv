@@ -1,0 +1,77 @@
+{
+  "id": 823385323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.551262,39.289104,-81.551262,39.289104",
+    "geom:latitude":39.289104,
+    "geom:longitude":-81.551262,
+    "iso:country":"US",
+    "sg:address":"504 29th St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 485 3853",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "renting",
+        "leasing",
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731687,
+        102083343,
+        85805293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1P8ZZcEix5bXTJN9izxrYy_39.289104_-81.551262@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431861,
+    "wof:geomhash":"95dbb09e4d90d0158f666d0e8c810f5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85805293,
+            "region_id":85688589,
+            "venue_id":823385323
+        }
+    ],
+    "wof:id":823385323,
+    "wof:lastmodified":1463431861,
+    "wof:name":"Atlas Trailer Rentals",
+    "wof:parent_id":85805293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "leasing",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -81.551262,
+    39.289104,
+    -81.551262,
+    39.289104
+],
+  "geometry": {"coordinates":[-81.55126199999999,39.289104],"type":"Point"}
+}

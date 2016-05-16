@@ -1,0 +1,73 @@
+{
+  "id": 823423657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.627934,38.34138,-81.627934,38.34138",
+    "geom:latitude":38.34138,
+    "geom:longitude":-81.627934,
+    "iso:country":"US",
+    "sg:address":"1400 Kanawha Blvd E",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 0541",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85850023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EjxAorzfN1WGUIIIsXti7_38.341380_-81.627934@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433607,
+    "wof:geomhash":"cff72e7c9b24d9062ff467b921a3e8c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85850023,
+            "region_id":85688589,
+            "venue_id":823423657
+        }
+    ],
+    "wof:id":823423657,
+    "wof:lastmodified":1463433607,
+    "wof:name":"Thomas Wilkerson Dentist Ofc",
+    "wof:parent_id":85850023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -81.627934,
+    38.34138,
+    -81.627934,
+    38.34138
+],
+  "geometry": {"coordinates":[-81.627934,38.34138],"type":"Point"}
+}

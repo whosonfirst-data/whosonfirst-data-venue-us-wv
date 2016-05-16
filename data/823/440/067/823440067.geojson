@@ -1,0 +1,73 @@
+{
+  "id": 823440067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.04001,39.152564,-80.04001,39.152564",
+    "geom:latitude":39.152564,
+    "geom:longitude":-80.04001,
+    "iso:country":"US",
+    "sg:address":"116 N Main St",
+    "sg:city":"Philippi",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 457 3027",
+    "sg:postcode":"26416",
+    "sg:province":"WV",
+    "sg:tags":[
+        "recreational",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29fZkThxVSu35k4DpLBPlu_39.152564_-80.040010@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434367,
+    "wof:geomhash":"1c31b18f4cc2dbdad3d8f85e28c4856c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823440067
+        }
+    ],
+    "wof:id":823440067,
+    "wof:lastmodified":1463434367,
+    "wof:name":"Bill Kelley Racing",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recreational",
+        "vehicle"
+    ]
+},
+  "bbox": [
+    -80.04001,
+    39.152564,
+    -80.04001,
+    39.152564
+],
+  "geometry": {"coordinates":[-80.04001,39.152564],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823419905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.043354,39.156287,-80.043354,39.156287",
+    "geom:latitude":39.156287,
+    "geom:longitude":-80.043354,
+    "iso:country":"US",
+    "sg:address":"17 Beech St",
+    "sg:city":"Philippi",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 457 1158",
+    "sg:postcode":"26416",
+    "sg:province":"WV",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WeFbaGyh0mPufimDZo035_39.156287_-80.043354@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433458,
+    "wof:geomhash":"77743b75ca12b44e4d127a06af25ee3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823419905
+        }
+    ],
+    "wof:id":823419905,
+    "wof:lastmodified":1463433458,
+    "wof:name":"Upshur Hospital",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -80.043354,
+    39.156287,
+    -80.043354,
+    39.156287
+],
+  "geometry": {"coordinates":[-80.04335399999999,39.156287],"type":"Point"}
+}

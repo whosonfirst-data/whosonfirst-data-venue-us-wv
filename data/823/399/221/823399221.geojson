@@ -1,0 +1,71 @@
+{
+  "id": 823399221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.722126,38.352536,-81.722126,38.352536",
+    "geom:latitude":38.352536,
+    "geom:longitude":-81.722126,
+    "iso:country":"US",
+    "sg:address":"4316 Blackwell St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 1472",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iUyf2oJ5D2nc1Y6FZ47qG_38.352536_-81.722126@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432541,
+    "wof:geomhash":"4fec7d6ec92fe48362968444c47830ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823399221
+        }
+    ],
+    "wof:id":823399221,
+    "wof:lastmodified":1463432541,
+    "wof:name":"Ye Olde Barber Shoppee",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.722126,
+    38.352536,
+    -81.722126,
+    38.352536
+],
+  "geometry": {"coordinates":[-81.722126,38.352536],"type":"Point"}
+}

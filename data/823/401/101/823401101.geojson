@@ -1,0 +1,71 @@
+{
+  "id": 823401101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.594121,38.326687,-81.594121,38.326687",
+    "geom:latitude":38.326687,
+    "geom:longitude":-81.594121,
+    "iso:country":"US",
+    "sg:address":"3713 Venable Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 0905",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MwwyIQxGRvnopAYWfokwy_38.326687_-81.594121@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432634,
+    "wof:geomhash":"09437f4d63211d42d64a008ad6e0340d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823401101
+        }
+    ],
+    "wof:id":823401101,
+    "wof:lastmodified":1463432634,
+    "wof:name":"Sue A Kinder",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -81.594121,
+    38.326687,
+    -81.594121,
+    38.326687
+],
+  "geometry": {"coordinates":[-81.594121,38.326687],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823383995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.716645,40.060916,-80.716645,40.060916",
+    "geom:latitude":40.060916,
+    "geom:longitude":-80.716645,
+    "iso:country":"US",
+    "sg:address":"1900 Jacob St",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Beer",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 232 3000",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grocery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85816921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ozotiN8d4mOHylPWGrTdf_40.060916_-80.716645@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431810,
+    "wof:geomhash":"27a7099654a37f1ebdf9d4f8e6c15b65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85816921,
+            "region_id":85688589,
+            "venue_id":823383995
+        }
+    ],
+    "wof:id":823383995,
+    "wof:lastmodified":1463431810,
+    "wof:name":"Carenbauer Wholesale Corp",
+    "wof:parent_id":85816921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery"
+    ]
+},
+  "bbox": [
+    -80.716645,
+    40.060916,
+    -80.716645,
+    40.060916
+],
+  "geometry": {"coordinates":[-80.716645,40.060916],"type":"Point"}
+}

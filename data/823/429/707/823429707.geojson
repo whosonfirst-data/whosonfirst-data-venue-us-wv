@@ -1,0 +1,73 @@
+{
+  "id": 823429707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.44434,37.801142,-80.44434,37.801142",
+    "geom:latitude":37.801142,
+    "geom:longitude":-80.44434,
+    "iso:country":"US",
+    "sg:address":"202 E Washington St",
+    "sg:city":"Lewisburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 645 9878",
+    "sg:postcode":"24901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YLTuRVJIuk9PL20lW9dGw_37.801142_-80.444340@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433873,
+    "wof:geomhash":"d5c209cebd5b56c1672f9a911d8d291e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823429707
+        }
+    ],
+    "wof:id":823429707,
+    "wof:lastmodified":1463433873,
+    "wof:name":"Rite Aid",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -80.44434,
+    37.801142,
+    -80.44434,
+    37.801142
+],
+  "geometry": {"coordinates":[-80.44434,37.801142],"type":"Point"}
+}

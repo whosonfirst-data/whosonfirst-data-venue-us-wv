@@ -1,0 +1,73 @@
+{
+  "id": 823386139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.659596,38.371097,-81.659596,38.371097",
+    "geom:latitude":38.371097,
+    "geom:longitude":-81.659596,
+    "iso:country":"US",
+    "sg:address":"1531 Washington St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 344 2662",
+    "sg:postcode":"25312",
+    "sg:province":"WV",
+    "sg:tags":[
+        "lounge",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OjoYNEYY98HRVJJSY5xsL_38.371097_-81.659596@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431895,
+    "wof:geomhash":"2be66fb758b67c49a7fe09806ff7e6a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823386139
+        }
+    ],
+    "wof:id":823386139,
+    "wof:lastmodified":1463431895,
+    "wof:name":"George's Lounge",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -81.659596,
+    38.371097,
+    -81.659596,
+    38.371097
+],
+  "geometry": {"coordinates":[-81.65959599999999,38.371097],"type":"Point"}
+}

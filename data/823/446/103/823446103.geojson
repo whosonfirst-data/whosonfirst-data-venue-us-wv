@@ -1,0 +1,75 @@
+{
+  "id": 823446103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.548209,39.300513,-81.548209,39.300513",
+    "geom:latitude":39.300513,
+    "geom:longitude":-81.548209,
+    "iso:country":"US",
+    "sg:address":"4010 Murdoch Ave",
+    "sg:city":"Vienna",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 485 7451",
+    "sg:postcode":"26105",
+    "sg:province":"WV",
+    "sg:tags":[
+        "passenger",
+        "transportation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731687,
+        102083343,
+        85805293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6J4Zbf52u9TJdSbuUqBQbz_39.300513_-81.548209@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434648,
+    "wof:geomhash":"4eee333fa12341eeed18b3ed0c55f5bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85805293,
+            "region_id":85688589,
+            "venue_id":823446103
+        }
+    ],
+    "wof:id":823446103,
+    "wof:lastmodified":1463434648,
+    "wof:name":"AAA",
+    "wof:parent_id":85805293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "transportation"
+    ]
+},
+  "bbox": [
+    -81.548209,
+    39.300513,
+    -81.548209,
+    39.300513
+],
+  "geometry": {"coordinates":[-81.548209,39.300513],"type":"Point"}
+}

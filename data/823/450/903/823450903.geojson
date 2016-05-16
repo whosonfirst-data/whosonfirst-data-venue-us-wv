@@ -1,0 +1,71 @@
+{
+  "id": 823450903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.864995,39.643038,-80.864995,39.643038",
+    "geom:latitude":39.643038,
+    "geom:longitude":-80.864995,
+    "iso:country":"US",
+    "sg:address":"132 North St",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 2424",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6x3qNR4MuQOFpqZe0UEjBO_39.643038_-80.864995@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434848,
+    "wof:geomhash":"3442978d3f0e81e7a039f17f6e747629",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823450903
+        }
+    ],
+    "wof:id":823450903,
+    "wof:lastmodified":1463434848,
+    "wof:name":"Haught's Cleaning Svc",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -80.864995,
+    39.643038,
+    -80.864995,
+    39.643038
+],
+  "geometry": {"coordinates":[-80.86499499999999,39.643038],"type":"Point"}
+}

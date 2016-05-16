@@ -1,0 +1,73 @@
+{
+  "id": 823444033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.664159,38.461104,-81.664159,38.461104",
+    "geom:latitude":38.461104,
+    "geom:longitude":-81.664159,
+    "iso:country":"US",
+    "sg:address":"5790 Sissonville Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 984 1334",
+    "sg:postcode":"25312",
+    "sg:province":"WV",
+    "sg:tags":[
+        "product",
+        "asphalt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71uEriWfpzebljGthJtzUJ_38.461104_-81.664159@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434543,
+    "wof:geomhash":"6612efacc8c9f79ec668a96f3295923e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823444033
+        }
+    ],
+    "wof:id":823444033,
+    "wof:lastmodified":1463434543,
+    "wof:name":"Kanawha Asphalt Paving",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "asphalt"
+    ]
+},
+  "bbox": [
+    -81.664159,
+    38.461104,
+    -81.664159,
+    38.461104
+],
+  "geometry": {"coordinates":[-81.664159,38.461104],"type":"Point"}
+}

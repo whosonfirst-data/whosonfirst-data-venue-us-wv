@@ -1,0 +1,71 @@
+{
+  "id": 823411901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.568088,40.60991,-80.568088,40.60991",
+    "geom:latitude":40.60991,
+    "geom:longitude":-80.568088,
+    "iso:country":"US",
+    "sg:address":"213 Carolina Ave",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 0796",
+    "sg:postcode":"26034",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0G9PS7NNhasOUld0DLsAq8_40.609910_-80.568088@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433099,
+    "wof:geomhash":"a2820caa5a1db38e0adb7f8da1a7759f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823411901
+        }
+    ],
+    "wof:id":823411901,
+    "wof:lastmodified":1463433099,
+    "wof:name":"Doris Whittackers Beauty Shop",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -80.568088,
+    40.60991,
+    -80.568088,
+    40.60991
+],
+  "geometry": {"coordinates":[-80.568088,40.60991],"type":"Point"}
+}

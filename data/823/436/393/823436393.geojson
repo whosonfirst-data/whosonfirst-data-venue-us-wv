@@ -1,0 +1,73 @@
+{
+  "id": 823436393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.231588,37.875315,-81.231588,37.875315",
+    "geom:latitude":37.875315,
+    "geom:longitude":-81.231588,
+    "iso:country":"US",
+    "sg:address":"167 Meadow St",
+    "sg:city":"Mt Hope",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 877 3773",
+    "sg:postcode":"25880",
+    "sg:province":"WV",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iT8lAJsK7YJi2TUvw5Qny_37.875315_-81.231588@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434190,
+    "wof:geomhash":"a3d416b36f7ec6be7bbeb7c8466fe3a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823436393
+        }
+    ],
+    "wof:id":823436393,
+    "wof:lastmodified":1463434190,
+    "wof:name":"Reliable Truck & Equip Repair",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -81.231588,
+    37.875315,
+    -81.231588,
+    37.875315
+],
+  "geometry": {"coordinates":[-81.231588,37.875315],"type":"Point"}
+}

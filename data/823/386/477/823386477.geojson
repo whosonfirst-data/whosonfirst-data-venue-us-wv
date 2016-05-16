@@ -1,0 +1,69 @@
+{
+  "id": 823386477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.56065,39.285824,-80.56065,39.285824",
+    "geom:latitude":39.285824,
+    "geom:longitude":-80.56065,
+    "iso:country":"US",
+    "sg:address":"126 Valley St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 782 3333",
+    "sg:postcode":"26426",
+    "sg:province":"WV",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85810773,
+        102082619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KW5uaAnFS1dTXMyMtcQMN_39.285824_-80.560650@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431907,
+    "wof:geomhash":"ab028090bd83544c5f8fdd49b418bc9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "neighbourhood_id":85810773,
+            "region_id":85688589,
+            "venue_id":823386477
+        }
+    ],
+    "wof:id":823386477,
+    "wof:lastmodified":1463431907,
+    "wof:name":"Salem Volunteer Fire Dept",
+    "wof:parent_id":85810773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -80.56065,
+    39.285824,
+    -80.56065,
+    39.285824
+],
+  "geometry": {"coordinates":[-80.56065,39.285824],"type":"Point"}
+}

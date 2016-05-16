@@ -1,0 +1,66 @@
+{
+  "id": 823368993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.577981,38.399264,-82.577981,38.399264",
+    "geom:latitude":38.399264,
+    "geom:longitude":-82.577981,
+    "iso:country":"US",
+    "sg:address":"1400 Chestnut St",
+    "sg:city":"Kenova",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 1461",
+    "sg:postcode":"25530",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731517,
+        102083365,
+        85806071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bvKf0jCWRW6g274Mzz4OD_38.399264_-82.577981@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431133,
+    "wof:geomhash":"b1b7fc71bbae5fc04e3d27ab3dfc634a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731517,
+            "neighbourhood_id":85806071,
+            "region_id":85688589,
+            "venue_id":823368993
+        }
+    ],
+    "wof:id":823368993,
+    "wof:lastmodified":1463431133,
+    "wof:name":"Save A Lot",
+    "wof:parent_id":85806071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.577981,
+    38.399264,
+    -82.577981,
+    38.399264
+],
+  "geometry": {"coordinates":[-82.57798099999999,38.399264],"type":"Point"}
+}

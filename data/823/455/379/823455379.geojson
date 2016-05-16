@@ -1,0 +1,71 @@
+{
+  "id": 823455379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.153747,39.359769,-78.153747,39.359769",
+    "geom:latitude":39.359769,
+    "geom:longitude":-78.153747,
+    "iso:country":"US",
+    "sg:address":"232 Otter Creek Dr",
+    "sg:city":"Gerrardstown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 229 1059",
+    "sg:postcode":"25420",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Rk9S4PNGSHdAN61TqVUA5_39.359769_-78.153747@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435072,
+    "wof:geomhash":"31989c64666cc7f0c4eeddac013f3736",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823455379
+        }
+    ],
+    "wof:id":823455379,
+    "wof:lastmodified":1463435072,
+    "wof:name":"Eastern Panhandle Bicycle Co",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -78.153747,
+    39.359769,
+    -78.153747,
+    39.359769
+],
+  "geometry": {"coordinates":[-78.153747,39.359769],"type":"Point"}
+}

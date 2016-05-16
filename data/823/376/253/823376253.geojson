@@ -1,0 +1,73 @@
+{
+  "id": 823376253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.200929,37.787121,-81.200929,37.787121",
+    "geom:latitude":37.787121,
+    "geom:longitude":-81.200929,
+    "iso:country":"US",
+    "sg:address":"200 Carriage Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 252 0609",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UIv8LCDOYuy6i8tyHny1U_37.787121_-81.200929@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431468,
+    "wof:geomhash":"dc715700edcb93a4023f766c8e419ee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823376253
+        }
+    ],
+    "wof:id":823376253,
+    "wof:lastmodified":1463431468,
+    "wof:name":"Professional Medical Ultrsncs",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -81.200929,
+    37.787121,
+    -81.200929,
+    37.787121
+],
+  "geometry": {"coordinates":[-81.200929,37.787121],"type":"Point"}
+}

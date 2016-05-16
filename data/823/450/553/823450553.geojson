@@ -1,0 +1,71 @@
+{
+  "id": 823450553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.998484,39.63258,-79.998484,39.63258",
+    "geom:latitude":39.63258,
+    "geom:longitude":-79.998484,
+    "iso:country":"US",
+    "sg:address":"124 Edwin St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 983 8316",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818601,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kr4kizsQ0sVxp3B0MAxZk_39.632580_-79.998484@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434836,
+    "wof:geomhash":"109ce8e82a311387ee0a69bc23604b95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85818601,
+            "region_id":85688589,
+            "venue_id":823450553
+        }
+    ],
+    "wof:id":823450553,
+    "wof:lastmodified":1463434836,
+    "wof:name":"Casdorph Properties",
+    "wof:parent_id":85818601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -79.998484,
+    39.63258,
+    -79.998484,
+    39.63258
+],
+  "geometry": {"coordinates":[-79.998484,39.63258],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 823392053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.034923,39.146177,-80.034923,39.146177",
+    "geom:latitude":39.146177,
+    "geom:longitude":-80.034923,
+    "iso:country":"US",
+    "sg:address":"319 S Main St",
+    "sg:city":"Philippi",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 457 2502",
+    "sg:postcode":"26416",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1G5HQO8zLeShkYO9Ehh47t_39.146177_-80.034923@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432173,
+    "wof:geomhash":"075f32a35ec94889d1fa95a4e075ed2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823392053
+        }
+    ],
+    "wof:id":823392053,
+    "wof:lastmodified":1463432173,
+    "wof:name":"Speedway 3949",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -80.034923,
+    39.146177,
+    -80.034923,
+    39.146177
+],
+  "geometry": {"coordinates":[-80.03492300000001,39.146177],"type":"Point"}
+}

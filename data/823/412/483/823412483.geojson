@@ -1,0 +1,71 @@
+{
+  "id": 823412483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.578673,38.322486,-81.578673,38.322486",
+    "geom:latitude":38.322486,
+    "geom:longitude":-81.578673,
+    "iso:country":"US",
+    "sg:address":"4807 Staunton Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 2836",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7J3hSYUdmmnHdhpoXMi8Dy_38.322486_-81.578673@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433121,
+    "wof:geomhash":"8b6ce12d74502c847cbbfe67ac74820e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823412483
+        }
+    ],
+    "wof:id":823412483,
+    "wof:lastmodified":1463433121,
+    "wof:name":"Saint Agnes Catholic Church",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.578673,
+    38.322486,
+    -81.578673,
+    38.322486
+],
+  "geometry": {"coordinates":[-81.57867299999999,38.322486],"type":"Point"}
+}

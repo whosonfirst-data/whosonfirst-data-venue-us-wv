@@ -1,0 +1,73 @@
+{
+  "id": 823425987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.984081,39.438804,-77.984081,39.438804",
+    "geom:latitude":39.438804,
+    "geom:longitude":-77.984081,
+    "iso:country":"US",
+    "sg:address":"1161 Winchester Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 267 7033",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "alternator",
+        "generator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0esY3WowEMVET7Nw5Y3xzE_39.438804_-77.984081@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433706,
+    "wof:geomhash":"3ae40d79b841eca26e9f7f44ed94f8cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823425987
+        }
+    ],
+    "wof:id":823425987,
+    "wof:lastmodified":1463433706,
+    "wof:name":"Battery Mart",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alternator",
+        "generator"
+    ]
+},
+  "bbox": [
+    -77.984081,
+    39.438804,
+    -77.984081,
+    39.438804
+],
+  "geometry": {"coordinates":[-77.984081,39.438804],"type":"Point"}
+}

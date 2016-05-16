@@ -1,0 +1,71 @@
+{
+  "id": 823428859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.64266,38.363275,-81.64266,38.363275",
+    "geom:latitude":38.363275,
+    "geom:longitude":-81.64266,
+    "iso:country":"US",
+    "sg:address":"624 Maryland Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 9531",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ufjo1DdipKhqjVxdsJfX1_38.363275_-81.642660@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433833,
+    "wof:geomhash":"36ca39e0d871f6012be8371b4f797509",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823428859
+        }
+    ],
+    "wof:id":823428859,
+    "wof:lastmodified":1463433833,
+    "wof:name":"Charleston Janitor",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -81.64266,
+    38.363275,
+    -81.64266,
+    38.363275
+],
+  "geometry": {"coordinates":[-81.64266000000001,38.363275],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823408333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.446436,37.802315,-80.446436,37.802315",
+    "geom:latitude":37.802315,
+    "geom:longitude":-80.446436,
+    "iso:country":"US",
+    "sg:address":"103 S Court St",
+    "sg:city":"Lewisburg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 647 3839",
+    "sg:postcode":"24901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kTc99RER6cUPwEG1mDIdd_37.802315_-80.446436@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432960,
+    "wof:geomhash":"a462808cfd55a9a7ab3e432e97c6850c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823408333
+        }
+    ],
+    "wof:id":823408333,
+    "wof:lastmodified":1463432960,
+    "wof:name":"Tom's Barber Shop",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -80.446436,
+    37.802315,
+    -80.446436,
+    37.802315
+],
+  "geometry": {"coordinates":[-80.44643600000001,37.802315],"type":"Point"}
+}

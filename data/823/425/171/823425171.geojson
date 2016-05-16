@@ -1,0 +1,73 @@
+{
+  "id": 823425171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.147523,39.48106,-80.147523,39.48106",
+    "geom:latitude":39.48106,
+    "geom:longitude":-80.147523,
+    "iso:country":"US",
+    "sg:address":"302 Fairmont Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 367 1423",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "car",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WrvNiGRCeLmQahmqfsooo_39.481060_-80.147523@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433667,
+    "wof:geomhash":"6175cf1b933cf851fcc8ba5b732ce540",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823425171
+        }
+    ],
+    "wof:id":823425171,
+    "wof:lastmodified":1463433667,
+    "wof:name":"Sun Motors Inc",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used"
+    ]
+},
+  "bbox": [
+    -80.147523,
+    39.48106,
+    -80.147523,
+    39.48106
+],
+  "geometry": {"coordinates":[-80.14752300000001,39.48106],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 823397893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.333392,38.180117,-81.333392,38.180117",
+    "geom:latitude":38.180117,
+    "geom:longitude":-81.333392,
+    "iso:country":"US",
+    "sg:address":"1105 2nd Ave",
+    "sg:city":"Montgomery",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 442 4311",
+    "sg:postcode":"25136",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ipwq0BejRiKkMAP7ag99V_38.180117_-81.333392@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432477,
+    "wof:geomhash":"469954cac71b8318332a22c68f956335",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823397893
+        }
+    ],
+    "wof:id":823397893,
+    "wof:lastmodified":1463432477,
+    "wof:name":"Family Dollar Stores",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.333392,
+    38.180117,
+    -81.333392,
+    38.180117
+],
+  "geometry": {"coordinates":[-81.333392,38.180117],"type":"Point"}
+}

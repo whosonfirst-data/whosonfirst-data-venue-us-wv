@@ -1,0 +1,72 @@
+{
+  "id": 823452491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.568027,38.313543,-81.568027,38.313543",
+    "geom:latitude":38.313543,
+    "geom:longitude":-81.568027,
+    "iso:country":"US",
+    "sg:address":"5709 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/belle/214059-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 6034",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uU5bh2xR0Z8pPmVEQ7fid_38.313543_-81.568027@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434909,
+    "wof:geomhash":"c3594496d06684a776e7f105fc8d7b25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823452491
+        }
+    ],
+    "wof:id":823452491,
+    "wof:lastmodified":1463434909,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -81.568027,
+    38.313543,
+    -81.568027,
+    38.313543
+],
+  "geometry": {"coordinates":[-81.568027,38.313543],"type":"Point"}
+}

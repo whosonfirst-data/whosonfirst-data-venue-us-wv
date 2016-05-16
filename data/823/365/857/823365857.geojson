@@ -1,0 +1,71 @@
+{
+  "id": 823365857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.580409,38.400897,-82.580409,38.400897",
+    "geom:latitude":38.400897,
+    "geom:longitude":-82.580409,
+    "iso:country":"US",
+    "sg:address":"1616 Poplar St",
+    "sg:city":"Kenova",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 2742",
+    "sg:postcode":"25530",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731517,
+        102083365,
+        85806071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37H9IRFAHuThDuTVAq14tF_38.400897_-82.580409@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431004,
+    "wof:geomhash":"e9f4cba0ba46f81b180e0cf03d67519a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731517,
+            "neighbourhood_id":85806071,
+            "region_id":85688589,
+            "venue_id":823365857
+        }
+    ],
+    "wof:id":823365857,
+    "wof:lastmodified":1463431004,
+    "wof:name":"Poplar Street Church Of God",
+    "wof:parent_id":85806071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -82.580409,
+    38.400897,
+    -82.580409,
+    38.400897
+],
+  "geometry": {"coordinates":[-82.580409,38.400897],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 823409809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.262132,37.801251,-81.262132,37.801251",
+    "geom:latitude":37.801251,
+    "geom:longitude":-81.262132,
+    "iso:country":"US",
+    "sg:address":"183 Angle Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 252 7050",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "equipment",
+        "hydraulic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4c6ZAaIV9bG04CIIB2cfzE_37.801251_-81.262132@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433013,
+    "wof:geomhash":"44d7b88a7e917a2dcb104550c99ad6bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823409809
+        }
+    ],
+    "wof:id":823409809,
+    "wof:lastmodified":1463433013,
+    "wof:name":"Precision Hydraulic Machine",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "hydraulic"
+    ]
+},
+  "bbox": [
+    -81.262132,
+    37.801251,
+    -81.262132,
+    37.801251
+],
+  "geometry": {"coordinates":[-81.26213199999999,37.801251],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823399891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.215912,38.42412,-82.215912,38.42412",
+    "geom:latitude":38.42412,
+    "geom:longitude":-82.215912,
+    "iso:country":"US",
+    "sg:address":"3120 US Hwy 60",
+    "sg:city":"Ona",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 733 2151",
+    "sg:postcode":"25545",
+    "sg:province":"WV",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85816671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64VKiS4dnmfD6RsZWixUJw_38.424120_-82.215912@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432579,
+    "wof:geomhash":"45477ad08ce9208d491efdd8e946c695",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85816671,
+            "region_id":85688589,
+            "venue_id":823399891
+        }
+    ],
+    "wof:id":823399891,
+    "wof:lastmodified":1463432579,
+    "wof:name":"Holland Supply Co Inc",
+    "wof:parent_id":85816671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -82.215912,
+    38.42412,
+    -82.215912,
+    38.42412
+],
+  "geometry": {"coordinates":[-82.215912,38.42412],"type":"Point"}
+}

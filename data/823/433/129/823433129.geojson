@@ -1,0 +1,71 @@
+{
+  "id": 823433129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.039931,39.15245,-80.039931,39.15245",
+    "geom:latitude":39.15245,
+    "geom:longitude":-80.039931,
+    "iso:country":"US",
+    "sg:address":"1 N Main St",
+    "sg:city":"Philippi",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 457 1722",
+    "sg:postcode":"26416",
+    "sg:province":"WV",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BGs6kLmJQWJp3NeTbw11x_39.152450_-80.039931@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434024,
+    "wof:geomhash":"53b0de9038cca2158130af3c495ab16b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823433129
+        }
+    ],
+    "wof:id":823433129,
+    "wof:lastmodified":1463434024,
+    "wof:name":"Philippi Discount Tire Ctr",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -80.039931,
+    39.15245,
+    -80.039931,
+    39.15245
+],
+  "geometry": {"coordinates":[-80.039931,39.15245],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 823457555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.963005,39.663683,-79.963005,39.663683",
+    "geom:latitude":39.663683,
+    "geom:longitude":-79.963005,
+    "iso:country":"US",
+    "sg:address":"200 Wedgewood Dr Ste 106",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 866 873 0879",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"http://www.rapidstdtesting.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tpNcU32yBBuWZTdrIz4To_39.663683_-79.963005@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435165,
+    "wof:geomhash":"cfadda00f8a834a6ac812719df6f97ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823457555
+        }
+    ],
+    "wof:id":823457555,
+    "wof:lastmodified":1463435165,
+    "wof:name":"Rapid STD/HIV Testing",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -79.963005,
+    39.663683,
+    -79.963005,
+    39.663683
+],
+  "geometry": {"coordinates":[-79.963005,39.663683],"type":"Point"}
+}

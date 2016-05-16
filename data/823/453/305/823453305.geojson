@@ -1,0 +1,72 @@
+{
+  "id": 823453305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.541662,39.22493,-81.541662,39.22493",
+    "geom:latitude":39.22493,
+    "geom:longitude":-81.541662,
+    "iso:country":"US",
+    "sg:address":"2902 Pike St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/tygart/167487-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 489 9630",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gtKMXttup0lguLhkP8ZU3_39.224930_-81.541662@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434942,
+    "wof:geomhash":"6b43efa531b034b40dd59fc70aed0da6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823453305
+        }
+    ],
+    "wof:id":823453305,
+    "wof:lastmodified":1463434942,
+    "wof:name":"Burger King",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -81.541662,
+    39.22493,
+    -81.541662,
+    39.22493
+],
+  "geometry": {"coordinates":[-81.541662,39.22493],"type":"Point"}
+}

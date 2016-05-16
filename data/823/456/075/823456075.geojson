@@ -1,0 +1,80 @@
+{
+  "id": 823456075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.10288,38.052367,-81.10288,38.052367",
+    "geom:latitude":38.052367,
+    "geom:longitude":-81.10288,
+    "iso:country":"US",
+    "sg:address":"102 Fayette Ave",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 574 3010",
+    "sg:postcode":"25840",
+    "sg:province":"WV",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "sg:website":"http://www.dollartree.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wT3xGB3qB0yzbBbjnJBYH_38.052367_-81.102880@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435098,
+    "wof:geomhash":"f33476aa3ecdb521a3e9cc50a8e208f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823456075
+        }
+    ],
+    "wof:id":823456075,
+    "wof:lastmodified":1463435098,
+    "wof:name":"Dollar Tree",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -81.10288,
+    38.052367,
+    -81.10288,
+    38.052367
+],
+  "geometry": {"coordinates":[-81.10288,38.052367],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823447763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.566574,38.244211,-81.566574,38.244211",
+    "geom:latitude":38.244211,
+    "geom:longitude":-81.566574,
+    "iso:country":"US",
+    "sg:address":"9702 Maccorkle Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 3411",
+    "sg:postcode":"25315",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49yRxsldf4WiCV5LnekPM5_38.244211_-81.566574@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434726,
+    "wof:geomhash":"70524130872b258c13d5bcb939c4c7e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823447763
+        }
+    ],
+    "wof:id":823447763,
+    "wof:lastmodified":1463434726,
+    "wof:name":"William R Bragg DDS",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -81.566574,
+    38.244211,
+    -81.566574,
+    38.244211
+],
+  "geometry": {"coordinates":[-81.566574,38.244211],"type":"Point"}
+}

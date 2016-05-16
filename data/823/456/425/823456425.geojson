@@ -1,0 +1,84 @@
+{
+  "id": 823456425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.55662,40.618212,-80.55662,40.618212",
+    "geom:latitude":40.618212,
+    "geom:longitude":-80.55662,
+    "iso:country":"US",
+    "sg:address":"850 Plutus Ave Apt 203",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 0701",
+    "sg:postcode":"26034",
+    "sg:province":"WV",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cXXFLZw31mHMlS8Ezm7CG_40.618212_-80.556620@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435112,
+    "wof:geomhash":"d8a647e51b195b44f070c3bec9516bba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823456425
+        }
+    ],
+    "wof:id":823456425,
+    "wof:lastmodified":1463435112,
+    "wof:name":"Alicia Arms Apts",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ]
+},
+  "bbox": [
+    -80.55662,
+    40.618212,
+    -80.55662,
+    40.618212
+],
+  "geometry": {"coordinates":[-80.55662,40.618212],"type":"Point"}
+}

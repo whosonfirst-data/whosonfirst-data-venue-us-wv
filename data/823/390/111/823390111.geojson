@@ -1,0 +1,73 @@
+{
+  "id": 823390111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.861855,39.289296,-77.861855,39.289296",
+    "geom:latitude":39.289296,
+    "geom:longitude":-77.861855,
+    "iso:country":"US",
+    "sg:address":"205 W Liberty St",
+    "sg:city":"Charles Town",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 728 6877",
+    "sg:postcode":"25414",
+    "sg:province":"WV",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731443,
+        102082647,
+        85807793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KbTdBSe15chixDLU5aHbk_39.289296_-77.861855@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432081,
+    "wof:geomhash":"feb3072353dea02c39ada5ca325f2a1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082647,
+            "locality_id":101731443,
+            "neighbourhood_id":85807793,
+            "region_id":85688589,
+            "venue_id":823390111
+        }
+    ],
+    "wof:id":823390111,
+    "wof:lastmodified":1463432081,
+    "wof:name":"Smith & Diehl",
+    "wof:parent_id":85807793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -77.861855,
+    39.289296,
+    -77.861855,
+    39.289296
+],
+  "geometry": {"coordinates":[-77.86185500000001,39.289296],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 823452647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.988046,39.453036,-77.988046,39.453036",
+    "geom:latitude":39.453036,
+    "geom:longitude":-77.988046,
+    "iso:country":"US",
+    "sg:address":"776 Foxcroft Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/adam-stephens/165124-daily-grind/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 262 9722",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6U40fFKt9XUMWx4JYxkVcd_39.453036_-77.988046@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434915,
+    "wof:geomhash":"2d075cd7b8496ed6b4430fc21da02d9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823452647
+        }
+    ],
+    "wof:id":823452647,
+    "wof:lastmodified":1463434915,
+    "wof:name":"Daily Grind",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -77.988046,
+    39.453036,
+    -77.988046,
+    39.453036
+],
+  "geometry": {"coordinates":[-77.988046,39.453036],"type":"Point"}
+}

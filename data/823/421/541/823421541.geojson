@@ -1,0 +1,73 @@
+{
+  "id": 823421541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.640426,38.367974,-81.640426,38.367974",
+    "geom:latitude":38.367974,
+    "geom:longitude":-81.640426,
+    "iso:country":"US",
+    "sg:address":"904 Price St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 346 4525",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6v01G9rjk5MrYQNpxOX7bt_38.367974_-81.640426@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433525,
+    "wof:geomhash":"d65f2c82e9db5d57bf419e548ae2fe21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823421541
+        }
+    ],
+    "wof:id":823421541,
+    "wof:lastmodified":1463433525,
+    "wof:name":"Pat Kerns",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -81.640426,
+    38.367974,
+    -81.640426,
+    38.367974
+],
+  "geometry": {"coordinates":[-81.64042600000001,38.367974],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823403109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.04001,39.152564,-80.04001,39.152564",
+    "geom:latitude":39.152564,
+    "geom:longitude":-80.04001,
+    "iso:country":"US",
+    "sg:address":"116 N Main St",
+    "sg:city":"Philippi",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 457 9881",
+    "sg:postcode":"26416",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nKwSthYGjQfVlTIqoxtS8_39.152564_-80.040010@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432716,
+    "wof:geomhash":"1c31b18f4cc2dbdad3d8f85e28c4856c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823403109
+        }
+    ],
+    "wof:id":823403109,
+    "wof:lastmodified":1463432716,
+    "wof:name":"Chinese Restaurant",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -80.04001,
+    39.152564,
+    -80.04001,
+    39.152564
+],
+  "geometry": {"coordinates":[-80.04001,39.152564],"type":"Point"}
+}

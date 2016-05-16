@@ -1,0 +1,75 @@
+{
+  "id": 823400545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.626327,38.346263,-81.626327,38.346263",
+    "geom:latitude":38.346263,
+    "geom:longitude":-81.626327,
+    "iso:country":"US",
+    "sg:address":"1301 Washington St E",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 346 9382",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LdrpU1Ik0MPHKOXlke23S_38.346263_-81.626327@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432608,
+    "wof:geomhash":"9d0105fa8daf8acdb4b82111d5f99679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823400545
+        }
+    ],
+    "wof:id":823400545,
+    "wof:lastmodified":1463432608,
+    "wof:name":"Rite Aid",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -81.626327,
+    38.346263,
+    -81.626327,
+    38.346263
+],
+  "geometry": {"coordinates":[-81.626327,38.346263],"type":"Point"}
+}

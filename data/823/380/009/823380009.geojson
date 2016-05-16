@@ -1,0 +1,80 @@
+{
+  "id": 823380009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.769843,38.371219,-81.769843,38.371219",
+    "geom:latitude":38.371219,
+    "geom:longitude":-81.769843,
+    "iso:country":"US",
+    "sg:address":"6420 Maccorkle Ave",
+    "sg:city":"St Albans",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 7351",
+    "sg:postcode":"25177",
+    "sg:province":"WV",
+    "sg:tags":[
+        "equipment",
+        "generator",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731773,
+        102083335,
+        85840775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TvxNaAqtiU2H13N4NUBWF_38.371219_-81.769843@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431637,
+    "wof:geomhash":"d68f5aa20dbd915022b785686611ce7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731773,
+            "neighbourhood_id":85840775,
+            "region_id":85688589,
+            "venue_id":823380009
+        }
+    ],
+    "wof:id":823380009,
+    "wof:lastmodified":1463431637,
+    "wof:name":"Generator & Starter Repair Inc",
+    "wof:parent_id":85840775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "generator",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -81.769843,
+    38.371219,
+    -81.769843,
+    38.371219
+],
+  "geometry": {"coordinates":[-81.76984299999999,38.371219],"type":"Point"}
+}

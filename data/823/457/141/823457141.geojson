@@ -1,0 +1,87 @@
+{
+  "id": 823457141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.977249,39.609428,-79.977249,39.609428",
+    "geom:latitude":39.609428,
+    "geom:longitude":-79.977249,
+    "iso:country":"US",
+    "sg:address":"1500 Morgantown Industrial Park",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 7135",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "plumber",
+        "system",
+        "specialty",
+        "heating",
+        "mechanical",
+        "contractor",
+        "air conditioning"
+    ],
+    "sg:website":"http://www.cityplumbingandheating.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1huGfkGMBtt6YGHWaTZJ1C_39.609428_-79.977249@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435147,
+    "wof:geomhash":"96ce02f9cb18182729eee00333f0e5ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823457141
+        }
+    ],
+    "wof:id":823457141,
+    "wof:lastmodified":1463435147,
+    "wof:name":"City Plumbing & Heating",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber",
+        "system",
+        "specialty",
+        "heating",
+        "mechanical",
+        "contractor",
+        "air conditioning"
+    ]
+},
+  "bbox": [
+    -79.977249,
+    39.609428,
+    -79.977249,
+    39.609428
+],
+  "geometry": {"coordinates":[-79.977249,39.609428],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823444287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.139,38.842258,-82.139,38.842258",
+    "geom:latitude":38.842258,
+    "geom:longitude":-82.139,
+    "iso:country":"US",
+    "sg:address":"303 Main St",
+    "sg:city":"Point Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 675 5282",
+    "sg:postcode":"25550",
+    "sg:province":"WV",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85983229,
+        102083675,
+        85824533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LJ64JSRbjNIC2SLMBYorL_38.842258_-82.139000@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434552,
+    "wof:geomhash":"dfaccae4b3528ae28da292539a876d28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "neighbourhood_id":85824533,
+            "region_id":85688485,
+            "venue_id":823444287
+        }
+    ],
+    "wof:id":823444287,
+    "wof:lastmodified":1463434552,
+    "wof:name":"Computer 4U",
+    "wof:parent_id":85824533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -82.139,
+    38.842258,
+    -82.139,
+    38.842258
+],
+  "geometry": {"coordinates":[-82.139,38.842258],"type":"Point"}
+}

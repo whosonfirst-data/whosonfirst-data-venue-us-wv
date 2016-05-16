@@ -1,0 +1,71 @@
+{
+  "id": 823375569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.09024,37.36578,-81.09024,37.36578",
+    "geom:latitude":37.36578,
+    "geom:longitude":-81.09024,
+    "iso:country":"US",
+    "sg:address":"701 Stafford Dr",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 3914",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jxNwZOuLjylat9T9EqGYI_37.365780_-81.090240@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431439,
+    "wof:geomhash":"8ee192a2f8e4ed3d7037efec7b1087aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823375569
+        }
+    ],
+    "wof:id":823375569,
+    "wof:lastmodified":1463431439,
+    "wof:name":"Princeton Rescue Squad",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -81.09024,
+    37.36578,
+    -81.09024,
+    37.36578
+],
+  "geometry": {"coordinates":[-81.09023999999999,37.36578],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823443721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.353134,38.798317,-81.353134,38.798317",
+    "geom:latitude":38.798317,
+    "geom:longitude":-81.353134,
+    "iso:country":"US",
+    "sg:address":"601 Market St",
+    "sg:city":"Spencer",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 927 4181",
+    "sg:postcode":"25276",
+    "sg:province":"WV",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731535,
+        102083399,
+        85868331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CtiQ8nSwqEkd6qO9WPWgX_38.798317_-81.353134@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434532,
+    "wof:geomhash":"0895f21c81959bd33906d76f6d22db0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083399,
+            "locality_id":101731535,
+            "neighbourhood_id":85868331,
+            "region_id":85688589,
+            "venue_id":823443721
+        }
+    ],
+    "wof:id":823443721,
+    "wof:lastmodified":1463434532,
+    "wof:name":"Spencer Housing Authority",
+    "wof:parent_id":85868331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [
+    -81.353134,
+    38.798317,
+    -81.353134,
+    38.798317
+],
+  "geometry": {"coordinates":[-81.353134,38.798317],"type":"Point"}
+}

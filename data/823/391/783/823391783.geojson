@@ -1,0 +1,73 @@
+{
+  "id": 823391783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.091288,37.369714,-81.091288,37.369714",
+    "geom:latitude":37.369714,
+    "geom:longitude":-81.091288,
+    "iso:country":"US",
+    "sg:address":"617 Mercer St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 0232",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Wmo1JI2FTiNuSEYHnHJHf_37.369714_-81.091288@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432159,
+    "wof:geomhash":"1148339bb1a94fb0fd6614d7dc595e90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823391783
+        }
+    ],
+    "wof:id":823391783,
+    "wof:lastmodified":1463432159,
+    "wof:name":"Blue Ridge Internal Medicine",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.091288,
+    37.369714,
+    -81.091288,
+    37.369714
+],
+  "geometry": {"coordinates":[-81.09128800000001,37.369714],"type":"Point"}
+}

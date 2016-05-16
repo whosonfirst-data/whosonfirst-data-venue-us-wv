@@ -1,0 +1,71 @@
+{
+  "id": 823445947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.970154,39.453414,-77.970154,39.453414",
+    "geom:latitude":39.453414,
+    "geom:longitude":-77.970154,
+    "iso:country":"US",
+    "sg:address":"501 S Raleigh St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 2047",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "rehabilitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tQato0GF4PdgeG1n64QMh_39.453414_-77.970154@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434638,
+    "wof:geomhash":"93923e464c4fafe7a585281a9bbf0c7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823445947
+        }
+    ],
+    "wof:id":823445947,
+    "wof:lastmodified":1463434638,
+    "wof:name":"Yano Rehabilitation Inc",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -77.970154,
+    39.453414,
+    -77.970154,
+    39.453414
+],
+  "geometry": {"coordinates":[-77.97015399999999,39.453414],"type":"Point"}
+}

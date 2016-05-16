@@ -1,0 +1,74 @@
+{
+  "id": 823401007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.169682,37.780588,-81.169682,37.780588",
+    "geom:latitude":37.780588,
+    "geom:longitude":-81.169682,
+    "iso:country":"US",
+    "sg:address":"1000 Johnstown Rd",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 255 7723",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "mental"
+    ],
+    "sg:website":"www.timberline-wv.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pyKOAAcV1vCP3Uj6bUrek_37.780588_-81.169682@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432630,
+    "wof:geomhash":"ddbd2d9724a55a97905a7334a66cca70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823401007
+        }
+    ],
+    "wof:id":823401007,
+    "wof:lastmodified":1463432630,
+    "wof:name":"Timberline Health Group",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -81.169682,
+    37.780588,
+    -81.169682,
+    37.780588
+],
+  "geometry": {"coordinates":[-81.16968199999999,37.780588],"type":"Point"}
+}

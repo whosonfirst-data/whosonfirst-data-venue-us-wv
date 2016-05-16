@@ -1,0 +1,73 @@
+{
+  "id": 823402571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.2502,37.259283,-81.2502,37.259283",
+    "geom:latitude":37.259283,
+    "geom:longitude":-81.2502,
+    "iso:country":"US",
+    "sg:address":"2507 Bluefield Ave",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 325 9379",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZDluJKLCznooghqOlNNRZ_37.259283_-81.250200@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432695,
+    "wof:geomhash":"f6b905e9cb6a5da6505ce0b29247ebde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823402571
+        }
+    ],
+    "wof:id":823402571,
+    "wof:lastmodified":1463432695,
+    "wof:name":"Salon La Mode",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -81.2502,
+    37.259283,
+    -81.2502,
+    37.259283
+],
+  "geometry": {"coordinates":[-81.25020000000001,37.259283],"type":"Point"}
+}

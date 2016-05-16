@@ -1,0 +1,71 @@
+{
+  "id": 823388291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.844491,38.923923,-79.844491,38.923923",
+    "geom:latitude":38.923923,
+    "geom:longitude":-79.844491,
+    "iso:country":"US",
+    "sg:address":"107 Randolph Ave",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 4121",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YVYOdhkWdsQXmVN3EMtAY_38.923923_-79.844491@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431984,
+    "wof:geomhash":"b443f4bc235b64bbf0bcdeb3ce948ee0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823388291
+        }
+    ],
+    "wof:id":823388291,
+    "wof:lastmodified":1463431984,
+    "wof:name":"Granny's Attic",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -79.844491,
+    38.923923,
+    -79.844491,
+    38.923923
+],
+  "geometry": {"coordinates":[-79.844491,38.923923],"type":"Point"}
+}

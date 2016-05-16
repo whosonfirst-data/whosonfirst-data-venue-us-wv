@@ -1,0 +1,81 @@
+{
+  "id": 823387979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.626775,38.346636,-81.626775,38.346636",
+    "geom:latitude":38.346636,
+    "geom:longitude":-81.626775,
+    "iso:country":"US",
+    "sg:address":"1201 Washington St E",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 388 6370",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "hospital",
+        "medical",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42oVc1uHkfWg2TN17k85Jo_38.346636_-81.626775@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431963,
+    "wof:geomhash":"f5c39afc4a65a7a94cba2d253ac26d4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823387979
+        }
+    ],
+    "wof:id":823387979,
+    "wof:lastmodified":1463431963,
+    "wof:name":"Cleveland Clinic Urologists",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "hospital",
+        "medical",
+        "general"
+    ]
+},
+  "bbox": [
+    -81.626775,
+    38.346636,
+    -81.626775,
+    38.346636
+],
+  "geometry": {"coordinates":[-81.62677499999999,38.346636],"type":"Point"}
+}

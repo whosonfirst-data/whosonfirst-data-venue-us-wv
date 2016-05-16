@@ -1,0 +1,74 @@
+{
+  "id": 823453121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.103623,38.052725,-81.103623,38.052725",
+    "geom:latitude":38.052725,
+    "geom:longitude":-81.103623,
+    "iso:country":"US",
+    "sg:address":"103 S Court St",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/new-haven/140764-gumbos/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 574 4704",
+    "sg:postcode":"25840",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "creole",
+        "cajun"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20KpiaTKmFQw441XxDtu4w_38.052725_-81.103623@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434935,
+    "wof:geomhash":"fff75713e0c910fe5e88e4ff1bfd202d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823453121
+        }
+    ],
+    "wof:id":823453121,
+    "wof:lastmodified":1463434935,
+    "wof:name":"Gumbo's",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "creole",
+        "cajun"
+    ]
+},
+  "bbox": [
+    -81.103623,
+    38.052725,
+    -81.103623,
+    38.052725
+],
+  "geometry": {"coordinates":[-81.103623,38.052725],"type":"Point"}
+}

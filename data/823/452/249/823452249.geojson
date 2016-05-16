@@ -1,0 +1,78 @@
+{
+  "id": 823452249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.200079,37.256131,-81.200079,37.256131",
+    "geom:latitude":37.256131,
+    "geom:longitude":-81.200079,
+    "iso:country":"US",
+    "sg:address":"3180 E Cumberland Rd",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/bramwell/139764-sicilias-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 325 7827",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_774dgZvTjiE5MseBy1p1D0_37.256131_-81.200079@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434900,
+    "wof:geomhash":"e7cae6c71cc4b6e734b23efa056b7711",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823452249
+        }
+    ],
+    "wof:id":823452249,
+    "wof:lastmodified":1463434900,
+    "wof:name":"Sicilia's Pizzeria",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -81.200079,
+    37.256131,
+    -81.200079,
+    37.256131
+],
+  "geometry": {"coordinates":[-81.200079,37.256131],"type":"Point"}
+}

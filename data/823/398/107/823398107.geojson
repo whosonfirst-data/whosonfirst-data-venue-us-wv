@@ -1,0 +1,73 @@
+{
+  "id": 823398107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.594269,38.358405,-81.594269,38.358405",
+    "geom:latitude":38.358405,
+    "geom:longitude":-81.594269,
+    "iso:country":"US",
+    "sg:address":"1260 Greenbrier St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 558 3597",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "correctional",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HlhyOlBHJiVWQmyCdLIlD_38.358405_-81.594269@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432493,
+    "wof:geomhash":"f29aefa932df6706d0fffd04f837ed84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823398107
+        }
+    ],
+    "wof:id":823398107,
+    "wof:lastmodified":1463432493,
+    "wof:name":"District Sc-40 42 43 44 Par",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "correctional",
+        "institution"
+    ]
+},
+  "bbox": [
+    -81.594269,
+    38.358405,
+    -81.594269,
+    38.358405
+],
+  "geometry": {"coordinates":[-81.594269,38.358405],"type":"Point"}
+}

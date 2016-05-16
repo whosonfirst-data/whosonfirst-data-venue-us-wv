@@ -1,0 +1,69 @@
+{
+  "id": 823377243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.103929,38.052829,-81.103929,38.052829",
+    "geom:latitude":38.052829,
+    "geom:longitude":-81.103929,
+    "iso:country":"US",
+    "sg:address":"123 N Court St",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 574 3096",
+    "sg:postcode":"25840",
+    "sg:province":"WV",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21ejoPeRaL50ypAFOY7n9j_38.052829_-81.103929@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431520,
+    "wof:geomhash":"57d65cc7d3870c9bff161fda5280e5d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823377243
+        }
+    ],
+    "wof:id":823377243,
+    "wof:lastmodified":1463431520,
+    "wof:name":"Virginia Inn Management Inc",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -81.103929,
+    38.052829,
+    -81.103929,
+    38.052829
+],
+  "geometry": {"coordinates":[-81.10392899999999,38.052829],"type":"Point"}
+}

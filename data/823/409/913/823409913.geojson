@@ -1,0 +1,71 @@
+{
+  "id": 823409913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.220899,37.257985,-81.220899,37.257985",
+    "geom:latitude":37.257985,
+    "geom:longitude":-81.220899,
+    "iso:country":"US",
+    "sg:address":"207 South St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 327 5744",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7H4XC2ZFs2GMs6SqVf2kEP_37.257985_-81.220899@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433016,
+    "wof:geomhash":"32c9aad9adaf355f9f80a87267ef6f2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823409913
+        }
+    ],
+    "wof:id":823409913,
+    "wof:lastmodified":1463433016,
+    "wof:name":"Pathways Psychological Ctr",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -81.220899,
+    37.257985,
+    -81.220899,
+    37.257985
+],
+  "geometry": {"coordinates":[-81.220899,37.257985],"type":"Point"}
+}

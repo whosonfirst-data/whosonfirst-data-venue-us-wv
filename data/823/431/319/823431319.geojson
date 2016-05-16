@@ -1,0 +1,71 @@
+{
+  "id": 823431319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.17778,39.448162,-80.17778,39.448162",
+    "geom:latitude":39.448162,
+    "geom:longitude":-80.17778,
+    "iso:country":"US",
+    "sg:address":"401 Kingmont Rd",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 2400",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85834381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WX0JP9PBX3t6qXZOXuEeO_39.448162_-80.177780@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433933,
+    "wof:geomhash":"916d6531c4fd4d392ec831e1117d2329",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85834381,
+            "region_id":85688589,
+            "venue_id":823431319
+        }
+    ],
+    "wof:id":823431319,
+    "wof:lastmodified":1463433933,
+    "wof:name":"Pleasant Valley City Office",
+    "wof:parent_id":85834381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -80.17778,
+    39.448162,
+    -80.17778,
+    39.448162
+],
+  "geometry": {"coordinates":[-80.17778,39.448162],"type":"Point"}
+}

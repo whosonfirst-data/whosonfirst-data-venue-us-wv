@@ -1,0 +1,71 @@
+{
+  "id": 823386281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.711496,38.365169,-81.711496,38.365169",
+    "geom:latitude":38.365169,
+    "geom:longitude":-81.711496,
+    "iso:country":"US",
+    "sg:address":"42 River Walk Mall",
+    "sg:city":"South Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 746 4441",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "doughnut"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Eouc8djpa9LOJI9JtawnE_38.365169_-81.711496@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431900,
+    "wof:geomhash":"9cc73fd71a0830e6236e0e7a5050c7de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823386281
+        }
+    ],
+    "wof:id":823386281,
+    "wof:lastmodified":1463431900,
+    "wof:name":"Krispy Kreme Doughnuts",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "doughnut"
+    ]
+},
+  "bbox": [
+    -81.711496,
+    38.365169,
+    -81.711496,
+    38.365169
+],
+  "geometry": {"coordinates":[-81.711496,38.365169],"type":"Point"}
+}

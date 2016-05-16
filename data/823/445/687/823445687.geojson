@@ -1,0 +1,73 @@
+{
+  "id": 823445687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.063298,37.374369,-81.063298,37.374369",
+    "geom:latitude":37.374369,
+    "geom:longitude":-81.063298,
+    "iso:country":"US",
+    "sg:address":"137 Bratton Ave",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 3080",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kmptPo1RbMy7eLAW29TZs_37.374369_-81.063298@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434622,
+    "wof:geomhash":"b4fe9b979cc91d942179814fcfd6e738",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823445687
+        }
+    ],
+    "wof:id":823445687,
+    "wof:lastmodified":1463434622,
+    "wof:name":"Pepperidge Apts",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -81.063298,
+    37.374369,
+    -81.063298,
+    37.374369
+],
+  "geometry": {"coordinates":[-81.063298,37.374369],"type":"Point"}
+}

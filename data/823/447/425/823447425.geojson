@@ -1,0 +1,71 @@
+{
+  "id": 823447425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.469135,39.043523,-80.469135,39.043523",
+    "geom:latitude":39.043523,
+    "geom:longitude":-80.469135,
+    "iso:country":"US",
+    "sg:address":"202 Bland St",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 269 1333",
+    "sg:postcode":"26452",
+    "sg:province":"WV",
+    "sg:tags":[
+        "feed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731403,
+        102083339,
+        85808257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LaHf9DhVQb7IMMOX91793_39.043523_-80.469135@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434709,
+    "wof:geomhash":"0d9f5f077d25157ca1288ff76360596a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083339,
+            "locality_id":101731403,
+            "neighbourhood_id":85808257,
+            "region_id":85688589,
+            "venue_id":823447425
+        }
+    ],
+    "wof:id":823447425,
+    "wof:lastmodified":1463434709,
+    "wof:name":"Foster Feed Co",
+    "wof:parent_id":85808257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feed"
+    ]
+},
+  "bbox": [
+    -80.469135,
+    39.043523,
+    -80.469135,
+    39.043523
+],
+  "geometry": {"coordinates":[-80.46913499999999,39.043523],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 823427531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.557188,38.299722,-81.557188,38.299722",
+    "geom:latitude":38.299722,
+    "geom:longitude":-81.557188,
+    "iso:country":"US",
+    "sg:address":"4112 Malden Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 3392",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2idmw1VjaZ5VqKVDX8GBej_38.299722_-81.557188@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433771,
+    "wof:geomhash":"586dd1cc5ad6f2ef44d3db9912a8f318",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823427531
+        }
+    ],
+    "wof:id":823427531,
+    "wof:lastmodified":1463433771,
+    "wof:name":"Fas-Chek 4",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.557188,
+    38.299722,
+    -81.557188,
+    38.299722
+],
+  "geometry": {"coordinates":[-81.557188,38.299722],"type":"Point"}
+}

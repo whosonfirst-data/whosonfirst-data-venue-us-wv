@@ -1,0 +1,71 @@
+{
+  "id": 823445713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.936897,39.603302,-80.936897,39.603302",
+    "geom:latitude":39.603302,
+    "geom:longitude":-80.936897,
+    "iso:country":"US",
+    "sg:address":"202 S 3rd Ave",
+    "sg:city":"Paden City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 337 8062",
+    "sg:postcode":"26159",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MQS92bdf2AdPKqSSi6zeq_39.603302_-80.936897@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434623,
+    "wof:geomhash":"97283eadc4d643343b0ae38362b5b85c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823445713
+        }
+    ],
+    "wof:id":823445713,
+    "wof:lastmodified":1463434623,
+    "wof:name":"Pats Hair Design",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -80.936897,
+    39.603302,
+    -80.936897,
+    39.603302
+],
+  "geometry": {"coordinates":[-80.936897,39.603302],"type":"Point"}
+}

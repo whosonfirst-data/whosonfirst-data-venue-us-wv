@@ -1,0 +1,73 @@
+{
+  "id": 823378511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.197048,37.767759,-81.197048,37.767759",
+    "geom:latitude":37.767759,
+    "geom:longitude":-81.197048,
+    "iso:country":"US",
+    "sg:address":"106 Pershing St",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 255 4200",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4d0c1ERNRnWcVY7YNM8NzQ_37.767759_-81.197048@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431577,
+    "wof:geomhash":"0de3c25836d4001b998ecef3f280f344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823378511
+        }
+    ],
+    "wof:id":823378511,
+    "wof:lastmodified":1463431577,
+    "wof:name":"AAA Taxi",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -81.197048,
+    37.767759,
+    -81.197048,
+    37.767759
+],
+  "geometry": {"coordinates":[-81.197048,37.767759],"type":"Point"}
+}

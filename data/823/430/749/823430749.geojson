@@ -1,0 +1,71 @@
+{
+  "id": 823430749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.220206,37.259791,-81.220206,37.259791",
+    "geom:latitude":37.259791,
+    "geom:longitude":-81.220206,
+    "iso:country":"US",
+    "sg:address":"116 North St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 325 7186",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ASs4vqhB4rs1yuu6EmhSg_37.259791_-81.220206@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433910,
+    "wof:geomhash":"3014b77daf5b0c372634755bbd107a5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823430749
+        }
+    ],
+    "wof:id":823430749,
+    "wof:lastmodified":1463433910,
+    "wof:name":"Robert R Stevens DDS",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -81.220206,
+    37.259791,
+    -81.220206,
+    37.259791
+],
+  "geometry": {"coordinates":[-81.220206,37.259791],"type":"Point"}
+}

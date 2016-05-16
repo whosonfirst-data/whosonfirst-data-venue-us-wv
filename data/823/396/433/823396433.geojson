@@ -1,0 +1,71 @@
+{
+  "id": 823396433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.862527,39.643068,-80.862527,39.643068",
+    "geom:latitude":39.643068,
+    "geom:longitude":-80.862527,
+    "iso:country":"US",
+    "sg:address":"437 Maple Ave",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 3700",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YQQgCTo5oEpuSjdDZ772R_39.643068_-80.862527@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432389,
+    "wof:geomhash":"9cfb078e5b8902a87b0dc4b6bcbf0bfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823396433
+        }
+    ],
+    "wof:id":823396433,
+    "wof:lastmodified":1463432389,
+    "wof:name":"Auto Magic",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -80.862527,
+    39.643068,
+    -80.862527,
+    39.643068
+],
+  "geometry": {"coordinates":[-80.862527,39.643068],"type":"Point"}
+}

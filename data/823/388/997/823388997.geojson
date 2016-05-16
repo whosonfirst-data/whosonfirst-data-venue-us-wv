@@ -1,0 +1,72 @@
+{
+  "id": 823388997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.164611,37.895155,-81.164611,37.895155",
+    "geom:latitude":37.895155,
+    "geom:longitude":-81.164611,
+    "iso:country":"US",
+    "sg:address":"428 Main St",
+    "sg:city":"Mt Hope",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 877 2488",
+    "sg:postcode":"25880",
+    "sg:province":"WV",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.ht9.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731505,
+        102083359,
+        85852821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kDZ5DbHX7L2UC7WTZKJSU_37.895155_-81.164611@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432031,
+    "wof:geomhash":"d3dfbde6d553f7b21995cb6100f4220c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "locality_id":101731505,
+            "neighbourhood_id":85852821,
+            "region_id":85688589,
+            "venue_id":823388997
+        }
+    ],
+    "wof:id":823388997,
+    "wof:lastmodified":1463432031,
+    "wof:name":"Mt Hope Fire Dept",
+    "wof:parent_id":85852821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -81.164611,
+    37.895155,
+    -81.164611,
+    37.895155
+],
+  "geometry": {"coordinates":[-81.16461099999999,37.895155],"type":"Point"}
+}

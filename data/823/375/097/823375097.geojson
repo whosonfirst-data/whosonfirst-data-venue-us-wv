@@ -1,0 +1,68 @@
+{
+  "id": 823375097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.63325,38.350908,-81.63325,38.350908",
+    "geom:latitude":38.350908,
+    "geom:longitude":-81.63325,
+    "iso:country":"US",
+    "sg:address":"706 Lee St E",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 4178",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21vvPmTILJzztsCOWTevFi_38.350908_-81.633250@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431416,
+    "wof:geomhash":"f70f0bd8cadb05f5f9731e4a96aee3ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823375097
+        }
+    ],
+    "wof:id":823375097,
+    "wof:lastmodified":1463431416,
+    "wof:name":"Medicine Shoppe Pharmacy",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.63325,
+    38.350908,
+    -81.63325,
+    38.350908
+],
+  "geometry": {"coordinates":[-81.63325,38.350908],"type":"Point"}
+}

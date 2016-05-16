@@ -1,0 +1,78 @@
+{
+  "id": 823452711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.257583,38.424967,-82.257583,38.424967",
+    "geom:latitude":38.424967,
+    "geom:longitude":-82.257583,
+    "iso:country":"US",
+    "sg:address":"25 Nichols Dr",
+    "sg:city":"Barboursville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/barboursville/139746-sicilias-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 733 3956",
+    "sg:postcode":"25504",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85816671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RmDMCyPmjTPG5VjPOHFWn_38.424967_-82.257583@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434917,
+    "wof:geomhash":"2d9d8bf0c62a46576eaccfd934f3b45b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85816671,
+            "region_id":85688589,
+            "venue_id":823452711
+        }
+    ],
+    "wof:id":823452711,
+    "wof:lastmodified":1463434917,
+    "wof:name":"Sicilia's Pizzeria",
+    "wof:parent_id":85816671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -82.257583,
+    38.424967,
+    -82.257583,
+    38.424967
+],
+  "geometry": {"coordinates":[-82.257583,38.424967],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823395583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.986601,39.441344,-77.986601,39.441344",
+    "geom:latitude":39.441344,
+    "geom:longitude":-77.986601,
+    "iso:country":"US",
+    "sg:address":"229 Bernice Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 267 7392",
+    "sg:postcode":"25405",
+    "sg:province":"WV",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1P2iKgZqYjOrTu5YQIpmra_39.441344_-77.986601@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432356,
+    "wof:geomhash":"70d02ff3ed504e57a88f2513aebd60c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823395583
+        }
+    ],
+    "wof:id":823395583,
+    "wof:lastmodified":1463432356,
+    "wof:name":"Ray L Sencindiver",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -77.986601,
+    39.441344,
+    -77.986601,
+    39.441344
+],
+  "geometry": {"coordinates":[-77.98660099999999,39.441344],"type":"Point"}
+}

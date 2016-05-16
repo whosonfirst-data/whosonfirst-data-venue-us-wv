@@ -1,0 +1,73 @@
+{
+  "id": 823433743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.631441,38.545952,-81.631441,38.545952",
+    "geom:latitude":38.545952,
+    "geom:longitude":-81.631441,
+    "iso:country":"US",
+    "sg:address":"1906 Benny St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 414 0125",
+    "sg:postcode":"25320",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home",
+        "schooling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QO831q79TypVt1pezwoCI_38.545952_-81.631441@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434051,
+    "wof:geomhash":"c01f4463b6347964d3497478a35f1473",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823433743
+        }
+    ],
+    "wof:id":823433743,
+    "wof:lastmodified":1463434051,
+    "wof:name":"Christian Home Educators Of WV",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "schooling"
+    ]
+},
+  "bbox": [
+    -81.631441,
+    38.545952,
+    -81.631441,
+    38.545952
+],
+  "geometry": {"coordinates":[-81.631441,38.545952],"type":"Point"}
+}

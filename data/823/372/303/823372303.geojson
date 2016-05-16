@@ -1,0 +1,71 @@
+{
+  "id": 823372303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.563497,38.3033,-81.563497,38.3033",
+    "geom:latitude":38.3033,
+    "geom:longitude":-81.563497,
+    "iso:country":"US",
+    "sg:address":"6545 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bowling",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 1156",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "lane"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HWmpKQ2DfMSJ63ZOQXRty_38.303300_-81.563497@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431296,
+    "wof:geomhash":"275c8eb92e96b4dbad3c41162ac23f6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823372303
+        }
+    ],
+    "wof:id":823372303,
+    "wof:lastmodified":1463431296,
+    "wof:name":"Galaxy Lanes",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lane"
+    ]
+},
+  "bbox": [
+    -81.563497,
+    38.3033,
+    -81.563497,
+    38.3033
+],
+  "geometry": {"coordinates":[-81.563497,38.3033],"type":"Point"}
+}

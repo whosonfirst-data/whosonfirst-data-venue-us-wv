@@ -1,0 +1,73 @@
+{
+  "id": 823427195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.912048,39.670111,-79.912048,39.670111",
+    "geom:latitude":39.670111,
+    "geom:longitude":-79.912048,
+    "iso:country":"US",
+    "sg:address":"1221 Canyon Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 1410",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731747,
+        102082587,
+        85819247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wVYIWY6IHKN1XN5TbitPf_39.670111_-79.912048@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433760,
+    "wof:geomhash":"cce1696cd34ac4e20da4d5f768f4406e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85819247,
+            "region_id":85688589,
+            "venue_id":823427195
+        }
+    ],
+    "wof:id":823427195,
+    "wof:lastmodified":1463433760,
+    "wof:name":"Morgantown Self Storage",
+    "wof:parent_id":85819247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -79.912048,
+    39.670111,
+    -79.912048,
+    39.670111
+],
+  "geometry": {"coordinates":[-79.912048,39.670111],"type":"Point"}
+}

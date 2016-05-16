@@ -1,0 +1,71 @@
+{
+  "id": 823368369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.640694,38.376088,-81.640694,38.376088",
+    "geom:latitude":38.376088,
+    "geom:longitude":-81.640694,
+    "iso:country":"US",
+    "sg:address":"374 Baker Ln",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 4086",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HjF6XyAFdMFpTJ7dSy6oQ_38.376088_-81.640694@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431111,
+    "wof:geomhash":"1347c6bc4919c2deacdb17b44bcd4cc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823368369
+        }
+    ],
+    "wof:id":823368369,
+    "wof:lastmodified":1463431111,
+    "wof:name":"Talmage Mallory",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -81.640694,
+    38.376088,
+    -81.640694,
+    38.376088
+],
+  "geometry": {"coordinates":[-81.640694,38.376088],"type":"Point"}
+}

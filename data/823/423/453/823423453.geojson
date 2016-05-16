@@ -1,0 +1,71 @@
+{
+  "id": 823423453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.040336,39.152555,-80.040336,39.152555",
+    "geom:latitude":39.152555,
+    "geom:longitude":-80.040336,
+    "iso:country":"US",
+    "sg:address":"109 N Main St",
+    "sg:city":"Philippi",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 457 4233",
+    "sg:postcode":"26416",
+    "sg:province":"WV",
+    "sg:tags":[
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45ddcuZOFRc76e0BqxnGSQ_39.152555_-80.040336@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433599,
+    "wof:geomhash":"2ea045f239d4391b868d47b9c2223a1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823423453
+        }
+    ],
+    "wof:id":823423453,
+    "wof:lastmodified":1463433599,
+    "wof:name":"Maces Pharmacy Inc",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug"
+    ]
+},
+  "bbox": [
+    -80.040336,
+    39.152555,
+    -80.040336,
+    39.152555
+],
+  "geometry": {"coordinates":[-80.040336,39.152555],"type":"Point"}
+}

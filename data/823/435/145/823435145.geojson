@@ -1,0 +1,73 @@
+{
+  "id": 823435145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.554741,39.249847,-81.554741,39.249847",
+    "geom:latitude":39.249847,
+    "geom:longitude":-81.554741,
+    "iso:country":"US",
+    "sg:address":"930 Division St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 485 0162",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "national",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85829881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NDJOIfMKVkNb7Zp6iIk7g_39.249847_-81.554741@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434133,
+    "wof:geomhash":"cf106789f1da5d0d2302249493d97eb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85829881,
+            "region_id":85688589,
+            "venue_id":823435145
+        }
+    ],
+    "wof:id":823435145,
+    "wof:lastmodified":1463434133,
+    "wof:name":"Huntington National Bank",
+    "wof:parent_id":85829881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -81.554741,
+    39.249847,
+    -81.554741,
+    39.249847
+],
+  "geometry": {"coordinates":[-81.55474100000001,39.249847],"type":"Point"}
+}

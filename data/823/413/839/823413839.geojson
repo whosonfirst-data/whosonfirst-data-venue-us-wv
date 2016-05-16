@@ -1,0 +1,71 @@
+{
+  "id": 823413839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.963125,39.623048,-79.963125,39.623048",
+    "geom:latitude":39.623048,
+    "geom:longitude":-79.963125,
+    "iso:country":"US",
+    "sg:address":"128 Goodwin St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 594 9302",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VL8M4P1SEtJhTOQToiFKy_39.623048_-79.963125@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433177,
+    "wof:geomhash":"551a0d960c8f9fe607650d05aa5b7a76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823413839
+        }
+    ],
+    "wof:id":823413839,
+    "wof:lastmodified":1463433177,
+    "wof:name":"Black Dog Trucking",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -79.963125,
+    39.623048,
+    -79.963125,
+    39.623048
+],
+  "geometry": {"coordinates":[-79.96312500000001,39.623048],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 823457747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.89154,39.607644,-79.89154,39.607644",
+    "geom:latitude":39.607644,
+    "geom:longitude":-79.89154,
+    "iso:country":"US",
+    "sg:address":"3812 Earl L Core Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 8074",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732105,
+        102082587,
+        85807831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LZdD0BQeC1Jz1oT8Y7DVA_39.607644_-79.891540@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435179,
+    "wof:geomhash":"a75d0385dc94b226a0b7c1e82c803f49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101732105,
+            "neighbourhood_id":85807831,
+            "region_id":85688589,
+            "venue_id":823457747
+        }
+    ],
+    "wof:id":823457747,
+    "wof:lastmodified":1463435179,
+    "wof:name":"Kit Kat Trucking",
+    "wof:parent_id":85807831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -79.89154,
+    39.607644,
+    -79.89154,
+    39.607644
+],
+  "geometry": {"coordinates":[-79.89154000000001,39.607644],"type":"Point"}
+}

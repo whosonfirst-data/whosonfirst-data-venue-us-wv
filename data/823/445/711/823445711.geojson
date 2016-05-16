@@ -1,0 +1,75 @@
+{
+  "id": 823445711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.805313,38.384673,-81.805313,38.384673",
+    "geom:latitude":38.384673,
+    "geom:longitude":-81.805313,
+    "iso:country":"US",
+    "sg:address":"2371 Maccorkle Ave",
+    "sg:city":"St Albans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 727 9665",
+    "sg:postcode":"25177",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731773,
+        102083335,
+        85840775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5e1xJAa5Y920Ayz0iYr383_38.384673_-81.805313@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434623,
+    "wof:geomhash":"6661223832cc658c0aef376dd9d208c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731773,
+            "neighbourhood_id":85840775,
+            "region_id":85688589,
+            "venue_id":823445711
+        }
+    ],
+    "wof:id":823445711,
+    "wof:lastmodified":1463434623,
+    "wof:name":"Tune Up America",
+    "wof:parent_id":85840775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -81.805313,
+    38.384673,
+    -81.805313,
+    38.384673
+],
+  "geometry": {"coordinates":[-81.805313,38.384673],"type":"Point"}
+}

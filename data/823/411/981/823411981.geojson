@@ -1,0 +1,71 @@
+{
+  "id": 823411981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.465858,39.039534,-80.465858,39.039534",
+    "geom:latitude":39.039534,
+    "geom:longitude":-80.465858,
+    "iso:country":"US",
+    "sg:address":"120 E 3rd St",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 269 2428",
+    "sg:postcode":"26452",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731403,
+        102083339,
+        85808257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PokPQSi3pAjAhyJm4KMxu_39.039534_-80.465858@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433103,
+    "wof:geomhash":"f5fa69fdb8749f818f29bb98b5da5d0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083339,
+            "locality_id":101731403,
+            "neighbourhood_id":85808257,
+            "region_id":85688589,
+            "venue_id":823411981
+        }
+    ],
+    "wof:id":823411981,
+    "wof:lastmodified":1463433103,
+    "wof:name":"St Matthew United Methodist",
+    "wof:parent_id":85808257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -80.465858,
+    39.039534,
+    -80.465858,
+    39.039534
+],
+  "geometry": {"coordinates":[-80.465858,39.039534],"type":"Point"}
+}

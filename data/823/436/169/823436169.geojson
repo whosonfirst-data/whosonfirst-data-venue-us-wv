@@ -1,0 +1,73 @@
+{
+  "id": 823436169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.003173,39.344886,-80.003173,39.344886",
+    "geom:latitude":39.344886,
+    "geom:longitude":-80.003173,
+    "iso:country":"US",
+    "sg:address":"7 Harman Ave",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 265 1444",
+    "sg:postcode":"26354",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731717,
+        102083351,
+        85849697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GytMFxH2UODm2ZrbAVFCk_39.344886_-80.003173@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434181,
+    "wof:geomhash":"4c121cd70c0aee33e3677f4fd7b02c93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083351,
+            "locality_id":101731717,
+            "neighbourhood_id":85849697,
+            "region_id":85688589,
+            "venue_id":823436169
+        }
+    ],
+    "wof:id":823436169,
+    "wof:lastmodified":1463434181,
+    "wof:name":"Center For Family Medicine",
+    "wof:parent_id":85849697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -80.003173,
+    39.344886,
+    -80.003173,
+    39.344886
+],
+  "geometry": {"coordinates":[-80.003173,39.344886],"type":"Point"}
+}

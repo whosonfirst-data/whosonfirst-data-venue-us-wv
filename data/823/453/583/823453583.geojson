@@ -1,0 +1,74 @@
+{
+  "id": 823453583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.003833,39.651535,-80.003833,39.651535",
+    "geom:latitude":39.651535,
+    "geom:longitude":-80.003833,
+    "iso:country":"US",
+    "sg:address":"4081 University Town Centre Dr",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/western/65631-cicis-pizza-buffet/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 8399",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731749,
+        102082587,
+        85807277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2N3BTTwggDfNlNrUrWvExI_39.651535_-80.003833@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434953,
+    "wof:geomhash":"2ce373fbe92c7e0ffbe70dab74c09845",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731749,
+            "neighbourhood_id":85807277,
+            "region_id":85688589,
+            "venue_id":823453583
+        }
+    ],
+    "wof:id":823453583,
+    "wof:lastmodified":1463434953,
+    "wof:name":"CiCi's Pizza Buffet",
+    "wof:parent_id":85807277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -80.003833,
+    39.651535,
+    -80.003833,
+    39.651535
+],
+  "geometry": {"coordinates":[-80.003833,39.651535],"type":"Point"}
+}

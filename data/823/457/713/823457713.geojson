@@ -1,0 +1,79 @@
+{
+  "id": 823457713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.840052,39.681101,-79.840052,39.681101",
+    "geom:latitude":39.681101,
+    "geom:longitude":-79.840052,
+    "iso:country":"US",
+    "sg:address":"447 Fairchance Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 594 3735",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732105,
+        102082587,
+        85807831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0U8mF8r4ZI7mo3ulBiRUzb_39.681101_-79.840052@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435177,
+    "wof:geomhash":"a7e7cd4d1c87e68bd89d4468a77864f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101732105,
+            "neighbourhood_id":85807831,
+            "region_id":85688589,
+            "venue_id":823457713
+        }
+    ],
+    "wof:id":823457713,
+    "wof:lastmodified":1463435177,
+    "wof:name":"Independent Auto Body",
+    "wof:parent_id":85807831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [
+    -79.840052,
+    39.681101,
+    -79.840052,
+    39.681101
+],
+  "geometry": {"coordinates":[-79.840052,39.681101],"type":"Point"}
+}

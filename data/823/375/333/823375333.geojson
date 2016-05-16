@@ -1,0 +1,71 @@
+{
+  "id": 823375333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.142662,39.494113,-80.142662,39.494113",
+    "geom:latitude":39.494113,
+    "geom:longitude":-80.142662,
+    "iso:country":"US",
+    "sg:address":"536 Pennsylvania Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 5045",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Qgtl1Lkd5Jwl9cbJGuhGf_39.494113_-80.142662@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431431,
+    "wof:geomhash":"345a57b359052425a7c28def98d3b155",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823375333
+        }
+    ],
+    "wof:id":823375333,
+    "wof:lastmodified":1463431431,
+    "wof:name":"Rich Oil",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -80.142662,
+    39.494113,
+    -80.142662,
+    39.494113
+],
+  "geometry": {"coordinates":[-80.142662,39.494113],"type":"Point"}
+}

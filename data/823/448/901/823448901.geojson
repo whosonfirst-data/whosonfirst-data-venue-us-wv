@@ -1,0 +1,73 @@
+{
+  "id": 823448901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.004966,39.675956,-80.004966,39.675956",
+    "geom:latitude":39.675956,
+    "geom:longitude":-80.004966,
+    "iso:country":"US",
+    "sg:address":"823 Bethel Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 598 7595",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731749,
+        102082587,
+        85807277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NuNyBug3FIz1aTWhmNqfj_39.675956_-80.004966@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434778,
+    "wof:geomhash":"ca71ec97b5219f361df5137b4614405e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731749,
+            "neighbourhood_id":85807277,
+            "region_id":85688589,
+            "venue_id":823448901
+        }
+    ],
+    "wof:id":823448901,
+    "wof:lastmodified":1463434778,
+    "wof:name":"Miller Industries",
+    "wof:parent_id":85807277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -80.004966,
+    39.675956,
+    -80.004966,
+    39.675956
+],
+  "geometry": {"coordinates":[-80.004966,39.675956],"type":"Point"}
+}

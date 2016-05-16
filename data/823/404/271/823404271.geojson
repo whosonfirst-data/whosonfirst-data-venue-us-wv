@@ -1,0 +1,71 @@
+{
+  "id": 823404271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.262849,39.292826,-80.262849,39.292826",
+    "geom:latitude":39.292826,
+    "geom:longitude":-80.262849,
+    "iso:country":"US",
+    "sg:address":"656 Deerfield Dr",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 2515",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AppqXxXRZW0qiQPDGJi9o_39.292826_-80.262849@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432773,
+    "wof:geomhash":"0cc15427d2426e35adb30008ae844e1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823404271
+        }
+    ],
+    "wof:id":823404271,
+    "wof:lastmodified":1463432773,
+    "wof:name":"Charles G Railey Co",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -80.262849,
+    39.292826,
+    -80.262849,
+    39.292826
+],
+  "geometry": {"coordinates":[-80.262849,39.292826],"type":"Point"}
+}

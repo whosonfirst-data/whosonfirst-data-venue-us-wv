@@ -1,0 +1,88 @@
+{
+  "id": 823446845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.567494,38.245835,-81.567494,38.245835",
+    "geom:latitude":38.245835,
+    "geom:longitude":-81.567494,
+    "iso:country":"US",
+    "sg:address":"9305 Maccorkle Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 2213",
+    "sg:postcode":"25315",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general",
+        "band",
+        "video",
+        "merchandise",
+        "tape",
+        "rental",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MKdhdlf42qCxfU8zikHvP_38.245835_-81.567494@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434685,
+    "wof:geomhash":"bfc19e8d564620d47abd24525ccc6979",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823446845
+        }
+    ],
+    "wof:id":823446845,
+    "wof:lastmodified":1463434685,
+    "wof:name":"Marmet Bargain Center",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "band",
+        "video",
+        "merchandise",
+        "tape",
+        "rental",
+        "radio"
+    ]
+},
+  "bbox": [
+    -81.567494,
+    38.245835,
+    -81.567494,
+    38.245835
+],
+  "geometry": {"coordinates":[-81.567494,38.245835],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 823406695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.956926,39.630171,-79.956926,39.630171",
+    "geom:latitude":39.630171,
+    "geom:longitude":-79.956926,
+    "iso:country":"US",
+    "sg:address":"140 Walnut St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 3801",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "county",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_375cqEqo6enJcUqaMxYj9V_39.630171_-79.956926@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432887,
+    "wof:geomhash":"a74d5d300424405b023ffc0cb7c0a8af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851489,
+            "region_id":85688589,
+            "venue_id":823406695
+        }
+    ],
+    "wof:id":823406695,
+    "wof:lastmodified":1463432887,
+    "wof:name":"Monongalia County Solid Waste",
+    "wof:parent_id":85851489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "program"
+    ]
+},
+  "bbox": [
+    -79.956926,
+    39.630171,
+    -79.956926,
+    39.630171
+],
+  "geometry": {"coordinates":[-79.956926,39.630171],"type":"Point"}
+}

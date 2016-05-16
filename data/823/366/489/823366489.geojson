@@ -1,0 +1,73 @@
+{
+  "id": 823366489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.208693,37.790159,-81.208693,37.790159",
+    "geom:latitude":37.790159,
+    "geom:longitude":-81.208693,
+    "iso:country":"US",
+    "sg:address":"1836 Harper Rd",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 250 0200",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23yROW9AlnqcfCf7tYJwZS_37.790159_-81.208693@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431038,
+    "wof:geomhash":"25652a9271bd24d099237f91ebabdb0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823366489
+        }
+    ],
+    "wof:id":823366489,
+    "wof:lastmodified":1463431038,
+    "wof:name":"Raleigh Cardiology Clinic",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -81.208693,
+    37.790159,
+    -81.208693,
+    37.790159
+],
+  "geometry": {"coordinates":[-81.208693,37.790159],"type":"Point"}
+}

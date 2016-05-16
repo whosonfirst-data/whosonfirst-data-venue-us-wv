@@ -1,0 +1,71 @@
+{
+  "id": 823376779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.636288,40.608538,-80.636288,40.608538",
+    "geom:latitude":40.608538,
+    "geom:longitude":-80.636288,
+    "iso:country":"US",
+    "sg:address":"2875 Congo Rd",
+    "sg:city":"Newell",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 5530",
+    "sg:postcode":"26050",
+    "sg:province":"WV",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7a4JbFKdPBpKFcdctH1OVm_40.608538_-80.636288@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431497,
+    "wof:geomhash":"ae9addbf18419d29abda47979469b095",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823376779
+        }
+    ],
+    "wof:id":823376779,
+    "wof:lastmodified":1463431497,
+    "wof:name":"Quaker State Inc",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -80.636288,
+    40.608538,
+    -80.636288,
+    40.608538
+],
+  "geometry": {"coordinates":[-80.63628799999999,40.608538],"type":"Point"}
+}

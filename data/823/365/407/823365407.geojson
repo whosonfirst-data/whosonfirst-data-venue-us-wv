@@ -1,0 +1,77 @@
+{
+  "id": 823365407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.165207,37.778774,-81.165207,37.778774",
+    "geom:latitude":37.778774,
+    "geom:longitude":-81.165207,
+    "iso:country":"US",
+    "sg:address":"361 S Eisenhower Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 929 6024",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_025saRqdXEY45cpbtBPINI_37.778774_-81.165207@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463430984,
+    "wof:geomhash":"40a10d8bf1e2303fa384a571c4b9ee02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823365407
+        }
+    ],
+    "wof:id":823365407,
+    "wof:lastmodified":1463430984,
+    "wof:name":"Jones Boyz Kustom Paint",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -81.165207,
+    37.778774,
+    -81.165207,
+    37.778774
+],
+  "geometry": {"coordinates":[-81.165207,37.778774],"type":"Point"}
+}

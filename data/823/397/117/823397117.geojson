@@ -1,0 +1,73 @@
+{
+  "id": 823397117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.96336,39.665927,-79.96336,39.665927",
+    "geom:latitude":39.665927,
+    "geom:longitude":-79.96336,
+    "iso:country":"US",
+    "sg:address":"108 Wedgewood Dr",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 6376",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "personal",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36n9TuuVUynfBJ5njHjRLW_39.665927_-79.963360@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432436,
+    "wof:geomhash":"b2b9ff3d61dde4157c0f91670f6775e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823397117
+        }
+    ],
+    "wof:id":823397117,
+    "wof:lastmodified":1463432436,
+    "wof:name":"Barrington North Apartments",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "personal",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -79.96336,
+    39.665927,
+    -79.96336,
+    39.665927
+],
+  "geometry": {"coordinates":[-79.96335999999999,39.665927],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823384577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.339351,39.276482,-80.339351,39.276482",
+    "geom:latitude":39.276482,
+    "geom:longitude":-80.339351,
+    "iso:country":"US",
+    "sg:address":"203 Hickman St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 622 2988",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "household",
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DCBNkLWYgZGZd3zbhp8IV_39.276482_-80.339351@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431835,
+    "wof:geomhash":"225156b504b0b31a58b9de1c2ec2c70e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823384577
+        }
+    ],
+    "wof:id":823384577,
+    "wof:lastmodified":1463431835,
+    "wof:name":"Pinion's Appliance Repair Svc",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "household",
+        "appliance"
+    ]
+},
+  "bbox": [
+    -80.339351,
+    39.276482,
+    -80.339351,
+    39.276482
+],
+  "geometry": {"coordinates":[-80.33935099999999,39.276482],"type":"Point"}
+}

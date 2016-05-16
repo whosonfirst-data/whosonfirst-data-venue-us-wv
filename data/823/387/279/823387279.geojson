@@ -1,0 +1,71 @@
+{
+  "id": 823387279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.660238,38.479502,-81.660238,38.479502",
+    "geom:latitude":38.479502,
+    "geom:longitude":-81.660238,
+    "iso:country":"US",
+    "sg:address":"1801 Oakwood Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 984 9040",
+    "sg:postcode":"25320",
+    "sg:province":"WV",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WWyF7oIa1ULwrn3KRuKhP_38.479502_-81.660238@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431939,
+    "wof:geomhash":"04a8a9e6f4acc444c88dcc11c04fd087",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823387279
+        }
+    ],
+    "wof:id":823387279,
+    "wof:lastmodified":1463431939,
+    "wof:name":"Moss Tree Svc",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -81.660238,
+    38.479502,
+    -81.660238,
+    38.479502
+],
+  "geometry": {"coordinates":[-81.66023800000001,38.479502],"type":"Point"}
+}

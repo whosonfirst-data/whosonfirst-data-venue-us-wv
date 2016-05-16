@@ -1,0 +1,71 @@
+{
+  "id": 823385077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.741924,38.360623,-81.741924,38.360623",
+    "geom:latitude":38.360623,
+    "geom:longitude":-81.741924,
+    "iso:country":"US",
+    "sg:address":"1321 Dunbar Ave",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 766 9830",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mKbtNpNc0SCbZVFBYHXJc_38.360623_-81.741924@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431853,
+    "wof:geomhash":"701556dcb043e7a0177bdb5ff9e86cc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823385077
+        }
+    ],
+    "wof:id":823385077,
+    "wof:lastmodified":1463431853,
+    "wof:name":"Kelly Home Care Svc",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -81.741924,
+    38.360623,
+    -81.741924,
+    38.360623
+],
+  "geometry": {"coordinates":[-81.741924,38.360623],"type":"Point"}
+}

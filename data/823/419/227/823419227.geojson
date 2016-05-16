@@ -1,0 +1,71 @@
+{
+  "id": 823419227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.396609,39.263269,-80.396609,39.263269",
+    "geom:latitude":39.263269,
+    "geom:longitude":-80.396609,
+    "iso:country":"US",
+    "sg:address":"801 Davisson Run Rd",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 624 6500",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85810773,
+        102082619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12wUpSoNx8KBf3bNLTVH9f_39.263269_-80.396609@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433434,
+    "wof:geomhash":"893453ec382a48be45b65381fe2b2de8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "neighbourhood_id":85810773,
+            "region_id":85688589,
+            "venue_id":823419227
+        }
+    ],
+    "wof:id":823419227,
+    "wof:lastmodified":1463433434,
+    "wof:name":"Clarksburg Continuous Care Ctr",
+    "wof:parent_id":85810773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -80.396609,
+    39.263269,
+    -80.396609,
+    39.263269
+],
+  "geometry": {"coordinates":[-80.396609,39.263269],"type":"Point"}
+}

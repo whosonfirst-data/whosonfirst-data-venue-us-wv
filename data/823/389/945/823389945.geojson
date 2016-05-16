@@ -1,0 +1,69 @@
+{
+  "id": 823389945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.107099,39.614544,-80.107099,39.614544",
+    "geom:latitude":39.614544,
+    "geom:longitude":-80.107099,
+    "iso:country":"US",
+    "sg:address":"1229 Stewart Run Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 0313",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818601,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EpICYzPo8JLj3UWWgKkbF_39.614544_-80.107099@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432075,
+    "wof:geomhash":"5c25eb645e3eb4e54e46b7c05cffc4da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85818601,
+            "region_id":85688589,
+            "venue_id":823389945
+        }
+    ],
+    "wof:id":823389945,
+    "wof:lastmodified":1463432075,
+    "wof:name":"Quality Plumbing & Maintanance",
+    "wof:parent_id":85818601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.107099,
+    39.614544,
+    -80.107099,
+    39.614544
+],
+  "geometry": {"coordinates":[-80.10709900000001,39.614544],"type":"Point"}
+}

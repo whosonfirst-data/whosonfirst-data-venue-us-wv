@@ -1,0 +1,71 @@
+{
+  "id": 823431167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.578603,38.351549,-81.578603,38.351549",
+    "geom:latitude":38.351549,
+    "geom:longitude":-81.578603,
+    "iso:country":"US",
+    "sg:address":"111 Falls Run Rd",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 346 4673",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CWE32xe0OTez3W3L0Zld5_38.351549_-81.578603@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433926,
+    "wof:geomhash":"10475db74551697b42b83ec83e458284",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823431167
+        }
+    ],
+    "wof:id":823431167,
+    "wof:lastmodified":1463433926,
+    "wof:name":"Erlewine Construction",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.578603,
+    38.351549,
+    -81.578603,
+    38.351549
+],
+  "geometry": {"coordinates":[-81.578603,38.351549],"type":"Point"}
+}

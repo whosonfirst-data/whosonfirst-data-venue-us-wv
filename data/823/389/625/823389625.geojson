@@ -1,0 +1,71 @@
+{
+  "id": 823389625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.158509,39.473096,-80.158509,39.473096",
+    "geom:latitude":39.473096,
+    "geom:longitude":-80.158509,
+    "iso:country":"US",
+    "sg:address":"938 Pine Hill Dr",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 3139",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qVykO9totOp8Mofo4gvWr_39.473096_-80.158509@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432058,
+    "wof:geomhash":"8fda68f9df461e5dc294b1ef4a13522b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823389625
+        }
+    ],
+    "wof:id":823389625,
+    "wof:lastmodified":1463432058,
+    "wof:name":"David E Jasper",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -80.158509,
+    39.473096,
+    -80.158509,
+    39.473096
+],
+  "geometry": {"coordinates":[-80.158509,39.473096],"type":"Point"}
+}

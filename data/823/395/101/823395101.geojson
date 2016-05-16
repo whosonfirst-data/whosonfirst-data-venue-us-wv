@@ -1,0 +1,73 @@
+{
+  "id": 823395101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.713092,38.354729,-81.713092,38.354729",
+    "geom:latitude":38.354729,
+    "geom:longitude":-81.713092,
+    "iso:country":"US",
+    "sg:address":"4200 Kanawha Tpke",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 4200",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75U2fOg9k3gfTP2PpDCFRs_38.354729_-81.713092@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432333,
+    "wof:geomhash":"c9753ba2867fc133079320f578bec909",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823395101
+        }
+    ],
+    "wof:id":823395101,
+    "wof:lastmodified":1463432333,
+    "wof:name":"Sports Car Works",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -81.713092,
+    38.354729,
+    -81.713092,
+    38.354729
+],
+  "geometry": {"coordinates":[-81.713092,38.354729],"type":"Point"}
+}

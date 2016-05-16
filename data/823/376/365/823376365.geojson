@@ -1,0 +1,73 @@
+{
+  "id": 823376365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.971174,39.445865,-77.971174,39.445865",
+    "geom:latitude":39.445865,
+    "geom:longitude":-77.971174,
+    "iso:country":"US",
+    "sg:address":"302 Wilson St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 7256",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cosmetic",
+        "perfume"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08wmqoUNU1y0Pl3A3Yed6A_39.445865_-77.971174@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431477,
+    "wof:geomhash":"b5200c659b2e5d935451e11b0d000d13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823376365
+        }
+    ],
+    "wof:id":823376365,
+    "wof:lastmodified":1463431477,
+    "wof:name":"Avon Products",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetic",
+        "perfume"
+    ]
+},
+  "bbox": [
+    -77.971174,
+    39.445865,
+    -77.971174,
+    39.445865
+],
+  "geometry": {"coordinates":[-77.971174,39.445865],"type":"Point"}
+}

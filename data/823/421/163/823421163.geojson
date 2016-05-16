@@ -1,0 +1,77 @@
+{
+  "id": 823421163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.404695,38.40739,-82.404695,38.40739",
+    "geom:latitude":38.40739,
+    "geom:longitude":-82.404695,
+    "iso:country":"US",
+    "sg:address":"160 Olive St",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 525 5810",
+    "sg:postcode":"25705",
+    "sg:province":"WV",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083329,
+        85868309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0beKc0zHNfbVQrdERNDYme_38.407390_-82.404695@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433512,
+    "wof:geomhash":"2a81fa3863f613e7dbd0683f5b3bbce3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731553,
+            "neighbourhood_id":85868309,
+            "region_id":85688589,
+            "venue_id":823421163
+        }
+    ],
+    "wof:id":823421163,
+    "wof:lastmodified":1463433512,
+    "wof:name":"Scott-Sullivan Inc",
+    "wof:parent_id":85868309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.404695,
+    38.40739,
+    -82.404695,
+    38.40739
+],
+  "geometry": {"coordinates":[-82.404695,38.40739],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 823438643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.338546,39.283529,-80.338546,39.283529",
+    "geom:latitude":39.283529,
+    "geom:longitude":-80.338546,
+    "iso:country":"US",
+    "sg:address":"416 N 4th St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 622 5341",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "household",
+        "appliance",
+        "floor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oh7lvDYrgrg5Cgc59IUME_39.283529_-80.338546@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434308,
+    "wof:geomhash":"128887bb988b740477ac1da90dad8773",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823438643
+        }
+    ],
+    "wof:id":823438643,
+    "wof:lastmodified":1463434308,
+    "wof:name":"Clarksburg Wholesale Furniture",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "household",
+        "appliance",
+        "floor"
+    ]
+},
+  "bbox": [
+    -80.338546,
+    39.283529,
+    -80.338546,
+    39.283529
+],
+  "geometry": {"coordinates":[-80.33854599999999,39.283529],"type":"Point"}
+}

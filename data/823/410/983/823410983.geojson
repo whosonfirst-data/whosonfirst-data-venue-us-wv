@@ -1,0 +1,66 @@
+{
+  "id": 823410983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.249782,39.284343,-80.249782,39.284343",
+    "geom:latitude":39.284343,
+    "geom:longitude":-80.249782,
+    "iso:country":"US",
+    "sg:address":"118 Davis St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 3533",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bdDaJaU2h6wilpvHSjrC3_39.284343_-80.249782@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433065,
+    "wof:geomhash":"106b02c3422876119b7c9ceb0f43dbc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823410983
+        }
+    ],
+    "wof:id":823410983,
+    "wof:lastmodified":1463433065,
+    "wof:name":"APT Bldg",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.249782,
+    39.284343,
+    -80.249782,
+    39.284343
+],
+  "geometry": {"coordinates":[-80.249782,39.284343],"type":"Point"}
+}

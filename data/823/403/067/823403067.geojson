@@ -1,0 +1,71 @@
+{
+  "id": 823403067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.577416,39.262349,-81.577416,39.262349",
+    "geom:latitude":39.262349,
+    "geom:longitude":-81.577416,
+    "iso:country":"US",
+    "sg:address":"100 Star Ave",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 757 221 9502",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85829881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rpK4H6wswbMBgvgjET53X_39.262349_-81.577416@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432714,
+    "wof:geomhash":"82f70114b339af801eed86415fb8f2f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85829881,
+            "region_id":85688589,
+            "venue_id":823403067
+        }
+    ],
+    "wof:id":823403067,
+    "wof:lastmodified":1463432714,
+    "wof:name":"Bayberry Inns",
+    "wof:parent_id":85829881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -81.577416,
+    39.262349,
+    -81.577416,
+    39.262349
+],
+  "geometry": {"coordinates":[-81.577416,39.262349],"type":"Point"}
+}

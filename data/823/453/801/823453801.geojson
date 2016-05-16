@@ -1,0 +1,73 @@
+{
+  "id": 823453801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.178397,39.420596,-80.178397,39.420596",
+    "geom:latitude":39.420596,
+    "geom:longitude":-80.178397,
+    "iso:country":"US",
+    "sg:address":"2607 Fairmont Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/palatine/206603-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85834381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5quORDJhWUFPg71tgZ0Bv2_39.420596_-80.178397@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434962,
+    "wof:geomhash":"a328d348fb7901a2919f5215b8d57f05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85834381,
+            "region_id":85688589,
+            "venue_id":823453801
+        }
+    ],
+    "wof:id":823453801,
+    "wof:lastmodified":1463434962,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85834381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -80.178397,
+    39.420596,
+    -80.178397,
+    39.420596
+],
+  "geometry": {"coordinates":[-80.178397,39.420596],"type":"Point"}
+}

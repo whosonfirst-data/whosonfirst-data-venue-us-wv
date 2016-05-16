@@ -1,0 +1,73 @@
+{
+  "id": 823373655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.244289,39.288398,-80.244289,39.288398",
+    "geom:latitude":39.288398,
+    "geom:longitude":-80.244289,
+    "iso:country":"US",
+    "sg:address":"410 E Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 4143",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eAz2Lr3G96oXsrE9JiQu1_39.288398_-80.244289@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431346,
+    "wof:geomhash":"e0070580fbda536ca1e42127a96f7270",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823373655
+        }
+    ],
+    "wof:id":823373655,
+    "wof:lastmodified":1463431346,
+    "wof:name":"Neel's Chainlink",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.244289,
+    39.288398,
+    -80.244289,
+    39.288398
+],
+  "geometry": {"coordinates":[-80.24428899999999,39.288398],"type":"Point"}
+}

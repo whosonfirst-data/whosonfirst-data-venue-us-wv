@@ -1,0 +1,73 @@
+{
+  "id": 823421343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.594902,38.324542,-81.594902,38.324542",
+    "geom:latitude":38.324542,
+    "geom:longitude":-81.594902,
+    "iso:country":"US",
+    "sg:address":"11 Courtney Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 8521",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "surgical",
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4L9I9nMiwCUQMlm94A6xF8_38.324542_-81.594902@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433518,
+    "wof:geomhash":"fced4d648fd12d6eeb436b480780edf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823421343
+        }
+    ],
+    "wof:id":823421343,
+    "wof:lastmodified":1463433518,
+    "wof:name":"Urologic Surgical Associates",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgical",
+        "clinic"
+    ]
+},
+  "bbox": [
+    -81.594902,
+    38.324542,
+    -81.594902,
+    38.324542
+],
+  "geometry": {"coordinates":[-81.594902,38.324542],"type":"Point"}
+}

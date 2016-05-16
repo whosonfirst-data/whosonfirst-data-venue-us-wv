@@ -1,0 +1,73 @@
+{
+  "id": 823385393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.114868,37.365595,-81.114868,37.365595",
+    "geom:latitude":37.365595,
+    "geom:longitude":-81.114868,
+    "iso:country":"US",
+    "sg:address":"111 Morrison Dr",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 3203",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32dTwJpQsvWbEKTUgXJkoe_37.365595_-81.114868@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431863,
+    "wof:geomhash":"c7b30c09a998cec96096d1de1dbd8f34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823385393
+        }
+    ],
+    "wof:id":823385393,
+    "wof:lastmodified":1463431863,
+    "wof:name":"Princeton Memorial Hospital",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -81.114868,
+    37.365595,
+    -81.114868,
+    37.365595
+],
+  "geometry": {"coordinates":[-81.114868,37.365595],"type":"Point"}
+}

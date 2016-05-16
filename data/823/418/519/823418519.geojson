@@ -1,0 +1,71 @@
+{
+  "id": 823418519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.227274,37.270326,-81.227274,37.270326",
+    "geom:latitude":37.270326,
+    "geom:longitude":-81.227274,
+    "iso:country":"US",
+    "sg:address":"200 N Mercer St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 327 0502",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28kdhyE8LpFFfq43kORBvj_37.270326_-81.227274@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433407,
+    "wof:geomhash":"dcdb1aef4852c0c41123e646ad6674c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823418519
+        }
+    ],
+    "wof:id":823418519,
+    "wof:lastmodified":1463433407,
+    "wof:name":"Le Roy's Jewelers",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -81.227274,
+    37.270326,
+    -81.227274,
+    37.270326
+],
+  "geometry": {"coordinates":[-81.22727399999999,37.270326],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 823431795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.626716,38.336596,-81.626716,38.336596",
+    "geom:latitude":38.336596,
+    "geom:longitude":-81.626716,
+    "iso:country":"US",
+    "sg:address":"1700 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 357 2000",
+    "sg:postcode":"25314",
+    "sg:province":"WV",
+    "sg:tags":[
+        "transmission"
+    ],
+    "sg:website":"www.nisource.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85850023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SjSF5vNFYyJtvJe4c9kUO_38.336596_-81.626716@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433960,
+    "wof:geomhash":"f82bd081170b00293cb8012658edeaed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85850023,
+            "region_id":85688589,
+            "venue_id":823431795
+        }
+    ],
+    "wof:id":823431795,
+    "wof:lastmodified":1463433960,
+    "wof:name":"Columbia Gas Transmission Corp",
+    "wof:parent_id":85850023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -81.626716,
+    38.336596,
+    -81.626716,
+    38.336596
+],
+  "geometry": {"coordinates":[-81.626716,38.336596],"type":"Point"}
+}

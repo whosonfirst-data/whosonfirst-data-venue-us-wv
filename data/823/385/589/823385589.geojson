@@ -1,0 +1,73 @@
+{
+  "id": 823385589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.092441,37.364516,-81.092441,37.364516",
+    "geom:latitude":37.364516,
+    "geom:longitude":-81.092441,
+    "iso:country":"US",
+    "sg:address":"1051 Stafford Dr",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 6123",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Nd21O4KUWhgQUyIDQRz8k_37.364516_-81.092441@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431870,
+    "wof:geomhash":"61e6f701b8d8caf2881153ebcfd66515",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823385589
+        }
+    ],
+    "wof:id":823385589,
+    "wof:lastmodified":1463431870,
+    "wof:name":"Werblin Center-Refractive Eye",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.092441,
+    37.364516,
+    -81.092441,
+    37.364516
+],
+  "geometry": {"coordinates":[-81.09244099999999,37.364516],"type":"Point"}
+}

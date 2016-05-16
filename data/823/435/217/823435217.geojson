@@ -1,0 +1,73 @@
+{
+  "id": 823435217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.586826,38.328984,-81.586826,38.328984",
+    "geom:latitude":38.328984,
+    "geom:longitude":-81.586826,
+    "iso:country":"US",
+    "sg:address":"4010 Kanawha Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 442 8076",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cIzFetjxg9jjMbimRpnEs_38.328984_-81.586826@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434136,
+    "wof:geomhash":"34b3f65ace04279eff7edde95a2ad7f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823435217
+        }
+    ],
+    "wof:id":823435217,
+    "wof:lastmodified":1463434136,
+    "wof:name":"Ghassan Y Dagher MD",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.586826,
+    38.328984,
+    -81.586826,
+    38.328984
+],
+  "geometry": {"coordinates":[-81.586826,38.328984],"type":"Point"}
+}

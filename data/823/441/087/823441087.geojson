@@ -1,0 +1,73 @@
+{
+  "id": 823441087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.495213,38.301354,-81.495213,38.301354",
+    "geom:latitude":38.301354,
+    "geom:longitude":-81.495213,
+    "iso:country":"US",
+    "sg:address":"752 Big Coal Fork Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 9650",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1w9LNptSL4NBEnbuckoIBy_38.301354_-81.495213@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434410,
+    "wof:geomhash":"41a6ee91a572e3bf06cef210ee8a78d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823441087
+        }
+    ],
+    "wof:id":823441087,
+    "wof:lastmodified":1463434410,
+    "wof:name":"Thomas Oran",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.495213,
+    38.301354,
+    -81.495213,
+    38.301354
+],
+  "geometry": {"coordinates":[-81.49521300000001,38.301354],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 823400637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.055315,39.68745,-80.055315,39.68745",
+    "geom:latitude":39.68745,
+    "geom:longitude":-80.055315,
+    "iso:country":"US",
+    "sg:address":"279 Walnut Hill Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 598 7868",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731749,
+        102082587,
+        85807277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63rBV1C1k1wqhgow5MjUrE_39.687450_-80.055315@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432612,
+    "wof:geomhash":"03d085b5ccd26f78303d2d8a803bbcbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731749,
+            "neighbourhood_id":85807277,
+            "region_id":85688589,
+            "venue_id":823400637
+        }
+    ],
+    "wof:id":823400637,
+    "wof:lastmodified":1463432612,
+    "wof:name":"Lee's Garage",
+    "wof:parent_id":85807277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -80.055315,
+    39.68745,
+    -80.055315,
+    39.68745
+],
+  "geometry": {"coordinates":[-80.05531499999999,39.68745],"type":"Point"}
+}

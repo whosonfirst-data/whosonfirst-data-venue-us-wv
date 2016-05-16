@@ -1,0 +1,75 @@
+{
+  "id": 823442127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.723563,40.073896,-80.723563,40.073896",
+    "geom:latitude":40.073896,
+    "geom:longitude":-80.723563,
+    "iso:country":"US",
+    "sg:address":"700 Market St",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 740 282 4575",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85837739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XUlw5CMkSH4tUWfPcC3rd_40.073896_-80.723563@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434456,
+    "wof:geomhash":"1a59ab9f48555236ae96378c2633e1ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85837739,
+            "region_id":85688589,
+            "venue_id":823442127
+        }
+    ],
+    "wof:id":823442127,
+    "wof:lastmodified":1463434456,
+    "wof:name":"Mountain Aire",
+    "wof:parent_id":85837739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.723563,
+    40.073896,
+    -80.723563,
+    40.073896
+],
+  "geometry": {"coordinates":[-80.723563,40.073896],"type":"Point"}
+}

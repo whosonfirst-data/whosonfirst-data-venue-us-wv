@@ -1,0 +1,73 @@
+{
+  "id": 823391333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.140899,39.486797,-80.140899,39.486797",
+    "geom:latitude":39.486797,
+    "geom:longitude":-80.140899,
+    "iso:country":"US",
+    "sg:address":"407 Jackson St",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 5703",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "hall",
+        "auditorium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4J3WF3IEkRTSe6Z843hlFl_39.486797_-80.140899@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432136,
+    "wof:geomhash":"d8d79d215262908b5dfa9471b601e46d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823391333
+        }
+    ],
+    "wof:id":823391333,
+    "wof:lastmodified":1463432136,
+    "wof:name":"Lambert Hall-Saint Peter",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hall",
+        "auditorium"
+    ]
+},
+  "bbox": [
+    -80.140899,
+    39.486797,
+    -80.140899,
+    39.486797
+],
+  "geometry": {"coordinates":[-80.140899,39.486797],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823405027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.594295,40.306131,-80.594295,40.306131",
+    "geom:latitude":40.306131,
+    "geom:longitude":-80.594295,
+    "iso:country":"US",
+    "sg:address":"605 Bruin Dr",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 527 1834",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home",
+        "rest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0t4exTa55CEFam4wnAX7RI_40.306131_-80.594295@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432813,
+    "wof:geomhash":"fd9fc1455b9e41e19bde430afbb8a4fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823405027
+        }
+    ],
+    "wof:id":823405027,
+    "wof:lastmodified":1463432813,
+    "wof:name":"Pinewoods",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "rest"
+    ]
+},
+  "bbox": [
+    -80.594295,
+    40.306131,
+    -80.594295,
+    40.306131
+],
+  "geometry": {"coordinates":[-80.594295,40.306131],"type":"Point"}
+}

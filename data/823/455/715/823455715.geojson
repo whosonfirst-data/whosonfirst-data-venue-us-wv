@@ -1,0 +1,71 @@
+{
+  "id": 823455715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.037372,39.361098,-78.037372,39.361098",
+    "geom:latitude":39.361098,
+    "geom:longitude":-78.037372,
+    "iso:country":"US",
+    "sg:address":"7916 Winchester Ave",
+    "sg:city":"Inwood",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 229 0935",
+    "sg:postcode":"25428",
+    "sg:province":"WV",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75xFjMFwK7wIxPncSQ6WLp_39.361098_-78.037372@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435086,
+    "wof:geomhash":"ba1dfcc4cd2d32757bd8b0c193f9ac0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823455715
+        }
+    ],
+    "wof:id":823455715,
+    "wof:lastmodified":1463435086,
+    "wof:name":"Rite Aid Pharmacies",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -78.037372,
+    39.361098,
+    -78.037372,
+    39.361098
+],
+  "geometry": {"coordinates":[-78.037372,39.361098],"type":"Point"}
+}

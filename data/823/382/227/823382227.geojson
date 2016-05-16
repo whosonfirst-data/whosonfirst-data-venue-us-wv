@@ -1,0 +1,71 @@
+{
+  "id": 823382227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.092644,37.369768,-81.092644,37.369768",
+    "geom:latitude":37.369768,
+    "geom:longitude":-81.092644,
+    "iso:country":"US",
+    "sg:address":"746 Mercer St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 6001",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cZaoZ1BlaEat8FmK7Q89J_37.369768_-81.092644@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431745,
+    "wof:geomhash":"ce6876e386dc9ed63a02c201e831c6d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823382227
+        }
+    ],
+    "wof:id":823382227,
+    "wof:lastmodified":1463431745,
+    "wof:name":"Virginian Manor Apartments",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -81.092644,
+    37.369768,
+    -81.092644,
+    37.369768
+],
+  "geometry": {"coordinates":[-81.09264400000001,37.369768],"type":"Point"}
+}

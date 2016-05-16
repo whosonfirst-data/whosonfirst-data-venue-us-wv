@@ -1,0 +1,84 @@
+{
+  "id": 823450227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.232496,37.779376,-81.232496,37.779376",
+    "geom:latitude":37.779376,
+    "geom:longitude":-81.232496,
+    "iso:country":"US",
+    "sg:address":"102 Sharon St",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 255 5813",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "fire",
+        "restoration",
+        "damage",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aUINufsoO6GVequQ8Dztq_37.779376_-81.232496@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434825,
+    "wof:geomhash":"dc0716fe05656046271f2100e87568c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823450227
+        }
+    ],
+    "wof:id":823450227,
+    "wof:lastmodified":1463434825,
+    "wof:name":"Pristine Cleaning Svc",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "restoration",
+        "damage",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -81.232496,
+    37.779376,
+    -81.232496,
+    37.779376
+],
+  "geometry": {"coordinates":[-81.232496,37.779376],"type":"Point"}
+}

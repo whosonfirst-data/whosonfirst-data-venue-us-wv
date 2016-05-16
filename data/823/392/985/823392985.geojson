@@ -1,0 +1,73 @@
+{
+  "id": 823392985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.034821,39.336164,-80.034821,39.336164",
+    "geom:latitude":39.336164,
+    "geom:longitude":-80.034821,
+    "iso:country":"US",
+    "sg:address":"8 Rose St",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 265 0095",
+    "sg:postcode":"26354",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731717,
+        102083351,
+        85855577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Yo0K6Z2E3KSePP1cGTA2f_39.336164_-80.034821@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432230,
+    "wof:geomhash":"ae4baefa0e7ca2646998efe490b33785",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083351,
+            "locality_id":101731717,
+            "neighbourhood_id":85855577,
+            "region_id":85688589,
+            "venue_id":823392985
+        }
+    ],
+    "wof:id":823392985,
+    "wof:lastmodified":1463432230,
+    "wof:name":"Rosewood Nursing & Rehab Ctr",
+    "wof:parent_id":85855577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -80.034821,
+    39.336164,
+    -80.034821,
+    39.336164
+],
+  "geometry": {"coordinates":[-80.03482099999999,39.336164],"type":"Point"}
+}

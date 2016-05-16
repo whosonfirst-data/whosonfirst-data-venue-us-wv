@@ -1,0 +1,75 @@
+{
+  "id": 823385945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.976418,39.407248,-77.976418,39.407248",
+    "geom:latitude":39.407248,
+    "geom:longitude":-77.976418,
+    "iso:country":"US",
+    "sg:address":"2096 Kelly Island Rd",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 267 2772",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "state",
+        "security",
+        "national"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Wf4b3Ewmh4znpczAUiMXZ_39.407248_-77.976418@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431888,
+    "wof:geomhash":"838ff2d36c4e1d65ec26b4f6c6f4e099",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823385945
+        }
+    ],
+    "wof:id":823385945,
+    "wof:lastmodified":1463431888,
+    "wof:name":"WV Army National Guard",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "security",
+        "national"
+    ]
+},
+  "bbox": [
+    -77.976418,
+    39.407248,
+    -77.976418,
+    39.407248
+],
+  "geometry": {"coordinates":[-77.976418,39.407248],"type":"Point"}
+}

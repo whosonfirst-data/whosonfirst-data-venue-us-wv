@@ -1,0 +1,75 @@
+{
+  "id": 823451995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.973827,39.446306,-77.973827,39.446306",
+    "geom:latitude":39.446306,
+    "geom:longitude":-77.973827,
+    "iso:country":"US",
+    "sg:address":"602 Wilson St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 2421",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "laboratory",
+        "dental",
+        "testing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ui59gfmrbgTWvFaJG0JM2_39.446467_-77.974231@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463434891,
+    "wof:geomhash":"5898ee7c365ab6517f63db98813fa7ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823451995
+        }
+    ],
+    "wof:id":823451995,
+    "wof:lastmodified":1463434891,
+    "wof:name":"Michaels Dental Lab",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental",
+        "testing"
+    ]
+},
+  "bbox": [
+    -77.973827,
+    39.446306,
+    -77.973827,
+    39.446306
+],
+  "geometry": {"coordinates":[-77.973827,39.446306],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823398577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.351685,38.800926,-81.351685,38.800926",
+    "geom:latitude":38.800926,
+    "geom:longitude":-81.351685,
+    "iso:country":"US",
+    "sg:address":"413 Market St",
+    "sg:city":"Spencer",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 927 1144",
+    "sg:postcode":"25276",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731535,
+        102083399,
+        85868331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qJYGitZMj6jwN9fyhzvge_38.800926_-81.351685@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432514,
+    "wof:geomhash":"2d39900c59515c5c09016b2e09390381",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083399,
+            "locality_id":101731535,
+            "neighbourhood_id":85868331,
+            "region_id":85688589,
+            "venue_id":823398577
+        }
+    ],
+    "wof:id":823398577,
+    "wof:lastmodified":1463432514,
+    "wof:name":"My Place Hair Design",
+    "wof:parent_id":85868331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.351685,
+    38.800926,
+    -81.351685,
+    38.800926
+],
+  "geometry": {"coordinates":[-81.351685,38.800926],"type":"Point"}
+}

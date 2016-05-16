@@ -1,0 +1,71 @@
+{
+  "id": 823408493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.299664,39.396141,-80.299664,39.396141",
+    "geom:latitude":39.396141,
+    "geom:longitude":-80.299664,
+    "iso:country":"US",
+    "sg:address":"425 Pike St",
+    "sg:city":"Shinnston",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 592 0000",
+    "sg:postcode":"26431",
+    "sg:province":"WV",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85831189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BKyEX4mIUHSrBPAxlIYSG_39.396141_-80.299664@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432966,
+    "wof:geomhash":"a935a0a54314a849ad2b5f6f49fa8809",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85831189,
+            "region_id":85688589,
+            "venue_id":823408493
+        }
+    ],
+    "wof:id":823408493,
+    "wof:lastmodified":1463432966,
+    "wof:name":"Harrison County Emrgncy Squad",
+    "wof:parent_id":85831189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -80.299664,
+    39.396141,
+    -80.299664,
+    39.396141
+],
+  "geometry": {"coordinates":[-80.29966400000001,39.396141],"type":"Point"}
+}

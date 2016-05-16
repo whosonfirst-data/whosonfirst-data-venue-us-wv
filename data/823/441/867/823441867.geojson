@@ -1,0 +1,73 @@
+{
+  "id": 823441867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.10929,37.381129,-81.10929,37.381129",
+    "geom:latitude":37.381129,
+    "geom:longitude":-81.10929,
+    "iso:country":"US",
+    "sg:address":"1 Grandview Pl",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 325 7387",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54qta4DRjnf7SQJ9wU1NY5_37.381129_-81.109290@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434439,
+    "wof:geomhash":"7e0db51b1dbc756199ab321c8ff85d67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823441867
+        }
+    ],
+    "wof:id":823441867,
+    "wof:lastmodified":1463434439,
+    "wof:name":"Animal Care Ctr",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -81.10929,
+    37.381129,
+    -81.10929,
+    37.381129
+],
+  "geometry": {"coordinates":[-81.10929,37.381129],"type":"Point"}
+}

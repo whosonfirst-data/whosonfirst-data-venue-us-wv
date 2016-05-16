@@ -1,0 +1,71 @@
+{
+  "id": 823420315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.763354,38.290458,-81.763354,38.290458",
+    "geom:latitude":38.290458,
+    "geom:longitude":-81.763354,
+    "iso:country":"US",
+    "sg:address":"1 Childress Rd",
+    "sg:city":"South Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Beer",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 4242",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "ale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VOsBiG70jHcGrNIUaGLrz_38.290458_-81.763354@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433481,
+    "wof:geomhash":"90a1e68f7259b5834f719298d700d78a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823420315
+        }
+    ],
+    "wof:id":823420315,
+    "wof:lastmodified":1463433481,
+    "wof:name":"Central Distributing Co",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ale"
+    ]
+},
+  "bbox": [
+    -81.763354,
+    38.290458,
+    -81.763354,
+    38.290458
+],
+  "geometry": {"coordinates":[-81.76335400000001,38.290458],"type":"Point"}
+}

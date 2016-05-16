@@ -1,0 +1,77 @@
+{
+  "id": 823443043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.174082,39.443191,-80.174082,39.443191",
+    "geom:latitude":39.443191,
+    "geom:longitude":-80.174082,
+    "iso:country":"US",
+    "sg:address":"400 Dee St",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 3360",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "new",
+        "used",
+        "dealer",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85834381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GfxgFJ82yqeko2vWeniHX_39.443191_-80.174082@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434500,
+    "wof:geomhash":"a86ca604361d1e64b32fa1bee954bdee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85834381,
+            "region_id":85688589,
+            "venue_id":823443043
+        }
+    ],
+    "wof:id":823443043,
+    "wof:lastmodified":1463434500,
+    "wof:name":"Baker Used Cars",
+    "wof:parent_id":85834381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "used",
+        "dealer",
+        "car"
+    ]
+},
+  "bbox": [
+    -80.174082,
+    39.443191,
+    -80.174082,
+    39.443191
+],
+  "geometry": {"coordinates":[-80.174082,39.443191],"type":"Point"}
+}

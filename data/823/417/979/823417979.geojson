@@ -1,0 +1,73 @@
+{
+  "id": 823417979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.64525,38.359064,-81.64525,38.359064",
+    "geom:latitude":38.359064,
+    "geom:longitude":-81.64525,
+    "iso:country":"US",
+    "sg:address":"203 Tennessee Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 2131",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "club",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hWJbOYqfl344qougzlxp8_38.359064_-81.645250@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433381,
+    "wof:geomhash":"1e1d4ee09d2cd1da4241c64dcaf25333",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823417979
+        }
+    ],
+    "wof:id":823417979,
+    "wof:lastmodified":1463433381,
+    "wof:name":"Cousins Bar & Lounge",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "night"
+    ]
+},
+  "bbox": [
+    -81.64525,
+    38.359064,
+    -81.64525,
+    38.359064
+],
+  "geometry": {"coordinates":[-81.64525,38.359064],"type":"Point"}
+}

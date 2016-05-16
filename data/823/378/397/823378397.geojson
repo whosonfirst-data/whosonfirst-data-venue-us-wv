@@ -1,0 +1,73 @@
+{
+  "id": 823378397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.570468,38.400101,-82.570468,38.400101",
+    "geom:latitude":38.400101,
+    "geom:longitude":-82.570468,
+    "iso:country":"US",
+    "sg:address":"1003 Walnut St",
+    "sg:city":"Kenova",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 5800",
+    "sg:postcode":"25530",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731517,
+        102083365,
+        85806071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TT6mAG48ie1VSljF7TRso_38.400101_-82.570468@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431573,
+    "wof:geomhash":"f742bf0170fde0a797b5c5b5bed63559",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731517,
+            "neighbourhood_id":85806071,
+            "region_id":85688589,
+            "venue_id":823378397
+        }
+    ],
+    "wof:id":823378397,
+    "wof:lastmodified":1463431573,
+    "wof:name":"Scites Electric Co",
+    "wof:parent_id":85806071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.570468,
+    38.400101,
+    -82.570468,
+    38.400101
+],
+  "geometry": {"coordinates":[-82.57046800000001,38.400101],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823414679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.164282,37.895408,-81.164282,37.895408",
+    "geom:latitude":37.895408,
+    "geom:longitude":-81.164282,
+    "iso:country":"US",
+    "sg:address":"406 Main St",
+    "sg:city":"Mt Hope",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 877 2174",
+    "sg:postcode":"25880",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731505,
+        102083359,
+        85852821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ijgHHu6RIBVqoYoY9qUzh_37.895408_-81.164282@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433211,
+    "wof:geomhash":"a03e6e1ee2f61992f89d4c736ff42237",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "locality_id":101731505,
+            "neighbourhood_id":85852821,
+            "region_id":85688589,
+            "venue_id":823414679
+        }
+    ],
+    "wof:id":823414679,
+    "wof:lastmodified":1463433211,
+    "wof:name":"Mt Hope Baptist Temple",
+    "wof:parent_id":85852821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.164282,
+    37.895408,
+    -81.164282,
+    37.895408
+],
+  "geometry": {"coordinates":[-81.164282,37.895408],"type":"Point"}
+}

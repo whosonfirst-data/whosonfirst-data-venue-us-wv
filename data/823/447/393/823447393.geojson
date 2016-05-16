@@ -1,0 +1,73 @@
+{
+  "id": 823447393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.641201,38.36097,-81.641201,38.36097",
+    "geom:latitude":38.36097,
+    "geom:longitude":-81.641201,
+    "iso:country":"US",
+    "sg:address":"209 Washington St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 5400",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "construction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jvVqMi6TP6Bar3JbArooP_38.360970_-81.641201@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434708,
+    "wof:geomhash":"2bc6dacd5afb4ee32bb1d3f391885257",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823447393
+        }
+    ],
+    "wof:id":823447393,
+    "wof:lastmodified":1463434708,
+    "wof:name":"Agsten Construction Co",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "construction"
+    ]
+},
+  "bbox": [
+    -81.641201,
+    38.36097,
+    -81.641201,
+    38.36097
+],
+  "geometry": {"coordinates":[-81.641201,38.36097],"type":"Point"}
+}

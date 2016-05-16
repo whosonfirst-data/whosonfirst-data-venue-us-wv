@@ -1,0 +1,71 @@
+{
+  "id": 823410407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.202366,37.259903,-81.202366,37.259903",
+    "geom:latitude":37.259903,
+    "geom:longitude":-81.202366,
+    "iso:country":"US",
+    "sg:address":"717 Spring Garden Dr",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 325 9107",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kjuq7oqsrDCpXZsvtdnXw_37.259903_-81.202366@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433044,
+    "wof:geomhash":"5798ae814984761960c67938eb561dd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823410407
+        }
+    ],
+    "wof:id":823410407,
+    "wof:lastmodified":1463433044,
+    "wof:name":"Union Loan Co",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -81.202366,
+    37.259903,
+    -81.202366,
+    37.259903
+],
+  "geometry": {"coordinates":[-81.202366,37.259903],"type":"Point"}
+}

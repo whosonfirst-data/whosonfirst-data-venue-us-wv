@@ -1,0 +1,72 @@
+{
+  "id": 823376711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.588192,38.325171,-81.588192,38.325171",
+    "geom:latitude":38.325171,
+    "geom:longitude":-81.588192,
+    "iso:country":"US",
+    "sg:address":"4101 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 558 3784",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "state"
+    ],
+    "sg:website":"www.wv.gov.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yZE6zAjpACwvyzxJtIhoO_38.325171_-81.588192@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431490,
+    "wof:geomhash":"961b76f24c81bca46b5a41658bf5dc53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823376711
+        }
+    ],
+    "wof:id":823376711,
+    "wof:lastmodified":1463431490,
+    "wof:name":"Governor's Office-Technology",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -81.588192,
+    38.325171,
+    -81.588192,
+    38.325171
+],
+  "geometry": {"coordinates":[-81.58819200000001,38.325171],"type":"Point"}
+}

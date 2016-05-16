@@ -1,0 +1,77 @@
+{
+  "id": 823392113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.117384,37.353162,-81.117384,37.353162",
+    "geom:latitude":37.353162,
+    "geom:longitude":-81.117384,
+    "iso:country":"US",
+    "sg:address":"315 Courthouse Rd",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 3458",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "convalescent",
+        "intermediate",
+        "real estate",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cdEO1XTyQAmU2ujwJk50W_37.353162_-81.117384@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432181,
+    "wof:geomhash":"4a52298eb8cdcf105d415da483dab9e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823392113
+        }
+    ],
+    "wof:id":823392113,
+    "wof:lastmodified":1463432181,
+    "wof:name":"Princeton Health Care Center",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convalescent",
+        "intermediate",
+        "real estate",
+        "home"
+    ]
+},
+  "bbox": [
+    -81.117384,
+    37.353162,
+    -81.117384,
+    37.353162
+],
+  "geometry": {"coordinates":[-81.117384,37.353162],"type":"Point"}
+}

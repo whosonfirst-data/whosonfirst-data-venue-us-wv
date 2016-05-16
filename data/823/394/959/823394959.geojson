@@ -1,0 +1,71 @@
+{
+  "id": 823394959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.608524,40.278529,-80.608524,40.278529",
+    "geom:latitude":40.278529,
+    "geom:longitude":-80.608524,
+    "iso:country":"US",
+    "sg:address":"1501 Commerce St",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 0180",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fyDkKGRsvAGwQ708pdoJv_40.278529_-80.608524@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432323,
+    "wof:geomhash":"bf96ca988a7a8074ae69192069fdedcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823394959
+        }
+    ],
+    "wof:id":823394959,
+    "wof:lastmodified":1463432323,
+    "wof:name":"Wellsburg Car Wash",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -80.608524,
+    40.278529,
+    -80.608524,
+    40.278529
+],
+  "geometry": {"coordinates":[-80.608524,40.278529],"type":"Point"}
+}

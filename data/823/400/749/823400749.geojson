@@ -1,0 +1,71 @@
+{
+  "id": 823400749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.936416,39.605502,-80.936416,39.605502",
+    "geom:latitude":39.605502,
+    "geom:longitude":-80.936416,
+    "iso:country":"US",
+    "sg:address":"114 S 1st Ave",
+    "sg:city":"Paden City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 337 2318",
+    "sg:postcode":"26159",
+    "sg:province":"WV",
+    "sg:tags":[
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lFicKhgf0EH1rIGEg63LR_39.605502_-80.936416@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432621,
+    "wof:geomhash":"6e3fef8558642a16e43e255f85b1009d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823400749
+        }
+    ],
+    "wof:id":823400749,
+    "wof:lastmodified":1463432621,
+    "wof:name":"Staggers Service",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -80.936416,
+    39.605502,
+    -80.936416,
+    39.605502
+],
+  "geometry": {"coordinates":[-80.93641599999999,39.605502],"type":"Point"}
+}

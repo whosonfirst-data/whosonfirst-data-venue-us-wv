@@ -1,0 +1,77 @@
+{
+  "id": 823374033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.939697,39.554533,-79.939697,39.554533",
+    "geom:latitude":39.554533,
+    "geom:longitude":-79.939697,
+    "iso:country":"US",
+    "sg:address":"1913 Grafton Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 291 0324",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732105,
+        102082587,
+        85807831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KTfyhewOC55QFEaz389qS_39.554533_-79.939697@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431359,
+    "wof:geomhash":"3bee0483a86073a5177812dde16ed5ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101732105,
+            "neighbourhood_id":85807831,
+            "region_id":85688589,
+            "venue_id":823374033
+        }
+    ],
+    "wof:id":823374033,
+    "wof:lastmodified":1463431359,
+    "wof:name":"Trimble Trucking",
+    "wof:parent_id":85807831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -79.939697,
+    39.554533,
+    -79.939697,
+    39.554533
+],
+  "geometry": {"coordinates":[-79.939697,39.554533],"type":"Point"}
+}

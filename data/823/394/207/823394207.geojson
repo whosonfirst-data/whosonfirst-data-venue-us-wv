@@ -1,0 +1,73 @@
+{
+  "id": 823394207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.639231,38.360475,-81.639231,38.360475",
+    "geom:latitude":38.360475,
+    "geom:longitude":-81.639231,
+    "iso:country":"US",
+    "sg:address":"722 Bigley Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 3066",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "station",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1icV99Nvpk0F6tT1gzlKCL_38.360475_-81.639231@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432291,
+    "wof:geomhash":"184ce67f37f5ebed2a5979a4faa8793b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823394207
+        }
+    ],
+    "wof:id":823394207,
+    "wof:lastmodified":1463432291,
+    "wof:name":"Go-Mart 7",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gas"
+    ]
+},
+  "bbox": [
+    -81.639231,
+    38.360475,
+    -81.639231,
+    38.360475
+],
+  "geometry": {"coordinates":[-81.639231,38.360475],"type":"Point"}
+}

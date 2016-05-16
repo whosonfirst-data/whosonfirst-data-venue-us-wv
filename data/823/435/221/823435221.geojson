@@ -1,0 +1,66 @@
+{
+  "id": 823435221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.567488,38.245828,-81.567488,38.245828",
+    "geom:latitude":38.245828,
+    "geom:longitude":-81.567488,
+    "iso:country":"US",
+    "sg:address":"9303 Maccorkle Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 6328",
+    "sg:postcode":"25315",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iyNezN2jXCvJ812chgEvc_38.245828_-81.567488@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434136,
+    "wof:geomhash":"397b8ceffd09dbab55d22845e42e23b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823435221
+        }
+    ],
+    "wof:id":823435221,
+    "wof:lastmodified":1463434136,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.567488,
+    38.245828,
+    -81.567488,
+    38.245828
+],
+  "geometry": {"coordinates":[-81.567488,38.245828],"type":"Point"}
+}

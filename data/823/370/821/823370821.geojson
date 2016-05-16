@@ -1,0 +1,71 @@
+{
+  "id": 823370821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.463551,39.04178,-80.463551,39.04178",
+    "geom:latitude":39.04178,
+    "geom:longitude":-80.463551,
+    "iso:country":"US",
+    "sg:address":"476 US Hwy 19",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 269 3600",
+    "sg:postcode":"26452",
+    "sg:province":"WV",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85833241,
+        102083339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65gJANRToULUFvK3MFF4iV_39.041780_-80.463551@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431207,
+    "wof:geomhash":"c66a9607a413bb579580cf5dae4ca648",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083339,
+            "neighbourhood_id":85833241,
+            "region_id":85688589,
+            "venue_id":823370821
+        }
+    ],
+    "wof:id":823370821,
+    "wof:lastmodified":1463431207,
+    "wof:name":"Ballard's Chevrolet-Pontiac",
+    "wof:parent_id":85833241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -80.463551,
+    39.04178,
+    -80.463551,
+    39.04178
+],
+  "geometry": {"coordinates":[-80.463551,39.04178],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823424147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.102976,38.053478,-81.102976,38.053478",
+    "geom:latitude":38.053478,
+    "geom:longitude":-81.102976,
+    "iso:country":"US",
+    "sg:address":"100 Church St",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 574 4273",
+    "sg:postcode":"25840",
+    "sg:province":"WV",
+    "sg:tags":[
+        "county",
+        "planning",
+        "dev"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6i4mgnLtleIzWw0B43yS5H_38.053478_-81.102976@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433627,
+    "wof:geomhash":"127a2f8d0b076690d88c1fbf96c10907",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823424147
+        }
+    ],
+    "wof:id":823424147,
+    "wof:lastmodified":1463433627,
+    "wof:name":"Fayette County Zoning",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "planning",
+        "dev"
+    ]
+},
+  "bbox": [
+    -81.102976,
+    38.053478,
+    -81.102976,
+    38.053478
+],
+  "geometry": {"coordinates":[-81.102976,38.053478],"type":"Point"}
+}

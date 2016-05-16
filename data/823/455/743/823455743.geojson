@@ -1,0 +1,72 @@
+{
+  "id": 823455743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.039245,39.361266,-78.039245,39.361266",
+    "geom:latitude":39.361266,
+    "geom:longitude":-78.039245,
+    "iso:country":"US",
+    "sg:address":"4803 Gerrardstown Rd",
+    "sg:city":"Inwood",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 229 0464",
+    "sg:postcode":"25428",
+    "sg:province":"WV",
+    "sg:website":"www.foodlion.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JNBrpSwItOUuQ18k0qdvh_39.361266_-78.039245@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435087,
+    "wof:geomhash":"e614143171afad89cf8048988be0b877",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823455743
+        }
+    ],
+    "wof:id":823455743,
+    "wof:lastmodified":1463435087,
+    "wof:name":"Food Lion",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.039245,
+    39.361266,
+    -78.039245,
+    39.361266
+],
+  "geometry": {"coordinates":[-78.03924499999999,39.361266],"type":"Point"}
+}

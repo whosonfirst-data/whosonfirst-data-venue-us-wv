@@ -1,0 +1,71 @@
+{
+  "id": 823423297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.941799,38.445585,-81.941799,38.445585",
+    "geom:latitude":38.445585,
+    "geom:longitude":-81.941799,
+    "iso:country":"US",
+    "sg:address":"201 Leslie Pl",
+    "sg:city":"Scott Depot",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 545 9873",
+    "sg:postcode":"25560",
+    "sg:province":"WV",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731829,
+        102083381,
+        85868321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DVSsSKpqGtewACl4I6IAl_38.445585_-81.941799@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433588,
+    "wof:geomhash":"c82b71e7f83d759aaf910fafcda7dc8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731829,
+            "neighbourhood_id":85868321,
+            "region_id":85688589,
+            "venue_id":823423297
+        }
+    ],
+    "wof:id":823423297,
+    "wof:lastmodified":1463433588,
+    "wof:name":"Advanced Facilities Design",
+    "wof:parent_id":85868321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -81.941799,
+    38.445585,
+    -81.941799,
+    38.445585
+],
+  "geometry": {"coordinates":[-81.941799,38.445585],"type":"Point"}
+}

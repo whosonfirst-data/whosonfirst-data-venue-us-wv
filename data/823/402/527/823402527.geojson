@@ -1,0 +1,73 @@
+{
+  "id": 823402527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.152855,37.403325,-81.152855,37.403325",
+    "geom:latitude":37.403325,
+    "geom:longitude":-81.152855,
+    "iso:country":"US",
+    "sg:address":"184 Blue Dove St",
+    "sg:city":"Rock",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 431 3411",
+    "sg:postcode":"24747",
+    "sg:province":"WV",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uq5mrmpb7iBY69bAE6cwq_37.403325_-81.152855@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432694,
+    "wof:geomhash":"dc6a3b6aaf6ad67f6312bb92b6020144",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823402527
+        }
+    ],
+    "wof:id":823402527,
+    "wof:lastmodified":1463432694,
+    "wof:name":"Ellis",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -81.152855,
+    37.403325,
+    -81.152855,
+    37.403325
+],
+  "geometry": {"coordinates":[-81.152855,37.403325],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 823426529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.169696,37.780429,-81.169696,37.780429",
+    "geom:latitude":37.780429,
+    "geom:longitude":-81.169696,
+    "iso:country":"US",
+    "sg:address":"1014 Johnstown Rd",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 252 4433",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clinic"
+    ],
+    "sg:website":"www.aps.yourmd.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oijxKmsRygMRM4CXEHcQc_37.780429_-81.169696@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433728,
+    "wof:geomhash":"57375d0c97286df1782d980cdd656a6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823426529
+        }
+    ],
+    "wof:id":823426529,
+    "wof:lastmodified":1463433728,
+    "wof:name":"Appalachian Psychiatric Svc",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -81.169696,
+    37.780429,
+    -81.169696,
+    37.780429
+],
+  "geometry": {"coordinates":[-81.169696,37.780429],"type":"Point"}
+}

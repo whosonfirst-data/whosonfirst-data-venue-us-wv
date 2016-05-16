@@ -1,0 +1,74 @@
+{
+  "id": 823452865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.428019,38.404489,-82.428019,38.404489",
+    "geom:latitude":38.404489,
+    "geom:longitude":-82.428019,
+    "iso:country":"US",
+    "sg:address":"1598 Washington Blvd",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/hodges/242933-baskin-robbins/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 529 2133",
+    "sg:postcode":"25701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731553,
+        102083329,
+        85868305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mge7uwCr5RWTkioKoyaLc_38.404489_-82.428019@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434924,
+    "wof:geomhash":"a7b023e628db0f2f3ec6923476e0bd6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731553,
+            "neighbourhood_id":85868305,
+            "region_id":85688589,
+            "venue_id":823452865
+        }
+    ],
+    "wof:id":823452865,
+    "wof:lastmodified":1463434924,
+    "wof:name":"Baskin-Robbins",
+    "wof:parent_id":85868305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -82.428019,
+    38.404489,
+    -82.428019,
+    38.404489
+],
+  "geometry": {"coordinates":[-82.42801900000001,38.404489],"type":"Point"}
+}

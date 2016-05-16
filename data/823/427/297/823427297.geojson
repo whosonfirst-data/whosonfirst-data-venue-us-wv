@@ -1,0 +1,71 @@
+{
+  "id": 823427297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.14146,39.485195,-80.14146,39.485195",
+    "geom:latitude":39.485195,
+    "geom:longitude":-80.14146,
+    "iso:country":"US",
+    "sg:address":"310 Adams St",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 367 1137",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eBT192EXoW2Ct2YRon4La_39.485195_-80.141460@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433763,
+    "wof:geomhash":"1a79fe474f306b895eac3117cd49c24e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823427297
+        }
+    ],
+    "wof:id":823427297,
+    "wof:lastmodified":1463433763,
+    "wof:name":"Ron L Tucker",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -80.14146,
+    39.485195,
+    -80.14146,
+    39.485195
+],
+  "geometry": {"coordinates":[-80.14146,39.485195],"type":"Point"}
+}

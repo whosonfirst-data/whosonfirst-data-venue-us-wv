@@ -1,0 +1,73 @@
+{
+  "id": 823456293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.68268,40.077237,-80.68268,40.077237",
+    "geom:latitude":40.077237,
+    "geom:longitude":-80.68268,
+    "iso:country":"US",
+    "sg:address":"58 Carmel Rd Ste 1",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 242 8220",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85817519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qRdErL84NWAv9v4imE9C6_40.077237_-80.682680@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435107,
+    "wof:geomhash":"cd7a39f9752ae7988c73f2622ef18530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85817519,
+            "region_id":85688589,
+            "venue_id":823456293
+        }
+    ],
+    "wof:id":823456293,
+    "wof:lastmodified":1463435107,
+    "wof:name":"Miklas Meat Market",
+    "wof:parent_id":85817519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -80.68268,
+    40.077237,
+    -80.68268,
+    40.077237
+],
+  "geometry": {"coordinates":[-80.68268,40.077237],"type":"Point"}
+}

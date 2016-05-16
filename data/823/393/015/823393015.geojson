@@ -1,0 +1,71 @@
+{
+  "id": 823393015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.750947,38.365306,-81.750947,38.365306",
+    "geom:latitude":38.365306,
+    "geom:longitude":-81.750947,
+    "iso:country":"US",
+    "sg:address":"2302 Payne Ave",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 1819",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NnrZPPNkjuWkof7gzk9q2_38.365306_-81.750947@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432232,
+    "wof:geomhash":"4f735517772bf3c8dd4d302fd718566c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823393015
+        }
+    ],
+    "wof:id":823393015,
+    "wof:lastmodified":1463432232,
+    "wof:name":"Precision Tile & Marble",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.750947,
+    38.365306,
+    -81.750947,
+    38.365306
+],
+  "geometry": {"coordinates":[-81.750947,38.365306],"type":"Point"}
+}

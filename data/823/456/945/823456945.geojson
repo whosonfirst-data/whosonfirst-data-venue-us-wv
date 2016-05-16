@@ -1,0 +1,85 @@
+{
+  "id": 823456945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.591812,40.39679,-80.591812,40.39679",
+    "geom:latitude":40.39679,
+    "geom:longitude":-80.591812,
+    "iso:country":"US",
+    "sg:address":"3775 Main St",
+    "sg:city":"Weirton",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 748 3726",
+    "sg:postcode":"26062",
+    "sg:province":"WV",
+    "sg:tags":[
+        "oils-fuel",
+        "refiner",
+        "gasoline-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731371,
+        102082633,
+        85832497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MUtNHPqOPW9mg4vEMWdSp_40.396790_-80.591812@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435135,
+    "wof:geomhash":"f71446c420603a5423f5522b38c86656",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731371,
+            "neighbourhood_id":85832497,
+            "region_id":85688589,
+            "venue_id":823456945
+        }
+    ],
+    "wof:id":823456945,
+    "wof:lastmodified":1463435135,
+    "wof:name":"Tristate Petroleum",
+    "wof:parent_id":85832497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oils-fuel",
+        "refiner",
+        "gasoline-wholesale"
+    ]
+},
+  "bbox": [
+    -80.591812,
+    40.39679,
+    -80.591812,
+    40.39679
+],
+  "geometry": {"coordinates":[-80.591812,40.39679],"type":"Point"}
+}

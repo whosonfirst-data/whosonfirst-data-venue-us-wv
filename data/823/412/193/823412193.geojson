@@ -1,0 +1,69 @@
+{
+  "id": 823412193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.012159,39.476092,-78.012159,39.476092",
+    "geom:latitude":39.476092,
+    "geom:longitude":-78.012159,
+    "iso:country":"US",
+    "sg:address":"2038 Springdale Dr",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 267 2861",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85846047,
+        102083367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SLYUwGU4rMotDqK3AakEP_39.476092_-78.012159@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433110,
+    "wof:geomhash":"6bd52f49077a6b398b7e5709f7e8e70c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "neighbourhood_id":85846047,
+            "region_id":85688589,
+            "venue_id":823412193
+        }
+    ],
+    "wof:id":823412193,
+    "wof:lastmodified":1463433110,
+    "wof:name":"R & P Ayres Contracting",
+    "wof:parent_id":85846047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -78.012159,
+    39.476092,
+    -78.012159,
+    39.476092
+],
+  "geometry": {"coordinates":[-78.012159,39.476092],"type":"Point"}
+}

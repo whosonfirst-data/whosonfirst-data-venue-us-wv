@@ -1,0 +1,71 @@
+{
+  "id": 823425533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.106933,39.487933,-80.106933,39.487933",
+    "geom:latitude":39.487933,
+    "geom:longitude":-80.106933,
+    "iso:country":"US",
+    "sg:address":"1626 Speedway St",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 6527",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7E0uUM0qXLMBwznxlgH6Cw_39.487933_-80.106933@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433680,
+    "wof:geomhash":"f7a5448c1e07b29dbb9d6c4612b7db23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823425533
+        }
+    ],
+    "wof:id":823425533,
+    "wof:lastmodified":1463433680,
+    "wof:name":"Consolidated Freightways",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -80.106933,
+    39.487933,
+    -80.106933,
+    39.487933
+],
+  "geometry": {"coordinates":[-80.106933,39.487933],"type":"Point"}
+}

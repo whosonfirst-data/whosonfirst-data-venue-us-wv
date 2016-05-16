@@ -1,0 +1,73 @@
+{
+  "id": 823365719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.163853,37.784845,-81.163853,37.784845",
+    "geom:latitude":37.784845,
+    "geom:longitude":-81.163853,
+    "iso:country":"US",
+    "sg:address":"107 Pinecrest Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 558 3900",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "transportation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WvKFE7jaub7cLGDw9MdDa_37.784845_-81.163853@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431000,
+    "wof:geomhash":"d4a7bbc65bf99cb2c7a14813ebd90e2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823365719
+        }
+    ],
+    "wof:id":823365719,
+    "wof:lastmodified":1463431000,
+    "wof:name":"Beckley Regional Office",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transportation"
+    ]
+},
+  "bbox": [
+    -81.163853,
+    37.784845,
+    -81.163853,
+    37.784845
+],
+  "geometry": {"coordinates":[-81.163853,37.784845],"type":"Point"}
+}

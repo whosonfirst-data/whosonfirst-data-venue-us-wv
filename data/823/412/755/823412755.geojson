@@ -1,0 +1,71 @@
+{
+  "id": 823412755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.603546,38.328683,-81.603546,38.328683",
+    "geom:latitude":38.328683,
+    "geom:longitude":-81.603546,
+    "iso:country":"US",
+    "sg:address":"3200 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 388 9506",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "hospice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5F4AJXQQZkFRRSmNxo81DG_38.328683_-81.603546@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433130,
+    "wof:geomhash":"6ab9ac0ac8beb9b97978de629d4af26b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823412755
+        }
+    ],
+    "wof:id":823412755,
+    "wof:lastmodified":1463433130,
+    "wof:name":"Kanawha Hospice Care Inc",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospice"
+    ]
+},
+  "bbox": [
+    -81.603546,
+    38.328683,
+    -81.603546,
+    38.328683
+],
+  "geometry": {"coordinates":[-81.60354599999999,38.328683],"type":"Point"}
+}

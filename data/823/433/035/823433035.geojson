@@ -1,0 +1,75 @@
+{
+  "id": 823433035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.38642,38.793804,-81.38642,38.793804",
+    "geom:latitude":38.793804,
+    "geom:longitude":-81.38642,
+    "iso:country":"US",
+    "sg:address":"1158 Ripley Rd",
+    "sg:city":"Spencer",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 927 1840",
+    "sg:postcode":"25276",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "operation",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731535,
+        102083399,
+        85868331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Yz0OHtQ7ETBcWuEDVSDTL_38.793804_-81.386420@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434020,
+    "wof:geomhash":"66b538ebbb449a992c634820596ae77c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083399,
+            "locality_id":101731535,
+            "neighbourhood_id":85868331,
+            "region_id":85688589,
+            "venue_id":823433035
+        }
+    ],
+    "wof:id":823433035,
+    "wof:lastmodified":1463434020,
+    "wof:name":"Boggs Grandview Motel",
+    "wof:parent_id":85868331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "operation",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -81.38642,
+    38.793804,
+    -81.38642,
+    38.793804
+],
+  "geometry": {"coordinates":[-81.38642,38.793804],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823441015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.59499,38.327839,-81.59499,38.327839",
+    "geom:latitude":38.327839,
+    "geom:longitude":-81.59499,
+    "iso:country":"US",
+    "sg:address":"3721 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 926 7700",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Q3oIZ2DuRokp8680k9UPj_38.327839_-81.594990@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434407,
+    "wof:geomhash":"7153cf1b58c3b99a46881d02a02dca26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823441015
+        }
+    ],
+    "wof:id":823441015,
+    "wof:lastmodified":1463434407,
+    "wof:name":"Valvoline Instant Oil Change",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -81.59499,
+    38.327839,
+    -81.59499,
+    38.327839
+],
+  "geometry": {"coordinates":[-81.59499,38.327839],"type":"Point"}
+}

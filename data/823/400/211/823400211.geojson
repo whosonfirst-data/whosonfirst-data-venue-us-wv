@@ -1,0 +1,73 @@
+{
+  "id": 823400211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.950326,38.443023,-81.950326,38.443023",
+    "geom:latitude":38.443023,
+    "geom:longitude":-81.950326,
+    "iso:country":"US",
+    "sg:address":"13 Ralph Dr",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 757 8919",
+    "sg:postcode":"25526",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cosmetic",
+        "perfume"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731829,
+        102083381,
+        85868321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3enS8OUCF7u43571bi1BTG_38.443023_-81.950326@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432595,
+    "wof:geomhash":"7eda719f3a0df692957eb81daa7b2c92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731829,
+            "neighbourhood_id":85868321,
+            "region_id":85688589,
+            "venue_id":823400211
+        }
+    ],
+    "wof:id":823400211,
+    "wof:lastmodified":1463432595,
+    "wof:name":"Mary Kay Cosmetics",
+    "wof:parent_id":85868321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetic",
+        "perfume"
+    ]
+},
+  "bbox": [
+    -81.950326,
+    38.443023,
+    -81.950326,
+    38.443023
+],
+  "geometry": {"coordinates":[-81.950326,38.443023],"type":"Point"}
+}

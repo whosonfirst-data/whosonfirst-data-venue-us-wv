@@ -1,0 +1,73 @@
+{
+  "id": 823413859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.149918,39.478058,-80.149918,39.478058",
+    "geom:latitude":39.478058,
+    "geom:longitude":-80.149918,
+    "iso:country":"US",
+    "sg:address":"600 Fairmont Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 7660",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "garment",
+        "agent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TrAlqDacFg0kHRnIPMJyZ_39.478058_-80.149918@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433178,
+    "wof:geomhash":"a0b3c9830625d76ddc1b288f919e03c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823413859
+        }
+    ],
+    "wof:id":823413859,
+    "wof:lastmodified":1463433178,
+    "wof:name":"Sauros Top Brass",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "agent"
+    ]
+},
+  "bbox": [
+    -80.149918,
+    39.478058,
+    -80.149918,
+    39.478058
+],
+  "geometry": {"coordinates":[-80.149918,39.478058],"type":"Point"}
+}

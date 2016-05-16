@@ -1,0 +1,73 @@
+{
+  "id": 823454171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.003115,39.345281,-80.003115,39.345281",
+    "geom:latitude":39.345281,
+    "geom:longitude":-80.003115,
+    "iso:country":"US",
+    "sg:address":"5 Harman Ave",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/eastern/206383-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"26354",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731717,
+        102083351,
+        85849697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hLnBfJdBRGyOy6aqdrlLZ_39.345066_-80.003188@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463435005,
+    "wof:geomhash":"4e22e301fd52b0e07910cd1bc701b669",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083351,
+            "locality_id":101731717,
+            "neighbourhood_id":85849697,
+            "region_id":85688589,
+            "venue_id":823454171
+        }
+    ],
+    "wof:id":823454171,
+    "wof:lastmodified":1463435005,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85849697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -80.003115,
+    39.345281,
+    -80.003115,
+    39.345281
+],
+  "geometry": {"coordinates":[-80.00311499999999,39.345281],"type":"Point"}
+}

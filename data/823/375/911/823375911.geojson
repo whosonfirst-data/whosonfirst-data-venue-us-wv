@@ -1,0 +1,71 @@
+{
+  "id": 823375911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.987686,37.933222,-81.987686,37.933222",
+    "geom:latitude":37.933222,
+    "geom:longitude":-81.987686,
+    "iso:country":"US",
+    "sg:address":"22 Perry Ln",
+    "sg:city":"Pecks Mill",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 752 8550",
+    "sg:postcode":"25547",
+    "sg:province":"WV",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868319,
+        102083369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23h6SDAqBg1MQlAfWNH3do_37.933222_-81.987686@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431456,
+    "wof:geomhash":"47bdb73451f12dccc97d66667fbb14b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083369,
+            "neighbourhood_id":85868319,
+            "region_id":85688589,
+            "venue_id":823375911
+        }
+    ],
+    "wof:id":823375911,
+    "wof:lastmodified":1463431456,
+    "wof:name":"Farons Service Center",
+    "wof:parent_id":85868319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -81.987686,
+    37.933222,
+    -81.987686,
+    37.933222
+],
+  "geometry": {"coordinates":[-81.987686,37.933222],"type":"Point"}
+}

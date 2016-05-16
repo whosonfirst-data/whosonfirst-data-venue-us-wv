@@ -1,0 +1,71 @@
+{
+  "id": 823430233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.561786,39.240218,-81.561786,39.240218",
+    "geom:latitude":39.240218,
+    "geom:longitude":-81.561786,
+    "iso:country":"US",
+    "sg:address":"1555 20th Ave",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 428 7377",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zZr9ymaCICCz7eujWvuPP_39.240218_-81.561786@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433891,
+    "wof:geomhash":"f5d34f97f10e1c51ae7ecb49d1876edd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823430233
+        }
+    ],
+    "wof:id":823430233,
+    "wof:lastmodified":1463433891,
+    "wof:name":"Innovative Sleep Technologies",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.561786,
+    39.240218,
+    -81.561786,
+    39.240218
+],
+  "geometry": {"coordinates":[-81.561786,39.240218],"type":"Point"}
+}

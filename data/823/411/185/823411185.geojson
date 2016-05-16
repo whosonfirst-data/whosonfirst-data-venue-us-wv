@@ -1,0 +1,71 @@
+{
+  "id": 823411185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.111297,39.485715,-80.111297,39.485715",
+    "geom:latitude":39.485715,
+    "geom:longitude":-80.111297,
+    "iso:country":"US",
+    "sg:address":"1822 Morgantown Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 4400",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TF94bCRQPWf0oAMlAM3cV_39.485715_-80.111297@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433073,
+    "wof:geomhash":"1e93a95293a56b66a23f13747945a594",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823411185
+        }
+    ],
+    "wof:id":823411185,
+    "wof:lastmodified":1463433073,
+    "wof:name":"General Delivery Inc",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -80.111297,
+    39.485715,
+    -80.111297,
+    39.485715
+],
+  "geometry": {"coordinates":[-80.11129699999999,39.485715],"type":"Point"}
+}

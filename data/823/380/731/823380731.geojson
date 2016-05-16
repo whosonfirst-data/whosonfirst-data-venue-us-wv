@@ -1,0 +1,74 @@
+{
+  "id": 823380731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.497535,39.274649,-81.497535,39.274649",
+    "geom:latitude":39.274649,
+    "geom:longitude":-81.497535,
+    "iso:country":"US",
+    "sg:address":"911 Core Rd",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 485 3828",
+    "sg:postcode":"26104",
+    "sg:province":"WV",
+    "sg:tags":[
+        "county",
+        "safety",
+        "order"
+    ],
+    "sg:website":"www.woodcounty911.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818799,
+        102083343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KQRiv9ua44UKYEXEme8K2_39.274649_-81.497535@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431678,
+    "wof:geomhash":"ba445489876e581a52da6bb9099ae895",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "neighbourhood_id":85818799,
+            "region_id":85688589,
+            "venue_id":823380731
+        }
+    ],
+    "wof:id":823380731,
+    "wof:lastmodified":1463431678,
+    "wof:name":"Wood County 911 Emergency Svc",
+    "wof:parent_id":85818799,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "safety",
+        "order"
+    ]
+},
+  "bbox": [
+    -81.497535,
+    39.274649,
+    -81.497535,
+    39.274649
+],
+  "geometry": {"coordinates":[-81.497535,39.274649],"type":"Point"}
+}

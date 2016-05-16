@@ -1,0 +1,71 @@
+{
+  "id": 823372043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.00601,39.342674,-80.00601,39.342674",
+    "geom:latitude":39.342674,
+    "geom:longitude":-80.00601,
+    "iso:country":"US",
+    "sg:address":"119 Lincoln St",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 265 3475",
+    "sg:postcode":"26354",
+    "sg:province":"WV",
+    "sg:tags":[
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731717,
+        102083351,
+        85849697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RBHUfUoXC41mzLdRYRRuX_39.342674_-80.006010@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431285,
+    "wof:geomhash":"0aefbab3760292090a2a55f88ca24702",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083351,
+            "locality_id":101731717,
+            "neighbourhood_id":85849697,
+            "region_id":85688589,
+            "venue_id":823372043
+        }
+    ],
+    "wof:id":823372043,
+    "wof:lastmodified":1463431285,
+    "wof:name":"Williams Grocery",
+    "wof:parent_id":85849697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -80.00601,
+    39.342674,
+    -80.00601,
+    39.342674
+],
+  "geometry": {"coordinates":[-80.00601,39.342674],"type":"Point"}
+}

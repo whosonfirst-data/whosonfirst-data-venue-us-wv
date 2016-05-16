@@ -1,0 +1,78 @@
+{
+  "id": 823453955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.636699,38.348814,-81.636699,38.348814",
+    "geom:latitude":38.348814,
+    "geom:longitude":-81.636699,
+    "iso:country":"US",
+    "sg:address":"32 Capitol St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/belle/219400-larrys-giant-subs/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 720 8080",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FV5rnAhdvXX7JS4Cpn0lF_38.348679_-81.636646@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434982,
+    "wof:geomhash":"ac64ff67feb65fd5ba11915636c3c1c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823453955
+        }
+    ],
+    "wof:id":823453955,
+    "wof:lastmodified":1463434982,
+    "wof:name":"Larry's Giant Subs",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -81.636699,
+    38.348814,
+    -81.636699,
+    38.348814
+],
+  "geometry": {"coordinates":[-81.63669899999999,38.348814],"type":"Point"}
+}

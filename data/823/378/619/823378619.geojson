@@ -1,0 +1,68 @@
+{
+  "id": 823378619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.207273,37.770092,-81.207273,37.770092",
+    "geom:latitude":37.770092,
+    "geom:longitude":-81.207273,
+    "iso:country":"US",
+    "sg:address":"113 Chestnut St",
+    "sg:city":"Mabscott",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 253 7214",
+    "sg:postcode":"25871",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2D48Y2eIrgcpMQ9WbzPFJy_37.770092_-81.207273@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431581,
+    "wof:geomhash":"f0d885d7017519b6513b2d48ea07f7d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823378619
+        }
+    ],
+    "wof:id":823378619,
+    "wof:lastmodified":1463431581,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.207273,
+    37.770092,
+    -81.207273,
+    37.770092
+],
+  "geometry": {"coordinates":[-81.207273,37.770092],"type":"Point"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 823456415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.553448,40.61862,-80.553448,40.61862",
+    "geom:latitude":40.61862,
+    "geom:longitude":-80.553448,
+    "iso:country":"US",
+    "sg:address":"443 Carolina Ave",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Gun Range",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 3124",
+    "sg:postcode":"26034",
+    "sg:province":"WV",
+    "sg:tags":[
+        "safe",
+        "instruction",
+        "marksmanship",
+        "gunsmith",
+        "safety",
+        "vault",
+        "ammunition"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WnyhtYkOzgPvGtE6GT0rw_40.618620_-80.553448@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435112,
+    "wof:geomhash":"0ff4a0bd42a83ae5c9940817f3d27097",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823456415
+        }
+    ],
+    "wof:id":823456415,
+    "wof:lastmodified":1463435112,
+    "wof:name":"The Gun Room",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "safe",
+        "instruction",
+        "marksmanship",
+        "gunsmith",
+        "safety",
+        "vault",
+        "ammunition"
+    ]
+},
+  "bbox": [
+    -80.553448,
+    40.61862,
+    -80.553448,
+    40.61862
+],
+  "geometry": {"coordinates":[-80.553448,40.61862],"type":"Point"}
+}

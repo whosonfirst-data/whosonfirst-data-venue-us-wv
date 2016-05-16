@@ -1,0 +1,73 @@
+{
+  "id": 823444549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.160333,37.796334,-81.160333,37.796334",
+    "geom:latitude":37.796334,
+    "geom:longitude":-81.160333,
+    "iso:country":"US",
+    "sg:address":"52 Osprey Rd",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 256 0321",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JEles0kKKBZTeiSANkn5y_37.796334_-81.160333@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434566,
+    "wof:geomhash":"a0546793ae11cc7e1d7682e855dfa7ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823444549
+        }
+    ],
+    "wof:id":823444549,
+    "wof:lastmodified":1463434566,
+    "wof:name":"Jeffrey R Harvey DDS",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -81.160333,
+    37.796334,
+    -81.160333,
+    37.796334
+],
+  "geometry": {"coordinates":[-81.16033299999999,37.796334],"type":"Point"}
+}

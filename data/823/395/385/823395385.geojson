@@ -1,0 +1,71 @@
+{
+  "id": 823395385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.563805,38.287601,-81.563805,38.287601",
+    "geom:latitude":38.287601,
+    "geom:longitude":-81.563805,
+    "iso:country":"US",
+    "sg:address":"4918 Church Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 8077",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QPNW5HlKcHwYv0H22Wsfv_38.287601_-81.563805@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432343,
+    "wof:geomhash":"a58c9479896cf54c62fd1d2297423dab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823395385
+        }
+    ],
+    "wof:id":823395385,
+    "wof:lastmodified":1463432343,
+    "wof:name":"Faith Tabernacle",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.563805,
+    38.287601,
+    -81.563805,
+    38.287601
+],
+  "geometry": {"coordinates":[-81.563805,38.287601],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823441291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.560507,38.247672,-81.560507,38.247672",
+    "geom:latitude":38.247672,
+    "geom:longitude":-81.560507,
+    "iso:country":"US",
+    "sg:address":"1513 W Central Ave",
+    "sg:city":"Belle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 5477",
+    "sg:postcode":"25015",
+    "sg:province":"WV",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RmTpRh1IynVvnVGuy55PR_38.247672_-81.560507@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434417,
+    "wof:geomhash":"683e7cb8a760513fd470bcfe5ac123d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823441291
+        }
+    ],
+    "wof:id":823441291,
+    "wof:lastmodified":1463434417,
+    "wof:name":"Crime Scene Clean Up West VA",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -81.560507,
+    38.247672,
+    -81.560507,
+    38.247672
+],
+  "geometry": {"coordinates":[-81.560507,38.247672],"type":"Point"}
+}

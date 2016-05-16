@@ -1,0 +1,75 @@
+{
+  "id": 823444613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.293783,37.793047,-80.293783,37.793047",
+    "geom:latitude":37.793047,
+    "geom:longitude":-80.293783,
+    "iso:country":"US",
+    "sg:address":"290 Mountain Ave",
+    "sg:city":"Gap Mills",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 536 1300",
+    "sg:postcode":"24986",
+    "sg:province":"WV",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gcqC4OD5UMOAlv37HUcgC_37.793047_-80.293783@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434573,
+    "wof:geomhash":"e89e987cb12457ab21dfe2e0ef3ca16b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823444613
+        }
+    ],
+    "wof:id":823444613,
+    "wof:lastmodified":1463434573,
+    "wof:name":"Mountain View Farm",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -80.293783,
+    37.793047,
+    -80.293783,
+    37.793047
+],
+  "geometry": {"coordinates":[-80.293783,37.793047],"type":"Point"}
+}

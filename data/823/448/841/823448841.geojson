@@ -1,0 +1,73 @@
+{
+  "id": 823448841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.740623,38.361258,-81.740623,38.361258",
+    "geom:latitude":38.361258,
+    "geom:longitude":-81.740623,
+    "iso:country":"US",
+    "sg:address":"1303 Charles Ave",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 766 8184",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "leasing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PuRXewf3bz2i28HXpDySA_38.361258_-81.740623@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434771,
+    "wof:geomhash":"6c380c921854fb36f5bcd16353902733",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823448841
+        }
+    ],
+    "wof:id":823448841,
+    "wof:lastmodified":1463434771,
+    "wof:name":"Furniture Rentals Inc",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -81.740623,
+    38.361258,
+    -81.740623,
+    38.361258
+],
+  "geometry": {"coordinates":[-81.740623,38.361258],"type":"Point"}
+}

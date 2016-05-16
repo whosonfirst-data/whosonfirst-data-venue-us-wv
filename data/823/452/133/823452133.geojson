@@ -1,0 +1,75 @@
+{
+  "id": 823452133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.952309,39.628224,-79.952309,39.628224",
+    "geom:latitude":39.628224,
+    "geom:longitude":-79.952309,
+    "iso:country":"US",
+    "sg:address":"55 Kingwood St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 2586",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85858573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6M25jZr9BFCIlCzsmSaBaM_39.628174_-79.952215@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463434895,
+    "wof:geomhash":"bd1aaef66eaa2131417de38e37d7c699",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85858573,
+            "region_id":85688589,
+            "venue_id":823452133
+        }
+    ],
+    "wof:id":823452133,
+    "wof:lastmodified":1463434895,
+    "wof:name":"Ervin's Auto Repair & Towing",
+    "wof:parent_id":85858573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -79.952309,
+    39.628224,
+    -79.952309,
+    39.628224
+],
+  "geometry": {"coordinates":[-79.952309,39.628224],"type":"Point"}
+}

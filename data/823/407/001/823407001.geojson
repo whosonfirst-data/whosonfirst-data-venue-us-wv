@@ -1,0 +1,73 @@
+{
+  "id": 823407001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.655401,38.366466,-81.655401,38.366466",
+    "geom:latitude":38.366466,
+    "geom:longitude":-81.655401,
+    "iso:country":"US",
+    "sg:address":"517 Russell St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 5669",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "front",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gLW0Gx9B8JQcwRHPbue0f_38.366466_-81.655401@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432902,
+    "wof:geomhash":"01e813b3e8b969a3612c5f21000a14b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823407001
+        }
+    ],
+    "wof:id":823407001,
+    "wof:lastmodified":1463432902,
+    "wof:name":"Central Glass Co Of Charleston",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "front",
+        "store"
+    ]
+},
+  "bbox": [
+    -81.655401,
+    38.366466,
+    -81.655401,
+    38.366466
+],
+  "geometry": {"coordinates":[-81.655401,38.366466],"type":"Point"}
+}

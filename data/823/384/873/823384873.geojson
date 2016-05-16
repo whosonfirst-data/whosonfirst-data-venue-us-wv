@@ -1,0 +1,73 @@
+{
+  "id": 823384873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.703679,38.337029,-81.703679,38.337029",
+    "geom:latitude":38.337029,
+    "geom:longitude":-81.703679,
+    "iso:country":"US",
+    "sg:address":"1641 Oakhurst Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 746 4707",
+    "sg:postcode":"25314",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79nXKGjIurhhVnKVRHMqGm_38.337029_-81.703679@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431845,
+    "wof:geomhash":"693a4fefbff7130d97c13e6c43a24b9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823384873
+        }
+    ],
+    "wof:id":823384873,
+    "wof:lastmodified":1463431845,
+    "wof:name":"Southern Air Incorporated",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.703679,
+    38.337029,
+    -81.703679,
+    38.337029
+],
+  "geometry": {"coordinates":[-81.70367899999999,38.337029],"type":"Point"}
+}

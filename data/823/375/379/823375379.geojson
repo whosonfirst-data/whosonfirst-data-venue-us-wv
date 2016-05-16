@@ -1,0 +1,76 @@
+{
+  "id": 823375379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.086103,37.368727,-81.086103,37.368727",
+    "geom:latitude":37.368727,
+    "geom:longitude":-81.086103,
+    "iso:country":"US",
+    "sg:address":"200 Princeton Ave",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 431 3585",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "feed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RwfIlbWwtPyVQw3JFOvH3_37.368727_-81.086103@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431432,
+    "wof:geomhash":"981db1ac60903eae4b59af96d7da26e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823375379
+        }
+    ],
+    "wof:id":823375379,
+    "wof:lastmodified":1463431432,
+    "wof:name":"Windy Mountain Farm and Feed",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feed"
+    ]
+},
+  "bbox": [
+    -81.086103,
+    37.368727,
+    -81.086103,
+    37.368727
+],
+  "geometry": {"coordinates":[-81.08610299999999,37.368727],"type":"Point"}
+}

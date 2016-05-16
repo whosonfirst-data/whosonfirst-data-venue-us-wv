@@ -1,0 +1,95 @@
+{
+  "id": 823456387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.556864,40.616683,-80.556864,40.616683",
+    "geom:latitude":40.616683,
+    "geom:longitude":-80.556864,
+    "iso:country":"US",
+    "sg:address":"808 Carolina Ave",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Toys & Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 2710",
+    "sg:postcode":"26034",
+    "sg:province":"WV",
+    "sg:tags":[
+        "toys-wholesale",
+        "merchandising",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4k78ZJ0RMM1ca8AVKOQtig_40.616683_-80.556864@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435111,
+    "wof:geomhash":"61375cd395304dc36056d296023aae62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823456387
+        }
+    ],
+    "wof:id":823456387,
+    "wof:lastmodified":1463435111,
+    "wof:name":"Gumbys",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "toys-wholesale",
+        "merchandising",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -80.556864,
+    40.616683,
+    -80.556864,
+    40.616683
+],
+  "geometry": {"coordinates":[-80.556864,40.616683],"type":"Point"}
+}

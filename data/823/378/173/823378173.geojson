@@ -1,0 +1,73 @@
+{
+  "id": 823378173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.364889,39.280966,-80.364889,39.280966",
+    "geom:latitude":39.280966,
+    "geom:longitude":-80.364889,
+    "iso:country":"US",
+    "sg:address":"914 Duff Ave",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 622 8327",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "pipeline",
+        "testing",
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85810773,
+        102082619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zpjwFYCNRY8bro3saaXKE_39.280966_-80.364889@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431565,
+    "wof:geomhash":"5313d4dc66f6d1acd038d9e91f9a35de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "neighbourhood_id":85810773,
+            "region_id":85688589,
+            "venue_id":823378173
+        }
+    ],
+    "wof:id":823378173,
+    "wof:lastmodified":1463431565,
+    "wof:name":"Consolidated N D E",
+    "wof:parent_id":85810773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pipeline",
+        "testing",
+        "related"
+    ]
+},
+  "bbox": [
+    -80.364889,
+    39.280966,
+    -80.364889,
+    39.280966
+],
+  "geometry": {"coordinates":[-80.36488900000001,39.280966],"type":"Point"}
+}

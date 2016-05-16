@@ -1,0 +1,72 @@
+{
+  "id": 823408413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.515251,39.285924,-81.515251,39.285924",
+    "geom:latitude":39.285924,
+    "geom:longitude":-81.515251,
+    "iso:country":"US",
+    "sg:address":"2675 36th St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 485 7447",
+    "sg:postcode":"26104",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "sg:website":"www.worthingtonmanor.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818799,
+        102083343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EgtmvVCAMGDc6oLSqHZcd_39.285924_-81.515251@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432963,
+    "wof:geomhash":"ea56fbd68adacb6d8f26129ff901e477",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "neighbourhood_id":85818799,
+            "region_id":85688589,
+            "venue_id":823408413
+        }
+    ],
+    "wof:id":823408413,
+    "wof:lastmodified":1463432963,
+    "wof:name":"Worthington Manor Care",
+    "wof:parent_id":85818799,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -81.515251,
+    39.285924,
+    -81.515251,
+    39.285924
+],
+  "geometry": {"coordinates":[-81.51525100000001,39.285924],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823417187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.143196,39.483213,-80.143196,39.483213",
+    "geom:latitude":39.483213,
+    "geom:longitude":-80.143196,
+    "iso:country":"US",
+    "sg:address":"211 Monroe St",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 4200",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2r5FgfkJkrRHLE230xuyNV_39.483213_-80.143196@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433343,
+    "wof:geomhash":"1b7d5ba193038d7f4cbf66d4542c7b08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823417187
+        }
+    ],
+    "wof:id":823417187,
+    "wof:lastmodified":1463433343,
+    "wof:name":"Fairmont City Police",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -80.143196,
+    39.483213,
+    -80.143196,
+    39.483213
+],
+  "geometry": {"coordinates":[-80.143196,39.483213],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823376795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.728554,38.35505,-81.728554,38.35505",
+    "geom:latitude":38.35505,
+    "geom:longitude":-81.728554,
+    "iso:country":"US",
+    "sg:address":"4710 Maccorkle Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 766 6800",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "windows"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57rneciRfQyIu1fQCobk79_38.355050_-81.728554@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431498,
+    "wof:geomhash":"0c6bcc7f14abc5677b02c01d37aa12b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823376795
+        }
+    ],
+    "wof:id":823376795,
+    "wof:lastmodified":1463431498,
+    "wof:name":"Pella Window Store",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "windows"
+    ]
+},
+  "bbox": [
+    -81.728554,
+    38.35505,
+    -81.728554,
+    38.35505
+],
+  "geometry": {"coordinates":[-81.728554,38.35505],"type":"Point"}
+}

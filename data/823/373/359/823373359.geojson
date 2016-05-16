@@ -1,0 +1,80 @@
+{
+  "id": 823373359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.040454,39.15264,-80.040454,39.15264",
+    "geom:latitude":39.15264,
+    "geom:longitude":-80.040454,
+    "iso:country":"US",
+    "sg:address":"107 N Main St",
+    "sg:city":"Philippi",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 457 1268",
+    "sg:postcode":"26416",
+    "sg:province":"WV",
+    "sg:tags":[
+        "pawnbroker",
+        "pawnshop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yVrwS1Gmh6DIgp1mK8g67_39.152640_-80.040454@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431335,
+    "wof:geomhash":"b454b0d86cce28bc92e67c2ad385ce71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823373359
+        }
+    ],
+    "wof:id":823373359,
+    "wof:lastmodified":1463431335,
+    "wof:name":"Hanks Discount and Pawn Shop",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker",
+        "pawnshop",
+        "general"
+    ]
+},
+  "bbox": [
+    -80.040454,
+    39.15264,
+    -80.040454,
+    39.15264
+],
+  "geometry": {"coordinates":[-80.040454,39.15264],"type":"Point"}
+}

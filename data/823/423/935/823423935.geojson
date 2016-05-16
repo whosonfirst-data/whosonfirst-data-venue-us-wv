@@ -1,0 +1,71 @@
+{
+  "id": 823423935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.038395,39.151551,-80.038395,39.151551",
+    "geom:latitude":39.151551,
+    "geom:longitude":-80.038395,
+    "iso:country":"US",
+    "sg:address":"26 S Main St",
+    "sg:city":"Philippi",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 457 5500",
+    "sg:postcode":"26416",
+    "sg:province":"WV",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16zUe67JT5KVsCY8Jszs4f_39.151551_-80.038395@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433618,
+    "wof:geomhash":"80ee60ab8930f955daf41dee57c4cbae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823423935
+        }
+    ],
+    "wof:id":823423935,
+    "wof:lastmodified":1463433618,
+    "wof:name":"William D Johnson CPA",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -80.038395,
+    39.151551,
+    -80.038395,
+    39.151551
+],
+  "geometry": {"coordinates":[-80.03839499999999,39.151551],"type":"Point"}
+}

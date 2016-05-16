@@ -1,0 +1,83 @@
+{
+  "id": 823411191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.873645,38.537545,-81.873645,38.537545",
+    "geom:latitude":38.537545,
+    "geom:longitude":-81.873645,
+    "iso:country":"US",
+    "sg:address":"14 Bayberry St",
+    "sg:city":"Winfield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 586 0785",
+    "sg:postcode":"25213",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868323,
+        102083381,
+        102191575,
+        101731321,
+        85868327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lT0tgcQvIGFhp3pUjny0K_38.537545_-81.873645@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433073,
+    "wof:geomhash":"b2fa89c4cd681e96fad36d35bbca19c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "neighbourhood_id":85868323,
+            "region_id":85688589,
+            "venue_id":823411191
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731321,
+            "neighbourhood_id":85868327,
+            "region_id":85688589,
+            "venue_id":823411191
+        }
+    ],
+    "wof:id":823411191,
+    "wof:lastmodified":1463433073,
+    "wof:name":"Cornerstone Properties LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -81.873645,
+    38.537545,
+    -81.873645,
+    38.537545
+],
+  "geometry": {"coordinates":[-81.873645,38.537545],"type":"Point"}
+}

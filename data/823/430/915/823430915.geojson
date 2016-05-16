@@ -1,0 +1,75 @@
+{
+  "id": 823430915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.941096,39.582339,-79.941096,39.582339",
+    "geom:latitude":39.582339,
+    "geom:longitude":-79.941096,
+    "iso:country":"US",
+    "sg:address":"408 Cobun Creek Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 1907",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "house",
+        "mail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732105,
+        102082587,
+        85807831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cF0Dq2I4KhOVGS8KxXTUk_39.582339_-79.941096@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433916,
+    "wof:geomhash":"236926fe710959d6785d13c6fb6042af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101732105,
+            "neighbourhood_id":85807831,
+            "region_id":85688589,
+            "venue_id":823430915
+        }
+    ],
+    "wof:id":823430915,
+    "wof:lastmodified":1463433916,
+    "wof:name":"Coburn Creek Farm",
+    "wof:parent_id":85807831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "mail"
+    ]
+},
+  "bbox": [
+    -79.941096,
+    39.582339,
+    -79.941096,
+    39.582339
+],
+  "geometry": {"coordinates":[-79.941096,39.582339],"type":"Point"}
+}

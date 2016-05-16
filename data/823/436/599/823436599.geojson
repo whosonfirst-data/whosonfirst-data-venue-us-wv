@@ -1,0 +1,71 @@
+{
+  "id": 823436599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.57068,38.265971,-81.57068,38.265971",
+    "geom:latitude":38.265971,
+    "geom:longitude":-81.57068,
+    "iso:country":"US",
+    "sg:address":"3343 W 5th Ave",
+    "sg:city":"Belle",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 5349",
+    "sg:postcode":"25015",
+    "sg:province":"WV",
+    "sg:tags":[
+        "adjuster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zn9R5JbjGSSznoEH8n0Wo_38.265971_-81.570680@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434202,
+    "wof:geomhash":"0fd6db6e6713c0ed75ea4701e777c88d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823436599
+        }
+    ],
+    "wof:id":823436599,
+    "wof:lastmodified":1463434202,
+    "wof:name":"Advanced Appraisal Svc",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "adjuster"
+    ]
+},
+  "bbox": [
+    -81.57068,
+    38.265971,
+    -81.57068,
+    38.265971
+],
+  "geometry": {"coordinates":[-81.57068,38.265971],"type":"Point"}
+}

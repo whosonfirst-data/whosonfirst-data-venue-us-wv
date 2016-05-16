@@ -1,0 +1,71 @@
+{
+  "id": 823396087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.261976,38.421191,-82.261976,38.421191",
+    "geom:latitude":38.421191,
+    "geom:longitude":-82.261976,
+    "iso:country":"US",
+    "sg:address":"100 Mall Rd",
+    "sg:city":"Barboursville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 733 0583",
+    "sg:postcode":"25504",
+    "sg:province":"WV",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85816671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XOaVHA8QtDkenbpSAiSmV_38.421191_-82.261976@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432378,
+    "wof:geomhash":"e22985d1bff216c45d3fdd7b59a9f400",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85816671,
+            "region_id":85688589,
+            "venue_id":823396087
+        }
+    ],
+    "wof:id":823396087,
+    "wof:lastmodified":1463432378,
+    "wof:name":"Sears Portrait Studio",
+    "wof:parent_id":85816671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -82.261976,
+    38.421191,
+    -82.261976,
+    38.421191
+],
+  "geometry": {"coordinates":[-82.261976,38.421191],"type":"Point"}
+}

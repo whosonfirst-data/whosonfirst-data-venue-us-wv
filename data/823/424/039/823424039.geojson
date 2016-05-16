@@ -1,0 +1,73 @@
+{
+  "id": 823424039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.584128,38.364748,-81.584128,38.364748",
+    "geom:latitude":38.364748,
+    "geom:longitude":-81.584128,
+    "iso:country":"US",
+    "sg:address":"1409 Greenbrier St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 2692",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "provider"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CtNF3ZHrrBBtgTZavMu4F_38.364748_-81.584128@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433622,
+    "wof:geomhash":"d3f29b3a515508f88aa1bf0281764790",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823424039
+        }
+    ],
+    "wof:id":823424039,
+    "wof:lastmodified":1463433622,
+    "wof:name":"M D I P A Health Plan",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "provider"
+    ]
+},
+  "bbox": [
+    -81.584128,
+    38.364748,
+    -81.584128,
+    38.364748
+],
+  "geometry": {"coordinates":[-81.58412800000001,38.364748],"type":"Point"}
+}

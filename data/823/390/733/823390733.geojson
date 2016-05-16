@@ -1,0 +1,71 @@
+{
+  "id": 823390733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.745772,38.353798,-81.745772,38.353798",
+    "geom:latitude":38.353798,
+    "geom:longitude":-81.745772,
+    "iso:country":"US",
+    "sg:address":"5532 Maccorkle Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 7514",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rQOQefFi3vojG1Kxc7dlY_38.353798_-81.745772@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432110,
+    "wof:geomhash":"3aeb56c508c880a49d803dcc0f376610",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823390733
+        }
+    ],
+    "wof:id":823390733,
+    "wof:lastmodified":1463432110,
+    "wof:name":"Veterans Of Foreign Wars",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military"
+    ]
+},
+  "bbox": [
+    -81.745772,
+    38.353798,
+    -81.745772,
+    38.353798
+],
+  "geometry": {"coordinates":[-81.745772,38.353798],"type":"Point"}
+}

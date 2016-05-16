@@ -1,0 +1,73 @@
+{
+  "id": 823394395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.5926,38.382335,-82.5926,38.382335",
+    "geom:latitude":38.382335,
+    "geom:longitude":-82.5926,
+    "iso:country":"US",
+    "sg:address":"3275 Big Sandy Rd",
+    "sg:city":"Kenova",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 1000",
+    "sg:postcode":"25530",
+    "sg:province":"WV",
+    "sg:tags":[
+        "coal",
+        "shipping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731517,
+        102083365,
+        85806071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cu9KmILaKrkeo98bnKIy4_38.382335_-82.592600@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432303,
+    "wof:geomhash":"7d0477815ab5131b8766a0ec90738494",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731517,
+            "neighbourhood_id":85806071,
+            "region_id":85688589,
+            "venue_id":823394395
+        }
+    ],
+    "wof:id":823394395,
+    "wof:lastmodified":1463432303,
+    "wof:name":"Sandy River Synfuel",
+    "wof:parent_id":85806071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coal",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -82.5926,
+    38.382335,
+    -82.5926,
+    38.382335
+],
+  "geometry": {"coordinates":[-82.5926,38.382335],"type":"Point"}
+}

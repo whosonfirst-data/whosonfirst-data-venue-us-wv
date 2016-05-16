@@ -1,0 +1,73 @@
+{
+  "id": 823371253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.144652,39.452495,-80.144652,39.452495",
+    "geom:latitude":39.452495,
+    "geom:longitude":-80.144652,
+    "iso:country":"US",
+    "sg:address":"1707 Pleasant Valley Rd",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 3928",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "govt",
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85834381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SeFBj6oaEkcXN8FmgbO1a_39.452495_-80.144652@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431244,
+    "wof:geomhash":"43234aaecb384640b8e6d9e8a2ae5526",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85834381,
+            "region_id":85688589,
+            "venue_id":823371253
+        }
+    ],
+    "wof:id":823371253,
+    "wof:lastmodified":1463431244,
+    "wof:name":"Kingmill Valley PSD",
+    "wof:parent_id":85834381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "city"
+    ]
+},
+  "bbox": [
+    -80.144652,
+    39.452495,
+    -80.144652,
+    39.452495
+],
+  "geometry": {"coordinates":[-80.14465199999999,39.452495],"type":"Point"}
+}

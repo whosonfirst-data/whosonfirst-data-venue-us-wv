@@ -1,0 +1,80 @@
+{
+  "id": 823389707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.088586,38.219588,-80.088586,38.219588",
+    "geom:latitude":38.219588,
+    "geom:longitude":-80.088586,
+    "iso:country":"US",
+    "sg:address":"806 9th Ave",
+    "sg:city":"Marlinton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 799 6368",
+    "sg:postcode":"24954",
+    "sg:province":"WV",
+    "sg:tags":[
+        "mental",
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731759,
+        102082613,
+        85805067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3o3oUw32HzqurVVVFlK60c_38.219588_-80.088586@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432061,
+    "wof:geomhash":"3ff8b88f5bd2f84809f26f2bba55939b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082613,
+            "locality_id":101731759,
+            "neighbourhood_id":85805067,
+            "region_id":85688589,
+            "venue_id":823389707
+        }
+    ],
+    "wof:id":823389707,
+    "wof:lastmodified":1463432061,
+    "wof:name":"Timberline Health Group Ltd",
+    "wof:parent_id":85805067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental",
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -80.088586,
+    38.219588,
+    -80.088586,
+    38.219588
+],
+  "geometry": {"coordinates":[-80.08858600000001,38.219588],"type":"Point"}
+}

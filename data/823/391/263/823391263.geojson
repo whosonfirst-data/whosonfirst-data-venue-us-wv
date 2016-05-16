@@ -1,0 +1,71 @@
+{
+  "id": 823391263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.066612,39.291276,-78.066612,39.291276",
+    "geom:latitude":39.291276,
+    "geom:longitude":-78.066612,
+    "iso:country":"US",
+    "sg:address":"102 Fegan Rd",
+    "sg:city":"Bunker Hill",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 229 0519",
+    "sg:postcode":"25413",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QbnubA8hSfelK2va2UGf1_39.291276_-78.066612@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432134,
+    "wof:geomhash":"9aac7070005a0e3aaecb973e3c7a0bca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823391263
+        }
+    ],
+    "wof:id":823391263,
+    "wof:lastmodified":1463432134,
+    "wof:name":"Garys Auto Repair",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -78.066612,
+    39.291276,
+    -78.066612,
+    39.291276
+],
+  "geometry": {"coordinates":[-78.06661200000001,39.291276],"type":"Point"}
+}

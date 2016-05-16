@@ -1,0 +1,73 @@
+{
+  "id": 823448453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.849498,38.925006,-79.849498,38.925006",
+    "geom:latitude":38.925006,
+    "geom:longitude":-79.849498,
+    "iso:country":"US",
+    "sg:address":"216 Davis Ave",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 3675",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zTcwge5089n4RAzlhVVxu_38.925006_-79.849498@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434758,
+    "wof:geomhash":"6abd7386ca82561866fab5a6fb686a1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823448453
+        }
+    ],
+    "wof:id":823448453,
+    "wof:lastmodified":1463434758,
+    "wof:name":"Waretop Enterprises",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -79.849498,
+    38.925006,
+    -79.849498,
+    38.925006
+],
+  "geometry": {"coordinates":[-79.849498,38.925006],"type":"Point"}
+}

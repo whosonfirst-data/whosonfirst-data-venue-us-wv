@@ -1,0 +1,73 @@
+{
+  "id": 823442893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.625288,38.35017,-81.625288,38.35017",
+    "geom:latitude":38.35017,
+    "geom:longitude":-81.625288,
+    "iso:country":"US",
+    "sg:address":"1116 Smith St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 346 9274",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "filter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_300vgKeK553Epjz3tJXU51_38.350170_-81.625288@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434489,
+    "wof:geomhash":"4928ea73d309326425f6c17b9eddeae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823442893
+        }
+    ],
+    "wof:id":823442893,
+    "wof:lastmodified":1463434489,
+    "wof:name":"Tarbro Filter Recycling",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "filter"
+    ]
+},
+  "bbox": [
+    -81.625288,
+    38.35017,
+    -81.625288,
+    38.35017
+],
+  "geometry": {"coordinates":[-81.625288,38.35017],"type":"Point"}
+}

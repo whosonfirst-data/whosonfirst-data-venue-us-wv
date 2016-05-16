@@ -1,0 +1,75 @@
+{
+  "id": 823375163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.896167,39.557049,-79.896167,39.557049",
+    "geom:latitude":39.557049,
+    "geom:longitude":-79.896167,
+    "iso:country":"US",
+    "sg:address":"1948 Kingwood Pike",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 0035",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732105,
+        102082587,
+        85807831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49eo1upCbgDVk0fHTJRpbl_39.557049_-79.896167@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431424,
+    "wof:geomhash":"b0a4736d3c5d279f276f27f102216b2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101732105,
+            "neighbourhood_id":85807831,
+            "region_id":85688589,
+            "venue_id":823375163
+        }
+    ],
+    "wof:id":823375163,
+    "wof:lastmodified":1463431424,
+    "wof:name":"In Transport",
+    "wof:parent_id":85807831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -79.896167,
+    39.557049,
+    -79.896167,
+    39.557049
+],
+  "geometry": {"coordinates":[-79.89616700000001,39.557049],"type":"Point"}
+}

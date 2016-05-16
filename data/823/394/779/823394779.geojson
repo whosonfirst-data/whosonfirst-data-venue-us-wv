@@ -1,0 +1,71 @@
+{
+  "id": 823394779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.136225,38.849417,-82.136225,38.849417",
+    "geom:latitude":38.849417,
+    "geom:longitude":-82.136225,
+    "iso:country":"US",
+    "sg:address":"1011 Viand St",
+    "sg:city":"Point Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 675 6100",
+    "sg:postcode":"25550",
+    "sg:province":"WV",
+    "sg:tags":[
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85983229,
+        102083675,
+        85824533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Kw0RtGr8LPCrT9MsWy12J_38.849417_-82.136225@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432317,
+    "wof:geomhash":"2b976ac763125d2a6b87f65cc5e8dee1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "neighbourhood_id":85824533,
+            "region_id":85688485,
+            "venue_id":823394779
+        }
+    ],
+    "wof:id":823394779,
+    "wof:lastmodified":1463432317,
+    "wof:name":"Pleasant Valley Home Med Equip",
+    "wof:parent_id":85824533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital"
+    ]
+},
+  "bbox": [
+    -82.136225,
+    38.849417,
+    -82.136225,
+    38.849417
+],
+  "geometry": {"coordinates":[-82.136225,38.849417],"type":"Point"}
+}

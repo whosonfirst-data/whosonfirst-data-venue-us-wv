@@ -1,0 +1,80 @@
+{
+  "id": 823452449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.634922,38.351213,-81.634922,38.351213",
+    "geom:latitude":38.351213,
+    "geom:longitude":-81.634922,
+    "iso:country":"US",
+    "sg:address":"166 Summers St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/belle/139716-sicilias-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 346 8191",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lDnQEyFxRz9ZmeL8NPozP_38.351213_-81.634922@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434907,
+    "wof:geomhash":"e9d5d442e8a074497724393cdb807a73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823452449
+        }
+    ],
+    "wof:id":823452449,
+    "wof:lastmodified":1463434907,
+    "wof:name":"Sicilia's Pizzeria",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -81.634922,
+    38.351213,
+    -81.634922,
+    38.351213
+],
+  "geometry": {"coordinates":[-81.634922,38.351213],"type":"Point"}
+}

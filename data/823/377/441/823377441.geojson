@@ -1,0 +1,71 @@
+{
+  "id": 823377441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.857144,38.940702,-79.857144,38.940702",
+    "geom:latitude":38.940702,
+    "geom:longitude":-79.857144,
+    "iso:country":"US",
+    "sg:address":"10 Ervin Ln",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 2510",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yt7dSPEWAcAj5NAFdneIX_38.940702_-79.857144@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431533,
+    "wof:geomhash":"04db1ca9e38b5e2443d65454c935684d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823377441
+        }
+    ],
+    "wof:id":823377441,
+    "wof:lastmodified":1463431533,
+    "wof:name":"Marris Pizza",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -79.857144,
+    38.940702,
+    -79.857144,
+    38.940702
+],
+  "geometry": {"coordinates":[-79.85714400000001,38.940702],"type":"Point"}
+}

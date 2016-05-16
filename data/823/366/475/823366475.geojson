@@ -1,0 +1,71 @@
+{
+  "id": 823366475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.571133,38.315254,-81.571133,38.315254",
+    "geom:latitude":38.315254,
+    "geom:longitude":-81.571133,
+    "iso:country":"US",
+    "sg:address":"5405 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 4974",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CVSUYFkfOlloMXrSgDPwC_38.315254_-81.571133@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431037,
+    "wof:geomhash":"087d8414597b7a3f234addf1fc784173",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823366475
+        }
+    ],
+    "wof:id":823366475,
+    "wof:lastmodified":1463431037,
+    "wof:name":"Kanawha City Veterinary Hosp",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -81.571133,
+    38.315254,
+    -81.571133,
+    38.315254
+],
+  "geometry": {"coordinates":[-81.571133,38.315254],"type":"Point"}
+}

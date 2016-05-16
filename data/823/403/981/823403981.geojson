@@ -1,0 +1,76 @@
+{
+  "id": 823403981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.69545,40.067246,-80.69545,40.067246",
+    "geom:latitude":40.067246,
+    "geom:longitude":-80.69545,
+    "iso:country":"US",
+    "sg:address":"1 Medical Park",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 243 3343",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.medicalparkfcu.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85830083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YGAbGlhMON78XrvvHJNKv_40.067246_-80.695450@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432760,
+    "wof:geomhash":"32ff108ed822da975ac105449a39ed98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85830083,
+            "region_id":85688589,
+            "venue_id":823403981
+        }
+    ],
+    "wof:id":823403981,
+    "wof:lastmodified":1463432760,
+    "wof:name":"Medical Park Anesthesiologists",
+    "wof:parent_id":85830083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -80.69545,
+    40.067246,
+    -80.69545,
+    40.067246
+],
+  "geometry": {"coordinates":[-80.69544999999999,40.067246],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823429875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.849649,38.923149,-79.849649,38.923149",
+    "geom:latitude":38.923149,
+    "geom:longitude":-79.849649,
+    "iso:country":"US",
+    "sg:address":"105 1st St",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 4454",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TJ5fnciciTz63QrzLcSJ1_38.923149_-79.849649@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433879,
+    "wof:geomhash":"5609e0b1127c217cce730e67d608c7f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823429875
+        }
+    ],
+    "wof:id":823429875,
+    "wof:lastmodified":1463433879,
+    "wof:name":"Randolph County Family Rsrc",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -79.849649,
+    38.923149,
+    -79.849649,
+    38.923149
+],
+  "geometry": {"coordinates":[-79.849649,38.923149],"type":"Point"}
+}

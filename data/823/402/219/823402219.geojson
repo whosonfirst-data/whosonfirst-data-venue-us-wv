@@ -1,0 +1,73 @@
+{
+  "id": 823402219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.878964,37.6772,-80.878964,37.6772",
+    "geom:latitude":37.6772,
+    "geom:longitude":-80.878964,
+    "iso:country":"US",
+    "sg:address":"635 Fayette St",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 465 0511",
+    "sg:postcode":"25951",
+    "sg:province":"WV",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731641,
+        102083407,
+        85804037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oc8s0c8vT0ZxIPCGFsac9_37.677200_-80.878964@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432684,
+    "wof:geomhash":"0b131d2ebaaff2c6009ebf5a9debd80d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083407,
+            "locality_id":101731641,
+            "neighbourhood_id":85804037,
+            "region_id":85688589,
+            "venue_id":823402219
+        }
+    ],
+    "wof:id":823402219,
+    "wof:lastmodified":1463432684,
+    "wof:name":"CVS",
+    "wof:parent_id":85804037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -80.878964,
+    37.6772,
+    -80.878964,
+    37.6772
+],
+  "geometry": {"coordinates":[-80.878964,37.6772],"type":"Point"}
+}

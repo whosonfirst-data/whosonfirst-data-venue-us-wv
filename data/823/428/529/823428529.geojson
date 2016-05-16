@@ -1,0 +1,73 @@
+{
+  "id": 823428529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.981174,39.448345,-77.981174,39.448345",
+    "geom:latitude":39.448345,
+    "geom:longitude":-77.981174,
+    "iso:country":"US",
+    "sg:address":"1125 Washington Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 9961",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "lumber",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1owxL8dv8gFztzRsAwzHyO_39.448345_-77.981174@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433814,
+    "wof:geomhash":"0f3e0d5c2688b8430c41aa779483ea56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823428529
+        }
+    ],
+    "wof:id":823428529,
+    "wof:lastmodified":1463433814,
+    "wof:name":"Martinsburg Lumber Company",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lumber",
+        "supply"
+    ]
+},
+  "bbox": [
+    -77.981174,
+    39.448345,
+    -77.981174,
+    39.448345
+],
+  "geometry": {"coordinates":[-77.981174,39.448345],"type":"Point"}
+}

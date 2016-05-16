@@ -1,0 +1,79 @@
+{
+  "id": 823415473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.40701,38.396936,-82.40701,38.396936",
+    "geom:latitude":38.396936,
+    "geom:longitude":-82.40701,
+    "iso:country":"US",
+    "sg:address":"5 Marne Dr",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 522 0533",
+    "sg:postcode":"25705",
+    "sg:province":"WV",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868303,
+        102083329,
+        101731553,
+        85868309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gtl3zTYPQeeVpJFmE9Vrf_38.396936_-82.407010@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433257,
+    "wof:geomhash":"7fd1886461130837db00fcb93efef3e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "neighbourhood_id":85868303,
+            "region_id":85688589,
+            "venue_id":823415473
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731553,
+            "neighbourhood_id":85868309,
+            "region_id":85688589,
+            "venue_id":823415473
+        }
+    ],
+    "wof:id":823415473,
+    "wof:lastmodified":1463433257,
+    "wof:name":"Wayne W Maass DVM",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -82.40701,
+    38.396936,
+    -82.40701,
+    38.396936
+],
+  "geometry": {"coordinates":[-82.40701,38.396936],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823409873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.722791,38.354904,-81.722791,38.354904",
+    "geom:latitude":38.354904,
+    "geom:longitude":-81.722791,
+    "iso:country":"US",
+    "sg:address":"435 Park Ave",
+    "sg:city":"South Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 766 6000",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WrYhjrGEnsQPVaPY63bAn_38.354904_-81.722791@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433015,
+    "wof:geomhash":"7f87e2c9a520067b3c1c2bd8af4fd217",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823409873
+        }
+    ],
+    "wof:id":823409873,
+    "wof:lastmodified":1463433015,
+    "wof:name":"Alpha Lawn Care",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.722791,
+    38.354904,
+    -81.722791,
+    38.354904
+],
+  "geometry": {"coordinates":[-81.722791,38.354904],"type":"Point"}
+}

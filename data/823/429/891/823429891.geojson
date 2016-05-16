@@ -1,0 +1,75 @@
+{
+  "id": 823429891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.842323,38.923101,-79.842323,38.923101",
+    "geom:latitude":38.923101,
+    "geom:longitude":-79.842323,
+    "iso:country":"US",
+    "sg:address":"25 High St",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 338 2090",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "fire",
+        "alarm",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5txeLRM0ueuY9vT82xwHt2_38.923101_-79.842323@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433879,
+    "wof:geomhash":"39440d5c0ef03737c725a7e4a5270a75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823429891
+        }
+    ],
+    "wof:id":823429891,
+    "wof:lastmodified":1463433879,
+    "wof:name":"Fire Alarm",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "alarm",
+        "system"
+    ]
+},
+  "bbox": [
+    -79.842323,
+    38.923101,
+    -79.842323,
+    38.923101
+],
+  "geometry": {"coordinates":[-79.84232299999999,38.923101],"type":"Point"}
+}

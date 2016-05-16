@@ -1,0 +1,71 @@
+{
+  "id": 823393783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.957133,39.628152,-79.957133,39.628152",
+    "geom:latitude":39.628152,
+    "geom:longitude":-79.957133,
+    "iso:country":"US",
+    "sg:address":"120 High St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 6802",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "machine",
+        "sewing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6P8ZCinZl6kfy8FTlgwQRK_39.628152_-79.957133@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432265,
+    "wof:geomhash":"ab5435f4851ba14a0dfe6d8e319acd63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823393783
+        }
+    ],
+    "wof:id":823393783,
+    "wof:lastmodified":1463432265,
+    "wof:name":"Sew Inn Ltd",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "sewing"
+    ]
+},
+  "bbox": [
+    -79.957133,
+    39.628152,
+    -79.957133,
+    39.628152
+],
+  "geometry": {"coordinates":[-79.957133,39.628152],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823423487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.583011,38.324639,-81.583011,38.324639",
+    "geom:latitude":38.324639,
+    "geom:longitude":-81.583011,
+    "iso:country":"US",
+    "sg:address":"4414 Staunton Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 0014",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Mbt5Bu4eMg6CJM6VTcZST_38.324639_-81.583011@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433600,
+    "wof:geomhash":"f47eb3005a58152f11e55439736a6ee4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823423487
+        }
+    ],
+    "wof:id":823423487,
+    "wof:lastmodified":1463433600,
+    "wof:name":"Presidential Corporation Inc",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housing"
+    ]
+},
+  "bbox": [
+    -81.583011,
+    38.324639,
+    -81.583011,
+    38.324639
+],
+  "geometry": {"coordinates":[-81.583011,38.324639],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823412119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.729462,38.360735,-81.729462,38.360735",
+    "geom:latitude":38.360735,
+    "geom:longitude":-81.729462,
+    "iso:country":"US",
+    "sg:address":"505 Dunbar Ave",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 2402",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SuMoVosaFGzxyvXYqRB2C_38.360735_-81.729462@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433107,
+    "wof:geomhash":"f941173b4ef8ce7b64f1b3b96b5c006e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823412119
+        }
+    ],
+    "wof:id":823412119,
+    "wof:lastmodified":1463433107,
+    "wof:name":"Dunbar TV Svc",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [
+    -81.729462,
+    38.360735,
+    -81.729462,
+    38.360735
+],
+  "geometry": {"coordinates":[-81.729462,38.360735],"type":"Point"}
+}

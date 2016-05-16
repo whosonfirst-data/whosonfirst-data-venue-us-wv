@@ -1,0 +1,73 @@
+{
+  "id": 823447429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.636758,38.361557,-81.636758,38.361557",
+    "geom:latitude":38.361557,
+    "geom:longitude":-81.636758,
+    "iso:country":"US",
+    "sg:address":"837 Indiana Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 0968",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "pet",
+        "grooming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3m4mpmtnK3NXvFpWMNTqHg_38.361557_-81.636758@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434709,
+    "wof:geomhash":"d46295ce55590254ed5a2b67688291dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823447429
+        }
+    ],
+    "wof:id":823447429,
+    "wof:lastmodified":1463434709,
+    "wof:name":"Almost Heaven Canine Design",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming"
+    ]
+},
+  "bbox": [
+    -81.636758,
+    38.361557,
+    -81.636758,
+    38.361557
+],
+  "geometry": {"coordinates":[-81.636758,38.361557],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823421509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.64622,38.365138,-81.64622,38.365138",
+    "geom:latitude":38.365138,
+    "geom:longitude":-81.64622,
+    "iso:country":"US",
+    "sg:address":"623 Lee St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 9474",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ybDFoQ85kv3z6kViSJmff_38.365138_-81.646220@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433524,
+    "wof:geomhash":"cd82044e2e9b8d767b4504e0a41142bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823421509
+        }
+    ],
+    "wof:id":823421509,
+    "wof:lastmodified":1463433524,
+    "wof:name":"Make A Wish Foundation",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -81.64622,
+    38.365138,
+    -81.64622,
+    38.365138
+],
+  "geometry": {"coordinates":[-81.64622,38.365138],"type":"Point"}
+}

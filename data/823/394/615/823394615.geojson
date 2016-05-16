@@ -1,0 +1,71 @@
+{
+  "id": 823394615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.166125,39.44253,-80.166125,39.44253",
+    "geom:latitude":39.44253,
+    "geom:longitude":-80.166125,
+    "iso:country":"US",
+    "sg:address":"2205 Linn St",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 2775",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85834381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EpRmkwSgrfeMqcnKw4jet_39.442530_-80.166125@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432312,
+    "wof:geomhash":"fdb1ba9d9841c9faafbdb470bd5eb310",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85834381,
+            "region_id":85688589,
+            "venue_id":823394615
+        }
+    ],
+    "wof:id":823394615,
+    "wof:lastmodified":1463432312,
+    "wof:name":"D & W Contracting",
+    "wof:parent_id":85834381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -80.166125,
+    39.44253,
+    -80.166125,
+    39.44253
+],
+  "geometry": {"coordinates":[-80.16612499999999,39.44253],"type":"Point"}
+}

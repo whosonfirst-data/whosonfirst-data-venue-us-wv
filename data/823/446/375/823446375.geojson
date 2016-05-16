@@ -1,0 +1,73 @@
+{
+  "id": 823446375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.308333,37.799412,-80.308333,37.799412",
+    "geom:latitude":37.799412,
+    "geom:longitude":-80.308333,
+    "iso:country":"US",
+    "sg:address":"155 Old White Trl",
+    "sg:city":"White Slphr Spgs",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 536 3413",
+    "sg:postcode":"24986",
+    "sg:province":"WV",
+    "sg:tags":[
+        "passenger",
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_318shkPNzP9erX8zdbjmuZ_37.799412_-80.308333@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434668,
+    "wof:geomhash":"a482dbc46748a7ff8d428d9bf67c07c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823446375
+        }
+    ],
+    "wof:id":823446375,
+    "wof:lastmodified":1463434668,
+    "wof:name":"Republic Ambulance Service",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -80.308333,
+    37.799412,
+    -80.308333,
+    37.799412
+],
+  "geometry": {"coordinates":[-80.308333,37.799412],"type":"Point"}
+}

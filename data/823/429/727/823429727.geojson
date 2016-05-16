@@ -1,0 +1,73 @@
+{
+  "id": 823429727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.555902,38.309328,-81.555902,38.309328",
+    "geom:latitude":38.309328,
+    "geom:longitude":-81.555902,
+    "iso:country":"US",
+    "sg:address":"4 Port Amherst Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 9230",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4co1rbEOtQaSkaVJZTcYN1_38.309328_-81.555902@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433874,
+    "wof:geomhash":"8c116037ff0c203ac641c3552881bd37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823429727
+        }
+    ],
+    "wof:id":823429727,
+    "wof:lastmodified":1463433874,
+    "wof:name":"Construction Resources Inc",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.555902,
+    38.309328,
+    -81.555902,
+    38.309328
+],
+  "geometry": {"coordinates":[-81.555902,38.309328],"type":"Point"}
+}

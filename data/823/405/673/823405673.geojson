@@ -1,0 +1,71 @@
+{
+  "id": 823405673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.536592,38.313214,-81.536592,38.313214",
+    "geom:latitude":38.313214,
+    "geom:longitude":-81.536592,
+    "iso:country":"US",
+    "sg:address":"314 Campbells Creek Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 7469",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yW2Wl0Z3tbljHUrsXqPL0_38.313214_-81.536592@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432846,
+    "wof:geomhash":"f25764aa34f0bc6ae0c08a64b03efddc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823405673
+        }
+    ],
+    "wof:id":823405673,
+    "wof:lastmodified":1463432846,
+    "wof:name":"Mike Long",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -81.536592,
+    38.313214,
+    -81.536592,
+    38.313214
+],
+  "geometry": {"coordinates":[-81.536592,38.313214],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823368885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.619581,38.345026,-81.619581,38.345026",
+    "geom:latitude":38.345026,
+    "geom:longitude":-81.619581,
+    "iso:country":"US",
+    "sg:address":"1500 Dixie St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 346 5891",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "social"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85850023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4u3aLFLpcxwRL5YawFRRHs_38.345026_-81.619581@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431129,
+    "wof:geomhash":"1337a12cebd9fb8740a35b7023dc5804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85850023,
+            "region_id":85688589,
+            "venue_id":823368885
+        }
+    ],
+    "wof:id":823368885,
+    "wof:lastmodified":1463431129,
+    "wof:name":"West Virginia Citizens Action",
+    "wof:parent_id":85850023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "social"
+    ]
+},
+  "bbox": [
+    -81.619581,
+    38.345026,
+    -81.619581,
+    38.345026
+],
+  "geometry": {"coordinates":[-81.619581,38.345026],"type":"Point"}
+}

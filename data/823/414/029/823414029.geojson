@@ -1,0 +1,71 @@
+{
+  "id": 823414029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.573626,37.432105,-81.573626,37.432105",
+    "geom:latitude":37.432105,
+    "geom:longitude":-81.573626,
+    "iso:country":"US",
+    "sg:address":"550 Virgina Ave",
+    "sg:city":"Welch",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 436 6554",
+    "sg:postcode":"24801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85809677,
+        102083405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Rip19Vo4ynTSWYpUu5Sq4_37.432105_-81.573626@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433184,
+    "wof:geomhash":"2c6af3cda30fd6b7d67067fa0faf3e70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083405,
+            "neighbourhood_id":85809677,
+            "region_id":85688589,
+            "venue_id":823414029
+        }
+    ],
+    "wof:id":823414029,
+    "wof:lastmodified":1463433184,
+    "wof:name":"Jim's Engine & Radiator",
+    "wof:parent_id":85809677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -81.573626,
+    37.432105,
+    -81.573626,
+    37.432105
+],
+  "geometry": {"coordinates":[-81.573626,37.432105],"type":"Point"}
+}

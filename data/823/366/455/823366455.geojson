@@ -1,0 +1,73 @@
+{
+  "id": 823366455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.571984,40.611595,-80.571984,40.611595",
+    "geom:latitude":40.611595,
+    "geom:longitude":-80.571984,
+    "iso:country":"US",
+    "sg:address":"111 1st St",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 2761",
+    "sg:postcode":"26034",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4C1OaZf324KhlOgj1egAUa_40.611595_-80.571984@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431037,
+    "wof:geomhash":"bdaa86f12699cda02bc630b1d82c2262",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823366455
+        }
+    ],
+    "wof:id":823366455,
+    "wof:lastmodified":1463431037,
+    "wof:name":"Lifecare Medical Assoc",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -80.571984,
+    40.611595,
+    -80.571984,
+    40.611595
+],
+  "geometry": {"coordinates":[-80.571984,40.611595],"type":"Point"}
+}

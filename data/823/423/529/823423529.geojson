@@ -1,0 +1,71 @@
+{
+  "id": 823423529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.461275,39.281263,-81.461275,39.281263",
+    "geom:latitude":39.281263,
+    "geom:longitude":-81.461275,
+    "iso:country":"US",
+    "sg:address":"1552 Spider Ridge Rd",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 679 5677",
+    "sg:postcode":"26104",
+    "sg:province":"WV",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85818775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hUs0yB9geZHogtDALqfeG_39.281263_-81.461275@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433602,
+    "wof:geomhash":"eadd58c0e99cd43685e6021e8504a1f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85818775,
+            "region_id":85688589,
+            "venue_id":823423529
+        }
+    ],
+    "wof:id":823423529,
+    "wof:lastmodified":1463433602,
+    "wof:name":"Quality Tree Svc",
+    "wof:parent_id":85818775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -81.461275,
+    39.281263,
+    -81.461275,
+    39.281263
+],
+  "geometry": {"coordinates":[-81.461275,39.281263],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823444253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.059901,37.366813,-81.059901,37.366813",
+    "geom:latitude":37.366813,
+    "geom:longitude":-81.059901,
+    "iso:country":"US",
+    "sg:address":"203 Cahill Dr",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 6391",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "pavement",
+        "sealing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55EhnMNDbpAKa57iiocP5e_37.366813_-81.059901@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434551,
+    "wof:geomhash":"a33a8ab047150298c139be1b46604413",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823444253
+        }
+    ],
+    "wof:id":823444253,
+    "wof:lastmodified":1463434551,
+    "wof:name":"A Plus Pavement Protection Inc",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pavement",
+        "sealing"
+    ]
+},
+  "bbox": [
+    -81.059901,
+    37.366813,
+    -81.059901,
+    37.366813
+],
+  "geometry": {"coordinates":[-81.059901,37.366813],"type":"Point"}
+}

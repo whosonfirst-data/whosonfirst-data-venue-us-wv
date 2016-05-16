@@ -1,0 +1,67 @@
+{
+  "id": 823399845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.988058,39.455947,-77.988058,39.455947",
+    "geom:latitude":39.455947,
+    "geom:longitude":-77.988058,
+    "iso:country":"US",
+    "sg:address":"975 Foxcroft Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 267 2900",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:website":"www.hamptoninn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_593j3KbRqD0VPd1QFwpQln_39.455947_-77.988058@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432577,
+    "wof:geomhash":"eed706141d380ba4ac46afbcc3eedec3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823399845
+        }
+    ],
+    "wof:id":823399845,
+    "wof:lastmodified":1463432577,
+    "wof:name":"Hampton Inn",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.988058,
+    39.455947,
+    -77.988058,
+    39.455947
+],
+  "geometry": {"coordinates":[-77.988058,39.455947],"type":"Point"}
+}

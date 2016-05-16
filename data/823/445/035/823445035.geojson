@@ -1,0 +1,71 @@
+{
+  "id": 823445035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.411526,38.409772,-82.411526,38.409772",
+    "geom:latitude":38.409772,
+    "geom:longitude":-82.411526,
+    "iso:country":"US",
+    "sg:address":"146 Norway Ave",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 522 9557",
+    "sg:postcode":"25705",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083329,
+        85868309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nPwPoar2CfSOxnIl3cyRV_38.409772_-82.411526@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434593,
+    "wof:geomhash":"b3cce662d90127d99f03d6256d39a0a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731553,
+            "neighbourhood_id":85868309,
+            "region_id":85688589,
+            "venue_id":823445035
+        }
+    ],
+    "wof:id":823445035,
+    "wof:lastmodified":1463434593,
+    "wof:name":"Gino's Pizza & Spaghetti House",
+    "wof:parent_id":85868309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -82.411526,
+    38.409772,
+    -82.411526,
+    38.409772
+],
+  "geometry": {"coordinates":[-82.41152599999999,38.409772],"type":"Point"}
+}

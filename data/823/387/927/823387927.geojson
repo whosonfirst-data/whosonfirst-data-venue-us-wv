@@ -1,0 +1,75 @@
+{
+  "id": 823387927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.587024,38.324607,-81.587024,38.324607",
+    "geom:latitude":38.324607,
+    "geom:longitude":-81.587024,
+    "iso:country":"US",
+    "sg:address":"4216 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 926 1040",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cookie",
+        "specialty",
+        "arrangement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03rMy61WGmnbAiRgd3koCZ_38.324607_-81.587024@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431961,
+    "wof:geomhash":"662186c5709e26d46628ccdc049ade0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823387927
+        }
+    ],
+    "wof:id":823387927,
+    "wof:lastmodified":1463431961,
+    "wof:name":"Cookie Bouquet",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cookie",
+        "specialty",
+        "arrangement"
+    ]
+},
+  "bbox": [
+    -81.587024,
+    38.324607,
+    -81.587024,
+    38.324607
+],
+  "geometry": {"coordinates":[-81.587024,38.324607],"type":"Point"}
+}

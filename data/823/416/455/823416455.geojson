@@ -1,0 +1,73 @@
+{
+  "id": 823416455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.688393,38.367277,-81.688393,38.367277",
+    "geom:latitude":38.367277,
+    "geom:longitude":-81.688393,
+    "iso:country":"US",
+    "sg:address":"534 3rd Ave SW",
+    "sg:city":"South Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 0877",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2P4v3hao90gi5qehQNK64g_38.367277_-81.688393@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433301,
+    "wof:geomhash":"22c1a9a63e627adb069f71826540c6c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823416455
+        }
+    ],
+    "wof:id":823416455,
+    "wof:lastmodified":1463433301,
+    "wof:name":"Express Oil & Lube",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -81.688393,
+    38.367277,
+    -81.688393,
+    38.367277
+],
+  "geometry": {"coordinates":[-81.688393,38.367277],"type":"Point"}
+}

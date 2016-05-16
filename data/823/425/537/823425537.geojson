@@ -1,0 +1,73 @@
+{
+  "id": 823425537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.554005,38.310008,-81.554005,38.310008",
+    "geom:latitude":38.310008,
+    "geom:longitude":-81.554005,
+    "iso:country":"US",
+    "sg:address":"172 Campbells Creek Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 2029",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TUCCHuJU4e1BXii388tq7_38.310008_-81.554005@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433680,
+    "wof:geomhash":"ed3c53276135e769edcd64a156b2b8e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823425537
+        }
+    ],
+    "wof:id":823425537,
+    "wof:lastmodified":1463433680,
+    "wof:name":"Baria's Service Ctr",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -81.554005,
+    38.310008,
+    -81.554005,
+    38.310008
+],
+  "geometry": {"coordinates":[-81.554005,38.310008],"type":"Point"}
+}

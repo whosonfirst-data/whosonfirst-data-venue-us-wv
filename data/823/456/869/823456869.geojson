@@ -1,0 +1,86 @@
+{
+  "id": 823456869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.593617,40.392156,-80.593617,40.392156",
+    "geom:latitude":40.392156,
+    "geom:longitude":-80.593617,
+    "iso:country":"US",
+    "sg:address":"4096 Main St",
+    "sg:city":"Weirton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bowling",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 797 1000",
+    "sg:postcode":"26062",
+    "sg:province":"WV",
+    "sg:tags":[
+        "accessory",
+        "equipment",
+        "sportswear",
+        "apparel",
+        "racing",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731371,
+        102082633,
+        85832497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cyjPHKtCfNf2GB6ESWt2U_40.392156_-80.593617@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435127,
+    "wof:geomhash":"025bda8beff26830a73351c6f00ccfa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731371,
+            "neighbourhood_id":85832497,
+            "region_id":85688589,
+            "venue_id":823456869
+        }
+    ],
+    "wof:id":823456869,
+    "wof:lastmodified":1463435127,
+    "wof:name":"Stars & Stripes",
+    "wof:parent_id":85832497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accessory",
+        "equipment",
+        "sportswear",
+        "apparel",
+        "racing",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -80.593617,
+    40.392156,
+    -80.593617,
+    40.392156
+],
+  "geometry": {"coordinates":[-80.59361699999999,40.392156],"type":"Point"}
+}

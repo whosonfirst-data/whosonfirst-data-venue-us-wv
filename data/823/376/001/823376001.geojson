@@ -1,0 +1,69 @@
+{
+  "id": 823376001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.453364,39.039223,-80.453364,39.039223",
+    "geom:latitude":39.039223,
+    "geom:longitude":-80.453364,
+    "iso:country":"US",
+    "sg:address":"150 John St",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 269 7169",
+    "sg:postcode":"26452",
+    "sg:province":"WV",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85833241,
+        102083339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sMK3O6qX5cJ0i8SMxewYS_39.039223_-80.453364@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431459,
+    "wof:geomhash":"b96b10e36999cd7fa3ef3aeabd41df88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083339,
+            "neighbourhood_id":85833241,
+            "region_id":85688589,
+            "venue_id":823376001
+        }
+    ],
+    "wof:id":823376001,
+    "wof:lastmodified":1463431459,
+    "wof:name":"Gilbertson & Hogan Assoc LLC",
+    "wof:parent_id":85833241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -80.453364,
+    39.039223,
+    -80.453364,
+    39.039223
+],
+  "geometry": {"coordinates":[-80.45336399999999,39.039223],"type":"Point"}
+}

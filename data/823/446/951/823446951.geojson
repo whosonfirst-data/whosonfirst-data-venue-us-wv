@@ -1,0 +1,73 @@
+{
+  "id": 823446951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.234253,37.264329,-81.234253,37.264329",
+    "geom:latitude":37.264329,
+    "geom:longitude":-81.234253,
+    "iso:country":"US",
+    "sg:address":"900 Highland Ave",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 327 7411",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7h0ME9wiZVn4URL5CBpME8_37.264329_-81.234253@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434691,
+    "wof:geomhash":"dc60cec6f33167aeace9833e85da4b76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823446951
+        }
+    ],
+    "wof:id":823446951,
+    "wof:lastmodified":1463434691,
+    "wof:name":"Salvation Army Citadel",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -81.234253,
+    37.264329,
+    -81.234253,
+    37.264329
+],
+  "geometry": {"coordinates":[-81.234253,37.264329],"type":"Point"}
+}

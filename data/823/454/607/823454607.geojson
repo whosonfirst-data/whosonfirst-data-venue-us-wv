@@ -1,0 +1,76 @@
+{
+  "id": 823454607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.971888,39.45775,-77.971888,39.45775",
+    "geom:latitude":39.45775,
+    "geom:longitude":-77.971888,
+    "iso:country":"US",
+    "sg:address":"615 W King St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 267 4711",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "self",
+        "warehouses-merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85846047,
+        102083367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QS8xf2gyeMNO4f1FTVlFH_39.457750_-77.971888@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435040,
+    "wof:geomhash":"b9dc057a8424cc343673f1170da0e177",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "neighbourhood_id":85846047,
+            "region_id":85688589,
+            "venue_id":823454607
+        }
+    ],
+    "wof:id":823454607,
+    "wof:lastmodified":1463435040,
+    "wof:name":"Martinsburg Warehouse & Commercial Center Inc",
+    "wof:parent_id":85846047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self",
+        "warehouses-merchandise"
+    ]
+},
+  "bbox": [
+    -77.971888,
+    39.45775,
+    -77.971888,
+    39.45775
+],
+  "geometry": {"coordinates":[-77.97188800000001,39.45775],"type":"Point"}
+}

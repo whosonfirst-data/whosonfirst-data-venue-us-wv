@@ -1,0 +1,75 @@
+{
+  "id": 823366111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.59326,38.390829,-82.59326,38.390829",
+    "geom:latitude":38.390829,
+    "geom:longitude":-82.59326,
+    "iso:country":"US",
+    "sg:address":"2616 Big Sandy Rd",
+    "sg:city":"Kenova",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 6196",
+    "sg:postcode":"25530",
+    "sg:province":"WV",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731517,
+        102083365,
+        85806071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WxY2mukmyDxC3to8hdISP_38.390829_-82.593260@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431016,
+    "wof:geomhash":"c5dde4eef17ed0b4693512c240cd6e87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731517,
+            "neighbourhood_id":85806071,
+            "region_id":85688589,
+            "venue_id":823366111
+        }
+    ],
+    "wof:id":823366111,
+    "wof:lastmodified":1463431016,
+    "wof:name":"BTI Contracting",
+    "wof:parent_id":85806071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -82.59326,
+    38.390829,
+    -82.59326,
+    38.390829
+],
+  "geometry": {"coordinates":[-82.59326,38.390829],"type":"Point"}
+}

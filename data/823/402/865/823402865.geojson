@@ -1,0 +1,71 @@
+{
+  "id": 823402865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.516722,39.275151,-81.516722,39.275151",
+    "geom:latitude":39.275151,
+    "geom:longitude":-81.516722,
+    "iso:country":"US",
+    "sg:address":"2805 28th St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 422 5639",
+    "sg:postcode":"26104",
+    "sg:province":"WV",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85818775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FJxRQcBIywHJ5Cz3tLlaw_39.275151_-81.516722@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432706,
+    "wof:geomhash":"1f35b4deb828c43566faf896295f7c4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85818775,
+            "region_id":85688589,
+            "venue_id":823402865
+        }
+    ],
+    "wof:id":823402865,
+    "wof:lastmodified":1463432706,
+    "wof:name":"Hughes Family Chronicle",
+    "wof:parent_id":85818775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -81.516722,
+    39.275151,
+    -81.516722,
+    39.275151
+],
+  "geometry": {"coordinates":[-81.516722,39.275151],"type":"Point"}
+}

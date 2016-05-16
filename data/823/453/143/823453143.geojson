@@ -1,0 +1,70 @@
+{
+  "id": 823453143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.130793,38.004923,-81.130793,38.004923",
+    "geom:latitude":38.004923,
+    "geom:longitude":-81.130793,
+    "iso:country":"US",
+    "sg:address":"2027 Main St E",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/plateau/207422-chicos/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 469 6505",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1arIsH1Ly9HTt68Z5BYyj6_38.004923_-81.130793@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434935,
+    "wof:geomhash":"7f46ad25a8003978661e0eaa1fffc17c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823453143
+        }
+    ],
+    "wof:id":823453143,
+    "wof:lastmodified":1463434935,
+    "wof:name":"Chico's",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -81.130793,
+    38.004923,
+    -81.130793,
+    38.004923
+],
+  "geometry": {"coordinates":[-81.130793,38.004923],"type":"Point"}
+}

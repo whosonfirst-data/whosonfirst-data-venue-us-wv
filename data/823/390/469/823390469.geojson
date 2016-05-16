@@ -1,0 +1,73 @@
+{
+  "id": 823390469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.340963,38.412197,-82.340963,38.412197",
+    "geom:latitude":38.412197,
+    "geom:longitude":-82.340963,
+    "iso:country":"US",
+    "sg:address":"5194 US Hwy 60",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 733 2791",
+    "sg:postcode":"25705",
+    "sg:province":"WV",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85856091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CvgVxnXDcgaYd7znk9oy0_38.412197_-82.340963@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432099,
+    "wof:geomhash":"a2d05217fe6a3658ab27783a2d2287c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85856091,
+            "region_id":85688589,
+            "venue_id":823390469
+        }
+    ],
+    "wof:id":823390469,
+    "wof:lastmodified":1463432099,
+    "wof:name":"Tri State Storage Ctr",
+    "wof:parent_id":85856091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -82.340963,
+    38.412197,
+    -82.340963,
+    38.412197
+],
+  "geometry": {"coordinates":[-82.340963,38.412197],"type":"Point"}
+}

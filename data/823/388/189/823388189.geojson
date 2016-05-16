@@ -1,0 +1,73 @@
+{
+  "id": 823388189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.713359,38.39975,-81.713359,38.39975",
+    "geom:latitude":38.39975,
+    "geom:longitude":-81.713359,
+    "iso:country":"US",
+    "sg:address":"4475 Woodrum Ln",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 746 0601",
+    "sg:postcode":"25313",
+    "sg:province":"WV",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_062Znl5cZqRVFckdCBvGDj_38.399750_-81.713359@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431980,
+    "wof:geomhash":"a3a7965d7cb94b77c389761d59378e56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823388189
+        }
+    ],
+    "wof:id":823388189,
+    "wof:lastmodified":1463431980,
+    "wof:name":"Wireless Works Instltn & Rpr",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -81.713359,
+    38.39975,
+    -81.713359,
+    38.39975
+],
+  "geometry": {"coordinates":[-81.713359,38.39975],"type":"Point"}
+}

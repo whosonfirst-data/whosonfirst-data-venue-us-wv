@@ -1,0 +1,71 @@
+{
+  "id": 823391359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.603175,40.61839,-80.603175,40.61839",
+    "geom:latitude":40.61839,
+    "geom:longitude":-80.603175,
+    "iso:country":"US",
+    "sg:address":"548 Washington St",
+    "sg:city":"Newell",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 2017",
+    "sg:postcode":"26050",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HPcGMbiE6JnPywzzzDhdp_40.618390_-80.603175@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432137,
+    "wof:geomhash":"9690ec2909360747928fcb00b298a82b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823391359
+        }
+    ],
+    "wof:id":823391359,
+    "wof:lastmodified":1463432137,
+    "wof:name":"Original Di Carlo's Pizza",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -80.603175,
+    40.61839,
+    -80.603175,
+    40.61839
+],
+  "geometry": {"coordinates":[-80.60317499999999,40.61839],"type":"Point"}
+}

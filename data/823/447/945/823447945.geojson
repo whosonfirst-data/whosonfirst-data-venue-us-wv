@@ -1,0 +1,71 @@
+{
+  "id": 823447945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.833991,38.92754,-79.833991,38.92754",
+    "geom:latitude":38.92754,
+    "geom:longitude":-79.833991,
+    "iso:country":"US",
+    "sg:address":"158 Weese St",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 637 4232",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "exhaust"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SEvP7yhdMXTg4Q8lshpU4_38.927540_-79.833991@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434738,
+    "wof:geomhash":"63ed4188978e308f63dd85abe520b846",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823447945
+        }
+    ],
+    "wof:id":823447945,
+    "wof:lastmodified":1463434738,
+    "wof:name":"Top Line Exhausts Inc",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exhaust"
+    ]
+},
+  "bbox": [
+    -79.833991,
+    38.92754,
+    -79.833991,
+    38.92754
+],
+  "geometry": {"coordinates":[-79.833991,38.92754],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 823457183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.996239,39.63232,-79.996239,39.63232",
+    "geom:latitude":39.63232,
+    "geom:longitude":-79.996239,
+    "iso:country":"US",
+    "sg:address":"181 Lee St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Office Building",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 0052",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "park"
+    ],
+    "sg:website":"http://www.vangilderhotel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818601,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MhtjVHNP79gPCJQvCXy9Q_39.632320_-79.996239@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435148,
+    "wof:geomhash":"0cfafc39f4b4bd2ade214f5fc052dae0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85818601,
+            "region_id":85688589,
+            "venue_id":823457183
+        }
+    ],
+    "wof:id":823457183,
+    "wof:lastmodified":1463435148,
+    "wof:name":"Van Gilder Properties",
+    "wof:parent_id":85818601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "park"
+    ]
+},
+  "bbox": [
+    -79.996239,
+    39.63232,
+    -79.996239,
+    39.63232
+],
+  "geometry": {"coordinates":[-79.996239,39.63232],"type":"Point"}
+}

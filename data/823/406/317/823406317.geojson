@@ -1,0 +1,73 @@
+{
+  "id": 823406317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.630016,38.346036,-81.630016,38.346036",
+    "geom:latitude":38.346036,
+    "geom:longitude":-81.630016,
+    "iso:country":"US",
+    "sg:address":"1207 Quarrier St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 2883",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Z8vkIq62xCK4tIuakamjE_38.346036_-81.630016@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432874,
+    "wof:geomhash":"84aa0b0e178d5e70a06e8162e12388f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823406317
+        }
+    ],
+    "wof:id":823406317,
+    "wof:lastmodified":1463432874,
+    "wof:name":"Long Distance Telephone Svc",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -81.630016,
+    38.346036,
+    -81.630016,
+    38.346036
+],
+  "geometry": {"coordinates":[-81.630016,38.346036],"type":"Point"}
+}

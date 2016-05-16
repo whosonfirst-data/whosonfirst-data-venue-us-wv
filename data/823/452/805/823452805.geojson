@@ -1,0 +1,74 @@
+{
+  "id": 823452805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.130715,38.434531,-82.130715,38.434531",
+    "geom:latitude":38.434531,
+    "geom:longitude":-82.130715,
+    "iso:country":"US",
+    "sg:address":"325 E Main St",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/milton/192414-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 743 4950",
+    "sg:postcode":"25541",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85816671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HDyNctnM19mvsCZS2i38I_38.434531_-82.130715@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434921,
+    "wof:geomhash":"decb74272aef3880273adabd6b8323da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85816671,
+            "region_id":85688589,
+            "venue_id":823452805
+        }
+    ],
+    "wof:id":823452805,
+    "wof:lastmodified":1463434921,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85816671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -82.130715,
+    38.434531,
+    -82.130715,
+    38.434531
+],
+  "geometry": {"coordinates":[-82.130715,38.434531],"type":"Point"}
+}

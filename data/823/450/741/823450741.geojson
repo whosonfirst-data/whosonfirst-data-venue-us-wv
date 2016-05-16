@@ -1,0 +1,73 @@
+{
+  "id": 823450741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.16497,37.895577,-81.16497,37.895577",
+    "geom:latitude":37.895577,
+    "geom:longitude":-81.16497,
+    "iso:country":"US",
+    "sg:address":"409 Monroe St",
+    "sg:city":"Mt Hope",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 877 5340",
+    "sg:postcode":"25880",
+    "sg:province":"WV",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731505,
+        102083359,
+        85852821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5G4eGwIGS92rq9RVR51XgW_37.895577_-81.164970@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434843,
+    "wof:geomhash":"28492225d78b529e1e5d3d9713d4d8bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "locality_id":101731505,
+            "neighbourhood_id":85852821,
+            "region_id":85688589,
+            "venue_id":823450741
+        }
+    ],
+    "wof:id":823450741,
+    "wof:lastmodified":1463434843,
+    "wof:name":"Loop Creek Trash Co",
+    "wof:parent_id":85852821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -81.16497,
+    37.895577,
+    -81.16497,
+    37.895577
+],
+  "geometry": {"coordinates":[-81.16497,37.895577],"type":"Point"}
+}

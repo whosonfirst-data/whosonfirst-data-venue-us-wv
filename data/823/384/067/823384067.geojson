@@ -1,0 +1,69 @@
+{
+  "id": 823384067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.993241,37.847289,-81.993241,37.847289",
+    "geom:latitude":37.847289,
+    "geom:longitude":-81.993241,
+    "iso:country":"US",
+    "sg:address":"210 Main St",
+    "sg:city":"Omar",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 946 2832",
+    "sg:postcode":"25601",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868319,
+        102083369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XMGhKkU1rZL8imwmf97HF_37.847289_-81.993241@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431813,
+    "wof:geomhash":"148af15bc1f4877730f3474069e789ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083369,
+            "neighbourhood_id":85868319,
+            "region_id":85688589,
+            "venue_id":823384067
+        }
+    ],
+    "wof:id":823384067,
+    "wof:lastmodified":1463431813,
+    "wof:name":"Omar Quickstop",
+    "wof:parent_id":85868319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -81.993241,
+    37.847289,
+    -81.993241,
+    37.847289
+],
+  "geometry": {"coordinates":[-81.993241,37.847289],"type":"Point"}
+}

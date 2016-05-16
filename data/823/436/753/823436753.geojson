@@ -1,0 +1,71 @@
+{
+  "id": 823436753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.547888,38.232255,-81.547888,38.232255",
+    "geom:latitude":38.232255,
+    "geom:longitude":-81.547888,
+    "iso:country":"US",
+    "sg:address":"11645 Maccorkle Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 6415",
+    "sg:postcode":"25315",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gizkIEuVxTp94PqP7P1Jo_38.232255_-81.547888@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434208,
+    "wof:geomhash":"47e749884fb394604e721a08ae0734ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823436753
+        }
+    ],
+    "wof:id":823436753,
+    "wof:lastmodified":1463434208,
+    "wof:name":"Cornell Byers",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -81.547888,
+    38.232255,
+    -81.547888,
+    38.232255
+],
+  "geometry": {"coordinates":[-81.547888,38.232255],"type":"Point"}
+}

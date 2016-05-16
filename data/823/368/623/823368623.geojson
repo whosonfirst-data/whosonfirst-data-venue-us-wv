@@ -1,0 +1,73 @@
+{
+  "id": 823368623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.630637,38.528926,-81.630637,38.528926",
+    "geom:latitude":38.528926,
+    "geom:longitude":-81.630637,
+    "iso:country":"US",
+    "sg:address":"8333 Sissonville Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 3558",
+    "sg:postcode":"25320",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OAoRjG85d5jcdMT2ykF3j_38.528926_-81.630637@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431120,
+    "wof:geomhash":"aaa60be37fb2baed16726e58c09437a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823368623
+        }
+    ],
+    "wof:id":823368623,
+    "wof:lastmodified":1463431120,
+    "wof:name":"William J Jean Electric Co",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.630637,
+    38.528926,
+    -81.630637,
+    38.528926
+],
+  "geometry": {"coordinates":[-81.63063699999999,38.528926],"type":"Point"}
+}

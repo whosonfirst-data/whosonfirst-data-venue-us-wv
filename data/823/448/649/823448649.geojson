@@ -1,0 +1,73 @@
+{
+  "id": 823448649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.582324,38.325179,-81.582324,38.325179",
+    "geom:latitude":38.325179,
+    "geom:longitude":-81.582324,
+    "iso:country":"US",
+    "sg:address":"4401 Virginia Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 8407",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "monastery",
+        "convent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qBiZ7jEWbfdjSNBiGfeXs_38.325179_-81.582324@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434764,
+    "wof:geomhash":"4ad154ee0f0f731b31933116a894e55a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823448649
+        }
+    ],
+    "wof:id":823448649,
+    "wof:lastmodified":1463434764,
+    "wof:name":"Sisters Of Saint Joseph",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monastery",
+        "convent"
+    ]
+},
+  "bbox": [
+    -81.582324,
+    38.325179,
+    -81.582324,
+    38.325179
+],
+  "geometry": {"coordinates":[-81.582324,38.325179],"type":"Point"}
+}

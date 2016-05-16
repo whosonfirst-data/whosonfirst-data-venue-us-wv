@@ -1,0 +1,68 @@
+{
+  "id": 823435373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.684849,40.076149,-80.684849,40.076149",
+    "geom:latitude":40.076149,
+    "geom:longitude":-80.684849,
+    "iso:country":"US",
+    "sg:address":"1136 National Rd",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 242 7222",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85830083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04YFs1EHWfkQ3bXFQJj9VU_40.076149_-80.684849@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434141,
+    "wof:geomhash":"aac8717c2119675bb7a8839d70a9bb7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85830083,
+            "region_id":85688589,
+            "venue_id":823435373
+        }
+    ],
+    "wof:id":823435373,
+    "wof:lastmodified":1463434141,
+    "wof:name":"Daniel I Joseph DDS",
+    "wof:parent_id":85830083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.684849,
+    40.076149,
+    -80.684849,
+    40.076149
+],
+  "geometry": {"coordinates":[-80.684849,40.076149],"type":"Point"}
+}

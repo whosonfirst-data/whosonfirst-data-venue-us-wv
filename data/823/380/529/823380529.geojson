@@ -1,0 +1,75 @@
+{
+  "id": 823380529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.614661,38.342489,-81.614661,38.342489",
+    "geom:latitude":38.342489,
+    "geom:longitude":-81.614661,
+    "iso:country":"US",
+    "sg:address":"501 Elizabeth St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 7663",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "environmental",
+        "org"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85850023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BT6c7JrvnbrR1ULwGxXRy_38.342489_-81.614661@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431665,
+    "wof:geomhash":"0e6d175460767c884c79bad35b12ea10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85850023,
+            "region_id":85688589,
+            "venue_id":823380529
+        }
+    ],
+    "wof:id":823380529,
+    "wof:lastmodified":1463431665,
+    "wof:name":"Environmental Service & Educ",
+    "wof:parent_id":85850023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "environmental",
+        "org"
+    ]
+},
+  "bbox": [
+    -81.614661,
+    38.342489,
+    -81.614661,
+    38.342489
+],
+  "geometry": {"coordinates":[-81.614661,38.342489],"type":"Point"}
+}

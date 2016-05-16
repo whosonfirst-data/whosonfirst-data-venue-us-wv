@@ -1,0 +1,88 @@
+{
+  "id": 823457347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.914879,39.662024,-79.914879,39.662024",
+    "geom:latitude":39.662024,
+    "geom:longitude":-79.914879,
+    "iso:country":"US",
+    "sg:address":"3081C Point Marion Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 0355",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "body",
+        "repairing",
+        "cars-wholesale",
+        "used",
+        "car",
+        "dealers-used",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731747,
+        102082587,
+        85819247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0l7oIJpwJt3bbZmQXjwmDr_39.662024_-79.914879@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435155,
+    "wof:geomhash":"e22c330c19028a6c5f0ee9cd125479fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85819247,
+            "region_id":85688589,
+            "venue_id":823457347
+        }
+    ],
+    "wof:id":823457347,
+    "wof:lastmodified":1463435155,
+    "wof:name":"Auto Detail Plus",
+    "wof:parent_id":85819247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "repairing",
+        "cars-wholesale",
+        "used",
+        "car",
+        "dealers-used",
+        "painting"
+    ]
+},
+  "bbox": [
+    -79.914879,
+    39.662024,
+    -79.914879,
+    39.662024
+],
+  "geometry": {"coordinates":[-79.914879,39.662024],"type":"Point"}
+}

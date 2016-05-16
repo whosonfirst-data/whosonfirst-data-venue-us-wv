@@ -1,0 +1,71 @@
+{
+  "id": 823390219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.950894,39.623411,-79.950894,39.623411",
+    "geom:latitude":39.623411,
+    "geom:longitude":-79.950894,
+    "iso:country":"US",
+    "sg:address":"418 Wilson Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 7476",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YneN4VrddyOZHvbNOjmpr_39.623411_-79.950894@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432090,
+    "wof:geomhash":"27b8dc8891685598076031420866e2f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823390219
+        }
+    ],
+    "wof:id":823390219,
+    "wof:lastmodified":1463432090,
+    "wof:name":"Gene Perilli II",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -79.950894,
+    39.623411,
+    -79.950894,
+    39.623411
+],
+  "geometry": {"coordinates":[-79.95089400000001,39.623411],"type":"Point"}
+}

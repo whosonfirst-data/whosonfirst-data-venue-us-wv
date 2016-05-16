@@ -1,0 +1,75 @@
+{
+  "id": 823384457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.708277,38.373829,-81.708277,38.373829",
+    "geom:latitude":38.373829,
+    "geom:longitude":-81.708277,
+    "iso:country":"US",
+    "sg:address":"4028 Washington St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 2441",
+    "sg:postcode":"25313",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_331GdOHyVrJBCA4NzHhwaX_38.373829_-81.708277@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431826,
+    "wof:geomhash":"0ae0dd86559dccdf9e037f306a5046c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823384457
+        }
+    ],
+    "wof:id":823384457,
+    "wof:lastmodified":1463431826,
+    "wof:name":"Classic Detail",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -81.708277,
+    38.373829,
+    -81.708277,
+    38.373829
+],
+  "geometry": {"coordinates":[-81.708277,38.373829],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 823387137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.103539,38.053962,-81.103539,38.053962",
+    "geom:latitude":38.053962,
+    "geom:longitude":-81.103539,
+    "iso:country":"US",
+    "sg:address":"101 Wiseman Ave",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 574 2425",
+    "sg:postcode":"25840",
+    "sg:province":"WV",
+    "sg:tags":[
+        "outdoor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6W3ZU1lJkn24a7kwRa4XlJ_38.053962_-81.103539@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431934,
+    "wof:geomhash":"a7a0d6925ca094ce7b70ac01885a7c46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823387137
+        }
+    ],
+    "wof:id":823387137,
+    "wof:lastmodified":1463431934,
+    "wof:name":"Waterstone Outdoors",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "outdoor"
+    ]
+},
+  "bbox": [
+    -81.103539,
+    38.053962,
+    -81.103539,
+    38.053962
+],
+  "geometry": {"coordinates":[-81.103539,38.053962],"type":"Point"}
+}

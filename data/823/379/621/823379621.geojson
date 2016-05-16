@@ -1,0 +1,71 @@
+{
+  "id": 823379621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.08767,37.370276,-81.08767,37.370276",
+    "geom:latitude":37.370276,
+    "geom:longitude":-81.08767,
+    "iso:country":"US",
+    "sg:address":"105 N 3rd St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 7966",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0s6XPxC1DKC6AfcA0amFvB_37.370276_-81.087670@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431623,
+    "wof:geomhash":"cc6443704a32adc4311a0619da807467",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823379621
+        }
+    ],
+    "wof:id":823379621,
+    "wof:lastmodified":1463431623,
+    "wof:name":"Remines Welding Machine Inc",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -81.08767,
+    37.370276,
+    -81.08767,
+    37.370276
+],
+  "geometry": {"coordinates":[-81.08767,37.370276],"type":"Point"}
+}

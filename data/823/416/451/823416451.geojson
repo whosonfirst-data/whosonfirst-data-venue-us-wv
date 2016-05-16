@@ -1,0 +1,71 @@
+{
+  "id": 823416451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.008532,39.375724,-78.008532,39.375724",
+    "geom:latitude":39.375724,
+    "geom:longitude":-78.008532,
+    "iso:country":"US",
+    "sg:address":"31 Leslie Ln",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 260 4152",
+    "sg:postcode":"25405",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71wBb4hZR4QpQPwemfugWI_39.375724_-78.008532@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433301,
+    "wof:geomhash":"d09157a896404072f36fb2c3c636b1e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823416451
+        }
+    ],
+    "wof:id":823416451,
+    "wof:lastmodified":1463433301,
+    "wof:name":"Daniel Ryan Builders",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -78.008532,
+    39.375724,
+    -78.008532,
+    39.375724
+],
+  "geometry": {"coordinates":[-78.008532,39.375724],"type":"Point"}
+}

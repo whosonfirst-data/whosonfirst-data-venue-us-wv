@@ -1,0 +1,71 @@
+{
+  "id": 823432197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.709963,38.385165,-81.709963,38.385165",
+    "geom:latitude":38.385165,
+    "geom:longitude":-81.709963,
+    "iso:country":"US",
+    "sg:address":"4284 Woodrum Ln",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 7986",
+    "sg:postcode":"25313",
+    "sg:province":"WV",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xgCZv6k46RWcDA0J1r2R8_38.385165_-81.709963@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433975,
+    "wof:geomhash":"7e55369ad38137009465f1efb1345808",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823432197
+        }
+    ],
+    "wof:id":823432197,
+    "wof:lastmodified":1463433975,
+    "wof:name":"Capital City Lodge",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -81.709963,
+    38.385165,
+    -81.709963,
+    38.385165
+],
+  "geometry": {"coordinates":[-81.709963,38.385165],"type":"Point"}
+}

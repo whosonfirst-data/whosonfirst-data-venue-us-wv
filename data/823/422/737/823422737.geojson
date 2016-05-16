@@ -1,0 +1,73 @@
+{
+  "id": 823422737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.981707,39.443206,-77.981707,39.443206",
+    "geom:latitude":39.443206,
+    "geom:longitude":-77.981707,
+    "iso:country":"US",
+    "sg:address":"104 Saint George St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 267 3100",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sySTjmnPiGZEtvQP77zGq_39.443206_-77.981707@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433568,
+    "wof:geomhash":"cfb175d7a32a922793b79c7735e13e8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823422737
+        }
+    ],
+    "wof:id":823422737,
+    "wof:lastmodified":1463433568,
+    "wof:name":"Mountain State Electric Co",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -77.981707,
+    39.443206,
+    -77.981707,
+    39.443206
+],
+  "geometry": {"coordinates":[-77.981707,39.443206],"type":"Point"}
+}

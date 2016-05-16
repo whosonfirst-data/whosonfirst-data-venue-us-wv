@@ -1,0 +1,71 @@
+{
+  "id": 823400735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.570428,38.318468,-81.570428,38.318468",
+    "geom:latitude":38.318468,
+    "geom:longitude":-81.570428,
+    "iso:country":"US",
+    "sg:address":"5318 Virginia Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 5987",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FjFxXhDHCqzSlTQRhLIrq_38.318468_-81.570428@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432620,
+    "wof:geomhash":"b7d3fdd282c32978536fab02653fd6e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823400735
+        }
+    ],
+    "wof:id":823400735,
+    "wof:lastmodified":1463432620,
+    "wof:name":"Rapid Rental Remodeling",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -81.570428,
+    38.318468,
+    -81.570428,
+    38.318468
+],
+  "geometry": {"coordinates":[-81.57042800000001,38.318468],"type":"Point"}
+}

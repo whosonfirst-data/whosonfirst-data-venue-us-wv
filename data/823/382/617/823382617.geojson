@@ -1,0 +1,73 @@
+{
+  "id": 823382617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.223173,37.269099,-81.223173,37.269099",
+    "geom:latitude":37.269099,
+    "geom:longitude":-81.223173,
+    "iso:country":"US",
+    "sg:address":"210 Bland St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 327 5017",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KwubZ5FFBvOlgwiQX31zs_37.269099_-81.223173@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431760,
+    "wof:geomhash":"881df457f266ff720fff1543b9f2b7b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823382617
+        }
+    ],
+    "wof:id":823382617,
+    "wof:lastmodified":1463431760,
+    "wof:name":"American Red Cross",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -81.223173,
+    37.269099,
+    -81.223173,
+    37.269099
+],
+  "geometry": {"coordinates":[-81.223173,37.269099],"type":"Point"}
+}

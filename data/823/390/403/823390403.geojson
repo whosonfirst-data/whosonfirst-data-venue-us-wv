@@ -1,0 +1,69 @@
+{
+  "id": 823390403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.136958,37.984599,-81.136958,37.984599",
+    "geom:latitude":37.984599,
+    "geom:longitude":-81.136958,
+    "iso:country":"US",
+    "sg:address":"1202 Main St E",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 469 2434",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sPorY8EU3eG4EIN9o75vN_37.984599_-81.136958@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432097,
+    "wof:geomhash":"256a737405114bd49278a2d16b614a99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823390403
+        }
+    ],
+    "wof:id":823390403,
+    "wof:lastmodified":1463432097,
+    "wof:name":"East End Exxon",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -81.136958,
+    37.984599,
+    -81.136958,
+    37.984599
+],
+  "geometry": {"coordinates":[-81.13695800000001,37.984599],"type":"Point"}
+}

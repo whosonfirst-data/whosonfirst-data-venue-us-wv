@@ -1,0 +1,71 @@
+{
+  "id": 823399039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.132892,39.480731,-80.132892,39.480731",
+    "geom:latitude":39.480731,
+    "geom:longitude":-80.132892,
+    "iso:country":"US",
+    "sg:address":"304 Morgantown Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 0698",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_057aHwD2VgUNzhn0rjdbNP_39.480731_-80.132892@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432534,
+    "wof:geomhash":"01328bf26675dc466ab9c114bb2ea64b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823399039
+        }
+    ],
+    "wof:id":823399039,
+    "wof:lastmodified":1463432534,
+    "wof:name":"Petie's Pub & Grill",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -80.132892,
+    39.480731,
+    -80.132892,
+    39.480731
+],
+  "geometry": {"coordinates":[-80.132892,39.480731],"type":"Point"}
+}

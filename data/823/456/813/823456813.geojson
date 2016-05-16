@@ -1,0 +1,68 @@
+{
+  "id": 823456813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.534127,40.389207,-80.534127,40.389207",
+    "geom:latitude":40.389207,
+    "geom:longitude":-80.534127,
+    "iso:country":"US",
+    "sg:address":"212 Sunrise Dr",
+    "sg:city":"Weirton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 723 1484",
+    "sg:postcode":"26062",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731371,
+        102082633,
+        85854989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15fOcEnq34X7CBSsDc3OD6_40.389207_-80.534127@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435125,
+    "wof:geomhash":"275c3a3e3b05091a11c7d13e12969ff5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731371,
+            "neighbourhood_id":85854989,
+            "region_id":85688589,
+            "venue_id":823456813
+        }
+    ],
+    "wof:id":823456813,
+    "wof:lastmodified":1463435125,
+    "wof:name":"Art Taverne",
+    "wof:parent_id":85854989,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.534127,
+    40.389207,
+    -80.534127,
+    40.389207
+],
+  "geometry": {"coordinates":[-80.534127,40.389207],"type":"Point"}
+}

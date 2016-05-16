@@ -1,0 +1,71 @@
+{
+  "id": 823434989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.935464,39.605022,-80.935464,39.605022",
+    "geom:latitude":39.605022,
+    "geom:longitude":-80.935464,
+    "iso:country":"US",
+    "sg:address":"208 W Main St",
+    "sg:city":"Paden City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 337 2295",
+    "sg:postcode":"26159",
+    "sg:province":"WV",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BWhbFj18TLjQ7DV0WdmFl_39.605022_-80.935464@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434128,
+    "wof:geomhash":"fbf7a47fbe84a6eff63c40b4d22ff284",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823434989
+        }
+    ],
+    "wof:id":823434989,
+    "wof:lastmodified":1463434128,
+    "wof:name":"Paden City Recorder's Office",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -80.935464,
+    39.605022,
+    -80.935464,
+    39.605022
+],
+  "geometry": {"coordinates":[-80.935464,39.605022],"type":"Point"}
+}

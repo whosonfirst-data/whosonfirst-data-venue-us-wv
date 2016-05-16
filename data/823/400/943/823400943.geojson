@@ -1,0 +1,76 @@
+{
+  "id": 823400943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.136882,39.467044,-80.136882,39.467044",
+    "geom:latitude":39.467044,
+    "geom:longitude":-80.136882,
+    "iso:country":"US",
+    "sg:address":"1201 Pleasant Valley Rd",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 6499",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "greenhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ApTFfH3z19X44KjwErDvy_39.467044_-80.136882@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432627,
+    "wof:geomhash":"3c12937a4dd69a5573a691d90abbabec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823400943
+        }
+    ],
+    "wof:id":823400943,
+    "wof:lastmodified":1463432627,
+    "wof:name":"Holiday Florists & Greenhouse",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "greenhouse"
+    ]
+},
+  "bbox": [
+    -80.136882,
+    39.467044,
+    -80.136882,
+    39.467044
+],
+  "geometry": {"coordinates":[-80.136882,39.467044],"type":"Point"}
+}

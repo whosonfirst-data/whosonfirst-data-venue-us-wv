@@ -1,0 +1,75 @@
+{
+  "id": 823440857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.892882,37.66079,-80.892882,37.66079",
+    "geom:latitude":37.66079,
+    "geom:longitude":-80.892882,
+    "iso:country":"US",
+    "sg:address":"290 Main St",
+    "sg:city":"Hinton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 466 5768",
+    "sg:postcode":"25951",
+    "sg:province":"WV",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731641,
+        102083407,
+        85805479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lMz4i9X3SMCP7iizhNd58_37.660790_-80.892882@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434402,
+    "wof:geomhash":"ed12605b3c42b23f83a8c5f3d1ee6c31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083407,
+            "locality_id":101731641,
+            "neighbourhood_id":85805479,
+            "region_id":85688589,
+            "venue_id":823440857
+        }
+    ],
+    "wof:id":823440857,
+    "wof:lastmodified":1463434402,
+    "wof:name":"Big'Ens Muffler Shop",
+    "wof:parent_id":85805479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -80.892882,
+    37.66079,
+    -80.892882,
+    37.66079
+],
+  "geometry": {"coordinates":[-80.892882,37.66079],"type":"Point"}
+}

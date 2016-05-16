@@ -1,0 +1,71 @@
+{
+  "id": 823430887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.100801,38.049111,-81.100801,38.049111",
+    "geom:latitude":38.049111,
+    "geom:longitude":-81.100801,
+    "iso:country":"US",
+    "sg:address":"190 S Court St",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 574 3840",
+    "sg:postcode":"25840",
+    "sg:province":"WV",
+    "sg:tags":[
+        "beer",
+        "ale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sHtFyDTD0jsvunEDQ7Qjq_38.049111_-81.100801@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433915,
+    "wof:geomhash":"da2a75506aa445ba97fed349b9f94c17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823430887
+        }
+    ],
+    "wof:id":823430887,
+    "wof:lastmodified":1463433915,
+    "wof:name":"Beer City",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "ale"
+    ]
+},
+  "bbox": [
+    -81.100801,
+    38.049111,
+    -81.100801,
+    38.049111
+],
+  "geometry": {"coordinates":[-81.100801,38.049111],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823383965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.609272,40.272918,-80.609272,40.272918",
+    "geom:latitude":40.272918,
+    "geom:longitude":-80.609272,
+    "iso:country":"US",
+    "sg:address":"1006 Commerce St",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 4435",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jd8QDZNY1SKvYdCBxPTl4_40.272918_-80.609272@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431809,
+    "wof:geomhash":"48628059b6a9277f7ba144052e7345f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823383965
+        }
+    ],
+    "wof:id":823383965,
+    "wof:lastmodified":1463431809,
+    "wof:name":"Robert Marks MD",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -80.609272,
+    40.272918,
+    -80.609272,
+    40.272918
+],
+  "geometry": {"coordinates":[-80.609272,40.272918],"type":"Point"}
+}

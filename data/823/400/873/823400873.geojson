@@ -1,0 +1,71 @@
+{
+  "id": 823400873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.543885,38.406139,-81.543885,38.406139",
+    "geom:latitude":38.406139,
+    "geom:longitude":-81.543885,
+    "iso:country":"US",
+    "sg:address":"240 Offutt Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 984 9734",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jK5OJeLlAHR2Iws60PaN3_38.406139_-81.543885@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432625,
+    "wof:geomhash":"f0253c8309f9b194452658eefe7c323e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823400873
+        }
+    ],
+    "wof:id":823400873,
+    "wof:lastmodified":1463432625,
+    "wof:name":"Terry Smart",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "datum"
+    ]
+},
+  "bbox": [
+    -81.543885,
+    38.406139,
+    -81.543885,
+    38.406139
+],
+  "geometry": {"coordinates":[-81.543885,38.406139],"type":"Point"}
+}

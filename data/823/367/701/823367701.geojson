@@ -1,0 +1,71 @@
+{
+  "id": 823367701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.661058,38.371795,-81.661058,38.371795",
+    "geom:latitude":38.371795,
+    "geom:longitude":-81.661058,
+    "iso:country":"US",
+    "sg:address":"1539 Washington St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 344 3451",
+    "sg:postcode":"25312",
+    "sg:province":"WV",
+    "sg:tags":[
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FquQzK4vfKPIOLcgMNpZR_38.371795_-81.661058@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431082,
+    "wof:geomhash":"e5f1ad3e92fef720127f241caf805733",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823367701
+        }
+    ],
+    "wof:id":823367701,
+    "wof:lastmodified":1463431082,
+    "wof:name":"Central Service Co",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment"
+    ]
+},
+  "bbox": [
+    -81.661058,
+    38.371795,
+    -81.661058,
+    38.371795
+],
+  "geometry": {"coordinates":[-81.661058,38.371795],"type":"Point"}
+}

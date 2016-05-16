@@ -1,0 +1,71 @@
+{
+  "id": 823373977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.574942,40.609606,-80.574942,40.609606",
+    "geom:latitude":40.609606,
+    "geom:longitude":-80.574942,
+    "iso:country":"US",
+    "sg:address":"89 Carolina Ave",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 0146",
+    "sg:postcode":"26034",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pOiMqAK0etRHZrOYbPKI8_40.609606_-80.574942@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431357,
+    "wof:geomhash":"a6da20f37dce95d2b77fca3a09f7341a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823373977
+        }
+    ],
+    "wof:id":823373977,
+    "wof:lastmodified":1463431357,
+    "wof:name":"Sparkle",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -80.574942,
+    40.609606,
+    -80.574942,
+    40.609606
+],
+  "geometry": {"coordinates":[-80.57494199999999,40.609606],"type":"Point"}
+}

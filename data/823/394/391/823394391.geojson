@@ -1,0 +1,76 @@
+{
+  "id": 823394391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.277484,39.281062,-80.277484,39.281062",
+    "geom:latitude":39.281062,
+    "geom:longitude":-80.277484,
+    "iso:country":"US",
+    "sg:address":"1210 W Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 6326",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HW2MIP9HUw3uCcntFLNCT_39.281062_-80.277484@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432303,
+    "wof:geomhash":"923544910846df2d469900477fe5187a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823394391
+        }
+    ],
+    "wof:id":823394391,
+    "wof:lastmodified":1463432303,
+    "wof:name":"Bridgeport Save A Lot",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -80.277484,
+    39.281062,
+    -80.277484,
+    39.281062
+],
+  "geometry": {"coordinates":[-80.277484,39.281062],"type":"Point"}
+}

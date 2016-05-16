@@ -1,0 +1,73 @@
+{
+  "id": 823378211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.760654,38.403709,-81.760654,38.403709",
+    "geom:latitude":38.403709,
+    "geom:longitude":-81.760654,
+    "iso:country":"US",
+    "sg:address":"4831 Washington St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 776 6195",
+    "sg:postcode":"25313",
+    "sg:province":"WV",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731773,
+        102083335,
+        85840775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Uu6pKYCA61RDXfXUQNi2q_38.403709_-81.760654@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431566,
+    "wof:geomhash":"aa03bb227c3be09f67ec7770badfca41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731773,
+            "neighbourhood_id":85840775,
+            "region_id":85688589,
+            "venue_id":823378211
+        }
+    ],
+    "wof:id":823378211,
+    "wof:lastmodified":1463431566,
+    "wof:name":"Chandler's Heating & Cooling",
+    "wof:parent_id":85840775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.760654,
+    38.403709,
+    -81.760654,
+    38.403709
+],
+  "geometry": {"coordinates":[-81.760654,38.403709],"type":"Point"}
+}

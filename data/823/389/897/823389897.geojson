@@ -1,0 +1,71 @@
+{
+  "id": 823389897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.26179,39.289451,-80.26179,39.289451",
+    "geom:latitude":39.289451,
+    "geom:longitude":-80.26179,
+    "iso:country":"US",
+    "sg:address":"323 Johnson Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 2305",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1o1loM8xaI607u9b9SPhUg_39.289451_-80.261790@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432073,
+    "wof:geomhash":"0c85cb32959e410797c3e0537b856511",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823389897
+        }
+    ],
+    "wof:id":823389897,
+    "wof:lastmodified":1463432073,
+    "wof:name":"Johnson Avenue United Methdst",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -80.26179,
+    39.289451,
+    -80.26179,
+    39.289451
+],
+  "geometry": {"coordinates":[-80.26179,39.289451],"type":"Point"}
+}

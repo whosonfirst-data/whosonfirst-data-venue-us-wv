@@ -1,0 +1,75 @@
+{
+  "id": 823443539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.645427,38.357599,-81.645427,38.357599",
+    "geom:latitude":38.357599,
+    "geom:longitude":-81.645427,
+    "iso:country":"US",
+    "sg:address":"115 Virginia St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 1769",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MlZa0rqc47pdI0Uln9wG4_38.357599_-81.645427@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434525,
+    "wof:geomhash":"05adbbb5087f73c2ad4abc4c34bcbc07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823443539
+        }
+    ],
+    "wof:id":823443539,
+    "wof:lastmodified":1463434525,
+    "wof:name":"Mountaineer Pride Car Wash",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -81.645427,
+    38.357599,
+    -81.645427,
+    38.357599
+],
+  "geometry": {"coordinates":[-81.645427,38.357599],"type":"Point"}
+}

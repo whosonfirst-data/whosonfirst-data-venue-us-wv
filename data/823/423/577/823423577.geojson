@@ -1,0 +1,77 @@
+{
+  "id": 823423577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.082401,37.367237,-81.082401,37.367237",
+    "geom:latitude":37.367237,
+    "geom:longitude":-81.082401,
+    "iso:country":"US",
+    "sg:address":"328 S Wickham Ave",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 3124",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34MoEI55TdNS7hpteLFhiE_37.367237_-81.082401@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433604,
+    "wof:geomhash":"04e1e23d1c8595e2f74544e60a78eb95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823423577
+        }
+    ],
+    "wof:id":823423577,
+    "wof:lastmodified":1463433604,
+    "wof:name":"East River Automotive Inc",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -81.082401,
+    37.367237,
+    -81.082401,
+    37.367237
+],
+  "geometry": {"coordinates":[-81.082401,37.367237],"type":"Point"}
+}

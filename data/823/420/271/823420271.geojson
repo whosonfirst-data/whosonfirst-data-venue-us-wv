@@ -1,0 +1,71 @@
+{
+  "id": 823420271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.099544,38.055616,-81.099544,38.055616",
+    "geom:latitude":38.055616,
+    "geom:longitude":-81.099544,
+    "iso:country":"US",
+    "sg:address":"108 E Maple Ave",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 574 4230",
+    "sg:postcode":"25840",
+    "sg:province":"WV",
+    "sg:tags":[
+        "county",
+        "counsel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KaZiopZjouNqF35t3zaBp_38.055616_-81.099544@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433476,
+    "wof:geomhash":"bbbaa9e97f3b9a790dd9d6b4550017af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823420271
+        }
+    ],
+    "wof:id":823420271,
+    "wof:lastmodified":1463433476,
+    "wof:name":"Fayette Cnty Prosecuting Atty",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "counsel"
+    ]
+},
+  "bbox": [
+    -81.099544,
+    38.055616,
+    -81.099544,
+    38.055616
+],
+  "geometry": {"coordinates":[-81.09954399999999,38.055616],"type":"Point"}
+}

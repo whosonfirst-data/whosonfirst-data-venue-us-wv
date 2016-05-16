@@ -1,0 +1,75 @@
+{
+  "id": 823382873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.980152,39.656223,-79.980152,39.656223",
+    "geom:latitude":39.656223,
+    "geom:longitude":-79.980152,
+    "iso:country":"US",
+    "sg:address":"379 N Parkview Dr",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 4700",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "charitable",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2F87uDwNxCE1eISxyb7q8z_39.656223_-79.980152@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431770,
+    "wof:geomhash":"77a1bac9e196ad2b08eb340fc689f14b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851419,
+            "region_id":85688589,
+            "venue_id":823382873
+        }
+    ],
+    "wof:id":823382873,
+    "wof:lastmodified":1463431770,
+    "wof:name":"K C Club",
+    "wof:parent_id":85851419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "charitable",
+        "institution"
+    ]
+},
+  "bbox": [
+    -79.980152,
+    39.656223,
+    -79.980152,
+    39.656223
+],
+  "geometry": {"coordinates":[-79.980152,39.656223],"type":"Point"}
+}

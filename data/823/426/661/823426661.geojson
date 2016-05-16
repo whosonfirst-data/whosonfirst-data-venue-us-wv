@@ -1,0 +1,75 @@
+{
+  "id": 823426661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.751515,38.37356,-81.751515,38.37356",
+    "geom:latitude":38.37356,
+    "geom:longitude":-81.751515,
+    "iso:country":"US",
+    "sg:address":"2727 Fairlawn Ave",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 7080",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "local",
+        "storage",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vyPFlUeNoWJM3vZjY6J1J_38.373560_-81.751515@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433734,
+    "wof:geomhash":"3782c48a55a8312f3a5c50ae53d3af93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823426661
+        }
+    ],
+    "wof:id":823426661,
+    "wof:lastmodified":1463433734,
+    "wof:name":"Rent-A-Space",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "storage",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -81.751515,
+    38.37356,
+    -81.751515,
+    38.37356
+],
+  "geometry": {"coordinates":[-81.751515,38.37356],"type":"Point"}
+}

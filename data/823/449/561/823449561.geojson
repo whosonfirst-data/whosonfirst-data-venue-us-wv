@@ -1,0 +1,75 @@
+{
+  "id": 823449561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.401992,38.3782,-82.401992,38.3782",
+    "geom:latitude":38.3782,
+    "geom:longitude":-82.401992,
+    "iso:country":"US",
+    "sg:address":"4140 Mount Union Rd",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 523 5292",
+    "sg:postcode":"25701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083329,
+        85868313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DbTESTe5nlev0fH7k2RGf_38.378200_-82.401992@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434801,
+    "wof:geomhash":"b81b82555edea1b04c9d8bf6554773da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731553,
+            "neighbourhood_id":85868313,
+            "region_id":85688589,
+            "venue_id":823449561
+        }
+    ],
+    "wof:id":823449561,
+    "wof:lastmodified":1463434801,
+    "wof:name":"Ronald Plybon",
+    "wof:parent_id":85868313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -82.401992,
+    38.3782,
+    -82.401992,
+    38.3782
+],
+  "geometry": {"coordinates":[-82.40199200000001,38.3782],"type":"Point"}
+}

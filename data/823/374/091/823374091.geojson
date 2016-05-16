@@ -1,0 +1,75 @@
+{
+  "id": 823374091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.865643,39.641515,-80.865643,39.641515",
+    "geom:latitude":39.641515,
+    "geom:longitude":-80.865643,
+    "iso:country":"US",
+    "sg:address":"210 Main St",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 8200",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "county",
+        "safety",
+        "order"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2h8XEHC3fREw0Tek6cH58R_39.641515_-80.865643@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431362,
+    "wof:geomhash":"09f6a978b739525e3053145471b4777d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823374091
+        }
+    ],
+    "wof:id":823374091,
+    "wof:lastmodified":1463431362,
+    "wof:name":"Wetzel County Emergency Svc",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "safety",
+        "order"
+    ]
+},
+  "bbox": [
+    -80.865643,
+    39.641515,
+    -80.865643,
+    39.641515
+],
+  "geometry": {"coordinates":[-80.86564300000001,39.641515],"type":"Point"}
+}

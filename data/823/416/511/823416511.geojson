@@ -1,0 +1,73 @@
+{
+  "id": 823416511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.865773,39.640648,-80.865773,39.640648",
+    "geom:latitude":39.640648,
+    "geom:longitude":-80.865773,
+    "iso:country":"US",
+    "sg:address":"268 Main St",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 2720",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fp2lSjXchTXmTTot6jzbp_39.640648_-80.865773@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433304,
+    "wof:geomhash":"3c2fe40e655f43a7d9bec908a0a4b786",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823416511
+        }
+    ],
+    "wof:id":823416511,
+    "wof:lastmodified":1463433304,
+    "wof:name":"Norris Tire Svc Inc",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -80.865773,
+    39.640648,
+    -80.865773,
+    39.640648
+],
+  "geometry": {"coordinates":[-80.865773,39.640648],"type":"Point"}
+}

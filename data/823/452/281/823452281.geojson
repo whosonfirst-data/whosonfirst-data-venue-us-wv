@@ -1,0 +1,76 @@
+{
+  "id": 823452281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.055307,37.362749,-81.055307,37.362749",
+    "geom:latitude":37.362749,
+    "geom:longitude":-81.055307,
+    "iso:country":"US",
+    "sg:address":"171 Ambrose Ln",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/princeton/195865-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 4376",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oPy1GRMaUC2CPfgo50RBU_37.362749_-81.055307@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434901,
+    "wof:geomhash":"2721b192d7e4d38a8a0f414f97726213",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823452281
+        }
+    ],
+    "wof:id":823452281,
+    "wof:lastmodified":1463434901,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -81.055307,
+    37.362749,
+    -81.055307,
+    37.362749
+],
+  "geometry": {"coordinates":[-81.055307,37.362749],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 823453941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.099116,37.360977,-81.099116,37.360977",
+    "geom:latitude":37.360977,
+    "geom:longitude":-81.099116,
+    "iso:country":"US",
+    "sg:address":"1308 Stafford Dr",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/princeton/71745-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 3491",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GYUGbRKyHEL9R8xgGesOD_37.361080_-81.098956@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434976,
+    "wof:geomhash":"1accca2d212086d72e3a19eeec83716d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823453941
+        }
+    ],
+    "wof:id":823453941,
+    "wof:lastmodified":1463434976,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -81.099116,
+    37.360977,
+    -81.099116,
+    37.360977
+],
+  "geometry": {"coordinates":[-81.099116,37.360977],"type":"Point"}
+}

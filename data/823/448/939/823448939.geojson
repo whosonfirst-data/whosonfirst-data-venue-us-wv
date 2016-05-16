@@ -1,0 +1,71 @@
+{
+  "id": 823448939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.568355,40.60963,-80.568355,40.60963",
+    "geom:latitude":40.60963,
+    "geom:longitude":-80.568355,
+    "iso:country":"US",
+    "sg:address":"408 2nd St",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 5553",
+    "sg:postcode":"26034",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gG5Sbm2UTP1lGJWyUczA1_40.609630_-80.568355@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434779,
+    "wof:geomhash":"dba5810bc567874ce8f36f9efab61eff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823448939
+        }
+    ],
+    "wof:id":823448939,
+    "wof:lastmodified":1463434779,
+    "wof:name":"Lighthouse Baptist Church",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -80.568355,
+    40.60963,
+    -80.568355,
+    40.60963
+],
+  "geometry": {"coordinates":[-80.568355,40.60963],"type":"Point"}
+}

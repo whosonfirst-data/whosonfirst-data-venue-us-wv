@@ -1,0 +1,71 @@
+{
+  "id": 823446145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.513755,39.274558,-81.513755,39.274558",
+    "geom:latitude":39.274558,
+    "geom:longitude":-81.513755,
+    "iso:country":"US",
+    "sg:address":"2901 29th St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 485 5932",
+    "sg:postcode":"26104",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85818775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06Jy2UQIEr5APmKYqYxwvs_39.274558_-81.513755@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434650,
+    "wof:geomhash":"da20c2042d3b046672b1357da65e2176",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85818775,
+            "region_id":85688589,
+            "venue_id":823446145
+        }
+    ],
+    "wof:id":823446145,
+    "wof:lastmodified":1463434650,
+    "wof:name":"Vienna Mini Storage",
+    "wof:parent_id":85818775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -81.513755,
+    39.274558,
+    -81.513755,
+    39.274558
+],
+  "geometry": {"coordinates":[-81.513755,39.274558],"type":"Point"}
+}

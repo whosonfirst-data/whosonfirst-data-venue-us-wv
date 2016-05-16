@@ -1,0 +1,74 @@
+{
+  "id": 823454223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.155058,39.470095,-80.155058,39.470095",
+    "geom:latitude":39.470095,
+    "geom:longitude":-80.155058,
+    "iso:country":"US",
+    "sg:address":"1200 Fairmont Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/middletown/86207-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 3366",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2njIuvzfkFMA47cWQlVTQc_39.469687_-80.155301@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463435009,
+    "wof:geomhash":"dcbf62e44bdd9bb648c752c6bd9373f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823454223
+        }
+    ],
+    "wof:id":823454223,
+    "wof:lastmodified":1463435009,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -80.155058,
+    39.470095,
+    -80.155058,
+    39.470095
+],
+  "geometry": {"coordinates":[-80.155058,39.470095],"type":"Point"}
+}

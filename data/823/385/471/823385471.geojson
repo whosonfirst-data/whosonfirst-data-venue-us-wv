@@ -1,0 +1,73 @@
+{
+  "id": 823385471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.646812,40.047272,-80.646812,40.047272",
+    "geom:latitude":40.047272,
+    "geom:longitude":-80.646812,
+    "iso:country":"US",
+    "sg:address":"6 Mull Ave",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 242 5380",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85840717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62hBNqD74cQjXRxmYWI9P2_40.047272_-80.646812@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431866,
+    "wof:geomhash":"945569f0bd5e1fbeb0efdf442c0ab134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85840717,
+            "region_id":85688589,
+            "venue_id":823385471
+        }
+    ],
+    "wof:id":823385471,
+    "wof:lastmodified":1463431866,
+    "wof:name":"Patrick's Upholstering",
+    "wof:parent_id":85840717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -80.646812,
+    40.047272,
+    -80.646812,
+    40.047272
+],
+  "geometry": {"coordinates":[-80.646812,40.047272],"type":"Point"}
+}

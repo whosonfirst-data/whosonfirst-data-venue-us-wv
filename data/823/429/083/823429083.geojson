@@ -1,0 +1,73 @@
+{
+  "id": 823429083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.370413,38.373872,-82.370413,38.373872",
+    "geom:latitude":38.373872,
+    "geom:longitude":-82.370413,
+    "iso:country":"US",
+    "sg:address":"3869 Green Valley Rd",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 525 0421",
+    "sg:postcode":"25701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083329,
+        85868301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11kk0LRu3XlfCUiF6aP9kD_38.373872_-82.370413@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433845,
+    "wof:geomhash":"39cdc9096d5102ca4fe942b245ec179c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731553,
+            "neighbourhood_id":85868301,
+            "region_id":85688589,
+            "venue_id":823429083
+        }
+    ],
+    "wof:id":823429083,
+    "wof:lastmodified":1463433845,
+    "wof:name":"Coopers Trucking Inc",
+    "wof:parent_id":85868301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -82.370413,
+    38.373872,
+    -82.370413,
+    38.373872
+],
+  "geometry": {"coordinates":[-82.370413,38.373872],"type":"Point"}
+}

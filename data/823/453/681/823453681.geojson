@@ -1,0 +1,72 @@
+{
+  "id": 823453681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.983024,39.657576,-79.983024,39.657576",
+    "geom:latitude":39.657576,
+    "geom:longitude":-79.983024,
+    "iso:country":"US",
+    "sg:address":"3438 University Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/central/258912-weezies-kitchen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 3663",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731749,
+        102082587,
+        85807277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34leqXXo5Q4kePcOjLcDEY_39.657576_-79.983024@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434956,
+    "wof:geomhash":"1a17fd947390d825f6928121c6a065ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731749,
+            "neighbourhood_id":85807277,
+            "region_id":85688589,
+            "venue_id":823453681
+        }
+    ],
+    "wof:id":823453681,
+    "wof:lastmodified":1463434956,
+    "wof:name":"Weezies Kitchen",
+    "wof:parent_id":85807277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -79.983024,
+    39.657576,
+    -79.983024,
+    39.657576
+],
+  "geometry": {"coordinates":[-79.983024,39.657576],"type":"Point"}
+}

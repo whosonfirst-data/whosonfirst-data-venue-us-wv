@@ -1,0 +1,69 @@
+{
+  "id": 823433127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.963421,39.656734,-79.963421,39.656734",
+    "geom:latitude":39.656734,
+    "geom:longitude":-79.963421,
+    "iso:country":"US",
+    "sg:address":"1137 Van Voorhis Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 6522",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75uxV3mkSgPbloCOfqszFI_39.656734_-79.963421@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434024,
+    "wof:geomhash":"eb2087c7c2131bf82197e9f588f62603",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823433127
+        }
+    ],
+    "wof:id":823433127,
+    "wof:lastmodified":1463434024,
+    "wof:name":"Padgett Business Svc",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -79.963421,
+    39.656734,
+    -79.963421,
+    39.656734
+],
+  "geometry": {"coordinates":[-79.963421,39.656734],"type":"Point"}
+}

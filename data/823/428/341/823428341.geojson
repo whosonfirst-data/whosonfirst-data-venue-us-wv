@@ -1,0 +1,71 @@
+{
+  "id": 823428341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.588169,38.325247,-81.588169,38.325247",
+    "geom:latitude":38.325247,
+    "geom:longitude":-81.588169,
+    "iso:country":"US",
+    "sg:address":"4102 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 8050",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5P3IDZKxwiZWSan94JF3Wk_38.325247_-81.588169@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433801,
+    "wof:geomhash":"9d54fb00641b7c75984a04636fd82e8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823428341
+        }
+    ],
+    "wof:id":823428341,
+    "wof:lastmodified":1463433801,
+    "wof:name":"Cantena",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -81.588169,
+    38.325247,
+    -81.588169,
+    38.325247
+],
+  "geometry": {"coordinates":[-81.58816899999999,38.325247],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823392105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.569751,38.249096,-81.569751,38.249096",
+    "geom:latitude":38.249096,
+    "geom:longitude":-81.569751,
+    "iso:country":"US",
+    "sg:address":"8704 Maccorkle Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 5482",
+    "sg:postcode":"25315",
+    "sg:province":"WV",
+    "sg:tags":[
+        "communication",
+        "radiotelephone"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3isDc2ByN8l5tfJykLtPRO_38.249096_-81.569751@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432180,
+    "wof:geomhash":"7dc900eb7929dfecd70f5b43372c6382",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823392105
+        }
+    ],
+    "wof:id":823392105,
+    "wof:lastmodified":1463432180,
+    "wof:name":"N Touch Communications",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication",
+        "radiotelephone"
+    ]
+},
+  "bbox": [
+    -81.569751,
+    38.249096,
+    -81.569751,
+    38.249096
+],
+  "geometry": {"coordinates":[-81.569751,38.249096],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823384517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.080455,37.374628,-81.080455,37.374628",
+    "geom:latitude":37.374628,
+    "geom:longitude":-81.080455,
+    "iso:country":"US",
+    "sg:address":"304 Westview Ave",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 3637",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "mobile",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63YMAjfvOunS3o7PfUEgak_37.374628_-81.080455@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431828,
+    "wof:geomhash":"904f6da86f310cf984dc12ce0f8b8902",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823384517
+        }
+    ],
+    "wof:id":823384517,
+    "wof:lastmodified":1463431828,
+    "wof:name":"Peak's Transport Mobile Home",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home"
+    ]
+},
+  "bbox": [
+    -81.080455,
+    37.374628,
+    -81.080455,
+    37.374628
+],
+  "geometry": {"coordinates":[-81.080455,37.374628],"type":"Point"}
+}

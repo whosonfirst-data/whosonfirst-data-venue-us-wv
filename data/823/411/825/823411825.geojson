@@ -1,0 +1,71 @@
+{
+  "id": 823411825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.557715,40.618408,-80.557715,40.618408",
+    "geom:latitude":40.618408,
+    "geom:longitude":-80.557715,
+    "iso:country":"US",
+    "sg:address":"826 Phoenix Ave",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 4158",
+    "sg:postcode":"26034",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6T9FpIi95lrkeHO3FNnnEL_40.618408_-80.557715@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433097,
+    "wof:geomhash":"561c395f33ef2cc9a73b0b6477000eb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823411825
+        }
+    ],
+    "wof:id":823411825,
+    "wof:lastmodified":1463433097,
+    "wof:name":"Dietz Enterprises",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -80.557715,
+    40.618408,
+    -80.557715,
+    40.618408
+],
+  "geometry": {"coordinates":[-80.557715,40.618408],"type":"Point"}
+}

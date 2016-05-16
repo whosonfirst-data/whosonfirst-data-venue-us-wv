@@ -1,0 +1,77 @@
+{
+  "id": 823454745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.97353,39.475274,-77.97353,39.475274",
+    "geom:latitude":39.475274,
+    "geom:longitude":-77.97353,
+    "iso:country":"US",
+    "sg:address":"1002 Sushruta Dr Ste A",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 0913",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medicine",
+        "physician",
+        "surgeon",
+        "internal",
+        "surgeons"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85846047,
+        102083367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oXKki9GI4XYqJzbXPSbCO_39.475274_-77.973530@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435050,
+    "wof:geomhash":"c20928b4f071988135e471b62e969a73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "neighbourhood_id":85846047,
+            "region_id":85688589,
+            "venue_id":823454745
+        }
+    ],
+    "wof:id":823454745,
+    "wof:lastmodified":1463435050,
+    "wof:name":"Martinsburg Internal Medicine Associates",
+    "wof:parent_id":85846047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "physician",
+        "surgeon",
+        "internal",
+        "surgeons"
+    ]
+},
+  "bbox": [
+    -77.97353,
+    39.475274,
+    -77.97353,
+    39.475274
+],
+  "geometry": {"coordinates":[-77.97353,39.475274],"type":"Point"}
+}

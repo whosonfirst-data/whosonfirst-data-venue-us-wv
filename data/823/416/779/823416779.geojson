@@ -1,0 +1,73 @@
+{
+  "id": 823416779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.083374,37.368658,-81.083374,37.368658",
+    "geom:latitude":37.368658,
+    "geom:longitude":-81.083374,
+    "iso:country":"US",
+    "sg:address":"208 Industrial St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 6418",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uzTOJhXQYaXGPWzKhGJRj_37.368658_-81.083374@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433319,
+    "wof:geomhash":"b07cf1323091c94f182a1fbb3adfd44b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823416779
+        }
+    ],
+    "wof:id":823416779,
+    "wof:lastmodified":1463433319,
+    "wof:name":"Mountaineer Moving Svc",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -81.083374,
+    37.368658,
+    -81.083374,
+    37.368658
+],
+  "geometry": {"coordinates":[-81.08337400000001,37.368658],"type":"Point"}
+}

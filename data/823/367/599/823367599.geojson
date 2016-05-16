@@ -1,0 +1,71 @@
+{
+  "id": 823367599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.728629,38.320919,-81.728629,38.320919",
+    "geom:latitude":38.320919,
+    "geom:longitude":-81.728629,
+    "iso:country":"US",
+    "sg:address":"316 Amanita Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 8158",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4D5AUPKeAClazILzHcaT3k_38.320919_-81.728629@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431078,
+    "wof:geomhash":"7832a39afc5b05252ec9874d309147a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823367599
+        }
+    ],
+    "wof:id":823367599,
+    "wof:lastmodified":1463431078,
+    "wof:name":"Ruthdale Village Apartments",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -81.728629,
+    38.320919,
+    -81.728629,
+    38.320919
+],
+  "geometry": {"coordinates":[-81.728629,38.320919],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823423243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.240918,37.247149,-81.240918,37.247149",
+    "geom:latitude":37.247149,
+    "geom:longitude":-81.240918,
+    "iso:country":"US",
+    "sg:address":"2006 College Ave",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 589 2020",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gLyx01yluaF3sT10hFSaw_37.247149_-81.240918@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433586,
+    "wof:geomhash":"cc3982afde6eef175a3b92893b835f9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823423243
+        }
+    ],
+    "wof:id":823423243,
+    "wof:lastmodified":1463433586,
+    "wof:name":"Kids Time Inc",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -81.240918,
+    37.247149,
+    -81.240918,
+    37.247149
+],
+  "geometry": {"coordinates":[-81.24091799999999,37.247149],"type":"Point"}
+}

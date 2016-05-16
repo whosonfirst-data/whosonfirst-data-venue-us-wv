@@ -1,0 +1,73 @@
+{
+  "id": 823366329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.083586,37.364089,-81.083586,37.364089",
+    "geom:latitude":37.364089,
+    "geom:longitude":-81.083586,
+    "iso:country":"US",
+    "sg:address":"319 Rogers St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 431 3591",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "disabled",
+        "developmentally"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DeErrOjouylBokUNC6ufQ_37.364089_-81.083586@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431032,
+    "wof:geomhash":"b8813f9f0b202c7f07dd98fe6764d82e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823366329
+        }
+    ],
+    "wof:id":823366329,
+    "wof:lastmodified":1463431032,
+    "wof:name":"Leaps & Bounds Development Svc",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disabled",
+        "developmentally"
+    ]
+},
+  "bbox": [
+    -81.083586,
+    37.364089,
+    -81.083586,
+    37.364089
+],
+  "geometry": {"coordinates":[-81.083586,37.364089],"type":"Point"}
+}

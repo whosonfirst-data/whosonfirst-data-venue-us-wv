@@ -1,0 +1,71 @@
+{
+  "id": 823387987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.603487,40.618369,-80.603487,40.618369",
+    "geom:latitude":40.618369,
+    "geom:longitude":-80.603487,
+    "iso:country":"US",
+    "sg:address":"542 Washington St",
+    "sg:city":"Newell",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 0795",
+    "sg:postcode":"26050",
+    "sg:province":"WV",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eNG021JEvmdTPSnOBbL5J_40.618369_-80.603487@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431963,
+    "wof:geomhash":"4ff48ddb08ad58915de73e473c9d845d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823387987
+        }
+    ],
+    "wof:id":823387987,
+    "wof:lastmodified":1463431963,
+    "wof:name":"Newell Volunteer Fire Dept",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -80.603487,
+    40.618369,
+    -80.603487,
+    40.618369
+],
+  "geometry": {"coordinates":[-80.603487,40.618369],"type":"Point"}
+}

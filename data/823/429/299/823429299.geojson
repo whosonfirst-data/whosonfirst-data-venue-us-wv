@@ -1,0 +1,81 @@
+{
+  "id": 823429299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.52453,39.292774,-81.52453,39.292774",
+    "geom:latitude":39.292774,
+    "geom:longitude":-81.52453,
+    "iso:country":"US",
+    "sg:address":"4420 Emerson Ave",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 485 4050",
+    "sg:postcode":"26104",
+    "sg:province":"WV",
+    "sg:tags":[
+        "woodworker",
+        "repair",
+        "industrial",
+        "mfg"
+    ],
+    "sg:website":"www.woodcraft.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818799,
+        102083343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aFSwy4WAyWBR9sgxpPsXy_39.292774_-81.524530@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433853,
+    "wof:geomhash":"70988a3a7bbe9fa72377c9bf53066fe2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "neighbourhood_id":85818799,
+            "region_id":85688589,
+            "venue_id":823429299
+        }
+    ],
+    "wof:id":823429299,
+    "wof:lastmodified":1463433853,
+    "wof:name":"Woodworker's Club",
+    "wof:parent_id":85818799,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woodworker",
+        "repair",
+        "industrial",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -81.52453,
+    39.292774,
+    -81.52453,
+    39.292774
+],
+  "geometry": {"coordinates":[-81.52453,39.292774],"type":"Point"}
+}

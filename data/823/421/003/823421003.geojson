@@ -1,0 +1,68 @@
+{
+  "id": 823421003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.6349,38.350067,-81.6349,38.350067",
+    "geom:latitude":38.350067,
+    "geom:longitude":-81.6349,
+    "iso:country":"US",
+    "sg:address":"221 Capitol St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 346 4643",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hppSizqqb55t6EE3Y0EeJ_38.350067_-81.634900@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433506,
+    "wof:geomhash":"81e8e2f57342bd0398939fb0d6e54e23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823421003
+        }
+    ],
+    "wof:id":823421003,
+    "wof:lastmodified":1463433506,
+    "wof:name":"Reishman Associates",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.6349,
+    38.350067,
+    -81.6349,
+    38.350067
+],
+  "geometry": {"coordinates":[-81.6349,38.350067],"type":"Point"}
+}

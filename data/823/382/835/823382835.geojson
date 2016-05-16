@@ -1,0 +1,73 @@
+{
+  "id": 823382835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.220908,37.272421,-81.220908,37.272421",
+    "geom:latitude":37.272421,
+    "geom:longitude":-81.220908,
+    "iso:country":"US",
+    "sg:address":"700 Hardy St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 325 2455",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "waste",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AA5tEXB53fPtGGrlEQTDd_37.272421_-81.220908@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431768,
+    "wof:geomhash":"1118e940cfb3cc826137234657ca0f1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823382835
+        }
+    ],
+    "wof:id":823382835,
+    "wof:lastmodified":1463431768,
+    "wof:name":"Contaminatable Container Corp",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "waste",
+        "removal"
+    ]
+},
+  "bbox": [
+    -81.220908,
+    37.272421,
+    -81.220908,
+    37.272421
+],
+  "geometry": {"coordinates":[-81.22090799999999,37.272421],"type":"Point"}
+}

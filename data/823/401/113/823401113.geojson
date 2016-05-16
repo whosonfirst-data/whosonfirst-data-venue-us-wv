@@ -1,0 +1,71 @@
+{
+  "id": 823401113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.565335,38.242246,-81.565335,38.242246",
+    "geom:latitude":38.242246,
+    "geom:longitude":-81.565335,
+    "iso:country":"US",
+    "sg:address":"9917 Maccorkle Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 3316",
+    "sg:postcode":"25315",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wkg7I1N9Wlr0TsYbSrB2r_38.242246_-81.565335@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432635,
+    "wof:geomhash":"eecc6c9d9644afc9bb6b9dbed68c1631",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823401113
+        }
+    ],
+    "wof:id":823401113,
+    "wof:lastmodified":1463432635,
+    "wof:name":"Hudsons Auto Service Inc",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -81.565335,
+    38.242246,
+    -81.565335,
+    38.242246
+],
+  "geometry": {"coordinates":[-81.565335,38.242246],"type":"Point"}
+}

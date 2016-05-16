@@ -1,0 +1,73 @@
+{
+  "id": 823416863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.070896,37.385656,-81.070896,37.385656",
+    "geom:latitude":37.385656,
+    "geom:longitude":-81.070896,
+    "iso:country":"US",
+    "sg:address":"393 Duncan Rd",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 3161",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_451RtCADXLj4w12XD07HUe_37.385656_-81.070896@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433324,
+    "wof:geomhash":"3685646cebf2e9401786a1ca114a3447",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823416863
+        }
+    ],
+    "wof:id":823416863,
+    "wof:lastmodified":1463433324,
+    "wof:name":"T & S Contractors",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.070896,
+    37.385656,
+    -81.070896,
+    37.385656
+],
+  "geometry": {"coordinates":[-81.070896,37.385656],"type":"Point"}
+}

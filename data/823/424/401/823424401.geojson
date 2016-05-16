@@ -1,0 +1,73 @@
+{
+  "id": 823424401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.551662,38.397991,-81.551662,38.397991",
+    "geom:latitude":38.397991,
+    "geom:longitude":-81.551662,
+    "iso:country":"US",
+    "sg:address":"2169 Greenbrier St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 344 0737",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02mtXVPr3flh3Wh3Sx1ZGC_38.397991_-81.551662@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433637,
+    "wof:geomhash":"9b429a60cc4f07d385c2ab404d138962",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823424401
+        }
+    ],
+    "wof:id":823424401,
+    "wof:lastmodified":1463433637,
+    "wof:name":"Steve's Auto Repair",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -81.551662,
+    38.397991,
+    -81.551662,
+    38.397991
+],
+  "geometry": {"coordinates":[-81.55166199999999,38.397991],"type":"Point"}
+}

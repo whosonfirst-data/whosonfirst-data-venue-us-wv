@@ -1,0 +1,74 @@
+{
+  "id": 823447549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.44264,37.800064,-80.44264,37.800064",
+    "geom:latitude":37.800064,
+    "geom:longitude":-80.44264,
+    "iso:country":"US",
+    "sg:address":"200 N Lee St",
+    "sg:city":"Lewisburg",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 647 5599",
+    "sg:postcode":"24901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "drinking",
+        "operation"
+    ],
+    "sg:website":"www.leestreetinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gqYNIwWOcT8v6jmRjAIOU_37.800064_-80.442640@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434713,
+    "wof:geomhash":"b4093ac3c8953d8aa86637bd33d3ee8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823447549
+        }
+    ],
+    "wof:id":823447549,
+    "wof:lastmodified":1463434713,
+    "wof:name":"Lee Street Inn Bed & Breakfast",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "operation"
+    ]
+},
+  "bbox": [
+    -80.44264,
+    37.800064,
+    -80.44264,
+    37.800064
+],
+  "geometry": {"coordinates":[-80.44264,37.800064],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823382593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.57862,40.316135,-80.57862,40.316135",
+    "geom:latitude":40.316135,
+    "geom:longitude":-80.57862,
+    "iso:country":"US",
+    "sg:address":"102 Chips Ln",
+    "sg:city":"Follansbee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 527 4198",
+    "sg:postcode":"26037",
+    "sg:province":"WV",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UrVEkB710DdJKA9daulJX_40.316135_-80.578620@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431760,
+    "wof:geomhash":"3d509a937fc61819e183b3c5c6bb4c5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823382593
+        }
+    ],
+    "wof:id":823382593,
+    "wof:lastmodified":1463431760,
+    "wof:name":"Bonaventura Construction",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -80.57862,
+    40.316135,
+    -80.57862,
+    40.316135
+],
+  "geometry": {"coordinates":[-80.57862,40.316135],"type":"Point"}
+}

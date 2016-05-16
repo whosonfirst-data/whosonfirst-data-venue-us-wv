@@ -1,0 +1,71 @@
+{
+  "id": 823421285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.985593,39.630359,-79.985593,39.630359",
+    "geom:latitude":39.630359,
+    "geom:longitude":-79.985593,
+    "iso:country":"US",
+    "sg:address":"990 Fairmont Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 1040",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "return",
+        "filing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818601,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MytCIqT0N0lGDxA1cmN7J_39.630359_-79.985593@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433517,
+    "wof:geomhash":"13c66fdec62f561e7e18063bbffc0219",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85818601,
+            "region_id":85688589,
+            "venue_id":823421285
+        }
+    ],
+    "wof:id":823421285,
+    "wof:lastmodified":1463433517,
+    "wof:name":"Tax Tech",
+    "wof:parent_id":85818601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "filing"
+    ]
+},
+  "bbox": [
+    -79.985593,
+    39.630359,
+    -79.985593,
+    39.630359
+],
+  "geometry": {"coordinates":[-79.98559299999999,39.630359],"type":"Point"}
+}

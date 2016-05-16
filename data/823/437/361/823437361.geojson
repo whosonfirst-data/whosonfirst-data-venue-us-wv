@@ -1,0 +1,75 @@
+{
+  "id": 823437361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.098287,37.383934,-81.098287,37.383934",
+    "geom:latitude":37.383934,
+    "geom:longitude":-81.098287,
+    "iso:country":"US",
+    "sg:address":"105 Robin St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 6931",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "machine",
+        "supplier",
+        "part"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KHqWqhrIVUo0bXvvxVv3w_37.383934_-81.098287@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434248,
+    "wof:geomhash":"134e28e9257b7618db807e971e9e32de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823437361
+        }
+    ],
+    "wof:id":823437361,
+    "wof:lastmodified":1463434248,
+    "wof:name":"Quality Products",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "supplier",
+        "part"
+    ]
+},
+  "bbox": [
+    -81.098287,
+    37.383934,
+    -81.098287,
+    37.383934
+],
+  "geometry": {"coordinates":[-81.098287,37.383934],"type":"Point"}
+}

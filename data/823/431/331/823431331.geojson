@@ -1,0 +1,73 @@
+{
+  "id": 823431331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.275319,39.281254,-80.275319,39.281254",
+    "geom:latitude":39.281254,
+    "geom:longitude":-80.275319,
+    "iso:country":"US",
+    "sg:address":"1172 W Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 3288",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop",
+        "thrift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZofmSWLpsA1T9JxQTGWCl_39.281254_-80.275319@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433933,
+    "wof:geomhash":"8802ccc2de27b15fe3ec939f137a3d1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823431331
+        }
+    ],
+    "wof:id":823431331,
+    "wof:lastmodified":1463433933,
+    "wof:name":"Goodwill Industries",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "thrift"
+    ]
+},
+  "bbox": [
+    -80.275319,
+    39.281254,
+    -80.275319,
+    39.281254
+],
+  "geometry": {"coordinates":[-80.275319,39.281254],"type":"Point"}
+}

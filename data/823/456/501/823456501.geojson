@@ -1,0 +1,75 @@
+{
+  "id": 823456501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.590477,40.315899,-80.590477,40.315899",
+    "geom:latitude":40.315899,
+    "geom:longitude":-80.590477,
+    "iso:country":"US",
+    "sg:address":"807 Lee Rd",
+    "sg:city":"Follansbee",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 527 3670",
+    "sg:postcode":"26037",
+    "sg:province":"WV",
+    "sg:tags":[
+        "company-utility",
+        "system",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2laGggM6pLiJmgup9rC9NB_40.315899_-80.590477@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435115,
+    "wof:geomhash":"f2ce8582765fc48db4f58e1975569905",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823456501
+        }
+    ],
+    "wof:id":823456501,
+    "wof:lastmodified":1463435115,
+    "wof:name":"City Follansbee",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company-utility",
+        "system",
+        "supply"
+    ]
+},
+  "bbox": [
+    -80.590477,
+    40.315899,
+    -80.590477,
+    40.315899
+],
+  "geometry": {"coordinates":[-80.59047700000001,40.315899],"type":"Point"}
+}

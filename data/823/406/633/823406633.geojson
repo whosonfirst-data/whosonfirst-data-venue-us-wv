@@ -1,0 +1,71 @@
+{
+  "id": 823406633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.518159,38.318306,-81.518159,38.318306",
+    "geom:latitude":38.318306,
+    "geom:longitude":-81.518159,
+    "iso:country":"US",
+    "sg:address":"542 Campbells Creek Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 9673",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cRpRlCFJ2yE6hxQDsK07i_38.318306_-81.518159@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432885,
+    "wof:geomhash":"41627b0be99bd393f041553a9cf04172",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823406633
+        }
+    ],
+    "wof:id":823406633,
+    "wof:lastmodified":1463432885,
+    "wof:name":"Peggys Dairy Treat",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -81.518159,
+    38.318306,
+    -81.518159,
+    38.318306
+],
+  "geometry": {"coordinates":[-81.518159,38.318306],"type":"Point"}
+}

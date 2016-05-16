@@ -1,0 +1,68 @@
+{
+  "id": 823406709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.636614,38.348709,-81.636614,38.348709",
+    "geom:latitude":38.348709,
+    "geom:longitude":-81.636614,
+    "iso:country":"US",
+    "sg:address":"28 Capitol St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 346 6222",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37Znk4KNViXx2bpv33azOw_38.348709_-81.636614@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432887,
+    "wof:geomhash":"366de571a1228c613475ffd6994446ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823406709
+        }
+    ],
+    "wof:id":823406709,
+    "wof:lastmodified":1463432887,
+    "wof:name":"Sam's Uptown Cafe",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.636614,
+    38.348709,
+    -81.636614,
+    38.348709
+],
+  "geometry": {"coordinates":[-81.63661399999999,38.348709],"type":"Point"}
+}

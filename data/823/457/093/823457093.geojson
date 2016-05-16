@@ -1,0 +1,77 @@
+{
+  "id": 823457093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.988291,39.634227,-79.988291,39.634227",
+    "geom:latitude":39.634227,
+    "geom:longitude":-79.988291,
+    "iso:country":"US",
+    "sg:address":"19 W 5th St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 6516",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818601,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qRp6H6BJ8R4FNNLzqBRMO_39.634227_-79.988291@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435145,
+    "wof:geomhash":"a1eca1bf730c5ae3d5043f621ad70050",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85818601,
+            "region_id":85688589,
+            "venue_id":823457093
+        }
+    ],
+    "wof:id":823457093,
+    "wof:lastmodified":1463435145,
+    "wof:name":"Eisentrout",
+    "wof:parent_id":85818601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine"
+    ]
+},
+  "bbox": [
+    -79.988291,
+    39.634227,
+    -79.988291,
+    39.634227
+],
+  "geometry": {"coordinates":[-79.988291,39.634227],"type":"Point"}
+}

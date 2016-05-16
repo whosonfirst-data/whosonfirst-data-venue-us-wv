@@ -1,0 +1,76 @@
+{
+  "id": 823453665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.971028,39.654454,-79.971028,39.654454",
+    "geom:latitude":39.654454,
+    "geom:longitude":-79.971028,
+    "iso:country":"US",
+    "sg:address":"3123 University Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/central/241928-r-bar-menu/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 0684",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "pub"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Q8bfHuTuyp8vrwLyhbRKj_39.654454_-79.971028@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434955,
+    "wof:geomhash":"86f5307046c97aef7a382dbc1fdcd3d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851419,
+            "region_id":85688589,
+            "venue_id":823453665
+        }
+    ],
+    "wof:id":823453665,
+    "wof:lastmodified":1463434955,
+    "wof:name":"R-bar Menu",
+    "wof:parent_id":85851419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pub"
+    ]
+},
+  "bbox": [
+    -79.971028,
+    39.654454,
+    -79.971028,
+    39.654454
+],
+  "geometry": {"coordinates":[-79.971028,39.654454],"type":"Point"}
+}

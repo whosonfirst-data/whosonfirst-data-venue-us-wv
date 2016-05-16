@@ -1,0 +1,71 @@
+{
+  "id": 823369825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.753905,38.313417,-81.753905,38.313417",
+    "geom:latitude":38.313417,
+    "geom:longitude":-81.753905,
+    "iso:country":"US",
+    "sg:address":"22 Johnstone Rd",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 746 0162",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oTiWmi4GQfjBIUXGW6SP7_38.313417_-81.753905@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431162,
+    "wof:geomhash":"3fa3653b5aee708db715f5459bdb637a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823369825
+        }
+    ],
+    "wof:id":823369825,
+    "wof:lastmodified":1463431162,
+    "wof:name":"Premiere Home Inspctn Of WV",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -81.753905,
+    38.313417,
+    -81.753905,
+    38.313417
+],
+  "geometry": {"coordinates":[-81.753905,38.313417],"type":"Point"}
+}

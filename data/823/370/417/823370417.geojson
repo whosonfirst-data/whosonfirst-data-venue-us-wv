@@ -1,0 +1,73 @@
+{
+  "id": 823370417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.884135,38.537122,-81.884135,38.537122",
+    "geom:latitude":38.537122,
+    "geom:longitude":-81.884135,
+    "iso:country":"US",
+    "sg:address":"3236 Winfield Rd",
+    "sg:city":"Winfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 586 4292",
+    "sg:postcode":"25213",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731321,
+        102083381,
+        85868329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6USLNT1XIooIuV2C1SOSRe_38.537122_-81.884135@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431191,
+    "wof:geomhash":"003f69af3d962875f75a240ac99c3c7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731321,
+            "neighbourhood_id":85868329,
+            "region_id":85688589,
+            "venue_id":823370417
+        }
+    ],
+    "wof:id":823370417,
+    "wof:lastmodified":1463431191,
+    "wof:name":"William D Hill DDS",
+    "wof:parent_id":85868329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -81.884135,
+    38.537122,
+    -81.884135,
+    38.537122
+],
+  "geometry": {"coordinates":[-81.884135,38.537122],"type":"Point"}
+}

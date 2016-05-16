@@ -1,0 +1,71 @@
+{
+  "id": 823409535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.143023,39.484599,-80.143023,39.484599",
+    "geom:latitude":39.484599,
+    "geom:longitude":-80.143023,
+    "iso:country":"US",
+    "sg:address":"236 Adams St",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 3979",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_408InuZPDLEYmOxa2Ap4jP_39.484599_-80.143023@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433003,
+    "wof:geomhash":"65955c81fad03bd6816b197ac9e2ef1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823409535
+        }
+    ],
+    "wof:id":823409535,
+    "wof:lastmodified":1463433003,
+    "wof:name":"Classics Cafe Inc",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.143023,
+    39.484599,
+    -80.143023,
+    39.484599
+],
+  "geometry": {"coordinates":[-80.143023,39.484599],"type":"Point"}
+}

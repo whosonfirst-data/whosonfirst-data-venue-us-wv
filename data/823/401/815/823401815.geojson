@@ -1,0 +1,75 @@
+{
+  "id": 823401815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.519212,39.267475,-81.519212,39.267475",
+    "geom:latitude":39.267475,
+    "geom:longitude":-81.519212,
+    "iso:country":"US",
+    "sg:address":"603 Homeland Ave",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 485 6951",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85818775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cmGf8IbxQcVmAzOMcxFXg_39.267475_-81.519212@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432666,
+    "wof:geomhash":"8af5930e36633e8c31543e657aa2c5df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85818775,
+            "region_id":85688589,
+            "venue_id":823401815
+        }
+    ],
+    "wof:id":823401815,
+    "wof:lastmodified":1463432666,
+    "wof:name":"Chrysler-Plymouth Body Rprng",
+    "wof:parent_id":85818775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -81.519212,
+    39.267475,
+    -81.519212,
+    39.267475
+],
+  "geometry": {"coordinates":[-81.519212,39.267475],"type":"Point"}
+}

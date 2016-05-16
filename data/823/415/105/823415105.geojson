@@ -1,0 +1,71 @@
+{
+  "id": 823415105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.986053,38.751443,-81.986053,38.751443",
+    "geom:latitude":38.751443,
+    "geom:longitude":-81.986053,
+    "iso:country":"US",
+    "sg:address":"2612 US Hwy 35",
+    "sg:city":"Southside",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 675 7598",
+    "sg:postcode":"25187",
+    "sg:province":"WV",
+    "sg:tags":[
+        "sawmill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85983229,
+        102083675,
+        85824533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6H6h1NCc57NX8PrvEBNWcH_38.751443_-81.986053@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433233,
+    "wof:geomhash":"8c4c243d30d94c8438e8bcee8421ddae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "neighbourhood_id":85824533,
+            "region_id":85688485,
+            "venue_id":823415105
+        }
+    ],
+    "wof:id":823415105,
+    "wof:lastmodified":1463433233,
+    "wof:name":"Paul Mercer Sawmill Inc",
+    "wof:parent_id":85824533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sawmill"
+    ]
+},
+  "bbox": [
+    -81.986053,
+    38.751443,
+    -81.986053,
+    38.751443
+],
+  "geometry": {"coordinates":[-81.986053,38.751443],"type":"Point"}
+}

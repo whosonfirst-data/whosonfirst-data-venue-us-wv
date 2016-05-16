@@ -1,0 +1,73 @@
+{
+  "id": 823448743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.638231,38.364739,-81.638231,38.364739",
+    "geom:latitude":38.364739,
+    "geom:longitude":-81.638231,
+    "iso:country":"US",
+    "sg:address":"1312 Watts St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 346 6160",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "antique",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PXowqZ3HmmwxRHoJ1fKJW_38.364739_-81.638231@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434768,
+    "wof:geomhash":"bc194c1c908eef647cb125a27638089a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823448743
+        }
+    ],
+    "wof:id":823448743,
+    "wof:lastmodified":1463434768,
+    "wof:name":"Tiki's Antique Gallery",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique",
+        "store"
+    ]
+},
+  "bbox": [
+    -81.638231,
+    38.364739,
+    -81.638231,
+    38.364739
+],
+  "geometry": {"coordinates":[-81.638231,38.364739],"type":"Point"}
+}

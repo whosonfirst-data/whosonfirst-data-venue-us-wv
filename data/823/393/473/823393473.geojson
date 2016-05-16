@@ -1,0 +1,71 @@
+{
+  "id": 823393473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.515401,38.210965,-81.515401,38.210965",
+    "geom:latitude":38.210965,
+    "geom:longitude":-81.515401,
+    "iso:country":"US",
+    "sg:address":"207 Ferry St",
+    "sg:city":"Belle",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 5918",
+    "sg:postcode":"25015",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38c71OmNNucJqVV7ROnkVY_38.210965_-81.515401@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432251,
+    "wof:geomhash":"731ebe3a378a702da888e790fdc7807d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823393473
+        }
+    ],
+    "wof:id":823393473,
+    "wof:lastmodified":1463432251,
+    "wof:name":"Diamond Baptist Church",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.515401,
+    38.210965,
+    -81.515401,
+    38.210965
+],
+  "geometry": {"coordinates":[-81.515401,38.210965],"type":"Point"}
+}

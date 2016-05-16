@@ -1,0 +1,71 @@
+{
+  "id": 823428515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.559191,39.255802,-81.559191,39.255802",
+    "geom:latitude":39.255802,
+    "geom:longitude":-81.559191,
+    "iso:country":"US",
+    "sg:address":"1515 Camden Ave",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 424 5005",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85829881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2e3gQLbUZvdv0Yygv2L6w2_39.255802_-81.559191@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433814,
+    "wof:geomhash":"603472b5bba430b1da2a1b34b2dc669e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85829881,
+            "region_id":85688589,
+            "venue_id":823428515
+        }
+    ],
+    "wof:id":823428515,
+    "wof:lastmodified":1463433814,
+    "wof:name":"Mary Anns Daycare Inc",
+    "wof:parent_id":85829881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.559191,
+    39.255802,
+    -81.559191,
+    39.255802
+],
+  "geometry": {"coordinates":[-81.559191,39.255802],"type":"Point"}
+}

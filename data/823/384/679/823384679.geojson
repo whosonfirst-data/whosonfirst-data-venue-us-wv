@@ -1,0 +1,71 @@
+{
+  "id": 823384679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.140808,39.484339,-80.140808,39.484339",
+    "geom:latitude":39.484339,
+    "geom:longitude":-80.140808,
+    "iso:country":"US",
+    "sg:address":"320 Madison St",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 3171",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xlwX1WGQClg5JkSv2NEUw_39.484339_-80.140808@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431839,
+    "wof:geomhash":"c5e3d21501b6fb63a6541ec88f528eb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823384679
+        }
+    ],
+    "wof:id":823384679,
+    "wof:lastmodified":1463431839,
+    "wof:name":"Frey Home For Funerals",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -80.140808,
+    39.484339,
+    -80.140808,
+    39.484339
+],
+  "geometry": {"coordinates":[-80.14080800000001,39.484339],"type":"Point"}
+}

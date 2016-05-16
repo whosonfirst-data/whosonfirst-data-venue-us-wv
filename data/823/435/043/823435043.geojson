@@ -1,0 +1,73 @@
+{
+  "id": 823435043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.162824,38.652995,-82.162824,38.652995",
+    "geom:latitude":38.652995,
+    "geom:longitude":-82.162824,
+    "iso:country":"US",
+    "sg:address":"140 Hereford Ln",
+    "sg:city":"Apple Grove",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 576 2731",
+    "sg:postcode":"25502",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85983229,
+        102083675,
+        85824533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RDegd4oGzu8MFNuetWSGp_38.652995_-82.162824@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434130,
+    "wof:geomhash":"035d8c7e108c8473c472346a7edc025f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "neighbourhood_id":85824533,
+            "region_id":85688485,
+            "venue_id":823435043
+        }
+    ],
+    "wof:id":823435043,
+    "wof:lastmodified":1463434130,
+    "wof:name":"Garys Electrical Service",
+    "wof:parent_id":85824533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.162824,
+    38.652995,
+    -82.162824,
+    38.652995
+],
+  "geometry": {"coordinates":[-82.162824,38.652995],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823402181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.151797,39.484102,-80.151797,39.484102",
+    "geom:latitude":39.484102,
+    "geom:longitude":-80.151797,
+    "iso:country":"US",
+    "sg:address":"301 Locust Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 6970",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Po7U0IS818Rj5eaIfu1NX_39.484102_-80.151797@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432678,
+    "wof:geomhash":"1d35d9f128f00232b1d5fa9ce85db8ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823402181
+        }
+    ],
+    "wof:id":823402181,
+    "wof:lastmodified":1463432678,
+    "wof:name":"Tom's Service Ctr",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -80.151797,
+    39.484102,
+    -80.151797,
+    39.484102
+],
+  "geometry": {"coordinates":[-80.151797,39.484102],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 823457405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.960411,39.652264,-79.960411,39.652264",
+    "geom:latitude":39.652264,
+    "geom:longitude":-79.960411,
+    "iso:country":"US",
+    "sg:address":"1 Medical Center Dr",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 598 4000",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "nursing",
+        "medical",
+        "surgery",
+        "homes-skilled",
+        "facility"
+    ],
+    "sg:website":"http://www.wvuh.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10FBM8J93LfdSLdHjaRwrS_39.652264_-79.960411@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435157,
+    "wof:geomhash":"2f0009e7e0ae92f616c7a14477aa1705",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823457405
+        }
+    ],
+    "wof:id":823457405,
+    "wof:lastmodified":1463435157,
+    "wof:name":"Ruby Memorial Hospital",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursing",
+        "medical",
+        "surgery",
+        "homes-skilled",
+        "facility"
+    ]
+},
+  "bbox": [
+    -79.960411,
+    39.652264,
+    -79.960411,
+    39.652264
+],
+  "geometry": {"coordinates":[-79.96041099999999,39.652264],"type":"Point"}
+}

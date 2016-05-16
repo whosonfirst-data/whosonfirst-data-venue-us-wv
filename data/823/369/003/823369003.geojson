@@ -1,0 +1,75 @@
+{
+  "id": 823369003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.146222,39.482659,-80.146222,39.482659",
+    "geom:latitude":39.482659,
+    "geom:longitude":-80.146222,
+    "iso:country":"US",
+    "sg:address":"109 Fairmont Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 9745",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "development",
+        "agency",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mATHGw9AoBspHYsusvSCj_39.482659_-80.146222@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431133,
+    "wof:geomhash":"43997dbd252be72c7ad36d17ce6fc2dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823369003
+        }
+    ],
+    "wof:id":823369003,
+    "wof:lastmodified":1463431133,
+    "wof:name":"Fairmont Community Dev Partnr",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "agency",
+        "community"
+    ]
+},
+  "bbox": [
+    -80.146222,
+    39.482659,
+    -80.146222,
+    39.482659
+],
+  "geometry": {"coordinates":[-80.14622199999999,39.482659],"type":"Point"}
+}

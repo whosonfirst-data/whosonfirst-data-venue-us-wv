@@ -1,0 +1,73 @@
+{
+  "id": 823399883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.76358,38.38311,-81.76358,38.38311",
+    "geom:latitude":38.38311,
+    "geom:longitude":-81.76358,
+    "iso:country":"US",
+    "sg:address":"5000 Fairlawn Ave",
+    "sg:city":"Institute",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 766 3000",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731773,
+        102083335,
+        85840775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IszCm2XC4Z23mN4gBrEKZ_38.383110_-81.763580@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432579,
+    "wof:geomhash":"fd2c25cba94216f8f2e931d80747b0da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731773,
+            "neighbourhood_id":85840775,
+            "region_id":85688589,
+            "venue_id":823399883
+        }
+    ],
+    "wof:id":823399883,
+    "wof:lastmodified":1463432579,
+    "wof:name":"West Virginia State College",
+    "wof:parent_id":85840775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -81.76358,
+    38.38311,
+    -81.76358,
+    38.38311
+],
+  "geometry": {"coordinates":[-81.76358,38.38311],"type":"Point"}
+}

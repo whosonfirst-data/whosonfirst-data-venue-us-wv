@@ -1,0 +1,71 @@
+{
+  "id": 823393579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.593114,38.342015,-81.593114,38.342015",
+    "geom:latitude":38.342015,
+    "geom:longitude":-81.593114,
+    "iso:country":"US",
+    "sg:address":"705 Hess Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 344 3698",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2W6QWTZ8rnuHv4d7Q4ay9Z_38.342015_-81.593114@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432255,
+    "wof:geomhash":"51e96167978b59ec1df10104dad78450",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823393579
+        }
+    ],
+    "wof:id":823393579,
+    "wof:lastmodified":1463432255,
+    "wof:name":"Hess Clyde E General Contr",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -81.593114,
+    38.342015,
+    -81.593114,
+    38.342015
+],
+  "geometry": {"coordinates":[-81.593114,38.342015],"type":"Point"}
+}

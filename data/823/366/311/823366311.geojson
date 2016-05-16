@@ -1,0 +1,74 @@
+{
+  "id": 823366311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.857719,39.649229,-80.857719,39.649229",
+    "geom:latitude":39.649229,
+    "geom:longitude":-80.857719,
+    "iso:country":"US",
+    "sg:address":"722 3rd St",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 3260",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"www.tirekingdom.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WJ167TsWPg719auqSFGrQ_39.649229_-80.857719@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431031,
+    "wof:geomhash":"25245548b32f0c8a5567b710d19056fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823366311
+        }
+    ],
+    "wof:id":823366311,
+    "wof:lastmodified":1463431031,
+    "wof:name":"National Tire & Battery",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -80.857719,
+    39.649229,
+    -80.857719,
+    39.649229
+],
+  "geometry": {"coordinates":[-80.857719,39.649229],"type":"Point"}
+}

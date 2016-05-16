@@ -1,0 +1,75 @@
+{
+  "id": 823365975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.600192,38.348574,-81.600192,38.348574",
+    "geom:latitude":38.348574,
+    "geom:longitude":-81.600192,
+    "iso:country":"US",
+    "sg:address":"800 Byus Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 346 2080",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "oil",
+        "well"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85850023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HJyebiMjx2sjCPREC23kO_38.348574_-81.600192@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431008,
+    "wof:geomhash":"c59782280beea9a52acda69494685627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85850023,
+            "region_id":85688589,
+            "venue_id":823365975
+        }
+    ],
+    "wof:id":823365975,
+    "wof:lastmodified":1463431008,
+    "wof:name":"IHS Energy",
+    "wof:parent_id":85850023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "well"
+    ]
+},
+  "bbox": [
+    -81.600192,
+    38.348574,
+    -81.600192,
+    38.348574
+],
+  "geometry": {"coordinates":[-81.60019200000001,38.348574],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823416585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.594804,38.32494,-81.594804,38.32494",
+    "geom:latitude":38.32494,
+    "geom:longitude":-81.594804,
+    "iso:country":"US",
+    "sg:address":"3819 Chesterfield Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 4771",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aJKCCWDJ4rx0Es014Dxcl_38.324940_-81.594804@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433308,
+    "wof:geomhash":"702e2187cbbd2a7856a15bf51c3349a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823416585
+        }
+    ],
+    "wof:id":823416585,
+    "wof:lastmodified":1463433308,
+    "wof:name":"Heartland Health Care Ctr",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -81.594804,
+    38.32494,
+    -81.594804,
+    38.32494
+],
+  "geometry": {"coordinates":[-81.594804,38.32494],"type":"Point"}
+}

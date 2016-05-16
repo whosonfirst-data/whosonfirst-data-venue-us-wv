@@ -1,0 +1,71 @@
+{
+  "id": 823374645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.169153,38.664885,-82.169153,38.664885",
+    "geom:latitude":38.664885,
+    "geom:longitude":-82.169153,
+    "iso:country":"US",
+    "sg:address":"2699 Huntington Rd",
+    "sg:city":"Apple Grove",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 576 2654",
+    "sg:postcode":"25502",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85983229,
+        102083675,
+        85824533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KxX1TIVV32GLtExyGCL4k_38.664885_-82.169153@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431384,
+    "wof:geomhash":"2d748b33f621dcf36c1b4b08a89df95f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "neighbourhood_id":85824533,
+            "region_id":85688485,
+            "venue_id":823374645
+        }
+    ],
+    "wof:id":823374645,
+    "wof:lastmodified":1463431384,
+    "wof:name":"Apple Grove Market",
+    "wof:parent_id":85824533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -82.169153,
+    38.664885,
+    -82.169153,
+    38.664885
+],
+  "geometry": {"coordinates":[-82.16915299999999,38.664885],"type":"Point"}
+}

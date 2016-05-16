@@ -1,0 +1,71 @@
+{
+  "id": 823407947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.361806,38.536806,-81.361806,38.536806",
+    "geom:latitude":38.536806,
+    "geom:longitude":-81.361806,
+    "iso:country":"US",
+    "sg:address":"172 Gabe Rd",
+    "sg:city":"Clendenin",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 548 5869",
+    "sg:postcode":"25045",
+    "sg:province":"WV",
+    "sg:tags":[
+        "mill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZcxIVqy3gMqFvvJ4dcwBC_38.536806_-81.361806@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432946,
+    "wof:geomhash":"b5acc429af123381e398c8dd66737336",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823407947
+        }
+    ],
+    "wof:id":823407947,
+    "wof:lastmodified":1463432946,
+    "wof:name":"Hunt Lumber Co",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mill"
+    ]
+},
+  "bbox": [
+    -81.361806,
+    38.536806,
+    -81.361806,
+    38.536806
+],
+  "geometry": {"coordinates":[-81.361806,38.536806],"type":"Point"}
+}

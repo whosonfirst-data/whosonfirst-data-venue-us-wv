@@ -1,0 +1,75 @@
+{
+  "id": 823367111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.954529,39.62992,-79.954529,39.62992",
+    "geom:latitude":39.62992,
+    "geom:longitude":-79.954529,
+    "iso:country":"US",
+    "sg:address":"300 Spruce St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 284 7522",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85858573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2H7nVHmjS6ZSD1ZWaPwlPh_39.629920_-79.954529@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431061,
+    "wof:geomhash":"74854fab2678d614bd7d1c481939a22b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85858573,
+            "region_id":85688589,
+            "venue_id":823367111
+        }
+    ],
+    "wof:id":823367111,
+    "wof:lastmodified":1463431061,
+    "wof:name":"Morgantown Police Dept-Records",
+    "wof:parent_id":85858573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -79.954529,
+    39.62992,
+    -79.954529,
+    39.62992
+],
+  "geometry": {"coordinates":[-79.95452899999999,39.62992],"type":"Point"}
+}

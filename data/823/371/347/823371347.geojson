@@ -1,0 +1,71 @@
+{
+  "id": 823371347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.646174,38.358718,-81.646174,38.358718",
+    "geom:latitude":38.358718,
+    "geom:longitude":-81.646174,
+    "iso:country":"US",
+    "sg:address":"220 Virginia St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 7161",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "financing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PgYJewSExfVIF0jue4lpf_38.358718_-81.646174@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431246,
+    "wof:geomhash":"ff077db4ff4679adf5ab5fa31555cf76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823371347
+        }
+    ],
+    "wof:id":823371347,
+    "wof:lastmodified":1463431246,
+    "wof:name":"Citi Financial",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "financing"
+    ]
+},
+  "bbox": [
+    -81.646174,
+    38.358718,
+    -81.646174,
+    38.358718
+],
+  "geometry": {"coordinates":[-81.646174,38.358718],"type":"Point"}
+}

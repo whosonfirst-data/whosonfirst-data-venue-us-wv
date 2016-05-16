@@ -1,0 +1,73 @@
+{
+  "id": 823406803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.541764,39.234284,-81.541764,39.234284",
+    "geom:latitude":39.234284,
+    "geom:longitude":-81.541764,
+    "iso:country":"US",
+    "sg:address":"2109 Pike St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 428 7788",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "leasing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kJZ8ExNi47BNn3rTnXIIz_39.234284_-81.541764@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432891,
+    "wof:geomhash":"3699ab31c7fa43c1ac2c6491133e006d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823406803
+        }
+    ],
+    "wof:id":823406803,
+    "wof:lastmodified":1463432891,
+    "wof:name":"Rentway",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -81.541764,
+    39.234284,
+    -81.541764,
+    39.234284
+],
+  "geometry": {"coordinates":[-81.541764,39.234284],"type":"Point"}
+}

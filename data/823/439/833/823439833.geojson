@@ -1,0 +1,68 @@
+{
+  "id": 823439833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.633051,38.35322,-81.633051,38.35322",
+    "geom:latitude":38.35322,
+    "geom:longitude":-81.633051,
+    "iso:country":"US",
+    "sg:address":"333 Laidley St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 347 6500",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tt2Mcy7utVGaklnSPQXx9_38.353220_-81.633051@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434358,
+    "wof:geomhash":"7f9f3c4128b7fe6300efee05a74dec8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823439833
+        }
+    ],
+    "wof:id":823439833,
+    "wof:lastmodified":1463434358,
+    "wof:name":"St Francis Hospital",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.633051,
+    38.35322,
+    -81.633051,
+    38.35322
+],
+  "geometry": {"coordinates":[-81.63305099999999,38.35322],"type":"Point"}
+}

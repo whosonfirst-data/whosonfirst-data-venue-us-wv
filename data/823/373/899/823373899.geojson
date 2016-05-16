@@ -1,0 +1,71 @@
+{
+  "id": 823373899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.161138,37.897121,-81.161138,37.897121",
+    "geom:latitude":37.897121,
+    "geom:longitude":-81.161138,
+    "iso:country":"US",
+    "sg:address":"212 Main St",
+    "sg:city":"Mt Hope",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 877 6441",
+    "sg:postcode":"25880",
+    "sg:province":"WV",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731505,
+        102083359,
+        85852821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SPED80k92SpAkk0glvaY3_37.897121_-81.161138@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431355,
+    "wof:geomhash":"56763427c64082c0af5ec4c2daf121eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "locality_id":101731505,
+            "neighbourhood_id":85852821,
+            "region_id":85688589,
+            "venue_id":823373899
+        }
+    ],
+    "wof:id":823373899,
+    "wof:lastmodified":1463431355,
+    "wof:name":"American Truevale Hardware",
+    "wof:parent_id":85852821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    -81.161138,
+    37.897121,
+    -81.161138,
+    37.897121
+],
+  "geometry": {"coordinates":[-81.16113799999999,37.897121],"type":"Point"}
+}

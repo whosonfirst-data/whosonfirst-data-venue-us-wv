@@ -1,0 +1,74 @@
+{
+  "id": 823454887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.021918,39.459366,-78.021918,39.459366",
+    "geom:latitude":39.459366,
+    "geom:longitude":-78.021918,
+    "iso:country":"US",
+    "sg:address":"7385 Arden Nollville Rd",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 7581",
+    "sg:postcode":"25403",
+    "sg:province":"WV",
+    "sg:tags":[
+        "veterinarian",
+        "specialty"
+    ],
+    "sg:website":"http://www.allcreaturesveterinary.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bbQBMx4bxzySDXkAGDXxI_39.459366_-78.021918@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435055,
+    "wof:geomhash":"69c4dd31b4f43d6e14020043f813a6c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823454887
+        }
+    ],
+    "wof:id":823454887,
+    "wof:lastmodified":1463435055,
+    "wof:name":"All Creatures Veterinary",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -78.021918,
+    39.459366,
+    -78.021918,
+    39.459366
+],
+  "geometry": {"coordinates":[-78.021918,39.459366],"type":"Point"}
+}

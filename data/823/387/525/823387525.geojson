@@ -1,0 +1,73 @@
+{
+  "id": 823387525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.636598,38.348724,-81.636598,38.348724",
+    "geom:latitude":38.348724,
+    "geom:longitude":-81.636598,
+    "iso:country":"US",
+    "sg:address":"26 Capitol St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 1904",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bRS6wpRkYX38DxDFUrKwM_38.348724_-81.636598@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431947,
+    "wof:geomhash":"be56346dd0195b0661014c809f80a776",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823387525
+        }
+    ],
+    "wof:id":823387525,
+    "wof:lastmodified":1463431947,
+    "wof:name":"Steak Escape",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -81.636598,
+    38.348724,
+    -81.636598,
+    38.348724
+],
+  "geometry": {"coordinates":[-81.63659800000001,38.348724],"type":"Point"}
+}

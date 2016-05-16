@@ -1,0 +1,71 @@
+{
+  "id": 823433847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.450723,37.78168,-80.450723,37.78168",
+    "geom:latitude":37.78168,
+    "geom:longitude":-80.450723,
+    "iso:country":"US",
+    "sg:address":"112 Skyline Dr",
+    "sg:city":"Lewisburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 645 5020",
+    "sg:postcode":"24901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BxOfFdDHVA2rKKJ84MTyj_37.781680_-80.450723@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434056,
+    "wof:geomhash":"40ae571c9abd64be19de71d7140b329a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823433847
+        }
+    ],
+    "wof:id":823433847,
+    "wof:lastmodified":1463434056,
+    "wof:name":"Ken Sherman Photographer",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -80.450723,
+    37.78168,
+    -80.450723,
+    37.78168
+],
+  "geometry": {"coordinates":[-80.450723,37.78168],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823445059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.159459,37.770729,-81.159459,37.770729",
+    "geom:latitude":37.770729,
+    "geom:longitude":-81.159459,
+    "iso:country":"US",
+    "sg:address":"124 Brookshire Ln",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 255 9205",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nGVPWQyNlAiusieJoB9KT_37.770729_-81.159459@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434597,
+    "wof:geomhash":"053896056eb57e0c7db04977782bb9ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823445059
+        }
+    ],
+    "wof:id":823445059,
+    "wof:lastmodified":1463434597,
+    "wof:name":"Primary Care Plus",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -81.159459,
+    37.770729,
+    -81.159459,
+    37.770729
+],
+  "geometry": {"coordinates":[-81.159459,37.770729],"type":"Point"}
+}

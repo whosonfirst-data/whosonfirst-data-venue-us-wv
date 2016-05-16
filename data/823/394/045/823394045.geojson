@@ -1,0 +1,73 @@
+{
+  "id": 823394045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.145047,39.480708,-80.145047,39.480708",
+    "geom:latitude":39.480708,
+    "geom:longitude":-80.145047,
+    "iso:country":"US",
+    "sg:address":"220 Virginia Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 7375",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HzJUoMbjdD34VA524aZUX_39.480708_-80.145047@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432281,
+    "wof:geomhash":"ac5b94b71bfbeefd6c9a03d95061c897",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823394045
+        }
+    ],
+    "wof:id":823394045,
+    "wof:lastmodified":1463432281,
+    "wof:name":"Central WV Aging Svc Inc",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -80.145047,
+    39.480708,
+    -80.145047,
+    39.480708
+],
+  "geometry": {"coordinates":[-80.14504700000001,39.480708],"type":"Point"}
+}

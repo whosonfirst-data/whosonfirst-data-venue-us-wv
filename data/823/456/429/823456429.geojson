@@ -1,0 +1,83 @@
+{
+  "id": 823456429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.553448,40.61862,-80.553448,40.61862",
+    "geom:latitude":40.61862,
+    "geom:longitude":-80.553448,
+    "iso:country":"US",
+    "sg:address":"598 Carolina Ave",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Gun Range",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 459 3321",
+    "sg:postcode":"26034",
+    "sg:province":"WV",
+    "sg:tags":[
+        "safety",
+        "instruction",
+        "marksmanship",
+        "gunsmith"
+    ],
+    "sg:website":"http://www.buckeyefirearmsonline.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yOkchDoUEzdsUQyvGEkeP_40.618620_-80.553448@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435112,
+    "wof:geomhash":"0ff4a0bd42a83ae5c9940817f3d27097",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823456429
+        }
+    ],
+    "wof:id":823456429,
+    "wof:lastmodified":1463435112,
+    "wof:name":"Buckeye Firearms",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "safety",
+        "instruction",
+        "marksmanship",
+        "gunsmith"
+    ]
+},
+  "bbox": [
+    -80.553448,
+    40.61862,
+    -80.553448,
+    40.61862
+],
+  "geometry": {"coordinates":[-80.553448,40.61862],"type":"Point"}
+}

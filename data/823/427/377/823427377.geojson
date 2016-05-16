@@ -1,0 +1,73 @@
+{
+  "id": 823427377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.340614,39.284853,-80.340614,39.284853",
+    "geom:latitude":39.284853,
+    "geom:longitude":-80.340614,
+    "iso:country":"US",
+    "sg:address":"406 N 6th St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 622 4681",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_143uUkyyZb6ScSLYSGANji_39.284853_-80.340614@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433765,
+    "wof:geomhash":"ec965612a669bc68e7ff80a344366e16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823427377
+        }
+    ],
+    "wof:id":823427377,
+    "wof:lastmodified":1463433765,
+    "wof:name":"William R Sharpe Inc",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.340614,
+    39.284853,
+    -80.340614,
+    39.284853
+],
+  "geometry": {"coordinates":[-80.340614,39.284853],"type":"Point"}
+}

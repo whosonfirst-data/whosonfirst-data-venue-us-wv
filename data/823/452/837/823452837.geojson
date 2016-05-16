@@ -1,0 +1,72 @@
+{
+  "id": 823452837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.993491,37.858054,-81.993491,37.858054",
+    "geom:latitude":37.858054,
+    "geom:longitude":-81.993491,
+    "iso:country":"US",
+    "sg:address":"504 Main Ave",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/central/83499-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 752 8858",
+    "sg:postcode":"25601",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868319,
+        102083369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LoTXJSASWXzgLRR3xl3Cp_37.858054_-81.993491@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434922,
+    "wof:geomhash":"a6172a0336d34db1ffc57c7d7f1530a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083369,
+            "neighbourhood_id":85868319,
+            "region_id":85688589,
+            "venue_id":823452837
+        }
+    ],
+    "wof:id":823452837,
+    "wof:lastmodified":1463434922,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85868319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -81.993491,
+    37.858054,
+    -81.993491,
+    37.858054
+],
+  "geometry": {"coordinates":[-81.99349100000001,37.858054],"type":"Point"}
+}

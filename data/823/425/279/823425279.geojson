@@ -1,0 +1,69 @@
+{
+  "id": 823425279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.968639,39.584943,-79.968639,39.584943",
+    "geom:latitude":39.584943,
+    "geom:longitude":-79.968639,
+    "iso:country":"US",
+    "sg:address":"302 Scott Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 291 5845",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ED5tzuhpkBfBXVxLIccbA_39.584943_-79.968639@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433670,
+    "wof:geomhash":"bc85842bafe5e5b5994ebe913ee8a2ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823425279
+        }
+    ],
+    "wof:id":823425279,
+    "wof:lastmodified":1463433670,
+    "wof:name":"Morgantown Early Lrng Fcilty",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -79.968639,
+    39.584943,
+    -79.968639,
+    39.584943
+],
+  "geometry": {"coordinates":[-79.968639,39.584943],"type":"Point"}
+}

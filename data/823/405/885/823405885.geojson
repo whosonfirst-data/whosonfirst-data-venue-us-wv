@@ -1,0 +1,71 @@
+{
+  "id": 823405885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.107365,37.347193,-81.107365,37.347193",
+    "geom:latitude":37.347193,
+    "geom:longitude":-81.107365,
+    "iso:country":"US",
+    "sg:address":"144 Willowbrook Rd",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 6286",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "boutique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5b7UNxWN3WXyIUrWnfk7p1_37.347193_-81.107365@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432854,
+    "wof:geomhash":"dcf78a61886108371149da411cfa2ab5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823405885
+        }
+    ],
+    "wof:id":823405885,
+    "wof:lastmodified":1463432854,
+    "wof:name":"Rachels Jewelry and Boutique",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boutique"
+    ]
+},
+  "bbox": [
+    -81.107365,
+    37.347193,
+    -81.107365,
+    37.347193
+],
+  "geometry": {"coordinates":[-81.107365,37.347193],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 823435433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.684226,38.366554,-81.684226,38.366554",
+    "geom:latitude":38.366554,
+    "geom:longitude":-81.684226,
+    "iso:country":"US",
+    "sg:address":"722 2nd Ave SW",
+    "sg:city":"South Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 4661",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KRPo80LYchHkPwlkLRahU_38.366554_-81.684226@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434143,
+    "wof:geomhash":"37727b494e2cfe925f996c80ba076aac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823435433
+        }
+    ],
+    "wof:id":823435433,
+    "wof:lastmodified":1463434143,
+    "wof:name":"Classic Tint",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ]
+},
+  "bbox": [
+    -81.684226,
+    38.366554,
+    -81.684226,
+    38.366554
+],
+  "geometry": {"coordinates":[-81.684226,38.366554],"type":"Point"}
+}

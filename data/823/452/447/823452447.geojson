@@ -1,0 +1,74 @@
+{
+  "id": 823452447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.643265,38.353464,-81.643265,38.353464",
+    "geom:latitude":38.353464,
+    "geom:longitude":-81.643265,
+    "iso:country":"US",
+    "sg:address":"116 Kanawha Blvd E",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/belle/91852-shoneys-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 9437",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40YMZtA7z41XHeUFBfmAOb_38.353464_-81.643265@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434907,
+    "wof:geomhash":"f750daffb4b24debcff5cca901447139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823452447
+        }
+    ],
+    "wof:id":823452447,
+    "wof:lastmodified":1463434907,
+    "wof:name":"Shoney's Restaurant",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -81.643265,
+    38.353464,
+    -81.643265,
+    38.353464
+],
+  "geometry": {"coordinates":[-81.643265,38.353464],"type":"Point"}
+}

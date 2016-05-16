@@ -1,0 +1,73 @@
+{
+  "id": 823369647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.301997,39.395962,-80.301997,39.395962",
+    "geom:latitude":39.395962,
+    "geom:longitude":-80.301997,
+    "iso:country":"US",
+    "sg:address":"33 Walnut St",
+    "sg:city":"Shinnston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 592 5041",
+    "sg:postcode":"26431",
+    "sg:province":"WV",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85831189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VZgUy16UCNZQwgPjWcBb4_39.395962_-80.301997@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431156,
+    "wof:geomhash":"d5f5f3f8b30a97c61e741686381b058a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85831189,
+            "region_id":85688589,
+            "venue_id":823369647
+        }
+    ],
+    "wof:id":823369647,
+    "wof:lastmodified":1463431156,
+    "wof:name":"Mountain State Physical Thrpy",
+    "wof:parent_id":85831189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -80.301997,
+    39.395962,
+    -80.301997,
+    39.395962
+],
+  "geometry": {"coordinates":[-80.301997,39.395962],"type":"Point"}
+}

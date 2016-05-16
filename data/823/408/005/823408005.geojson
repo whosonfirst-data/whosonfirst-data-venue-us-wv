@@ -1,0 +1,71 @@
+{
+  "id": 823408005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.13752,39.488985,-80.13752,39.488985",
+    "geom:latitude":39.488985,
+    "geom:longitude":-80.13752,
+    "iso:country":"US",
+    "sg:address":"335 Maple Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 2980",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Y0rSbZ9eEA4C1g5lNMspC_39.488985_-80.137520@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432948,
+    "wof:geomhash":"baa8810317b163ea7adde7141b0b60bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823408005
+        }
+    ],
+    "wof:id":823408005,
+    "wof:lastmodified":1463432948,
+    "wof:name":"Woodlawn Cemetery Co",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -80.13752,
+    39.488985,
+    -80.13752,
+    39.488985
+],
+  "geometry": {"coordinates":[-80.13751999999999,39.488985],"type":"Point"}
+}

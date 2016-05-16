@@ -1,0 +1,71 @@
+{
+  "id": 823412733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.078583,37.36214,-81.078583,37.36214",
+    "geom:latitude":37.36214,
+    "geom:longitude":-81.078583,
+    "iso:country":"US",
+    "sg:address":"308 Locust St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 7431",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IpRyfnQPMnHaChUyAJoHp_37.362140_-81.078583@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433129,
+    "wof:geomhash":"246a07094b5ff37013e1f840de2acf0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823412733
+        }
+    ],
+    "wof:id":823412733,
+    "wof:lastmodified":1463433129,
+    "wof:name":"Penn Evergreen Log Inc",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "logging"
+    ]
+},
+  "bbox": [
+    -81.078583,
+    37.36214,
+    -81.078583,
+    37.36214
+],
+  "geometry": {"coordinates":[-81.07858299999999,37.36214],"type":"Point"}
+}

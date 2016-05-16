@@ -1,0 +1,78 @@
+{
+  "id": 823439085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.987948,39.456005,-77.987948,39.456005",
+    "geom:latitude":39.456005,
+    "geom:longitude":-77.987948,
+    "iso:country":"US",
+    "sg:address":"742 Foxcroft Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 267 5476",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cleaners",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1e7BslgDcImknFL1OmkdEL_39.456005_-77.987948@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434328,
+    "wof:geomhash":"463c4b3ee6e20dd7f7c7a4302b4b2926",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823439085
+        }
+    ],
+    "wof:id":823439085,
+    "wof:lastmodified":1463434328,
+    "wof:name":"Martinsburg Cleaners Inc",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "eating"
+    ]
+},
+  "bbox": [
+    -77.987948,
+    39.456005,
+    -77.987948,
+    39.456005
+],
+  "geometry": {"coordinates":[-77.987948,39.456005],"type":"Point"}
+}

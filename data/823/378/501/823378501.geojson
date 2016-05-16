@@ -1,0 +1,88 @@
+{
+  "id": 823378501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.465773,39.039469,-80.465773,39.039469",
+    "geom:latitude":39.039469,
+    "geom:longitude":-80.465773,
+    "iso:country":"US",
+    "sg:address":"351 E 3rd St",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 269 1177",
+    "sg:postcode":"26452",
+    "sg:province":"WV",
+    "sg:tags":[
+        "exhaust",
+        "supply",
+        "gasoline",
+        "system",
+        "general",
+        "station",
+        "muffler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731403,
+        102083339,
+        85808257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VB7j49C6HTZYiRM0fMNVm_39.039469_-80.465773@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431577,
+    "wof:geomhash":"c6bffadfab7eeb9d4cf26ec6b2e150ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083339,
+            "locality_id":101731403,
+            "neighbourhood_id":85808257,
+            "region_id":85688589,
+            "venue_id":823378501
+        }
+    ],
+    "wof:id":823378501,
+    "wof:lastmodified":1463431577,
+    "wof:name":"H & M Five Star Mufflers",
+    "wof:parent_id":85808257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exhaust",
+        "supply",
+        "gasoline",
+        "system",
+        "general",
+        "station",
+        "muffler"
+    ]
+},
+  "bbox": [
+    -80.465773,
+    39.039469,
+    -80.465773,
+    39.039469
+],
+  "geometry": {"coordinates":[-80.465773,39.039469],"type":"Point"}
+}

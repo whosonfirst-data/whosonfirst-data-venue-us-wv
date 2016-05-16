@@ -1,0 +1,71 @@
+{
+  "id": 823401757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.936757,39.602509,-80.936757,39.602509",
+    "geom:latitude":39.602509,
+    "geom:longitude":-80.936757,
+    "iso:country":"US",
+    "sg:address":"221 S 4th Ave",
+    "sg:city":"Paden City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 337 9270",
+    "sg:postcode":"26159",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WERSVpNbcRBzFMPPtenF3_39.602509_-80.936757@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432662,
+    "wof:geomhash":"0e342253fbf3b35cbe4561cc7a1627f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823401757
+        }
+    ],
+    "wof:id":823401757,
+    "wof:lastmodified":1463432662,
+    "wof:name":"Gerald W Meckley DDS",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -80.936757,
+    39.602509,
+    -80.936757,
+    39.602509
+],
+  "geometry": {"coordinates":[-80.936757,39.602509],"type":"Point"}
+}

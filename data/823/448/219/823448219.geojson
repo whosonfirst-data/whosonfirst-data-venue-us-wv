@@ -1,0 +1,71 @@
+{
+  "id": 823448219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.153875,39.483363,-80.153875,39.483363",
+    "geom:latitude":39.483363,
+    "geom:longitude":-80.153875,
+    "iso:country":"US",
+    "sg:address":"608 Locust Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 4323",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4umMIttqqDmSr1F4oHt1iS_39.483363_-80.153875@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434750,
+    "wof:geomhash":"b33c28c730cfaded2890da2f1a94c35d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823448219
+        }
+    ],
+    "wof:id":823448219,
+    "wof:lastmodified":1463434750,
+    "wof:name":"Style Salon",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -80.153875,
+    39.483363,
+    -80.153875,
+    39.483363
+],
+  "geometry": {"coordinates":[-80.153875,39.483363],"type":"Point"}
+}

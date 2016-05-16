@@ -1,0 +1,73 @@
+{
+  "id": 823441839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.605336,38.316326,-81.605336,38.316326",
+    "geom:latitude":38.316326,
+    "geom:longitude":-81.605336,
+    "iso:country":"US",
+    "sg:address":"741 S Park Rd",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 1192",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "landfill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85850023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oFdU1RNZARkD29dHgcf2N_38.316326_-81.605336@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434438,
+    "wof:geomhash":"fc2df4934d8fa54d46a053f230203dc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85850023,
+            "region_id":85688589,
+            "venue_id":823441839
+        }
+    ],
+    "wof:id":823441839,
+    "wof:lastmodified":1463434438,
+    "wof:name":"West Virginia Waste Svc",
+    "wof:parent_id":85850023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landfill"
+    ]
+},
+  "bbox": [
+    -81.605336,
+    38.316326,
+    -81.605336,
+    38.316326
+],
+  "geometry": {"coordinates":[-81.60533599999999,38.316326],"type":"Point"}
+}

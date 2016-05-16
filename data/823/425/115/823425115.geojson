@@ -1,0 +1,71 @@
+{
+  "id": 823425115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.136775,38.845736,-82.136775,38.845736",
+    "geom:latitude":38.845736,
+    "geom:longitude":-82.136775,
+    "iso:country":"US",
+    "sg:address":"708 Viand St",
+    "sg:city":"Point Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 675 3610",
+    "sg:postcode":"25550",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85983229,
+        102083675,
+        85824533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49y2ANdjRriVMUT9ERsNh6_38.845736_-82.136775@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433664,
+    "wof:geomhash":"707155a18810266761ea7fbcb933179d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "neighbourhood_id":85824533,
+            "region_id":85688485,
+            "venue_id":823425115
+        }
+    ],
+    "wof:id":823425115,
+    "wof:lastmodified":1463433664,
+    "wof:name":"Point Clinic",
+    "wof:parent_id":85824533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -82.136775,
+    38.845736,
+    -82.136775,
+    38.845736
+],
+  "geometry": {"coordinates":[-82.136775,38.845736],"type":"Point"}
+}

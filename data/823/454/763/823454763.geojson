@@ -1,0 +1,84 @@
+{
+  "id": 823454763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.98758,39.457592,-77.98758,39.457592",
+    "geom:latitude":39.457592,
+    "geom:longitude":-77.98758,
+    "iso:country":"US",
+    "sg:address":"600 Foxcroft Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 3323",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36kT1UzCFJNh7TANSrjqt3_39.457592_-77.987580@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435050,
+    "wof:geomhash":"87b4da962bae20590a37dbc5f7c1cd14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823454763
+        }
+    ],
+    "wof:id":823454763,
+    "wof:lastmodified":1463435050,
+    "wof:name":"Foxcroft Village Apartments",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ]
+},
+  "bbox": [
+    -77.98758,
+    39.457592,
+    -77.98758,
+    39.457592
+],
+  "geometry": {"coordinates":[-77.98757999999999,39.457592],"type":"Point"}
+}

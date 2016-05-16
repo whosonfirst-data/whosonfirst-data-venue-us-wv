@@ -1,0 +1,71 @@
+{
+  "id": 823432659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.348478,39.282202,-80.348478,39.282202",
+    "geom:latitude":39.282202,
+    "geom:longitude":-80.348478,
+    "iso:country":"US",
+    "sg:address":"752 W Pike St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 622 0781",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2br5pHGXa0rX9llikKdQ6O_39.282202_-80.348478@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434005,
+    "wof:geomhash":"b90cf16c93a7b1bdff33b1e27762d59f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823432659
+        }
+    ],
+    "wof:id":823432659,
+    "wof:lastmodified":1463434005,
+    "wof:name":"John C Giese Engineers Inc",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -80.348478,
+    39.282202,
+    -80.348478,
+    39.282202
+],
+  "geometry": {"coordinates":[-80.348478,39.282202],"type":"Point"}
+}

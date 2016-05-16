@@ -1,0 +1,71 @@
+{
+  "id": 823415311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.253324,39.287029,-80.253324,39.287029",
+    "geom:latitude":39.287029,
+    "geom:longitude":-80.253324,
+    "iso:country":"US",
+    "sg:address":"210 W Philadelphia Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 8953",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0In69dhCjVYyvfJjK8ZUOJ_39.287029_-80.253324@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433251,
+    "wof:geomhash":"2d796d8b14a957bbc7a153818b874e5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823415311
+        }
+    ],
+    "wof:id":823415311,
+    "wof:lastmodified":1463433251,
+    "wof:name":"Steven E Dorsey",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -80.253324,
+    39.287029,
+    -80.253324,
+    39.287029
+],
+  "geometry": {"coordinates":[-80.25332400000001,39.287029],"type":"Point"}
+}

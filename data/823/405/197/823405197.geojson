@@ -1,0 +1,71 @@
+{
+  "id": 823405197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.565322,38.242241,-81.565322,38.242241",
+    "geom:latitude":38.242241,
+    "geom:longitude":-81.565322,
+    "iso:country":"US",
+    "sg:address":"9913 Maccorkle Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Plants",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 5459",
+    "sg:postcode":"25315",
+    "sg:province":"WV",
+    "sg:tags":[
+        "florist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6h9RWmBs9FSCiOwlgDvh9O_38.242241_-81.565322@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432820,
+    "wof:geomhash":"4203325bf09f7b355f22e1764590799f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823405197
+        }
+    ],
+    "wof:id":823405197,
+    "wof:lastmodified":1463432820,
+    "wof:name":"Dreisbach Wholesale Florist",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "florist"
+    ]
+},
+  "bbox": [
+    -81.565322,
+    38.242241,
+    -81.565322,
+    38.242241
+],
+  "geometry": {"coordinates":[-81.56532199999999,38.242241],"type":"Point"}
+}

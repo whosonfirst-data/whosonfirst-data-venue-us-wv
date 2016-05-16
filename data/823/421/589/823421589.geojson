@@ -1,0 +1,73 @@
+{
+  "id": 823421589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.09514,37.369457,-81.09514,37.369457",
+    "geom:latitude":37.369457,
+    "geom:longitude":-81.09514,
+    "iso:country":"US",
+    "sg:address":"905 Mercer St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 5653",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "veteran",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nWKyJxnGsVLAQYb7xMsHt_37.369457_-81.095140@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433527,
+    "wof:geomhash":"fd42d96eccf9738712f0ea8c3d571f62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823421589
+        }
+    ],
+    "wof:id":823421589,
+    "wof:lastmodified":1463433527,
+    "wof:name":"Princeton Vet Center",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veteran",
+        "center"
+    ]
+},
+  "bbox": [
+    -81.09514,
+    37.369457,
+    -81.09514,
+    37.369457
+],
+  "geometry": {"coordinates":[-81.09514,37.369457],"type":"Point"}
+}

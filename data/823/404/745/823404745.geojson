@@ -1,0 +1,71 @@
+{
+  "id": 823404745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.011765,37.423245,-81.011765,37.423245",
+    "geom:latitude":37.423245,
+    "geom:longitude":-81.011765,
+    "iso:country":"US",
+    "sg:address":"301 Vermillion St",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 384 9502",
+    "sg:postcode":"24712",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12xPW1BkAGKQ0SLilXrYKx_37.423245_-81.011765@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432795,
+    "wof:geomhash":"c19d83d78e916b5bf358e4db3572d9b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823404745
+        }
+    ],
+    "wof:id":823404745,
+    "wof:lastmodified":1463432795,
+    "wof:name":"Catholic Campus Ministry",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.011765,
+    37.423245,
+    -81.011765,
+    37.423245
+],
+  "geometry": {"coordinates":[-81.011765,37.423245],"type":"Point"}
+}

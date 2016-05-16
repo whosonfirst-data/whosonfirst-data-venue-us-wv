@@ -1,0 +1,73 @@
+{
+  "id": 823368875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.633543,38.348775,-81.633543,38.348775",
+    "geom:latitude":38.348775,
+    "geom:longitude":-81.633543,
+    "iso:country":"US",
+    "sg:address":"924 Quarrier St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 4357",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mlrywuidHd3tTfLx9aBVa_38.348775_-81.633543@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431129,
+    "wof:geomhash":"f19c695dda125bcb245040cc2e7fb5ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823368875
+        }
+    ],
+    "wof:id":823368875,
+    "wof:lastmodified":1463431129,
+    "wof:name":"Charleston Optical Company",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.633543,
+    38.348775,
+    -81.633543,
+    38.348775
+],
+  "geometry": {"coordinates":[-81.633543,38.348775],"type":"Point"}
+}

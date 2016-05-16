@@ -1,0 +1,73 @@
+{
+  "id": 823427517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.591599,40.396653,-80.591599,40.396653",
+    "geom:latitude":40.396653,
+    "geom:longitude":-80.591599,
+    "iso:country":"US",
+    "sg:address":"3720 Main St",
+    "sg:city":"Weirton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 797 0050",
+    "sg:postcode":"26062",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731371,
+        102082633,
+        85832497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lCdMPWCWVRjSArdLFp1zK_40.396653_-80.591599@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433771,
+    "wof:geomhash":"28c6f64abed0acd6bb1731843dcc51d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731371,
+            "neighbourhood_id":85832497,
+            "region_id":85688589,
+            "venue_id":823427517
+        }
+    ],
+    "wof:id":823427517,
+    "wof:lastmodified":1463433771,
+    "wof:name":"Freedom Pl I & II Apartments",
+    "wof:parent_id":85832497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -80.591599,
+    40.396653,
+    -80.591599,
+    40.396653
+],
+  "geometry": {"coordinates":[-80.591599,40.396653],"type":"Point"}
+}

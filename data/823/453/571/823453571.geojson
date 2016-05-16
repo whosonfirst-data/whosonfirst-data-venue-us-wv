@@ -1,0 +1,70 @@
+{
+  "id": 823453571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.9613,39.627213,-79.9613,39.627213",
+    "geom:latitude":39.627213,
+    "geom:longitude":-79.9613,
+    "iso:country":"US",
+    "sg:address":"52 Clay St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/central/241942-oliveros-ristorante/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 2565",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dxtjjVmiud10RqifTrPHs_39.627213_-79.961300@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434952,
+    "wof:geomhash":"588e30eb5e114663f1e1106bdefae39a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823453571
+        }
+    ],
+    "wof:id":823453571,
+    "wof:lastmodified":1463434952,
+    "wof:name":"Olivero's Ristorante",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -79.9613,
+    39.627213,
+    -79.9613,
+    39.627213
+],
+  "geometry": {"coordinates":[-79.96129999999999,39.627213],"type":"Point"}
+}

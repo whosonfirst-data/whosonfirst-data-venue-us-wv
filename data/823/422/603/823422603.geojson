@@ -1,0 +1,73 @@
+{
+  "id": 823422603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.710733,38.384686,-81.710733,38.384686",
+    "geom:latitude":38.384686,
+    "geom:longitude":-81.710733,
+    "iso:country":"US",
+    "sg:address":"4270 Woodrum Ln",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 4001",
+    "sg:postcode":"25313",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cJ132U6wtRBqNocb68Msm_38.384686_-81.710733@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433563,
+    "wof:geomhash":"e7f33f022438ef45f385ce6bc87d060b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823422603
+        }
+    ],
+    "wof:id":823422603,
+    "wof:lastmodified":1463433563,
+    "wof:name":"Equity Contractors Inc",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.710733,
+    38.384686,
+    -81.710733,
+    38.384686
+],
+  "geometry": {"coordinates":[-81.710733,38.384686],"type":"Point"}
+}

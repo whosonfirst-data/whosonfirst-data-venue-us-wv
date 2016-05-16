@@ -1,0 +1,82 @@
+{
+  "id": 823457647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.914223,39.69973,-79.914223,39.69973",
+    "geom:latitude":39.69973,
+    "geom:longitude":-79.914223,
+    "iso:country":"US",
+    "sg:address":"1510 Point Marion Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 9801",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dealers-used",
+        "used",
+        "cars-wholesale",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731747,
+        102082587,
+        85819247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78zL5G9UNC6Bgn0bwqloMz_39.699730_-79.914223@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435174,
+    "wof:geomhash":"e4b6f1b0b22507cda1ff3ecf78cfdb96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85819247,
+            "region_id":85688589,
+            "venue_id":823457647
+        }
+    ],
+    "wof:id":823457647,
+    "wof:lastmodified":1463435174,
+    "wof:name":"Bug Works",
+    "wof:parent_id":85819247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealers-used",
+        "used",
+        "cars-wholesale",
+        "car"
+    ]
+},
+  "bbox": [
+    -79.914223,
+    39.69973,
+    -79.914223,
+    39.69973
+],
+  "geometry": {"coordinates":[-79.91422300000001,39.69973],"type":"Point"}
+}

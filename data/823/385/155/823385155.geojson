@@ -1,0 +1,75 @@
+{
+  "id": 823385155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.946073,39.624328,-79.946073,39.624328",
+    "geom:latitude":39.624328,
+    "geom:longitude":-79.946073,
+    "iso:country":"US",
+    "sg:address":"345 E Brockway Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 8344",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85858573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ORBRuuPmLKEowyS2E2hke_39.624328_-79.946073@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431855,
+    "wof:geomhash":"b9079aa4f140a17e7e0895157ee8a0f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85858573,
+            "region_id":85688589,
+            "venue_id":823385155
+        }
+    ],
+    "wof:id":823385155,
+    "wof:lastmodified":1463431855,
+    "wof:name":"Myers Auto Svc Ctr",
+    "wof:parent_id":85858573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -79.946073,
+    39.624328,
+    -79.946073,
+    39.624328
+],
+  "geometry": {"coordinates":[-79.946073,39.624328],"type":"Point"}
+}

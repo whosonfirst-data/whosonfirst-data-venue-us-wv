@@ -1,0 +1,73 @@
+{
+  "id": 823424965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.563371,40.61259,-80.563371,40.61259",
+    "geom:latitude":40.61259,
+    "geom:longitude":-80.563371,
+    "iso:country":"US",
+    "sg:address":"418 Carolina Ave",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 1819",
+    "sg:postcode":"26034",
+    "sg:province":"WV",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ktzVD9lhbZXXKq3wNmVQ7_40.612590_-80.563371@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433658,
+    "wof:geomhash":"017a5d7c8d5c25661194c3d03ffda353",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823424965
+        }
+    ],
+    "wof:id":823424965,
+    "wof:lastmodified":1463433658,
+    "wof:name":"Prime Time Video",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -80.563371,
+    40.61259,
+    -80.563371,
+    40.61259
+],
+  "geometry": {"coordinates":[-80.563371,40.61259],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 823443069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.555748,38.396083,-82.555748,38.396083",
+    "geom:latitude":38.396083,
+    "geom:longitude":-82.555748,
+    "iso:country":"US",
+    "sg:address":"1103 C St",
+    "sg:city":"Ceredo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 429 9851",
+    "sg:postcode":"25507",
+    "sg:province":"WV",
+    "sg:tags":[
+        "frozen",
+        "dessert",
+        "parlor",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083365,
+        85857035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zp5qJieYKiYd6CiDkNd8O_38.396083_-82.555748@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434502,
+    "wof:geomhash":"d85ecef132bba859e3412dfba028dc44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731553,
+            "neighbourhood_id":85857035,
+            "region_id":85688589,
+            "venue_id":823443069
+        }
+    ],
+    "wof:id":823443069,
+    "wof:lastmodified":1463434502,
+    "wof:name":"Austin's Homemade Ice Cream",
+    "wof:parent_id":85857035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "dessert",
+        "parlor",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -82.555748,
+    38.396083,
+    -82.555748,
+    38.396083
+],
+  "geometry": {"coordinates":[-82.55574799999999,38.396083],"type":"Point"}
+}

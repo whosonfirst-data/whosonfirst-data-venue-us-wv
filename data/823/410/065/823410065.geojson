@@ -1,0 +1,71 @@
+{
+  "id": 823410065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.567836,40.611904,-80.567836,40.611904",
+    "geom:latitude":40.611904,
+    "geom:longitude":-80.567836,
+    "iso:country":"US",
+    "sg:address":"205 Virginia Ave",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 1680",
+    "sg:postcode":"26034",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2B2NGokGcSwcQt3Xh0bn4F_40.611904_-80.567836@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433027,
+    "wof:geomhash":"30aa14af4522e0566bc8cda926919e85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823410065
+        }
+    ],
+    "wof:id":823410065,
+    "wof:lastmodified":1463433027,
+    "wof:name":"Virginia Ave Chr-Christ Prsng",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -80.567836,
+    40.611904,
+    -80.567836,
+    40.611904
+],
+  "geometry": {"coordinates":[-80.567836,40.611904],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823435859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.101255,37.365644,-81.101255,37.365644",
+    "geom:latitude":37.365644,
+    "geom:longitude":-81.101255,
+    "iso:country":"US",
+    "sg:address":"1426 E Main St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 1016",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7M8RvKaXkaRiq4IVlkAUJX_37.365644_-81.101255@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434159,
+    "wof:geomhash":"dd240897481ab78a889324cd710b5bf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823435859
+        }
+    ],
+    "wof:id":823435859,
+    "wof:lastmodified":1463434159,
+    "wof:name":"Rose Plumbing & Heating",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.101255,
+    37.365644,
+    -81.101255,
+    37.365644
+],
+  "geometry": {"coordinates":[-81.10125499999999,37.365644],"type":"Point"}
+}

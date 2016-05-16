@@ -1,0 +1,73 @@
+{
+  "id": 823414609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.544092,39.238683,-81.544092,39.238683",
+    "geom:latitude":39.238683,
+    "geom:longitude":-81.544092,
+    "iso:country":"US",
+    "sg:address":"1900 Blizzard Dr",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 422 1723",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xbrJELgnz173EVzoACwl6_39.238683_-81.544092@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433208,
+    "wof:geomhash":"d00d38bd51154c5a9903aa3cad0cc74c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823414609
+        }
+    ],
+    "wof:id":823414609,
+    "wof:lastmodified":1463433208,
+    "wof:name":"Advantage Home Health Pros Inc",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -81.544092,
+    39.238683,
+    -81.544092,
+    39.238683
+],
+  "geometry": {"coordinates":[-81.54409200000001,39.238683],"type":"Point"}
+}

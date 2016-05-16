@@ -1,0 +1,71 @@
+{
+  "id": 823400025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.437315,39.277311,-80.437315,39.277311",
+    "geom:latitude":39.277311,
+    "geom:longitude":-80.437315,
+    "iso:country":"US",
+    "sg:address":"312 O Connor St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 326 3443",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "item",
+        "boutique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85810773,
+        102082619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tPiDLmUcRkbM7UZN7M541_39.277311_-80.437315@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432589,
+    "wof:geomhash":"95f902f32e01c7d7b643df346b24fddc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "neighbourhood_id":85810773,
+            "region_id":85688589,
+            "venue_id":823400025
+        }
+    ],
+    "wof:id":823400025,
+    "wof:lastmodified":1463432589,
+    "wof:name":"Deanie's Boutique",
+    "wof:parent_id":85810773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "item",
+        "boutique"
+    ]
+},
+  "bbox": [
+    -80.437315,
+    39.277311,
+    -80.437315,
+    39.277311
+],
+  "geometry": {"coordinates":[-80.437315,39.277311],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 823453961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.622931,38.361347,-81.622931,38.361347",
+    "geom:latitude":38.361347,
+    "geom:longitude":-81.622931,
+    "iso:country":"US",
+    "sg:address":"1506 Bigley Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/blue-creek/155267-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 2898",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GMz2oIkVHuR0oiPiyZwdu_38.361413_-81.622408@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434982,
+    "wof:geomhash":"927fe671f9f74ed35a392eec041bbf7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823453961
+        }
+    ],
+    "wof:id":823453961,
+    "wof:lastmodified":1463434982,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -81.622931,
+    38.361347,
+    -81.622931,
+    38.361347
+],
+  "geometry": {"coordinates":[-81.62293099999999,38.361347],"type":"Point"}
+}

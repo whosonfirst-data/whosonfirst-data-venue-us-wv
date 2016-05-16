@@ -1,0 +1,71 @@
+{
+  "id": 823433675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.144039,39.48421,-80.144039,39.48421",
+    "geom:latitude":39.48421,
+    "geom:longitude":-80.144039,
+    "iso:country":"US",
+    "sg:address":"118 Adams St",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 367 0122",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uqUaFuC67b9O2futFzkMM_39.484210_-80.144039@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434049,
+    "wof:geomhash":"67809567b4ee16b31c753f6e660f27b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823433675
+        }
+    ],
+    "wof:id":823433675,
+    "wof:lastmodified":1463434049,
+    "wof:name":"Senator John D Rockefeller Iv",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -80.144039,
+    39.48421,
+    -80.144039,
+    39.48421
+],
+  "geometry": {"coordinates":[-80.14403900000001,39.48421],"type":"Point"}
+}

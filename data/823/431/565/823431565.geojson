@@ -1,0 +1,73 @@
+{
+  "id": 823431565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.84848,39.291865,-77.84848,39.291865",
+    "geom:latitude":39.291865,
+    "geom:longitude":-77.84848,
+    "iso:country":"US",
+    "sg:address":"201 Jefferson Ave",
+    "sg:city":"Charles Town",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 728 2000",
+    "sg:postcode":"25414",
+    "sg:province":"WV",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731443,
+        102082647,
+        85807793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fIyWvDIj6nr1ys9PdurgE_39.291865_-77.848480@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433947,
+    "wof:geomhash":"0a2a34252e347447fe98d1ec94d36196",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082647,
+            "locality_id":101731443,
+            "neighbourhood_id":85807793,
+            "region_id":85688589,
+            "venue_id":823431565
+        }
+    ],
+    "wof:id":823431565,
+    "wof:lastmodified":1463433947,
+    "wof:name":"ERA",
+    "wof:parent_id":85807793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -77.84848,
+    39.291865,
+    -77.84848,
+    39.291865
+],
+  "geometry": {"coordinates":[-77.84848,39.291865],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 823404037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.099414,38.055721,-81.099414,38.055721",
+    "geom:latitude":38.055721,
+    "geom:longitude":-81.099414,
+    "iso:country":"US",
+    "sg:address":"102 E Maple Ave",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 574 2106",
+    "sg:postcode":"25840",
+    "sg:province":"WV",
+    "sg:tags":[
+        "government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5L0SixTyDdR98HL8I08Isv_38.055721_-81.099414@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432763,
+    "wof:geomhash":"9fe3e0e6edd9756793a628c8cf7da634",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823404037
+        }
+    ],
+    "wof:id":823404037,
+    "wof:lastmodified":1463432763,
+    "wof:name":"Forestry Division",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government"
+    ]
+},
+  "bbox": [
+    -81.099414,
+    38.055721,
+    -81.099414,
+    38.055721
+],
+  "geometry": {"coordinates":[-81.099414,38.055721],"type":"Point"}
+}

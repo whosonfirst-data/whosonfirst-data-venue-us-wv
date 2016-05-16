@@ -1,0 +1,70 @@
+{
+  "id": 823452845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.971725,37.842798,-81.971725,37.842798",
+    "geom:latitude":37.842798,
+    "geom:longitude":-81.971725,
+    "iso:country":"US",
+    "sg:address":"212 Riverside Dr",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/central/214066-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 752 4397",
+    "sg:postcode":"25601",
+    "sg:province":"WV",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868319,
+        102083369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FzmBhOsxWBK8qPLhZYr19_37.842798_-81.971725@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434923,
+    "wof:geomhash":"ef6ccb09b310b25ad68f5d767d1e3842",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083369,
+            "neighbourhood_id":85868319,
+            "region_id":85688589,
+            "venue_id":823452845
+        }
+    ],
+    "wof:id":823452845,
+    "wof:lastmodified":1463434923,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85868319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -81.971725,
+    37.842798,
+    -81.971725,
+    37.842798
+],
+  "geometry": {"coordinates":[-81.97172500000001,37.842798],"type":"Point"}
+}

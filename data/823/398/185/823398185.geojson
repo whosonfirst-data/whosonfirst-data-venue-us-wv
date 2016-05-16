@@ -1,0 +1,73 @@
+{
+  "id": 823398185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.567998,38.246792,-81.567998,38.246792",
+    "geom:latitude":38.246792,
+    "geom:longitude":-81.567998,
+    "iso:country":"US",
+    "sg:address":"9200 Maccorkle Ave",
+    "sg:city":"Marmet",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 3746",
+    "sg:postcode":"25315",
+    "sg:province":"WV",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1P4ItU9Vdp0EDYjkQb2Ans_38.246792_-81.567998@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432496,
+    "wof:geomhash":"8f746879a11b48e3a83c59dd478d0945",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823398185
+        }
+    ],
+    "wof:id":823398185,
+    "wof:lastmodified":1463432496,
+    "wof:name":"Handi-Man Car Wash",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -81.567998,
+    38.246792,
+    -81.567998,
+    38.246792
+],
+  "geometry": {"coordinates":[-81.567998,38.246792],"type":"Point"}
+}

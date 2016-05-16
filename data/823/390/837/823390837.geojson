@@ -1,0 +1,68 @@
+{
+  "id": 823390837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.95574,39.628546,-79.95574,39.628546",
+    "geom:latitude":39.628546,
+    "geom:longitude":-79.95574,
+    "iso:country":"US",
+    "sg:address":"235 Spruce St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 8418",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SDgujAUU0emCTXrpblldl_39.628546_-79.955740@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432114,
+    "wof:geomhash":"790bd918a22a8f206803317c4e65b98b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851489,
+            "region_id":85688589,
+            "venue_id":823390837
+        }
+    ],
+    "wof:id":823390837,
+    "wof:lastmodified":1463432114,
+    "wof:name":"Morgantown Florist Co",
+    "wof:parent_id":85851489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.95574,
+    39.628546,
+    -79.95574,
+    39.628546
+],
+  "geometry": {"coordinates":[-79.95574000000001,39.628546],"type":"Point"}
+}

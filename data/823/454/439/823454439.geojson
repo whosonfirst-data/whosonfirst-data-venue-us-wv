@@ -1,0 +1,76 @@
+{
+  "id": 823454439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.627419,38.359946,-81.627419,38.359946",
+    "geom:latitude":38.359946,
+    "geom:longitude":-81.627419,
+    "iso:country":"US",
+    "sg:address":"118 Spring St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 2525",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "pizza",
+        "italian"
+    ],
+    "sg:website":"http://www.giovannispizzaria.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AcCVwvCWrQv68cdgBkHBs_38.359946_-81.627419@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435029,
+    "wof:geomhash":"24954d237229aeec334b9448ce428028",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823454439
+        }
+    ],
+    "wof:id":823454439,
+    "wof:lastmodified":1463435029,
+    "wof:name":"Giovanni's Pizza Place",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza",
+        "italian"
+    ]
+},
+  "bbox": [
+    -81.627419,
+    38.359946,
+    -81.627419,
+    38.359946
+],
+  "geometry": {"coordinates":[-81.627419,38.359946],"type":"Point"}
+}

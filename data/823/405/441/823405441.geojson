@@ -1,0 +1,81 @@
+{
+  "id": 823405441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.479669,38.411847,-82.479669,38.411847",
+    "geom:latitude":38.411847,
+    "geom:longitude":-82.479669,
+    "iso:country":"US",
+    "sg:address":"1309 Adams Ave",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 525 8342",
+    "sg:postcode":"25704",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wheel",
+        "automobile",
+        "frame",
+        "alignment",
+        "axle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731553,
+        102083329,
+        85855709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MDhuCLq4GXfCpOCOCmA4e_38.411847_-82.479669@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432838,
+    "wof:geomhash":"8a73697b41bee928663d6c5607bd9f14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731553,
+            "neighbourhood_id":85855709,
+            "region_id":85688589,
+            "venue_id":823405441
+        }
+    ],
+    "wof:id":823405441,
+    "wof:lastmodified":1463432838,
+    "wof:name":"Alignment Service Inc",
+    "wof:parent_id":85855709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheel",
+        "automobile",
+        "frame",
+        "alignment",
+        "axle"
+    ]
+},
+  "bbox": [
+    -82.479669,
+    38.411847,
+    -82.479669,
+    38.411847
+],
+  "geometry": {"coordinates":[-82.479669,38.411847],"type":"Point"}
+}

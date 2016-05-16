@@ -1,0 +1,73 @@
+{
+  "id": 823393831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.159199,37.762504,-81.159199,37.762504",
+    "geom:latitude":37.762504,
+    "geom:longitude":-81.159199,
+    "iso:country":"US",
+    "sg:address":"2300 S Fayette St",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 255 5678",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0O3S5PaMmrDPX4sPAOrLYU_37.762504_-81.159199@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432268,
+    "wof:geomhash":"3a716c88ebc910a6c91b7b0127a466fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823393831
+        }
+    ],
+    "wof:id":823393831,
+    "wof:lastmodified":1463432268,
+    "wof:name":"Price & Assoc",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -81.159199,
+    37.762504,
+    -81.159199,
+    37.762504
+],
+  "geometry": {"coordinates":[-81.159199,37.762504],"type":"Point"}
+}

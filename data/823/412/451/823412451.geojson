@@ -1,0 +1,71 @@
+{
+  "id": 823412451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.860181,39.642539,-80.860181,39.642539",
+    "geom:latitude":39.642539,
+    "geom:longitude":-80.860181,
+    "iso:country":"US",
+    "sg:address":"249 North St",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 6000",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NEGxMDyYoaW0SqvWBG5Tq_39.642539_-80.860181@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433120,
+    "wof:geomhash":"93027e4c099ef0ea3c5d4172c7f64e23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823412451
+        }
+    ],
+    "wof:id":823412451,
+    "wof:lastmodified":1463433120,
+    "wof:name":"Northern Mountain State Metals",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system"
+    ]
+},
+  "bbox": [
+    -80.860181,
+    39.642539,
+    -80.860181,
+    39.642539
+],
+  "geometry": {"coordinates":[-80.860181,39.642539],"type":"Point"}
+}

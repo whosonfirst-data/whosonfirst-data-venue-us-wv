@@ -1,0 +1,76 @@
+{
+  "id": 823454045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.485995,38.411386,-82.485995,38.411386",
+    "geom:latitude":38.411386,
+    "geom:longitude":-82.485995,
+    "iso:country":"US",
+    "sg:address":"1701 Washington Ave",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/hodges/155272-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 523 4191",
+    "sg:postcode":"25704",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731553,
+        102083329,
+        85855709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LGJTGEmZLqRFj7ue7wAGt_38.411266_-82.486380@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434992,
+    "wof:geomhash":"7ae361c3466e1cf0a415409058f73121",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731553,
+            "neighbourhood_id":85855709,
+            "region_id":85688589,
+            "venue_id":823454045
+        }
+    ],
+    "wof:id":823454045,
+    "wof:lastmodified":1463434992,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85855709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -82.485995,
+    38.411386,
+    -82.485995,
+    38.411386
+],
+  "geometry": {"coordinates":[-82.485995,38.411386],"type":"Point"}
+}

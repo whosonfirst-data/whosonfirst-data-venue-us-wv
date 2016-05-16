@@ -1,0 +1,71 @@
+{
+  "id": 823416447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.098517,37.369671,-81.098517,37.369671",
+    "geom:latitude":37.369671,
+    "geom:longitude":-81.098517,
+    "iso:country":"US",
+    "sg:address":"229 Center St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 6835",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dnIwnceTctxslK4X3jHIO_37.369671_-81.098517@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433301,
+    "wof:geomhash":"8ae890a02f5733b2293ad63405258653",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823416447
+        }
+    ],
+    "wof:id":823416447,
+    "wof:lastmodified":1463433301,
+    "wof:name":"Princeton Group Home",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -81.098517,
+    37.369671,
+    -81.098517,
+    37.369671
+],
+  "geometry": {"coordinates":[-81.098517,37.369671],"type":"Point"}
+}

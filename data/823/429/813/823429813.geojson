@@ -1,0 +1,66 @@
+{
+  "id": 823429813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.565835,38.304445,-81.565835,38.304445",
+    "geom:latitude":38.304445,
+    "geom:longitude":-81.565835,
+    "iso:country":"US",
+    "sg:address":"101 Alex Ln",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 2223",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pjYVme83nQvA4pRF23JSV_38.304445_-81.565835@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433876,
+    "wof:geomhash":"869abecc80973486c92df91e6f4d348b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823429813
+        }
+    ],
+    "wof:id":823429813,
+    "wof:lastmodified":1463433876,
+    "wof:name":"Bob Evans Farms Restaurant",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.565835,
+    38.304445,
+    -81.565835,
+    38.304445
+],
+  "geometry": {"coordinates":[-81.56583500000001,38.304445],"type":"Point"}
+}

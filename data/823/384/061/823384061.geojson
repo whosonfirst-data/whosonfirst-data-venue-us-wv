@@ -1,0 +1,71 @@
+{
+  "id": 823384061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.84732,38.925037,-79.84732,38.925037",
+    "geom:latitude":38.925037,
+    "geom:longitude":-79.84732,
+    "iso:country":"US",
+    "sg:address":"218 3rd St",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 5195",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kM3M6XzS2RLBrofsMU6OV_38.925037_-79.847320@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431813,
+    "wof:geomhash":"d252d75639983a735b1ebd63c3541b30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823384061
+        }
+    ],
+    "wof:id":823384061,
+    "wof:lastmodified":1463431813,
+    "wof:name":"Panhandle Support Svc",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -79.84732,
+    38.925037,
+    -79.84732,
+    38.925037
+],
+  "geometry": {"coordinates":[-79.84732,38.925037],"type":"Point"}
+}

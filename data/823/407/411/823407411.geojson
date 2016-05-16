@@ -1,0 +1,75 @@
+{
+  "id": 823407411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.463582,38.211988,-81.463582,38.211988",
+    "geom:latitude":38.211988,
+    "geom:longitude":-81.463582,
+    "iso:country":"US",
+    "sg:address":"3285 E Dupont Ave",
+    "sg:city":"Belle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 595 4101",
+    "sg:postcode":"25015",
+    "sg:province":"WV",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dFwJVX6DqgSUu93QjXC82_38.211988_-81.463582@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432917,
+    "wof:geomhash":"977136cff46572cb665d75b7f57da0fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823407411
+        }
+    ],
+    "wof:id":823407411,
+    "wof:lastmodified":1463432917,
+    "wof:name":"Wreck A Mended Paint & Body",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -81.463582,
+    38.211988,
+    -81.463582,
+    38.211988
+],
+  "geometry": {"coordinates":[-81.463582,38.211988],"type":"Point"}
+}

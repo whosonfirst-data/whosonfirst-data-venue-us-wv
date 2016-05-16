@@ -1,0 +1,74 @@
+{
+  "id": 823367561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.970433,39.584083,-79.970433,39.584083",
+    "geom:latitude":39.584083,
+    "geom:longitude":-79.970433,
+    "iso:country":"US",
+    "sg:address":"330 Scott Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 291 2994",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "alarm",
+        "burglar",
+        "system"
+    ],
+    "sg:website":"www.secureus.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79zhYQEKQiXTLiHppFnsmA_39.584083_-79.970433@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431077,
+    "wof:geomhash":"4528843cfaaaaad4f5242986c513c3b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823367561
+        }
+    ],
+    "wof:id":823367561,
+    "wof:lastmodified":1463431077,
+    "wof:name":"Secure US Inc",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alarm",
+        "burglar",
+        "system"
+    ]
+},
+  "bbox": [
+    -79.970433,
+    39.584083,
+    -79.970433,
+    39.584083
+],
+  "geometry": {"coordinates":[-79.970433,39.584083],"type":"Point"}
+}

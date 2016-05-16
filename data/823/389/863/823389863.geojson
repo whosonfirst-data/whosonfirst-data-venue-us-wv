@@ -1,0 +1,71 @@
+{
+  "id": 823389863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.8623,39.631028,-80.8623,39.631028",
+    "geom:latitude":39.631028,
+    "geom:longitude":-80.8623,
+    "iso:country":"US",
+    "sg:address":"223 State Rte 2",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 1313",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iU9OinlkeiylOTNl1QPua_39.631028_-80.862300@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432072,
+    "wof:geomhash":"c488f7b3e4f34deec0edb42e491b2bf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823389863
+        }
+    ],
+    "wof:id":823389863,
+    "wof:lastmodified":1463432072,
+    "wof:name":"Save-A-Lot",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -80.8623,
+    39.631028,
+    -80.8623,
+    39.631028
+],
+  "geometry": {"coordinates":[-80.8623,39.631028],"type":"Point"}
+}

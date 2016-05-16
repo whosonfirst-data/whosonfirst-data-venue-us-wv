@@ -1,0 +1,71 @@
+{
+  "id": 823407591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.343891,39.282858,-80.343891,39.282858",
+    "geom:latitude":39.282858,
+    "geom:longitude":-80.343891,
+    "iso:country":"US",
+    "sg:address":"210 N Chestnut St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 622 2091",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "exploration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1azSavOUbMyziVj10V0VYV_39.282858_-80.343891@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432923,
+    "wof:geomhash":"68392b30e7d02a1324affecfb20f29be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823407591
+        }
+    ],
+    "wof:id":823407591,
+    "wof:lastmodified":1463432923,
+    "wof:name":"Spartan Exploration Co",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exploration"
+    ]
+},
+  "bbox": [
+    -80.343891,
+    39.282858,
+    -80.343891,
+    39.282858
+],
+  "geometry": {"coordinates":[-80.343891,39.282858],"type":"Point"}
+}

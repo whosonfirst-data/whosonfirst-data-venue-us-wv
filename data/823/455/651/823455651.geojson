@@ -1,0 +1,67 @@
+{
+  "id": 823455651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.038511,39.360196,-78.038511,39.360196",
+    "geom:latitude":39.360196,
+    "geom:longitude":-78.038511,
+    "iso:country":"US",
+    "sg:address":"150 Hovatter Drive",
+    "sg:city":"Inwood",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 821 1270",
+    "sg:postcode":"25428",
+    "sg:province":"WV",
+    "sg:website":"www.kfc.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vmo0ieqNYjw8uQggzdDEB_39.360196_-78.038511@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435084,
+    "wof:geomhash":"be787bcad5ccd3bd629df500e24ce4e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823455651
+        }
+    ],
+    "wof:id":823455651,
+    "wof:lastmodified":1463435084,
+    "wof:name":"KFC",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.038511,
+    39.360196,
+    -78.038511,
+    39.360196
+],
+  "geometry": {"coordinates":[-78.038511,39.360196],"type":"Point"}
+}

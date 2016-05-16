@@ -1,0 +1,73 @@
+{
+  "id": 823385013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.104837,38.056499,-81.104837,38.056499",
+    "geom:latitude":38.056499,
+    "geom:longitude":-81.104837,
+    "iso:country":"US",
+    "sg:address":"315 N Court St",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 574 4018",
+    "sg:postcode":"25840",
+    "sg:province":"WV",
+    "sg:tags":[
+        "reservation",
+        "motel",
+        "hotel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oXLH0t9SZydqAiV6Wu5Jy_38.056499_-81.104837@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431850,
+    "wof:geomhash":"43e7dbec37fab29e69c982cd9b4b36fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823385013
+        }
+    ],
+    "wof:id":823385013,
+    "wof:lastmodified":1463431850,
+    "wof:name":"Court Street Cottage",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reservation",
+        "motel",
+        "hotel"
+    ]
+},
+  "bbox": [
+    -81.104837,
+    38.056499,
+    -81.104837,
+    38.056499
+],
+  "geometry": {"coordinates":[-81.104837,38.056499],"type":"Point"}
+}

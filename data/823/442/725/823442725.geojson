@@ -1,0 +1,71 @@
+{
+  "id": 823442725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.973885,39.459594,-77.973885,39.459594",
+    "geom:latitude":39.459594,
+    "geom:longitude":-77.973885,
+    "iso:country":"US",
+    "sg:address":"709 W Burke St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 7764",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85846047,
+        102083367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00jT366tr1uXWukNQ3loif_39.459594_-77.973885@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434483,
+    "wof:geomhash":"6ed697472c7f0b755b0e78b85cd34f04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "neighbourhood_id":85846047,
+            "region_id":85688589,
+            "venue_id":823442725
+        }
+    ],
+    "wof:id":823442725,
+    "wof:lastmodified":1463434483,
+    "wof:name":"Harris Community Care Inc",
+    "wof:parent_id":85846047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -77.973885,
+    39.459594,
+    -77.973885,
+    39.459594
+],
+  "geometry": {"coordinates":[-77.973885,39.459594],"type":"Point"}
+}

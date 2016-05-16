@@ -1,0 +1,82 @@
+{
+  "id": 823456977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.60907,40.289255,-80.60907,40.289255",
+    "geom:latitude":40.289255,
+    "geom:longitude":-80.60907,
+    "iso:country":"US",
+    "sg:address":"91 27th St",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 243 6230",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "sg:website":"http://www.scottsfoods.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38CGLMH58TCoHc8ad1JSJX_40.289255_-80.609070@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435136,
+    "wof:geomhash":"95aeb1f8d7132236a4618af14ca326fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823456977
+        }
+    ],
+    "wof:id":823456977,
+    "wof:lastmodified":1463435136,
+    "wof:name":"Kroger Bakery",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -80.60907,
+    40.289255,
+    -80.60907,
+    40.289255
+],
+  "geometry": {"coordinates":[-80.60907,40.289255],"type":"Point"}
+}

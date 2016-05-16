@@ -1,0 +1,74 @@
+{
+  "id": 823453469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.345322,39.281865,-80.345322,39.281865",
+    "geom:latitude":39.281865,
+    "geom:longitude":-80.345322,
+    "iso:country":"US",
+    "sg:address":"638 W Pike St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/north-urban/181546-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 624 7536",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iGPtCg6QieqBwwx4cdxkh_39.281865_-80.345322@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434948,
+    "wof:geomhash":"8d8f8cc4e3893f937fd23ec3ccb51bbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823453469
+        }
+    ],
+    "wof:id":823453469,
+    "wof:lastmodified":1463434948,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -80.345322,
+    39.281865,
+    -80.345322,
+    39.281865
+],
+  "geometry": {"coordinates":[-80.345322,39.281865],"type":"Point"}
+}

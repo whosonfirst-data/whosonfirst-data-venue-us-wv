@@ -1,0 +1,66 @@
+{
+  "id": 823448893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.539789,38.233889,-81.539789,38.233889",
+    "geom:latitude":38.233889,
+    "geom:longitude":-81.539789,
+    "iso:country":"US",
+    "sg:address":"412 E Dupont Ave",
+    "sg:city":"Belle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 6524",
+    "sg:postcode":"25015",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZCOKqy4WZPRxt6bu8zW4S_38.233889_-81.539789@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434778,
+    "wof:geomhash":"2e0697f69ffa1ea8b10d7152fcea47ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823448893
+        }
+    ],
+    "wof:id":823448893,
+    "wof:lastmodified":1463434778,
+    "wof:name":"7-Eleven",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.539789,
+    38.233889,
+    -81.539789,
+    38.233889
+],
+  "geometry": {"coordinates":[-81.539789,38.233889],"type":"Point"}
+}

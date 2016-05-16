@@ -1,0 +1,74 @@
+{
+  "id": 823408149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.589271,38.406842,-82.589271,38.406842",
+    "geom:latitude":38.406842,
+    "geom:longitude":-82.589271,
+    "iso:country":"US",
+    "sg:address":"201 23rd St",
+    "sg:city":"Kenova",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 6343",
+    "sg:postcode":"25530",
+    "sg:province":"WV",
+    "sg:tags":[
+        "propane",
+        "gas"
+    ],
+    "sg:website":"www.ferrellgas.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731517,
+        102083365,
+        85806071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vYBQIb8kHsFrW5NPHtax4_38.406842_-82.589271@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432952,
+    "wof:geomhash":"080a936966ba1c28b4dd04b618202d8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731517,
+            "neighbourhood_id":85806071,
+            "region_id":85688589,
+            "venue_id":823408149
+        }
+    ],
+    "wof:id":823408149,
+    "wof:lastmodified":1463432952,
+    "wof:name":"Ferrellgas",
+    "wof:parent_id":85806071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "propane",
+        "gas"
+    ]
+},
+  "bbox": [
+    -82.589271,
+    38.406842,
+    -82.589271,
+    38.406842
+],
+  "geometry": {"coordinates":[-82.589271,38.406842],"type":"Point"}
+}

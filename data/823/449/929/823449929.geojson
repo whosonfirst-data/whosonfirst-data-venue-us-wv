@@ -1,0 +1,71 @@
+{
+  "id": 823449929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.959114,39.669936,-79.959114,39.669936",
+    "geom:latitude":39.669936,
+    "geom:longitude":-79.959114,
+    "iso:country":"US",
+    "sg:address":"205 Glen Abbey Ln",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 1157",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gyjPEl43StgJ9JufVdKGn_39.669936_-79.959114@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434814,
+    "wof:geomhash":"c2f11f27c7352bca498f8f181c488998",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823449929
+        }
+    ],
+    "wof:id":823449929,
+    "wof:lastmodified":1463434814,
+    "wof:name":"Greene Glen Townhomes",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -79.959114,
+    39.669936,
+    -79.959114,
+    39.669936
+],
+  "geometry": {"coordinates":[-79.959114,39.669936],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823395191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.152583,39.473835,-80.152583,39.473835",
+    "geom:latitude":39.473835,
+    "geom:longitude":-80.152583,
+    "iso:country":"US",
+    "sg:address":"900 Fairmont Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 8900",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6e7WqXrvyLJk0xybmczRtv_39.473835_-80.152583@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432336,
+    "wof:geomhash":"7532a56a3ace5992335e5cd94d24daae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823395191
+        }
+    ],
+    "wof:id":823395191,
+    "wof:lastmodified":1463432336,
+    "wof:name":"Tanfastics",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -80.152583,
+    39.473835,
+    -80.152583,
+    39.473835
+],
+  "geometry": {"coordinates":[-80.15258300000001,39.473835],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 823454243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.969698,39.061644,-78.969698,39.061644",
+    "geom:latitude":39.061644,
+    "geom:longitude":-78.969698,
+    "iso:country":"US",
+    "sg:address":"120 S Main St",
+    "sg:city":"Moorefield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/moorefield/67915-foxs-pizza-den/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 538 2424",
+    "sg:postcode":"26836",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731279,
+        102082645,
+        85851815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25PNC1fZQCEHNYLyzf6mfu_39.061928_-78.969804@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463435010,
+    "wof:geomhash":"ab0a7e5fe88694751e06293ec2ec15d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082645,
+            "locality_id":101731279,
+            "neighbourhood_id":85851815,
+            "region_id":85688589,
+            "venue_id":823454243
+        }
+    ],
+    "wof:id":823454243,
+    "wof:lastmodified":1463435010,
+    "wof:name":"Fox's Pizza Den",
+    "wof:parent_id":85851815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -78.969698,
+    39.061644,
+    -78.969698,
+    39.061644
+],
+  "geometry": {"coordinates":[-78.96969799999999,39.061644],"type":"Point"}
+}

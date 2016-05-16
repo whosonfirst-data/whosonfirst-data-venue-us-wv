@@ -1,0 +1,71 @@
+{
+  "id": 823388849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.335333,38.17915,-81.335333,38.17915",
+    "geom:latitude":38.17915,
+    "geom:longitude":-81.335333,
+    "iso:country":"US",
+    "sg:address":"1301 Fayette Pike W",
+    "sg:city":"Montgomery",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 442 2123",
+    "sg:postcode":"25136",
+    "sg:province":"WV",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42cOsnZ8FUaIm2Vvnjvp4p_38.179150_-81.335333@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432020,
+    "wof:geomhash":"946502d6ecb982b50413567d92bd3970",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823388849
+        }
+    ],
+    "wof:id":823388849,
+    "wof:lastmodified":1463432020,
+    "wof:name":"O'Dell Funeral Home",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -81.335333,
+    38.17915,
+    -81.335333,
+    38.17915
+],
+  "geometry": {"coordinates":[-81.33533300000001,38.17915],"type":"Point"}
+}

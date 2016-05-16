@@ -1,0 +1,71 @@
+{
+  "id": 823432837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.637394,38.510995,-81.637394,38.510995",
+    "geom:latitude":38.510995,
+    "geom:longitude":-81.637394,
+    "iso:country":"US",
+    "sg:address":"7715 Sissonville Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 965 9511",
+    "sg:postcode":"25320",
+    "sg:province":"WV",
+    "sg:tags":[
+        "auctioneer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vLJK5fU7uzDz41NhkXWmb_38.510995_-81.637394@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434011,
+    "wof:geomhash":"9fd784a8df9056a8646fbff613c2998f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823432837
+        }
+    ],
+    "wof:id":823432837,
+    "wof:lastmodified":1463434011,
+    "wof:name":"Pink Ribbon E Auctions",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auctioneer"
+    ]
+},
+  "bbox": [
+    -81.637394,
+    38.510995,
+    -81.637394,
+    38.510995
+],
+  "geometry": {"coordinates":[-81.637394,38.510995],"type":"Point"}
+}

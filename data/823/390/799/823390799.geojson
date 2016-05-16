@@ -1,0 +1,71 @@
+{
+  "id": 823390799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.653105,38.361045,-81.653105,38.361045",
+    "geom:latitude":38.361045,
+    "geom:longitude":-81.653105,
+    "iso:country":"US",
+    "sg:address":"616 Hall St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 2364",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QepECMoubwkJGL8cBm5Gt_38.361045_-81.653105@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432112,
+    "wof:geomhash":"d91d9b4b958cae99de9b13b2ef79d1ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823390799
+        }
+    ],
+    "wof:id":823390799,
+    "wof:lastmodified":1463432112,
+    "wof:name":"John Faucett",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -81.653105,
+    38.361045,
+    -81.653105,
+    38.361045
+],
+  "geometry": {"coordinates":[-81.653105,38.361045],"type":"Point"}
+}

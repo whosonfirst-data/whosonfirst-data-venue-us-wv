@@ -1,0 +1,73 @@
+{
+  "id": 823422687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.686491,40.076673,-80.686491,40.076673",
+    "geom:latitude":40.076673,
+    "geom:longitude":-80.686491,
+    "iso:country":"US",
+    "sg:address":"12 America Ave",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 243 1728",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85830083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZSOWKfoUfb2pH64iK59f2_40.076673_-80.686491@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433566,
+    "wof:geomhash":"cb77b952a9eef05cb0479663695e8ec6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85830083,
+            "region_id":85688589,
+            "venue_id":823422687
+        }
+    ],
+    "wof:id":823422687,
+    "wof:lastmodified":1463433566,
+    "wof:name":"Landstar Ranger Inc",
+    "wof:parent_id":85830083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -80.686491,
+    40.076673,
+    -80.686491,
+    40.076673
+],
+  "geometry": {"coordinates":[-80.686491,40.076673],"type":"Point"}
+}

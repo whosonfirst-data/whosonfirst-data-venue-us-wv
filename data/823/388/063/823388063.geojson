@@ -1,0 +1,73 @@
+{
+  "id": 823388063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.873198,37.744314,-81.873198,37.744314",
+    "geom:latitude":37.744314,
+    "geom:longitude":-81.873198,
+    "iso:country":"US",
+    "sg:address":"310 Main St",
+    "sg:city":"Man",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 583 9600",
+    "sg:postcode":"25635",
+    "sg:province":"WV",
+    "sg:tags":[
+        "equipment",
+        "therapy",
+        "oxygen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868319,
+        102083369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1knAqS8Ov0ZScwFMJ2xAea_37.744314_-81.873198@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431966,
+    "wof:geomhash":"4eebacc9536c0e051838acbefc754b79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083369,
+            "neighbourhood_id":85868319,
+            "region_id":85688589,
+            "venue_id":823388063
+        }
+    ],
+    "wof:id":823388063,
+    "wof:lastmodified":1463431966,
+    "wof:name":"Pioneer Medical Svc",
+    "wof:parent_id":85868319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "therapy",
+        "oxygen"
+    ]
+},
+  "bbox": [
+    -81.873198,
+    37.744314,
+    -81.873198,
+    37.744314
+],
+  "geometry": {"coordinates":[-81.873198,37.744314],"type":"Point"}
+}

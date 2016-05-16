@@ -1,0 +1,73 @@
+{
+  "id": 823382871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.126089,37.748777,-81.126089,37.748777",
+    "geom:latitude":37.748777,
+    "geom:longitude":-81.126089,
+    "iso:country":"US",
+    "sg:address":"167 N Beaver Ln",
+    "sg:city":"Beaver",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 255 7755",
+    "sg:postcode":"25813",
+    "sg:province":"WV",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1e3RwYiBXCpyqEFU4HCXzh_37.748777_-81.126089@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431770,
+    "wof:geomhash":"6d46d479ba26c4ebc04c4876cb60b352",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823382871
+        }
+    ],
+    "wof:id":823382871,
+    "wof:lastmodified":1463431770,
+    "wof:name":"Padrino's Pizza Restaurant",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -81.126089,
+    37.748777,
+    -81.126089,
+    37.748777
+],
+  "geometry": {"coordinates":[-81.12608899999999,37.748777],"type":"Point"}
+}

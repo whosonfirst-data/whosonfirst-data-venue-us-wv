@@ -1,0 +1,73 @@
+{
+  "id": 823385405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.561071,40.613439,-80.561071,40.613439",
+    "geom:latitude":40.613439,
+    "geom:longitude":-80.561071,
+    "iso:country":"US",
+    "sg:address":"528 Dunn St",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 1535",
+    "sg:postcode":"26034",
+    "sg:province":"WV",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WswfdqRb88U79Y37QrOZK_40.613439_-80.561071@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431864,
+    "wof:geomhash":"22ffaedcf2acb5bcc7e5d82f2c3c235a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823385405
+        }
+    ],
+    "wof:id":823385405,
+    "wof:lastmodified":1463431864,
+    "wof:name":"M & R Concrete",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.561071,
+    40.613439,
+    -80.561071,
+    40.613439
+],
+  "geometry": {"coordinates":[-80.561071,40.613439],"type":"Point"}
+}

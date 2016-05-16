@@ -1,0 +1,73 @@
+{
+  "id": 823375565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.246493,39.284667,-80.246493,39.284667",
+    "geom:latitude":39.284667,
+    "geom:longitude":-80.246493,
+    "iso:country":"US",
+    "sg:address":"230 Grand Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 592 2009",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "occupational",
+        "therapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MiumWbY9YE9ODqquumKHu_39.284667_-80.246493@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431439,
+    "wof:geomhash":"78b5378f0a726ba5de90700de8723a6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823375565
+        }
+    ],
+    "wof:id":823375565,
+    "wof:lastmodified":1463431439,
+    "wof:name":"Therapy Services",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "occupational",
+        "therapist"
+    ]
+},
+  "bbox": [
+    -80.246493,
+    39.284667,
+    -80.246493,
+    39.284667
+],
+  "geometry": {"coordinates":[-80.246493,39.284667],"type":"Point"}
+}

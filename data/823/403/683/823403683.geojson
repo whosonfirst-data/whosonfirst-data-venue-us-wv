@@ -1,0 +1,75 @@
+{
+  "id": 823403683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.100624,37.364282,-81.100624,37.364282",
+    "geom:latitude":37.364282,
+    "geom:longitude":-81.100624,
+    "iso:country":"US",
+    "sg:address":"1305 Princeton Ave",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 5521",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_060Gec8nRJp652VUnbV9Nm_37.364282_-81.100624@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432738,
+    "wof:geomhash":"0c6bab3de216c2709e7c0fe68ca164a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823403683
+        }
+    ],
+    "wof:id":823403683,
+    "wof:lastmodified":1463432738,
+    "wof:name":"Johnny E Proffit",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -81.100624,
+    37.364282,
+    -81.100624,
+    37.364282
+],
+  "geometry": {"coordinates":[-81.100624,37.364282],"type":"Point"}
+}

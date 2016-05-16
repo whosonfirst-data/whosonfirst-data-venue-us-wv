@@ -1,0 +1,82 @@
+{
+  "id": 823439975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.594228,38.358481,-81.594228,38.358481",
+    "geom:latitude":38.358481,
+    "geom:longitude":-81.594228,
+    "iso:country":"US",
+    "sg:address":"1262 Greenbrier St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 346 6884",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "machine",
+        "duplicating",
+        "business",
+        "copying"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HOotSGMKDMede2EzQpPUG_38.358481_-81.594228@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434364,
+    "wof:geomhash":"820afe6f565cf4cd29d845633d73c8f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823439975
+        }
+    ],
+    "wof:id":823439975,
+    "wof:lastmodified":1463434364,
+    "wof:name":"Capitol Copiers Inc",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "duplicating",
+        "business",
+        "copying"
+    ]
+},
+  "bbox": [
+    -81.594228,
+    38.358481,
+    -81.594228,
+    38.358481
+],
+  "geometry": {"coordinates":[-81.594228,38.358481],"type":"Point"}
+}

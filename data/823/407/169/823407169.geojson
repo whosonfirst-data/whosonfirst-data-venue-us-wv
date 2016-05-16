@@ -1,0 +1,71 @@
+{
+  "id": 823407169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.14863,39.480099,-80.14863,39.480099",
+    "geom:latitude":39.480099,
+    "geom:longitude":-80.14863,
+    "iso:country":"US",
+    "sg:address":"417 Fairmont Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 6948",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xx3DG23J3XYM8mdGtVPlx_39.480099_-80.148630@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432909,
+    "wof:geomhash":"13e372e733bc350eb5ebd158fa830c45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823407169
+        }
+    ],
+    "wof:id":823407169,
+    "wof:lastmodified":1463432909,
+    "wof:name":"Dry Cleaning World",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -80.14863,
+    39.480099,
+    -80.14863,
+    39.480099
+],
+  "geometry": {"coordinates":[-80.14863,39.480099],"type":"Point"}
+}

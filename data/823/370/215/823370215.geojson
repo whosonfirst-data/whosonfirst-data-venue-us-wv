@@ -1,0 +1,73 @@
+{
+  "id": 823370215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.725579,38.425328,-81.725579,38.425328",
+    "geom:latitude":38.425328,
+    "geom:longitude":-81.725579,
+    "iso:country":"US",
+    "sg:address":"4804 Fire Creek Rd",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 776 4528",
+    "sg:postcode":"25313",
+    "sg:province":"WV",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yxz9HsWmDJHEpLjfARJEF_38.425328_-81.725579@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431183,
+    "wof:geomhash":"928235f79d2ac201c87d14d9c5be7c3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823370215
+        }
+    ],
+    "wof:id":823370215,
+    "wof:lastmodified":1463431183,
+    "wof:name":"Braden's TV Svc",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [
+    -81.725579,
+    38.425328,
+    -81.725579,
+    38.425328
+],
+  "geometry": {"coordinates":[-81.725579,38.425328],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823370221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.277551,39.281054,-80.277551,39.281054",
+    "geom:latitude":39.281054,
+    "geom:longitude":-80.277551,
+    "iso:country":"US",
+    "sg:address":"1220 W Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 7310",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "vitamin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KgYzrn9mNnV9qXIN3ck1v_39.281054_-80.277551@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431184,
+    "wof:geomhash":"25cd37412045f7deda7bd42fae79968c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823370221
+        }
+    ],
+    "wof:id":823370221,
+    "wof:lastmodified":1463431184,
+    "wof:name":"General Nutrition Ctr",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vitamin"
+    ]
+},
+  "bbox": [
+    -80.277551,
+    39.281054,
+    -80.277551,
+    39.281054
+],
+  "geometry": {"coordinates":[-80.277551,39.281054],"type":"Point"}
+}

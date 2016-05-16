@@ -1,0 +1,75 @@
+{
+  "id": 823418605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.334439,39.276817,-80.334439,39.276817",
+    "geom:latitude":39.276817,
+    "geom:longitude":-80.334439,
+    "iso:country":"US",
+    "sg:address":"222 Monticello Ave",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 623 1073",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nWvnE0Xx98Yobrtq60NTv_39.276817_-80.334439@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433411,
+    "wof:geomhash":"2bb8e290bbd8212494792f334f0df537",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823418605
+        }
+    ],
+    "wof:id":823418605,
+    "wof:lastmodified":1463433411,
+    "wof:name":"D & J Custom Body & Boat Rpr",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -80.334439,
+    39.276817,
+    -80.334439,
+    39.276817
+],
+  "geometry": {"coordinates":[-80.334439,39.276817],"type":"Point"}
+}

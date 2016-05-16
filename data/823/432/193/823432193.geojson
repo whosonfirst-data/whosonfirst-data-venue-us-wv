@@ -1,0 +1,75 @@
+{
+  "id": 823432193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.209174,37.799456,-81.209174,37.799456",
+    "geom:latitude":37.799456,
+    "geom:longitude":-81.209174,
+    "iso:country":"US",
+    "sg:address":"315 Pikeview Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 255 0593",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lCR80i5vsZwlaF5LY0Df0_37.799456_-81.209174@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433974,
+    "wof:geomhash":"e252840c60ca69d31edf485fee40cdeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823432193
+        }
+    ],
+    "wof:id":823432193,
+    "wof:lastmodified":1463433974,
+    "wof:name":"Pikeview Manor Apartments",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -81.209174,
+    37.799456,
+    -81.209174,
+    37.799456
+],
+  "geometry": {"coordinates":[-81.209174,37.799456],"type":"Point"}
+}

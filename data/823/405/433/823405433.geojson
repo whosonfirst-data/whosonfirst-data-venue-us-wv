@@ -1,0 +1,73 @@
+{
+  "id": 823405433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.982269,38.442979,-81.982269,38.442979",
+    "geom:latitude":38.442979,
+    "geom:longitude":-81.982269,
+    "iso:country":"US",
+    "sg:address":"3587 Teays Valley Rd",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 757 3368",
+    "sg:postcode":"25526",
+    "sg:province":"WV",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731829,
+        102083381,
+        85868321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A66GMWXC9H6OrZ9NjPFln_38.442979_-81.982269@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432838,
+    "wof:geomhash":"091bd3a9f293cd73e38276ff2fa208bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731829,
+            "neighbourhood_id":85868321,
+            "region_id":85688589,
+            "venue_id":823405433
+        }
+    ],
+    "wof:id":823405433,
+    "wof:lastmodified":1463432838,
+    "wof:name":"Joan Carroll",
+    "wof:parent_id":85868321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -81.982269,
+    38.442979,
+    -81.982269,
+    38.442979
+],
+  "geometry": {"coordinates":[-81.982269,38.442979],"type":"Point"}
+}

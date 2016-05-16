@@ -1,0 +1,75 @@
+{
+  "id": 823401039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.121661,39.4823,-80.121661,39.4823",
+    "geom:latitude":39.4823,
+    "geom:longitude":-80.121661,
+    "iso:country":"US",
+    "sg:address":"203 Marion St",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 5235",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "organization",
+        "medical",
+        "surgical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VvUe2KdwFwgZ6CcMrXrHv_39.482300_-80.121661@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432631,
+    "wof:geomhash":"a5f503784685c27135d14aed0a5cae61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823401039
+        }
+    ],
+    "wof:id":823401039,
+    "wof:lastmodified":1463432631,
+    "wof:name":"Healthsouth",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "medical",
+        "surgical"
+    ]
+},
+  "bbox": [
+    -80.121661,
+    39.4823,
+    -80.121661,
+    39.4823
+],
+  "geometry": {"coordinates":[-80.121661,39.4823],"type":"Point"}
+}

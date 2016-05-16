@@ -1,0 +1,71 @@
+{
+  "id": 823374309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.719976,38.40461,-81.719976,38.40461",
+    "geom:latitude":38.40461,
+    "geom:longitude":-81.719976,
+    "iso:country":"US",
+    "sg:address":"4528 Woodrum Ln",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 0388",
+    "sg:postcode":"25313",
+    "sg:province":"WV",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4af9p5V9HmrgYoxO5xzUwc_38.404610_-81.719976@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431371,
+    "wof:geomhash":"ddab3ff62b67c89b37f5329d1e21c3d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823374309
+        }
+    ],
+    "wof:id":823374309,
+    "wof:lastmodified":1463431371,
+    "wof:name":"MCI",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -81.719976,
+    38.40461,
+    -81.719976,
+    38.40461
+],
+  "geometry": {"coordinates":[-81.719976,38.40461],"type":"Point"}
+}

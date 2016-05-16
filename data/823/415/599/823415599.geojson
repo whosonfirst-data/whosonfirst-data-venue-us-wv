@@ -1,0 +1,71 @@
+{
+  "id": 823415599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.463358,38.212019,-81.463358,38.212019",
+    "geom:latitude":38.212019,
+    "geom:longitude":-81.463358,
+    "iso:country":"US",
+    "sg:address":"3336 E Dupont Ave",
+    "sg:city":"Shrewsbury",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 595 2262",
+    "sg:postcode":"25015",
+    "sg:province":"WV",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25Kwynd3GUKOgPyI2FdD9x_38.212019_-81.463358@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433263,
+    "wof:geomhash":"d0f6763723494467ee9755079b46a040",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823415599
+        }
+    ],
+    "wof:id":823415599,
+    "wof:lastmodified":1463433263,
+    "wof:name":"Twin Hills Market",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -81.463358,
+    38.212019,
+    -81.463358,
+    38.212019
+],
+  "geometry": {"coordinates":[-81.463358,38.212019],"type":"Point"}
+}

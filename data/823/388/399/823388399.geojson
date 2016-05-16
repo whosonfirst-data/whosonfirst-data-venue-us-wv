@@ -1,0 +1,66 @@
+{
+  "id": 823388399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.297676,37.796205,-80.297676,37.796205",
+    "geom:latitude":37.796205,
+    "geom:longitude":-80.297676,
+    "iso:country":"US",
+    "sg:address":"103 E Main St",
+    "sg:city":"White Slphr Spgs",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 536 4019",
+    "sg:postcode":"24986",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CNuNYg4SrNR4E5kV3F4Bn_37.796205_-80.297676@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431987,
+    "wof:geomhash":"73765972cd9138a377e7ed4b27fa2f61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823388399
+        }
+    ],
+    "wof:id":823388399,
+    "wof:lastmodified":1463431987,
+    "wof:name":"Little General Store",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.297676,
+    37.796205,
+    -80.297676,
+    37.796205
+],
+  "geometry": {"coordinates":[-80.297676,37.796205],"type":"Point"}
+}

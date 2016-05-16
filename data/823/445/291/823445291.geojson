@@ -1,0 +1,75 @@
+{
+  "id": 823445291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.964724,39.65937,-79.964724,39.65937",
+    "geom:latitude":39.65937,
+    "geom:longitude":-79.964724,
+    "iso:country":"US",
+    "sg:address":"688 Killarney Dr",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 2328",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator",
+        "builder",
+        "apartment",
+        "operative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fw19laLmNrjFSl8puOtKm_39.659370_-79.964724@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434606,
+    "wof:geomhash":"a51982508fc75c7a3601ed742e0c18ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823445291
+        }
+    ],
+    "wof:id":823445291,
+    "wof:lastmodified":1463434606,
+    "wof:name":"Heritage Apartments",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "builder",
+        "apartment",
+        "operative"
+    ]
+},
+  "bbox": [
+    -79.964724,
+    39.65937,
+    -79.964724,
+    39.65937
+],
+  "geometry": {"coordinates":[-79.964724,39.65937],"type":"Point"}
+}

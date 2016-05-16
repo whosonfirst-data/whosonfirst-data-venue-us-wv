@@ -1,0 +1,71 @@
+{
+  "id": 823448679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.610263,40.270825,-80.610263,40.270825",
+    "geom:latitude":40.270825,
+    "geom:longitude":-80.610263,
+    "iso:country":"US",
+    "sg:address":"841 Commerce St",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 3581",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "lumber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LfK558dWn6sggspcFcVV0_40.270825_-80.610263@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434765,
+    "wof:geomhash":"11969ec86048731bc02372782461276b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823448679
+        }
+    ],
+    "wof:id":823448679,
+    "wof:lastmodified":1463434765,
+    "wof:name":"Robert Scott Lumber Co",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lumber"
+    ]
+},
+  "bbox": [
+    -80.610263,
+    40.270825,
+    -80.610263,
+    40.270825
+],
+  "geometry": {"coordinates":[-80.610263,40.270825],"type":"Point"}
+}

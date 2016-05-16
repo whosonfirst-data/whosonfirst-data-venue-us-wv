@@ -1,0 +1,71 @@
+{
+  "id": 823410591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.169056,37.891944,-81.169056,37.891944",
+    "geom:latitude":37.891944,
+    "geom:longitude":-81.169056,
+    "iso:country":"US",
+    "sg:address":"31 S Mill Ave",
+    "sg:city":"Mount Hope",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 255 2338",
+    "sg:postcode":"25880",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731505,
+        102083359,
+        85852821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38Wl1rgLOJZWQKZouTQu9t_37.891944_-81.169056@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433051,
+    "wof:geomhash":"146466fa07b579817f7a8e6589825d1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "locality_id":101731505,
+            "neighbourhood_id":85852821,
+            "region_id":85688589,
+            "venue_id":823410591
+        }
+    ],
+    "wof:id":823410591,
+    "wof:lastmodified":1463433051,
+    "wof:name":"Chick-Fil-A",
+    "wof:parent_id":85852821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -81.169056,
+    37.891944,
+    -81.169056,
+    37.891944
+],
+  "geometry": {"coordinates":[-81.169056,37.891944],"type":"Point"}
+}

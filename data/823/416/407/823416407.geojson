@@ -1,0 +1,71 @@
+{
+  "id": 823416407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.23896,37.252265,-81.23896,37.252265",
+    "geom:latitude":37.252265,
+    "geom:longitude":-81.23896,
+    "iso:country":"US",
+    "sg:address":"1602 Stadium Dr",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 325 2040",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vB9JAwI9EMYqiLPUP0zLA_37.252265_-81.238960@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433299,
+    "wof:geomhash":"4cd7f61d9bebedc258fe94898e21aa3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823416407
+        }
+    ],
+    "wof:id":823416407,
+    "wof:lastmodified":1463433299,
+    "wof:name":"Prime Cut",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.23896,
+    37.252265,
+    -81.23896,
+    37.252265
+],
+  "geometry": {"coordinates":[-81.23896000000001,37.252265],"type":"Point"}
+}

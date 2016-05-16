@@ -1,0 +1,71 @@
+{
+  "id": 823457379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.953018,39.661652,-79.953018,39.661652",
+    "geom:latitude":39.661652,
+    "geom:longitude":-79.953018,
+    "iso:country":"US",
+    "sg:address":"1299 Pineview Dr Fl 4",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Science Facility",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 293 6682",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "development",
+        "laboratories-research"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kpnXJkkgJgCtZhrfNL9dT_39.661652_-79.953018@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435157,
+    "wof:geomhash":"76103435dee83c8e48d6c02c281b9003",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823457379
+        }
+    ],
+    "wof:id":823457379,
+    "wof:lastmodified":1463435157,
+    "wof:name":"Center For Rural Emergency Medicine",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "laboratories-research"
+    ]
+},
+  "bbox": [
+    -79.953018,
+    39.661652,
+    -79.953018,
+    39.661652
+],
+  "geometry": {"coordinates":[-79.953018,39.661652],"type":"Point"}
+}

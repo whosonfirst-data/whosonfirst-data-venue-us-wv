@@ -1,0 +1,84 @@
+{
+  "id": 823457651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.908294,39.60994,-79.908294,39.60994",
+    "geom:latitude":39.60994,
+    "geom:longitude":-79.908294,
+    "iso:country":"US",
+    "sg:address":"27 Friend Dr",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 7771",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "store",
+        "tank",
+        "system",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732105,
+        102082587,
+        85807831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5V6C1I4vBTOWWMx7dDlJem_39.609940_-79.908294@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435174,
+    "wof:geomhash":"891eb59b9c5c783a46ad859c5bab58d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101732105,
+            "neighbourhood_id":85807831,
+            "region_id":85688589,
+            "venue_id":823457651
+        }
+    ],
+    "wof:id":823457651,
+    "wof:lastmodified":1463435174,
+    "wof:name":"Frontier Supply",
+    "wof:parent_id":85807831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store",
+        "tank",
+        "system",
+        "septic"
+    ]
+},
+  "bbox": [
+    -79.908294,
+    39.60994,
+    -79.908294,
+    39.60994
+],
+  "geometry": {"coordinates":[-79.908294,39.60994],"type":"Point"}
+}

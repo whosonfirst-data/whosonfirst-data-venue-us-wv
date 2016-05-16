@@ -1,0 +1,73 @@
+{
+  "id": 823428035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.632985,38.348198,-81.632985,38.348198",
+    "geom:latitude":38.348198,
+    "geom:longitude":-81.632985,
+    "iso:country":"US",
+    "sg:address":"1013 Quarrier St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 8888",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19MQXOGo4QV5jbxptryVz7_38.348198_-81.632985@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433790,
+    "wof:geomhash":"36bd84272939fbe4f5161709bfd04e06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823428035
+        }
+    ],
+    "wof:id":823428035,
+    "wof:lastmodified":1463433790,
+    "wof:name":"Pressed For Time",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -81.632985,
+    38.348198,
+    -81.632985,
+    38.348198
+],
+  "geometry": {"coordinates":[-81.63298500000001,38.348198],"type":"Point"}
+}

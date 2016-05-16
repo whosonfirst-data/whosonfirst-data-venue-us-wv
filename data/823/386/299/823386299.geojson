@@ -1,0 +1,71 @@
+{
+  "id": 823386299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.219955,37.256857,-81.219955,37.256857",
+    "geom:latitude":37.256857,
+    "geom:longitude":-81.219955,
+    "iso:country":"US",
+    "sg:address":"1819 Jefferson St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 325 5775",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "financing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OqWHuJrbAfAXY02Ig5gEt_37.256857_-81.219955@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431901,
+    "wof:geomhash":"d389da171159cfee8b5ae2e524d99d3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823386299
+        }
+    ],
+    "wof:id":823386299,
+    "wof:lastmodified":1463431901,
+    "wof:name":"Citi Financial",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "financing"
+    ]
+},
+  "bbox": [
+    -81.219955,
+    37.256857,
+    -81.219955,
+    37.256857
+],
+  "geometry": {"coordinates":[-81.219955,37.256857],"type":"Point"}
+}

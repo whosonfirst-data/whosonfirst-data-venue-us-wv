@@ -1,0 +1,68 @@
+{
+  "id": 823395081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.960683,39.640769,-79.960683,39.640769",
+    "geom:latitude":39.640769,
+    "geom:longitude":-79.960683,
+    "iso:country":"US",
+    "sg:address":"568 State Rte 7",
+    "sg:city":"Reedsville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 864 2263",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85847767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74izO73RRGDNhJ4eteqa69_39.640769_-79.960683@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432333,
+    "wof:geomhash":"98b62da7c261bdbe2d15715e4bfbb0cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85847767,
+            "region_id":85688589,
+            "venue_id":823395081
+        }
+    ],
+    "wof:id":823395081,
+    "wof:lastmodified":1463432333,
+    "wof:name":"Troy's Bar & Grill",
+    "wof:parent_id":85847767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.960683,
+    39.640769,
+    -79.960683,
+    39.640769
+],
+  "geometry": {"coordinates":[-79.960683,39.640769],"type":"Point"}
+}

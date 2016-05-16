@@ -1,0 +1,71 @@
+{
+  "id": 823394899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.594641,38.327821,-81.594641,38.327821",
+    "geom:latitude":38.327821,
+    "geom:longitude":-81.594641,
+    "iso:country":"US",
+    "sg:address":"3701 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 558 2269",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "support"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4klEVecn1Hk3OaruJMBWJw_38.327821_-81.594641@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432321,
+    "wof:geomhash":"44db8ceb25a833ba57f187b3fa75e387",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823394899
+        }
+    ],
+    "wof:id":823394899,
+    "wof:lastmodified":1463432321,
+    "wof:name":"Office of Support Services",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "support"
+    ]
+},
+  "bbox": [
+    -81.594641,
+    38.327821,
+    -81.594641,
+    38.327821
+],
+  "geometry": {"coordinates":[-81.594641,38.327821],"type":"Point"}
+}

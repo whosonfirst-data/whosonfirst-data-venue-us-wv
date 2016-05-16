@@ -1,0 +1,71 @@
+{
+  "id": 823415663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.106273,37.341366,-81.106273,37.341366",
+    "geom:latitude":37.341366,
+    "geom:longitude":-81.106273,
+    "iso:country":"US",
+    "sg:address":"102 Fairview Dr",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 431 3822",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IktdWt2FVWlKOHWFyijKm_37.341366_-81.106273@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433266,
+    "wof:geomhash":"3179160d43d6933297a7f4832421acd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823415663
+        }
+    ],
+    "wof:id":823415663,
+    "wof:lastmodified":1463433266,
+    "wof:name":"Cathedral Appraise",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.106273,
+    37.341366,
+    -81.106273,
+    37.341366
+],
+  "geometry": {"coordinates":[-81.106273,37.341366],"type":"Point"}
+}

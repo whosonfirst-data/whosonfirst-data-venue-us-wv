@@ -1,0 +1,73 @@
+{
+  "id": 823433845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.933141,39.604434,-80.933141,39.604434",
+    "geom:latitude":39.604434,
+    "geom:longitude":-80.933141,
+    "iso:country":"US",
+    "sg:address":"104 N 4th Ave",
+    "sg:city":"Paden City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 337 9821",
+    "sg:postcode":"26159",
+    "sg:province":"WV",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7i3qSRvm9xUWEQTUc5gniv_39.604434_-80.933141@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434056,
+    "wof:geomhash":"471dc2d549bd86ea01125fc29f6eaa85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823433845
+        }
+    ],
+    "wof:id":823433845,
+    "wof:lastmodified":1463434056,
+    "wof:name":"Rite Aid",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -80.933141,
+    39.604434,
+    -80.933141,
+    39.604434
+],
+  "geometry": {"coordinates":[-80.93314100000001,39.604434],"type":"Point"}
+}

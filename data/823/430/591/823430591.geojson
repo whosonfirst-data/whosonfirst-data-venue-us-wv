@@ -1,0 +1,71 @@
+{
+  "id": 823430591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.48129,39.048857,-80.48129,39.048857",
+    "geom:latitude":39.048857,
+    "geom:longitude":-80.48129,
+    "iso:country":"US",
+    "sg:address":"602 W 2nd St",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 269 5573",
+    "sg:postcode":"26452",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85828579,
+        102083339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47PKSLVeLKeKvVMS62h4jB_39.048857_-80.481290@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433904,
+    "wof:geomhash":"a583e43385c2aeb5e582791858a1140f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083339,
+            "neighbourhood_id":85828579,
+            "region_id":85688589,
+            "venue_id":823430591
+        }
+    ],
+    "wof:id":823430591,
+    "wof:lastmodified":1463433904,
+    "wof:name":"Kiddys Monuments",
+    "wof:parent_id":85828579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -80.48129,
+    39.048857,
+    -80.48129,
+    39.048857
+],
+  "geometry": {"coordinates":[-80.48129,39.048857],"type":"Point"}
+}

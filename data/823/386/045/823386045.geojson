@@ -1,0 +1,71 @@
+{
+  "id": 823386045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.655249,38.486004,-81.655249,38.486004",
+    "geom:latitude":38.486004,
+    "geom:longitude":-81.655249,
+    "iso:country":"US",
+    "sg:address":"1838 White Oak Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 984 2800",
+    "sg:postcode":"25320",
+    "sg:province":"WV",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fFuboo75TcWq5i3hYzUPu_38.486004_-81.655249@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431891,
+    "wof:geomhash":"1ac5318a94e40963565ae05f197aaa04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823386045
+        }
+    ],
+    "wof:id":823386045,
+    "wof:lastmodified":1463431891,
+    "wof:name":"Shamblin Engineering",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -81.655249,
+    38.486004,
+    -81.655249,
+    38.486004
+],
+  "geometry": {"coordinates":[-81.655249,38.486004],"type":"Point"}
+}

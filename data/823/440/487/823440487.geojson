@@ -1,0 +1,71 @@
+{
+  "id": 823440487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.093363,37.370474,-81.093363,37.370474",
+    "geom:latitude":37.370474,
+    "geom:longitude":-81.093363,
+    "iso:country":"US",
+    "sg:address":"805 Straley Ave",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 2369",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_482uGFGNNTjyjeBVTt3q5l_37.370474_-81.093363@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434383,
+    "wof:geomhash":"7cb1c51014ddb4723907c9fcffa2f6f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823440487
+        }
+    ],
+    "wof:id":823440487,
+    "wof:lastmodified":1463434383,
+    "wof:name":"First Christian Church",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.093363,
+    37.370474,
+    -81.093363,
+    37.370474
+],
+  "geometry": {"coordinates":[-81.093363,37.370474],"type":"Point"}
+}

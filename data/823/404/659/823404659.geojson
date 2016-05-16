@@ -1,0 +1,71 @@
+{
+  "id": 823404659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.957108,39.62819,-79.957108,39.62819",
+    "geom:latitude":39.62819,
+    "geom:longitude":-79.957108,
+    "iso:country":"US",
+    "sg:address":"118 High St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 3812",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "agency",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fhGBglSt3ashm1ykzXhff_39.628190_-79.957108@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432793,
+    "wof:geomhash":"8bf7d3f7348ddcd4c72df177701b03e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823404659
+        }
+    ],
+    "wof:id":823404659,
+    "wof:lastmodified":1463432793,
+    "wof:name":"Cox Properties",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "rental"
+    ]
+},
+  "bbox": [
+    -79.957108,
+    39.62819,
+    -79.957108,
+    39.62819
+],
+  "geometry": {"coordinates":[-79.95710800000001,39.62819],"type":"Point"}
+}

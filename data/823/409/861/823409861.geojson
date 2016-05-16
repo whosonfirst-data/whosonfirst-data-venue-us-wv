@@ -1,0 +1,73 @@
+{
+  "id": 823409861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.584959,37.431118,-81.584959,37.431118",
+    "geom:latitude":37.431118,
+    "geom:longitude":-81.584959,
+    "iso:country":"US",
+    "sg:address":"57 Elkhorn St",
+    "sg:city":"Welch",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 436 3851",
+    "sg:postcode":"24801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85809677,
+        102083405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hPBJmHjjZDyPTYqyLiDvj_37.431118_-81.584959@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433015,
+    "wof:geomhash":"48617853a524a859e50664867e5c427e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083405,
+            "neighbourhood_id":85809677,
+            "region_id":85688589,
+            "venue_id":823409861
+        }
+    ],
+    "wof:id":823409861,
+    "wof:lastmodified":1463433015,
+    "wof:name":"Corrections Probation & Parole",
+    "wof:parent_id":85809677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [
+    -81.584959,
+    37.431118,
+    -81.584959,
+    37.431118
+],
+  "geometry": {"coordinates":[-81.584959,37.431118],"type":"Point"}
+}

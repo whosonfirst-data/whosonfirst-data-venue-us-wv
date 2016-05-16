@@ -1,0 +1,72 @@
+{
+  "id": 823440009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.596985,38.347481,-81.596985,38.347481",
+    "geom:latitude":38.347481,
+    "geom:longitude":-81.596985,
+    "iso:country":"US",
+    "sg:address":"1863 Oakridge Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 344 4661",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.ccfcharleston.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Faza1SgeX7uzBByZ7PlhC_38.347481_-81.596985@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434365,
+    "wof:geomhash":"c557098c345cf39cc311568972de7e61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823440009
+        }
+    ],
+    "wof:id":823440009,
+    "wof:lastmodified":1463434365,
+    "wof:name":"Covenant Christian Fellowship",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.596985,
+    38.347481,
+    -81.596985,
+    38.347481
+],
+  "geometry": {"coordinates":[-81.596985,38.347481],"type":"Point"}
+}

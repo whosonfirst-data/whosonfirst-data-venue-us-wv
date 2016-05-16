@@ -1,0 +1,73 @@
+{
+  "id": 823370767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.299302,38.345775,-82.299302,38.345775",
+    "geom:latitude":38.345775,
+    "geom:longitude":-82.299302,
+    "iso:country":"US",
+    "sg:address":"5129 State Rte 10",
+    "sg:city":"Barboursville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 733 3690",
+    "sg:postcode":"25504",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop",
+        "barber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85865435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2usCAps1BVkVAMZHa3RgLY_38.345775_-82.299302@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431205,
+    "wof:geomhash":"eaa1c710ca081bf7769e0386b3f05da3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85865435,
+            "region_id":85688589,
+            "venue_id":823370767
+        }
+    ],
+    "wof:id":823370767,
+    "wof:lastmodified":1463431205,
+    "wof:name":"Mikes Barber Shop",
+    "wof:parent_id":85865435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "barber"
+    ]
+},
+  "bbox": [
+    -82.299302,
+    38.345775,
+    -82.299302,
+    38.345775
+],
+  "geometry": {"coordinates":[-82.299302,38.345775],"type":"Point"}
+}

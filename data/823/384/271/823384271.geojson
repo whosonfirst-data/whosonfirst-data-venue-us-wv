@@ -1,0 +1,71 @@
+{
+  "id": 823384271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.519266,38.356613,-82.519266,38.356613",
+    "geom:latitude":38.356613,
+    "geom:longitude":-82.519266,
+    "iso:country":"US",
+    "sg:address":"2805 Rte 75",
+    "sg:city":"Kenova",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 2200",
+    "sg:postcode":"25530",
+    "sg:province":"WV",
+    "sg:tags":[
+        "pump"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083365,
+        85857035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DtUvEbQyoePsYG5sUbNiv_38.356613_-82.519266@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431820,
+    "wof:geomhash":"c76b63f89e54c189e87cb87151e4a737",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731553,
+            "neighbourhood_id":85857035,
+            "region_id":85688589,
+            "venue_id":823384271
+        }
+    ],
+    "wof:id":823384271,
+    "wof:lastmodified":1463431820,
+    "wof:name":"J & V Pump Repair",
+    "wof:parent_id":85857035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pump"
+    ]
+},
+  "bbox": [
+    -82.519266,
+    38.356613,
+    -82.519266,
+    38.356613
+],
+  "geometry": {"coordinates":[-82.519266,38.356613],"type":"Point"}
+}

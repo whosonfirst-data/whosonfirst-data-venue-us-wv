@@ -1,0 +1,71 @@
+{
+  "id": 823412977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.124051,37.359944,-81.124051,37.359944",
+    "geom:latitude":37.359944,
+    "geom:longitude":-81.124051,
+    "iso:country":"US",
+    "sg:address":"300 Village Glen",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 7868",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IB0eVmY1h4TOAUSY2Y82r_37.359944_-81.124051@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433138,
+    "wof:geomhash":"874fdc916b21e3a9afe05d82cda6fb8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823412977
+        }
+    ],
+    "wof:id":823412977,
+    "wof:lastmodified":1463433138,
+    "wof:name":"House Doctors",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -81.124051,
+    37.359944,
+    -81.124051,
+    37.359944
+],
+  "geometry": {"coordinates":[-81.12405099999999,37.359944],"type":"Point"}
+}

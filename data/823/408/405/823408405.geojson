@@ -1,0 +1,73 @@
+{
+  "id": 823408405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.727837,38.330508,-81.727837,38.330508",
+    "geom:latitude":38.330508,
+    "geom:longitude":-81.727837,
+    "iso:country":"US",
+    "sg:address":"162 Myrtle Tree Rd",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 1983",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DQwz2w5Pl0hEUtY6HEtJw_38.330508_-81.727837@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432963,
+    "wof:geomhash":"3cbd76a1aab795883704be927aa27ae9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823408405
+        }
+    ],
+    "wof:id":823408405,
+    "wof:lastmodified":1463432963,
+    "wof:name":"Absolute Horsepower",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -81.727837,
+    38.330508,
+    -81.727837,
+    38.330508
+],
+  "geometry": {"coordinates":[-81.72783699999999,38.330508],"type":"Point"}
+}

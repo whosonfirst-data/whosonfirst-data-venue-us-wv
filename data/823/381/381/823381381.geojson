@@ -1,0 +1,71 @@
+{
+  "id": 823381381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.60897,40.274199,-80.60897,40.274199",
+    "geom:latitude":40.274199,
+    "geom:longitude":-80.60897,
+    "iso:country":"US",
+    "sg:address":"1421 Commerce St",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 3425",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Co3ZUjHmAV9aLC9drqag3_40.274199_-80.608970@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431704,
+    "wof:geomhash":"cfc28c886e280f8bd9fad2450c0abc28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823381381
+        }
+    ],
+    "wof:id":823381381,
+    "wof:lastmodified":1463431704,
+    "wof:name":"Family Health Care",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -80.60897,
+    40.274199,
+    -80.60897,
+    40.274199
+],
+  "geometry": {"coordinates":[-80.60897,40.274199],"type":"Point"}
+}

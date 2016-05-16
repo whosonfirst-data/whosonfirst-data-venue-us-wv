@@ -1,0 +1,71 @@
+{
+  "id": 823388777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.862233,39.641495,-80.862233,39.641495",
+    "geom:latitude":39.641495,
+    "geom:longitude":-80.862233,
+    "iso:country":"US",
+    "sg:address":"320 Clark St",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 1865",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aYosHUBIXZSMQzGPwv44q_39.641495_-80.862233@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432017,
+    "wof:geomhash":"d0ddd4682f3dc6595c261fa355280715",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823388777
+        }
+    ],
+    "wof:id":823388777,
+    "wof:lastmodified":1463432017,
+    "wof:name":"Southwest Enterprises",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -80.862233,
+    39.641495,
+    -80.862233,
+    39.641495
+],
+  "geometry": {"coordinates":[-80.862233,39.641495],"type":"Point"}
+}

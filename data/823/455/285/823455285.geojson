@@ -1,0 +1,81 @@
+{
+  "id": 823455285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.988576,39.417305,-77.988576,39.417305",
+    "geom:latitude":39.417305,
+    "geom:longitude":-77.988576,
+    "iso:country":"US",
+    "sg:address":"22 Paynes Ford Rd",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 4633",
+    "sg:postcode":"25405",
+    "sg:province":"WV",
+    "sg:tags":[
+        "churches-interdenominational",
+        "churches-various",
+        "denomination"
+    ],
+    "sg:website":"http://www.pikesideumc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wyqiNJx8Kg2kOj0YmSTmS_39.417305_-77.988576@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435069,
+    "wof:geomhash":"4b3fa7f3f1c52f763cb9aafe1397f48a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823455285
+        }
+    ],
+    "wof:id":823455285,
+    "wof:lastmodified":1463435069,
+    "wof:name":"Pikeside United Methodist Church",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-interdenominational",
+        "churches-various",
+        "denomination"
+    ]
+},
+  "bbox": [
+    -77.988576,
+    39.417305,
+    -77.988576,
+    39.417305
+],
+  "geometry": {"coordinates":[-77.98857599999999,39.417305],"type":"Point"}
+}

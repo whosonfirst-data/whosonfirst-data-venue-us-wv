@@ -1,0 +1,75 @@
+{
+  "id": 823405265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.510837,38.40223,-82.510837,38.40223",
+    "geom:latitude":38.40223,
+    "geom:longitude":-82.510837,
+    "iso:country":"US",
+    "sg:address":"3723 Brandon Rd",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 429 5482",
+    "sg:postcode":"25704",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083365,
+        85857035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qb4cFaXmLBrssYjX4CH20_38.402230_-82.510837@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432822,
+    "wof:geomhash":"085278503182b0b17360348860e2a28e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731553,
+            "neighbourhood_id":85857035,
+            "region_id":85688589,
+            "venue_id":823405265
+        }
+    ],
+    "wof:id":823405265,
+    "wof:lastmodified":1463432822,
+    "wof:name":"Jr Freight Co",
+    "wof:parent_id":85857035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -82.510837,
+    38.40223,
+    -82.510837,
+    38.40223
+],
+  "geometry": {"coordinates":[-82.510837,38.40223],"type":"Point"}
+}

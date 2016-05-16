@@ -1,0 +1,75 @@
+{
+  "id": 823430101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.119322,37.832562,-81.119322,37.832562",
+    "geom:latitude":37.832562,
+    "geom:longitude":-81.119322,
+    "iso:country":"US",
+    "sg:address":"449 Stonewall Rd",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 253 3177",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HXq31M8B84fpXsu1yXUAw_37.832562_-81.119322@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433887,
+    "wof:geomhash":"1ce14085538a947f066a0f855faa61c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823430101
+        }
+    ],
+    "wof:id":823430101,
+    "wof:lastmodified":1463433887,
+    "wof:name":"Meadows Machine Shop",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.119322,
+    37.832562,
+    -81.119322,
+    37.832562
+],
+  "geometry": {"coordinates":[-81.119322,37.832562],"type":"Point"}
+}

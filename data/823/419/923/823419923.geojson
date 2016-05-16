@@ -1,0 +1,69 @@
+{
+  "id": 823419923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.953888,39.657649,-79.953888,39.657649",
+    "geom:latitude":39.657649,
+    "geom:longitude":-79.953888,
+    "iso:country":"US",
+    "sg:address":"1224 Pineview Dr",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 598 2300",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IorH8r7YYX56QPmqCD5iL_39.657649_-79.953888@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433459,
+    "wof:geomhash":"b7193f5effb55a801ef415ca07cb33f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823419923
+        }
+    ],
+    "wof:id":823419923,
+    "wof:lastmodified":1463433459,
+    "wof:name":"Fremouw Psychological Assoc",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -79.953888,
+    39.657649,
+    -79.953888,
+    39.657649
+],
+  "geometry": {"coordinates":[-79.95388800000001,39.657649],"type":"Point"}
+}

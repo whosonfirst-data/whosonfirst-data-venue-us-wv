@@ -1,0 +1,80 @@
+{
+  "id": 823456397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.546482,40.587054,-80.546482,40.587054",
+    "geom:latitude":40.587054,
+    "geom:longitude":-80.546482,
+    "iso:country":"US",
+    "sg:address":"801 Rodgers Rd",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 3280",
+    "sg:postcode":"26034",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grooming",
+        "dog",
+        "cat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jIVOK4EC6dwPazHYorkrF_40.587054_-80.546482@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435111,
+    "wof:geomhash":"75fc302f501198dce5a687a0ac126404",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823456397
+        }
+    ],
+    "wof:id":823456397,
+    "wof:lastmodified":1463435111,
+    "wof:name":"All Breed Dog Grooming",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grooming",
+        "dog",
+        "cat"
+    ]
+},
+  "bbox": [
+    -80.546482,
+    40.587054,
+    -80.546482,
+    40.587054
+],
+  "geometry": {"coordinates":[-80.546482,40.587054],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 823453549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.298339,39.397701,-80.298339,39.397701",
+    "geom:latitude":39.397701,
+    "geom:longitude":-80.298339,
+    "iso:country":"US",
+    "sg:address":"93 Mahlon St",
+    "sg:city":"Shinnston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/northern/67926-foxs-pizza-den/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 592 3300",
+    "sg:postcode":"26431",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85831189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MUk4TXCIZGYdFaiUf3oAz_39.397701_-80.298339@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434951,
+    "wof:geomhash":"15619d1cb86c4705b5c2b074f5d684cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85831189,
+            "region_id":85688589,
+            "venue_id":823453549
+        }
+    ],
+    "wof:id":823453549,
+    "wof:lastmodified":1463434951,
+    "wof:name":"Fox's Pizza Den",
+    "wof:parent_id":85831189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -80.298339,
+    39.397701,
+    -80.298339,
+    39.397701
+],
+  "geometry": {"coordinates":[-80.298339,39.397701],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 823389391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.531456,38.220188,-81.531456,38.220188",
+    "geom:latitude":38.220188,
+    "geom:longitude":-81.531456,
+    "iso:country":"US",
+    "sg:address":"24 131st St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 536 9339",
+    "sg:postcode":"25315",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop",
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06Z4DTltlZDbrUPmyNjUj3_38.220188_-81.531456@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432050,
+    "wof:geomhash":"2fc89aab4070dc1f2969480c759a74c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823389391
+        }
+    ],
+    "wof:id":823389391,
+    "wof:lastmodified":1463432050,
+    "wof:name":"Gillespie Service Station",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -81.531456,
+    38.220188,
+    -81.531456,
+    38.220188
+],
+  "geometry": {"coordinates":[-81.53145600000001,38.220188],"type":"Point"}
+}

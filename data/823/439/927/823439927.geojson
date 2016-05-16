@@ -1,0 +1,71 @@
+{
+  "id": 823439927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.041486,37.427464,-81.041486,37.427464",
+    "geom:latitude":37.427464,
+    "geom:longitude":-81.041486,
+    "iso:country":"US",
+    "sg:address":"1661 Unity Rd",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 384 9113",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_056IBJy4EcxMwb7fpR7x01_37.427464_-81.041486@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434362,
+    "wof:geomhash":"6e3cbe535963289ffbecc53c2e4d67ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823439927
+        }
+    ],
+    "wof:id":823439927,
+    "wof:lastmodified":1463434362,
+    "wof:name":"United Circle of Miracles Inc",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -81.041486,
+    37.427464,
+    -81.041486,
+    37.427464
+],
+  "geometry": {"coordinates":[-81.04148600000001,37.427464],"type":"Point"}
+}

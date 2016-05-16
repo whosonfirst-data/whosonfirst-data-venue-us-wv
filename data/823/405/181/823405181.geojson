@@ -1,0 +1,75 @@
+{
+  "id": 823405181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.642264,38.376092,-81.642264,38.376092",
+    "geom:latitude":38.376092,
+    "geom:longitude":-81.642264,
+    "iso:country":"US",
+    "sg:address":"200 Baker Ln",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 348 6859",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "course",
+        "executive",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OHM4FcgFIG6glztTTQe63_38.376092_-81.642264@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432819,
+    "wof:geomhash":"1fdb6e0be98ad4d204bf0a4188e0f3a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823405181
+        }
+    ],
+    "wof:id":823405181,
+    "wof:lastmodified":1463432819,
+    "wof:name":"Cato Park Golf Course",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course",
+        "executive",
+        "public"
+    ]
+},
+  "bbox": [
+    -81.642264,
+    38.376092,
+    -81.642264,
+    38.376092
+],
+  "geometry": {"coordinates":[-81.642264,38.376092],"type":"Point"}
+}

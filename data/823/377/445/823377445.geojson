@@ -1,0 +1,73 @@
+{
+  "id": 823377445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.633174,38.348387,-81.633174,38.348387",
+    "geom:latitude":38.348387,
+    "geom:longitude":-81.633174,
+    "iso:country":"US",
+    "sg:address":"1021 Quarrier St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 3805",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Vbs0CpYJU1nYCOecRGrnC_38.348387_-81.633174@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431533,
+    "wof:geomhash":"7ac49e24401f1c0873e237727d6e8d68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823377445
+        }
+    ],
+    "wof:id":823377445,
+    "wof:lastmodified":1463431533,
+    "wof:name":"Statewide Dental Lab",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -81.633174,
+    38.348387,
+    -81.633174,
+    38.348387
+],
+  "geometry": {"coordinates":[-81.633174,38.348387],"type":"Point"}
+}

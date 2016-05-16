@@ -1,0 +1,71 @@
+{
+  "id": 823385825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.464852,39.043459,-80.464852,39.043459",
+    "geom:latitude":39.043459,
+    "geom:longitude":-80.464852,
+    "iso:country":"US",
+    "sg:address":"100 W 6th St",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 269 2273",
+    "sg:postcode":"26452",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731403,
+        102083339,
+        85808257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PEHFazYCwdX6rHsya2Zye_39.043459_-80.464852@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431884,
+    "wof:geomhash":"6ef0681f1904a9b60fe2e1194cb1b017",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083339,
+            "locality_id":101731403,
+            "neighbourhood_id":85808257,
+            "region_id":85688589,
+            "venue_id":823385825
+        }
+    ],
+    "wof:id":823385825,
+    "wof:lastmodified":1463431884,
+    "wof:name":"Family Dollar Store",
+    "wof:parent_id":85808257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -80.464852,
+    39.043459,
+    -80.464852,
+    39.043459
+],
+  "geometry": {"coordinates":[-80.46485199999999,39.043459],"type":"Point"}
+}

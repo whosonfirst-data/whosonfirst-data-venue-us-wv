@@ -1,0 +1,74 @@
+{
+  "id": 823453729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.953763,39.632309,-79.953763,39.632309",
+    "geom:latitude":39.632309,
+    "geom:longitude":-79.953763,
+    "iso:country":"US",
+    "sg:address":"514 N High St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/central/246900-nicks-canteen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 4068",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00AOrGAn2r49HgpOmMydXJ_39.632309_-79.953763@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434958,
+    "wof:geomhash":"6f343808cdd518763a01ab6e234b15b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851489,
+            "region_id":85688589,
+            "venue_id":823453729
+        }
+    ],
+    "wof:id":823453729,
+    "wof:lastmodified":1463434958,
+    "wof:name":"Nick's Canteen",
+    "wof:parent_id":85851489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -79.953763,
+    39.632309,
+    -79.953763,
+    39.632309
+],
+  "geometry": {"coordinates":[-79.953763,39.632309],"type":"Point"}
+}

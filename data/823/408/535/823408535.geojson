@@ -1,0 +1,67 @@
+{
+  "id": 823408535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.865688,39.641216,-80.865688,39.641216",
+    "geom:latitude":39.641216,
+    "geom:longitude":-80.865688,
+    "iso:country":"US",
+    "sg:address":"230 Main St",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 3211",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:website":"www.usps.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uZARqcl5AWgCxio3ruJPJ_39.641216_-80.865688@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432967,
+    "wof:geomhash":"abaebf90b105fe1238a47b99c62ff18d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823408535
+        }
+    ],
+    "wof:id":823408535,
+    "wof:lastmodified":1463432967,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.865688,
+    39.641216,
+    -80.865688,
+    39.641216
+],
+  "geometry": {"coordinates":[-80.86568800000001,39.641216],"type":"Point"}
+}

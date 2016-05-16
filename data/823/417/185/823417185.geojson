@@ -1,0 +1,71 @@
+{
+  "id": 823417185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.600219,38.348652,-81.600219,38.348652",
+    "geom:latitude":38.348652,
+    "geom:longitude":-81.600219,
+    "iso:country":"US",
+    "sg:address":"1000 Byus Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 2378",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jKLjbnkn2an3PKHX8MIoe_38.348652_-81.600219@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433343,
+    "wof:geomhash":"25726dfad9cf4dc1a31f57ca73cad857",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823417185
+        }
+    ],
+    "wof:id":823417185,
+    "wof:lastmodified":1463433343,
+    "wof:name":"Clint Bryan & Associates Arch",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -81.600219,
+    38.348652,
+    -81.600219,
+    38.348652
+],
+  "geometry": {"coordinates":[-81.600219,38.348652],"type":"Point"}
+}

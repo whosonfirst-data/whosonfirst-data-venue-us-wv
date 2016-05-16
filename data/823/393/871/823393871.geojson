@@ -1,0 +1,71 @@
+{
+  "id": 823393871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.374295,39.263924,-80.374295,39.263924",
+    "geom:latitude":39.263924,
+    "geom:longitude":-80.374295,
+    "iso:country":"US",
+    "sg:address":"425 Rosebud Plz",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 624 1785",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85810773,
+        102082619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ft9q21ebKRbjpHdEw8JQM_39.263924_-80.374295@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432271,
+    "wof:geomhash":"bb2d04ea235822b2d25cb310e52315f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "neighbourhood_id":85810773,
+            "region_id":85688589,
+            "venue_id":823393871
+        }
+    ],
+    "wof:id":823393871,
+    "wof:lastmodified":1463432271,
+    "wof:name":"Safelite Autoglass",
+    "wof:parent_id":85810773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -80.374295,
+    39.263924,
+    -80.374295,
+    39.263924
+],
+  "geometry": {"coordinates":[-80.374295,39.263924],"type":"Point"}
+}

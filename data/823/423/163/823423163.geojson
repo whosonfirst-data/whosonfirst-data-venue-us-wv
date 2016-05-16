@@ -1,0 +1,71 @@
+{
+  "id": 823423163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.743029,38.369214,-81.743029,38.369214",
+    "geom:latitude":38.369214,
+    "geom:longitude":-81.743029,
+    "iso:country":"US",
+    "sg:address":"1313 Hillview Dr",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 3072",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1501pz5IpcLBN3RK8qOOrV_38.369214_-81.743029@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433583,
+    "wof:geomhash":"4247fef4e0482ac76b7d05633ee5b41c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823423163
+        }
+    ],
+    "wof:id":823423163,
+    "wof:lastmodified":1463433583,
+    "wof:name":"Grandview Memorial Park",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -81.743029,
+    38.369214,
+    -81.743029,
+    38.369214
+],
+  "geometry": {"coordinates":[-81.74302900000001,38.369214],"type":"Point"}
+}

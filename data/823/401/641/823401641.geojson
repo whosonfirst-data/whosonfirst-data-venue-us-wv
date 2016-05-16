@@ -1,0 +1,73 @@
+{
+  "id": 823401641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.695331,38.366854,-81.695331,38.366854",
+    "geom:latitude":38.366854,
+    "geom:longitude":-81.695331,
+    "iso:country":"US",
+    "sg:address":"413 D St",
+    "sg:city":"South Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 766 9470",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23MaQEeP0hZnZIzJoIOThz_38.366854_-81.695331@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432658,
+    "wof:geomhash":"90b44730df368631975a1b8712655020",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823401641
+        }
+    ],
+    "wof:id":823401641,
+    "wof:lastmodified":1463432658,
+    "wof:name":"DEAF Inc",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -81.695331,
+    38.366854,
+    -81.695331,
+    38.366854
+],
+  "geometry": {"coordinates":[-81.695331,38.366854],"type":"Point"}
+}

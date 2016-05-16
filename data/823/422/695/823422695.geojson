@@ -1,0 +1,73 @@
+{
+  "id": 823422695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.123613,37.373494,-81.123613,37.373494",
+    "geom:latitude":37.373494,
+    "geom:longitude":-81.123613,
+    "iso:country":"US",
+    "sg:address":"164 Starling St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 2139",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0395l7mZNcOUGiwpNfnne6_37.373494_-81.123613@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433566,
+    "wof:geomhash":"285a060d564949dc4ce13ef299f5281d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823422695
+        }
+    ],
+    "wof:id":823422695,
+    "wof:lastmodified":1463433566,
+    "wof:name":"Tj Properties LLC",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -81.123613,
+    37.373494,
+    -81.123613,
+    37.373494
+],
+  "geometry": {"coordinates":[-81.12361300000001,37.373494],"type":"Point"}
+}

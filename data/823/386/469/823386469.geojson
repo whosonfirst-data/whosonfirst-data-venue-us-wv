@@ -1,0 +1,73 @@
+{
+  "id": 823386469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.849495,38.925052,-79.849495,38.925052",
+    "geom:latitude":38.925052,
+    "geom:longitude":-79.849495,
+    "iso:country":"US",
+    "sg:address":"212 Davis Ave",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 3600",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "mail",
+        "order"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RIUdxO5WG1wuPKIeFeDD9_38.925052_-79.849495@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431906,
+    "wof:geomhash":"877062e1f67fdad72e56d04a4ea6cdf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823386469
+        }
+    ],
+    "wof:id":823386469,
+    "wof:lastmodified":1463431906,
+    "wof:name":"J C Penney Catalog",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "order"
+    ]
+},
+  "bbox": [
+    -79.849495,
+    38.925052,
+    -79.849495,
+    38.925052
+],
+  "geometry": {"coordinates":[-79.849495,38.925052],"type":"Point"}
+}

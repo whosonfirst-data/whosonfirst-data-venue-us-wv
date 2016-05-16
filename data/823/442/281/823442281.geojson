@@ -1,0 +1,71 @@
+{
+  "id": 823442281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.087984,37.367027,-81.087984,37.367027",
+    "geom:latitude":37.367027,
+    "geom:longitude":-81.087984,
+    "iso:country":"US",
+    "sg:address":"403 Lazenby Ave",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 3775",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4S0zv2DEAKD1U2ak65SL7d_37.367027_-81.087984@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434462,
+    "wof:geomhash":"82f299e32069c9062c963d10d8a06e92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823442281
+        }
+    ],
+    "wof:id":823442281,
+    "wof:lastmodified":1463434462,
+    "wof:name":"Fence Wise",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.087984,
+    37.367027,
+    -81.087984,
+    37.367027
+],
+  "geometry": {"coordinates":[-81.08798400000001,37.367027],"type":"Point"}
+}

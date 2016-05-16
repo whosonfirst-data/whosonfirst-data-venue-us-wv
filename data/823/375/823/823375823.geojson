@@ -1,0 +1,71 @@
+{
+  "id": 823375823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.987287,39.461617,-77.987287,39.461617",
+    "geom:latitude":39.461617,
+    "geom:longitude":-77.987287,
+    "iso:country":"US",
+    "sg:address":"300 Foxcroft Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 264 2711",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27aIb9fBE46LAAtAjw01vQ_39.461617_-77.987287@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431449,
+    "wof:geomhash":"e13922dca7908aaff31d919aea9f89b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823375823
+        }
+    ],
+    "wof:id":823375823,
+    "wof:lastmodified":1463431449,
+    "wof:name":"Patton Harris Rust & Assoc",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -77.987287,
+    39.461617,
+    -77.987287,
+    39.461617
+],
+  "geometry": {"coordinates":[-77.98728699999999,39.461617],"type":"Point"}
+}

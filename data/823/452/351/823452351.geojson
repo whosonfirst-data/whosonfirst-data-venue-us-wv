@@ -1,0 +1,72 @@
+{
+  "id": 823452351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.51439,38.213158,-81.51439,38.213158",
+    "geom:latitude":38.213158,
+    "geom:longitude":-81.51439,
+    "iso:country":"US",
+    "sg:address":"2700 E Dupont Ave",
+    "sg:city":"Belle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/belle/91850-shoneys-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 4475",
+    "sg:postcode":"25015",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fILlyXK9qDDeyzwplorOU_38.213158_-81.514390@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434904,
+    "wof:geomhash":"40c76e13e698b8e63f4ef32b2927a504",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823452351
+        }
+    ],
+    "wof:id":823452351,
+    "wof:lastmodified":1463434904,
+    "wof:name":"Shoney's Restaurant",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -81.51439,
+    38.213158,
+    -81.51439,
+    38.213158
+],
+  "geometry": {"coordinates":[-81.51439000000001,38.213158],"type":"Point"}
+}

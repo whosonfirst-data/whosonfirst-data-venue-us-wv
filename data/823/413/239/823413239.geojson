@@ -1,0 +1,73 @@
+{
+  "id": 823413239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.749138,38.35464,-81.749138,38.35464",
+    "geom:latitude":38.35464,
+    "geom:longitude":-81.749138,
+    "iso:country":"US",
+    "sg:address":"5639 Maccorkle Ave",
+    "sg:city":"South Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 766 0757",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qAIymGFhWbC5HLZpDsmYZ_38.354640_-81.749138@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433147,
+    "wof:geomhash":"71f10ee62a40387239627a181f0ea553",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823413239
+        }
+    ],
+    "wof:id":823413239,
+    "wof:lastmodified":1463433147,
+    "wof:name":"Fluid Motion Physical Therapy",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -81.749138,
+    38.35464,
+    -81.749138,
+    38.35464
+],
+  "geometry": {"coordinates":[-81.749138,38.35464],"type":"Point"}
+}

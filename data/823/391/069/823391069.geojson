@@ -1,0 +1,71 @@
+{
+  "id": 823391069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.340295,39.279569,-80.340295,39.279569",
+    "geom:latitude":39.279569,
+    "geom:longitude":-80.340295,
+    "iso:country":"US",
+    "sg:address":"324 W Main St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 623 7866",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7W1HraidG6z58IjXCxes1f_39.279569_-80.340295@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432122,
+    "wof:geomhash":"446a380f07009e78133c0da7858c54fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823391069
+        }
+    ],
+    "wof:id":823391069,
+    "wof:lastmodified":1463432122,
+    "wof:name":"US Bankruptcy Court",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -80.340295,
+    39.279569,
+    -80.340295,
+    39.279569
+],
+  "geometry": {"coordinates":[-80.340295,39.279569],"type":"Point"}
+}

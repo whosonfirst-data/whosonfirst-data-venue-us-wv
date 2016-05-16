@@ -1,0 +1,75 @@
+{
+  "id": 823393343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.172452,37.789906,-81.172452,37.789906",
+    "geom:latitude":37.789906,
+    "geom:longitude":-81.172452,
+    "iso:country":"US",
+    "sg:address":"510 N Eisenhower Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 255 0844",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VJCL3iTZrCVBU4prONJSl_37.789906_-81.172452@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432247,
+    "wof:geomhash":"d59d56de79e9a73f65da4cec2e952926",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823393343
+        }
+    ],
+    "wof:id":823393343,
+    "wof:lastmodified":1463432247,
+    "wof:name":"Scrubby's Car Wash",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -81.172452,
+    37.789906,
+    -81.172452,
+    37.789906
+],
+  "geometry": {"coordinates":[-81.17245200000001,37.789906],"type":"Point"}
+}

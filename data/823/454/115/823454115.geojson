@@ -1,0 +1,83 @@
+{
+  "id": 823454115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.545999,39.292111,-81.545999,39.292111",
+    "geom:latitude":39.292111,
+    "geom:longitude":-81.545999,
+    "iso:country":"US",
+    "sg:address":"3417 Murdoch Ave",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/parkersburg/242934-baskin-robbins/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 428 1022",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731687,
+        102083343,
+        85805293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UoplWdX5Ag2ffpFVY0xzY_39.291921_-81.546082@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463435001,
+    "wof:geomhash":"b45589356dfe1815d72a45761b186482",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85805293,
+            "region_id":85688589,
+            "venue_id":823454115
+        }
+    ],
+    "wof:id":823454115,
+    "wof:lastmodified":1463435001,
+    "wof:name":"Baskin-Robbins",
+    "wof:parent_id":85805293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -81.545999,
+    39.292111,
+    -81.545999,
+    39.292111
+],
+  "geometry": {"coordinates":[-81.54599899999999,39.292111],"type":"Point"}
+}

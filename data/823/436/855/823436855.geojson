@@ -1,0 +1,73 @@
+{
+  "id": 823436855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.913371,39.523139,-79.913371,39.523139",
+    "geom:latitude":39.523139,
+    "geom:longitude":-79.913371,
+    "iso:country":"US",
+    "sg:address":"10 Boy Scout Camp Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 9143",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732105,
+        102082587,
+        85807831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LnV5scqW043mgBGfU79K1_39.523139_-79.913371@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434212,
+    "wof:geomhash":"a9949340d334bae3a2b6a6e980fe73d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101732105,
+            "neighbourhood_id":85807831,
+            "region_id":85688589,
+            "venue_id":823436855
+        }
+    ],
+    "wof:id":823436855,
+    "wof:lastmodified":1463434212,
+    "wof:name":"Rock Forge Inn",
+    "wof:parent_id":85807831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -79.913371,
+    39.523139,
+    -79.913371,
+    39.523139
+],
+  "geometry": {"coordinates":[-79.913371,39.523139],"type":"Point"}
+}

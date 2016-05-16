@@ -1,0 +1,66 @@
+{
+  "id": 823387403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.112409,37.382242,-81.112409,37.382242",
+    "geom:latitude":37.382242,
+    "geom:longitude":-81.112409,
+    "iso:country":"US",
+    "sg:address":"13 Laurel Dr",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 3359",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TP11D9Vl4JEdSjCv8VLNz_37.382242_-81.112409@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431943,
+    "wof:geomhash":"978fc8ce808f5e9dc60a2d2e6e01f2fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823387403
+        }
+    ],
+    "wof:id":823387403,
+    "wof:lastmodified":1463431943,
+    "wof:name":"Kens Obsolete Parts",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.112409,
+    37.382242,
+    -81.112409,
+    37.382242
+],
+  "geometry": {"coordinates":[-81.112409,37.382242],"type":"Point"}
+}

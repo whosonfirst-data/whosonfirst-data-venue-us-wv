@@ -1,0 +1,71 @@
+{
+  "id": 823368229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.347136,39.281986,-80.347136,39.281986",
+    "geom:latitude":39.281986,
+    "geom:longitude":-80.347136,
+    "iso:country":"US",
+    "sg:address":"705 W Pike St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 622 8861",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hf0ICpQwwa8BwCo4E1a43_39.281986_-80.347136@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431106,
+    "wof:geomhash":"86176501ad63fd19f316cfdb5c19208a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823368229
+        }
+    ],
+    "wof:id":823368229,
+    "wof:lastmodified":1463431106,
+    "wof:name":"Advanced Appraisles Inc",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -80.347136,
+    39.281986,
+    -80.347136,
+    39.281986
+],
+  "geometry": {"coordinates":[-80.34713600000001,39.281986],"type":"Point"}
+}

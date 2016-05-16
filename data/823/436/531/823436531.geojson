@@ -1,0 +1,71 @@
+{
+  "id": 823436531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.267876,38.412222,-81.267876,38.412222",
+    "geom:latitude":38.412222,
+    "geom:longitude":-81.267876,
+    "iso:country":"US",
+    "sg:address":"10 Falling Rock Rd",
+    "sg:city":"Clendenin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 548 7483",
+    "sg:postcode":"25045",
+    "sg:province":"WV",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OYo8qxGM3rwS2Y27fGSC5_38.412222_-81.267876@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434195,
+    "wof:geomhash":"755a520c3e6991a77a18a5804ceded83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823436531
+        }
+    ],
+    "wof:id":823436531,
+    "wof:lastmodified":1463434195,
+    "wof:name":"Townsend Appliance Repair Svc",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -81.267876,
+    38.412222,
+    -81.267876,
+    38.412222
+],
+  "geometry": {"coordinates":[-81.267876,38.412222],"type":"Point"}
+}

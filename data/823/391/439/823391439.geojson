@@ -1,0 +1,68 @@
+{
+  "id": 823391439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.615751,38.340141,-81.615751,38.340141",
+    "geom:latitude":38.340141,
+    "geom:longitude":-81.615751,
+    "iso:country":"US",
+    "sg:address":"1630 Washington St E",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 7679",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85850023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qRH3POmtDB6Oe3sb9dIs8_38.340141_-81.615751@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432140,
+    "wof:geomhash":"dfab8580997d390271f121a15ca86cc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85850023,
+            "region_id":85688589,
+            "venue_id":823391439
+        }
+    ],
+    "wof:id":823391439,
+    "wof:lastmodified":1463432140,
+    "wof:name":"7-Eleven",
+    "wof:parent_id":85850023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.615751,
+    38.340141,
+    -81.615751,
+    38.340141
+],
+  "geometry": {"coordinates":[-81.615751,38.340141],"type":"Point"}
+}

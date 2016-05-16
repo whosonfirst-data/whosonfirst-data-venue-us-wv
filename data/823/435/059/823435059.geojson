@@ -1,0 +1,75 @@
+{
+  "id": 823435059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.549343,39.232227,-81.549343,39.232227",
+    "geom:latitude":39.232227,
+    "geom:longitude":-81.549343,
+    "iso:country":"US",
+    "sg:address":"2307 Gihon Rd",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 428 5376",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XF7szj7Yn1Wo5sApBqAag_39.232227_-81.549343@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434130,
+    "wof:geomhash":"0eac2c84b7be2786dcd84c47ce4a4200",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823435059
+        }
+    ],
+    "wof:id":823435059,
+    "wof:lastmodified":1463434130,
+    "wof:name":"Karl's Auto",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -81.549343,
+    39.232227,
+    -81.549343,
+    39.232227
+],
+  "geometry": {"coordinates":[-81.54934299999999,39.232227],"type":"Point"}
+}

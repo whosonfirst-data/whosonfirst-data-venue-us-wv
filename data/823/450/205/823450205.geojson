@@ -1,0 +1,71 @@
+{
+  "id": 823450205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.553097,39.244774,-81.553097,39.244774",
+    "geom:latitude":39.244774,
+    "geom:longitude":-81.553097,
+    "iso:country":"US",
+    "sg:address":"1414 Blizzard Dr",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 424 5355",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IQB1dyBbkwFF2SRJbDcCx_39.244774_-81.553097@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434824,
+    "wof:geomhash":"ca70ea9a23c661aa16a48791bb18ce1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823450205
+        }
+    ],
+    "wof:id":823450205,
+    "wof:lastmodified":1463434824,
+    "wof:name":"Moore A M",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -81.553097,
+    39.244774,
+    -81.553097,
+    39.244774
+],
+  "geometry": {"coordinates":[-81.55309699999999,39.244774],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823394341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.960409,39.665825,-79.960409,39.665825",
+    "geom:latitude":39.665825,
+    "geom:longitude":-79.960409,
+    "iso:country":"US",
+    "sg:address":"104 Windwood Dr",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 598 6216",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59fMjtulo7hVdSVrzxGzJx_39.665825_-79.960409@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432302,
+    "wof:geomhash":"999b191107c0fccd798178fa4bf08197",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823394341
+        }
+    ],
+    "wof:id":823394341,
+    "wof:lastmodified":1463432302,
+    "wof:name":"West Virginia Pain Treatment C",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -79.960409,
+    39.665825,
+    -79.960409,
+    39.665825
+],
+  "geometry": {"coordinates":[-79.960409,39.665825],"type":"Point"}
+}

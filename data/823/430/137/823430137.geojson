@@ -1,0 +1,71 @@
+{
+  "id": 823430137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.974033,39.453915,-77.974033,39.453915",
+    "geom:latitude":39.453915,
+    "geom:longitude":-77.974033,
+    "iso:country":"US",
+    "sg:address":"533 Winchester Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 260 4000",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0O5cjJ4MR4i3qU9s0OpNUP_39.453915_-77.974033@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433888,
+    "wof:geomhash":"f0710198db35089f739c7af0bc532a6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823430137
+        }
+    ],
+    "wof:id":823430137,
+    "wof:lastmodified":1463433888,
+    "wof:name":"Tanning Palace",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -77.974033,
+    39.453915,
+    -77.974033,
+    39.453915
+],
+  "geometry": {"coordinates":[-77.97403300000001,39.453915],"type":"Point"}
+}

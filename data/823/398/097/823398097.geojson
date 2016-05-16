@@ -1,0 +1,73 @@
+{
+  "id": 823398097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.552246,40.278469,-80.552246,40.278469",
+    "geom:latitude":40.278469,
+    "geom:longitude":-80.552246,
+    "iso:country":"US",
+    "sg:address":"1111 Washington Pike",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 3600",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uNlajPv00ugsDHCzfoAX8_40.278469_-80.552246@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432492,
+    "wof:geomhash":"cb46a7ffd80b90f85d22525b45d56233",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823398097
+        }
+    ],
+    "wof:id":823398097,
+    "wof:lastmodified":1463432492,
+    "wof:name":"Wellsburg Tire & Svc",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -80.552246,
+    40.278469,
+    -80.552246,
+    40.278469
+],
+  "geometry": {"coordinates":[-80.552246,40.278469],"type":"Point"}
+}

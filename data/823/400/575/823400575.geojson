@@ -1,0 +1,71 @@
+{
+  "id": 823400575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.137506,37.984919,-81.137506,37.984919",
+    "geom:latitude":37.984919,
+    "geom:longitude":-81.137506,
+    "iso:country":"US",
+    "sg:address":"134 Beech Ave",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 465 0505",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TlhqSpGmOKVZOsgz1OsQx_37.984919_-81.137506@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432609,
+    "wof:geomhash":"69634eb8dec299eba9c38dd60607b257",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823400575
+        }
+    ],
+    "wof:id":823400575,
+    "wof:lastmodified":1463432609,
+    "wof:name":"VOCA Corp",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -81.137506,
+    37.984919,
+    -81.137506,
+    37.984919
+],
+  "geometry": {"coordinates":[-81.137506,37.984919],"type":"Point"}
+}

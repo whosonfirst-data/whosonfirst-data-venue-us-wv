@@ -1,0 +1,74 @@
+{
+  "id": 823399429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.340909,39.279554,-80.340909,39.279554",
+    "geom:latitude":39.279554,
+    "geom:longitude":-80.340909,
+    "iso:country":"US",
+    "sg:address":"403 W Main St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 624 3641",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "sg:website":"www.arc-harrisoncounty.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NaqsSiD88XeEJTFweVFgr_39.279554_-80.340909@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432563,
+    "wof:geomhash":"e6826320d52ef68f271775ddafcb5ef5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823399429
+        }
+    ],
+    "wof:id":823399429,
+    "wof:lastmodified":1463432563,
+    "wof:name":"Arc Of Harrison County",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -80.340909,
+    39.279554,
+    -80.340909,
+    39.279554
+],
+  "geometry": {"coordinates":[-80.340909,39.279554],"type":"Point"}
+}

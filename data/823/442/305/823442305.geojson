@@ -1,0 +1,71 @@
+{
+  "id": 823442305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.85631,39.652475,-80.85631,39.652475",
+    "geom:latitude":39.652475,
+    "geom:longitude":-80.85631,
+    "iso:country":"US",
+    "sg:address":"824 4th St",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 2184",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XpbRYaWLMS5WEsmNCfjaa_39.652475_-80.856310@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434463,
+    "wof:geomhash":"03bf250ca0c81d6223c727a65d03e1c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823442305
+        }
+    ],
+    "wof:id":823442305,
+    "wof:lastmodified":1463434463,
+    "wof:name":"Cartwright Refrigeration",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.85631,
+    39.652475,
+    -80.85631,
+    39.652475
+],
+  "geometry": {"coordinates":[-80.85630999999999,39.652475],"type":"Point"}
+}

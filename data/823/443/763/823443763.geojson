@@ -1,0 +1,71 @@
+{
+  "id": 823443763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.103779,37.364012,-81.103779,37.364012",
+    "geom:latitude":37.364012,
+    "geom:longitude":-81.103779,
+    "iso:country":"US",
+    "sg:address":"206 S Walker St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 2611",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3H6LqmNlUA4AIPcN1T6gj1_37.364012_-81.103779@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434533,
+    "wof:geomhash":"1f8d7d84faf651e47ef62279d32c5f2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823443763
+        }
+    ],
+    "wof:id":823443763,
+    "wof:lastmodified":1463434533,
+    "wof:name":"David A Wallace DDS",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -81.103779,
+    37.364012,
+    -81.103779,
+    37.364012
+],
+  "geometry": {"coordinates":[-81.103779,37.364012],"type":"Point"}
+}

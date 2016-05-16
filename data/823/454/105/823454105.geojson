@@ -1,0 +1,74 @@
+{
+  "id": 823454105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.594084,40.393082,-80.594084,40.393082",
+    "geom:latitude":40.393082,
+    "geom:longitude":-80.594084,
+    "iso:country":"US",
+    "sg:address":"4052 Washington St",
+    "sg:city":"Weirton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/weirton/83520-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 797 7272",
+    "sg:postcode":"26062",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731371,
+        102082633,
+        85832497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FzFS76mtawHRWZCNO3ON3_40.393124_-80.593978@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463435000,
+    "wof:geomhash":"c6225591ae7964f7f9db2137468f95ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731371,
+            "neighbourhood_id":85832497,
+            "region_id":85688589,
+            "venue_id":823454105
+        }
+    ],
+    "wof:id":823454105,
+    "wof:lastmodified":1463435000,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85832497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -80.594084,
+    40.393082,
+    -80.594084,
+    40.393082
+],
+  "geometry": {"coordinates":[-80.594084,40.393082],"type":"Point"}
+}

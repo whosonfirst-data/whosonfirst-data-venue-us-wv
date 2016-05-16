@@ -1,0 +1,66 @@
+{
+  "id": 823395635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.140871,39.496369,-80.140871,39.496369",
+    "geom:latitude":39.496369,
+    "geom:longitude":-80.140871,
+    "iso:country":"US",
+    "sg:address":"617 Bellview Blvd",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 8111",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FZSH50wXfkPESAv08uImb_39.496369_-80.140871@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432357,
+    "wof:geomhash":"06c6adbee3eb6cdbc92dc8ebf5ef2164",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823395635
+        }
+    ],
+    "wof:id":823395635,
+    "wof:lastmodified":1463432357,
+    "wof:name":"CVS",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.140871,
+    39.496369,
+    -80.140871,
+    39.496369
+],
+  "geometry": {"coordinates":[-80.140871,39.496369],"type":"Point"}
+}

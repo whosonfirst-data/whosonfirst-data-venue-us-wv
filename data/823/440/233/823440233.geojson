@@ -1,0 +1,66 @@
+{
+  "id": 823440233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.931658,38.450476,-81.931658,38.450476",
+    "geom:latitude":38.450476,
+    "geom:longitude":-81.931658,
+    "iso:country":"US",
+    "sg:address":"4044 Teays Valley Rd",
+    "sg:city":"Scott Depot",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 757 3521",
+    "sg:postcode":"25560",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731829,
+        102083381,
+        85868321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CU9Dhrb6UNAu223OsZDLV_38.450476_-81.931658@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434373,
+    "wof:geomhash":"205e828db6c513e85f0f99a456de48d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731829,
+            "neighbourhood_id":85868321,
+            "region_id":85688589,
+            "venue_id":823440233
+        }
+    ],
+    "wof:id":823440233,
+    "wof:lastmodified":1463434373,
+    "wof:name":"7-Eleven",
+    "wof:parent_id":85868321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.931658,
+    38.450476,
+    -81.931658,
+    38.450476
+],
+  "geometry": {"coordinates":[-81.931658,38.450476],"type":"Point"}
+}

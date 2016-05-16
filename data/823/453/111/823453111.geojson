@@ -1,0 +1,80 @@
+{
+  "id": 823453111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.228082,37.74216,-81.228082,37.74216",
+    "geom:latitude":37.74216,
+    "geom:longitude":-81.228082,
+    "iso:country":"US",
+    "sg:address":"1428 Robert C Byrd Dr",
+    "sg:city":"Crab Orchard",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/mcalpin/139709-sicilias-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 255 0478",
+    "sg:postcode":"25827",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kdFJSJlHqJXNVFSgdPPcj_37.742160_-81.228082@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434934,
+    "wof:geomhash":"06f150a79810e7bb3282e7c3b0dc425a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823453111
+        }
+    ],
+    "wof:id":823453111,
+    "wof:lastmodified":1463434934,
+    "wof:name":"Sicilia's Pizzeria",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -81.228082,
+    37.74216,
+    -81.228082,
+    37.74216
+],
+  "geometry": {"coordinates":[-81.228082,37.74216],"type":"Point"}
+}

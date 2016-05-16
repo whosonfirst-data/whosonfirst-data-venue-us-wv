@@ -1,0 +1,73 @@
+{
+  "id": 823412607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.59161,40.396515,-80.59161,40.396515",
+    "geom:latitude":40.396515,
+    "geom:longitude":-80.59161,
+    "iso:country":"US",
+    "sg:address":"3750 Main St",
+    "sg:city":"Weirton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 740 2275",
+    "sg:postcode":"26062",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731371,
+        102082633,
+        85832497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aQV2aGEo63lnkIt1YBdQk_40.396515_-80.591610@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433125,
+    "wof:geomhash":"3acffecf832fa1d50793a97e07537e49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731371,
+            "neighbourhood_id":85832497,
+            "region_id":85688589,
+            "venue_id":823412607
+        }
+    ],
+    "wof:id":823412607,
+    "wof:lastmodified":1463433125,
+    "wof:name":"Garage",
+    "wof:parent_id":85832497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -80.59161,
+    40.396515,
+    -80.59161,
+    40.396515
+],
+  "geometry": {"coordinates":[-80.59161,40.396515],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823454791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.971615,39.474207,-77.971615,39.474207",
+    "geom:latitude":39.474207,
+    "geom:longitude":-77.971615,
+    "iso:country":"US",
+    "sg:address":"1004 Tavern Rd",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 264 9332",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85846047,
+        102083367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YbDsuHufBdhR8quoELdy5_39.474207_-77.971615@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435051,
+    "wof:geomhash":"c41acb372a581552fbb655ff251f47cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "neighbourhood_id":85846047,
+            "region_id":85688589,
+            "venue_id":823454791
+        }
+    ],
+    "wof:id":823454791,
+    "wof:lastmodified":1463435051,
+    "wof:name":"Woman And Child Health, P.C.",
+    "wof:parent_id":85846047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -77.971615,
+    39.474207,
+    -77.971615,
+    39.474207
+],
+  "geometry": {"coordinates":[-77.971615,39.474207],"type":"Point"}
+}

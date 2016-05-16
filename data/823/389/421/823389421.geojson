@@ -1,0 +1,75 @@
+{
+  "id": 823389421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.627817,38.359864,-81.627817,38.359864",
+    "geom:latitude":38.359864,
+    "geom:longitude":-81.627817,
+    "iso:country":"US",
+    "sg:address":"1217 Pennsylvania Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 1577",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49JSMeJnyyOHbDlAmG3dRh_38.359864_-81.627817@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432051,
+    "wof:geomhash":"945b718e57e80420a032212935b45914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823389421
+        }
+    ],
+    "wof:id":823389421,
+    "wof:lastmodified":1463432051,
+    "wof:name":"All That Dance",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -81.627817,
+    38.359864,
+    -81.627817,
+    38.359864
+],
+  "geometry": {"coordinates":[-81.62781699999999,38.359864],"type":"Point"}
+}

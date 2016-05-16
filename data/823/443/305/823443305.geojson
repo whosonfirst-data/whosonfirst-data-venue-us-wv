@@ -1,0 +1,73 @@
+{
+  "id": 823443305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.152926,39.475271,-80.152926,39.475271",
+    "geom:latitude":39.475271,
+    "geom:longitude":-80.152926,
+    "iso:country":"US",
+    "sg:address":"830 Walnut Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 3547",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "housing",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57eilVGomMqp8jEWE6Vjwy_39.475271_-80.152926@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434515,
+    "wof:geomhash":"1fed0075ea90521119e2645fd606f3fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823443305
+        }
+    ],
+    "wof:id":823443305,
+    "wof:lastmodified":1463434515,
+    "wof:name":"Vandalia Redevelopment Corp",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housing",
+        "program"
+    ]
+},
+  "bbox": [
+    -80.152926,
+    39.475271,
+    -80.152926,
+    39.475271
+],
+  "geometry": {"coordinates":[-80.15292599999999,39.475271],"type":"Point"}
+}

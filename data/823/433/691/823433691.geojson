@@ -1,0 +1,73 @@
+{
+  "id": 823433691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.535272,39.28468,-81.535272,39.28468",
+    "geom:latitude":39.28468,
+    "geom:longitude":-81.535272,
+    "iso:country":"US",
+    "sg:address":"3100 Dudley Ave",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 485 2341",
+    "sg:postcode":"26104",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731687,
+        102083343,
+        85805293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0i1x3lyE3QOHKxyuSE76p3_39.284680_-81.535272@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434050,
+    "wof:geomhash":"2cb16cc6a58530bc1d3a011365802250",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85805293,
+            "region_id":85688589,
+            "venue_id":823433691
+        }
+    ],
+    "wof:id":823433691,
+    "wof:lastmodified":1463434050,
+    "wof:name":"Armando S Colombo DDS",
+    "wof:parent_id":85805293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -81.535272,
+    39.28468,
+    -81.535272,
+    39.28468
+],
+  "geometry": {"coordinates":[-81.53527200000001,39.28468],"type":"Point"}
+}

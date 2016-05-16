@@ -1,0 +1,73 @@
+{
+  "id": 823398005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.888453,37.671623,-80.888453,37.671623",
+    "geom:latitude":37.671623,
+    "geom:longitude":-80.888453,
+    "iso:country":"US",
+    "sg:address":"523 3rd Ave",
+    "sg:city":"Hinton",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 466 0695",
+    "sg:postcode":"25951",
+    "sg:province":"WV",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731641,
+        102083407,
+        85804037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gXfdZdRH2G0A5gbeRsq5K_37.671623_-80.888453@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432487,
+    "wof:geomhash":"332ceaa47209d9eb3d6f1c5cfc32f82d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083407,
+            "locality_id":101731641,
+            "neighbourhood_id":85804037,
+            "region_id":85688589,
+            "venue_id":823398005
+        }
+    ],
+    "wof:id":823398005,
+    "wof:lastmodified":1463432487,
+    "wof:name":"Summers County Solid Waste",
+    "wof:parent_id":85804037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [
+    -80.888453,
+    37.671623,
+    -80.888453,
+    37.671623
+],
+  "geometry": {"coordinates":[-80.888453,37.671623],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 823398929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.724609,38.356263,-81.724609,38.356263",
+    "geom:latitude":38.356263,
+    "geom:longitude":-81.724609,
+    "iso:country":"US",
+    "sg:address":"4502 Maccorkle Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 3500",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QOILAQ2DIm8hJ0vXp3dQT_38.356263_-81.724609@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432530,
+    "wof:geomhash":"5ba63fcf15aca11feb9d952f23c05e35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823398929
+        }
+    ],
+    "wof:id":823398929,
+    "wof:lastmodified":1463432530,
+    "wof:name":"Family Allergy & Asthma Clinic",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.724609,
+    38.356263,
+    -81.724609,
+    38.356263
+],
+  "geometry": {"coordinates":[-81.724609,38.356263],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823374199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.087749,37.36484,-81.087749,37.36484",
+    "geom:latitude":37.36484,
+    "geom:longitude":-81.087749,
+    "iso:country":"US",
+    "sg:address":"127 Brick St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 431 2667",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "bible"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IU6srx3T5oBwVB2UPJQNq_37.364840_-81.087749@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431366,
+    "wof:geomhash":"facce6a1319cbdb8c552ff480ec1cd75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823374199
+        }
+    ],
+    "wof:id":823374199,
+    "wof:lastmodified":1463431366,
+    "wof:name":"Lighthouse Christian Book",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bible"
+    ]
+},
+  "bbox": [
+    -81.087749,
+    37.36484,
+    -81.087749,
+    37.36484
+],
+  "geometry": {"coordinates":[-81.087749,37.36484],"type":"Point"}
+}

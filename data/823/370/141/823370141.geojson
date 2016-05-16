@@ -1,0 +1,71 @@
+{
+  "id": 823370141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.296887,37.796187,-80.296887,37.796187",
+    "geom:latitude":37.796187,
+    "geom:longitude":-80.296887,
+    "iso:country":"US",
+    "sg:address":"8 Ingleside Ave",
+    "sg:city":"White Sulphur Springs",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 536 9838",
+    "sg:postcode":"24986",
+    "sg:province":"WV",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_300qSra5LJA5MkECQWKV1E_37.796187_-80.296887@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431181,
+    "wof:geomhash":"52515dc72630c20fd7b31f9dd87cda9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823370141
+        }
+    ],
+    "wof:id":823370141,
+    "wof:lastmodified":1463431181,
+    "wof:name":"Black Bear Tavern",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -80.296887,
+    37.796187,
+    -80.296887,
+    37.796187
+],
+  "geometry": {"coordinates":[-80.296887,37.796187],"type":"Point"}
+}

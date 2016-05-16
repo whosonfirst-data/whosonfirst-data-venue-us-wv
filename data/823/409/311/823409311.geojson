@@ -1,0 +1,71 @@
+{
+  "id": 823409311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.803227,38.38145,-81.803227,38.38145",
+    "geom:latitude":38.38145,
+    "geom:longitude":-81.803227,
+    "iso:country":"US",
+    "sg:address":"2502 Mc Kinley Ave",
+    "sg:city":"St Albans",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 727 0091",
+    "sg:postcode":"25177",
+    "sg:province":"WV",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731773,
+        102083335,
+        85840775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11kyNalLeiKGjyLqbyAo8s_38.381450_-81.803227@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432996,
+    "wof:geomhash":"8965788c021a65b7a307d5e454da0b04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731773,
+            "neighbourhood_id":85840775,
+            "region_id":85688589,
+            "venue_id":823409311
+        }
+    ],
+    "wof:id":823409311,
+    "wof:lastmodified":1463432996,
+    "wof:name":"New Breed Investigations",
+    "wof:parent_id":85840775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -81.803227,
+    38.38145,
+    -81.803227,
+    38.38145
+],
+  "geometry": {"coordinates":[-81.80322700000001,38.38145],"type":"Point"}
+}

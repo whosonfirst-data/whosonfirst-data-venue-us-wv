@@ -1,0 +1,71 @@
+{
+  "id": 823426575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.88897,37.672418,-80.88897,37.672418",
+    "geom:latitude":37.672418,
+    "geom:longitude":-80.88897,
+    "iso:country":"US",
+    "sg:address":"200 James St",
+    "sg:city":"Hinton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 466 5274",
+    "sg:postcode":"25951",
+    "sg:province":"WV",
+    "sg:tags":[
+        "convenient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731641,
+        102083407,
+        85804037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YtreM5u9fIr7yKLNUN54L_37.672418_-80.888970@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433730,
+    "wof:geomhash":"6a60bdc0f2e1d8bbd9bb2b9294b873ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083407,
+            "locality_id":101731641,
+            "neighbourhood_id":85804037,
+            "region_id":85688589,
+            "venue_id":823426575
+        }
+    ],
+    "wof:id":823426575,
+    "wof:lastmodified":1463433730,
+    "wof:name":"7-Eleven",
+    "wof:parent_id":85804037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convenient"
+    ]
+},
+  "bbox": [
+    -80.88897,
+    37.672418,
+    -80.88897,
+    37.672418
+],
+  "geometry": {"coordinates":[-80.88897,37.672418],"type":"Point"}
+}

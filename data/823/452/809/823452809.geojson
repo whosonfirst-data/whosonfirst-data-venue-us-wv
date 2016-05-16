@@ -1,0 +1,74 @@
+{
+  "id": 823452809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.138033,38.841807,-82.138033,38.841807",
+    "geom:latitude":38.841807,
+    "geom:longitude":-82.138033,
+    "iso:country":"US",
+    "sg:address":"319 Viand St",
+    "sg:city":"Point Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/lewis/86218-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 675 1530",
+    "sg:postcode":"25550",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85983229,
+        102083675,
+        85824533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CRLaAoydMUl2gHmS5WWbE_38.841807_-82.138033@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434921,
+    "wof:geomhash":"9e15d3e557b27b3801db3dc909cf48ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "neighbourhood_id":85824533,
+            "region_id":85688485,
+            "venue_id":823452809
+        }
+    ],
+    "wof:id":823452809,
+    "wof:lastmodified":1463434921,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85824533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -82.138033,
+    38.841807,
+    -82.138033,
+    38.841807
+],
+  "geometry": {"coordinates":[-82.13803299999999,38.841807],"type":"Point"}
+}

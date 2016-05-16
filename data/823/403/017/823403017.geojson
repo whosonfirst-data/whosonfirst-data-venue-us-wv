@@ -1,0 +1,75 @@
+{
+  "id": 823403017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.95071,39.632879,-79.95071,39.632879",
+    "geom:latitude":39.632879,
+    "geom:longitude":-79.95071,
+    "iso:country":"US",
+    "sg:address":"652 Price St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 9122",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "membership",
+        "lodging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85858573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HlFXl3pEO36NIS2NS424U_39.632879_-79.950710@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432712,
+    "wof:geomhash":"acfcaf641e857a4c670063f6143a604d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85858573,
+            "region_id":85688589,
+            "venue_id":823403017
+        }
+    ],
+    "wof:id":823403017,
+    "wof:lastmodified":1463432712,
+    "wof:name":"Delta Gamma Sorority",
+    "wof:parent_id":85858573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "membership",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -79.95071,
+    39.632879,
+    -79.95071,
+    39.632879
+],
+  "geometry": {"coordinates":[-79.95071,39.632879],"type":"Point"}
+}

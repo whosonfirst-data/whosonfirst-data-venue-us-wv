@@ -1,0 +1,73 @@
+{
+  "id": 823377443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.97095,39.445825,-77.97095,39.445825",
+    "geom:latitude":39.445825,
+    "geom:longitude":-77.97095,
+    "iso:country":"US",
+    "sg:address":"320 Wilson St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 3331",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "personal",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EdUzBEW4Xb5jbY1lJzaUJ_39.445825_-77.970950@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431533,
+    "wof:geomhash":"4317eb9a843cc3b8cb88f82a3ba2ff5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823377443
+        }
+    ],
+    "wof:id":823377443,
+    "wof:lastmodified":1463431533,
+    "wof:name":"Commercial Credit",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "institution"
+    ]
+},
+  "bbox": [
+    -77.97095,
+    39.445825,
+    -77.97095,
+    39.445825
+],
+  "geometry": {"coordinates":[-77.97095,39.445825],"type":"Point"}
+}

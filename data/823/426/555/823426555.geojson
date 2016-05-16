@@ -1,0 +1,71 @@
+{
+  "id": 823426555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.253655,39.28381,-80.253655,39.28381",
+    "geom:latitude":39.28381,
+    "geom:longitude":-80.253655,
+    "iso:country":"US",
+    "sg:address":"104 Orchard Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 8819",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "nurse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XeZWohdwiIwzG03e71Pvv_39.283810_-80.253655@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433729,
+    "wof:geomhash":"83ee1e5c17aabe8bb6b8f10cd4ec7bca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823426555
+        }
+    ],
+    "wof:id":823426555,
+    "wof:lastmodified":1463433729,
+    "wof:name":"Georgia Daniel",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse"
+    ]
+},
+  "bbox": [
+    -80.253655,
+    39.28381,
+    -80.253655,
+    39.28381
+],
+  "geometry": {"coordinates":[-80.25365499999999,39.28381],"type":"Point"}
+}

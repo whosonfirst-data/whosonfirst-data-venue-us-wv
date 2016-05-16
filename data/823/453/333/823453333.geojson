@@ -1,0 +1,78 @@
+{
+  "id": 823453333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.545207,39.239459,-81.545207,39.239459",
+    "geom:latitude":39.239459,
+    "geom:longitude":-81.545207,
+    "iso:country":"US",
+    "sg:address":"1814 Blizzard Dr",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/tygart/139720-sicilias-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 485 4411",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28EFj4uEguHZyJ4BnLKHUA_39.239459_-81.545207@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434943,
+    "wof:geomhash":"8898a0a175113167cfffed928a6be43c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823453333
+        }
+    ],
+    "wof:id":823453333,
+    "wof:lastmodified":1463434943,
+    "wof:name":"Sicilia's Pizzeria",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -81.545207,
+    39.239459,
+    -81.545207,
+    39.239459
+],
+  "geometry": {"coordinates":[-81.545207,39.239459],"type":"Point"}
+}

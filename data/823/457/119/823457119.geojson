@@ -1,0 +1,84 @@
+{
+  "id": 823457119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.033478,39.639925,-80.033478,39.639925",
+    "geom:latitude":39.639925,
+    "geom:longitude":-80.033478,
+    "iso:country":"US",
+    "sg:address":"460 Mylan Park Ln",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 983 7761",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "trainer",
+        "consultant",
+        "physical",
+        "health",
+        "fitness"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731749,
+        102082587,
+        85807277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hyWq1L9jrCPrPRTX4QyD4_39.639925_-80.033478@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435146,
+    "wof:geomhash":"7a5833f92b1862e8952ac100e0d2b594",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731749,
+            "neighbourhood_id":85807277,
+            "region_id":85688589,
+            "venue_id":823457119
+        }
+    ],
+    "wof:id":823457119,
+    "wof:lastmodified":1463435146,
+    "wof:name":"Pro Performance Arena",
+    "wof:parent_id":85807277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trainer",
+        "consultant",
+        "physical",
+        "health",
+        "fitness"
+    ]
+},
+  "bbox": [
+    -80.033478,
+    39.639925,
+    -80.033478,
+    39.639925
+],
+  "geometry": {"coordinates":[-80.033478,39.639925],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 823382417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.223046,37.7918,-81.223046,37.7918",
+    "geom:latitude":37.7918,
+    "geom:longitude":-81.223046,
+    "iso:country":"US",
+    "sg:address":"318 George St",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 256 6422",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Lm3kFZysbDFEcIj3WAHhg_37.791800_-81.223046@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431753,
+    "wof:geomhash":"e204d23528512dea994f311db1db08fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823382417
+        }
+    ],
+    "wof:id":823382417,
+    "wof:lastmodified":1463431753,
+    "wof:name":"Medi-Home Care",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -81.223046,
+    37.7918,
+    -81.223046,
+    37.7918
+],
+  "geometry": {"coordinates":[-81.223046,37.7918],"type":"Point"}
+}

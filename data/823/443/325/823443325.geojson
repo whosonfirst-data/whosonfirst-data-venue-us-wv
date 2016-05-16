@@ -1,0 +1,71 @@
+{
+  "id": 823443325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.641347,38.36173,-81.641347,38.36173",
+    "geom:latitude":38.36173,
+    "geom:longitude":-81.641347,
+    "iso:country":"US",
+    "sg:address":"320 Washington St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 0402",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qfxGPHFcXbyIaio6N0ULV_38.361730_-81.641347@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434517,
+    "wof:geomhash":"6625d931c7781bdfc7ea438e79567384",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823443325
+        }
+    ],
+    "wof:id":823443325,
+    "wof:lastmodified":1463434517,
+    "wof:name":"Love Yo Nails",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -81.641347,
+    38.36173,
+    -81.641347,
+    38.36173
+],
+  "geometry": {"coordinates":[-81.641347,38.36173],"type":"Point"}
+}

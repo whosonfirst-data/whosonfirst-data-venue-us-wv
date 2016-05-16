@@ -1,0 +1,75 @@
+{
+  "id": 823434587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.538311,38.22489,-81.538311,38.22489",
+    "geom:latitude":38.22489,
+    "geom:longitude":-81.538311,
+    "iso:country":"US",
+    "sg:address":"12217 Maccorkle Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 2276",
+    "sg:postcode":"25315",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xVKx5zujbNrwbiDG2iMNb_38.224890_-81.538311@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434110,
+    "wof:geomhash":"1215b82ec021691867a4de5245d14315",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823434587
+        }
+    ],
+    "wof:id":823434587,
+    "wof:lastmodified":1463434110,
+    "wof:name":"S & B Tobacco Barn",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -81.538311,
+    38.22489,
+    -81.538311,
+    38.22489
+],
+  "geometry": {"coordinates":[-81.53831099999999,38.22489],"type":"Point"}
+}

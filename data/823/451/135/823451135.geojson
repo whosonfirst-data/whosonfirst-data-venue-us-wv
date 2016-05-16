@@ -1,0 +1,73 @@
+{
+  "id": 823451135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.866215,39.6385,-80.866215,39.6385",
+    "geom:latitude":39.6385,
+    "geom:longitude":-80.866215,
+    "iso:country":"US",
+    "sg:address":"190 Main St",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 1300",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38InmtHtnD5HHv3wUOP7tQ_39.638500_-80.866215@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434856,
+    "wof:geomhash":"2c25cd9d874be30e3c4e5d0f51e4fcbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823451135
+        }
+    ],
+    "wof:id":823451135,
+    "wof:lastmodified":1463434856,
+    "wof:name":"Wesbanco",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -80.866215,
+    39.6385,
+    -80.866215,
+    39.6385
+],
+  "geometry": {"coordinates":[-80.866215,39.6385],"type":"Point"}
+}

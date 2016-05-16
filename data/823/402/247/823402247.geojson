@@ -1,0 +1,81 @@
+{
+  "id": 823402247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.636455,38.348957,-81.636455,38.348957",
+    "geom:latitude":38.348957,
+    "geom:longitude":-81.636455,
+    "iso:country":"US",
+    "sg:address":"1 Capitol St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 344 2201",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "club",
+        "membership"
+    ],
+    "sg:website":"www.capitolcitygold.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54zcAc0gaeAzkCwCQkIgF9_38.348957_-81.636455@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432685,
+    "wof:geomhash":"daf3f9d7d7b329a471a06cb7fad7689e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823402247
+        }
+    ],
+    "wof:id":823402247,
+    "wof:lastmodified":1463432685,
+    "wof:name":"Capitol City Gold",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "membership"
+    ]
+},
+  "bbox": [
+    -81.636455,
+    38.348957,
+    -81.636455,
+    38.348957
+],
+  "geometry": {"coordinates":[-81.636455,38.348957],"type":"Point"}
+}

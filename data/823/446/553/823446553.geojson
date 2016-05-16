@@ -1,0 +1,71 @@
+{
+  "id": 823446553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.980807,39.529206,-77.980807,39.529206",
+    "geom:latitude":39.529206,
+    "geom:longitude":-77.980807,
+    "iso:country":"US",
+    "sg:address":"28 Bramblewood Ct",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 754 5200",
+    "sg:postcode":"25403",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85846047,
+        102083367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cJQIMtcnMPGhAg842onl2_39.529206_-77.980807@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434674,
+    "wof:geomhash":"fe2fc3ca7d4c70841252cc3460431343",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "neighbourhood_id":85846047,
+            "region_id":85688589,
+            "venue_id":823446553
+        }
+    ],
+    "wof:id":823446553,
+    "wof:lastmodified":1463434674,
+    "wof:name":"Home Doctor",
+    "wof:parent_id":85846047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -77.980807,
+    39.529206,
+    -77.980807,
+    39.529206
+],
+  "geometry": {"coordinates":[-77.980807,39.529206],"type":"Point"}
+}

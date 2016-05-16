@@ -1,0 +1,67 @@
+{
+  "id": 823399607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.277795,39.280627,-80.277795,39.280627",
+    "geom:latitude":39.280627,
+    "geom:longitude":-80.277795,
+    "iso:country":"US",
+    "sg:address":"102 Emily Dr",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 624 7171",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:website":"www.kmart.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ekQKXltfsYhDw6dyAMN6G_39.280627_-80.277795@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432569,
+    "wof:geomhash":"9500df7d92518401c7275379f2a5a6ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823399607
+        }
+    ],
+    "wof:id":823399607,
+    "wof:lastmodified":1463432569,
+    "wof:name":"Kmart",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.277795,
+    39.280627,
+    -80.277795,
+    39.280627
+],
+  "geometry": {"coordinates":[-80.277795,39.280627],"type":"Point"}
+}

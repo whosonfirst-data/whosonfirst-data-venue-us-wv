@@ -1,0 +1,72 @@
+{
+  "id": 823454731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.966263,39.44891,-77.966263,39.44891",
+    "geom:latitude":39.44891,
+    "geom:longitude":-77.966263,
+    "iso:country":"US",
+    "sg:address":"701 S Queen St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 267 3530",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "high"
+    ],
+    "sg:website":"http://www.mhsbb.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_206RgpR3Te316JOkThGv0v_39.448910_-77.966263@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435049,
+    "wof:geomhash":"04bc6905fbc6eebd8c4f68d78772a8a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823454731
+        }
+    ],
+    "wof:id":823454731,
+    "wof:lastmodified":1463435049,
+    "wof:name":"Martinsburg Senior High School",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high"
+    ]
+},
+  "bbox": [
+    -77.966263,
+    39.44891,
+    -77.966263,
+    39.44891
+],
+  "geometry": {"coordinates":[-77.966263,39.44891],"type":"Point"}
+}

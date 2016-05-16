@@ -1,0 +1,71 @@
+{
+  "id": 823388667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.864731,38.527203,-81.864731,38.527203",
+    "geom:latitude":38.527203,
+    "geom:longitude":-81.864731,
+    "iso:country":"US",
+    "sg:address":"7 Larabee Ln",
+    "sg:city":"Winfield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 586 9589",
+    "sg:postcode":"25213",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868323,
+        102083381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KF3Li4ZzIspbHW5i38WsH_38.527203_-81.864731@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432013,
+    "wof:geomhash":"9425988267b57d5bacb6f28ef887427b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "neighbourhood_id":85868323,
+            "region_id":85688589,
+            "venue_id":823388667
+        }
+    ],
+    "wof:id":823388667,
+    "wof:lastmodified":1463432013,
+    "wof:name":"Kl Properties",
+    "wof:parent_id":85868323,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -81.864731,
+    38.527203,
+    -81.864731,
+    38.527203
+],
+  "geometry": {"coordinates":[-81.86473100000001,38.527203],"type":"Point"}
+}

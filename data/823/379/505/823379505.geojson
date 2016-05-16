@@ -1,0 +1,71 @@
+{
+  "id": 823379505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.742155,38.353784,-81.742155,38.353784",
+    "geom:latitude":38.353784,
+    "geom:longitude":-81.742155,
+    "iso:country":"US",
+    "sg:address":"5312 Maccorkle Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 8787",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "arrangement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MmSNXHZ2bIxnvbd9iq1wP_38.353784_-81.742155@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431619,
+    "wof:geomhash":"9a56d48bdbf4f91ab7cb7fd07f4a9039",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823379505
+        }
+    ],
+    "wof:id":823379505,
+    "wof:lastmodified":1463431619,
+    "wof:name":"Mail Boxes Etc",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arrangement"
+    ]
+},
+  "bbox": [
+    -81.742155,
+    38.353784,
+    -81.742155,
+    38.353784
+],
+  "geometry": {"coordinates":[-81.742155,38.353784],"type":"Point"}
+}

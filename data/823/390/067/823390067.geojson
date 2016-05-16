@@ -1,0 +1,71 @@
+{
+  "id": 823390067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.114376,39.483394,-80.114376,39.483394",
+    "geom:latitude":39.483394,
+    "geom:longitude":-80.114376,
+    "iso:country":"US",
+    "sg:address":"1501 Morgantown Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 368 1920",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RjMVQwzq0DTlgANwR8RiJ_39.483394_-80.114376@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432080,
+    "wof:geomhash":"08cb4d8f98175756ba9a2d3fe9f721fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823390067
+        }
+    ],
+    "wof:id":823390067,
+    "wof:lastmodified":1463432080,
+    "wof:name":"Libbey Apartments",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -80.114376,
+    39.483394,
+    -80.114376,
+    39.483394
+],
+  "geometry": {"coordinates":[-80.11437599999999,39.483394],"type":"Point"}
+}

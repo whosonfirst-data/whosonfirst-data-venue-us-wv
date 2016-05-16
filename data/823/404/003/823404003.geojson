@@ -1,0 +1,77 @@
+{
+  "id": 823404003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.33924,39.284447,-80.33924,39.284447",
+    "geom:latitude":39.284447,
+    "geom:longitude":-80.33924,
+    "iso:country":"US",
+    "sg:address":"403 N 5th St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 624 6514",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "operator",
+        "operation",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ji6yj7bqLkPwajs4PHEKg_39.284447_-80.339240@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432761,
+    "wof:geomhash":"a23b7f0bcd57e5c1459083892eda1af0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823404003
+        }
+    ],
+    "wof:id":823404003,
+    "wof:lastmodified":1463432761,
+    "wof:name":"Parsons Hotel",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "operator",
+        "operation",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -80.33924,
+    39.284447,
+    -80.33924,
+    39.284447
+],
+  "geometry": {"coordinates":[-80.33924,39.284447],"type":"Point"}
+}

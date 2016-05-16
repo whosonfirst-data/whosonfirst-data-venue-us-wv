@@ -1,0 +1,75 @@
+{
+  "id": 823392673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.213763,37.250687,-81.213763,37.250687",
+    "geom:latitude":37.250687,
+    "geom:longitude":-81.213763,
+    "iso:country":"US",
+    "sg:address":"2415 Washington St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 325 7227",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZfONT3ItTQvKPS7SwCHEi_37.250687_-81.213763@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432213,
+    "wof:geomhash":"54e0d93fed5b2ccdbfbfaec136bd4bf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823392673
+        }
+    ],
+    "wof:id":823392673,
+    "wof:lastmodified":1463432213,
+    "wof:name":"Wild Things Pet Shop Grooming",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -81.213763,
+    37.250687,
+    -81.213763,
+    37.250687
+],
+  "geometry": {"coordinates":[-81.213763,37.250687],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823374147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.482828,38.440871,-81.482828,38.440871",
+    "geom:latitude":38.440871,
+    "geom:longitude":-81.482828,
+    "iso:country":"US",
+    "sg:address":"3 Main St",
+    "sg:city":"Clendenin",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 548 4023",
+    "sg:postcode":"25071",
+    "sg:province":"WV",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5N3n5zDpGgwCeiyrarzt0o_38.440871_-81.482828@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431364,
+    "wof:geomhash":"e0ef8f3fb99dea6ba4956e2aa3b72951",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823374147
+        }
+    ],
+    "wof:id":823374147,
+    "wof:lastmodified":1463431364,
+    "wof:name":"Clendenin Tanning Salon",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -81.482828,
+    38.440871,
+    -81.482828,
+    38.440871
+],
+  "geometry": {"coordinates":[-81.482828,38.440871],"type":"Point"}
+}

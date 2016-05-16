@@ -1,0 +1,73 @@
+{
+  "id": 823446833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.167464,37.776162,-81.167464,37.776162",
+    "geom:latitude":37.776162,
+    "geom:longitude":-81.167464,
+    "iso:country":"US",
+    "sg:address":"123 Hager St",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 255 6985",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35LSoFVxwS0Q4dz47762la_37.776162_-81.167464@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434685,
+    "wof:geomhash":"a9e7a1d54e4e5b22c073f76509f89650",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823446833
+        }
+    ],
+    "wof:id":823446833,
+    "wof:lastmodified":1463434685,
+    "wof:name":"Abram-King Memorial Apartments",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -81.167464,
+    37.776162,
+    -81.167464,
+    37.776162
+],
+  "geometry": {"coordinates":[-81.167464,37.776162],"type":"Point"}
+}

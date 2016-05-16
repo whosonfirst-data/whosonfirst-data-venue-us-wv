@@ -1,0 +1,67 @@
+{
+  "id": 823394599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.506998,39.266248,-81.506998,39.266248",
+    "geom:latitude":39.266248,
+    "geom:longitude":-81.506998,
+    "iso:country":"US",
+    "sg:address":"4004 E 7th St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 428 4331",
+    "sg:postcode":"26104",
+    "sg:province":"WV",
+    "sg:website":"www.ljs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85818775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vjlYG6Ne8K3mKRjEVALcS_39.266248_-81.506998@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432311,
+    "wof:geomhash":"6959b80d85b8aabdb1da676a14ecbf1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85818775,
+            "region_id":85688589,
+            "venue_id":823394599
+        }
+    ],
+    "wof:id":823394599,
+    "wof:lastmodified":1463432311,
+    "wof:name":"Long John Silver's",
+    "wof:parent_id":85818775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.506998,
+    39.266248,
+    -81.506998,
+    39.266248
+],
+  "geometry": {"coordinates":[-81.506998,39.266248],"type":"Point"}
+}

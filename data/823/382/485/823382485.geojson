@@ -1,0 +1,75 @@
+{
+  "id": 823382485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.202941,39.305249,-80.202941,39.305249",
+    "geom:latitude":39.305249,
+    "geom:longitude":-80.202941,
+    "iso:country":"US",
+    "sg:address":"105 Sandy Dr",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 0610",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "sector",
+        "regulation",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LkoLLZxrRk2w7GIhq0Wjt_39.305249_-80.202941@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431756,
+    "wof:geomhash":"e8744c44f1f970b6525461e96cd23a14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823382485
+        }
+    ],
+    "wof:id":823382485,
+    "wof:lastmodified":1463431756,
+    "wof:name":"Bridgeport District 3",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sector",
+        "regulation",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -80.202941,
+    39.305249,
+    -80.202941,
+    39.305249
+],
+  "geometry": {"coordinates":[-80.202941,39.305249],"type":"Point"}
+}

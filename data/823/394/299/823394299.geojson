@@ -1,0 +1,73 @@
+{
+  "id": 823394299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.419258,38.355238,-82.419258,38.355238",
+    "geom:latitude":38.355238,
+    "geom:longitude":-82.419258,
+    "iso:country":"US",
+    "sg:address":"4600 Camp Creek Rd",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 529 3738",
+    "sg:postcode":"25701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083329,
+        85868313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xMD9qabB21CwTRBxxmf62_38.355238_-82.419258@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432300,
+    "wof:geomhash":"7f4fb694d06e36eca59eff79101da94d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731553,
+            "neighbourhood_id":85868313,
+            "region_id":85688589,
+            "venue_id":823394299
+        }
+    ],
+    "wof:id":823394299,
+    "wof:lastmodified":1463432300,
+    "wof:name":"Paul Pruitt's Car Tune & Rpr",
+    "wof:parent_id":85868313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -82.419258,
+    38.355238,
+    -82.419258,
+    38.355238
+],
+  "geometry": {"coordinates":[-82.419258,38.355238],"type":"Point"}
+}

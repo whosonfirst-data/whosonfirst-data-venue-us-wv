@@ -1,0 +1,73 @@
+{
+  "id": 823403249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.178023,37.79913,-81.178023,37.79913",
+    "geom:latitude":37.79913,
+    "geom:longitude":-81.178023,
+    "iso:country":"US",
+    "sg:address":"954 N Eisenhower Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 253 4831",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "professional"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4knwhje5JZKwiNyoX2G9IE_37.799130_-81.178023@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432721,
+    "wof:geomhash":"8aff450c8a5782d1224ebf25c193c091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823403249
+        }
+    ],
+    "wof:id":823403249,
+    "wof:lastmodified":1463432721,
+    "wof:name":"Christian Book Store",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "professional"
+    ]
+},
+  "bbox": [
+    -81.178023,
+    37.79913,
+    -81.178023,
+    37.79913
+],
+  "geometry": {"coordinates":[-81.178023,37.79913],"type":"Point"}
+}

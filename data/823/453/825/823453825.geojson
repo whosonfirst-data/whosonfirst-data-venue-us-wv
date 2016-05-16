@@ -1,0 +1,72 @@
+{
+  "id": 823453825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.183229,39.421986,-80.183229,39.421986",
+    "geom:latitude":39.421986,
+    "geom:longitude":-80.183229,
+    "iso:country":"US",
+    "sg:address":"2500 Fairmont Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/palatine/227836-dippin-dots/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"0",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85834381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zKEJ9dPtcUIeRP7ZLoWxv_39.421986_-80.183229@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434964,
+    "wof:geomhash":"70cccfb380f9c1c7d9637372eeed0eb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85834381,
+            "region_id":85688589,
+            "venue_id":823453825
+        }
+    ],
+    "wof:id":823453825,
+    "wof:lastmodified":1463434964,
+    "wof:name":"Dippin' Dots",
+    "wof:parent_id":85834381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -80.183229,
+    39.421986,
+    -80.183229,
+    39.421986
+],
+  "geometry": {"coordinates":[-80.183229,39.421986],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823413799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.849301,38.92511,-79.849301,38.92511",
+    "geom:latitude":38.92511,
+    "geom:longitude":-79.849301,
+    "iso:country":"US",
+    "sg:address":"114 3rd St",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 3085",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5H637YX9Soo129lH286bEr_38.925110_-79.849301@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433171,
+    "wof:geomhash":"b79b9b12bc7ee25d2b153ef74d5de982",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823413799
+        }
+    ],
+    "wof:id":823413799,
+    "wof:lastmodified":1463433171,
+    "wof:name":"Thompson's Jewelers",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -79.849301,
+    38.92511,
+    -79.849301,
+    38.92511
+],
+  "geometry": {"coordinates":[-79.849301,38.92511],"type":"Point"}
+}

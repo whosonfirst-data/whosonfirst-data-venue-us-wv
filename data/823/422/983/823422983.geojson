@@ -1,0 +1,71 @@
+{
+  "id": 823422983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.747205,38.370097,-81.747205,38.370097",
+    "geom:latitude":38.370097,
+    "geom:longitude":-81.747205,
+    "iso:country":"US",
+    "sg:address":"2317 Fairlawn Ave",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 0143",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IotV9YmSbyQZfbDzDLrEd_38.370097_-81.747205@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433577,
+    "wof:geomhash":"ad6358c2e737ec795eb296fcddb8fbf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823422983
+        }
+    ],
+    "wof:id":823422983,
+    "wof:lastmodified":1463433577,
+    "wof:name":"Economy Laundry Of Dunbar",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -81.747205,
+    38.370097,
+    -81.747205,
+    38.370097
+],
+  "geometry": {"coordinates":[-81.74720499999999,38.370097],"type":"Point"}
+}

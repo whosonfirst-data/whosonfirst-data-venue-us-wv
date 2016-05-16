@@ -1,0 +1,71 @@
+{
+  "id": 823437593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.434288,38.220364,-81.434288,38.220364",
+    "geom:latitude":38.220364,
+    "geom:longitude":-81.434288,
+    "iso:country":"US",
+    "sg:address":"302 Alexander St",
+    "sg:city":"Cedar Grove",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 595 1841",
+    "sg:postcode":"25015",
+    "sg:province":"WV",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uW2TljIt8H859iZbiggUH_38.220364_-81.434288@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434262,
+    "wof:geomhash":"cfcf48c62ed24a310f6028a8dcf3bc05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823437593
+        }
+    ],
+    "wof:id":823437593,
+    "wof:lastmodified":1463434262,
+    "wof:name":"Town Of Cedar Grove",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -81.434288,
+    38.220364,
+    -81.434288,
+    38.220364
+],
+  "geometry": {"coordinates":[-81.434288,38.220364],"type":"Point"}
+}

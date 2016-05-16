@@ -1,0 +1,71 @@
+{
+  "id": 823366463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.320979,38.398507,-82.320979,38.398507",
+    "geom:latitude":38.398507,
+    "geom:longitude":-82.320979,
+    "iso:country":"US",
+    "sg:address":"5 Campview Dr",
+    "sg:city":"Barboursville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 416 1234",
+    "sg:postcode":"25504",
+    "sg:province":"WV",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85865435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sajAxV2xs6I7vjmQQAEJE_38.398507_-82.320979@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431037,
+    "wof:geomhash":"4121a1e915ea2a8110e0ea89352f990d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85865435,
+            "region_id":85688589,
+            "venue_id":823366463
+        }
+    ],
+    "wof:id":823366463,
+    "wof:lastmodified":1463431037,
+    "wof:name":"Aqua Wash Of West Virginia",
+    "wof:parent_id":85865435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -82.320979,
+    38.398507,
+    -82.320979,
+    38.398507
+],
+  "geometry": {"coordinates":[-82.32097899999999,38.398507],"type":"Point"}
+}

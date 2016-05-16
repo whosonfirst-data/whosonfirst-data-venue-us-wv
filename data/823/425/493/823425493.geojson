@@ -1,0 +1,69 @@
+{
+  "id": 823425493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.992724,37.847674,-81.992724,37.847674",
+    "geom:latitude":37.847674,
+    "geom:longitude":-81.992724,
+    "iso:country":"US",
+    "sg:address":"122 Stratton St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 752 3800",
+    "sg:postcode":"25601",
+    "sg:province":"WV",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868319,
+        102083369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bpC9FVNnTW9qiCr86gxUr_37.847674_-81.992724@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433678,
+    "wof:geomhash":"34d1f7dd02cf1e99025c309e55c16220",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083369,
+            "neighbourhood_id":85868319,
+            "region_id":85688589,
+            "venue_id":823425493
+        }
+    ],
+    "wof:id":823425493,
+    "wof:lastmodified":1463433678,
+    "wof:name":"Queen City Taxi",
+    "wof:parent_id":85868319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -81.992724,
+    37.847674,
+    -81.992724,
+    37.847674
+],
+  "geometry": {"coordinates":[-81.992724,37.847674],"type":"Point"}
+}

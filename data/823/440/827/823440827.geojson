@@ -1,0 +1,73 @@
+{
+  "id": 823440827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.136543,38.838135,-82.136543,38.838135",
+    "geom:latitude":38.838135,
+    "geom:longitude":-82.136543,
+    "iso:country":"US",
+    "sg:address":"31 Water St",
+    "sg:city":"Salt Rock",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 736 6315",
+    "sg:postcode":"25550",
+    "sg:province":"WV",
+    "sg:tags":[
+        "water",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85983229,
+        102083675,
+        85824533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RbhXnc2vIjB2t9rS22cAj_38.838135_-82.136543@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434401,
+    "wof:geomhash":"50f46a1f9662e35d047785c365e0a823",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "neighbourhood_id":85824533,
+            "region_id":85688485,
+            "venue_id":823440827
+        }
+    ],
+    "wof:id":823440827,
+    "wof:lastmodified":1463434401,
+    "wof:name":"West Virginia-American Wtr Co",
+    "wof:parent_id":85824533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "utility"
+    ]
+},
+  "bbox": [
+    -82.136543,
+    38.838135,
+    -82.136543,
+    38.838135
+],
+  "geometry": {"coordinates":[-82.136543,38.838135],"type":"Point"}
+}

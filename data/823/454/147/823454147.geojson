@@ -1,0 +1,74 @@
+{
+  "id": 823454147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.849461,38.926595,-79.849461,38.926595",
+    "geom:latitude":38.926595,
+    "geom:longitude":-79.849461,
+    "iso:country":"US",
+    "sg:address":"425 Davis Ave",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/leadsville/83508-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 637 7200",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dMkrdjgrrGmQL6hrrwdr1_38.927170_-79.849514@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463435002,
+    "wof:geomhash":"7d65c457180bfc58282046283f2eb005",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823454147
+        }
+    ],
+    "wof:id":823454147,
+    "wof:lastmodified":1463435002,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -79.849461,
+    38.926595,
+    -79.849461,
+    38.926595
+],
+  "geometry": {"coordinates":[-79.84946100000001,38.926595],"type":"Point"}
+}

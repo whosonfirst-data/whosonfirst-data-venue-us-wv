@@ -1,0 +1,75 @@
+{
+  "id": 823382445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.4651,39.041343,-80.4651,39.041343",
+    "geom:latitude":39.041343,
+    "geom:longitude":-80.4651,
+    "iso:country":"US",
+    "sg:address":"207 Water Ave",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 269 5799",
+    "sg:postcode":"26452",
+    "sg:province":"WV",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731403,
+        102083339,
+        85808257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zUNDUnY4VO4fLwM6IANPb_39.041343_-80.465100@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431754,
+    "wof:geomhash":"f36653e2108f6bc5c8efed767fa5d959",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083339,
+            "locality_id":101731403,
+            "neighbourhood_id":85808257,
+            "region_id":85688589,
+            "venue_id":823382445
+        }
+    ],
+    "wof:id":823382445,
+    "wof:lastmodified":1463431754,
+    "wof:name":"Doggy Den",
+    "wof:parent_id":85808257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -80.4651,
+    39.041343,
+    -80.4651,
+    39.041343
+],
+  "geometry": {"coordinates":[-80.46510000000001,39.041343],"type":"Point"}
+}

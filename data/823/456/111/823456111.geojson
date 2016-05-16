@@ -1,0 +1,79 @@
+{
+  "id": 823456111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.706859,40.074914,-80.706859,40.074914",
+    "geom:latitude":40.074914,
+    "geom:longitude":-80.706859,
+    "iso:country":"US",
+    "sg:address":"617 Fulton St",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 233 7866",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85820833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uHzcedrOjxu8bfroPCNF3_40.074914_-80.706859@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435100,
+    "wof:geomhash":"fa595f77ea32f0f18169d4d9a0146f70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85820833,
+            "region_id":85688589,
+            "venue_id":823456111
+        }
+    ],
+    "wof:id":823456111,
+    "wof:lastmodified":1463435100,
+    "wof:name":"The Auto Shop",
+    "wof:parent_id":85820833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [
+    -80.706859,
+    40.074914,
+    -80.706859,
+    40.074914
+],
+  "geometry": {"coordinates":[-80.70685899999999,40.074914],"type":"Point"}
+}

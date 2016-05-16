@@ -1,0 +1,71 @@
+{
+  "id": 823381685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.294273,37.798321,-80.294273,37.798321",
+    "geom:latitude":37.798321,
+    "geom:longitude":-80.294273,
+    "iso:country":"US",
+    "sg:address":"410 E Main St",
+    "sg:city":"White Slphr Spgs",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 536 2144",
+    "sg:postcode":"24986",
+    "sg:province":"WV",
+    "sg:tags":[
+        "government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GWqvQiVkWYKhFgMBcWAZD_37.798321_-80.294273@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431720,
+    "wof:geomhash":"5a3d077be58d36b569f1fbed64f9863b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823381685
+        }
+    ],
+    "wof:id":823381685,
+    "wof:lastmodified":1463431720,
+    "wof:name":"US Forest Svc Ranger Station",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government"
+    ]
+},
+  "bbox": [
+    -80.294273,
+    37.798321,
+    -80.294273,
+    37.798321
+],
+  "geometry": {"coordinates":[-80.294273,37.798321],"type":"Point"}
+}

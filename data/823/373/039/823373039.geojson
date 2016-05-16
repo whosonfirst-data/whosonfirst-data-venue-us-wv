@@ -1,0 +1,75 @@
+{
+  "id": 823373039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.652921,38.363965,-81.652921,38.363965",
+    "geom:latitude":38.363965,
+    "geom:longitude":-81.652921,
+    "iso:country":"US",
+    "sg:address":"710 Central Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 558 2881",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "govt",
+        "state",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69QSJi8e85UjZDr0vT2oFi_38.363965_-81.652921@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431323,
+    "wof:geomhash":"b519583586dd449799816491b558f180",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823373039
+        }
+    ],
+    "wof:id":823373039,
+    "wof:lastmodified":1463431323,
+    "wof:name":"Public Service Commission",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "utility"
+    ]
+},
+  "bbox": [
+    -81.652921,
+    38.363965,
+    -81.652921,
+    38.363965
+],
+  "geometry": {"coordinates":[-81.65292100000001,38.363965],"type":"Point"}
+}

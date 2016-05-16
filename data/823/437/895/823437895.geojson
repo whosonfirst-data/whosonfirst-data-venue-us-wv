@@ -1,0 +1,73 @@
+{
+  "id": 823437895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.740319,38.347311,-81.740319,38.347311",
+    "geom:latitude":38.347311,
+    "geom:longitude":-81.740319,
+    "iso:country":"US",
+    "sg:address":"905 Overlook Way",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 766 7788",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gDxLo4OlGQ51YqH4NpjOu_38.347311_-81.740319@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434275,
+    "wof:geomhash":"84ba28a3c093e4212a11f220314184d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823437895
+        }
+    ],
+    "wof:id":823437895,
+    "wof:lastmodified":1463434275,
+    "wof:name":"Mac Corkle Plumbing & Piping",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.740319,
+    38.347311,
+    -81.740319,
+    38.347311
+],
+  "geometry": {"coordinates":[-81.740319,38.347311],"type":"Point"}
+}

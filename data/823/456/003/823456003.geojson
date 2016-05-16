@@ -1,0 +1,74 @@
+{
+  "id": 823456003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.008903,37.845643,-82.008903,37.845643",
+    "geom:latitude":37.845643,
+    "geom:longitude":-82.008903,
+    "iso:country":"US",
+    "sg:address":"325 Riverview Ave",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 752 1006",
+    "sg:postcode":"25601",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868319,
+        102083369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31x29PLRH6jTgZpgkXNOTF_37.845643_-82.008903@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435096,
+    "wof:geomhash":"c8871a3c424fbecd1c6795a43d9c6e11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083369,
+            "neighbourhood_id":85868319,
+            "region_id":85688589,
+            "venue_id":823456003
+        }
+    ],
+    "wof:id":823456003,
+    "wof:lastmodified":1463435096,
+    "wof:name":"Sports Lounge",
+    "wof:parent_id":85868319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -82.008903,
+    37.845643,
+    -82.008903,
+    37.845643
+],
+  "geometry": {"coordinates":[-82.008903,37.845643],"type":"Point"}
+}

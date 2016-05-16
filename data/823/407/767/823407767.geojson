@@ -1,0 +1,71 @@
+{
+  "id": 823407767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.040901,39.342667,-80.040901,39.342667",
+    "geom:latitude":39.342667,
+    "geom:longitude":-80.040901,
+    "iso:country":"US",
+    "sg:address":"918 W Main St",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 265 2225",
+    "sg:postcode":"26354",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731717,
+        102083351,
+        85855577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ohOXOmbLKADWLncBmyEt6_39.342667_-80.040901@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432935,
+    "wof:geomhash":"687d309ea53ac04566d865afa5928d03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083351,
+            "locality_id":101731717,
+            "neighbourhood_id":85855577,
+            "region_id":85688589,
+            "venue_id":823407767
+        }
+    ],
+    "wof:id":823407767,
+    "wof:lastmodified":1463432935,
+    "wof:name":"Patsy's Styling Station",
+    "wof:parent_id":85855577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -80.040901,
+    39.342667,
+    -80.040901,
+    39.342667
+],
+  "geometry": {"coordinates":[-80.04090100000001,39.342667],"type":"Point"}
+}

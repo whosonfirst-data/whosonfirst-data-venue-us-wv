@@ -1,0 +1,73 @@
+{
+  "id": 823388669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.090102,37.369124,-81.090102,37.369124",
+    "geom:latitude":37.369124,
+    "geom:longitude":-81.090102,
+    "iso:country":"US",
+    "sg:address":"501 Harrison St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 3766",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LIKOOU9M5L9tNJYlqQgyW_37.369124_-81.090102@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432013,
+    "wof:geomhash":"c2d87476dd95c22d605049b3fe1b5eaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823388669
+        }
+    ],
+    "wof:id":823388669,
+    "wof:lastmodified":1463432013,
+    "wof:name":"Wyoming County Senior Citizens",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -81.090102,
+    37.369124,
+    -81.090102,
+    37.369124
+],
+  "geometry": {"coordinates":[-81.090102,37.369124],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823446439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.739695,38.344403,-81.739695,38.344403",
+    "geom:latitude":38.344403,
+    "geom:longitude":-81.739695,
+    "iso:country":"US",
+    "sg:address":"1204 Crown Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 766 8838",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nLlv8iFFMoydJ2OMv1VUv_38.344403_-81.739695@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434670,
+    "wof:geomhash":"0845080b726ce1f5702d52c4a2cab001",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823446439
+        }
+    ],
+    "wof:id":823446439,
+    "wof:lastmodified":1463434670,
+    "wof:name":"Essence Hair Salon",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.739695,
+    38.344403,
+    -81.739695,
+    38.344403
+],
+  "geometry": {"coordinates":[-81.739695,38.344403],"type":"Point"}
+}

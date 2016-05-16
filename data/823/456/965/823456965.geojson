@@ -1,0 +1,84 @@
+{
+  "id": 823456965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.612988,40.272854,-80.612988,40.272854",
+    "geom:latitude":40.272854,
+    "geom:longitude":-80.612988,
+    "iso:country":"US",
+    "sg:address":"100 10th St",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 3371",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "fire",
+        "property",
+        "commercial",
+        "casualty",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XIDplt7MU0XnDUoOlsYlq_40.272854_-80.612988@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435136,
+    "wof:geomhash":"0e152feb66168e1cbf9bc3096792b27f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823456965
+        }
+    ],
+    "wof:id":823456965,
+    "wof:lastmodified":1463435136,
+    "wof:name":"Municipal Mutual Insurance Co",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "property",
+        "commercial",
+        "casualty",
+        "business"
+    ]
+},
+  "bbox": [
+    -80.612988,
+    40.272854,
+    -80.612988,
+    40.272854
+],
+  "geometry": {"coordinates":[-80.612988,40.272854],"type":"Point"}
+}

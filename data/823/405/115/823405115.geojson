@@ -1,0 +1,73 @@
+{
+  "id": 823405115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.119888,39.473119,-80.119888,39.473119",
+    "geom:latitude":39.473119,
+    "geom:longitude":-80.119888,
+    "iso:country":"US",
+    "sg:address":"950 Vista Ln",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 1312",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EAF7uwYQmj8b0bu3K9Kkt_39.473119_-80.119888@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432816,
+    "wof:geomhash":"2c59219f189ad7a473b1690a2fdeebe1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823405115
+        }
+    ],
+    "wof:id":823405115,
+    "wof:lastmodified":1463432816,
+    "wof:name":"Stewart's Mobile Home Sales",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.119888,
+    39.473119,
+    -80.119888,
+    39.473119
+],
+  "geometry": {"coordinates":[-80.119888,39.473119],"type":"Point"}
+}

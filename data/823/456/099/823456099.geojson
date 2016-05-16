@@ -1,0 +1,83 @@
+{
+  "id": 823456099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.887591,37.674867,-80.887591,37.674867",
+    "geom:latitude":37.674867,
+    "geom:longitude":-80.887591,
+    "iso:country":"US",
+    "sg:address":"322 5th Ave",
+    "sg:city":"Hinton",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 466 3352",
+    "sg:postcode":"25951",
+    "sg:province":"WV",
+    "sg:tags":[
+        "churches-episcopal-anglican",
+        "churches-episcopal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731641,
+        102083407,
+        85804037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2z1DkiDo6RZnQv6av2UNW5_37.674867_-80.887591@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435099,
+    "wof:geomhash":"bf6fa5e040d61a037473bd48ef6fff16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083407,
+            "locality_id":101731641,
+            "neighbourhood_id":85804037,
+            "region_id":85688589,
+            "venue_id":823456099
+        }
+    ],
+    "wof:id":823456099,
+    "wof:lastmodified":1463435099,
+    "wof:name":"Episcopal Church",
+    "wof:parent_id":85804037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-episcopal-anglican",
+        "churches-episcopal"
+    ]
+},
+  "bbox": [
+    -80.887591,
+    37.674867,
+    -80.887591,
+    37.674867
+],
+  "geometry": {"coordinates":[-80.887591,37.674867],"type":"Point"}
+}

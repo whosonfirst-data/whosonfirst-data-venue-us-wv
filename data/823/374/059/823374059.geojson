@@ -1,0 +1,75 @@
+{
+  "id": 823374059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.612033,40.271256,-80.612033,40.271256",
+    "geom:latitude":40.271256,
+    "geom:longitude":-80.612033,
+    "iso:country":"US",
+    "sg:address":"838 Charles St",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 0600",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_646qlpT3XNj5pQIXoBCMPa_40.271256_-80.612033@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431361,
+    "wof:geomhash":"aa3f344aad31c053727a7c6a83e9ed64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823374059
+        }
+    ],
+    "wof:id":823374059,
+    "wof:lastmodified":1463431361,
+    "wof:name":"Pampered Pups",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -80.612033,
+    40.271256,
+    -80.612033,
+    40.271256
+],
+  "geometry": {"coordinates":[-80.612033,40.271256],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823457363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.934625,39.654285,-79.934625,39.654285",
+    "geom:latitude":39.654285,
+    "geom:longitude":-79.934625,
+    "iso:country":"US",
+    "sg:address":"1325 Stewartstown Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 4843",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731747,
+        102082587,
+        85819247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lZAgf4TIOgn9UYsOQfPiu_39.654285_-79.934625@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435156,
+    "wof:geomhash":"1616fcb256c5359b7a277181348d4111",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85819247,
+            "region_id":85688589,
+            "venue_id":823457363
+        }
+    ],
+    "wof:id":823457363,
+    "wof:lastmodified":1463435156,
+    "wof:name":"Bon Vista Villas",
+    "wof:parent_id":85819247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -79.934625,
+    39.654285,
+    -79.934625,
+    39.654285
+],
+  "geometry": {"coordinates":[-79.934625,39.654285],"type":"Point"}
+}

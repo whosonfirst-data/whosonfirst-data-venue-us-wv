@@ -1,0 +1,71 @@
+{
+  "id": 823423159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.567702,38.316781,-81.567702,38.316781",
+    "geom:latitude":38.316781,
+    "geom:longitude":-81.567702,
+    "iso:country":"US",
+    "sg:address":"5500 Virginia Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 4933",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uRCUy4A4u47smbEw0bGFR_38.316781_-81.567702@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433583,
+    "wof:geomhash":"dea4c2aa63b55976f16e36eedbcc0be9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823423159
+        }
+    ],
+    "wof:id":823423159,
+    "wof:lastmodified":1463433583,
+    "wof:name":"Theresas Country Cupboard",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -81.567702,
+    38.316781,
+    -81.567702,
+    38.316781
+],
+  "geometry": {"coordinates":[-81.567702,38.316781],"type":"Point"}
+}

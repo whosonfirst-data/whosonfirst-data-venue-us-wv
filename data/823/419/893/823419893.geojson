@@ -1,0 +1,79 @@
+{
+  "id": 823419893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.89398,38.530779,-81.89398,38.530779",
+    "geom:latitude":38.530779,
+    "geom:longitude":-81.89398,
+    "iso:country":"US",
+    "sg:address":"42 Country Ln",
+    "sg:city":"Mason",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 773 5454",
+    "sg:postcode":"25213",
+    "sg:province":"WV",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731321,
+        102083381,
+        85868329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fPqW3bNOhPnq3CycZUY0A_38.530779_-81.893980@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433458,
+    "wof:geomhash":"5629540b158f56a3b9a630ec4e62beb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731321,
+            "neighbourhood_id":85868329,
+            "region_id":85688589,
+            "venue_id":823419893
+        }
+    ],
+    "wof:id":823419893,
+    "wof:lastmodified":1463433458,
+    "wof:name":"Movie Gallery",
+    "wof:parent_id":85868329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -81.89398,
+    38.530779,
+    -81.89398,
+    38.530779
+],
+  "geometry": {"coordinates":[-81.89398,38.530779],"type":"Point"}
+}

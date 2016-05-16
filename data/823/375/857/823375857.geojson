@@ -1,0 +1,73 @@
+{
+  "id": 823375857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.987962,39.434508,-77.987962,39.434508",
+    "geom:latitude":39.434508,
+    "geom:longitude":-77.987962,
+    "iso:country":"US",
+    "sg:address":"1337 Ridge Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 754 9000",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44L3rfdX6Kbsjpkjuc4eqx_39.434508_-77.987962@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431451,
+    "wof:geomhash":"bc17bf78d464261cc46fc30b5f541006",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823375857
+        }
+    ],
+    "wof:id":823375857,
+    "wof:lastmodified":1463431451,
+    "wof:name":"Advantage Excavating",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -77.987962,
+    39.434508,
+    -77.987962,
+    39.434508
+],
+  "geometry": {"coordinates":[-77.987962,39.434508],"type":"Point"}
+}

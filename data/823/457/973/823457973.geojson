@@ -1,0 +1,86 @@
+{
+  "id": 823457973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.951183,39.685408,-79.951183,39.685408",
+    "geom:latitude":39.685408,
+    "geom:longitude":-79.951183,
+    "iso:country":"US",
+    "sg:address":"676 Fort Martin Rd",
+    "sg:city":"Maidsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 7712",
+    "sg:postcode":"26541",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cleaner",
+        "plumber",
+        "industrial",
+        "repairer",
+        "sewer",
+        "contractors-commercial",
+        "plumbing-drain"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wOuw8eyJZZh4K6LdscEhr_39.685408_-79.951183@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435190,
+    "wof:geomhash":"3c3771e3f87cee3693503ad2cf53d0d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823457973
+        }
+    ],
+    "wof:id":823457973,
+    "wof:lastmodified":1463435190,
+    "wof:name":"Bob's Plumbing",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "plumber",
+        "industrial",
+        "repairer",
+        "sewer",
+        "contractors-commercial",
+        "plumbing-drain"
+    ]
+},
+  "bbox": [
+    -79.951183,
+    39.685408,
+    -79.951183,
+    39.685408
+],
+  "geometry": {"coordinates":[-79.951183,39.685408],"type":"Point"}
+}

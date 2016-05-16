@@ -1,0 +1,76 @@
+{
+  "id": 823453053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.219004,37.792264,-81.219004,37.792264",
+    "geom:latitude":37.792264,
+    "geom:longitude":-81.219004,
+    "iso:country":"US",
+    "sg:address":"156 Harper Park Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/mcalpin/67899-foxs-pizza-den/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 252 6475",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7F750gopQeF6e5gSgyDw7G_37.792264_-81.219004@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434931,
+    "wof:geomhash":"73d7c1b1a19066087f76c4bf9481b7f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823453053
+        }
+    ],
+    "wof:id":823453053,
+    "wof:lastmodified":1463434931,
+    "wof:name":"Fox's Pizza Den",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -81.219004,
+    37.792264,
+    -81.219004,
+    37.792264
+],
+  "geometry": {"coordinates":[-81.219004,37.792264],"type":"Point"}
+}

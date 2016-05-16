@@ -1,0 +1,71 @@
+{
+  "id": 823390105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.526836,39.24668,-81.526836,39.24668",
+    "geom:latitude":39.24668,
+    "geom:longitude":-81.526836,
+    "iso:country":"US",
+    "sg:address":"100 Broadway Ave",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 485 5581",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hsVq1zl8KSojieOq46Xxy_39.246680_-81.526836@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432081,
+    "wof:geomhash":"fa8b276a1fd1202f5c45b48d71b7d977",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823390105
+        }
+    ],
+    "wof:id":823390105,
+    "wof:lastmodified":1463432081,
+    "wof:name":"Yellow Taxi",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    -81.526836,
+    39.24668,
+    -81.526836,
+    39.24668
+],
+  "geometry": {"coordinates":[-81.526836,39.24668],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823408631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.666158,38.423893,-81.666158,38.423893",
+    "geom:latitude":38.423893,
+    "geom:longitude":-81.666158,
+    "iso:country":"US",
+    "sg:address":"134 Jenkins Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 344 1996",
+    "sg:postcode":"25312",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eHu6fIJp4u4RE5zP7MEZM_38.423893_-81.666158@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432971,
+    "wof:geomhash":"0db477e9d3c33e131d17fb6a2aaf5592",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823408631
+        }
+    ],
+    "wof:id":823408631,
+    "wof:lastmodified":1463432971,
+    "wof:name":"Bethany Freewill Baptist Chr",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.666158,
+    38.423893,
+    -81.666158,
+    38.423893
+],
+  "geometry": {"coordinates":[-81.666158,38.423893],"type":"Point"}
+}

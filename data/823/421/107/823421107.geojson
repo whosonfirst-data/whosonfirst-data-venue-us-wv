@@ -1,0 +1,71 @@
+{
+  "id": 823421107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.033953,39.160482,-80.033953,39.160482",
+    "geom:latitude":39.160482,
+    "geom:longitude":-80.033953,
+    "iso:country":"US",
+    "sg:address":"601 Maple Ave",
+    "sg:city":"Philippi",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 457 1666",
+    "sg:postcode":"26416",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79b490HqIjKdPNN3rfV1Qk_39.160482_-80.033953@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433509,
+    "wof:geomhash":"0fe6792aa19c3e4d1792fae9698aadb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823421107
+        }
+    ],
+    "wof:id":823421107,
+    "wof:lastmodified":1463433509,
+    "wof:name":"Maple Terrace Apartments",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -80.033953,
+    39.160482,
+    -80.033953,
+    39.160482
+],
+  "geometry": {"coordinates":[-80.033953,39.160482],"type":"Point"}
+}

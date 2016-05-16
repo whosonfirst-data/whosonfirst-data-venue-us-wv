@@ -1,0 +1,84 @@
+{
+  "id": 823457801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.966593,39.586252,-79.966593,39.586252",
+    "geom:latitude":39.586252,
+    "geom:longitude":-79.966593,
+    "iso:country":"US",
+    "sg:address":"250 Scott Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 4443",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "auto",
+        "renter",
+        "homeowner"
+    ],
+    "sg:website":"http://www.bowersscott.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45BQ3Lr73jLmMHJTK2ZDn2_39.586252_-79.966593@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435182,
+    "wof:geomhash":"ab534ec3a71c84838324ef1251595bfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823457801
+        }
+    ],
+    "wof:id":823457801,
+    "wof:lastmodified":1463435182,
+    "wof:name":"Bowers, Delbert",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "renter",
+        "homeowner"
+    ]
+},
+  "bbox": [
+    -79.966593,
+    39.586252,
+    -79.966593,
+    39.586252
+],
+  "geometry": {"coordinates":[-79.966593,39.586252],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823418527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.486222,38.4306,-81.486222,38.4306",
+    "geom:latitude":38.4306,
+    "geom:longitude":-81.486222,
+    "iso:country":"US",
+    "sg:address":"2026 Waters Edge Dr",
+    "sg:city":"Elkview",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 965 7514",
+    "sg:postcode":"25071",
+    "sg:province":"WV",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2S3OyCVChmHT1ZIC9IOgaE_38.430600_-81.486222@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433408,
+    "wof:geomhash":"cc4a2222f7716ddcdc290d1aa23ec7a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823418527
+        }
+    ],
+    "wof:id":823418527,
+    "wof:lastmodified":1463433408,
+    "wof:name":"Mollohan Auto Body Inc",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -81.486222,
+    38.4306,
+    -81.486222,
+    38.4306
+],
+  "geometry": {"coordinates":[-81.486222,38.4306],"type":"Point"}
+}

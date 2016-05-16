@@ -1,0 +1,75 @@
+{
+  "id": 823414449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.987911,39.456596,-77.987911,39.456596",
+    "geom:latitude":39.456596,
+    "geom:longitude":-77.987911,
+    "iso:country":"US",
+    "sg:address":"786 Foxcroft Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 264 8616",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "video",
+        "tape",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I8QFnKWNyRpHlrqTXGNNI_39.456596_-77.987911@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433203,
+    "wof:geomhash":"a5123eb87dd92b751851125890b7711a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823414449
+        }
+    ],
+    "wof:id":823414449,
+    "wof:lastmodified":1463433203,
+    "wof:name":"Blockbuster",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape",
+        "store"
+    ]
+},
+  "bbox": [
+    -77.987911,
+    39.456596,
+    -77.987911,
+    39.456596
+],
+  "geometry": {"coordinates":[-77.987911,39.456596],"type":"Point"}
+}

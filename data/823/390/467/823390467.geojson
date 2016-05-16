@@ -1,0 +1,71 @@
+{
+  "id": 823390467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.557856,38.298359,-81.557856,38.298359",
+    "geom:latitude":38.298359,
+    "geom:longitude":-81.557856,
+    "iso:country":"US",
+    "sg:address":"4406 Malden Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 6637",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eLFpgAxbTuwKaZNhdnJDF_38.298359_-81.557856@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432099,
+    "wof:geomhash":"60d380ab59187ee83fe0a6e3c3ae29dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823390467
+        }
+    ],
+    "wof:id":823390467,
+    "wof:lastmodified":1463432099,
+    "wof:name":"James H Coleman",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -81.557856,
+    38.298359,
+    -81.557856,
+    38.298359
+],
+  "geometry": {"coordinates":[-81.557856,38.298359],"type":"Point"}
+}

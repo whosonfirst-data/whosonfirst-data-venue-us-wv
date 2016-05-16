@@ -1,0 +1,78 @@
+{
+  "id": 823402993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.722095,38.392345,-81.722095,38.392345",
+    "geom:latitude":38.392345,
+    "geom:longitude":-81.722095,
+    "iso:country":"US",
+    "sg:address":"4411 Washington St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 746 9495",
+    "sg:postcode":"25313",
+    "sg:province":"WV",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0N9OW1CylwYtZpfKlvzk0X_38.392345_-81.722095@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432711,
+    "wof:geomhash":"b0fc99d237fc606f3b7741ff1a8c22a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823402993
+        }
+    ],
+    "wof:id":823402993,
+    "wof:lastmodified":1463432711,
+    "wof:name":"Marion's Auto & Appraisal",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -81.722095,
+    38.392345,
+    -81.722095,
+    38.392345
+],
+  "geometry": {"coordinates":[-81.722095,38.392345],"type":"Point"}
+}

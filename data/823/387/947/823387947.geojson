@@ -1,0 +1,73 @@
+{
+  "id": 823387947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.795822,38.381626,-81.795822,38.381626",
+    "geom:latitude":38.381626,
+    "geom:longitude":-81.795822,
+    "iso:country":"US",
+    "sg:address":"102 Spruce St",
+    "sg:city":"Saint Albans",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 727 1761",
+    "sg:postcode":"25177",
+    "sg:province":"WV",
+    "sg:tags":[
+        "station",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731773,
+        102083335,
+        85840775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58M61DEBbUs1V00FUIEqlZ_38.381626_-81.795822@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431962,
+    "wof:geomhash":"0a0ec9e47776f08df9c77a68dde861da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731773,
+            "neighbourhood_id":85840775,
+            "region_id":85688589,
+            "venue_id":823387947
+        }
+    ],
+    "wof:id":823387947,
+    "wof:lastmodified":1463431962,
+    "wof:name":"Go-Mart 75",
+    "wof:parent_id":85840775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gas"
+    ]
+},
+  "bbox": [
+    -81.795822,
+    38.381626,
+    -81.795822,
+    38.381626
+],
+  "geometry": {"coordinates":[-81.795822,38.381626],"type":"Point"}
+}

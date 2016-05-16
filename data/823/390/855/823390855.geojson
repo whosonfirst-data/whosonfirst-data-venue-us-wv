@@ -1,0 +1,71 @@
+{
+  "id": 823390855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.979255,37.842746,-81.979255,37.842746",
+    "geom:latitude":37.842746,
+    "geom:longitude":-81.979255,
+    "iso:country":"US",
+    "sg:address":"720 Stratton St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 752 7422",
+    "sg:postcode":"25601",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868319,
+        102083369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Q7osuZRIas9CQidfa4jx1_37.842746_-81.979255@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432115,
+    "wof:geomhash":"59311d5c7aba54db5abbd16f9582b160",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083369,
+            "neighbourhood_id":85868319,
+            "region_id":85688589,
+            "venue_id":823390855
+        }
+    ],
+    "wof:id":823390855,
+    "wof:lastmodified":1463432115,
+    "wof:name":"Conley Electric Co",
+    "wof:parent_id":85868319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.979255,
+    37.842746,
+    -81.979255,
+    37.842746
+],
+  "geometry": {"coordinates":[-81.97925499999999,37.842746],"type":"Point"}
+}

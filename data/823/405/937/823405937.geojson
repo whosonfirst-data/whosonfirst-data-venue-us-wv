@@ -1,0 +1,68 @@
+{
+  "id": 823405937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.645169,38.355626,-81.645169,38.355626",
+    "geom:latitude":38.355626,
+    "geom:longitude":-81.645169,
+    "iso:country":"US",
+    "sg:address":"1 Monongalia St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Labor Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 9641",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MUZENDLG4TrRpWpKvmiiv_38.355626_-81.645169@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432856,
+    "wof:geomhash":"e6778328ba2bf7781f8eea658ea3f7de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823405937
+        }
+    ],
+    "wof:id":823405937,
+    "wof:lastmodified":1463432856,
+    "wof:name":"Laborers Local",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.645169,
+    38.355626,
+    -81.645169,
+    38.355626
+],
+  "geometry": {"coordinates":[-81.645169,38.355626],"type":"Point"}
+}

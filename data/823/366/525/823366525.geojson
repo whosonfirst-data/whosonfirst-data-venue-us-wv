@@ -1,0 +1,73 @@
+{
+  "id": 823366525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.188176,37.778649,-81.188176,37.778649",
+    "geom:latitude":37.778649,
+    "geom:longitude":-81.188176,
+    "iso:country":"US",
+    "sg:address":"103 N Kanawha St",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 255 0561",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Zc2UO81ifuIu3tiZYvL3a_37.778649_-81.188176@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431040,
+    "wof:geomhash":"3cac1103a7cd86c5994bf2bd9ce24f01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823366525
+        }
+    ],
+    "wof:id":823366525,
+    "wof:lastmodified":1463431040,
+    "wof:name":"Legal Aid of West Virginia",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -81.188176,
+    37.778649,
+    -81.188176,
+    37.778649
+],
+  "geometry": {"coordinates":[-81.188176,37.778649],"type":"Point"}
+}

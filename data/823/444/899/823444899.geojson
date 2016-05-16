@@ -1,0 +1,71 @@
+{
+  "id": 823444899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.102424,37.366778,-81.102424,37.366778",
+    "geom:latitude":37.366778,
+    "geom:longitude":-81.102424,
+    "iso:country":"US",
+    "sg:address":"1625 N Walker St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 0652",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "accident"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AR37xjrl62x3Ds3LDIl59_37.366778_-81.102424@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434588,
+    "wof:geomhash":"3eb9b9df5b5ef0248a8032f52ba5ccfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823444899
+        }
+    ],
+    "wof:id":823444899,
+    "wof:lastmodified":1463434588,
+    "wof:name":"Kephart Enterprise",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accident"
+    ]
+},
+  "bbox": [
+    -81.102424,
+    37.366778,
+    -81.102424,
+    37.366778
+],
+  "geometry": {"coordinates":[-81.102424,37.366778],"type":"Point"}
+}

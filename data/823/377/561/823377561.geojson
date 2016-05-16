@@ -1,0 +1,71 @@
+{
+  "id": 823377561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.560637,39.282917,-80.560637,39.282917",
+    "geom:latitude":39.282917,
+    "geom:longitude":-80.560637,
+    "iso:country":"US",
+    "sg:address":"147 W Main St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 782 1400",
+    "sg:postcode":"26426",
+    "sg:province":"WV",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85810773,
+        102082619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mxxdMOJUtoUjjDpT4gwML_39.282917_-80.560637@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431538,
+    "wof:geomhash":"11a491b7e087a8a2bc289f143946c47c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "neighbourhood_id":85810773,
+            "region_id":85688589,
+            "venue_id":823377561
+        }
+    ],
+    "wof:id":823377561,
+    "wof:lastmodified":1463431538,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85810773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -80.560637,
+    39.282917,
+    -80.560637,
+    39.282917
+],
+  "geometry": {"coordinates":[-80.560637,39.282917],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823398613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.241396,38.419727,-82.241396,38.419727",
+    "geom:latitude":38.419727,
+    "geom:longitude":-82.241396,
+    "iso:country":"US",
+    "sg:address":"3304 Maywood Dr",
+    "sg:city":"Ona",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 736 7737",
+    "sg:postcode":"25545",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85816671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hOsuX6zQEBciF8zuYIjmH_38.419727_-82.241396@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432515,
+    "wof:geomhash":"2e688c4598314eb3953b8d8037bd6470",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85816671,
+            "region_id":85688589,
+            "venue_id":823398613
+        }
+    ],
+    "wof:id":823398613,
+    "wof:lastmodified":1463432515,
+    "wof:name":"Dealer Quality Service",
+    "wof:parent_id":85816671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -82.241396,
+    38.419727,
+    -82.241396,
+    38.419727
+],
+  "geometry": {"coordinates":[-82.24139599999999,38.419727],"type":"Point"}
+}

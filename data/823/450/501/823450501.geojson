@@ -1,0 +1,78 @@
+{
+  "id": 823450501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.696259,38.368606,-81.696259,38.368606",
+    "geom:latitude":38.368606,
+    "geom:longitude":-81.696259,
+    "iso:country":"US",
+    "sg:address":"322 7th Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 8485",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "club",
+        "membership"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38mP8TXna5JhOEIxUPBh40_38.368606_-81.696259@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434834,
+    "wof:geomhash":"3440cf2ffc958a3eaf467ab547f80155",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823450501
+        }
+    ],
+    "wof:id":823450501,
+    "wof:lastmodified":1463434834,
+    "wof:name":"South Charleston Athletic Club",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "membership"
+    ]
+},
+  "bbox": [
+    -81.696259,
+    38.368606,
+    -81.696259,
+    38.368606
+],
+  "geometry": {"coordinates":[-81.696259,38.368606],"type":"Point"}
+}

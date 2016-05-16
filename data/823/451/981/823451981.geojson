@@ -1,0 +1,73 @@
+{
+  "id": 823451981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.712235,40.078001,-80.712235,40.078001",
+    "geom:latitude":40.078001,
+    "geom:longitude":-80.712235,
+    "iso:country":"US",
+    "sg:address":"280 Fulton St",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 243 0431",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85820833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jLpsKcB3LX6kM5znYZz0d_40.078281_-80.712766@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463434890,
+    "wof:geomhash":"a30ca1d02c084fe16821f695bbe32b63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85820833,
+            "region_id":85688589,
+            "venue_id":823451981
+        }
+    ],
+    "wof:id":823451981,
+    "wof:lastmodified":1463434890,
+    "wof:name":"Ohio County School",
+    "wof:parent_id":85820833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school"
+    ]
+},
+  "bbox": [
+    -80.712235,
+    40.078001,
+    -80.712235,
+    40.078001
+],
+  "geometry": {"coordinates":[-80.71223500000001,40.078001],"type":"Point"}
+}

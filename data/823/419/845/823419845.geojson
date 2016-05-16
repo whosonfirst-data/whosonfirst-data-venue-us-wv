@@ -1,0 +1,71 @@
+{
+  "id": 823419845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.147485,39.469949,-80.147485,39.469949",
+    "geom:latitude":39.469949,
+    "geom:longitude":-80.147485,
+    "iso:country":"US",
+    "sg:address":"11 10th St",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 368 0902",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Bzn8KUr0tVK2dwOsgjekd_39.469949_-80.147485@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433456,
+    "wof:geomhash":"b3ea5fed4c3c9b16cd59e19b36edf5a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823419845
+        }
+    ],
+    "wof:id":823419845,
+    "wof:lastmodified":1463433456,
+    "wof:name":"Quality Packing & Loading Svc",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -80.147485,
+    39.469949,
+    -80.147485,
+    39.469949
+],
+  "geometry": {"coordinates":[-80.147485,39.469949],"type":"Point"}
+}

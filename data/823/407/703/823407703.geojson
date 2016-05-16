@@ -1,0 +1,73 @@
+{
+  "id": 823407703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.637677,38.350536,-81.637677,38.350536",
+    "geom:latitude":38.350536,
+    "geom:longitude":-81.637677,
+    "iso:country":"US",
+    "sg:address":"503 Virginia St E",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 348 8163",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nuiPF5Po29YXthhOhoKHm_38.350536_-81.637677@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432927,
+    "wof:geomhash":"62bfc81d9f0e2200467228520ef19774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823407703
+        }
+    ],
+    "wof:id":823407703,
+    "wof:lastmodified":1463432927,
+    "wof:name":"Shanklin Parking Garage",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile"
+    ]
+},
+  "bbox": [
+    -81.637677,
+    38.350536,
+    -81.637677,
+    38.350536
+],
+  "geometry": {"coordinates":[-81.637677,38.350536],"type":"Point"}
+}

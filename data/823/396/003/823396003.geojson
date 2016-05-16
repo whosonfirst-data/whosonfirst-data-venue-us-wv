@@ -1,0 +1,73 @@
+{
+  "id": 823396003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.012682,39.665514,-80.012682,39.665514",
+    "geom:latitude":39.665514,
+    "geom:longitude":-80.012682,
+    "iso:country":"US",
+    "sg:address":"245 Breezy Dr",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 3499",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731749,
+        102082587,
+        85807277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xP0SfIUlSFytkl8md8iuk_39.665514_-80.012682@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432375,
+    "wof:geomhash":"71a3df28cdafef091792ffe6700da951",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731749,
+            "neighbourhood_id":85807277,
+            "region_id":85688589,
+            "venue_id":823396003
+        }
+    ],
+    "wof:id":823396003,
+    "wof:lastmodified":1463432375,
+    "wof:name":"Breezy Heights Apartments",
+    "wof:parent_id":85807277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -80.012682,
+    39.665514,
+    -80.012682,
+    39.665514
+],
+  "geometry": {"coordinates":[-80.012682,39.665514],"type":"Point"}
+}

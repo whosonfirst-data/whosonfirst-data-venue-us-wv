@@ -1,0 +1,68 @@
+{
+  "id": 823425649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.381163,37.583015,-81.381163,37.583015",
+    "geom:latitude":37.583015,
+    "geom:longitude":-81.381163,
+    "iso:country":"US",
+    "sg:address":"113 Howard Ave",
+    "sg:city":"Mullens",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 294 8451",
+    "sg:postcode":"25882",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731355,
+        102083379,
+        85838593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Tbbo9YLzqadty6BdHgMA0_37.583015_-81.381163@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433685,
+    "wof:geomhash":"04b1d9c9a7db71310162bcce4e11e67f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083379,
+            "locality_id":101731355,
+            "neighbourhood_id":85838593,
+            "region_id":85688589,
+            "venue_id":823425649
+        }
+    ],
+    "wof:id":823425649,
+    "wof:lastmodified":1463433685,
+    "wof:name":"Coffee Pot",
+    "wof:parent_id":85838593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.381163,
+    37.583015,
+    -81.381163,
+    37.583015
+],
+  "geometry": {"coordinates":[-81.381163,37.583015],"type":"Point"}
+}

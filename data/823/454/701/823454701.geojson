@@ -1,0 +1,73 @@
+{
+  "id": 823454701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.985114,39.458741,-77.985114,39.458741",
+    "geom:latitude":39.458741,
+    "geom:longitude":-77.985114,
+    "iso:country":"US",
+    "sg:address":"404 Holly Ln",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 262 6777",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IqsbJbmzGWgfd6rjwEc0X_39.458741_-77.985114@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435048,
+    "wof:geomhash":"00fdc5f1e2181845db8bd9ddd131f6f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823454701
+        }
+    ],
+    "wof:id":823454701,
+    "wof:lastmodified":1463435048,
+    "wof:name":"Dale Keyser Dr",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -77.985114,
+    39.458741,
+    -77.985114,
+    39.458741
+],
+  "geometry": {"coordinates":[-77.985114,39.458741],"type":"Point"}
+}

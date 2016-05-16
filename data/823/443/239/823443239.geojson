@@ -1,0 +1,73 @@
+{
+  "id": 823443239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.699701,38.338727,-81.699701,38.338727",
+    "geom:latitude":38.338727,
+    "geom:longitude":-81.699701,
+    "iso:country":"US",
+    "sg:address":"1415 Nottingham Rd",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 8463",
+    "sg:postcode":"25314",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical",
+        "expert"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Mo1WaK2Ut5U0hA6voxCjH_38.338727_-81.699701@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434511,
+    "wof:geomhash":"a7e9f3b3ef715613ca90d3b7d2a0cf2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823443239
+        }
+    ],
+    "wof:id":823443239,
+    "wof:lastmodified":1463434511,
+    "wof:name":"Erwin R Chillag",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "expert"
+    ]
+},
+  "bbox": [
+    -81.699701,
+    38.338727,
+    -81.699701,
+    38.338727
+],
+  "geometry": {"coordinates":[-81.699701,38.338727],"type":"Point"}
+}

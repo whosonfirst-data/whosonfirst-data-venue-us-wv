@@ -1,0 +1,73 @@
+{
+  "id": 823443429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.957705,39.627774,-79.957705,39.627774",
+    "geom:latitude":39.627774,
+    "geom:longitude":-79.957705,
+    "iso:country":"US",
+    "sg:address":"75 High St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 284 4860",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "federal",
+        "planning",
+        "dev"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TsnNHi4JIJYOs4vrbFCmx_39.627774_-79.957705@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434521,
+    "wof:geomhash":"ac5367355f8614fa8275dc7843fdc653",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823443429
+        }
+    ],
+    "wof:id":823443429,
+    "wof:lastmodified":1463434521,
+    "wof:name":"USDA Rural Development",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "planning",
+        "dev"
+    ]
+},
+  "bbox": [
+    -79.957705,
+    39.627774,
+    -79.957705,
+    39.627774
+],
+  "geometry": {"coordinates":[-79.957705,39.627774],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 823452265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.092292,37.364729,-81.092292,37.364729",
+    "geom:latitude":37.364729,
+    "geom:longitude":-81.092292,
+    "iso:country":"US",
+    "sg:address":"1001 Stafford Dr",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/princeton/151835-aw-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 6240",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american",
+        "dog",
+        "pub",
+        "hot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SZjjjCY8vxBshrLztu8Ab_37.364729_-81.092292@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434901,
+    "wof:geomhash":"3da702aaee301a98ff3dcb50fccf0e86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823452265
+        }
+    ],
+    "wof:id":823452265,
+    "wof:lastmodified":1463434901,
+    "wof:name":"A&W Restaurant",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "dog",
+        "pub",
+        "hot"
+    ]
+},
+  "bbox": [
+    -81.092292,
+    37.364729,
+    -81.092292,
+    37.364729
+],
+  "geometry": {"coordinates":[-81.092292,37.364729],"type":"Point"}
+}

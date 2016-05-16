@@ -1,0 +1,69 @@
+{
+  "id": 823455465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.995168,39.556754,-77.995168,39.556754",
+    "geom:latitude":39.556754,
+    "geom:longitude":-77.995168,
+    "iso:country":"US",
+    "sg:address":"20 Morningstar Dr",
+    "sg:city":"Hedgesville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 261 5671",
+    "sg:postcode":"25427",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85846047,
+        102083367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XcXOWPBuYp42EB4HDGdzL_39.556754_-77.995168@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435076,
+    "wof:geomhash":"f384e7f959d9ff9f42add961858d7ca5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "neighbourhood_id":85846047,
+            "region_id":85688589,
+            "venue_id":823455465
+        }
+    ],
+    "wof:id":823455465,
+    "wof:lastmodified":1463435076,
+    "wof:name":"Rainbow Treasures",
+    "wof:parent_id":85846047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -77.995168,
+    39.556754,
+    -77.995168,
+    39.556754
+],
+  "geometry": {"coordinates":[-77.99516800000001,39.556754],"type":"Point"}
+}

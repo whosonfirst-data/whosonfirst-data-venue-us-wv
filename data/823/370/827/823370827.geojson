@@ -1,0 +1,78 @@
+{
+  "id": 823370827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.003357,39.345264,-80.003357,39.345264",
+    "geom:latitude":39.345264,
+    "geom:longitude":-80.003357,
+    "iso:country":"US",
+    "sg:address":"4 Harman Ave",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 265 0035",
+    "sg:postcode":"26354",
+    "sg:province":"WV",
+    "sg:tags":[
+        "referral",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731717,
+        102083351,
+        85849697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MefxJPH9H399qG7r1mUc2_39.345264_-80.003357@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431207,
+    "wof:geomhash":"0bc43b1bd7953e9fb4062995c86f0dcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083351,
+            "locality_id":101731717,
+            "neighbourhood_id":85849697,
+            "region_id":85688589,
+            "venue_id":823370827
+        }
+    ],
+    "wof:id":823370827,
+    "wof:lastmodified":1463431207,
+    "wof:name":"Mountain Heart Child Care Rsrc",
+    "wof:parent_id":85849697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "referral",
+        "day"
+    ]
+},
+  "bbox": [
+    -80.003357,
+    39.345264,
+    -80.003357,
+    39.345264
+],
+  "geometry": {"coordinates":[-80.00335699999999,39.345264],"type":"Point"}
+}

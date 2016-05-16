@@ -1,0 +1,79 @@
+{
+  "id": 823443277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.492695,39.203792,-81.492695,39.203792",
+    "geom:latitude":39.203792,
+    "geom:longitude":-81.492695,
+    "iso:country":"US",
+    "sg:address":"47 Pine St",
+    "sg:city":"Davisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 428 3956",
+    "sg:postcode":"26142",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general",
+        "residential",
+        "work",
+        "commercial",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OFnZUneBcImOARMlWBRA7_39.203792_-81.492695@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434514,
+    "wof:geomhash":"2d9ebc12284e1659f02165c1784e2328",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823443277
+        }
+    ],
+    "wof:id":823443277,
+    "wof:lastmodified":1463434514,
+    "wof:name":"Burnside Construction",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "residential",
+        "work",
+        "commercial",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.492695,
+    39.203792,
+    -81.492695,
+    39.203792
+],
+  "geometry": {"coordinates":[-81.492695,39.203792],"type":"Point"}
+}

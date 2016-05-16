@@ -1,0 +1,71 @@
+{
+  "id": 823378613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.631434,38.385338,-81.631434,38.385338",
+    "geom:latitude":38.385338,
+    "geom:longitude":-81.631434,
+    "iso:country":"US",
+    "sg:address":"597 Garrison Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 4715",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jYT2Wtaf4c2et7gv2UkwM_38.385338_-81.631434@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431581,
+    "wof:geomhash":"8e2c40bbd15a43b6ac4477b862cd0f14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823378613
+        }
+    ],
+    "wof:id":823378613,
+    "wof:lastmodified":1463431581,
+    "wof:name":"Garrison Avenue Freewill Bapt",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.631434,
+    38.385338,
+    -81.631434,
+    38.385338
+],
+  "geometry": {"coordinates":[-81.631434,38.385338],"type":"Point"}
+}

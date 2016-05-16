@@ -1,0 +1,71 @@
+{
+  "id": 823436129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.993281,37.847307,-81.993281,37.847307",
+    "geom:latitude":37.847307,
+    "geom:longitude":-81.993281,
+    "iso:country":"US",
+    "sg:address":"204 Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 752 5080",
+    "sg:postcode":"25601",
+    "sg:province":"WV",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868319,
+        102083369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eZixhYKLMZaoMg4e6aSgb_37.847307_-81.993281@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434180,
+    "wof:geomhash":"57822f1614ebe7d88d862e579d921c3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083369,
+            "neighbourhood_id":85868319,
+            "region_id":85688589,
+            "venue_id":823436129
+        }
+    ],
+    "wof:id":823436129,
+    "wof:lastmodified":1463434180,
+    "wof:name":"WVOW",
+    "wof:parent_id":85868319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -81.993281,
+    37.847307,
+    -81.993281,
+    37.847307
+],
+  "geometry": {"coordinates":[-81.993281,37.847307],"type":"Point"}
+}

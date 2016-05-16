@@ -1,0 +1,73 @@
+{
+  "id": 823416233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.581751,37.414474,-81.581751,37.414474",
+    "geom:latitude":37.414474,
+    "geom:longitude":-81.581751,
+    "iso:country":"US",
+    "sg:address":"60 Cornell Ave",
+    "sg:city":"Welch",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 436 6928",
+    "sg:postcode":"24801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "govt",
+        "state",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85809677,
+        102083405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DUKbOL5VQGp1nNjPP8caZ_37.414474_-81.581751@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433288,
+    "wof:geomhash":"7f1d74d0f67090476c4c7ca5ad8c3198",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083405,
+            "neighbourhood_id":85809677,
+            "region_id":85688589,
+            "venue_id":823416233
+        }
+    ],
+    "wof:id":823416233,
+    "wof:lastmodified":1463433288,
+    "wof:name":"Energy Dept",
+    "wof:parent_id":85809677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "utility"
+    ]
+},
+  "bbox": [
+    -81.581751,
+    37.414474,
+    -81.581751,
+    37.414474
+],
+  "geometry": {"coordinates":[-81.581751,37.414474],"type":"Point"}
+}

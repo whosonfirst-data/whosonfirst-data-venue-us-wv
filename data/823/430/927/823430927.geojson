@@ -1,0 +1,71 @@
+{
+  "id": 823430927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.338974,39.279559,-80.338974,39.279559",
+    "geom:latitude":39.279559,
+    "geom:longitude":-80.338974,
+    "iso:country":"US",
+    "sg:address":"140 S 3rd St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 624 6445",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2M5gApwWBH8JJLCp9SWqdt_39.279559_-80.338974@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433916,
+    "wof:geomhash":"a778f1cd4847885fbbfa7310a04476ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823430927
+        }
+    ],
+    "wof:id":823430927,
+    "wof:lastmodified":1463433916,
+    "wof:name":"Hornor Brothers Engineers",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -80.338974,
+    39.279559,
+    -80.338974,
+    39.279559
+],
+  "geometry": {"coordinates":[-80.33897399999999,39.279559],"type":"Point"}
+}

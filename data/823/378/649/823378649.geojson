@@ -1,0 +1,73 @@
+{
+  "id": 823378649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.994032,39.632071,-79.994032,39.632071",
+    "geom:latitude":39.632071,
+    "geom:longitude":-79.994032,
+    "iso:country":"US",
+    "sg:address":"70 Lawless Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 3512",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "drink",
+        "soft",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818601,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SW5tL4TeltPGRbUHndvue_39.632071_-79.994032@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431583,
+    "wof:geomhash":"a85d0a37a25c52d4ca835ec40b9799d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85818601,
+            "region_id":85688589,
+            "venue_id":823378649
+        }
+    ],
+    "wof:id":823378649,
+    "wof:lastmodified":1463431583,
+    "wof:name":"Coca - Cola",
+    "wof:parent_id":85818601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drink",
+        "soft",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -79.994032,
+    39.632071,
+    -79.994032,
+    39.632071
+],
+  "geometry": {"coordinates":[-79.994032,39.632071],"type":"Point"}
+}

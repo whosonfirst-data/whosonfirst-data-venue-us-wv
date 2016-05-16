@@ -1,0 +1,69 @@
+{
+  "id": 823441325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.995893,39.555343,-77.995893,39.555343",
+    "geom:latitude":39.555343,
+    "geom:longitude":-77.995893,
+    "iso:country":"US",
+    "sg:address":"303 W Main St",
+    "sg:city":"Hedgesville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 754 5300",
+    "sg:postcode":"25427",
+    "sg:province":"WV",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85846047,
+        102083367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IS3DeXzvNxc2xKDvrqJCt_39.555343_-77.995893@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434418,
+    "wof:geomhash":"7477ea71a84c7db0337b0c955b24d8fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "neighbourhood_id":85846047,
+            "region_id":85688589,
+            "venue_id":823441325
+        }
+    ],
+    "wof:id":823441325,
+    "wof:lastmodified":1463434418,
+    "wof:name":"Ark Animal Clinic",
+    "wof:parent_id":85846047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -77.995893,
+    39.555343,
+    -77.995893,
+    39.555343
+],
+  "geometry": {"coordinates":[-77.995893,39.555343],"type":"Point"}
+}

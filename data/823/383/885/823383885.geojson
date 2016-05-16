@@ -1,0 +1,73 @@
+{
+  "id": 823383885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.709684,38.344502,-81.709684,38.344502",
+    "geom:latitude":38.344502,
+    "geom:longitude":-81.709684,
+    "iso:country":"US",
+    "sg:address":"1105 Jefferson Rd",
+    "sg:city":"South Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 357 5454",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CF3LmB8efc9OxP3JFm52v_38.344502_-81.709684@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431806,
+    "wof:geomhash":"3a396d11baa4e5f596038fd2c47cc1f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823383885
+        }
+    ],
+    "wof:id":823383885,
+    "wof:lastmodified":1463431806,
+    "wof:name":"Loudon Preferred Storage",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -81.709684,
+    38.344502,
+    -81.709684,
+    38.344502
+],
+  "geometry": {"coordinates":[-81.709684,38.344502],"type":"Point"}
+}

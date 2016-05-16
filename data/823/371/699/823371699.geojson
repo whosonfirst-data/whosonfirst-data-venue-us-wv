@@ -1,0 +1,71 @@
+{
+  "id": 823371699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.083325,37.364094,-81.083325,37.364094",
+    "geom:latitude":37.364094,
+    "geom:longitude":-81.083325,
+    "iso:country":"US",
+    "sg:address":"300 Rogers St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 2222",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5F9vDOwZOWnFmQ0hDMyRZI_37.364094_-81.083325@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431270,
+    "wof:geomhash":"bad61070529940fcb13469bd2b16f5d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823371699
+        }
+    ],
+    "wof:id":823371699,
+    "wof:lastmodified":1463431270,
+    "wof:name":"Little Store",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -81.083325,
+    37.364094,
+    -81.083325,
+    37.364094
+],
+  "geometry": {"coordinates":[-81.083325,37.364094],"type":"Point"}
+}

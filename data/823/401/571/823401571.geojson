@@ -1,0 +1,69 @@
+{
+  "id": 823401571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.154286,37.995505,-81.154286,37.995505",
+    "geom:latitude":37.995505,
+    "geom:longitude":-81.154286,
+    "iso:country":"US",
+    "sg:address":"207 Allman St",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 465 0720",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TGefNg8ZWDI55aVK83Etc_37.995505_-81.154286@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432653,
+    "wof:geomhash":"0fb43c3132a965195662913e583e8c06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823401571
+        }
+    ],
+    "wof:id":823401571,
+    "wof:lastmodified":1463432653,
+    "wof:name":"East Bank Auto Wash Inc",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -81.154286,
+    37.995505,
+    -81.154286,
+    37.995505
+],
+  "geometry": {"coordinates":[-81.154286,37.995505],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 823445427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.634325,38.350394,-81.634325,38.350394",
+    "geom:latitude":38.350394,
+    "geom:longitude":-81.634325,
+    "iso:country":"US",
+    "sg:address":"205 Capitol St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 346 5708",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "company",
+        "production"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VHiVzi9nz7Fo47H8wLrZg_38.350394_-81.634325@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434611,
+    "wof:geomhash":"7d675c23f2e66ec609f95ea81a8cc46d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823445427
+        }
+    ],
+    "wof:id":823445427,
+    "wof:lastmodified":1463434611,
+    "wof:name":"Paulico Resources Inc",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "production"
+    ]
+},
+  "bbox": [
+    -81.634325,
+    38.350394,
+    -81.634325,
+    38.350394
+],
+  "geometry": {"coordinates":[-81.634325,38.350394],"type":"Point"}
+}

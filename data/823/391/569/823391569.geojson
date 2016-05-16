@@ -1,0 +1,71 @@
+{
+  "id": 823391569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.978281,39.449885,-77.978281,39.449885",
+    "geom:latitude":39.449885,
+    "geom:longitude":-77.978281,
+    "iso:country":"US",
+    "sg:address":"502 Berry St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 3916",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kEC3fdccSso1SX1lDCkye_39.449885_-77.978281@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432151,
+    "wof:geomhash":"17d2f9ccfce0ced77db5c9758205d387",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823391569
+        }
+    ],
+    "wof:id":823391569,
+    "wof:lastmodified":1463432151,
+    "wof:name":"Beauty Boutique",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -77.978281,
+    39.449885,
+    -77.978281,
+    39.449885
+],
+  "geometry": {"coordinates":[-77.978281,39.449885],"type":"Point"}
+}

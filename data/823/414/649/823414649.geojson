@@ -1,0 +1,71 @@
+{
+  "id": 823414649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.567377,38.245748,-81.567377,38.245748",
+    "geom:latitude":38.245748,
+    "geom:longitude":-81.567377,
+    "iso:country":"US",
+    "sg:address":"9403 Maccorkle Ave",
+    "sg:city":"Marmet",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 2670",
+    "sg:postcode":"25315",
+    "sg:province":"WV",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17uLLWwPjNeObwWnjjraTY_38.245748_-81.567377@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433210,
+    "wof:geomhash":"6a84cd33ea21de64d5ae5a15cc66a88a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823414649
+        }
+    ],
+    "wof:id":823414649,
+    "wof:lastmodified":1463433210,
+    "wof:name":"Marmet Mayor's Office",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -81.567377,
+    38.245748,
+    -81.567377,
+    38.245748
+],
+  "geometry": {"coordinates":[-81.56737699999999,38.245748],"type":"Point"}
+}

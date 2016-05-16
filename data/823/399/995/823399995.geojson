@@ -1,0 +1,75 @@
+{
+  "id": 823399995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.969204,39.653587,-79.969204,39.653587",
+    "geom:latitude":39.653587,
+    "geom:longitude":-79.969204,
+    "iso:country":"US",
+    "sg:address":"3081 University Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 225 2600",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VikYAr6YlXyqgiP6zKwCD_39.653587_-79.969204@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432588,
+    "wof:geomhash":"ebf26fd3cd2ab485fd98824570cc3441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851419,
+            "region_id":85688589,
+            "venue_id":823399995
+        }
+    ],
+    "wof:id":823399995,
+    "wof:lastmodified":1463432588,
+    "wof:name":"First Exchange Bank",
+    "wof:parent_id":85851419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -79.969204,
+    39.653587,
+    -79.969204,
+    39.653587
+],
+  "geometry": {"coordinates":[-79.969204,39.653587],"type":"Point"}
+}

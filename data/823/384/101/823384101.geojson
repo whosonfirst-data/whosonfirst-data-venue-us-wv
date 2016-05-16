@@ -1,0 +1,71 @@
+{
+  "id": 823384101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.333777,39.279539,-80.333777,39.279539",
+    "geom:latitude":39.279539,
+    "geom:longitude":-80.333777,
+    "iso:country":"US",
+    "sg:address":"127 E Pike St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 623 1026",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "secondary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qrI0UQ0qOXqh9IJT5sZG2_39.279539_-80.333777@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431814,
+    "wof:geomhash":"c3e7b432874a0fff3491f315d9eec233",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823384101
+        }
+    ],
+    "wof:id":823384101,
+    "wof:lastmodified":1463431814,
+    "wof:name":"Notre Dame High School",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "secondary"
+    ]
+},
+  "bbox": [
+    -80.333777,
+    39.279539,
+    -80.333777,
+    39.279539
+],
+  "geometry": {"coordinates":[-80.333777,39.279539],"type":"Point"}
+}

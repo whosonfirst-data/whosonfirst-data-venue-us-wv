@@ -1,0 +1,73 @@
+{
+  "id": 823417629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.185488,37.771616,-81.185488,37.771616",
+    "geom:latitude":37.771616,
+    "geom:longitude":-81.185488,
+    "iso:country":"US",
+    "sg:address":"500 S Fayette St",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 262 2600",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iYxPSK0EVDmdqwS0E3Hm8_37.771616_-81.185488@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433367,
+    "wof:geomhash":"09757dae09205c94d4fc61915ab252f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823417629
+        }
+    ],
+    "wof:id":823417629,
+    "wof:lastmodified":1463433367,
+    "wof:name":"5 Corners Pawn",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -81.185488,
+    37.771616,
+    -81.185488,
+    37.771616
+],
+  "geometry": {"coordinates":[-81.18548800000001,37.771616],"type":"Point"}
+}

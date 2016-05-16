@@ -1,0 +1,71 @@
+{
+  "id": 823370343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.654781,38.363894,-81.654781,38.363894",
+    "geom:latitude":38.363894,
+    "geom:longitude":-81.654781,
+    "iso:country":"US",
+    "sg:address":"812 Main St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 0572",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gkj8S72PudTowxsAOStgo_38.363894_-81.654781@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431189,
+    "wof:geomhash":"91b1010def4fa4361030fdd936eed3ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823370343
+        }
+    ],
+    "wof:id":823370343,
+    "wof:lastmodified":1463431189,
+    "wof:name":"Priscillas Day Care",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -81.654781,
+    38.363894,
+    -81.654781,
+    38.363894
+],
+  "geometry": {"coordinates":[-81.654781,38.363894],"type":"Point"}
+}

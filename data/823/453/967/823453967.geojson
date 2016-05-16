@@ -1,0 +1,74 @@
+{
+  "id": 823453967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.563409,38.303608,-81.563409,38.303608",
+    "geom:latitude":38.303608,
+    "geom:longitude":-81.563409,
+    "iso:country":"US",
+    "sg:address":"6515 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/belle/95538-lone-star-steakhouse--saloon/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 926 8459",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WmbyZG8gUrWOIV73lgg5P_38.304097_-81.563463@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434983,
+    "wof:geomhash":"ea28a1bab83071ef96f1bc4820a22b2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823453967
+        }
+    ],
+    "wof:id":823453967,
+    "wof:lastmodified":1463434983,
+    "wof:name":"Lone Star Steakhouse & Saloon",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -81.563409,
+    38.303608,
+    -81.563409,
+    38.303608
+],
+  "geometry": {"coordinates":[-81.56340899999999,38.303608],"type":"Point"}
+}

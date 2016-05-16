@@ -1,0 +1,71 @@
+{
+  "id": 823445099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.632052,38.384435,-81.632052,38.384435",
+    "geom:latitude":38.384435,
+    "geom:longitude":-81.632052,
+    "iso:country":"US",
+    "sg:address":"583 Garrison Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 8556",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gr1KH4KGYCnG9v92WMEH8_38.384435_-81.632052@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434599,
+    "wof:geomhash":"c312253ab61d0f525450c51547476a59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823445099
+        }
+    ],
+    "wof:id":823445099,
+    "wof:lastmodified":1463434599,
+    "wof:name":"Edgewood Acres Apts",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -81.632052,
+    38.384435,
+    -81.632052,
+    38.384435
+],
+  "geometry": {"coordinates":[-81.632052,38.384435],"type":"Point"}
+}

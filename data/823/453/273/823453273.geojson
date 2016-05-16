@@ -1,0 +1,74 @@
+{
+  "id": 823453273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.59266,40.39343,-80.59266,40.39343",
+    "geom:latitude":40.39343,
+    "geom:longitude":-80.59266,
+    "iso:country":"US",
+    "sg:address":"4015 Main St",
+    "sg:city":"Weirton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/weirton/181563-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 748 4393",
+    "sg:postcode":"26062",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731371,
+        102082633,
+        85832497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cevwPCjPWAD9kcrNBGb2v_40.393430_-80.592660@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434941,
+    "wof:geomhash":"2c627836db607b5c1bfbf84f0dff91c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731371,
+            "neighbourhood_id":85832497,
+            "region_id":85688589,
+            "venue_id":823453273
+        }
+    ],
+    "wof:id":823453273,
+    "wof:lastmodified":1463434941,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85832497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -80.59266,
+    40.39343,
+    -80.59266,
+    40.39343
+],
+  "geometry": {"coordinates":[-80.59266,40.39343],"type":"Point"}
+}

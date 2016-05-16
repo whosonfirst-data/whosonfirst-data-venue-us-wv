@@ -1,0 +1,71 @@
+{
+  "id": 823395401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.575923,38.354831,-81.575923,38.354831",
+    "geom:latitude":38.354831,
+    "geom:longitude":-81.575923,
+    "iso:country":"US",
+    "sg:address":"5 Chimney Hill Ln",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 8070",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4faujkWoJY3cAiRphwZrpc_38.354831_-81.575923@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432344,
+    "wof:geomhash":"017ed851f15470787e438db7edfe6594",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823395401
+        }
+    ],
+    "wof:id":823395401,
+    "wof:lastmodified":1463432344,
+    "wof:name":"Guidon Realty Advisors Inc",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    -81.575923,
+    38.354831,
+    -81.575923,
+    38.354831
+],
+  "geometry": {"coordinates":[-81.575923,38.354831],"type":"Point"}
+}

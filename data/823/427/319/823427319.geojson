@@ -1,0 +1,73 @@
+{
+  "id": 823427319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.584613,37.432458,-81.584613,37.432458",
+    "geom:latitude":37.432458,
+    "geom:longitude":-81.584613,
+    "iso:country":"US",
+    "sg:address":"90 Wyoming St",
+    "sg:city":"Welch",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 436 3421",
+    "sg:postcode":"24801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "county",
+        "planning",
+        "dev"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85809677,
+        102083405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2d5zXtSjK9JVXmSwUNEdDS_37.432458_-81.584613@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433764,
+    "wof:geomhash":"f6b3b560ce71440e75c4b030720e39d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083405,
+            "neighbourhood_id":85809677,
+            "region_id":85688589,
+            "venue_id":823427319
+        }
+    ],
+    "wof:id":823427319,
+    "wof:lastmodified":1463433764,
+    "wof:name":"Mc Dowell County Redevelopment",
+    "wof:parent_id":85809677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "planning",
+        "dev"
+    ]
+},
+  "bbox": [
+    -81.584613,
+    37.432458,
+    -81.584613,
+    37.432458
+],
+  "geometry": {"coordinates":[-81.584613,37.432458],"type":"Point"}
+}

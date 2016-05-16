@@ -1,0 +1,72 @@
+{
+  "id": 823411365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.969392,39.608991,-79.969392,39.608991",
+    "geom:latitude":39.608991,
+    "geom:longitude":-79.969392,
+    "iso:country":"US",
+    "sg:address":"58 Don Knotts Blvd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 9224",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.morgantownmitsubishi.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3M42UVNOMvDGWrHouHIH2c_39.608991_-79.969392@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433080,
+    "wof:geomhash":"2b14ace9053dbaadc3b16354bf7b6f36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823411365
+        }
+    ],
+    "wof:id":823411365,
+    "wof:lastmodified":1463433080,
+    "wof:name":"Morgantown Mitsubishi",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -79.969392,
+    39.608991,
+    -79.969392,
+    39.608991
+],
+  "geometry": {"coordinates":[-79.969392,39.608991],"type":"Point"}
+}

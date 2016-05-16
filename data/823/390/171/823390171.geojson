@@ -1,0 +1,73 @@
+{
+  "id": 823390171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.649843,38.362312,-81.649843,38.362312",
+    "geom:latitude":38.362312,
+    "geom:longitude":-81.649843,
+    "iso:country":"US",
+    "sg:address":"515 Central Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 344 2416",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "printer",
+        "form"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Xj6jMTVmMpZpnoz1GP2kN_38.362312_-81.649843@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432089,
+    "wof:geomhash":"6e2a6e7de0e7c2b8157bc88e5efb03c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823390171
+        }
+    ],
+    "wof:id":823390171,
+    "wof:lastmodified":1463432089,
+    "wof:name":"NCR Corp",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer",
+        "form"
+    ]
+},
+  "bbox": [
+    -81.649843,
+    38.362312,
+    -81.649843,
+    38.362312
+],
+  "geometry": {"coordinates":[-81.649843,38.362312],"type":"Point"}
+}

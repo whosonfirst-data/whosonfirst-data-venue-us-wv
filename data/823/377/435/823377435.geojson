@@ -1,0 +1,69 @@
+{
+  "id": 823377435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.487136,39.050105,-80.487136,39.050105",
+    "geom:latitude":39.050105,
+    "geom:longitude":-80.487136,
+    "iso:country":"US",
+    "sg:address":"768 US Hwy 33",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 269 6611",
+    "sg:postcode":"26452",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85828579,
+        102083339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3y7nVRuNmu07GeWc5Cpat1_39.050105_-80.487136@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431533,
+    "wof:geomhash":"24e2afe0b1d9f08deaaccfb0323dff42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083339,
+            "neighbourhood_id":85828579,
+            "region_id":85688589,
+            "venue_id":823377435
+        }
+    ],
+    "wof:id":823377435,
+    "wof:lastmodified":1463431533,
+    "wof:name":"Harry L Hendricks Contracting",
+    "wof:parent_id":85828579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.487136,
+    39.050105,
+    -80.487136,
+    39.050105
+],
+  "geometry": {"coordinates":[-80.48713600000001,39.050105],"type":"Point"}
+}

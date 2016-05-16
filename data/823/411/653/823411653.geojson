@@ -1,0 +1,68 @@
+{
+  "id": 823411653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.616879,38.343059,-81.616879,38.343059",
+    "geom:latitude":38.343059,
+    "geom:longitude":-81.616879,
+    "iso:country":"US",
+    "sg:address":"512 Nancy St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 344 1462",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85850023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QsNVYcHw2MXeKAXbq6Xde_38.343059_-81.616879@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433091,
+    "wof:geomhash":"6c63746034e20d1badda986b68adae4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85850023,
+            "region_id":85688589,
+            "venue_id":823411653
+        }
+    ],
+    "wof:id":823411653,
+    "wof:lastmodified":1463433091,
+    "wof:name":"East End Neighborhood Assn",
+    "wof:parent_id":85850023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.616879,
+    38.343059,
+    -81.616879,
+    38.343059
+],
+  "geometry": {"coordinates":[-81.616879,38.343059],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823370401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.951036,38.465528,-81.951036,38.465528",
+    "geom:latitude":38.465528,
+    "geom:longitude":-81.951036,
+    "iso:country":"US",
+    "sg:address":"111 Church Camp Rd",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 760 9280",
+    "sg:postcode":"25526",
+    "sg:province":"WV",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731829,
+        102083381,
+        85868321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LGdof8DEAiCBChdTCTxkO_38.465528_-81.951036@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431191,
+    "wof:geomhash":"060e15444a6b0719fac864576d506099",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731829,
+            "neighbourhood_id":85868321,
+            "region_id":85688589,
+            "venue_id":823370401
+        }
+    ],
+    "wof:id":823370401,
+    "wof:lastmodified":1463431191,
+    "wof:name":"Star Measurement Svc",
+    "wof:parent_id":85868321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -81.951036,
+    38.465528,
+    -81.951036,
+    38.465528
+],
+  "geometry": {"coordinates":[-81.951036,38.465528],"type":"Point"}
+}

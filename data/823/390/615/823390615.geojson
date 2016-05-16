@@ -1,0 +1,75 @@
+{
+  "id": 823390615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.079605,37.369148,-81.079605,37.369148",
+    "geom:latitude":37.369148,
+    "geom:longitude":-81.079605,
+    "iso:country":"US",
+    "sg:address":"405 Thorn St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 2938",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YlZzKEAVa4YNuH0aZpL7e_37.369148_-81.079605@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432105,
+    "wof:geomhash":"47f6512deec7c793c19063b87c367fac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823390615
+        }
+    ],
+    "wof:id":823390615,
+    "wof:lastmodified":1463432105,
+    "wof:name":"Buff Bodies Body Works",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -81.079605,
+    37.369148,
+    -81.079605,
+    37.369148
+],
+  "geometry": {"coordinates":[-81.079605,37.369148],"type":"Point"}
+}

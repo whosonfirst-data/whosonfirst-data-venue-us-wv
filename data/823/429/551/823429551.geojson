@@ -1,0 +1,73 @@
+{
+  "id": 823429551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.988239,37.846601,-81.988239,37.846601",
+    "geom:latitude":37.846601,
+    "geom:longitude":-81.988239,
+    "iso:country":"US",
+    "sg:address":"551 Pine St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 752 6262",
+    "sg:postcode":"25601",
+    "sg:province":"WV",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868319,
+        102083369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63tHcKMkgDN6LTJy26RHyz_37.846601_-81.988239@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433868,
+    "wof:geomhash":"f367e6bec853b42c10cd5928df8ca425",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083369,
+            "neighbourhood_id":85868319,
+            "region_id":85688589,
+            "venue_id":823429551
+        }
+    ],
+    "wof:id":823429551,
+    "wof:lastmodified":1463433868,
+    "wof:name":"Pet Chauffeur Boarding",
+    "wof:parent_id":85868319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -81.988239,
+    37.846601,
+    -81.988239,
+    37.846601
+],
+  "geometry": {"coordinates":[-81.98823899999999,37.846601],"type":"Point"}
+}

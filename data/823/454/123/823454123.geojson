@@ -1,0 +1,75 @@
+{
+  "id": 823454123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.549157,39.283404,-81.549157,39.283404",
+    "geom:latitude":39.283404,
+    "geom:longitude":-81.549157,
+    "iso:country":"US",
+    "sg:address":"2508 Ohio Ave",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/parkersburg/206594-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731687,
+        102083343,
+        85805293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UHXuQKGfe1S5aWwgSe2u8_39.283887_-81.548695@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463435001,
+    "wof:geomhash":"d04eed93acd724838a5e6540ff53be4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85805293,
+            "region_id":85688589,
+            "venue_id":823454123
+        }
+    ],
+    "wof:id":823454123,
+    "wof:lastmodified":1463435001,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85805293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -81.549157,
+    39.283404,
+    -81.549157,
+    39.283404
+],
+  "geometry": {"coordinates":[-81.54915699999999,39.283404],"type":"Point"}
+}

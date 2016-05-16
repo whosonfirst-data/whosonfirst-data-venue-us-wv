@@ -1,0 +1,71 @@
+{
+  "id": 823379405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.33955,39.27834,-80.33955,39.27834",
+    "geom:latitude":39.27834,
+    "geom:longitude":-80.33955,
+    "iso:country":"US",
+    "sg:address":"308 Washington Ave",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 624 7525",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07jebJDv27IpZbFiq5hBiW_39.278340_-80.339550@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431615,
+    "wof:geomhash":"31295821a34b40c28b285bf8f055c03c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823379405
+        }
+    ],
+    "wof:id":823379405,
+    "wof:lastmodified":1463431615,
+    "wof:name":"Conner Law Office",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -80.33955,
+    39.27834,
+    -80.33955,
+    39.27834
+],
+  "geometry": {"coordinates":[-80.33955,39.27834],"type":"Point"}
+}

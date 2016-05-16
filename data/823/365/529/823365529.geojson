@@ -1,0 +1,68 @@
+{
+  "id": 823365529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.361815,37.779415,-81.361815,37.779415",
+    "geom:latitude":37.779415,
+    "geom:longitude":-81.361815,
+    "iso:country":"US",
+    "sg:address":"698 Bolt Rd",
+    "sg:city":"Fairdale",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 934 6812",
+    "sg:postcode":"25839",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50dWcOa9jrnl3XO8zRY4O6_37.779415_-81.361815@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463430989,
+    "wof:geomhash":"096dc8c0864d8bdaa505e95751b6c8e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823365529
+        }
+    ],
+    "wof:id":823365529,
+    "wof:lastmodified":1463430989,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.361815,
+    37.779415,
+    -81.361815,
+    37.779415
+],
+  "geometry": {"coordinates":[-81.36181500000001,37.779415],"type":"Point"}
+}

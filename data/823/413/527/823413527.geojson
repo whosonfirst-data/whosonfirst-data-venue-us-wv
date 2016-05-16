@@ -1,0 +1,71 @@
+{
+  "id": 823413527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.573559,38.315536,-81.573559,38.315536",
+    "geom:latitude":38.315536,
+    "geom:longitude":-81.573559,
+    "iso:country":"US",
+    "sg:address":"5317 Venable Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 1703",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7L5zYSJ0pC3OcEXQCNHVMJ_38.315536_-81.573559@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433157,
+    "wof:geomhash":"236fdea0e6245cdd3330498a33860315",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823413527
+        }
+    ],
+    "wof:id":823413527,
+    "wof:lastmodified":1463433157,
+    "wof:name":"Kanawha City Apostolic Church",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.573559,
+    38.315536,
+    -81.573559,
+    38.315536
+],
+  "geometry": {"coordinates":[-81.573559,38.315536],"type":"Point"}
+}

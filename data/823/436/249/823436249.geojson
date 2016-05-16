@@ -1,0 +1,71 @@
+{
+  "id": 823436249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.705513,38.323042,-81.705513,38.323042",
+    "geom:latitude":38.323042,
+    "geom:longitude":-81.705513,
+    "iso:country":"US",
+    "sg:address":"425 Mercury St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 0617",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35xPQBrrpOkjn8z2fBI5oi_38.323042_-81.705513@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434184,
+    "wof:geomhash":"3ad89c3b2ab054db64f7e9b178872ec0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823436249
+        }
+    ],
+    "wof:id":823436249,
+    "wof:lastmodified":1463434184,
+    "wof:name":"Barnett Building Systems Inc",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -81.705513,
+    38.323042,
+    -81.705513,
+    38.323042
+],
+  "geometry": {"coordinates":[-81.705513,38.323042],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823404637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.733115,38.360294,-81.733115,38.360294",
+    "geom:latitude":38.360294,
+    "geom:longitude":-81.733115,
+    "iso:country":"US",
+    "sg:address":"919 Dunbar Ave",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 2222",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2F0JuMQj0KCzbzyHCcfu4B_38.360294_-81.733115@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432792,
+    "wof:geomhash":"5d906b1181ad2f6b0e1aec03a15a6145",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823404637
+        }
+    ],
+    "wof:id":823404637,
+    "wof:lastmodified":1463432792,
+    "wof:name":"Hollywood Video",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -81.733115,
+    38.360294,
+    -81.733115,
+    38.360294
+],
+  "geometry": {"coordinates":[-81.733115,38.360294],"type":"Point"}
+}

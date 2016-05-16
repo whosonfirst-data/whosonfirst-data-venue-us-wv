@@ -1,0 +1,74 @@
+{
+  "id": 823452357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.939551,38.539622,-81.939551,38.539622",
+    "geom:latitude":38.539622,
+    "geom:longitude":-81.939551,
+    "iso:country":"US",
+    "sg:address":"941 Roosevelt Blvd",
+    "sg:city":"Eleanor",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/buffalo-union/80456-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 586 2500",
+    "sg:postcode":"25070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868323,
+        102083381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BaOOgowi87sErnV7NWoUm_38.539622_-81.939551@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434904,
+    "wof:geomhash":"2c5dfd6b8934e3b7f706f26538153f86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "neighbourhood_id":85868323,
+            "region_id":85688589,
+            "venue_id":823452357
+        }
+    ],
+    "wof:id":823452357,
+    "wof:lastmodified":1463434904,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85868323,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -81.939551,
+    38.539622,
+    -81.939551,
+    38.539622
+],
+  "geometry": {"coordinates":[-81.93955099999999,38.539622],"type":"Point"}
+}

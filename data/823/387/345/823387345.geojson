@@ -1,0 +1,71 @@
+{
+  "id": 823387345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.032105,39.437691,-78.032105,39.437691",
+    "geom:latitude":39.437691,
+    "geom:longitude":-78.032105,
+    "iso:country":"US",
+    "sg:address":"2711 Nollville Rd",
+    "sg:city":"Inwood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 229 8345",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49vopHdkxZdCXKhXK5IZKR_39.437691_-78.032105@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431941,
+    "wof:geomhash":"2d9b5d6d391776bc383ce090d86a1a4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823387345
+        }
+    ],
+    "wof:id":823387345,
+    "wof:lastmodified":1463431941,
+    "wof:name":"Tucker Tar Service",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -78.032105,
+    39.437691,
+    -78.032105,
+    39.437691
+],
+  "geometry": {"coordinates":[-78.032105,39.437691],"type":"Point"}
+}

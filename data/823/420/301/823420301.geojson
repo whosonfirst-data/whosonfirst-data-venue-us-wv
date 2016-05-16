@@ -1,0 +1,71 @@
+{
+  "id": 823420301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.152576,39.481677,-80.152576,39.481677",
+    "geom:latitude":39.481677,
+    "geom:longitude":-80.152576,
+    "iso:country":"US",
+    "sg:address":"812 Field St",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 3022",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JtkXQq5tyVyk9PBiwzXFT_39.481677_-80.152576@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433480,
+    "wof:geomhash":"5b91cfe729484a55055ede839fd67cd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823420301
+        }
+    ],
+    "wof:id":823420301,
+    "wof:lastmodified":1463433480,
+    "wof:name":"Yes I Can Basketball Camp",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -80.152576,
+    39.481677,
+    -80.152576,
+    39.481677
+],
+  "geometry": {"coordinates":[-80.152576,39.481677],"type":"Point"}
+}

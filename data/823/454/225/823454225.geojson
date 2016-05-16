@@ -1,0 +1,74 @@
+{
+  "id": 823454225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.153437,39.472654,-80.153437,39.472654",
+    "geom:latitude":39.472654,
+    "geom:longitude":-80.153437,
+    "iso:country":"US",
+    "sg:address":"1012 Fairmont Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/middletown/67906-foxs-pizza-den/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 367 0000",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4og4A9EsyHDn7ifiYNzy1v_39.472443_-80.153314@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463435009,
+    "wof:geomhash":"281d2aa8e24a5ee0b2fce98b8fb10900",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823454225
+        }
+    ],
+    "wof:id":823454225,
+    "wof:lastmodified":1463435009,
+    "wof:name":"Fox's Pizza Den",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -80.153437,
+    39.472654,
+    -80.153437,
+    39.472654
+],
+  "geometry": {"coordinates":[-80.153437,39.472654],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823391815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.693458,38.376937,-81.693458,38.376937",
+    "geom:latitude":38.376937,
+    "geom:longitude":-81.693458,
+    "iso:country":"US",
+    "sg:address":"3999 Washington St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 5484",
+    "sg:postcode":"25312",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zyAfpK4NoIKUGDkFt7ujm_38.376937_-81.693458@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432160,
+    "wof:geomhash":"cc52b9d4a81f27b43df21a121fcec51e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823391815
+        }
+    ],
+    "wof:id":823391815,
+    "wof:lastmodified":1463432160,
+    "wof:name":"Abbott's Garage & Wrecker Svc",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -81.693458,
+    38.376937,
+    -81.693458,
+    38.376937
+],
+  "geometry": {"coordinates":[-81.69345800000001,38.376937],"type":"Point"}
+}

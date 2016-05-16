@@ -1,0 +1,98 @@
+{
+  "id": 823456043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.159364,37.770167,-81.159364,37.770167",
+    "geom:latitude":37.770167,
+    "geom:longitude":-81.159364,
+    "iso:country":"US",
+    "sg:address":"64 Brookshire Ln",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 256 8351",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "appliances-manufacturing",
+        "appliance",
+        "orthopedic",
+        "home",
+        "merchandise",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kM1GgAUk2FxRUac0c0h7t_37.770167_-81.159364@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435097,
+    "wof:geomhash":"54ceb9f21b5eab6de780117caf034bf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823456043
+        }
+    ],
+    "wof:id":823456043,
+    "wof:lastmodified":1463435097,
+    "wof:name":"West Virginia Orthotic",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliances-manufacturing",
+        "appliance",
+        "orthopedic",
+        "home",
+        "merchandise",
+        "care"
+    ]
+},
+  "bbox": [
+    -81.159364,
+    37.770167,
+    -81.159364,
+    37.770167
+],
+  "geometry": {"coordinates":[-81.159364,37.770167],"type":"Point"}
+}

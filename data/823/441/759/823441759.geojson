@@ -1,0 +1,72 @@
+{
+  "id": 823441759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.145045,39.485053,-80.145045,39.485053",
+    "geom:latitude":39.485053,
+    "geom:longitude":-80.145045,
+    "iso:country":"US",
+    "sg:address":"120 Jackson St",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 8142",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "secretarial"
+    ],
+    "sg:website":"www.oicwv.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GDfnOuhC2iHjEhnD9NyKG_39.485053_-80.145045@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434435,
+    "wof:geomhash":"046454d2ec26f4cfa2455c667d72414f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823441759
+        }
+    ],
+    "wof:id":823441759,
+    "wof:lastmodified":1463434435,
+    "wof:name":"OIC Training Academy",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "secretarial"
+    ]
+},
+  "bbox": [
+    -80.145045,
+    39.485053,
+    -80.145045,
+    39.485053
+],
+  "geometry": {"coordinates":[-80.145045,39.485053],"type":"Point"}
+}

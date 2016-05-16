@@ -1,0 +1,71 @@
+{
+  "id": 823421339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.041996,39.162236,-80.041996,39.162236",
+    "geom:latitude":39.162236,
+    "geom:longitude":-80.041996,
+    "iso:country":"US",
+    "sg:address":"508 Maple Ave",
+    "sg:city":"Philippi",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 457 3591",
+    "sg:postcode":"26416",
+    "sg:province":"WV",
+    "sg:tags":[
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OyourXfOo3iXQFGub0kzV_39.162236_-80.041996@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433518,
+    "wof:geomhash":"16f17b6782b54df0f00affabbd22a79a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823421339
+        }
+    ],
+    "wof:id":823421339,
+    "wof:lastmodified":1463433518,
+    "wof:name":"J & L Glass",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material"
+    ]
+},
+  "bbox": [
+    -80.041996,
+    39.162236,
+    -80.041996,
+    39.162236
+],
+  "geometry": {"coordinates":[-80.041996,39.162236],"type":"Point"}
+}

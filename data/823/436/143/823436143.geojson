@@ -1,0 +1,68 @@
+{
+  "id": 823436143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.18306,37.804397,-81.18306,37.804397",
+    "geom:latitude":37.804397,
+    "geom:longitude":-81.18306,
+    "iso:country":"US",
+    "sg:address":"1414 N Eisenhower Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 256 3011",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40gxMWo438LyBQywXhV4wz_37.804397_-81.183060@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434180,
+    "wof:geomhash":"0550e24ad29cee24f8750614dcad481b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823436143
+        }
+    ],
+    "wof:id":823436143,
+    "wof:lastmodified":1463434180,
+    "wof:name":"One Stop Shoppe",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.18306,
+    37.804397,
+    -81.18306,
+    37.804397
+],
+  "geometry": {"coordinates":[-81.18306,37.804397],"type":"Point"}
+}

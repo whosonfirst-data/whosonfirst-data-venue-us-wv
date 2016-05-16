@@ -1,0 +1,71 @@
+{
+  "id": 823410669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.557936,38.301124,-81.557936,38.301124",
+    "geom:latitude":38.301124,
+    "geom:longitude":-81.557936,
+    "iso:country":"US",
+    "sg:address":"216 Georges Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 725 7923",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SHWJaFwQUBCaKgAYZGVQJ_38.301124_-81.557936@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433054,
+    "wof:geomhash":"1b80c8e68252be857370ec9dba90c24c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823410669
+        }
+    ],
+    "wof:id":823410669,
+    "wof:lastmodified":1463433054,
+    "wof:name":"Washington House Inn",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -81.557936,
+    38.301124,
+    -81.557936,
+    38.301124
+],
+  "geometry": {"coordinates":[-81.557936,38.301124],"type":"Point"}
+}

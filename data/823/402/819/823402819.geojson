@@ -1,0 +1,73 @@
+{
+  "id": 823402819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.163807,37.784841,-81.163807,37.784841",
+    "geom:latitude":37.784841,
+    "geom:longitude":-81.163807,
+    "iso:country":"US",
+    "sg:address":"105 Pinecrest Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 256 6700",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5g3AJWXdgx9NyoZ5ysvPuk_37.784841_-81.163807@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432705,
+    "wof:geomhash":"2e51d7375293bb011bf2a95c3dfb5c22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823402819
+        }
+    ],
+    "wof:id":823402819,
+    "wof:lastmodified":1463432705,
+    "wof:name":"State Police",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -81.163807,
+    37.784841,
+    -81.163807,
+    37.784841
+],
+  "geometry": {"coordinates":[-81.16380700000001,37.784841],"type":"Point"}
+}

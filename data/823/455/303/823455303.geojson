@@ -1,0 +1,73 @@
+{
+  "id": 823455303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.984783,39.437377,-77.984783,39.437377",
+    "geom:latitude":39.437377,
+    "geom:longitude":-77.984783,
+    "iso:country":"US",
+    "sg:address":"1517 Winchester Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 4147",
+    "sg:postcode":"25405",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grill",
+        "bar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nxNpg1hCkq0OEmuyfSR6W_39.437377_-77.984783@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435070,
+    "wof:geomhash":"06c88499f5c33ab047b57380c79a9d11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823455303
+        }
+    ],
+    "wof:id":823455303,
+    "wof:lastmodified":1463435070,
+    "wof:name":"Legend's Bar & Grill",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grill",
+        "bar"
+    ]
+},
+  "bbox": [
+    -77.984783,
+    39.437377,
+    -77.984783,
+    39.437377
+],
+  "geometry": {"coordinates":[-77.98478299999999,39.437377],"type":"Point"}
+}

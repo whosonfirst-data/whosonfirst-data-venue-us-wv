@@ -1,0 +1,81 @@
+{
+  "id": 823454207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.958257,39.629591,-79.958257,39.629591",
+    "geom:latitude":39.629591,
+    "geom:longitude":-79.958257,
+    "iso:country":"US",
+    "sg:address":"132 Pleasant St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/central/241916-black-bear-burritos/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 8696",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "deli",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_566HQkdaDpZS2OPw8N88Bl_39.629424_-79.958024@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463435007,
+    "wof:geomhash":"b01498c21c86d6b052c4e32013f5cbea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851489,
+            "region_id":85688589,
+            "venue_id":823454207
+        }
+    ],
+    "wof:id":823454207,
+    "wof:lastmodified":1463435007,
+    "wof:name":"Black Bear Burritos",
+    "wof:parent_id":85851489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "deli",
+        "american"
+    ]
+},
+  "bbox": [
+    -79.958257,
+    39.629591,
+    -79.958257,
+    39.629591
+],
+  "geometry": {"coordinates":[-79.958257,39.629591],"type":"Point"}
+}

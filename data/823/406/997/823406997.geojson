@@ -1,0 +1,71 @@
+{
+  "id": 823406997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.723856,38.391949,-81.723856,38.391949",
+    "geom:latitude":38.391949,
+    "geom:longitude":-81.723856,
+    "iso:country":"US",
+    "sg:address":"4434 Washington St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 2786",
+    "sg:postcode":"25313",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yz9uaX31QXE3CW1bIOumG_38.391949_-81.723856@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432902,
+    "wof:geomhash":"5b21161c4490cb65053b36d6a44a1d84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823406997
+        }
+    ],
+    "wof:id":823406997,
+    "wof:lastmodified":1463432902,
+    "wof:name":"Bailey Auto & Truck Repair",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -81.723856,
+    38.391949,
+    -81.723856,
+    38.391949
+],
+  "geometry": {"coordinates":[-81.723856,38.391949],"type":"Point"}
+}

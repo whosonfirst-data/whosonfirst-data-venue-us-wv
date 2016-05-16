@@ -1,0 +1,71 @@
+{
+  "id": 823450107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.640654,38.359623,-81.640654,38.359623",
+    "geom:latitude":38.359623,
+    "geom:longitude":-81.640654,
+    "iso:country":"US",
+    "sg:address":"123 Washington St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 720 2670",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75UAx5c81clethnGMbGQZ8_38.359623_-81.640654@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434820,
+    "wof:geomhash":"db09488a2e23b38e39c1784ec2988302",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823450107
+        }
+    ],
+    "wof:id":823450107,
+    "wof:lastmodified":1463434820,
+    "wof:name":"St Francis West Healthcare Lab",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -81.640654,
+    38.359623,
+    -81.640654,
+    38.359623
+],
+  "geometry": {"coordinates":[-81.640654,38.359623],"type":"Point"}
+}

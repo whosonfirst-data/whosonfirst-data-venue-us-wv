@@ -1,0 +1,71 @@
+{
+  "id": 823387121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.995249,39.407284,-77.995249,39.407284",
+    "geom:latitude":39.407284,
+    "geom:longitude":-77.995249,
+    "iso:country":"US",
+    "sg:address":"243 Wren St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 264 2001",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HyRR5kqYQnX0IF8z19uuS_39.407284_-77.995249@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431933,
+    "wof:geomhash":"a10cb9629679d0361accfdae89635da5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823387121
+        }
+    ],
+    "wof:id":823387121,
+    "wof:lastmodified":1463431933,
+    "wof:name":"Carolyn Christian",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -77.995249,
+    39.407284,
+    -77.995249,
+    39.407284
+],
+  "geometry": {"coordinates":[-77.995249,39.407284],"type":"Point"}
+}

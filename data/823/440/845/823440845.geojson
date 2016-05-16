@@ -1,0 +1,75 @@
+{
+  "id": 823440845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.230371,37.798532,-81.230371,37.798532",
+    "geom:latitude":37.798532,
+    "geom:longitude":-81.230371,
+    "iso:country":"US",
+    "sg:address":"2257 Harper Rd",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 253 1227",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4s8rEBwjhOUtPPL2Eqcgpx_37.798532_-81.230371@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434401,
+    "wof:geomhash":"2fccdc0949dc49cb1d154e48e1218655",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823440845
+        }
+    ],
+    "wof:id":823440845,
+    "wof:lastmodified":1463434401,
+    "wof:name":"Baker Electronix",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [
+    -81.230371,
+    37.798532,
+    -81.230371,
+    37.798532
+],
+  "geometry": {"coordinates":[-81.23037100000001,37.798532],"type":"Point"}
+}

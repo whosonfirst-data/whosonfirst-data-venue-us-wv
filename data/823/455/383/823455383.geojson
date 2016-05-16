@@ -1,0 +1,66 @@
+{
+  "id": 823455383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.095703,39.3783,-78.095703,39.3783",
+    "geom:latitude":39.3783,
+    "geom:longitude":-78.095703,
+    "iso:country":"US",
+    "sg:address":"779 Ganotown E Rd",
+    "sg:city":"Gerrardstown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 229 3522",
+    "sg:postcode":"25420",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AkHxubGkbG1YNE7JM9125_39.378300_-78.095703@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435072,
+    "wof:geomhash":"0a1e43aa39f07e919f56de30b9f2ec0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823455383
+        }
+    ],
+    "wof:id":823455383,
+    "wof:lastmodified":1463435072,
+    "wof:name":"Richard's Auto Shop",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.095703,
+    39.3783,
+    -78.095703,
+    39.3783
+],
+  "geometry": {"coordinates":[-78.095703,39.3783],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823411299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.656962,38.367753,-81.656962,38.367753",
+    "geom:latitude":38.367753,
+    "geom:longitude":-81.656962,
+    "iso:country":"US",
+    "sg:address":"1104 Madison St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 4388",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Mn4v7JE0yrg3Q1yMMRGqA_38.367753_-81.656962@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433077,
+    "wof:geomhash":"debbb1edb9fa44a1929e5c18e79f0ac0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823411299
+        }
+    ],
+    "wof:id":823411299,
+    "wof:lastmodified":1463433077,
+    "wof:name":"WV Heating Ventilating AC",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.656962,
+    38.367753,
+    -81.656962,
+    38.367753
+],
+  "geometry": {"coordinates":[-81.65696199999999,38.367753],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823393811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.227082,37.245719,-81.227082,37.245719",
+    "geom:latitude":37.245719,
+    "geom:longitude":-81.227082,
+    "iso:country":"US",
+    "sg:address":"1109 W Cumberland Rd",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 327 8128",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XyTI10pYAEDESgTYwquDS_37.245719_-81.227082@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432267,
+    "wof:geomhash":"aa8f27f42a3c24c82aa8668fab1f8842",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823393811
+        }
+    ],
+    "wof:id":823393811,
+    "wof:lastmodified":1463432267,
+    "wof:name":"Blaydes Clinic Optical",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.227082,
+    37.245719,
+    -81.227082,
+    37.245719
+],
+  "geometry": {"coordinates":[-81.227082,37.245719],"type":"Point"}
+}

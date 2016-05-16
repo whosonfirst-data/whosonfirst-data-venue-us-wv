@@ -1,0 +1,71 @@
+{
+  "id": 823396515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.98758,39.657802,-79.98758,39.657802",
+    "geom:latitude":39.657802,
+    "geom:longitude":-79.98758,
+    "iso:country":"US",
+    "sg:address":"386 Crawford Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 291 5663",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731749,
+        102082587,
+        85807277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4amvVBle125HcLvHxheXua_39.657802_-79.987580@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432399,
+    "wof:geomhash":"690d8450ebdb88243f8834129550306d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731749,
+            "neighbourhood_id":85807277,
+            "region_id":85688589,
+            "venue_id":823396515
+        }
+    ],
+    "wof:id":823396515,
+    "wof:lastmodified":1463432399,
+    "wof:name":"David C Fogarty MD",
+    "wof:parent_id":85807277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -79.98758,
+    39.657802,
+    -79.98758,
+    39.657802
+],
+  "geometry": {"coordinates":[-79.98757999999999,39.657802],"type":"Point"}
+}

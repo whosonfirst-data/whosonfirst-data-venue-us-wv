@@ -1,0 +1,71 @@
+{
+  "id": 823366271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.695301,38.366803,-81.695301,38.366803",
+    "geom:latitude":38.366803,
+    "geom:longitude":-81.695301,
+    "iso:country":"US",
+    "sg:address":"419 D St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 3850",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uV6vN3IIJf02KVkErTQdC_38.366803_-81.695301@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431025,
+    "wof:geomhash":"759444d0ffe15cd9f2d31ac041527c09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823366271
+        }
+    ],
+    "wof:id":823366271,
+    "wof:lastmodified":1463431025,
+    "wof:name":"Farm Table Family Restaurant",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "family"
+    ]
+},
+  "bbox": [
+    -81.695301,
+    38.366803,
+    -81.695301,
+    38.366803
+],
+  "geometry": {"coordinates":[-81.695301,38.366803],"type":"Point"}
+}

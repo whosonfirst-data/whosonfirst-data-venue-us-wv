@@ -1,0 +1,71 @@
+{
+  "id": 823388529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.129347,37.351332,-81.129347,37.351332",
+    "geom:latitude":37.351332,
+    "geom:longitude":-81.129347,
+    "iso:country":"US",
+    "sg:address":"252 Abbony Ln",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 6795",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yAYVR3f7R5rl8arrT3VIj_37.351332_-81.129347@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431992,
+    "wof:geomhash":"96a81952f88fb1f3680e71dde2b3b908",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823388529
+        }
+    ],
+    "wof:id":823388529,
+    "wof:lastmodified":1463431992,
+    "wof:name":"Wimmer and Wimmer Construction",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -81.129347,
+    37.351332,
+    -81.129347,
+    37.351332
+],
+  "geometry": {"coordinates":[-81.129347,37.351332],"type":"Point"}
+}

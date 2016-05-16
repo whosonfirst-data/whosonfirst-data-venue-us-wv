@@ -1,0 +1,71 @@
+{
+  "id": 823371643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.968706,39.584871,-79.968706,39.584871",
+    "geom:latitude":39.584871,
+    "geom:longitude":-79.968706,
+    "iso:country":"US",
+    "sg:address":"300 Scott Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 8155",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "individual",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pXyU105ydLzj1J2jnUdEw_39.584871_-79.968706@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431266,
+    "wof:geomhash":"85a1f820502bbb5a61cbf9abbe1d8c17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823371643
+        }
+    ],
+    "wof:id":823371643,
+    "wof:lastmodified":1463431266,
+    "wof:name":"American Cancer Society",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "individual",
+        "family"
+    ]
+},
+  "bbox": [
+    -79.968706,
+    39.584871,
+    -79.968706,
+    39.584871
+],
+  "geometry": {"coordinates":[-79.968706,39.584871],"type":"Point"}
+}

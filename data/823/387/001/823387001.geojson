@@ -1,0 +1,68 @@
+{
+  "id": 823387001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.101574,37.689775,-81.101574,37.689775",
+    "geom:latitude":37.689775,
+    "geom:longitude":-81.101574,
+    "iso:country":"US",
+    "sg:address":"600 Flat Top Rd",
+    "sg:city":"Shady Spring",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 256 4633",
+    "sg:postcode":"25918",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JxAFTGFcqSNkOCyIye4io_37.689775_-81.101574@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431929,
+    "wof:geomhash":"63918923e4dfb73c598c739950e411f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823387001
+        }
+    ],
+    "wof:id":823387001,
+    "wof:lastmodified":1463431929,
+    "wof:name":"Shady Spring Elementary School",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.101574,
+    37.689775,
+    -81.101574,
+    37.689775
+],
+  "geometry": {"coordinates":[-81.101574,37.689775],"type":"Point"}
+}

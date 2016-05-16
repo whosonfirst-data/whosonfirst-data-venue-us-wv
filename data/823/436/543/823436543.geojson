@@ -1,0 +1,71 @@
+{
+  "id": 823436543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.107958,37.34754,-81.107958,37.34754",
+    "geom:latitude":37.34754,
+    "geom:longitude":-81.107958,
+    "iso:country":"US",
+    "sg:address":"106 Willowbrook Rd",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Amusement Park",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 0101",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "park"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7k6bfbHF4ApydJ5ZZEjmfG_37.347540_-81.107958@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434195,
+    "wof:geomhash":"3e5e0e7f60d9a2183f316b85dcadac34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823436543
+        }
+    ],
+    "wof:id":823436543,
+    "wof:lastmodified":1463434195,
+    "wof:name":"Wood Lake Fun Park",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "park"
+    ]
+},
+  "bbox": [
+    -81.107958,
+    37.34754,
+    -81.107958,
+    37.34754
+],
+  "geometry": {"coordinates":[-81.107958,37.34754],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823377055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.449238,37.801017,-80.449238,37.801017",
+    "geom:latitude":37.801017,
+    "geom:longitude":-80.449238,
+    "iso:country":"US",
+    "sg:address":"103 Church St",
+    "sg:city":"Lewisburg",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 000 1111",
+    "sg:postcode":"24901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aGnfjEHYldpSaxJnUul6b_37.801017_-80.449238@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431513,
+    "wof:geomhash":"c2f5d428da5a5db7063f4b244bdddcba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823377055
+        }
+    ],
+    "wof:id":823377055,
+    "wof:lastmodified":1463431513,
+    "wof:name":"Greenbrier County Emergency",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -80.449238,
+    37.801017,
+    -80.449238,
+    37.801017
+],
+  "geometry": {"coordinates":[-80.44923799999999,37.801017],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823409315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.74799,38.340855,-81.74799,38.340855",
+    "geom:latitude":38.340855,
+    "geom:longitude":-81.74799,
+    "iso:country":"US",
+    "sg:address":"1 Rockcrest Dr",
+    "sg:city":"South Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 4140",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "city",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2y12xKYb9177DBXstw43bx_38.340855_-81.747990@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432996,
+    "wof:geomhash":"098325ce4021164d4ff7c3c2ba12497a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823409315
+        }
+    ],
+    "wof:id":823409315,
+    "wof:lastmodified":1463432996,
+    "wof:name":"South Charleston Sanitary Brd",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "program"
+    ]
+},
+  "bbox": [
+    -81.74799,
+    38.340855,
+    -81.74799,
+    38.340855
+],
+  "geometry": {"coordinates":[-81.74799,38.340855],"type":"Point"}
+}

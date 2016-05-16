@@ -1,0 +1,71 @@
+{
+  "id": 823394119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.233403,37.270292,-81.233403,37.270292",
+    "geom:latitude":37.270292,
+    "geom:longitude":-81.233403,
+    "iso:country":"US",
+    "sg:address":"400 Park St",
+    "sg:city":"Bluewell",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 589 3186",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5u9t2iLBEIVMIuzLvSPzUi_37.270292_-81.233403@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432286,
+    "wof:geomhash":"f837b3b7a9df6628cc2980ff8dba483f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823394119
+        }
+    ],
+    "wof:id":823394119,
+    "wof:lastmodified":1463432286,
+    "wof:name":"Tremont Park Apartments",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -81.233403,
+    37.270292,
+    -81.233403,
+    37.270292
+],
+  "geometry": {"coordinates":[-81.233403,37.270292],"type":"Point"}
+}

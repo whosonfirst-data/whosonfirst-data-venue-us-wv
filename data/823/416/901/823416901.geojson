@@ -1,0 +1,73 @@
+{
+  "id": 823416901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.088051,37.368927,-81.088051,37.368927",
+    "geom:latitude":37.368927,
+    "geom:longitude":-81.088051,
+    "iso:country":"US",
+    "sg:address":"175 Bluefield Ave",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 3994",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lZf3dtS0dWH5JE1zqWRvL_37.368927_-81.088051@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433326,
+    "wof:geomhash":"426ec1596706b05fcb126e03c15215b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823416901
+        }
+    ],
+    "wof:id":823416901,
+    "wof:lastmodified":1463433326,
+    "wof:name":"Freemans Auto Sales",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -81.088051,
+    37.368927,
+    -81.088051,
+    37.368927
+],
+  "geometry": {"coordinates":[-81.08805099999999,37.368927],"type":"Point"}
+}

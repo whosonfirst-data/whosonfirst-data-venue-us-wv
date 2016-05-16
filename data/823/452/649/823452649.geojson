@@ -1,0 +1,76 @@
+{
+  "id": 823452649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.987648,39.449209,-77.987648,39.449209",
+    "geom:latitude":39.449209,
+    "geom:longitude":-77.987648,
+    "iso:country":"US",
+    "sg:address":"930 Foxcroft Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/adam-stephens/139314-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 262 1760",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cPTeCrbfwAyzOLBnpa15t_39.449209_-77.987648@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434915,
+    "wof:geomhash":"39fe5f0a38a96a490e4488b6913eb7e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823452649
+        }
+    ],
+    "wof:id":823452649,
+    "wof:lastmodified":1463434915,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -77.987648,
+    39.449209,
+    -77.987648,
+    39.449209
+],
+  "geometry": {"coordinates":[-77.98764799999999,39.449209],"type":"Point"}
+}

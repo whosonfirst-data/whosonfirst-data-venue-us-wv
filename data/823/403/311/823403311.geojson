@@ -1,0 +1,71 @@
+{
+  "id": 823403311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.111344,37.364229,-81.111344,37.364229",
+    "geom:latitude":37.364229,
+    "geom:longitude":-81.111344,
+    "iso:country":"US",
+    "sg:address":"129 Valley View St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 4780",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NJwfirQIVmDBF1qJRj7Fk_37.364229_-81.111344@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432724,
+    "wof:geomhash":"e777ec94805ace93ad9aa5acd44c5960",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823403311
+        }
+    ],
+    "wof:id":823403311,
+    "wof:lastmodified":1463432724,
+    "wof:name":"Voca Group Home",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -81.111344,
+    37.364229,
+    -81.111344,
+    37.364229
+],
+  "geometry": {"coordinates":[-81.111344,37.364229],"type":"Point"}
+}

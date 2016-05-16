@@ -1,0 +1,75 @@
+{
+  "id": 823421029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.846466,38.925993,-79.846466,38.925993",
+    "geom:latitude":38.925993,
+    "geom:longitude":-79.846466,
+    "iso:country":"US",
+    "sg:address":"316 Randolph Ave",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 637 5966",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XIBe6tVmbHA1OKtpJH1jO_38.925993_-79.846466@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433507,
+    "wof:geomhash":"7538acfd0a2c461604f53cecd528e825",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823421029
+        }
+    ],
+    "wof:id":823421029,
+    "wof:lastmodified":1463433507,
+    "wof:name":"Smoker Friendly",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -79.846466,
+    38.925993,
+    -79.846466,
+    38.925993
+],
+  "geometry": {"coordinates":[-79.84646600000001,38.925993],"type":"Point"}
+}

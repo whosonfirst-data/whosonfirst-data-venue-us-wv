@@ -1,0 +1,69 @@
+{
+  "id": 823378715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.992934,37.854046,-81.992934,37.854046",
+    "geom:latitude":37.854046,
+    "geom:longitude":-81.992934,
+    "iso:country":"US",
+    "sg:address":"87 High St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 752 6299",
+    "sg:postcode":"25601",
+    "sg:province":"WV",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868319,
+        102083369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6i4uAeJxj5U1mSqR8otZhX_37.854046_-81.992934@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431585,
+    "wof:geomhash":"2a5d8f7610bb020f84964d8ff229b0b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083369,
+            "neighbourhood_id":85868319,
+            "region_id":85688589,
+            "venue_id":823378715
+        }
+    ],
+    "wof:id":823378715,
+    "wof:lastmodified":1463431585,
+    "wof:name":"Logans Janitorial Service",
+    "wof:parent_id":85868319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -81.992934,
+    37.854046,
+    -81.992934,
+    37.854046
+],
+  "geometry": {"coordinates":[-81.99293400000001,37.854046],"type":"Point"}
+}

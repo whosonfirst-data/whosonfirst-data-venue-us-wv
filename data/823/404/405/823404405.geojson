@@ -1,0 +1,76 @@
+{
+  "id": 823404405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.019564,37.939785,-82.019564,37.939785",
+    "geom:latitude":37.939785,
+    "geom:longitude":-82.019564,
+    "iso:country":"US",
+    "sg:address":"50 Caney Branch Rd",
+    "sg:city":"Chapmanville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 855 0140",
+    "sg:postcode":"25508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "laboratory",
+        "reporting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868319,
+        102083369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ye82vx9k3YWed2VlFANvo_37.939785_-82.019564@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432783,
+    "wof:geomhash":"45abece1c11fcfbf12f63978d3c87582",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083369,
+            "neighbourhood_id":85868319,
+            "region_id":85688589,
+            "venue_id":823404405
+        }
+    ],
+    "wof:id":823404405,
+    "wof:lastmodified":1463432783,
+    "wof:name":"Compliance Monitoring Lab Inc",
+    "wof:parent_id":85868319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "reporting"
+    ]
+},
+  "bbox": [
+    -82.019564,
+    37.939785,
+    -82.019564,
+    37.939785
+],
+  "geometry": {"coordinates":[-82.019564,37.939785],"type":"Point"}
+}

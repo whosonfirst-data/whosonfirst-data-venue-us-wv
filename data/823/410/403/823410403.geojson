@@ -1,0 +1,73 @@
+{
+  "id": 823410403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.170575,37.778354,-81.170575,37.778354",
+    "geom:latitude":37.778354,
+    "geom:longitude":-81.170575,
+    "iso:country":"US",
+    "sg:address":"212 S Vance Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 256 7137",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ui4CRdveMutIUdN7GLzV4_37.778354_-81.170575@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433044,
+    "wof:geomhash":"a73c008aa59d542e12e381ba040312ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823410403
+        }
+    ],
+    "wof:id":823410403,
+    "wof:lastmodified":1463433044,
+    "wof:name":"FMRS Housing Inc",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -81.170575,
+    37.778354,
+    -81.170575,
+    37.778354
+],
+  "geometry": {"coordinates":[-81.170575,37.778354],"type":"Point"}
+}

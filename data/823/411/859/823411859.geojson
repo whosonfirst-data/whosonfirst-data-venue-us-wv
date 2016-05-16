@@ -1,0 +1,71 @@
+{
+  "id": 823411859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.140259,39.485873,-80.140259,39.485873",
+    "geom:latitude":39.485873,
+    "geom:longitude":-80.140259,
+    "iso:country":"US",
+    "sg:address":"401 Quincy St",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 2816",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AEYDZSICfct4xcDtFhqjm_39.485873_-80.140259@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433098,
+    "wof:geomhash":"074a5089eb627e015e70bdf1b1e02af3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823411859
+        }
+    ],
+    "wof:id":823411859,
+    "wof:lastmodified":1463433098,
+    "wof:name":"Marion Unity Apartments",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -80.140259,
+    39.485873,
+    -80.140259,
+    39.485873
+],
+  "geometry": {"coordinates":[-80.140259,39.485873],"type":"Point"}
+}

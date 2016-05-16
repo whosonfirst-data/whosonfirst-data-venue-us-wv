@@ -1,0 +1,73 @@
+{
+  "id": 823386613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.624111,40.388743,-80.624111,40.388743",
+    "geom:latitude":40.388743,
+    "geom:longitude":-80.624111,
+    "iso:country":"US",
+    "sg:address":"3025 Birch Dr",
+    "sg:city":"Weirton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 797 7680",
+    "sg:postcode":"26062",
+    "sg:province":"WV",
+    "sg:tags":[
+        "management",
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731371,
+        102082633,
+        85832497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aEYogqjJ5iEN7IvccLgrH_40.388743_-80.624111@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431912,
+    "wof:geomhash":"fd5bb5b0cf83fdd692c1c510815ed15e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731371,
+            "neighbourhood_id":85832497,
+            "region_id":85688589,
+            "venue_id":823386613
+        }
+    ],
+    "wof:id":823386613,
+    "wof:lastmodified":1463431912,
+    "wof:name":"Neo Industries (usa) Inc",
+    "wof:parent_id":85832497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management",
+        "welding"
+    ]
+},
+  "bbox": [
+    -80.624111,
+    40.388743,
+    -80.624111,
+    40.388743
+],
+  "geometry": {"coordinates":[-80.624111,40.388743],"type":"Point"}
+}

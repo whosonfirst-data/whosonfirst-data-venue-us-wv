@@ -1,0 +1,80 @@
+{
+  "id": 823457175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.983097,39.631993,-79.983097,39.631993",
+    "geom:latitude":39.631993,
+    "geom:longitude":-79.983097,
+    "iso:country":"US",
+    "sg:address":"862 Fairmont Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 7171",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dealers-used",
+        "car",
+        "used",
+        "cars-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818601,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Qz4vpTghX1acfYoMcnhnm_39.631993_-79.983097@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435148,
+    "wof:geomhash":"1cbcf29c07e3b4327ea0cc1a2a63e231",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85818601,
+            "region_id":85688589,
+            "venue_id":823457175
+        }
+    ],
+    "wof:id":823457175,
+    "wof:lastmodified":1463435148,
+    "wof:name":"Quality One Pre-Owned Auto Center",
+    "wof:parent_id":85818601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealers-used",
+        "car",
+        "used",
+        "cars-wholesale"
+    ]
+},
+  "bbox": [
+    -79.983097,
+    39.631993,
+    -79.983097,
+    39.631993
+],
+  "geometry": {"coordinates":[-79.983097,39.631993],"type":"Point"}
+}

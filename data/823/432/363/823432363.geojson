@@ -1,0 +1,71 @@
+{
+  "id": 823432363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.573679,38.319081,-81.573679,38.319081",
+    "geom:latitude":38.319081,
+    "geom:longitude":-81.573679,
+    "iso:country":"US",
+    "sg:address":"5111 Staunton Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 926 6680",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_372qDwPolsGmImXP8nO2SE_38.319081_-81.573679@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433987,
+    "wof:geomhash":"4af2589c2fd7ead40832e632d824d152",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823432363
+        }
+    ],
+    "wof:id":823432363,
+    "wof:lastmodified":1463433987,
+    "wof:name":"Koch Psychological Svc",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -81.573679,
+    38.319081,
+    -81.573679,
+    38.319081
+],
+  "geometry": {"coordinates":[-81.573679,38.319081],"type":"Point"}
+}

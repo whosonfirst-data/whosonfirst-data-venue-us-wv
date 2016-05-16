@@ -1,0 +1,73 @@
+{
+  "id": 823426267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.974466,39.443729,-77.974466,39.443729",
+    "geom:latitude":39.443729,
+    "geom:longitude":-77.974466,
+    "iso:country":"US",
+    "sg:address":"1306 Virginia Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 267 6783",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jyWz9nX3Np1dyp0WnFX5l_39.443729_-77.974466@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433718,
+    "wof:geomhash":"f19183304838c08956eb2742f435fe3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823426267
+        }
+    ],
+    "wof:id":823426267,
+    "wof:lastmodified":1463433718,
+    "wof:name":"Glen's Auto & Truck Repairs",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -77.974466,
+    39.443729,
+    -77.974466,
+    39.443729
+],
+  "geometry": {"coordinates":[-77.97446600000001,39.443729],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823450839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.608364,38.341423,-81.608364,38.341423",
+    "geom:latitude":38.341423,
+    "geom:longitude":-81.608364,
+    "iso:country":"US",
+    "sg:address":"1 Crestmont Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 8135",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vLbhJA51eNCO87xhhRsGY_38.341423_-81.608364@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434846,
+    "wof:geomhash":"d310c2e5d5b2fa1f4ad5487807ee883d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823450839
+        }
+    ],
+    "wof:id":823450839,
+    "wof:lastmodified":1463434846,
+    "wof:name":"Sanctuary Apartments Assn",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -81.608364,
+    38.341423,
+    -81.608364,
+    38.341423
+],
+  "geometry": {"coordinates":[-81.60836399999999,38.341423],"type":"Point"}
+}

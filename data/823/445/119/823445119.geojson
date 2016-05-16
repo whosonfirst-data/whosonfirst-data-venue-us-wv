@@ -1,0 +1,73 @@
+{
+  "id": 823445119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.135464,39.46213,-80.135464,39.46213",
+    "geom:latitude":39.46213,
+    "geom:longitude":-80.135464,
+    "iso:country":"US",
+    "sg:address":"1219 Parkside Dr",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 4317",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MMqPiw3euCzdRnayaEmvO_39.462130_-80.135464@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434599,
+    "wof:geomhash":"e01f7b5bd36cb2bfdceb945af683d529",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823445119
+        }
+    ],
+    "wof:id":823445119,
+    "wof:lastmodified":1463434599,
+    "wof:name":"Satch S Electric",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.135464,
+    39.46213,
+    -80.135464,
+    39.46213
+],
+  "geometry": {"coordinates":[-80.135464,39.46213],"type":"Point"}
+}

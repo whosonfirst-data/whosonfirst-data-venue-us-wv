@@ -1,0 +1,83 @@
+{
+  "id": 823456727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.591867,40.396117,-80.591867,40.396117",
+    "geom:latitude":40.396117,
+    "geom:longitude":-80.591867,
+    "iso:country":"US",
+    "sg:address":"3828 Main St",
+    "sg:city":"Weirton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 748 3338",
+    "sg:postcode":"26062",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home",
+        "builder",
+        "management",
+        "contractor"
+    ],
+    "sg:website":"http://www.npowell.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731371,
+        102082633,
+        85832497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZxDTBef7Tu1ZXxARVpQv4_40.396117_-80.591867@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435122,
+    "wof:geomhash":"7d1fc36ba7b84183e822630e45f54577",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731371,
+            "neighbourhood_id":85832497,
+            "region_id":85688589,
+            "venue_id":823456727
+        }
+    ],
+    "wof:id":823456727,
+    "wof:lastmodified":1463435122,
+    "wof:name":"N-Powell Company, Inc.",
+    "wof:parent_id":85832497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder",
+        "management",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.591867,
+    40.396117,
+    -80.591867,
+    40.396117
+],
+  "geometry": {"coordinates":[-80.59186699999999,40.396117],"type":"Point"}
+}

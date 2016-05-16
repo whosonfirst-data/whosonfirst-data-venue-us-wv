@@ -1,0 +1,73 @@
+{
+  "id": 823414945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.852972,39.291342,-77.852972,39.291342",
+    "geom:latitude":39.291342,
+    "geom:longitude":-77.852972,
+    "iso:country":"US",
+    "sg:address":"613 E Washington St",
+    "sg:city":"Charles Town",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 725 0595",
+    "sg:postcode":"25414",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731443,
+        102082647,
+        85807793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yH0i1pVlURKShJkgvgHFN_39.291342_-77.852972@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433220,
+    "wof:geomhash":"bc69e1887d3b98193c3f8f0589942ebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082647,
+            "locality_id":101731443,
+            "neighbourhood_id":85807793,
+            "region_id":85688589,
+            "venue_id":823414945
+        }
+    ],
+    "wof:id":823414945,
+    "wof:lastmodified":1463433220,
+    "wof:name":"Charles Town Auto Care",
+    "wof:parent_id":85807793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -77.852972,
+    39.291342,
+    -77.852972,
+    39.291342
+],
+  "geometry": {"coordinates":[-77.85297199999999,39.291342],"type":"Point"}
+}

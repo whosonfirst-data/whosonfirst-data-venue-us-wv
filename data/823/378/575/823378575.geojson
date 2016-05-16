@@ -1,0 +1,73 @@
+{
+  "id": 823378575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.976971,39.446841,-77.976971,39.446841",
+    "geom:latitude":39.446841,
+    "geom:longitude":-77.976971,
+    "iso:country":"US",
+    "sg:address":"853 Wilson St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 267 7208",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KEL2pjrmyUprgM59e6rfC_39.446841_-77.976971@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431579,
+    "wof:geomhash":"e366b5d3b4472d7a255dbef6d6ced9dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823378575
+        }
+    ],
+    "wof:id":823378575,
+    "wof:lastmodified":1463431579,
+    "wof:name":"Porterfield's All Cloth Car",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -77.976971,
+    39.446841,
+    -77.976971,
+    39.446841
+],
+  "geometry": {"coordinates":[-77.97697100000001,39.446841],"type":"Point"}
+}

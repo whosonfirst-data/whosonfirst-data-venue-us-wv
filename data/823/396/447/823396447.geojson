@@ -1,0 +1,71 @@
+{
+  "id": 823396447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.849436,38.925113,-79.849436,38.925113",
+    "geom:latitude":38.925113,
+    "geom:longitude":-79.849436,
+    "iso:country":"US",
+    "sg:address":"108 3rd St",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 1100",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ocNhGqpkT6lZ05rgDLZbi_38.925113_-79.849436@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432394,
+    "wof:geomhash":"bc82070b6f5b333e3b568c43da9d7d51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823396447
+        }
+    ],
+    "wof:id":823396447,
+    "wof:lastmodified":1463432394,
+    "wof:name":"Family Dental Practice",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -79.849436,
+    38.925113,
+    -79.849436,
+    38.925113
+],
+  "geometry": {"coordinates":[-79.849436,38.925113],"type":"Point"}
+}

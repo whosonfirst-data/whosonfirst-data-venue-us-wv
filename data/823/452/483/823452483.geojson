@@ -1,0 +1,73 @@
+{
+  "id": 823452483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.601396,38.328465,-81.601396,38.328465",
+    "geom:latitude":38.328465,
+    "geom:longitude":-81.601396,
+    "iso:country":"US",
+    "sg:address":"3303 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/davis-creek/206643-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01UrjB6mVV6eBYAuIr9dTO_38.328465_-81.601396@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434909,
+    "wof:geomhash":"85c392ebe0c20214fb07372cdacb4065",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823452483
+        }
+    ],
+    "wof:id":823452483,
+    "wof:lastmodified":1463434909,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -81.601396,
+    38.328465,
+    -81.601396,
+    38.328465
+],
+  "geometry": {"coordinates":[-81.60139599999999,38.328465],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 823387073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.333416,38.180116,-81.333416,38.180116",
+    "geom:latitude":38.180116,
+    "geom:longitude":-81.333416,
+    "iso:country":"US",
+    "sg:address":"1107 2nd Ave",
+    "sg:city":"Montgomery",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 442 8697",
+    "sg:postcode":"25136",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kLpApmEI3ivCRcUWylkpB_38.180116_-81.333416@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431932,
+    "wof:geomhash":"d80c13453c5b936d56fc78490bccf120",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823387073
+        }
+    ],
+    "wof:id":823387073,
+    "wof:lastmodified":1463431932,
+    "wof:name":"Rainbow Floral",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.333416,
+    38.180116,
+    -81.333416,
+    38.180116
+],
+  "geometry": {"coordinates":[-81.333416,38.180116],"type":"Point"}
+}

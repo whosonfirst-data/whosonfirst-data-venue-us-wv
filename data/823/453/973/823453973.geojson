@@ -1,0 +1,74 @@
+{
+  "id": 823453973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.587875,38.325017,-81.587875,38.325017",
+    "geom:latitude":38.325017,
+    "geom:longitude":-81.587875,
+    "iso:country":"US",
+    "sg:address":"4225 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/belle/71710-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 6604",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YmLgWQBHNjf181TUUIt58_38.324547_-81.587195@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463434989,
+    "wof:geomhash":"35f8c2f8d74a5dabb89128ccb04541b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823453973
+        }
+    ],
+    "wof:id":823453973,
+    "wof:lastmodified":1463434989,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -81.587875,
+    38.325017,
+    -81.587875,
+    38.325017
+],
+  "geometry": {"coordinates":[-81.587875,38.325017],"type":"Point"}
+}

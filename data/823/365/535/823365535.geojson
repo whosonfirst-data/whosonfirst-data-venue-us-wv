@@ -1,0 +1,71 @@
+{
+  "id": 823365535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.307339,38.413328,-82.307339,38.413328",
+    "geom:latitude":38.413328,
+    "geom:longitude":-82.307339,
+    "iso:country":"US",
+    "sg:address":"107 River Rd",
+    "sg:city":"Barboursville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 736 1667",
+    "sg:postcode":"25504",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85816671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AE26PXMkYER3Mmzn2tlmk_38.413328_-82.307339@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463430989,
+    "wof:geomhash":"309b5df8ad06b204d0652f82b54f4cfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85816671,
+            "region_id":85688589,
+            "venue_id":823365535
+        }
+    ],
+    "wof:id":823365535,
+    "wof:lastmodified":1463430989,
+    "wof:name":"F H Siddiqi MD",
+    "wof:parent_id":85816671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -82.307339,
+    38.413328,
+    -82.307339,
+    38.413328
+],
+  "geometry": {"coordinates":[-82.307339,38.413328],"type":"Point"}
+}

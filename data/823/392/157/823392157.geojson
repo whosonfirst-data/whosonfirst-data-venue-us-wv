@@ -1,0 +1,71 @@
+{
+  "id": 823392157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.583832,37.440183,-81.583832,37.440183",
+    "geom:latitude":37.440183,
+    "geom:longitude":-81.583832,
+    "iso:country":"US",
+    "sg:address":"157 Stewart St",
+    "sg:city":"Welch",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 436 4584",
+    "sg:postcode":"24801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85809677,
+        102083405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50aAbmW3ZLq3rn7RbfJapF_37.440183_-81.583832@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432182,
+    "wof:geomhash":"26ed5dd32aa108d826bb5991e16f2caf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083405,
+            "neighbourhood_id":85809677,
+            "region_id":85688589,
+            "venue_id":823392157
+        }
+    ],
+    "wof:id":823392157,
+    "wof:lastmodified":1463432182,
+    "wof:name":"Kimberly Jones Medical Assoc",
+    "wof:parent_id":85809677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.583832,
+    37.440183,
+    -81.583832,
+    37.440183
+],
+  "geometry": {"coordinates":[-81.583832,37.440183],"type":"Point"}
+}

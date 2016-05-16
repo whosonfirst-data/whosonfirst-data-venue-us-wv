@@ -1,0 +1,73 @@
+{
+  "id": 823414345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.204415,37.807738,-81.204415,37.807738",
+    "geom:latitude":37.807738,
+    "geom:longitude":-81.204415,
+    "iso:country":"US",
+    "sg:address":"105 Elmridge Ct",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 253 2606",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71Cp8LXmoQJHVGDupl0a3k_37.807738_-81.204415@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433200,
+    "wof:geomhash":"b3e6a7966ac448b06782135714e6c09d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823414345
+        }
+    ],
+    "wof:id":823414345,
+    "wof:lastmodified":1463433200,
+    "wof:name":"E H Isaac Dr",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -81.204415,
+    37.807738,
+    -81.204415,
+    37.807738
+],
+  "geometry": {"coordinates":[-81.204415,37.807738],"type":"Point"}
+}

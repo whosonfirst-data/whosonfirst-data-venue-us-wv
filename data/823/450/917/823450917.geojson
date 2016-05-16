@@ -1,0 +1,75 @@
+{
+  "id": 823450917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.933589,39.632534,-79.933589,39.632534",
+    "geom:latitude":39.632534,
+    "geom:longitude":-79.933589,
+    "iso:country":"US",
+    "sg:address":"1257 Sabraton Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 4239",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85858573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cJw4EwnqOs2HBDPwjCMad_39.632534_-79.933589@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434849,
+    "wof:geomhash":"6652593c1013ac2fef986ebab3d760c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85858573,
+            "region_id":85688589,
+            "venue_id":823450917
+        }
+    ],
+    "wof:id":823450917,
+    "wof:lastmodified":1463434849,
+    "wof:name":"Hugo's Automotive Svc",
+    "wof:parent_id":85858573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -79.933589,
+    39.632534,
+    -79.933589,
+    39.632534
+],
+  "geometry": {"coordinates":[-79.933589,39.632534],"type":"Point"}
+}

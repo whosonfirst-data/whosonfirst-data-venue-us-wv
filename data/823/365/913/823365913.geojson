@@ -1,0 +1,73 @@
+{
+  "id": 823365913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.180825,37.773876,-81.180825,37.773876",
+    "geom:latitude":37.773876,
+    "geom:longitude":-81.180825,
+    "iso:country":"US",
+    "sg:address":"151 Beaver Ave",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 255 5599",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vALdmNBkcFVq8TaGoiR6y_37.773876_-81.180825@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431006,
+    "wof:geomhash":"54746095324fd54f104f0465d448c570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823365913
+        }
+    ],
+    "wof:id":823365913,
+    "wof:lastmodified":1463431006,
+    "wof:name":"Kroger",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -81.180825,
+    37.773876,
+    -81.180825,
+    37.773876
+],
+  "geometry": {"coordinates":[-81.180825,37.773876],"type":"Point"}
+}

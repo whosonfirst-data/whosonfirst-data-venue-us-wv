@@ -1,0 +1,69 @@
+{
+  "id": 823406771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.348154,39.376028,-80.348154,39.376028",
+    "geom:latitude":39.376028,
+    "geom:longitude":-80.348154,
+    "iso:country":"US",
+    "sg:address":"119 George St",
+    "sg:city":"Lumberport",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 584 4517",
+    "sg:postcode":"26386",
+    "sg:province":"WV",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85810773,
+        102082619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UjtV37TGMVInd5Scqi3DO_39.376028_-80.348154@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432889,
+    "wof:geomhash":"ffaed11483bce93aca20fad7a69912df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "neighbourhood_id":85810773,
+            "region_id":85688589,
+            "venue_id":823406771
+        }
+    ],
+    "wof:id":823406771,
+    "wof:lastmodified":1463432889,
+    "wof:name":"Police Dept Of Lumberport",
+    "wof:parent_id":85810773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -80.348154,
+    39.376028,
+    -80.348154,
+    39.376028
+],
+  "geometry": {"coordinates":[-80.34815399999999,39.376028],"type":"Point"}
+}

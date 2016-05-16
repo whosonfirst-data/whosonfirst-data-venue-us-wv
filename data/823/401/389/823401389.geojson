@@ -1,0 +1,73 @@
+{
+  "id": 823401389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.624706,40.38903,-80.624706,40.38903",
+    "geom:latitude":40.38903,
+    "geom:longitude":-80.624706,
+    "iso:country":"US",
+    "sg:address":"3015 Birch Dr",
+    "sg:city":"Weirton",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 748 0030",
+    "sg:postcode":"26062",
+    "sg:province":"WV",
+    "sg:tags":[
+        "steel",
+        "warehouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731371,
+        102082633,
+        85832497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7a69f8G8qkAHDv4Y41tjyH_40.389030_-80.624706@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432646,
+    "wof:geomhash":"f5fbfed38150a1fbab27f3e20032ba63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731371,
+            "neighbourhood_id":85832497,
+            "region_id":85688589,
+            "venue_id":823401389
+        }
+    ],
+    "wof:id":823401389,
+    "wof:lastmodified":1463432646,
+    "wof:name":"MBS Sales Inc",
+    "wof:parent_id":85832497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "warehouse"
+    ]
+},
+  "bbox": [
+    -80.624706,
+    40.38903,
+    -80.624706,
+    40.38903
+],
+  "geometry": {"coordinates":[-80.624706,40.38903],"type":"Point"}
+}

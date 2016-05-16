@@ -1,0 +1,71 @@
+{
+  "id": 823422909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.471723,39.041868,-80.471723,39.041868",
+    "geom:latitude":39.041868,
+    "geom:longitude":-80.471723,
+    "iso:country":"US",
+    "sg:address":"251 W 2nd St",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 269 3690",
+    "sg:postcode":"26452",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731403,
+        102083339,
+        85808257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6K9nLHAu0Wouqwucw9Y87z_39.041868_-80.471723@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433574,
+    "wof:geomhash":"df837c961379749ff60d961229efefb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083339,
+            "locality_id":101731403,
+            "neighbourhood_id":85808257,
+            "region_id":85688589,
+            "venue_id":823422909
+        }
+    ],
+    "wof:id":823422909,
+    "wof:lastmodified":1463433574,
+    "wof:name":"Foodland Weston",
+    "wof:parent_id":85808257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -80.471723,
+    39.041868,
+    -80.471723,
+    39.041868
+],
+  "geometry": {"coordinates":[-80.471723,39.041868],"type":"Point"}
+}

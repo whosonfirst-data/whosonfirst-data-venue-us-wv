@@ -1,0 +1,73 @@
+{
+  "id": 823378069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.277413,39.280919,-80.277413,39.280919",
+    "geom:latitude":39.280919,
+    "geom:longitude":-80.277413,
+    "iso:country":"US",
+    "sg:address":"1203 W Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 1122",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "institution",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OBA2GYdWsRURKaKJrRpHz_39.280919_-80.277413@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431561,
+    "wof:geomhash":"b8d95b4840722314323e65a051bc3e44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823378069
+        }
+    ],
+    "wof:id":823378069,
+    "wof:lastmodified":1463431561,
+    "wof:name":"Wesbanco",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "institution",
+        "business"
+    ]
+},
+  "bbox": [
+    -80.277413,
+    39.280919,
+    -80.277413,
+    39.280919
+],
+  "geometry": {"coordinates":[-80.277413,39.280919],"type":"Point"}
+}

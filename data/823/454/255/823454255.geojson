@@ -1,0 +1,71 @@
+{
+  "id": 823454255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.21936,37.259046,-81.21936,37.259046",
+    "geom:latitude":37.259046,
+    "geom:longitude":-81.21936,
+    "iso:country":"US",
+    "sg:address":"1603 Bland St Ste A",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 325 6896",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UqebKUmgFpIm80bYCx1aI_37.259046_-81.219360@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435010,
+    "wof:geomhash":"0682ed91eb6a05557594ba15ceb2a9f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823454255
+        }
+    ],
+    "wof:id":823454255,
+    "wof:lastmodified":1463435010,
+    "wof:name":"Hearthside Books",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -81.21936,
+    37.259046,
+    -81.21936,
+    37.259046
+],
+  "geometry": {"coordinates":[-81.21935999999999,37.259046],"type":"Point"}
+}

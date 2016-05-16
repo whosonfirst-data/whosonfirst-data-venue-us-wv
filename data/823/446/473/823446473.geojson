@@ -1,0 +1,71 @@
+{
+  "id": 823446473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.090468,38.21769,-80.090468,38.21769",
+    "geom:latitude":38.21769,
+    "geom:longitude":-80.090468,
+    "iso:country":"US",
+    "sg:address":"900 10th St",
+    "sg:city":"Marlinton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 000 1111",
+    "sg:postcode":"24954",
+    "sg:province":"WV",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731759,
+        102082613,
+        85805067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Me1jcq6QDdH4dmYFHT089_38.217690_-80.090468@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434672,
+    "wof:geomhash":"d392566eecd54fbb03cd96115840184a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082613,
+            "locality_id":101731759,
+            "neighbourhood_id":85805067,
+            "region_id":85688589,
+            "venue_id":823446473
+        }
+    ],
+    "wof:id":823446473,
+    "wof:lastmodified":1463434672,
+    "wof:name":"Sheriff's Department",
+    "wof:parent_id":85805067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -80.090468,
+    38.21769,
+    -80.090468,
+    38.21769
+],
+  "geometry": {"coordinates":[-80.090468,38.21769],"type":"Point"}
+}

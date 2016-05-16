@@ -1,0 +1,71 @@
+{
+  "id": 823394851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.482991,38.197252,-81.482991,38.197252",
+    "geom:latitude":38.197252,
+    "geom:longitude":-81.482991,
+    "iso:country":"US",
+    "sg:address":"205 Appalachian St",
+    "sg:city":"Cabin Creek",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 595 5587",
+    "sg:postcode":"25035",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rJVyLEoU5eY3RBW1hSBue_38.197252_-81.482991@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432320,
+    "wof:geomhash":"11487e01b42c38d53e1f27f2bba99085",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823394851
+        }
+    ],
+    "wof:id":823394851,
+    "wof:lastmodified":1463432320,
+    "wof:name":"Chelyan Village Apartments",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -81.482991,
+    38.197252,
+    -81.482991,
+    38.197252
+],
+  "geometry": {"coordinates":[-81.482991,38.197252],"type":"Point"}
+}

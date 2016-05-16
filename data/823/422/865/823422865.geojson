@@ -1,0 +1,73 @@
+{
+  "id": 823422865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.696636,40.051316,-80.696636,40.051316",
+    "geom:latitude":40.051316,
+    "geom:longitude":-80.696636,
+    "iso:country":"US",
+    "sg:address":"115 Chapel Rd",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 242 1466",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85816921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sPwZtFtM6WkhRQ7or9j3E_40.051316_-80.696636@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433572,
+    "wof:geomhash":"dfab26cd3e89694a9d2fe3aa387d96b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85816921,
+            "region_id":85688589,
+            "venue_id":823422865
+        }
+    ],
+    "wof:id":823422865,
+    "wof:lastmodified":1463433572,
+    "wof:name":"James P Schnupp DDS",
+    "wof:parent_id":85816921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -80.696636,
+    40.051316,
+    -80.696636,
+    40.051316
+],
+  "geometry": {"coordinates":[-80.696636,40.051316],"type":"Point"}
+}

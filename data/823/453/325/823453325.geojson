@@ -1,0 +1,76 @@
+{
+  "id": 823453325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.547399,39.240905,-81.547399,39.240905",
+    "geom:latitude":39.240905,
+    "geom:longitude":-81.547399,
+    "iso:country":"US",
+    "sg:address":"1606 Blizzard Dr",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/tygart/237768-rax/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 424 6776",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22Cv5juYVXGjBOH7GGmYut_39.240905_-81.547399@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434942,
+    "wof:geomhash":"af88def1dbe0884651075f84461d3b68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823453325
+        }
+    ],
+    "wof:id":823453325,
+    "wof:lastmodified":1463434942,
+    "wof:name":"Rax",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -81.547399,
+    39.240905,
+    -81.547399,
+    39.240905
+],
+  "geometry": {"coordinates":[-81.547399,39.240905],"type":"Point"}
+}

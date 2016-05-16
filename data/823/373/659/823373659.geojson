@@ -1,0 +1,71 @@
+{
+  "id": 823373659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.197537,37.266869,-81.197537,37.266869",
+    "geom:latitude":37.266869,
+    "geom:longitude":-81.197537,
+    "iso:country":"US",
+    "sg:address":"2409 Grassy Branch Rd",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 327 6838",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AB4HabdW56TW7U3OGMsku_37.266869_-81.197537@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431347,
+    "wof:geomhash":"0ed42ed67a4f257e974f0518325f9f31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823373659
+        }
+    ],
+    "wof:id":823373659,
+    "wof:lastmodified":1463431347,
+    "wof:name":"Don Dillon Auto Repair",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -81.197537,
+    37.266869,
+    -81.197537,
+    37.266869
+],
+  "geometry": {"coordinates":[-81.197537,37.266869],"type":"Point"}
+}

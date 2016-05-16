@@ -1,0 +1,73 @@
+{
+  "id": 823401133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.952177,39.62761,-79.952177,39.62761",
+    "geom:latitude":39.62761,
+    "geom:longitude":-79.952177,
+    "iso:country":"US",
+    "sg:address":"89 Kingwood St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 7323",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85858573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06yRdtE5x5put5k4MyWSAv_39.627610_-79.952177@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432635,
+    "wof:geomhash":"38cbe3933278ba3d9e43517941d0f55d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85858573,
+            "region_id":85688589,
+            "venue_id":823401133
+        }
+    ],
+    "wof:id":823401133,
+    "wof:lastmodified":1463432635,
+    "wof:name":"Daily Kneads Co LLC",
+    "wof:parent_id":85858573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.952177,
+    39.62761,
+    -79.952177,
+    39.62761
+],
+  "geometry": {"coordinates":[-79.95217700000001,39.62761],"type":"Point"}
+}

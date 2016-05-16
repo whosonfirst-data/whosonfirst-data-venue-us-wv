@@ -1,0 +1,73 @@
+{
+  "id": 823413211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.598544,38.330235,-81.598544,38.330235",
+    "geom:latitude":38.330235,
+    "geom:longitude":-81.598544,
+    "iso:country":"US",
+    "sg:address":"3412 Staunton Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 388 9860",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "fund",
+        "raising"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JeaPBzOD0iwhtA0g3BwkF_38.330235_-81.598544@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433146,
+    "wof:geomhash":"26089e74b727980721b239ebd288a87c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823413211
+        }
+    ],
+    "wof:id":823413211,
+    "wof:lastmodified":1463433146,
+    "wof:name":"Charlston Area Med Ctr Fndtion",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fund",
+        "raising"
+    ]
+},
+  "bbox": [
+    -81.598544,
+    38.330235,
+    -81.598544,
+    38.330235
+],
+  "geometry": {"coordinates":[-81.598544,38.330235],"type":"Point"}
+}

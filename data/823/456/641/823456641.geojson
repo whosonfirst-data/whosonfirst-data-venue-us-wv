@@ -1,0 +1,85 @@
+{
+  "id": 823456641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.628616,40.608349,-80.628616,40.608349",
+    "geom:latitude":40.608349,
+    "geom:longitude":-80.628616,
+    "iso:country":"US",
+    "sg:address":"9995 Ohio River Blvd",
+    "sg:city":"Newell",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 4343",
+    "sg:postcode":"26050",
+    "sg:province":"WV",
+    "sg:tags":[
+        "oil",
+        "refiner",
+        "products-wholesale",
+        "manufacturer",
+        "oils-petroleum"
+    ],
+    "sg:website":"http://www.ergon.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iUzHqyNrJpu1tPsObQVeT_40.608349_-80.628616@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435120,
+    "wof:geomhash":"b7c00cee4296a3fe57348b40f056ea7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823456641
+        }
+    ],
+    "wof:id":823456641,
+    "wof:lastmodified":1463435120,
+    "wof:name":"Ergon Inc",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "refiner",
+        "products-wholesale",
+        "manufacturer",
+        "oils-petroleum"
+    ]
+},
+  "bbox": [
+    -80.628616,
+    40.608349,
+    -80.628616,
+    40.608349
+],
+  "geometry": {"coordinates":[-80.62861599999999,40.608349],"type":"Point"}
+}

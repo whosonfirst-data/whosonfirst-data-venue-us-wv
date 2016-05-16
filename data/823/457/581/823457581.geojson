@@ -1,0 +1,80 @@
+{
+  "id": 823457581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.831792,39.68605,-79.831792,39.68605",
+    "geom:latitude":39.68605,
+    "geom:longitude":-79.831792,
+    "iso:country":"US",
+    "sg:address":"689 Fairchance Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 594 0095",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732105,
+        102082587,
+        85807831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3j03SlYdtjTMheZIhbwV8g_39.686050_-79.831792@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435166,
+    "wof:geomhash":"33ad92ca9ffbb9b3fd75d7821978b3d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101732105,
+            "neighbourhood_id":85807831,
+            "region_id":85688589,
+            "venue_id":823457581
+        }
+    ],
+    "wof:id":823457581,
+    "wof:lastmodified":1463435166,
+    "wof:name":"Boston Beanery Office",
+    "wof:parent_id":85807831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "espresso"
+    ]
+},
+  "bbox": [
+    -79.831792,
+    39.68605,
+    -79.831792,
+    39.68605
+],
+  "geometry": {"coordinates":[-79.83179199999999,39.68605],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823446201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.967278,39.458186,-77.967278,39.458186",
+    "geom:latitude":39.458186,
+    "geom:longitude":-77.967278,
+    "iso:country":"US",
+    "sg:address":"300 W Burke St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 6124",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eAtQpKdICZvoroCOw7Q6E_39.458186_-77.967278@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434654,
+    "wof:geomhash":"ebf119c345490875f4342703e77a56d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823446201
+        }
+    ],
+    "wof:id":823446201,
+    "wof:lastmodified":1463434654,
+    "wof:name":"Ritchie Law Firm PLC",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -77.967278,
+    39.458186,
+    -77.967278,
+    39.458186
+],
+  "geometry": {"coordinates":[-77.96727799999999,39.458186],"type":"Point"}
+}

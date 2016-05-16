@@ -1,0 +1,73 @@
+{
+  "id": 823442811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.552401,38.243393,-81.552401,38.243393",
+    "geom:latitude":38.243393,
+    "geom:longitude":-81.552401,
+    "iso:country":"US",
+    "sg:address":"901 W Dupont Ave",
+    "sg:city":"Belle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 357 1923",
+    "sg:postcode":"25015",
+    "sg:province":"WV",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yieDtmOgmAtphtBpmPIIx_38.243393_-81.552401@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434486,
+    "wof:geomhash":"b76935f49ab27c3e2c393d3daec11a4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823442811
+        }
+    ],
+    "wof:id":823442811,
+    "wof:lastmodified":1463434486,
+    "wof:name":"John B Conomos Inc",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.552401,
+    38.243393,
+    -81.552401,
+    38.243393
+],
+  "geometry": {"coordinates":[-81.552401,38.243393],"type":"Point"}
+}

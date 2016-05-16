@@ -1,0 +1,71 @@
+{
+  "id": 823444459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.248505,37.259916,-81.248505,37.259916",
+    "geom:latitude":37.259916,
+    "geom:longitude":-81.248505,
+    "iso:country":"US",
+    "sg:address":"2301 Bluefield Ave",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 325 9166",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DlfU5RNfpgxn3Xtq4Ngsb_37.259916_-81.248505@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434558,
+    "wof:geomhash":"a631d61575dafb8f7a8bfbda5000b397",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823444459
+        }
+    ],
+    "wof:id":823444459,
+    "wof:lastmodified":1463434558,
+    "wof:name":"Nationwide Mutual Insurance",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier"
+    ]
+},
+  "bbox": [
+    -81.248505,
+    37.259916,
+    -81.248505,
+    37.259916
+],
+  "geometry": {"coordinates":[-81.24850499999999,37.259916],"type":"Point"}
+}

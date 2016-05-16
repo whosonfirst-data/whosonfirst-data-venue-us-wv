@@ -1,0 +1,71 @@
+{
+  "id": 823382641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.558423,38.396419,-82.558423,38.396419",
+    "geom:latitude":38.396419,
+    "geom:longitude":-82.558423,
+    "iso:country":"US",
+    "sg:address":"555 C St",
+    "sg:city":"Ceredo",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 1285",
+    "sg:postcode":"25507",
+    "sg:province":"WV",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083365,
+        85857035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uZemqB0VvItaTJCLPYYBa_38.396419_-82.558423@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431761,
+    "wof:geomhash":"654e9718f7fd79dae2f70032fffcb6c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731553,
+            "neighbourhood_id":85857035,
+            "region_id":85688589,
+            "venue_id":823382641
+        }
+    ],
+    "wof:id":823382641,
+    "wof:lastmodified":1463431761,
+    "wof:name":"United Brokerage Svc",
+    "wof:parent_id":85857035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -82.558423,
+    38.396419,
+    -82.558423,
+    38.396419
+],
+  "geometry": {"coordinates":[-82.558423,38.396419],"type":"Point"}
+}

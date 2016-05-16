@@ -1,0 +1,66 @@
+{
+  "id": 823398677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.126517,39.478943,-80.126517,39.478943",
+    "geom:latitude":39.478943,
+    "geom:longitude":-80.126517,
+    "iso:country":"US",
+    "sg:address":"717 Morgantown Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 8391",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LcXrFNahsnyTpiTQ6Clgf_39.478943_-80.126517@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432519,
+    "wof:geomhash":"383fd6dc7054a0c66a73e33bf18a887c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823398677
+        }
+    ],
+    "wof:id":823398677,
+    "wof:lastmodified":1463432519,
+    "wof:name":"Dairy Mart",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.126517,
+    39.478943,
+    -80.126517,
+    39.478943
+],
+  "geometry": {"coordinates":[-80.12651700000001,39.478943],"type":"Point"}
+}

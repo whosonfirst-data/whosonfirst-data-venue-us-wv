@@ -1,0 +1,66 @@
+{
+  "id": 823449237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.333368,38.180118,-81.333368,38.180118",
+    "geom:latitude":38.180118,
+    "geom:longitude":-81.333368,
+    "iso:country":"US",
+    "sg:address":"1103 2nd Ave",
+    "sg:city":"Montgomery",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 442 2431",
+    "sg:postcode":"25136",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22ETL4vmxBZMvBjFdOOqGF_38.180118_-81.333368@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434789,
+    "wof:geomhash":"2bb1b5dd5143bf558dd4a9796518b8da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823449237
+        }
+    ],
+    "wof:id":823449237,
+    "wof:lastmodified":1463434789,
+    "wof:name":"Valley Drug",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.333368,
+    38.180118,
+    -81.333368,
+    38.180118
+],
+  "geometry": {"coordinates":[-81.33336799999999,38.180118],"type":"Point"}
+}

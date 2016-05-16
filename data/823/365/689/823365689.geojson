@@ -1,0 +1,71 @@
+{
+  "id": 823365689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.532114,38.220495,-81.532114,38.220495",
+    "geom:latitude":38.220495,
+    "geom:longitude":-81.532114,
+    "iso:country":"US",
+    "sg:address":"13022 Maccorkle Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 6109",
+    "sg:postcode":"25315",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IbOoaJYyeKikFuqwGGcAM_38.220495_-81.532114@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463430999,
+    "wof:geomhash":"62b2409fdef17c7b7e67dbff5d961107",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823365689
+        }
+    ],
+    "wof:id":823365689,
+    "wof:lastmodified":1463430999,
+    "wof:name":"Rockys Hot Sub Shop",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -81.532114,
+    38.220495,
+    -81.532114,
+    38.220495
+],
+  "geometry": {"coordinates":[-81.53211400000001,38.220495],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 823420875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.548124,39.324671,-81.548124,39.324671",
+    "geom:latitude":39.324671,
+    "geom:longitude":-81.548124,
+    "iso:country":"US",
+    "sg:address":"604 29th St",
+    "sg:city":"Vienna",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 295 8563",
+    "sg:postcode":"26105",
+    "sg:province":"WV",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731685,
+        102083343,
+        85819937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Db6jpq9JVryTDooiTuJmQ_39.324671_-81.548124@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433500,
+    "wof:geomhash":"8793620d3b20359a023aa7d4b5c82a06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731685,
+            "neighbourhood_id":85819937,
+            "region_id":85688589,
+            "venue_id":823420875
+        }
+    ],
+    "wof:id":823420875,
+    "wof:lastmodified":1463433500,
+    "wof:name":"Vienna City Police Dept",
+    "wof:parent_id":85819937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -81.548124,
+    39.324671,
+    -81.548124,
+    39.324671
+],
+  "geometry": {"coordinates":[-81.548124,39.324671],"type":"Point"}
+}

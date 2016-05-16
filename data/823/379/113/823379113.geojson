@@ -1,0 +1,73 @@
+{
+  "id": 823379113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.266683,39.281977,-80.266683,39.281977",
+    "geom:latitude":39.281977,
+    "geom:longitude":-80.266683,
+    "iso:country":"US",
+    "sg:address":"804 W Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 0455",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24KQ1dxerUiOtztvAhWlMj_39.281977_-80.266683@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431604,
+    "wof:geomhash":"7c07304cc3df1615ec6c8801f2fc9b84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823379113
+        }
+    ],
+    "wof:id":823379113,
+    "wof:lastmodified":1463431604,
+    "wof:name":"Meineke Car Care Ctr",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -80.266683,
+    39.281977,
+    -80.266683,
+    39.281977
+],
+  "geometry": {"coordinates":[-80.266683,39.281977],"type":"Point"}
+}

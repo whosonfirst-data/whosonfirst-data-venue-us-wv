@@ -1,0 +1,76 @@
+{
+  "id": 823452321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.589004,37.419953,-81.589004,37.419953",
+    "geom:latitude":37.419953,
+    "geom:longitude":-81.589004,
+    "iso:country":"US",
+    "sg:address":"751 Riverside Dr",
+    "sg:city":"Welch",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/browns-creek/139809-sicilias-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 436 3239",
+    "sg:postcode":"24801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85809677,
+        102083405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2P6ZUYHO21SCgi9D5VVfe5_37.419953_-81.589004@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434903,
+    "wof:geomhash":"ee2caaca3be4ede6fa776c2a41659bb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083405,
+            "neighbourhood_id":85809677,
+            "region_id":85688589,
+            "venue_id":823452321
+        }
+    ],
+    "wof:id":823452321,
+    "wof:lastmodified":1463434903,
+    "wof:name":"Sicilia's Pizzeria",
+    "wof:parent_id":85809677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -81.589004,
+    37.419953,
+    -81.589004,
+    37.419953
+],
+  "geometry": {"coordinates":[-81.589004,37.419953],"type":"Point"}
+}

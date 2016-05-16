@@ -1,0 +1,69 @@
+{
+  "id": 823445067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.459496,39.041878,-80.459496,39.041878",
+    "geom:latitude":39.041878,
+    "geom:longitude":-80.459496,
+    "iso:country":"US",
+    "sg:address":"543 Court Ave",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 269 5769",
+    "sg:postcode":"26452",
+    "sg:province":"WV",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85833241,
+        102083339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5w7w27ckVxJzFknX9jlyp4_39.041878_-80.459496@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434598,
+    "wof:geomhash":"ab4db8b8fde9c5ff3727b94aca5bfd07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083339,
+            "neighbourhood_id":85833241,
+            "region_id":85688589,
+            "venue_id":823445067
+        }
+    ],
+    "wof:id":823445067,
+    "wof:lastmodified":1463434598,
+    "wof:name":"Terbo Inc",
+    "wof:parent_id":85833241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -80.459496,
+    39.041878,
+    -80.459496,
+    39.041878
+],
+  "geometry": {"coordinates":[-80.459496,39.041878],"type":"Point"}
+}

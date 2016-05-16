@@ -1,0 +1,69 @@
+{
+  "id": 823379221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.587185,37.435854,-81.587185,37.435854",
+    "geom:latitude":37.435854,
+    "geom:longitude":-81.587185,
+    "iso:country":"US",
+    "sg:address":"394 Mc Dowell St",
+    "sg:city":"Welch",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 436 8428",
+    "sg:postcode":"24801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85809677,
+        102083405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NkhKooionNZ8uz7rs2PXk_37.435854_-81.587185@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431608,
+    "wof:geomhash":"88d9cc30e2c8562d2f6d9904a9d76b3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083405,
+            "neighbourhood_id":85809677,
+            "region_id":85688589,
+            "venue_id":823379221
+        }
+    ],
+    "wof:id":823379221,
+    "wof:lastmodified":1463431608,
+    "wof:name":"Welch Dialysis Center Inc",
+    "wof:parent_id":85809677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -81.587185,
+    37.435854,
+    -81.587185,
+    37.435854
+],
+  "geometry": {"coordinates":[-81.58718500000001,37.435854],"type":"Point"}
+}

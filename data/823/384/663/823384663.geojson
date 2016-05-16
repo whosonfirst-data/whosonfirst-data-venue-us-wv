@@ -1,0 +1,71 @@
+{
+  "id": 823384663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.738477,38.358723,-81.738477,38.358723",
+    "geom:latitude":38.358723,
+    "geom:longitude":-81.738477,
+    "iso:country":"US",
+    "sg:address":"210 11th St",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 1392",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3p574UYy2i6m4FzETWXG7Y_38.358723_-81.738477@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431838,
+    "wof:geomhash":"d80870530fadaaa403f171f9d56cbad3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823384663
+        }
+    ],
+    "wof:id":823384663,
+    "wof:lastmodified":1463431838,
+    "wof:name":"Partovi Medical Corporation",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -81.738477,
+    38.358723,
+    -81.738477,
+    38.358723
+],
+  "geometry": {"coordinates":[-81.738477,38.358723],"type":"Point"}
+}

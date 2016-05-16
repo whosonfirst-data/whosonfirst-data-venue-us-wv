@@ -1,0 +1,71 @@
+{
+  "id": 823373135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.997998,37.810582,-81.997998,37.810582",
+    "geom:latitude":37.810582,
+    "geom:longitude":-81.997998,
+    "iso:country":"US",
+    "sg:address":"408 Vance Ave",
+    "sg:city":"Monaville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 946 4884",
+    "sg:postcode":"25636",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868319,
+        102083369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36ZZjhGRa2MuDNm94hEddv_37.810582_-81.997998@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431326,
+    "wof:geomhash":"654bc3fc97513c28a73720990d8dcea0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083369,
+            "neighbourhood_id":85868319,
+            "region_id":85688589,
+            "venue_id":823373135
+        }
+    ],
+    "wof:id":823373135,
+    "wof:lastmodified":1463431326,
+    "wof:name":"D & E Electric",
+    "wof:parent_id":85868319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.997998,
+    37.810582,
+    -81.997998,
+    37.810582
+],
+  "geometry": {"coordinates":[-81.997998,37.810582],"type":"Point"}
+}

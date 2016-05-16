@@ -1,0 +1,71 @@
+{
+  "id": 823373571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.849285,38.925109,-79.849285,38.925109",
+    "geom:latitude":38.925109,
+    "geom:longitude":-79.849285,
+    "iso:country":"US",
+    "sg:address":"115 3rd St",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 637 8900",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OO3miSe4WzJwGZNpkUP7O_38.925109_-79.849285@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431342,
+    "wof:geomhash":"b6317e883ab7614e41ad61e1c06c91e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823373571
+        }
+    ],
+    "wof:id":823373571,
+    "wof:lastmodified":1463431342,
+    "wof:name":"Third Street Trading Co",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -79.849285,
+    38.925109,
+    -79.849285,
+    38.925109
+],
+  "geometry": {"coordinates":[-79.84928499999999,38.925109],"type":"Point"}
+}

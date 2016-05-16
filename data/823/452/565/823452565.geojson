@@ -1,0 +1,78 @@
+{
+  "id": 823452565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.60689,38.342198,-81.60689,38.342198",
+    "geom:latitude":38.342198,
+    "geom:longitude":-81.60689,
+    "iso:country":"US",
+    "sg:address":"300 Hillcrest Dr E",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/belle/139758-sicilias-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 340 3537",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20dONKoZ4yDSXoRHQm865B_38.342198_-81.606890@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434912,
+    "wof:geomhash":"dacb8d5283f23aff14aafa40d0402ac0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823452565
+        }
+    ],
+    "wof:id":823452565,
+    "wof:lastmodified":1463434912,
+    "wof:name":"Sicilia's Pizzeria",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -81.60689,
+    38.342198,
+    -81.60689,
+    38.342198
+],
+  "geometry": {"coordinates":[-81.60689000000001,38.342198],"type":"Point"}
+}

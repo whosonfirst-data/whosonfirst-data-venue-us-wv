@@ -1,0 +1,92 @@
+{
+  "id": 823457055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.030296,39.141628,-80.030296,39.141628",
+    "geom:latitude":39.141628,
+    "geom:longitude":-80.030296,
+    "iso:country":"US",
+    "sg:address":"329 S Main St",
+    "sg:city":"Philippi",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Skate Park",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 933 4348",
+    "sg:postcode":"26416",
+    "sg:province":"WV",
+    "sg:tags":[
+        "business",
+        "planning",
+        "entertainers-family",
+        "party",
+        "magician",
+        "event"
+    ],
+    "sg:website":"http://www.wvmagician.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IhDXVWL6OaSkBILCv1rdX_39.141628_-80.030296@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435139,
+    "wof:geomhash":"3353e4ed33a6ca6dd5eaf355525deb97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823457055
+        }
+    ],
+    "wof:id":823457055,
+    "wof:lastmodified":1463435139,
+    "wof:name":"Magic By Kevin-Kevin Lyons",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business",
+        "planning",
+        "entertainers-family",
+        "party",
+        "magician",
+        "event"
+    ]
+},
+  "bbox": [
+    -80.030296,
+    39.141628,
+    -80.030296,
+    39.141628
+],
+  "geometry": {"coordinates":[-80.03029600000001,39.141628],"type":"Point"}
+}

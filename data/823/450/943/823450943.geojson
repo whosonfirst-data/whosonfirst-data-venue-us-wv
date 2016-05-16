@@ -1,0 +1,69 @@
+{
+  "id": 823450943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.994063,39.601098,-79.994063,39.601098",
+    "geom:latitude":39.601098,
+    "geom:longitude":-79.994063,
+    "iso:country":"US",
+    "sg:address":"1032 Willis Dr",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 1989",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818601,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aamxzQLdr1SVEIkg0T2hb_39.601098_-79.994063@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434850,
+    "wof:geomhash":"679f2336ff3e89099ef9e42c759ca77c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85818601,
+            "region_id":85688589,
+            "venue_id":823450943
+        }
+    ],
+    "wof:id":823450943,
+    "wof:lastmodified":1463434850,
+    "wof:name":"R & R Laser Tuning",
+    "wof:parent_id":85818601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -79.994063,
+    39.601098,
+    -79.994063,
+    39.601098
+],
+  "geometry": {"coordinates":[-79.994063,39.601098],"type":"Point"}
+}

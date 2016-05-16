@@ -1,0 +1,73 @@
+{
+  "id": 823437753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.732482,38.34718,-81.732482,38.34718",
+    "geom:latitude":38.34718,
+    "geom:longitude":-81.732482,
+    "iso:country":"US",
+    "sg:address":"4992 Richland Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 9721",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FvLhnQkWEDUTQHv2sTCQJ_38.347180_-81.732482@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434270,
+    "wof:geomhash":"abaa932065aa45189fa4bc2ce835a39d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823437753
+        }
+    ],
+    "wof:id":823437753,
+    "wof:lastmodified":1463434270,
+    "wof:name":"Southmoor Hills Apartments",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -81.732482,
+    38.34718,
+    -81.732482,
+    38.34718
+],
+  "geometry": {"coordinates":[-81.732482,38.34718],"type":"Point"}
+}

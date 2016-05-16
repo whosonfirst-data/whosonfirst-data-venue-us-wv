@@ -1,0 +1,71 @@
+{
+  "id": 823414433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.988946,39.456087,-77.988946,39.456087",
+    "geom:latitude":39.456087,
+    "geom:longitude":-77.988946,
+    "iso:country":"US",
+    "sg:address":"1010 Foxcroft Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 8450",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "fast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YH7DB0MMADhdcMkpO1uLm_39.456087_-77.988946@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433203,
+    "wof:geomhash":"05fe9d14a7e0ffbfa14c80c36b8243b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823414433
+        }
+    ],
+    "wof:id":823414433,
+    "wof:lastmodified":1463433203,
+    "wof:name":"Arbys",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fast"
+    ]
+},
+  "bbox": [
+    -77.988946,
+    39.456087,
+    -77.988946,
+    39.456087
+],
+  "geometry": {"coordinates":[-77.988946,39.456087],"type":"Point"}
+}

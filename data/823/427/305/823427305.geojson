@@ -1,0 +1,73 @@
+{
+  "id": 823427305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.857795,39.653366,-80.857795,39.653366",
+    "geom:latitude":39.653366,
+    "geom:longitude":-80.857795,
+    "iso:country":"US",
+    "sg:address":"245 Wetzel St",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 5151",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qyR9DIWk46QhPBbGSxcJn_39.653366_-80.857795@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433763,
+    "wof:geomhash":"68465ffc886c0d17b12173adad92b1ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823427305
+        }
+    ],
+    "wof:id":823427305,
+    "wof:lastmodified":1463433763,
+    "wof:name":"Salvation Army",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -80.857795,
+    39.653366,
+    -80.857795,
+    39.653366
+],
+  "geometry": {"coordinates":[-80.857795,39.653366],"type":"Point"}
+}

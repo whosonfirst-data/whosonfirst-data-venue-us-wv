@@ -1,0 +1,71 @@
+{
+  "id": 823412813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.586977,38.403953,-82.586977,38.403953",
+    "geom:latitude":38.403953,
+    "geom:longitude":-82.586977,
+    "iso:country":"US",
+    "sg:address":"2018 Oak St",
+    "sg:city":"Kenova",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 4671",
+    "sg:postcode":"25530",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731517,
+        102083365,
+        85806071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XVoY3bBGcDKwJRmndsEci_38.403953_-82.586977@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433132,
+    "wof:geomhash":"db266f25bc84c93c30486f902c1dffec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731517,
+            "neighbourhood_id":85806071,
+            "region_id":85688589,
+            "venue_id":823412813
+        }
+    ],
+    "wof:id":823412813,
+    "wof:lastmodified":1463433132,
+    "wof:name":"J & G Plumbing & Heating",
+    "wof:parent_id":85806071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.586977,
+    38.403953,
+    -82.586977,
+    38.403953
+],
+  "geometry": {"coordinates":[-82.586977,38.403953],"type":"Point"}
+}

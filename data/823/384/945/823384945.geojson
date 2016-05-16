@@ -1,0 +1,71 @@
+{
+  "id": 823384945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.205112,37.253777,-81.205112,37.253777",
+    "geom:latitude":37.253777,
+    "geom:longitude":-81.205112,
+    "iso:country":"US",
+    "sg:address":"3029 E Cumberland Rd",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 325 3940",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4c21i37zI6wDxR5vWwM9L9_37.253777_-81.205112@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431848,
+    "wof:geomhash":"58f75d9527792284f1bea473430c15c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823384945
+        }
+    ],
+    "wof:id":823384945,
+    "wof:lastmodified":1463431848,
+    "wof:name":"Key Ingredients",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -81.205112,
+    37.253777,
+    -81.205112,
+    37.253777
+],
+  "geometry": {"coordinates":[-81.205112,37.253777],"type":"Point"}
+}

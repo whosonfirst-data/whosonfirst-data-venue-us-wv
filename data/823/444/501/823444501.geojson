@@ -1,0 +1,80 @@
+{
+  "id": 823444501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.136228,39.499353,-80.136228,39.499353",
+    "geom:latitude":39.499353,
+    "geom:longitude":-80.136228,
+    "iso:country":"US",
+    "sg:address":"1003 Pennsylvania Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 3926",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "windows",
+        "house",
+        "ma"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69y0LAlnUl0f5F1zu4S1cZ_39.499353_-80.136228@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434564,
+    "wof:geomhash":"1d27a851c07ec9af7c4977c28e2b884a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823444501
+        }
+    ],
+    "wof:id":823444501,
+    "wof:lastmodified":1463434564,
+    "wof:name":"City Glass and Mirror",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "windows",
+        "house",
+        "ma"
+    ]
+},
+  "bbox": [
+    -80.136228,
+    39.499353,
+    -80.136228,
+    39.499353
+],
+  "geometry": {"coordinates":[-80.136228,39.499353],"type":"Point"}
+}

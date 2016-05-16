@@ -1,0 +1,73 @@
+{
+  "id": 823423785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.06905,37.731007,-81.06905,37.731007",
+    "geom:latitude":37.731007,
+    "geom:longitude":-81.06905,
+    "iso:country":"US",
+    "sg:address":"1212 Lake Dr",
+    "sg:city":"Daniels",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 763 5142",
+    "sg:postcode":"25832",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Fsl6jCxdmsjU3s5lzyQHZ_37.731007_-81.069050@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433612,
+    "wof:geomhash":"289e41b036e5561046dee98c6d33fd2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823423785
+        }
+    ],
+    "wof:id":823423785,
+    "wof:lastmodified":1463433612,
+    "wof:name":"Augusto T Abad MD",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -81.06905,
+    37.731007,
+    -81.06905,
+    37.731007
+],
+  "geometry": {"coordinates":[-81.06905,37.731007],"type":"Point"}
+}

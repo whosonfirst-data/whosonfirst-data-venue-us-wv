@@ -1,0 +1,72 @@
+{
+  "id": 823445057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.101778,37.360384,-81.101778,37.360384",
+    "geom:latitude":37.360384,
+    "geom:longitude":-81.101778,
+    "iso:country":"US",
+    "sg:address":"1350 Stafford Dr",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 6139",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "sg:website":"www.biglots.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VphdgMg8l1zUzUzR7YVli_37.360384_-81.101778@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434597,
+    "wof:geomhash":"6ebfc33901d4e7b820fbdd2268b1b31b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823445057
+        }
+    ],
+    "wof:id":823445057,
+    "wof:lastmodified":1463434597,
+    "wof:name":"Big Lots",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.101778,
+    37.360384,
+    -81.101778,
+    37.360384
+],
+  "geometry": {"coordinates":[-81.101778,37.360384],"type":"Point"}
+}

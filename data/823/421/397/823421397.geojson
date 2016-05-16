@@ -1,0 +1,71 @@
+{
+  "id": 823421397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.373043,39.261902,-80.373043,39.261902",
+    "geom:latitude":39.261902,
+    "geom:longitude":-80.373043,
+    "iso:country":"US",
+    "sg:address":"143 Anthony Ave",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 623 2607",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85810773,
+        102082619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01wYnJCZ7SSJg1keMk3PKf_39.261902_-80.373043@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433520,
+    "wof:geomhash":"4dcae21e77d944254ea164a2baa64f5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "neighbourhood_id":85810773,
+            "region_id":85688589,
+            "venue_id":823421397
+        }
+    ],
+    "wof:id":823421397,
+    "wof:lastmodified":1463433520,
+    "wof:name":"Welch Construction Co",
+    "wof:parent_id":85810773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.373043,
+    39.261902,
+    -80.373043,
+    39.261902
+],
+  "geometry": {"coordinates":[-80.373043,39.261902],"type":"Point"}
+}

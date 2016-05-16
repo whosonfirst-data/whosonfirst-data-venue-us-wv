@@ -1,0 +1,75 @@
+{
+  "id": 823424691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.658037,38.366359,-81.658037,38.366359",
+    "geom:latitude":38.366359,
+    "geom:longitude":-81.658037,
+    "iso:country":"US",
+    "sg:address":"1118 Central Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 3900",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automobile",
+        "parts",
+        "imported"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LQ00D9fyEmsh0krkWr92J_38.366359_-81.658037@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433647,
+    "wof:geomhash":"8391d372b46b05176ff31826290f05c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823424691
+        }
+    ],
+    "wof:id":823424691,
+    "wof:lastmodified":1463433647,
+    "wof:name":"Sports Car Clinic",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts",
+        "imported"
+    ]
+},
+  "bbox": [
+    -81.658037,
+    38.366359,
+    -81.658037,
+    38.366359
+],
+  "geometry": {"coordinates":[-81.65803699999999,38.366359],"type":"Point"}
+}

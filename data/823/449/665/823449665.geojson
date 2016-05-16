@@ -1,0 +1,71 @@
+{
+  "id": 823449665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.729671,38.408545,-81.729671,38.408545",
+    "geom:latitude":38.408545,
+    "geom:longitude":-81.729671,
+    "iso:country":"US",
+    "sg:address":"4778 Big Tyler Rd",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 776 2019",
+    "sg:postcode":"25313",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1s7AvK5UDfm2HU6xQpZLXS_38.408545_-81.729671@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434805,
+    "wof:geomhash":"6d010ec387e99c0748261a66640a212d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823449665
+        }
+    ],
+    "wof:id":823449665,
+    "wof:lastmodified":1463434805,
+    "wof:name":"DAlvins Beauty Shop",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.729671,
+    38.408545,
+    -81.729671,
+    38.408545
+],
+  "geometry": {"coordinates":[-81.729671,38.408545],"type":"Point"}
+}

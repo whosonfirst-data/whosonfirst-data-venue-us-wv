@@ -1,0 +1,71 @@
+{
+  "id": 823448587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.295602,39.240531,-80.295602,39.240531",
+    "geom:latitude":39.240531,
+    "geom:longitude":-80.295602,
+    "iso:country":"US",
+    "sg:address":"1107 Cost Rd",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 624 9392",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4caDbQkRgmcZurHhRrZrkC_39.240531_-80.295602@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434762,
+    "wof:geomhash":"10c961a85a4d1a932204f50a1e1066c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823448587
+        }
+    ],
+    "wof:id":823448587,
+    "wof:lastmodified":1463434762,
+    "wof:name":"McNemar Construction Company",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -80.295602,
+    39.240531,
+    -80.295602,
+    39.240531
+],
+  "geometry": {"coordinates":[-80.295602,39.240531],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823376533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.981138,39.445907,-77.981138,39.445907",
+    "geom:latitude":39.445907,
+    "geom:longitude":-77.981138,
+    "iso:country":"US",
+    "sg:address":"1022 Winchester Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 0831",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41I0NsTcQJBgbaXHxi1d7w_39.445907_-77.981138@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431483,
+    "wof:geomhash":"034329cb01acc7e3e0054cc2bda06f91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823376533
+        }
+    ],
+    "wof:id":823376533,
+    "wof:lastmodified":1463431483,
+    "wof:name":"Relax Inn",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -77.981138,
+    39.445907,
+    -77.981138,
+    39.445907
+],
+  "geometry": {"coordinates":[-77.981138,39.445907],"type":"Point"}
+}

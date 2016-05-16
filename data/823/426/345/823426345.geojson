@@ -1,0 +1,73 @@
+{
+  "id": 823426345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.137753,39.473107,-80.137753,39.473107",
+    "geom:latitude":39.473107,
+    "geom:longitude":-80.137753,
+    "iso:country":"US",
+    "sg:address":"480 Leonard Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 3278",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2einlFwqZao8FqPre4tlJk_39.473107_-80.137753@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433721,
+    "wof:geomhash":"c8a76148e25726e42d5943955e19dc6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823426345
+        }
+    ],
+    "wof:id":823426345,
+    "wof:lastmodified":1463433721,
+    "wof:name":"Unity Terrace Apartments",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -80.137753,
+    39.473107,
+    -80.137753,
+    39.473107
+],
+  "geometry": {"coordinates":[-80.137753,39.473107],"type":"Point"}
+}

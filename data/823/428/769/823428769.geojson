@@ -1,0 +1,73 @@
+{
+  "id": 823428769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.635165,38.3486,-81.635165,38.3486",
+    "geom:latitude":38.3486,
+    "geom:longitude":-81.635165,
+    "iso:country":"US",
+    "sg:address":"2 Hale St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 347 7100",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bENjqTvtkAO7FF5lk6vbp_38.348600_-81.635165@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433829,
+    "wof:geomhash":"75b8b0b7e34aca5ce8922762ba4ad3b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823428769
+        }
+    ],
+    "wof:id":823428769,
+    "wof:lastmodified":1463433829,
+    "wof:name":"US Labor Dept",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -81.635165,
+    38.3486,
+    -81.635165,
+    38.3486
+],
+  "geometry": {"coordinates":[-81.635165,38.3486],"type":"Point"}
+}

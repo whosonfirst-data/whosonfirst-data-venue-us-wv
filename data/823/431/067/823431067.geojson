@@ -1,0 +1,75 @@
+{
+  "id": 823431067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.965858,39.633661,-79.965858,39.633661",
+    "geom:latitude":39.633661,
+    "geom:longitude":-79.965858,
+    "iso:country":"US",
+    "sg:address":"150 Holland Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 6200",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bFV8pDbCw8hcsNOY9ZUhV_39.633661_-79.965858@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433922,
+    "wof:geomhash":"b6930a3ba17686067cfdb199d18bec4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851489,
+            "region_id":85688589,
+            "venue_id":823431067
+        }
+    ],
+    "wof:id":823431067,
+    "wof:lastmodified":1463433922,
+    "wof:name":"Vistar Auto Glass",
+    "wof:parent_id":85851489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -79.965858,
+    39.633661,
+    -79.965858,
+    39.633661
+],
+  "geometry": {"coordinates":[-79.965858,39.633661],"type":"Point"}
+}

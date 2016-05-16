@@ -1,0 +1,71 @@
+{
+  "id": 823402609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.281052,39.279503,-80.281052,39.279503",
+    "geom:latitude":39.279503,
+    "geom:longitude":-80.281052,
+    "iso:country":"US",
+    "sg:address":"548 Emily Dr",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 622 5993",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ILtucOHMdLTHiFS3ElAr7_39.279503_-80.281052@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432697,
+    "wof:geomhash":"54e3fe272b419c6e7e7324a543651505",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823402609
+        }
+    ],
+    "wof:id":823402609,
+    "wof:lastmodified":1463432697,
+    "wof:name":"Hair Inc",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -80.281052,
+    39.279503,
+    -80.281052,
+    39.279503
+],
+  "geometry": {"coordinates":[-80.281052,39.279503],"type":"Point"}
+}

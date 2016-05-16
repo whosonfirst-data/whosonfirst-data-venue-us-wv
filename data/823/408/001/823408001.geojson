@@ -1,0 +1,71 @@
+{
+  "id": 823408001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.587092,38.324471,-81.587092,38.324471",
+    "geom:latitude":38.324471,
+    "geom:longitude":-81.587092,
+    "iso:country":"US",
+    "sg:address":"4215 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 9918",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nsEKoRXOYLyFfQrbXoapL_38.324471_-81.587092@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432947,
+    "wof:geomhash":"81dc11481a6d5733aaa512a2e03830f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823408001
+        }
+    ],
+    "wof:id":823408001,
+    "wof:lastmodified":1463432947,
+    "wof:name":"Rent-A-Center",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -81.587092,
+    38.324471,
+    -81.587092,
+    38.324471
+],
+  "geometry": {"coordinates":[-81.587092,38.324471],"type":"Point"}
+}

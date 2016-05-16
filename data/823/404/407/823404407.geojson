@@ -1,0 +1,73 @@
+{
+  "id": 823404407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.141508,39.485232,-80.141508,39.485232",
+    "geom:latitude":39.485232,
+    "geom:longitude":-80.141508,
+    "iso:country":"US",
+    "sg:address":"331 Madison St",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 1611",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZzOkRCof7FIDRaI6koAT9_39.485232_-80.141508@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432783,
+    "wof:geomhash":"936625f93cf1c94defc320b576fffab7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823404407
+        }
+    ],
+    "wof:id":823404407,
+    "wof:lastmodified":1463432783,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -80.141508,
+    39.485232,
+    -80.141508,
+    39.485232
+],
+  "geometry": {"coordinates":[-80.141508,39.485232],"type":"Point"}
+}

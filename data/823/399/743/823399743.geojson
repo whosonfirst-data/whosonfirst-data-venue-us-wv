@@ -1,0 +1,73 @@
+{
+  "id": 823399743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.169083,39.444358,-80.169083,39.444358",
+    "geom:latitude":39.444358,
+    "geom:longitude":-80.169083,
+    "iso:country":"US",
+    "sg:address":"1142 Airport Rd",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 7111",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85834381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IHAXCRMDbClrB7jqnUis8_39.444358_-80.169083@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432574,
+    "wof:geomhash":"e667568d8196a4c98927e971e1399a27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85834381,
+            "region_id":85688589,
+            "venue_id":823399743
+        }
+    ],
+    "wof:id":823399743,
+    "wof:lastmodified":1463432574,
+    "wof:name":"Summit Electrical Construction",
+    "wof:parent_id":85834381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.169083,
+    39.444358,
+    -80.169083,
+    39.444358
+],
+  "geometry": {"coordinates":[-80.169083,39.444358],"type":"Point"}
+}

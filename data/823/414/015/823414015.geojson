@@ -1,0 +1,75 @@
+{
+  "id": 823414015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.111376,39.481718,-80.111376,39.481718",
+    "geom:latitude":39.481718,
+    "geom:longitude":-80.111376,
+    "iso:country":"US",
+    "sg:address":"1500 Speedway St",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 8203",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5okgKzdkIqcNijlbBWN6WO_39.481718_-80.111376@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433183,
+    "wof:geomhash":"a83d6e149af13e5d5f2ce1a71bd0c7d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823414015
+        }
+    ],
+    "wof:id":823414015,
+    "wof:lastmodified":1463433183,
+    "wof:name":"Tri-State Express Inc",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -80.111376,
+    39.481718,
+    -80.111376,
+    39.481718
+],
+  "geometry": {"coordinates":[-80.11137600000001,39.481718],"type":"Point"}
+}

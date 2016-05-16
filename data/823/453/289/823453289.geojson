@@ -1,0 +1,74 @@
+{
+  "id": 823453289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.609365,40.273017,-80.609365,40.273017",
+    "geom:latitude":40.273017,
+    "geom:longitude":-80.609365,
+    "iso:country":"US",
+    "sg:address":"1101 Commerce St",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/wellsburg/192430-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 3682",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20Z6qGjqy1mQb7s0NbBUaI_40.273017_-80.609365@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434941,
+    "wof:geomhash":"bc323e38172b3bc527f5e0bbe6487945",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823453289
+        }
+    ],
+    "wof:id":823453289,
+    "wof:lastmodified":1463434941,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -80.609365,
+    40.273017,
+    -80.609365,
+    40.273017
+],
+  "geometry": {"coordinates":[-80.609365,40.273017],"type":"Point"}
+}

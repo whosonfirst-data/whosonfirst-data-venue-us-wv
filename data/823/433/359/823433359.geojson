@@ -1,0 +1,73 @@
+{
+  "id": 823433359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.592121,40.268026,-80.592121,40.268026",
+    "geom:latitude":40.268026,
+    "geom:longitude":-80.592121,
+    "iso:country":"US",
+    "sg:address":"501 Washington Pike",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 2700",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "mobile",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YOWLlmhPoKFEbWmIpGFdP_40.268026_-80.592121@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434032,
+    "wof:geomhash":"7fdd79fcd3d388903e168ecad81a83ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823433359
+        }
+    ],
+    "wof:id":823433359,
+    "wof:lastmodified":1463434032,
+    "wof:name":"Virginia Manor",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home"
+    ]
+},
+  "bbox": [
+    -80.592121,
+    40.268026,
+    -80.592121,
+    40.268026
+],
+  "geometry": {"coordinates":[-80.59212100000001,40.268026],"type":"Point"}
+}

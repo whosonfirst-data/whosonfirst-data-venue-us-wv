@@ -1,0 +1,78 @@
+{
+  "id": 823452529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.712943,38.327745,-81.712943,38.327745",
+    "geom:latitude":38.327745,
+    "geom:longitude":-81.712943,
+    "iso:country":"US",
+    "sg:address":"3 Dudley Farms Ln",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/davis-creek/85143-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 2199",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IzKqMeNmUEybyiBsXWWzU_38.327745_-81.712943@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434911,
+    "wof:geomhash":"d25221911da5784ce89dd1a2e2d7ad8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823452529
+        }
+    ],
+    "wof:id":823452529,
+    "wof:lastmodified":1463434911,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -81.712943,
+    38.327745,
+    -81.712943,
+    38.327745
+],
+  "geometry": {"coordinates":[-81.712943,38.327745],"type":"Point"}
+}

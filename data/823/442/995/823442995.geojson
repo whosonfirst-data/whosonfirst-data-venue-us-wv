@@ -1,0 +1,71 @@
+{
+  "id": 823442995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.06757,37.364878,-81.06757,37.364878",
+    "geom:latitude":37.364878,
+    "geom:longitude":-81.06757,
+    "iso:country":"US",
+    "sg:address":"403 Oakvale Rd",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 3553",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51gOwkVf1SOBs9Dxp7IuNy_37.364878_-81.067570@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434493,
+    "wof:geomhash":"9ff4a2fb75751fe2bf79d81bdf3d18b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823442995
+        }
+    ],
+    "wof:id":823442995,
+    "wof:lastmodified":1463434493,
+    "wof:name":"Rosie's Sub Shop",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -81.06757,
+    37.364878,
+    -81.06757,
+    37.364878
+],
+  "geometry": {"coordinates":[-81.06757,37.364878],"type":"Point"}
+}

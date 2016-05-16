@@ -1,0 +1,71 @@
+{
+  "id": 823429225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.591902,38.327319,-81.591902,38.327319",
+    "geom:latitude":38.327319,
+    "geom:longitude":-81.591902,
+    "iso:country":"US",
+    "sg:address":"3812 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tattoo Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 8240",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "tattooing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6F0xD5Su39UCQkJhm4Bi9y_38.327319_-81.591902@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433851,
+    "wof:geomhash":"ead364c4d14e66460c72b7d166472656",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823429225
+        }
+    ],
+    "wof:id":823429225,
+    "wof:lastmodified":1463433851,
+    "wof:name":"Danny's Anicient Art Tattoo",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tattooing"
+    ]
+},
+  "bbox": [
+    -81.591902,
+    38.327319,
+    -81.591902,
+    38.327319
+],
+  "geometry": {"coordinates":[-81.591902,38.327319],"type":"Point"}
+}

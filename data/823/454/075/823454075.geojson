@@ -1,0 +1,72 @@
+{
+  "id": 823454075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.15547,37.974968,-81.15547,37.974968",
+    "geom:latitude":37.974968,
+    "geom:longitude":-81.15547,
+    "iso:country":"US",
+    "sg:address":"550 Jones Ave",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/plateau/67918-foxs-pizza-den/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 465 7252",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cpesF4NcXW6OWGz5Bvjb7_37.975118_-81.155590@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434998,
+    "wof:geomhash":"cb68e2a4046ad2c5a67212d7fc996d8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823454075
+        }
+    ],
+    "wof:id":823454075,
+    "wof:lastmodified":1463434998,
+    "wof:name":"Fox's Pizza Den",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -81.15547,
+    37.974968,
+    -81.15547,
+    37.974968
+],
+  "geometry": {"coordinates":[-81.15546999999999,37.974968],"type":"Point"}
+}

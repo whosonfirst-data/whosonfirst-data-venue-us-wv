@@ -1,0 +1,82 @@
+{
+  "id": 823443217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.709578,40.063579,-80.709578,40.063579",
+    "geom:latitude":40.063579,
+    "geom:longitude":-80.709578,
+    "iso:country":"US",
+    "sg:address":"1708 Wetzel St",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 232 8559",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "equipment",
+        "softening",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85816921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Xko92PDpdrAbzJXP03nDB_40.063579_-80.709578@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434509,
+    "wof:geomhash":"7fd1230063b8e967d5edb7f70532e4a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85816921,
+            "region_id":85688589,
+            "venue_id":823443217
+        }
+    ],
+    "wof:id":823443217,
+    "wof:lastmodified":1463434509,
+    "wof:name":"Custom Water System LLC",
+    "wof:parent_id":85816921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "softening",
+        "supply"
+    ]
+},
+  "bbox": [
+    -80.709578,
+    40.063579,
+    -80.709578,
+    40.063579
+],
+  "geometry": {"coordinates":[-80.70957799999999,40.063579],"type":"Point"}
+}

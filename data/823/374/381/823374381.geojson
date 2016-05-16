@@ -1,0 +1,71 @@
+{
+  "id": 823374381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.606264,40.617796,-80.606264,40.617796",
+    "geom:latitude":40.617796,
+    "geom:longitude":-80.606264,
+    "iso:country":"US",
+    "sg:address":"600 Washington St",
+    "sg:city":"Newell",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 3211",
+    "sg:postcode":"26050",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QjXbtIjDpARvukyjG5sde_40.617796_-80.606264@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431374,
+    "wof:geomhash":"1ab333f3bd30c0ba0edcaeb4aad7946e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823374381
+        }
+    ],
+    "wof:id":823374381,
+    "wof:lastmodified":1463431374,
+    "wof:name":"Subway",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -80.606264,
+    40.617796,
+    -80.606264,
+    40.617796
+],
+  "geometry": {"coordinates":[-80.606264,40.617796],"type":"Point"}
+}

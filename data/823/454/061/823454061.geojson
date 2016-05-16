@@ -1,0 +1,78 @@
+{
+  "id": 823454061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.186072,37.810531,-81.186072,37.810531",
+    "geom:latitude":37.810531,
+    "geom:longitude":-81.186072,
+    "iso:country":"US",
+    "sg:address":"23 Nell Jean Sq",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/pax/80470-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 256 3003",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_721PWbeE7ooaeZAdkZrMcN_37.810812_-81.186162@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434992,
+    "wof:geomhash":"1887062109d01c702d8a333e00b9deb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823454061
+        }
+    ],
+    "wof:id":823454061,
+    "wof:lastmodified":1463434992,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -81.186072,
+    37.810531,
+    -81.186072,
+    37.810531
+],
+  "geometry": {"coordinates":[-81.186072,37.810531],"type":"Point"}
+}

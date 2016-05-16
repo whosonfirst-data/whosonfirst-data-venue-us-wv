@@ -1,0 +1,74 @@
+{
+  "id": 823452523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.717225,38.359043,-81.717225,38.359043",
+    "geom:latitude":38.359043,
+    "geom:longitude":-81.717225,
+    "iso:country":"US",
+    "sg:address":"4018 Maccorkle Ave SW",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/davis-creek/181538-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 7405",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54lrMZzVimmBLS15iBwkEe_38.359043_-81.717225@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434910,
+    "wof:geomhash":"5d0b7d1e3acef59d329ba3d902c3125e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823452523
+        }
+    ],
+    "wof:id":823452523,
+    "wof:lastmodified":1463434910,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -81.717225,
+    38.359043,
+    -81.717225,
+    38.359043
+],
+  "geometry": {"coordinates":[-81.717225,38.359043],"type":"Point"}
+}

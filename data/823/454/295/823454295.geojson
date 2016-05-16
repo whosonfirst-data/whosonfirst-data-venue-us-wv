@@ -1,0 +1,72 @@
+{
+  "id": 823454295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.083283,37.37682,-81.083283,37.37682",
+    "geom:latitude":37.37682,
+    "geom:longitude":-81.083283,
+    "iso:country":"US",
+    "sg:address":"323 S Walker St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 431 4967",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "consumer"
+    ],
+    "sg:website":"http://www.walgreens.com/default.jsp?ec=iyp_yellowpages_trademark",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HMzyYqRhfhgjXmELOEvKe_37.376820_-81.083283@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435013,
+    "wof:geomhash":"7493e014fb62b14ad56c5cac25af8609",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823454295
+        }
+    ],
+    "wof:id":823454295,
+    "wof:lastmodified":1463435013,
+    "wof:name":"Walgreens Pharmacies",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consumer"
+    ]
+},
+  "bbox": [
+    -81.083283,
+    37.37682,
+    -81.083283,
+    37.37682
+],
+  "geometry": {"coordinates":[-81.08328299999999,37.37682],"type":"Point"}
+}

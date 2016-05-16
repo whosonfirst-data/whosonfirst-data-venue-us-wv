@@ -1,0 +1,77 @@
+{
+  "id": 823436729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.111255,39.485641,-80.111255,39.485641",
+    "geom:latitude":39.485641,
+    "geom:longitude":-80.111255,
+    "iso:country":"US",
+    "sg:address":"1801 Morgantown Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 4370",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wheel",
+        "automotive",
+        "axle",
+        "alignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7egkfpIw7e4j9J31AyjZtC_39.485641_-80.111255@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434207,
+    "wof:geomhash":"f948e5211986efda4019252fcb725abf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823436729
+        }
+    ],
+    "wof:id":823436729,
+    "wof:lastmodified":1463434207,
+    "wof:name":"Jack's Alignment",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheel",
+        "automotive",
+        "axle",
+        "alignment"
+    ]
+},
+  "bbox": [
+    -80.111255,
+    39.485641,
+    -80.111255,
+    39.485641
+],
+  "geometry": {"coordinates":[-80.111255,39.485641],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 823457293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.963435,39.655583,-79.963435,39.655583",
+    "geom:latitude":39.655583,
+    "geom:longitude":-79.963435,
+    "iso:country":"US",
+    "sg:address":"1109 Van Voorhis Rd # 201",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 3045",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "consultant",
+        "buyer",
+        "broker"
+    ],
+    "sg:website":"http://www.alliancerealtywv.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Is802psBQG5Q8AH5pScSX_39.655583_-79.963435@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435153,
+    "wof:geomhash":"7f2eb23f913c1b66ca174b4e2f24a29a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823457293
+        }
+    ],
+    "wof:id":823457293,
+    "wof:lastmodified":1463435153,
+    "wof:name":"Alliance Realty",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -79.963435,
+    39.655583,
+    -79.963435,
+    39.655583
+],
+  "geometry": {"coordinates":[-79.963435,39.655583],"type":"Point"}
+}

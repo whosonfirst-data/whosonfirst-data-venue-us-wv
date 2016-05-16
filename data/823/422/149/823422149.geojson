@@ -1,0 +1,73 @@
+{
+  "id": 823422149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.55838,38.299557,-81.55838,38.299557",
+    "geom:latitude":38.299557,
+    "geom:longitude":-81.55838,
+    "iso:country":"US",
+    "sg:address":"306 Commerce Dr",
+    "sg:city":"Malden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 0896",
+    "sg:postcode":"25306",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clocks",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7f3tsvrEST1Kk7qRczb6UU_38.299557_-81.558380@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433547,
+    "wof:geomhash":"d53654aaa37998093e0ebe5bb82b3d03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823422149
+        }
+    ],
+    "wof:id":823422149,
+    "wof:lastmodified":1463433547,
+    "wof:name":"Charleston Clock Repair",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clocks",
+        "parts"
+    ]
+},
+  "bbox": [
+    -81.55838,
+    38.299557,
+    -81.55838,
+    38.299557
+],
+  "geometry": {"coordinates":[-81.55838,38.299557],"type":"Point"}
+}

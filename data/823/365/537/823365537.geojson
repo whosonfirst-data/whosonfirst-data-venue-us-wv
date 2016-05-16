@@ -1,0 +1,68 @@
+{
+  "id": 823365537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.6312,38.360969,-81.6312,38.360969",
+    "geom:latitude":38.360969,
+    "geom:longitude":-81.6312,
+    "iso:country":"US",
+    "sg:address":"210 Market Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 769 2230",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AImUZ7I4ClRDIZmaTXYdD_38.360969_-81.631200@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463430989,
+    "wof:geomhash":"1c2b781545f703ce0e33694785f0b7c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823365537
+        }
+    ],
+    "wof:id":823365537,
+    "wof:lastmodified":1463430989,
+    "wof:name":"Fashion Bug",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.6312,
+    38.360969,
+    -81.6312,
+    38.360969
+],
+  "geometry": {"coordinates":[-81.63120000000001,38.360969],"type":"Point"}
+}

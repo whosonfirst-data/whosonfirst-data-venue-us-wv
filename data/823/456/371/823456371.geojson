@@ -1,0 +1,71 @@
+{
+  "id": 823456371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.558384,40.613203,-80.558384,40.613203",
+    "geom:latitude":40.613203,
+    "geom:longitude":-80.558384,
+    "iso:country":"US",
+    "sg:address":"642 Louisiana Ave",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 0771",
+    "sg:postcode":"26034",
+    "sg:province":"WV",
+    "sg:tags":[
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YmkPjYPip7FpswufZoilX_40.613203_-80.558384@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435110,
+    "wof:geomhash":"da912d4157eaba1cac6a2fef37d73ebf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823456371
+        }
+    ],
+    "wof:id":823456371,
+    "wof:lastmodified":1463435110,
+    "wof:name":"Brant Rentals",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial"
+    ]
+},
+  "bbox": [
+    -80.558384,
+    40.613203,
+    -80.558384,
+    40.613203
+],
+  "geometry": {"coordinates":[-80.558384,40.613203],"type":"Point"}
+}

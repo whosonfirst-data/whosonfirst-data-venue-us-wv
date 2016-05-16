@@ -1,0 +1,73 @@
+{
+  "id": 823385427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.353162,38.802754,-81.353162,38.802754",
+    "geom:latitude":38.802754,
+    "geom:longitude":-81.353162,
+    "iso:country":"US",
+    "sg:address":"435 High St",
+    "sg:city":"Spencer",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 927 4966",
+    "sg:postcode":"25276",
+    "sg:province":"WV",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731535,
+        102083399,
+        85868331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MXkLRvN54IpbVteSEnZo8_38.802754_-81.353162@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431864,
+    "wof:geomhash":"ced5c82bd52c9fb8721834c9f4471c9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083399,
+            "locality_id":101731535,
+            "neighbourhood_id":85868331,
+            "region_id":85688589,
+            "venue_id":823385427
+        }
+    ],
+    "wof:id":823385427,
+    "wof:lastmodified":1463431864,
+    "wof:name":"Roane County Helping Hand Inc",
+    "wof:parent_id":85868331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -81.353162,
+    38.802754,
+    -81.353162,
+    38.802754
+],
+  "geometry": {"coordinates":[-81.353162,38.802754],"type":"Point"}
+}

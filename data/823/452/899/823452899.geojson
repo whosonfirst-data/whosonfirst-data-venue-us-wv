@@ -1,0 +1,76 @@
+{
+  "id": 823452899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.428406,38.410228,-82.428406,38.410228",
+    "geom:latitude":38.410228,
+    "geom:longitude":-82.428406,
+    "iso:country":"US",
+    "sg:address":"1325 Hal Greer Blvd",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/hodges/181566-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 523 6951",
+    "sg:postcode":"25701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731553,
+        102083329,
+        85868311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5W2yEFtB2CdR1H8r7jHsDC_38.410228_-82.428406@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434925,
+    "wof:geomhash":"6a39de1448ecf8b863efae6f7ca3d52b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731553,
+            "neighbourhood_id":85868311,
+            "region_id":85688589,
+            "venue_id":823452899
+        }
+    ],
+    "wof:id":823452899,
+    "wof:lastmodified":1463434925,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85868311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -82.428406,
+    38.410228,
+    -82.428406,
+    38.410228
+],
+  "geometry": {"coordinates":[-82.428406,38.410228],"type":"Point"}
+}

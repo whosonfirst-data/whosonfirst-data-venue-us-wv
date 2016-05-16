@@ -1,0 +1,71 @@
+{
+  "id": 823392197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.075409,37.366786,-81.075409,37.366786",
+    "geom:latitude":37.366786,
+    "geom:longitude":-81.075409,
+    "iso:country":"US",
+    "sg:address":"800 Rogers St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 1855",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DypuNKBeIIDO9UXVXole5_37.366786_-81.075409@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432186,
+    "wof:geomhash":"56bfa7f8b45da5062e98e32114ad229c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823392197
+        }
+    ],
+    "wof:id":823392197,
+    "wof:lastmodified":1463432186,
+    "wof:name":"East End Arcade",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -81.075409,
+    37.366786,
+    -81.075409,
+    37.366786
+],
+  "geometry": {"coordinates":[-81.07540899999999,37.366786],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 823395211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.575262,38.333582,-81.575262,38.333582",
+    "geom:latitude":38.333582,
+    "geom:longitude":-81.575262,
+    "iso:country":"US",
+    "sg:address":"1001 Kennawa Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 926 6538",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home",
+        "skilled",
+        "nursing",
+        "care",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ObGkA1TephgZuSdbbhFxG_38.333582_-81.575262@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432337,
+    "wof:geomhash":"681d3d2ea16c01b7a51d3f86e98dc795",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823395211
+        }
+    ],
+    "wof:id":823395211,
+    "wof:lastmodified":1463432337,
+    "wof:name":"Hubbard Hospice House",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "skilled",
+        "nursing",
+        "care",
+        "facility"
+    ]
+},
+  "bbox": [
+    -81.575262,
+    38.333582,
+    -81.575262,
+    38.333582
+],
+  "geometry": {"coordinates":[-81.575262,38.333582],"type":"Point"}
+}

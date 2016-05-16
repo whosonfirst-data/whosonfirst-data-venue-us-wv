@@ -1,0 +1,71 @@
+{
+  "id": 823429137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.657741,38.370227,-81.657741,38.370227",
+    "geom:latitude":38.370227,
+    "geom:longitude":-81.657741,
+    "iso:country":"US",
+    "sg:address":"1303 Washington St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 346 1869",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ORvik8qretPCBHBKek84J_38.370227_-81.657741@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433848,
+    "wof:geomhash":"34dbff53f996a57a59aff9f75c97c01c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823429137
+        }
+    ],
+    "wof:id":823429137,
+    "wof:lastmodified":1463433848,
+    "wof:name":"Riffe Printing Co",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -81.657741,
+    38.370227,
+    -81.657741,
+    38.370227
+],
+  "geometry": {"coordinates":[-81.657741,38.370227],"type":"Point"}
+}

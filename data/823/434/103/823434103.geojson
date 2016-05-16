@@ -1,0 +1,75 @@
+{
+  "id": 823434103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.248608,39.286929,-80.248608,39.286929",
+    "geom:latitude":39.286929,
+    "geom:longitude":-80.248608,
+    "iso:country":"US",
+    "sg:address":"102 E Philadelphia Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 7336",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1U6rDnPIANCMO8FEh4kZsv_39.286929_-80.248608@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434070,
+    "wof:geomhash":"6a5bdc010cf7414c210228ed605eeb43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823434103
+        }
+    ],
+    "wof:id":823434103,
+    "wof:lastmodified":1463434070,
+    "wof:name":"Ryder Truck Rental & Leasing",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -80.248608,
+    39.286929,
+    -80.248608,
+    39.286929
+],
+  "geometry": {"coordinates":[-80.248608,39.286929],"type":"Point"}
+}

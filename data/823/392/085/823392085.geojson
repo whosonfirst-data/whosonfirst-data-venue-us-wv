@@ -1,0 +1,73 @@
+{
+  "id": 823392085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.345044,39.281781,-80.345044,39.281781",
+    "geom:latitude":39.281781,
+    "geom:longitude":-80.345044,
+    "iso:country":"US",
+    "sg:address":"633 W Pike St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 627 2295",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "program",
+        "administrative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39dSDKOyT2o7z2thhvhTsr_39.281781_-80.345044@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432175,
+    "wof:geomhash":"377c7862fd71c44f5a526b626940e35d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823392085
+        }
+    ],
+    "wof:id":823392085,
+    "wof:lastmodified":1463432175,
+    "wof:name":"Bureau For Children & Families",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "program",
+        "administrative"
+    ]
+},
+  "bbox": [
+    -80.345044,
+    39.281781,
+    -80.345044,
+    39.281781
+],
+  "geometry": {"coordinates":[-80.345044,39.281781],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823441395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.268704,39.281721,-80.268704,39.281721",
+    "geom:latitude":39.281721,
+    "geom:longitude":-80.268704,
+    "iso:country":"US",
+    "sg:address":"929 W Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 3535",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ADXmd3umeDBnLlDi6hHUZ_39.281721_-80.268704@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434421,
+    "wof:geomhash":"d697877c8c36609ade766e65a3ba19a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823441395
+        }
+    ],
+    "wof:id":823441395,
+    "wof:lastmodified":1463434421,
+    "wof:name":"John Lee De Polo",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -80.268704,
+    39.281721,
+    -80.268704,
+    39.281721
+],
+  "geometry": {"coordinates":[-80.268704,39.281721],"type":"Point"}
+}

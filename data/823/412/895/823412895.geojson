@@ -1,0 +1,72 @@
+{
+  "id": 823412895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.986286,39.655028,-79.986286,39.655028",
+    "geom:latitude":39.655028,
+    "geom:longitude":-79.986286,
+    "iso:country":"US",
+    "sg:address":"3453 Monongahela Blvd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 285 3200",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "state"
+    ],
+    "sg:website":"www.westvirginiastatepolice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731749,
+        102082587,
+        85807277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69oBcqf7kuJT8wMSqpT67N_39.655028_-79.986286@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433136,
+    "wof:geomhash":"71b9627422abc4fe4efa0d5d800536a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731749,
+            "neighbourhood_id":85807277,
+            "region_id":85688589,
+            "venue_id":823412895
+        }
+    ],
+    "wof:id":823412895,
+    "wof:lastmodified":1463433136,
+    "wof:name":"State Police",
+    "wof:parent_id":85807277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -79.986286,
+    39.655028,
+    -79.986286,
+    39.655028
+],
+  "geometry": {"coordinates":[-79.98628600000001,39.655028],"type":"Point"}
+}

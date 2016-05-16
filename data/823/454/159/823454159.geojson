@@ -1,0 +1,76 @@
+{
+  "id": 823454159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.349898,39.28248,-80.349898,39.28248",
+    "geom:latitude":39.28248,
+    "geom:longitude":-80.349898,
+    "iso:country":"US",
+    "sg:address":"811 W Pike St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/north-urban/195868-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 624 6800",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jUfwZgxPPfpgJ0s4VZDQ0_39.282329_-80.350296@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463435004,
+    "wof:geomhash":"d1f8aa7c59e9be645d2566888d4edd9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823454159
+        }
+    ],
+    "wof:id":823454159,
+    "wof:lastmodified":1463435004,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -80.349898,
+    39.28248,
+    -80.349898,
+    39.28248
+],
+  "geometry": {"coordinates":[-80.349898,39.28248],"type":"Point"}
+}

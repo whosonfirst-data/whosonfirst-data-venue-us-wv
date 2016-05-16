@@ -1,0 +1,68 @@
+{
+  "id": 823377223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.95515,39.629267,-79.95515,39.629267",
+    "geom:latitude":39.629267,
+    "geom:longitude":-79.95515,
+    "iso:country":"US",
+    "sg:address":"265 Spruce St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 291 7296",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0t5kNdOumqzKorox09bdHz_39.629267_-79.955150@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431519,
+    "wof:geomhash":"6711d3eb96fb579378e5d45a0cd7c249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851489,
+            "region_id":85688589,
+            "venue_id":823377223
+        }
+    ],
+    "wof:id":823377223,
+    "wof:lastmodified":1463431519,
+    "wof:name":"Monongalia County Magistrate",
+    "wof:parent_id":85851489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.95515,
+    39.629267,
+    -79.95515,
+    39.629267
+],
+  "geometry": {"coordinates":[-79.95515,39.629267],"type":"Point"}
+}

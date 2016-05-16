@@ -1,0 +1,76 @@
+{
+  "id": 823452835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.976985,37.842913,-81.976985,37.842913",
+    "geom:latitude":37.842913,
+    "geom:longitude":-81.976985,
+    "iso:country":"US",
+    "sg:address":"740 Stratton St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/central/139808-sicilias-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 792 0055",
+    "sg:postcode":"25601",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868319,
+        102083369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Gc5FVgljYmKGTc9l21kxZ_37.842913_-81.976985@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434922,
+    "wof:geomhash":"eb75187437a51be4b311f70e539442de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083369,
+            "neighbourhood_id":85868319,
+            "region_id":85688589,
+            "venue_id":823452835
+        }
+    ],
+    "wof:id":823452835,
+    "wof:lastmodified":1463434922,
+    "wof:name":"Sicilia's Pizzeria",
+    "wof:parent_id":85868319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -81.976985,
+    37.842913,
+    -81.976985,
+    37.842913
+],
+  "geometry": {"coordinates":[-81.976985,37.842913],"type":"Point"}
+}

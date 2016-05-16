@@ -1,0 +1,71 @@
+{
+  "id": 823379181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.259443,39.286298,-80.259443,39.286298",
+    "geom:latitude":39.286298,
+    "geom:longitude":-80.259443,
+    "iso:country":"US",
+    "sg:address":"238 Johnson Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 9454",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BxFSCRstocRXi08gXDjZo_39.286298_-80.259443@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431607,
+    "wof:geomhash":"dbdccfda0210f455a42a4d1d47dc4234",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823379181
+        }
+    ],
+    "wof:id":823379181,
+    "wof:lastmodified":1463431607,
+    "wof:name":"Palace Nail Salon",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -80.259443,
+    39.286298,
+    -80.259443,
+    39.286298
+],
+  "geometry": {"coordinates":[-80.259443,39.286298],"type":"Point"}
+}

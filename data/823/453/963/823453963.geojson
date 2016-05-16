@@ -1,0 +1,74 @@
+{
+  "id": 823453963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.685202,38.367447,-81.685202,38.367447",
+    "geom:latitude":38.367447,
+    "geom:longitude":-81.685202,
+    "iso:country":"US",
+    "sg:address":"612 Maccorkle Ave SW",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/davis-creek/155290-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 4702",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HjjHgC3bYdVBTrSBs4KPm_38.367350_-81.684751@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434982,
+    "wof:geomhash":"cb7507eaac2331227a6da559d98e2030",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823453963
+        }
+    ],
+    "wof:id":823453963,
+    "wof:lastmodified":1463434982,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -81.685202,
+    38.367447,
+    -81.685202,
+    38.367447
+],
+  "geometry": {"coordinates":[-81.685202,38.367447],"type":"Point"}
+}

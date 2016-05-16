@@ -1,0 +1,71 @@
+{
+  "id": 823433141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.616023,38.434869,-81.616023,38.434869",
+    "geom:latitude":38.434869,
+    "geom:longitude":-81.616023,
+    "iso:country":"US",
+    "sg:address":"103 Placid Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 4767",
+    "sg:postcode":"25312",
+    "sg:province":"WV",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77HSXqLs5agwuuN0DHbs13_38.434869_-81.616023@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434025,
+    "wof:geomhash":"bb7365eba714d4d99b229ed2b0a8eca3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823433141
+        }
+    ],
+    "wof:id":823433141,
+    "wof:lastmodified":1463434025,
+    "wof:name":"Welding Inc",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -81.616023,
+    38.434869,
+    -81.616023,
+    38.434869
+],
+  "geometry": {"coordinates":[-81.616023,38.434869],"type":"Point"}
+}

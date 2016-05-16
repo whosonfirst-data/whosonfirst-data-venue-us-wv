@@ -1,0 +1,75 @@
+{
+  "id": 823376305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.618756,38.337481,-81.618756,38.337481",
+    "geom:latitude":38.337481,
+    "geom:longitude":-81.618756,
+    "iso:country":"US",
+    "sg:address":"1620 Kanawha Blvd E",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 346 1012",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85850023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61YALVI4mZjbdSjJo27qhf_38.337481_-81.618756@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431470,
+    "wof:geomhash":"d378a6b812f58f4e7c835c68e4d4fbee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85850023,
+            "region_id":85688589,
+            "venue_id":823376305
+        }
+    ],
+    "wof:id":823376305,
+    "wof:lastmodified":1463431470,
+    "wof:name":"West Virginia Natural Resource",
+    "wof:parent_id":85850023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -81.618756,
+    38.337481,
+    -81.618756,
+    38.337481
+],
+  "geometry": {"coordinates":[-81.618756,38.337481],"type":"Point"}
+}

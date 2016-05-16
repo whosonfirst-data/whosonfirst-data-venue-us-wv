@@ -1,0 +1,75 @@
+{
+  "id": 823412323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.309036,38.483232,-81.309036,38.483232",
+    "geom:latitude":38.483232,
+    "geom:longitude":-81.309036,
+    "iso:country":"US",
+    "sg:address":"236 Elk River Rd N",
+    "sg:city":"Clendenin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 548 4611",
+    "sg:postcode":"25045",
+    "sg:province":"WV",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5plM8B3MK879RdQPEH3nxA_38.483232_-81.309036@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433115,
+    "wof:geomhash":"10baed7e3dcb763031028aa9f7a26a00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823412323
+        }
+    ],
+    "wof:id":823412323,
+    "wof:lastmodified":1463433115,
+    "wof:name":"Clendenin's Auto Body Inc",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -81.309036,
+    38.483232,
+    -81.309036,
+    38.483232
+],
+  "geometry": {"coordinates":[-81.30903600000001,38.483232],"type":"Point"}
+}

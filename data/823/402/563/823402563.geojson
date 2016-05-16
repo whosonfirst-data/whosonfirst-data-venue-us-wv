@@ -1,0 +1,73 @@
+{
+  "id": 823402563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.623689,40.388706,-80.623689,40.388706",
+    "geom:latitude":40.388706,
+    "geom:longitude":-80.623689,
+    "iso:country":"US",
+    "sg:address":"3030 Birch Dr",
+    "sg:city":"Weirton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 797 1820",
+    "sg:postcode":"26062",
+    "sg:province":"WV",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731371,
+        102082633,
+        85832497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1an5urb5xUZDv1wddxv59C_40.388706_-80.623689@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432695,
+    "wof:geomhash":"50229d1b042f18d9f5845b3a14bf2e8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731371,
+            "neighbourhood_id":85832497,
+            "region_id":85688589,
+            "venue_id":823402563
+        }
+    ],
+    "wof:id":823402563,
+    "wof:lastmodified":1463432695,
+    "wof:name":"Heinz Pet Products",
+    "wof:parent_id":85832497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -80.623689,
+    40.388706,
+    -80.623689,
+    40.388706
+],
+  "geometry": {"coordinates":[-80.623689,40.388706],"type":"Point"}
+}

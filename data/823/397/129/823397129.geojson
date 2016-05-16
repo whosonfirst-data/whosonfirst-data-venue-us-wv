@@ -1,0 +1,71 @@
+{
+  "id": 823397129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.985628,38.447327,-81.985628,38.447327",
+    "geom:latitude":38.447327,
+    "geom:longitude":-81.985628,
+    "iso:country":"US",
+    "sg:address":"24 Meadowbrook Cir",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 562 0584",
+    "sg:postcode":"25526",
+    "sg:province":"WV",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731829,
+        102083381,
+        85868321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5z8b19qRNPhd6VNOs1hayK_38.447327_-81.985628@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432436,
+    "wof:geomhash":"d5fb5a566fd472d4601e3808e75f25ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731829,
+            "neighbourhood_id":85868321,
+            "region_id":85688589,
+            "venue_id":823397129
+        }
+    ],
+    "wof:id":823397129,
+    "wof:lastmodified":1463432436,
+    "wof:name":"Verizon",
+    "wof:parent_id":85868321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -81.985628,
+    38.447327,
+    -81.985628,
+    38.447327
+],
+  "geometry": {"coordinates":[-81.98562800000001,38.447327],"type":"Point"}
+}

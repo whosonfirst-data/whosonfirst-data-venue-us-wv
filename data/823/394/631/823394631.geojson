@@ -1,0 +1,71 @@
+{
+  "id": 823394631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.699128,38.368407,-81.699128,38.368407",
+    "geom:latitude":38.368407,
+    "geom:longitude":-81.699128,
+    "iso:country":"US",
+    "sg:address":"239 Maccorkle Ave SW",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 3111",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "fast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pCBWGP2ZeJOkERZDZuRYF_38.368407_-81.699128@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432312,
+    "wof:geomhash":"d3c8b5cf86037aae14cfc685f1d8c98e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823394631
+        }
+    ],
+    "wof:id":823394631,
+    "wof:lastmodified":1463432312,
+    "wof:name":"Suzi's Hamburgers",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fast"
+    ]
+},
+  "bbox": [
+    -81.699128,
+    38.368407,
+    -81.699128,
+    38.368407
+],
+  "geometry": {"coordinates":[-81.699128,38.368407],"type":"Point"}
+}

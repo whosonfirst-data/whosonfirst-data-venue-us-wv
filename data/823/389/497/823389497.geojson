@@ -1,0 +1,73 @@
+{
+  "id": 823389497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.136679,38.846591,-82.136679,38.846591",
+    "geom:latitude":38.846591,
+    "geom:longitude":-82.136679,
+    "iso:country":"US",
+    "sg:address":"303 8th St",
+    "sg:city":"Point Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 675 2763",
+    "sg:postcode":"25550",
+    "sg:province":"WV",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85983229,
+        102083675,
+        85824533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7B1WosXRvx3VBiv9CJwffd_38.846591_-82.136679@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432054,
+    "wof:geomhash":"9b54d8cf425739ce00ff2f77c0b472db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "neighbourhood_id":85824533,
+            "region_id":85688485,
+            "venue_id":823389497
+        }
+    ],
+    "wof:id":823389497,
+    "wof:lastmodified":1463432054,
+    "wof:name":"WBGS",
+    "wof:parent_id":85824533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -82.136679,
+    38.846591,
+    -82.136679,
+    38.846591
+],
+  "geometry": {"coordinates":[-82.136679,38.846591],"type":"Point"}
+}

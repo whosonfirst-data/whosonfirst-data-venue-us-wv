@@ -1,0 +1,74 @@
+{
+  "id": 823457289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.936486,39.652971,-79.936486,39.652971",
+    "geom:latitude":39.652971,
+    "geom:longitude":-79.936486,
+    "iso:country":"US",
+    "sg:address":"7000 Hampton Ctr Ste D",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 598 5071",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "saving",
+        "commercial"
+    ],
+    "sg:website":"http://www.fifththird.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731747,
+        102082587,
+        85819247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FAkBazVwkmC6c1jJACnBU_39.652971_-79.936486@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435153,
+    "wof:geomhash":"4809db2ef8963096655866958807fccc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85819247,
+            "region_id":85688589,
+            "venue_id":823457289
+        }
+    ],
+    "wof:id":823457289,
+    "wof:lastmodified":1463435153,
+    "wof:name":"The Fifth Third Bank",
+    "wof:parent_id":85819247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -79.936486,
+    39.652971,
+    -79.936486,
+    39.652971
+],
+  "geometry": {"coordinates":[-79.936486,39.652971],"type":"Point"}
+}

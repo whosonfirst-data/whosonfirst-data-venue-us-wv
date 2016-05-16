@@ -1,0 +1,71 @@
+{
+  "id": 823400839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.971612,39.455728,-77.971612,39.455728",
+    "geom:latitude":39.455728,
+    "geom:longitude":-77.971612,
+    "iso:country":"US",
+    "sg:address":"348 Winchester Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bowling",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 267 2042",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CKaNXmrJ4bb1Ki3jvyC9N_39.455728_-77.971612@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432624,
+    "wof:geomhash":"6516ecda0150fb67f2d3f4e94de31f49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823400839
+        }
+    ],
+    "wof:id":823400839,
+    "wof:lastmodified":1463432624,
+    "wof:name":"Pikeside Bowl",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -77.971612,
+    39.455728,
+    -77.971612,
+    39.455728
+],
+  "geometry": {"coordinates":[-77.97161199999999,39.455728],"type":"Point"}
+}

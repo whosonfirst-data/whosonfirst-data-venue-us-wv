@@ -1,0 +1,82 @@
+{
+  "id": 823394557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.52438,39.289604,-81.52438,39.289604",
+    "geom:latitude":39.289604,
+    "geom:longitude":-81.52438,
+    "iso:country":"US",
+    "sg:address":"1800 38th St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 485 6901",
+    "sg:postcode":"26104",
+    "sg:province":"WV",
+    "sg:tags":[
+        "elementary",
+        "kindergarten",
+        "academic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731687,
+        102083343,
+        85805293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1emMoevGg0kHAtmizN27B9_39.289604_-81.524380@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432309,
+    "wof:geomhash":"803dfa147a8df991834616a941b867e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85805293,
+            "region_id":85688589,
+            "venue_id":823394557
+        }
+    ],
+    "wof:id":823394557,
+    "wof:lastmodified":1463432309,
+    "wof:name":"Parkersburg Junior Academy",
+    "wof:parent_id":85805293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "kindergarten",
+        "academic"
+    ]
+},
+  "bbox": [
+    -81.52438,
+    39.289604,
+    -81.52438,
+    39.289604
+],
+  "geometry": {"coordinates":[-81.52437999999999,39.289604],"type":"Point"}
+}

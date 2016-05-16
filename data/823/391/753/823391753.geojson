@@ -1,0 +1,71 @@
+{
+  "id": 823391753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.976132,38.987614,-81.976132,38.987614",
+    "geom:latitude":38.987614,
+    "geom:longitude":-81.976132,
+    "iso:country":"US",
+    "sg:address":"218 5th St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 882 3203",
+    "sg:postcode":"25265",
+    "sg:province":"WV",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731555,
+        102082637,
+        85830595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5svFZlAt0X1ZJCQ0flBDbk_38.987614_-81.976132@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432158,
+    "wof:geomhash":"0fc30a97af4d0a24ae1a35e7de8e36e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082637,
+            "locality_id":101731555,
+            "neighbourhood_id":85830595,
+            "region_id":85688589,
+            "venue_id":823391753
+        }
+    ],
+    "wof:id":823391753,
+    "wof:lastmodified":1463432158,
+    "wof:name":"New Haven Police Dept",
+    "wof:parent_id":85830595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -81.976132,
+    38.987614,
+    -81.976132,
+    38.987614
+],
+  "geometry": {"coordinates":[-81.97613200000001,38.987614],"type":"Point"}
+}

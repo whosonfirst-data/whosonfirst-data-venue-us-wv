@@ -1,0 +1,76 @@
+{
+  "id": 823381415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.627855,38.359864,-81.627855,38.359864",
+    "geom:latitude":38.359864,
+    "geom:longitude":-81.627855,
+    "iso:country":"US",
+    "sg:address":"1219 Pennsylvania Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 6150",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "sg:website":"www.cityelectricwv.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ChJhk08cA8cokwR254UVd_38.359864_-81.627855@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431710,
+    "wof:geomhash":"909100de81a5301d772d3e8a01a11485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823381415
+        }
+    ],
+    "wof:id":823381415,
+    "wof:lastmodified":1463431710,
+    "wof:name":"City Electric Co",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.627855,
+    38.359864,
+    -81.627855,
+    38.359864
+],
+  "geometry": {"coordinates":[-81.627855,38.359864],"type":"Point"}
+}

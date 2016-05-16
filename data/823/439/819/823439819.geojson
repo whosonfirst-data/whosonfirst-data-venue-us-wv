@@ -1,0 +1,71 @@
+{
+  "id": 823439819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.645045,38.364884,-81.645045,38.364884",
+    "geom:latitude":38.364884,
+    "geom:longitude":-81.645045,
+    "iso:country":"US",
+    "sg:address":"649 Washington St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 5434",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CRxpyMrSWWK8uVqlvNf91_38.364884_-81.645045@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434358,
+    "wof:geomhash":"e064f30b3f5c3d5e043961e5fa76b743",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823439819
+        }
+    ],
+    "wof:id":823439819,
+    "wof:lastmodified":1463434358,
+    "wof:name":"Chandler Limousine Svc",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [
+    -81.645045,
+    38.364884,
+    -81.645045,
+    38.364884
+],
+  "geometry": {"coordinates":[-81.645045,38.364884],"type":"Point"}
+}

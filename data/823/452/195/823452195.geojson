@@ -1,0 +1,74 @@
+{
+  "id": 823452195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.122403,39.483129,-80.122403,39.483129",
+    "geom:latitude":39.483129,
+    "geom:longitude":-80.122403,
+    "iso:country":"US",
+    "sg:address":"308 Marion St",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 5038",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "florist",
+        "delicatessen"
+    ],
+    "sg:website":"http://www.foodlion.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79YJdYM2JXzMlLgH8obDiO_39.482816_-80.122271@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463434898,
+    "wof:geomhash":"7eff39971b4165ed9f78139d159bb713",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823452195
+        }
+    ],
+    "wof:id":823452195,
+    "wof:lastmodified":1463434898,
+    "wof:name":"Food Lion",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "florist",
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -80.122403,
+    39.483129,
+    -80.122403,
+    39.483129
+],
+  "geometry": {"coordinates":[-80.12240300000001,39.483129],"type":"Point"}
+}

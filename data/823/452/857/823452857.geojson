@@ -1,0 +1,71 @@
+{
+  "id": 823452857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.998486,37.850184,-81.998486,37.850184",
+    "geom:latitude":37.850184,
+    "geom:longitude":-81.998486,
+    "iso:country":"US",
+    "sg:address":"20 Main Ave",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/central/206546-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"25601",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868319,
+        102083369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_277m4j1kO8vXByt9xTJlCd_37.850184_-81.998486@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434923,
+    "wof:geomhash":"490ee64896e1c5ab8b79c0a2dfab0944",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083369,
+            "neighbourhood_id":85868319,
+            "region_id":85688589,
+            "venue_id":823452857
+        }
+    ],
+    "wof:id":823452857,
+    "wof:lastmodified":1463434923,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85868319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -81.998486,
+    37.850184,
+    -81.998486,
+    37.850184
+],
+  "geometry": {"coordinates":[-81.998486,37.850184],"type":"Point"}
+}

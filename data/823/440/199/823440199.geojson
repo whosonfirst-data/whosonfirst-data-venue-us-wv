@@ -1,0 +1,73 @@
+{
+  "id": 823440199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.923012,39.609823,-80.923012,39.609823",
+    "geom:latitude":39.609823,
+    "geom:longitude":-80.923012,
+    "iso:country":"US",
+    "sg:address":"400 Orchard Ln",
+    "sg:city":"Paden City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 337 2720",
+    "sg:postcode":"26159",
+    "sg:province":"WV",
+    "sg:tags":[
+        "optical",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PYCSoStybvuC0alOD5Seh_39.609823_-80.923012@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434372,
+    "wof:geomhash":"ca56282909170eaa6683c6470f3e0dc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823440199
+        }
+    ],
+    "wof:id":823440199,
+    "wof:lastmodified":1463434372,
+    "wof:name":"James R Paden",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "optical",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -80.923012,
+    39.609823,
+    -80.923012,
+    39.609823
+],
+  "geometry": {"coordinates":[-80.923012,39.609823],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823437759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.221099,37.259226,-81.221099,37.259226",
+    "geom:latitude":37.259226,
+    "geom:longitude":-81.221099,
+    "iso:country":"US",
+    "sg:address":"218 North St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 327 2424",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64JrKdqJW4jYAFxwv6gBtr_37.259226_-81.221099@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434270,
+    "wof:geomhash":"6cafe83e7981da140853ce027f3e392a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823437759
+        }
+    ],
+    "wof:id":823437759,
+    "wof:lastmodified":1463434270,
+    "wof:name":"Mullens Travel Inc",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -81.221099,
+    37.259226,
+    -81.221099,
+    37.259226
+],
+  "geometry": {"coordinates":[-81.221099,37.259226],"type":"Point"}
+}

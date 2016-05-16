@@ -1,0 +1,66 @@
+{
+  "id": 823454375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.091017,38.215733,-80.091017,38.215733",
+    "geom:latitude":38.215733,
+    "geom:longitude":-80.091017,
+    "iso:country":"US",
+    "sg:address":"1118 10th Ave",
+    "sg:city":"Marlinton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 653 4515",
+    "sg:postcode":"24954",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731759,
+        102082613,
+        85805067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0otpIGXKy8IiLEejxQEvun_38.215733_-80.091017@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435025,
+    "wof:geomhash":"8f56510a9407b02d6bfcd39d0d996982",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082613,
+            "locality_id":101731759,
+            "neighbourhood_id":85805067,
+            "region_id":85688589,
+            "venue_id":823454375
+        }
+    ],
+    "wof:id":823454375,
+    "wof:lastmodified":1463435025,
+    "wof:name":"Jack Horners Corner",
+    "wof:parent_id":85805067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.091017,
+    38.215733,
+    -80.091017,
+    38.215733
+],
+  "geometry": {"coordinates":[-80.09101699999999,38.215733],"type":"Point"}
+}

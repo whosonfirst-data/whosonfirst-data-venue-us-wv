@@ -1,0 +1,71 @@
+{
+  "id": 823407629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.538847,38.229607,-81.538847,38.229607",
+    "geom:latitude":38.229607,
+    "geom:longitude":-81.538847,
+    "iso:country":"US",
+    "sg:address":"824 E Riverview Dr",
+    "sg:city":"Belle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 1511",
+    "sg:postcode":"25015",
+    "sg:province":"WV",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45sA444EbFpA7H0kOuzQlz_38.229607_-81.538847@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432925,
+    "wof:geomhash":"f6aad843e3c89c1cd48c4637f6679528",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823407629
+        }
+    ],
+    "wof:id":823407629,
+    "wof:lastmodified":1463432925,
+    "wof:name":"ABC",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [
+    -81.538847,
+    38.229607,
+    -81.538847,
+    38.229607
+],
+  "geometry": {"coordinates":[-81.538847,38.229607],"type":"Point"}
+}

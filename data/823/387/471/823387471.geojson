@@ -1,0 +1,69 @@
+{
+  "id": 823387471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.953094,39.665722,-79.953094,39.665722",
+    "geom:latitude":39.665722,
+    "geom:longitude":-79.953094,
+    "iso:country":"US",
+    "sg:address":"765 Northwest Dr",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 8859",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vTD1rlELoS6PRLPlshkhu_39.665722_-79.953094@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431945,
+    "wof:geomhash":"e1b1295658e4f8ed67e3b38504374eb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823387471
+        }
+    ],
+    "wof:id":823387471,
+    "wof:lastmodified":1463431945,
+    "wof:name":"Thomas K Hodours MD",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -79.953094,
+    39.665722,
+    -79.953094,
+    39.665722
+],
+  "geometry": {"coordinates":[-79.95309399999999,39.665722],"type":"Point"}
+}

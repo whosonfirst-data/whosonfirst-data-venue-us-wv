@@ -1,0 +1,73 @@
+{
+  "id": 823366925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.051288,39.641825,-80.051288,39.641825",
+    "geom:latitude":39.641825,
+    "geom:longitude":-80.051288,
+    "iso:country":"US",
+    "sg:address":"827 Sugar Grove Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 983 8183",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "body",
+        "auto"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731749,
+        102082587,
+        85807277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PVNhADq4qEq5NWwBqwyhF_39.641825_-80.051288@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431054,
+    "wof:geomhash":"1caff58ebd0772c2765e74421e609745",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731749,
+            "neighbourhood_id":85807277,
+            "region_id":85688589,
+            "venue_id":823366925
+        }
+    ],
+    "wof:id":823366925,
+    "wof:lastmodified":1463431054,
+    "wof:name":"Sugar Grove Collision Repair",
+    "wof:parent_id":85807277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "auto"
+    ]
+},
+  "bbox": [
+    -80.051288,
+    39.641825,
+    -80.051288,
+    39.641825
+],
+  "geometry": {"coordinates":[-80.051288,39.641825],"type":"Point"}
+}

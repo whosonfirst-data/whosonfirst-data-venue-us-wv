@@ -1,0 +1,71 @@
+{
+  "id": 823403651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.594282,38.358401,-81.594282,38.358401",
+    "geom:latitude":38.358401,
+    "geom:longitude":-81.594282,
+    "iso:country":"US",
+    "sg:address":"1258 Greenbrier St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 346 0725",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oBD2p4ZLtvHCoZANiHR6X_38.358401_-81.594282@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432736,
+    "wof:geomhash":"2c735623e01f0b74c6d960bef9d8277c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823403651
+        }
+    ],
+    "wof:id":823403651,
+    "wof:lastmodified":1463432736,
+    "wof:name":"C T & E Environmental Svc",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -81.594282,
+    38.358401,
+    -81.594282,
+    38.358401
+],
+  "geometry": {"coordinates":[-81.59428200000001,38.358401],"type":"Point"}
+}

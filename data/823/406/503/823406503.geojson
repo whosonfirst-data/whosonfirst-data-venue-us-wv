@@ -1,0 +1,71 @@
+{
+  "id": 823406503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.489868,38.426328,-81.489868,38.426328",
+    "geom:latitude":38.426328,
+    "geom:longitude":-81.489868,
+    "iso:country":"US",
+    "sg:address":"5019 Elk River Rd S",
+    "sg:city":"Elkview",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 965 9005",
+    "sg:postcode":"25071",
+    "sg:province":"WV",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gKA9KTsaUJD6FJJr8Sxmi_38.426328_-81.489868@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432880,
+    "wof:geomhash":"0d065268769649473c8432644ae8fc81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823406503
+        }
+    ],
+    "wof:id":823406503,
+    "wof:lastmodified":1463432880,
+    "wof:name":"Cole's Wildlife Artistry",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxidermist"
+    ]
+},
+  "bbox": [
+    -81.489868,
+    38.426328,
+    -81.489868,
+    38.426328
+],
+  "geometry": {"coordinates":[-81.489868,38.426328],"type":"Point"}
+}

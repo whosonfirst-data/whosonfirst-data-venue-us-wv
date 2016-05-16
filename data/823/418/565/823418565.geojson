@@ -1,0 +1,71 @@
+{
+  "id": 823418565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.167293,37.892892,-81.167293,37.892892",
+    "geom:latitude":37.892892,
+    "geom:longitude":-81.167293,
+    "iso:country":"US",
+    "sg:address":"530 Main St",
+    "sg:city":"Mt Hope",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 877 2421",
+    "sg:postcode":"25880",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731505,
+        102083359,
+        85852821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40CmRcMrfAA2hjN7klaiB2_37.892892_-81.167293@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433409,
+    "wof:geomhash":"8c048df3eb5786a6b7f4bc748ebb5a34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "locality_id":101731505,
+            "neighbourhood_id":85852821,
+            "region_id":85688589,
+            "venue_id":823418565
+        }
+    ],
+    "wof:id":823418565,
+    "wof:lastmodified":1463433409,
+    "wof:name":"Dana's Hair Designs",
+    "wof:parent_id":85852821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.167293,
+    37.892892,
+    -81.167293,
+    37.892892
+],
+  "geometry": {"coordinates":[-81.167293,37.892892],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823420213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.554429,40.616884,-80.554429,40.616884",
+    "geom:latitude":40.616884,
+    "geom:longitude":-80.554429,
+    "iso:country":"US",
+    "sg:address":"802 Pyramus St",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 2606",
+    "sg:postcode":"26034",
+    "sg:province":"WV",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SSpr07FQVUrCtKZM9Ntyo_40.616884_-80.554429@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433474,
+    "wof:geomhash":"b194c269ab25ae7cc66d885b15f56012",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823420213
+        }
+    ],
+    "wof:id":823420213,
+    "wof:lastmodified":1463433474,
+    "wof:name":"Van Dyke Plumbing Htg & Cool",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.554429,
+    40.616884,
+    -80.554429,
+    40.616884
+],
+  "geometry": {"coordinates":[-80.554429,40.616884],"type":"Point"}
+}

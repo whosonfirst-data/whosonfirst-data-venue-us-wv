@@ -1,0 +1,71 @@
+{
+  "id": 823376451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.894137,37.665364,-80.894137,37.665364",
+    "geom:latitude":37.665364,
+    "geom:longitude":-80.894137,
+    "iso:country":"US",
+    "sg:address":"246 Main St",
+    "sg:city":"Hinton",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 466 2373",
+    "sg:postcode":"25951",
+    "sg:province":"WV",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731641,
+        102083407,
+        85804037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2U5KeRrAXHQaJkJZaxNoJo_37.665364_-80.894137@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431480,
+    "wof:geomhash":"0ae34632a971f81831f7a65a21456218",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083407,
+            "locality_id":101731641,
+            "neighbourhood_id":85804037,
+            "region_id":85688589,
+            "venue_id":823376451
+        }
+    ],
+    "wof:id":823376451,
+    "wof:lastmodified":1463431480,
+    "wof:name":"Humpty Dumpty Day Care Center",
+    "wof:parent_id":85804037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -80.894137,
+    37.665364,
+    -80.894137,
+    37.665364
+],
+  "geometry": {"coordinates":[-80.894137,37.665364],"type":"Point"}
+}

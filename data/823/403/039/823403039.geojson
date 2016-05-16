@@ -1,0 +1,67 @@
+{
+  "id": 823403039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.152835,39.477512,-80.152835,39.477512",
+    "geom:latitude":39.477512,
+    "geom:longitude":-80.152835,
+    "iso:country":"US",
+    "sg:address":"701 Benoni Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 368 1555",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:website":"www.vandalia.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kiw3IoaGAX8himFzSDxKt_39.477512_-80.152835@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432713,
+    "wof:geomhash":"b5be61f7eaefa8e8368f047fbce28a20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823403039
+        }
+    ],
+    "wof:id":823403039,
+    "wof:lastmodified":1463432713,
+    "wof:name":"Vandalia Heritage Foundation",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.152835,
+    39.477512,
+    -80.152835,
+    39.477512
+],
+  "geometry": {"coordinates":[-80.152835,39.477512],"type":"Point"}
+}

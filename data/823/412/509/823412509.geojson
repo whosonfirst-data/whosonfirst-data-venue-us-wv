@@ -1,0 +1,71 @@
+{
+  "id": 823412509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.038098,39.349256,-80.038098,39.349256",
+    "geom:latitude":39.349256,
+    "geom:longitude":-80.038098,
+    "iso:country":"US",
+    "sg:address":"137 W Main St",
+    "sg:city":"Ellenboro",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 869 3000",
+    "sg:postcode":"26354",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731717,
+        102083351,
+        85855577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WJTPvXoxWhOH66GYN4Kpe_39.349256_-80.038098@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433122,
+    "wof:geomhash":"8eddcc0c731185b5e6cb70b304473c9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083351,
+            "locality_id":101731717,
+            "neighbourhood_id":85855577,
+            "region_id":85688589,
+            "venue_id":823412509
+        }
+    ],
+    "wof:id":823412509,
+    "wof:lastmodified":1463433122,
+    "wof:name":"River Of Life Ministries",
+    "wof:parent_id":85855577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -80.038098,
+    39.349256,
+    -80.038098,
+    39.349256
+],
+  "geometry": {"coordinates":[-80.03809800000001,39.349256],"type":"Point"}
+}

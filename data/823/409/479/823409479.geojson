@@ -1,0 +1,73 @@
+{
+  "id": 823409479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.846379,38.925949,-79.846379,38.925949",
+    "geom:latitude":38.925949,
+    "geom:longitude":-79.846379,
+    "iso:country":"US",
+    "sg:address":"320 Randolph Ave",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 0900",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33xOEw0QVhcGvR0rPnd10m_38.925949_-79.846379@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433001,
+    "wof:geomhash":"904c93baed78c13e6aeaa9da0aa52e87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823409479
+        }
+    ],
+    "wof:id":823409479,
+    "wof:lastmodified":1463433001,
+    "wof:name":"First Mortgage Co",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -79.846379,
+    38.925949,
+    -79.846379,
+    38.925949
+],
+  "geometry": {"coordinates":[-79.846379,38.925949],"type":"Point"}
+}

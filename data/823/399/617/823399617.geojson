@@ -1,0 +1,73 @@
+{
+  "id": 823399617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.599353,40.620673,-80.599353,40.620673",
+    "geom:latitude":40.620673,
+    "geom:longitude":-80.599353,
+    "iso:country":"US",
+    "sg:address":"300 Harrison St",
+    "sg:city":"Newell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 0944",
+    "sg:postcode":"26050",
+    "sg:province":"WV",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RsW8mSjNPCDywKGsQajbo_40.620673_-80.599353@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432570,
+    "wof:geomhash":"23e76adce8c451f49fee8bdbe1f520c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823399617
+        }
+    ],
+    "wof:id":823399617,
+    "wof:lastmodified":1463432570,
+    "wof:name":"Six Enterprises Ltd",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -80.599353,
+    40.620673,
+    -80.599353,
+    40.620673
+],
+  "geometry": {"coordinates":[-80.59935299999999,40.620673],"type":"Point"}
+}

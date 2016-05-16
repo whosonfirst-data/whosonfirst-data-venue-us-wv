@@ -1,0 +1,73 @@
+{
+  "id": 823389499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.152183,37.346185,-81.152183,37.346185",
+    "geom:latitude":37.346185,
+    "geom:longitude":-81.152183,
+    "iso:country":"US",
+    "sg:address":"100 Bluerock Cir",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 1020",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NplY9Btnzi3uHvGOwdQZn_37.346185_-81.152183@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432054,
+    "wof:geomhash":"e9964510e6fc317383d2368ca5c00781",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823389499
+        }
+    ],
+    "wof:id":823389499,
+    "wof:lastmodified":1463432054,
+    "wof:name":"Bluestone Apts",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -81.152183,
+    37.346185,
+    -81.152183,
+    37.346185
+],
+  "geometry": {"coordinates":[-81.15218299999999,37.346185],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 823372015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.167016,37.801656,-81.167016,37.801656",
+    "geom:latitude":37.801656,
+    "geom:longitude":-81.167016,
+    "iso:country":"US",
+    "sg:address":"450 Stanaford Rd",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 255 6731",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sX07CAUdjeCCra6Ud6BIi_37.801656_-81.167016@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431284,
+    "wof:geomhash":"1cc6492172430fca47a4ff51e6344d31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823372015
+        }
+    ],
+    "wof:id":823372015,
+    "wof:lastmodified":1463431284,
+    "wof:name":"Little General Store",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.167016,
+    37.801656,
+    -81.167016,
+    37.801656
+],
+  "geometry": {"coordinates":[-81.167016,37.801656],"type":"Point"}
+}

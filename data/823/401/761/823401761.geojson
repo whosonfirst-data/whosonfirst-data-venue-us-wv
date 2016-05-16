@@ -1,0 +1,73 @@
+{
+  "id": 823401761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.117356,37.74091,-81.117356,37.74091",
+    "geom:latitude":37.74091,
+    "geom:longitude":-81.117356,
+    "iso:country":"US",
+    "sg:address":"101 Knolls Dr",
+    "sg:city":"Daniels",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 252 1211",
+    "sg:postcode":"25832",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QImIICUCyRF6bwoClVmEr_37.740910_-81.117356@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432664,
+    "wof:geomhash":"9d7af1f64fea5d224ce45287b275d266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823401761
+        }
+    ],
+    "wof:id":823401761,
+    "wof:lastmodified":1463432664,
+    "wof:name":"Knolls Apartments",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -81.117356,
+    37.74091,
+    -81.117356,
+    37.74091
+],
+  "geometry": {"coordinates":[-81.117356,37.74091],"type":"Point"}
+}

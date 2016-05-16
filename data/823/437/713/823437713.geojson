@@ -1,0 +1,73 @@
+{
+  "id": 823437713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.183622,37.795937,-81.183622,37.795937",
+    "geom:latitude":37.795937,
+    "geom:longitude":-81.183622,
+    "iso:country":"US",
+    "sg:address":"3679 Robert C Byrd Dr",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 253 7962",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HuSsUNwjepBVh9qWV9GEI_37.795937_-81.183622@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434268,
+    "wof:geomhash":"473173d94887b0dc979688a65babf043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823437713
+        }
+    ],
+    "wof:id":823437713,
+    "wof:lastmodified":1463434268,
+    "wof:name":"Pulmonary Home Care",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital"
+    ]
+},
+  "bbox": [
+    -81.183622,
+    37.795937,
+    -81.183622,
+    37.795937
+],
+  "geometry": {"coordinates":[-81.183622,37.795937],"type":"Point"}
+}

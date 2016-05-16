@@ -1,0 +1,73 @@
+{
+  "id": 823385361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.172559,37.795802,-81.172559,37.795802",
+    "geom:latitude":37.795802,
+    "geom:longitude":-81.172559,
+    "iso:country":"US",
+    "sg:address":"251 Stanaford Rd",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 252 0775",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EnrldFopP5tq19PRxWG2c_37.795802_-81.172559@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431862,
+    "wof:geomhash":"5425596cf654ed162eb7978c94315295",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823385361
+        }
+    ],
+    "wof:id":823385361,
+    "wof:lastmodified":1463431862,
+    "wof:name":"Corro Prudencio C",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -81.172559,
+    37.795802,
+    -81.172559,
+    37.795802
+],
+  "geometry": {"coordinates":[-81.17255900000001,37.795802],"type":"Point"}
+}

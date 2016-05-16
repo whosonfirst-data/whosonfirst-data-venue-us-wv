@@ -1,0 +1,66 @@
+{
+  "id": 823430395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.5905,38.333318,-81.5905,38.333318",
+    "geom:latitude":38.333318,
+    "geom:longitude":-81.5905,
+    "iso:country":"US",
+    "sg:address":"2636 Kanawha Blvd E",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 3261",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70WkmViNYocqSgjTfX0zfg_38.333318_-81.590500@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433897,
+    "wof:geomhash":"c35e6e5af24da9c60b72ddfe97faaa05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823430395
+        }
+    ],
+    "wof:id":823430395,
+    "wof:lastmodified":1463433897,
+    "wof:name":"Kanawha Boulevard Animal Hosp",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.5905,
+    38.333318,
+    -81.5905,
+    38.333318
+],
+  "geometry": {"coordinates":[-81.59050000000001,38.333318],"type":"Point"}
+}

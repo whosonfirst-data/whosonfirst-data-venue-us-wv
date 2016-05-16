@@ -1,0 +1,71 @@
+{
+  "id": 823438767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.843297,38.922737,-79.843297,38.922737",
+    "geom:latitude":38.922737,
+    "geom:longitude":-79.843297,
+    "iso:country":"US",
+    "sg:address":"25 Randolph Ave",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 0435",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6buXc8PQYpXLROmiuWHPIq_38.922737_-79.843297@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434312,
+    "wof:geomhash":"425ef68b19df01a784d76744b9668932",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823438767
+        }
+    ],
+    "wof:id":823438767,
+    "wof:lastmodified":1463434312,
+    "wof:name":"Fisher Auto Parts Inc",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -79.843297,
+    38.922737,
+    -79.843297,
+    38.922737
+],
+  "geometry": {"coordinates":[-79.84329700000001,38.922737],"type":"Point"}
+}

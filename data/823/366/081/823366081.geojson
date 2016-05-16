@@ -1,0 +1,79 @@
+{
+  "id": 823366081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.150536,39.471138,-80.150536,39.471138",
+    "geom:latitude":39.471138,
+    "geom:longitude":-80.150536,
+    "iso:country":"US",
+    "sg:address":"1006 Chamberlain Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 2555",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "wheel",
+        "axle",
+        "alignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cRQr9MoxkIN8Zq2tWxEV2_39.471138_-80.150536@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431015,
+    "wof:geomhash":"e9508750e674a5be77c943a4cddb2ef8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823366081
+        }
+    ],
+    "wof:id":823366081,
+    "wof:lastmodified":1463431015,
+    "wof:name":"Jeff's Auto Repair",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "wheel",
+        "axle",
+        "alignment"
+    ]
+},
+  "bbox": [
+    -80.150536,
+    39.471138,
+    -80.150536,
+    39.471138
+],
+  "geometry": {"coordinates":[-80.150536,39.471138],"type":"Point"}
+}

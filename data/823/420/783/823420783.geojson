@@ -1,0 +1,73 @@
+{
+  "id": 823420783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.977935,39.668025,-79.977935,39.668025",
+    "geom:latitude":39.668025,
+    "geom:longitude":-79.977935,
+    "iso:country":"US",
+    "sg:address":"338 Timberline",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 598 7809",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7X8RMsrw0Z7uufmruxSkRk_39.668025_-79.977935@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433497,
+    "wof:geomhash":"c0be426bc46f19e0d19a83a94e99faab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851419,
+            "region_id":85688589,
+            "venue_id":823420783
+        }
+    ],
+    "wof:id":823420783,
+    "wof:lastmodified":1463433497,
+    "wof:name":"Timberline Apartments",
+    "wof:parent_id":85851419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -79.977935,
+    39.668025,
+    -79.977935,
+    39.668025
+],
+  "geometry": {"coordinates":[-79.977935,39.668025],"type":"Point"}
+}

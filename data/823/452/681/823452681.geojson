@@ -1,0 +1,80 @@
+{
+  "id": 823452681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.829909,39.298806,-77.829909,39.298806",
+    "geom:latitude":39.298806,
+    "geom:longitude":-77.829909,
+    "iso:country":"US",
+    "sg:address":"95 Patrick Henry Way",
+    "sg:city":"Charles Town",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/charles-town/139822-sicilias-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 725 9999",
+    "sg:postcode":"25414",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731443,
+        102082647,
+        85807793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qNMoQlGHiLJG8p8G8Bsn7_39.298806_-77.829909@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434916,
+    "wof:geomhash":"460f79d472b57f135f1c0d4139cb34f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082647,
+            "locality_id":101731443,
+            "neighbourhood_id":85807793,
+            "region_id":85688589,
+            "venue_id":823452681
+        }
+    ],
+    "wof:id":823452681,
+    "wof:lastmodified":1463434916,
+    "wof:name":"Sicilia's Pizzeria",
+    "wof:parent_id":85807793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -77.829909,
+    39.298806,
+    -77.829909,
+    39.298806
+],
+  "geometry": {"coordinates":[-77.829909,39.298806],"type":"Point"}
+}

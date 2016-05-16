@@ -1,0 +1,66 @@
+{
+  "id": 823412553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.859331,39.648073,-80.859331,39.648073",
+    "geom:latitude":39.648073,
+    "geom:longitude":-80.859331,
+    "iso:country":"US",
+    "sg:address":"226 McEldowny Ave",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 771 1129",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d9o4xsD9AwjMLXqXY7Sx0_39.648073_-80.859331@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433123,
+    "wof:geomhash":"9966caa34c4962e656b9fab07718f591",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823412553
+        }
+    ],
+    "wof:id":823412553,
+    "wof:lastmodified":1463433123,
+    "wof:name":"Park Laundromat & Car Wash",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.859331,
+    39.648073,
+    -80.859331,
+    39.648073
+],
+  "geometry": {"coordinates":[-80.859331,39.648073],"type":"Point"}
+}

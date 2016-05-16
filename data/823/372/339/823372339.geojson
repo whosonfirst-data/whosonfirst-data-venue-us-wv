@@ -1,0 +1,71 @@
+{
+  "id": 823372339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.564396,38.311451,-81.564396,38.311451",
+    "geom:latitude":38.311451,
+    "geom:longitude":-81.564396,
+    "iso:country":"US",
+    "sg:address":"5800 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 720 1940",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70JLgxOnyAp05gbVesID5Y_38.311451_-81.564396@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431297,
+    "wof:geomhash":"4c05f339f3e473001730e389ff5429f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823372339
+        }
+    ],
+    "wof:id":823372339,
+    "wof:lastmodified":1463431297,
+    "wof:name":"Mine Weld & Repair",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "related"
+    ]
+},
+  "bbox": [
+    -81.564396,
+    38.311451,
+    -81.564396,
+    38.311451
+],
+  "geometry": {"coordinates":[-81.564396,38.311451],"type":"Point"}
+}

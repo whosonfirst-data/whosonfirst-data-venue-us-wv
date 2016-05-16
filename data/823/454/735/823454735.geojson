@@ -1,0 +1,81 @@
+{
+  "id": 823454735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.98864,39.461683,-77.98864,39.461683",
+    "geom:latitude":39.461683,
+    "geom:longitude":-77.98864,
+    "iso:country":"US",
+    "sg:address":"203 S Viking Way",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 267 8515",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "hot",
+        "hamburger",
+        "dog"
+    ],
+    "sg:website":"http://www.bk.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85846047,
+        102083367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XmQctXNMlb0fbRGEoS6q3_39.461683_-77.988640@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435050,
+    "wof:geomhash":"f83205f9036c3ba22d6e46d3ebc8e30b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "neighbourhood_id":85846047,
+            "region_id":85688589,
+            "venue_id":823454735
+        }
+    ],
+    "wof:id":823454735,
+    "wof:lastmodified":1463435050,
+    "wof:name":"Burger King",
+    "wof:parent_id":85846047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "hot",
+        "hamburger",
+        "dog"
+    ]
+},
+  "bbox": [
+    -77.98864,
+    39.461683,
+    -77.98864,
+    39.461683
+],
+  "geometry": {"coordinates":[-77.98864,39.461683],"type":"Point"}
+}

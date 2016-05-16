@@ -1,0 +1,73 @@
+{
+  "id": 823404931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.092269,37.364809,-81.092269,37.364809",
+    "geom:latitude":37.364809,
+    "geom:longitude":-81.092269,
+    "iso:country":"US",
+    "sg:address":"1004 Stafford Dr",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 5808",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "appliance",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SenqIYrdoo8q0haTA2QQO_37.364809_-81.092269@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432808,
+    "wof:geomhash":"d58db81aff7766c63cf1542c87b018f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823404931
+        }
+    ],
+    "wof:id":823404931,
+    "wof:lastmodified":1463432808,
+    "wof:name":"Hometown Rental & Sales",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -81.092269,
+    37.364809,
+    -81.092269,
+    37.364809
+],
+  "geometry": {"coordinates":[-81.092269,37.364809],"type":"Point"}
+}

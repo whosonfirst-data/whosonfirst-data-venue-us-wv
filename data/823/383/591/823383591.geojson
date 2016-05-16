@@ -1,0 +1,73 @@
+{
+  "id": 823383591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.15615,37.97609,-81.15615,37.97609",
+    "geom:latitude":37.97609,
+    "geom:longitude":-81.15615,
+    "iso:country":"US",
+    "sg:address":"406 Virginia St",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 465 0755",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "industrial",
+        "rebuilds",
+        "starter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OynAVl9vax5J5c4LYAEpj_37.976090_-81.156150@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431796,
+    "wof:geomhash":"0300c32f64252b64608e8d2144345c70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823383591
+        }
+    ],
+    "wof:id":823383591,
+    "wof:lastmodified":1463431796,
+    "wof:name":"Murdock & Ervin Inc",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "rebuilds",
+        "starter"
+    ]
+},
+  "bbox": [
+    -81.15615,
+    37.97609,
+    -81.15615,
+    37.97609
+],
+  "geometry": {"coordinates":[-81.15615,37.97609],"type":"Point"}
+}

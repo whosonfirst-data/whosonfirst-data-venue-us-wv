@@ -1,0 +1,66 @@
+{
+  "id": 823424317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.305551,38.418026,-82.305551,38.418026",
+    "geom:latitude":38.418026,
+    "geom:longitude":-82.305551,
+    "iso:country":"US",
+    "sg:address":"6202 E Pea Ridge Rd",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 736 1709",
+    "sg:postcode":"25705",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85816671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oI7JyNMQ9MPrj1sCDbOvR_38.418026_-82.305551@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433634,
+    "wof:geomhash":"36087a3d142f9ab0dcee4a8753b4da04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85816671,
+            "region_id":85688589,
+            "venue_id":823424317
+        }
+    ],
+    "wof:id":823424317,
+    "wof:lastmodified":1463433634,
+    "wof:name":"7-Eleven",
+    "wof:parent_id":85816671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.305551,
+    38.418026,
+    -82.305551,
+    38.418026
+],
+  "geometry": {"coordinates":[-82.30555099999999,38.418026],"type":"Point"}
+}

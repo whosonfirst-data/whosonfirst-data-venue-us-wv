@@ -1,0 +1,71 @@
+{
+  "id": 823380577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.608046,40.287995,-80.608046,40.287995",
+    "geom:latitude":40.287995,
+    "geom:longitude":-80.608046,
+    "iso:country":"US",
+    "sg:address":"2520 Commerce St",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 1313",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KresPT03pzhkTynz5O1Q0_40.287995_-80.608046@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431667,
+    "wof:geomhash":"a3f9e56cf6def09b177c91b75035208f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823380577
+        }
+    ],
+    "wof:id":823380577,
+    "wof:lastmodified":1463431667,
+    "wof:name":"Dr Kucher Assoc",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -80.608046,
+    40.287995,
+    -80.608046,
+    40.287995
+],
+  "geometry": {"coordinates":[-80.608046,40.287995],"type":"Point"}
+}

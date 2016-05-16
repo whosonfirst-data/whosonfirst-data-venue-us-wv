@@ -1,0 +1,71 @@
+{
+  "id": 823440313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.087773,37.371463,-81.087773,37.371463",
+    "geom:latitude":37.371463,
+    "geom:longitude":-81.087773,
+    "iso:country":"US",
+    "sg:address":"202 N 3rd St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 7815",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xXlp3zv7eJyjj2WiUHIlr_37.371463_-81.087773@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434375,
+    "wof:geomhash":"ef105293bd87ac40ffbf6a34fdc72d88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823440313
+        }
+    ],
+    "wof:id":823440313,
+    "wof:lastmodified":1463434375,
+    "wof:name":"DFLUX Data Inc",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "internet"
+    ]
+},
+  "bbox": [
+    -81.087773,
+    37.371463,
+    -81.087773,
+    37.371463
+],
+  "geometry": {"coordinates":[-81.087773,37.371463],"type":"Point"}
+}

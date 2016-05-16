@@ -1,0 +1,71 @@
+{
+  "id": 823428143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.252508,39.284559,-80.252508,39.284559",
+    "geom:latitude":39.284559,
+    "geom:longitude":-80.252508,
+    "iso:country":"US",
+    "sg:address":"129 W Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 8088",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NAH96UQDEchfHTnFSqdlZ_39.284559_-80.252508@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433794,
+    "wof:geomhash":"27234504817881c07622ec7cae349ae0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823428143
+        }
+    ],
+    "wof:id":823428143,
+    "wof:lastmodified":1463433794,
+    "wof:name":"Dan Riggs Garages & Towing",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -80.252508,
+    39.284559,
+    -80.252508,
+    39.284559
+],
+  "geometry": {"coordinates":[-80.25250800000001,39.284559],"type":"Point"}
+}

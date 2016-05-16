@@ -1,0 +1,73 @@
+{
+  "id": 823367725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.633577,38.35059,-81.633577,38.35059",
+    "geom:latitude":38.35059,
+    "geom:longitude":-81.633577,
+    "iso:country":"US",
+    "sg:address":"240 Capitol St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 2752",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0f7JrNcK2fJ3k4mt3jSB0b_38.350590_-81.633577@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431083,
+    "wof:geomhash":"d7d3154e884d4fa3214a17ba2be964c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823367725
+        }
+    ],
+    "wof:id":823367725,
+    "wof:lastmodified":1463431083,
+    "wof:name":"Coordinated Consulting Svc",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    -81.633577,
+    38.35059,
+    -81.633577,
+    38.35059
+],
+  "geometry": {"coordinates":[-81.633577,38.35059],"type":"Point"}
+}

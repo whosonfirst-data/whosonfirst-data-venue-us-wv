@@ -1,0 +1,71 @@
+{
+  "id": 823456967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.608429,40.273819,-80.608429,40.273819",
+    "geom:latitude":40.273819,
+    "geom:longitude":-80.608429,
+    "iso:country":"US",
+    "sg:address":"1201 Pleasant Ave",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 0133",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zfIKieN7pJKxTn0a4kIeA_40.273819_-80.608429@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435136,
+    "wof:geomhash":"d79c8ebb956b1b46f8fbe098334b203d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823456967
+        }
+    ],
+    "wof:id":823456967,
+    "wof:lastmodified":1463435136,
+    "wof:name":"Wellsburg Primary School",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -80.608429,
+    40.273819,
+    -80.608429,
+    40.273819
+],
+  "geometry": {"coordinates":[-80.608429,40.273819],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823375695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.145572,37.977443,-81.145572,37.977443",
+    "geom:latitude":37.977443,
+    "geom:longitude":-81.145572,
+    "iso:country":"US",
+    "sg:address":"301 Park St",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 469 6131",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "equipment",
+        "hydraulic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TZnFlw8O7LJo10vV4ZDWM_37.977443_-81.145572@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431444,
+    "wof:geomhash":"36bc22add5c78bffa5268d9ed0471bdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823375695
+        }
+    ],
+    "wof:id":823375695,
+    "wof:lastmodified":1463431444,
+    "wof:name":"Rooster's Hydraulic Svc Inc",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "hydraulic"
+    ]
+},
+  "bbox": [
+    -81.145572,
+    37.977443,
+    -81.145572,
+    37.977443
+],
+  "geometry": {"coordinates":[-81.145572,37.977443],"type":"Point"}
+}

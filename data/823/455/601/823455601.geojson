@@ -1,0 +1,75 @@
+{
+  "id": 823455601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.044403,39.351501,-78.044403,39.351501",
+    "geom:latitude":39.351501,
+    "geom:longitude":-78.044403,
+    "iso:country":"US",
+    "sg:address":"126 Excellence Way",
+    "sg:city":"Inwood",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 229 1950",
+    "sg:postcode":"25428",
+    "sg:province":"WV",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_437HmWudGruUIYEx9IrMnS_39.351501_-78.044403@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435081,
+    "wof:geomhash":"581c13a9f4bb942ee49e59bfef52fa10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823455601
+        }
+    ],
+    "wof:id":823455601,
+    "wof:lastmodified":1463435081,
+    "wof:name":"Schools",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -78.044403,
+    39.351501,
+    -78.044403,
+    39.351501
+],
+  "geometry": {"coordinates":[-78.044403,39.351501],"type":"Point"}
+}

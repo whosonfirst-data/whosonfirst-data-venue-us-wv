@@ -1,0 +1,71 @@
+{
+  "id": 823430285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.137622,39.481743,-80.137622,39.481743",
+    "geom:latitude":39.481743,
+    "geom:longitude":-80.137622,
+    "iso:country":"US",
+    "sg:address":"209 Market St",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 367 9624",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4023Iacdykg69iyFhPvnFD_39.481743_-80.137622@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433893,
+    "wof:geomhash":"8563ffe81ba602b2cfce30b4f27a9a51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823430285
+        }
+    ],
+    "wof:id":823430285,
+    "wof:lastmodified":1463433893,
+    "wof:name":"Cherokee Catering",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -80.137622,
+    39.481743,
+    -80.137622,
+    39.481743
+],
+  "geometry": {"coordinates":[-80.13762199999999,39.481743],"type":"Point"}
+}

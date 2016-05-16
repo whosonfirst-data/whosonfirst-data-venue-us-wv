@@ -1,0 +1,71 @@
+{
+  "id": 823430147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.132116,37.994523,-81.132116,37.994523",
+    "geom:latitude":37.994523,
+    "geom:longitude":-81.132116,
+    "iso:country":"US",
+    "sg:address":"1700 Main St E",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 465 8337",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1znOB7PWwZ91iXzwJwxLAu_37.994523_-81.132116@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433888,
+    "wof:geomhash":"a890e0618d0f3493f7c45fd5757cd6fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823430147
+        }
+    ],
+    "wof:id":823430147,
+    "wof:lastmodified":1463433888,
+    "wof:name":"Green's Auto Repair",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -81.132116,
+    37.994523,
+    -81.132116,
+    37.994523
+],
+  "geometry": {"coordinates":[-81.132116,37.994523],"type":"Point"}
+}

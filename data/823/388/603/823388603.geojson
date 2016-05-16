@@ -1,0 +1,73 @@
+{
+  "id": 823388603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.387805,38.401418,-82.387805,38.401418",
+    "geom:latitude":38.401418,
+    "geom:longitude":-82.387805,
+    "iso:country":"US",
+    "sg:address":"867 Norway Ave",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 696 9438",
+    "sg:postcode":"25705",
+    "sg:province":"WV",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083329,
+        85868301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1C0cA91TAnzguwK6vWga6T_38.401418_-82.387805@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432006,
+    "wof:geomhash":"5336dde44758193a97109ed901006cd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731553,
+            "neighbourhood_id":85868301,
+            "region_id":85688589,
+            "venue_id":823388603
+        }
+    ],
+    "wof:id":823388603,
+    "wof:lastmodified":1463432006,
+    "wof:name":"Mullins Crossroads Service Ctr",
+    "wof:parent_id":85868301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -82.387805,
+    38.401418,
+    -82.387805,
+    38.401418
+],
+  "geometry": {"coordinates":[-82.387805,38.401418],"type":"Point"}
+}

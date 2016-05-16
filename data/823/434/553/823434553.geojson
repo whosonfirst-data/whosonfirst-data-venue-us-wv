@@ -1,0 +1,73 @@
+{
+  "id": 823434553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.454683,37.779402,-80.454683,37.779402",
+    "geom:latitude":37.779402,
+    "geom:longitude":-80.454683,
+    "iso:country":"US",
+    "sg:address":"117 E Anderson St",
+    "sg:city":"Lewisburg",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 647 5682",
+    "sg:postcode":"24901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OrHbjK1Uoj7YP0oym4Vzo_37.779402_-80.454683@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434103,
+    "wof:geomhash":"cf8e6a53af3fe0a2fb4c53f1f1666a28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823434553
+        }
+    ],
+    "wof:id":823434553,
+    "wof:lastmodified":1463434103,
+    "wof:name":"Skyline Farm",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -80.454683,
+    37.779402,
+    -80.454683,
+    37.779402
+],
+  "geometry": {"coordinates":[-80.454683,37.779402],"type":"Point"}
+}

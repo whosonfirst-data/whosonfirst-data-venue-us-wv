@@ -1,0 +1,71 @@
+{
+  "id": 823447825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.221944,37.252096,-81.221944,37.252096",
+    "geom:latitude":37.252096,
+    "geom:longitude":-81.221944,
+    "iso:country":"US",
+    "sg:address":"663 Rockbridge St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 327 7286",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "neighborhood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1busr6clQEEoyxKyepWag7_37.252096_-81.221944@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434729,
+    "wof:geomhash":"746affbdb46528e36eeab7403d807381",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823447825
+        }
+    ],
+    "wof:id":823447825,
+    "wof:lastmodified":1463434729,
+    "wof:name":"South Blfeld Neighborhood Assn",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "neighborhood"
+    ]
+},
+  "bbox": [
+    -81.221944,
+    37.252096,
+    -81.221944,
+    37.252096
+],
+  "geometry": {"coordinates":[-81.22194399999999,37.252096],"type":"Point"}
+}

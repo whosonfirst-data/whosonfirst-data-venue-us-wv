@@ -1,0 +1,75 @@
+{
+  "id": 823389829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.223609,37.791506,-81.223609,37.791506",
+    "geom:latitude":37.791506,
+    "geom:longitude":-81.223609,
+    "iso:country":"US",
+    "sg:address":"250 George St",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 252 2558",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7flXq9ET9lQL8LEp3F1pgb_37.791506_-81.223609@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432066,
+    "wof:geomhash":"4c7ea3f17ac4285b2bc40d4aacb20a39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823389829
+        }
+    ],
+    "wof:id":823389829,
+    "wof:lastmodified":1463432066,
+    "wof:name":"Retina Consultants",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.223609,
+    37.791506,
+    -81.223609,
+    37.791506
+],
+  "geometry": {"coordinates":[-81.223609,37.791506],"type":"Point"}
+}

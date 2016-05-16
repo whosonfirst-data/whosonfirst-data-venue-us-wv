@@ -1,0 +1,73 @@
+{
+  "id": 823432729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.967975,39.633969,-79.967975,39.633969",
+    "geom:latitude":39.633969,
+    "geom:longitude":-79.967975,
+    "iso:country":"US",
+    "sg:address":"166 Holland Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Dairy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 6430",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cwlD99VvuXxDl5ZnkzblM_39.633969_-79.967975@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434007,
+    "wof:geomhash":"c072a4ef6c5135c126e8477c47a3515a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851489,
+            "region_id":85688589,
+            "venue_id":823432729
+        }
+    ],
+    "wof:id":823432729,
+    "wof:lastmodified":1463434007,
+    "wof:name":"Dairy Mart Foods",
+    "wof:parent_id":85851489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -79.967975,
+    39.633969,
+    -79.967975,
+    39.633969
+],
+  "geometry": {"coordinates":[-79.967975,39.633969],"type":"Point"}
+}

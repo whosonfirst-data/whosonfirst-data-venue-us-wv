@@ -1,0 +1,78 @@
+{
+  "id": 823412227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.05369,37.394901,-81.05369,37.394901",
+    "geom:latitude":37.394901,
+    "geom:longitude":-81.05369,
+    "iso:country":"US",
+    "sg:address":"273 Carl Wade Rd",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 6068",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "ice",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GcDjNkEvr6CaS1Q3NlxTV_37.394901_-81.053690@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433111,
+    "wof:geomhash":"39708f1e5d5a670cec896a2de5b38961",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823412227
+        }
+    ],
+    "wof:id":823412227,
+    "wof:lastmodified":1463433111,
+    "wof:name":"Mountain State Ice Co",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ice",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -81.05369,
+    37.394901,
+    -81.05369,
+    37.394901
+],
+  "geometry": {"coordinates":[-81.05369,37.394901],"type":"Point"}
+}

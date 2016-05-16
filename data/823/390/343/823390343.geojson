@@ -1,0 +1,71 @@
+{
+  "id": 823390343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.99578,39.45823,-77.99578,39.45823",
+    "geom:latitude":39.45823,
+    "geom:longitude":-77.99578,
+    "iso:country":"US",
+    "sg:address":"2111 Boyd Orchard Rd",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 267 9557",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33dUvz4ssf2T2etpfpkJq0_39.458230_-77.995780@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432095,
+    "wof:geomhash":"e49b00bb428268ad27b8c31424375d8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823390343
+        }
+    ],
+    "wof:id":823390343,
+    "wof:lastmodified":1463432095,
+    "wof:name":"Martinsburg Seventh Day Advent",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -77.99578,
+    39.45823,
+    -77.99578,
+    39.45823
+],
+  "geometry": {"coordinates":[-77.99578,39.45823],"type":"Point"}
+}

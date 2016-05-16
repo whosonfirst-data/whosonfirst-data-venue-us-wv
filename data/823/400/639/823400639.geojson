@@ -1,0 +1,68 @@
+{
+  "id": 823400639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.225867,37.65984,-81.225867,37.65984",
+    "geom:latitude":37.65984,
+    "geom:longitude":-81.225867,
+    "iso:country":"US",
+    "sg:address":"127 Epperly Rd",
+    "sg:city":"Princewick",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 683 3313",
+    "sg:postcode":"25908",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I9HYeasUzk6K0pfu3DanG_37.659840_-81.225867@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432612,
+    "wof:geomhash":"34af2febfa4982fb9b28a0d9f94ba274",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823400639
+        }
+    ],
+    "wof:id":823400639,
+    "wof:lastmodified":1463432612,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.225867,
+    37.65984,
+    -81.225867,
+    37.65984
+],
+  "geometry": {"coordinates":[-81.22586699999999,37.65984],"type":"Point"}
+}

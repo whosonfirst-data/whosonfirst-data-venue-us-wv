@@ -1,0 +1,71 @@
+{
+  "id": 823396057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.127048,37.988806,-81.127048,37.988806",
+    "geom:latitude":37.988806,
+    "geom:longitude":-81.127048,
+    "iso:country":"US",
+    "sg:address":"516 24th St",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 469 8052",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_566yubRLwFNlqmFgFkDUoO_37.988806_-81.127048@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432377,
+    "wof:geomhash":"d61db6b25e0462876de88b5372fb7356",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823396057
+        }
+    ],
+    "wof:id":823396057,
+    "wof:lastmodified":1463432377,
+    "wof:name":"C W Electric",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.127048,
+    37.988806,
+    -81.127048,
+    37.988806
+],
+  "geometry": {"coordinates":[-81.127048,37.988806],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 823453531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.996448,39.342563,-79.996448,39.342563",
+    "geom:latitude":39.342563,
+    "geom:longitude":-79.996448,
+    "iso:country":"US",
+    "sg:address":"102 E Pike St",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/eastern/181550-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 265 4710",
+    "sg:postcode":"26354",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731717,
+        102083351,
+        85849697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SKrhVULFuP21WQv4YPE1Q_39.342563_-79.996448@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434951,
+    "wof:geomhash":"9e28f3a2e270133fd0b117c6f680cbf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083351,
+            "locality_id":101731717,
+            "neighbourhood_id":85849697,
+            "region_id":85688589,
+            "venue_id":823453531
+        }
+    ],
+    "wof:id":823453531,
+    "wof:lastmodified":1463434951,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85849697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -79.996448,
+    39.342563,
+    -79.996448,
+    39.342563
+],
+  "geometry": {"coordinates":[-79.996448,39.342563],"type":"Point"}
+}

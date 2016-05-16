@@ -1,0 +1,68 @@
+{
+  "id": 823365523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.281364,37.731943,-81.281364,37.731943",
+    "geom:latitude":37.731943,
+    "geom:longitude":-81.281364,
+    "iso:country":"US",
+    "sg:address":"208 Saco Ln",
+    "sg:city":"Glen White",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 255 5747",
+    "sg:postcode":"25849",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IuuZHoZSMBy9f0IK7rgiN_37.731943_-81.281364@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463430989,
+    "wof:geomhash":"9edd116643d449af09811c22a4859fcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823365523
+        }
+    ],
+    "wof:id":823365523,
+    "wof:lastmodified":1463430989,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.281364,
+    37.731943,
+    -81.281364,
+    37.731943
+],
+  "geometry": {"coordinates":[-81.281364,37.731943],"type":"Point"}
+}

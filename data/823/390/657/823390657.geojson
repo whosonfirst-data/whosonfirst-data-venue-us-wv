@@ -1,0 +1,78 @@
+{
+  "id": 823390657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.222116,37.267199,-81.222116,37.267199",
+    "geom:latitude":37.267199,
+    "geom:longitude":-81.222116,
+    "iso:country":"US",
+    "sg:address":"605 Bland St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 327 5316",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "optician",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18l1k63KLB3XY8jeM81ZMF_37.267199_-81.222116@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432106,
+    "wof:geomhash":"7bb4bb0519bdbfcaf5478dcf8f60d7a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823390657
+        }
+    ],
+    "wof:id":823390657,
+    "wof:lastmodified":1463432106,
+    "wof:name":"Bishop Optical Company",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "optician",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -81.222116,
+    37.267199,
+    -81.222116,
+    37.267199
+],
+  "geometry": {"coordinates":[-81.222116,37.267199],"type":"Point"}
+}

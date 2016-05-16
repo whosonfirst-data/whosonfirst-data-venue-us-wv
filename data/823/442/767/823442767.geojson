@@ -1,0 +1,73 @@
+{
+  "id": 823442767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.121563,39.479855,-80.121563,39.479855",
+    "geom:latitude":39.479855,
+    "geom:longitude":-80.121563,
+    "iso:country":"US",
+    "sg:address":"1031 Morgantown Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 7940",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16jRHScgIPbTnyPE4S7RYo_39.479855_-80.121563@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434484,
+    "wof:geomhash":"51cf043268004d88ebc058c7faf1347f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823442767
+        }
+    ],
+    "wof:id":823442767,
+    "wof:lastmodified":1463434484,
+    "wof:name":"Family Care Assoc",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -80.121563,
+    39.479855,
+    -80.121563,
+    39.479855
+],
+  "geometry": {"coordinates":[-80.12156299999999,39.479855],"type":"Point"}
+}

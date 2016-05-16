@@ -1,0 +1,71 @@
+{
+  "id": 823403599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.649332,38.379348,-81.649332,38.379348",
+    "geom:latitude":38.379348,
+    "geom:longitude":-81.649332,
+    "iso:country":"US",
+    "sg:address":"1533 Chandler Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 6061",
+    "sg:postcode":"25312",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04SiSS8VEMDCyokfYtVyiS_38.379348_-81.649332@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432735,
+    "wof:geomhash":"aa467ef9f7a6ac5e3080c74fe0943fd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823403599
+        }
+    ],
+    "wof:id":823403599,
+    "wof:lastmodified":1463432735,
+    "wof:name":"Faithful Construction",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.649332,
+    38.379348,
+    -81.649332,
+    38.379348
+],
+  "geometry": {"coordinates":[-81.649332,38.379348],"type":"Point"}
+}

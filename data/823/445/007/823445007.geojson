@@ -1,0 +1,73 @@
+{
+  "id": 823445007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.341879,39.282784,-80.341879,39.282784",
+    "geom:latitude":39.282784,
+    "geom:longitude":-80.341879,
+    "iso:country":"US",
+    "sg:address":"115 N 6th St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 624 8473",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0J0qpeb39FRFRA9IUP19y5_39.282784_-80.341879@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434592,
+    "wof:geomhash":"8f489da10e75aba9fcffa7d6085d4547",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823445007
+        }
+    ],
+    "wof:id":823445007,
+    "wof:lastmodified":1463434592,
+    "wof:name":"Wholesale Tire Inc",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "tire"
+    ]
+},
+  "bbox": [
+    -80.341879,
+    39.282784,
+    -80.341879,
+    39.282784
+],
+  "geometry": {"coordinates":[-80.34187900000001,39.282784],"type":"Point"}
+}

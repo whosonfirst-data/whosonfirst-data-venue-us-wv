@@ -1,0 +1,76 @@
+{
+  "id": 823453791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.960329,39.5815,-79.960329,39.5815",
+    "geom:latitude":39.5815,
+    "geom:longitude":-79.960329,
+    "iso:country":"US",
+    "sg:address":"215 Hornbeck Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/western/139734-sicilias-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 284 0885",
+    "sg:postcode":"26508",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tlE4bxStvs59Qb4jU1Oal_39.581500_-79.960329@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434962,
+    "wof:geomhash":"62b3aaa1c8fe48e63e21a94afb6b44a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823453791
+        }
+    ],
+    "wof:id":823453791,
+    "wof:lastmodified":1463434962,
+    "wof:name":"Sicilia's Pizzeria",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -79.960329,
+    39.5815,
+    -79.960329,
+    39.5815
+],
+  "geometry": {"coordinates":[-79.960329,39.5815],"type":"Point"}
+}

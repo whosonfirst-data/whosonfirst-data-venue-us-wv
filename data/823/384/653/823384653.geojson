@@ -1,0 +1,75 @@
+{
+  "id": 823384653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.512056,38.401879,-81.512056,38.401879",
+    "geom:latitude":38.401879,
+    "geom:longitude":-81.512056,
+    "iso:country":"US",
+    "sg:address":"1011 Shawnee Trl",
+    "sg:city":"Elkview",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 965 7252",
+    "sg:postcode":"25071",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZccqKo4AUOhEIfHWGpYxR_38.401879_-81.512056@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431838,
+    "wof:geomhash":"fdec01ebc0f8687d4bd8c3ab24a94806",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823384653
+        }
+    ],
+    "wof:id":823384653,
+    "wof:lastmodified":1463431838,
+    "wof:name":"Cunningham Electrical Services",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.512056,
+    38.401879,
+    -81.512056,
+    38.401879
+],
+  "geometry": {"coordinates":[-81.512056,38.401879],"type":"Point"}
+}

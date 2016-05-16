@@ -1,0 +1,73 @@
+{
+  "id": 823454441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.646498,38.365456,-81.646498,38.365456",
+    "geom:latitude":38.365456,
+    "geom:longitude":-81.646498,
+    "iso:country":"US",
+    "sg:address":"647 Washington St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 7691",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "italian",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GRF2RkIHp4z9ZfBrpCRgu_38.365456_-81.646498@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435029,
+    "wof:geomhash":"50c679dcf512979090e2affdac46e67a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823454441
+        }
+    ],
+    "wof:id":823454441,
+    "wof:lastmodified":1463435029,
+    "wof:name":"Ginos Pizza & Spaghetti House",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -81.646498,
+    38.365456,
+    -81.646498,
+    38.365456
+],
+  "geometry": {"coordinates":[-81.64649799999999,38.365456],"type":"Point"}
+}

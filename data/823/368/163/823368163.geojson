@@ -1,0 +1,66 @@
+{
+  "id": 823368163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.038348,39.151434,-80.038348,39.151434",
+    "geom:latitude":39.151434,
+    "geom:longitude":-80.038348,
+    "iso:country":"US",
+    "sg:address":"19 S Main St",
+    "sg:city":"Philippi",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 457 3200",
+    "sg:postcode":"26416",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LKbCPJxSx7AXXy7JqPklG_39.151434_-80.038348@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431104,
+    "wof:geomhash":"25c78d89f52273260b02d0021513f425",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823368163
+        }
+    ],
+    "wof:id":823368163,
+    "wof:lastmodified":1463431104,
+    "wof:name":"Moes's Bottle Shoppe",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.038348,
+    39.151434,
+    -80.038348,
+    39.151434
+],
+  "geometry": {"coordinates":[-80.038348,39.151434],"type":"Point"}
+}

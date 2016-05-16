@@ -1,0 +1,71 @@
+{
+  "id": 823437553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.596051,40.317445,-80.596051,40.317445",
+    "geom:latitude":40.317445,
+    "geom:longitude":-80.596051,
+    "iso:country":"US",
+    "sg:address":"214 Main St",
+    "sg:city":"Follansbee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 527 3685",
+    "sg:postcode":"26037",
+    "sg:province":"WV",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uEWxBC4K2TxoG7UNbrw3Q_40.317445_-80.596051@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434260,
+    "wof:geomhash":"fae970749085b58956e39920851e0da4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823437553
+        }
+    ],
+    "wof:id":823437553,
+    "wof:lastmodified":1463434260,
+    "wof:name":"Vehicles Unlimited",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -80.596051,
+    40.317445,
+    -80.596051,
+    40.317445
+],
+  "geometry": {"coordinates":[-80.596051,40.317445],"type":"Point"}
+}

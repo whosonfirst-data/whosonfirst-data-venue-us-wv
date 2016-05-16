@@ -1,0 +1,74 @@
+{
+  "id": 823454497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.70927,38.34239,-81.70927,38.34239",
+    "geom:latitude":38.34239,
+    "geom:longitude":-81.70927,
+    "iso:country":"US",
+    "sg:address":"1000 Kramer St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 7368",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "yard",
+        "store"
+    ],
+    "sg:website":"https://www.hertzequip.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66GvKvthrCoFVTC8lTA1H2_38.342390_-81.709270@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435033,
+    "wof:geomhash":"f4ff790a5d110213f182e93004e8cdf5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823454497
+        }
+    ],
+    "wof:id":823454497,
+    "wof:lastmodified":1463435033,
+    "wof:name":"Hertz Equipment Rental",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard",
+        "store"
+    ]
+},
+  "bbox": [
+    -81.70927,
+    38.34239,
+    -81.70927,
+    38.34239
+],
+  "geometry": {"coordinates":[-81.70927,38.34239],"type":"Point"}
+}

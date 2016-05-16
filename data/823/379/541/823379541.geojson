@@ -1,0 +1,73 @@
+{
+  "id": 823379541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.710647,38.331691,-81.710647,38.331691",
+    "geom:latitude":38.331691,
+    "geom:longitude":-81.710647,
+    "iso:country":"US",
+    "sg:address":"5 Dudley Farms Ln",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 720 6195",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lu0OUtEPFNmZY8E7Xoupc_38.331691_-81.710647@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431620,
+    "wof:geomhash":"72e2d4abf66a41f0c9f1cbe64372cb15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823379541
+        }
+    ],
+    "wof:id":823379541,
+    "wof:lastmodified":1463431620,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -81.710647,
+    38.331691,
+    -81.710647,
+    38.331691
+],
+  "geometry": {"coordinates":[-81.71064699999999,38.331691],"type":"Point"}
+}

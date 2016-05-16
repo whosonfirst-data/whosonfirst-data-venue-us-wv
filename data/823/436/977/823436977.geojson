@@ -1,0 +1,73 @@
+{
+  "id": 823436977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.08563,37.363934,-81.08563,37.363934",
+    "geom:latitude":37.363934,
+    "geom:longitude":-81.08563,
+    "iso:country":"US",
+    "sg:address":"198 Rogers St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 2378",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FbsVChvbAUPoeLfHzVPa3_37.363934_-81.085630@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434217,
+    "wof:geomhash":"b872669be02406c17bd5ad0c4a9760a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823436977
+        }
+    ],
+    "wof:id":823436977,
+    "wof:lastmodified":1463434217,
+    "wof:name":"Super Lube",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -81.08563,
+    37.363934,
+    -81.08563,
+    37.363934
+],
+  "geometry": {"coordinates":[-81.08562999999999,37.363934],"type":"Point"}
+}

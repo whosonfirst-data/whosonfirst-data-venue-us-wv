@@ -1,0 +1,87 @@
+{
+  "id": 823452671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.860004,39.289236,-77.860004,39.289236",
+    "geom:latitude":39.289236,
+    "geom:longitude":-77.860004,
+    "iso:country":"US",
+    "sg:address":"122 N George St",
+    "sg:city":"Charles Town",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/charles-town/165126-daily-grind/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 724 6002",
+    "sg:postcode":"25414",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731443,
+        102082647,
+        85807793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3slnOvYYFlrYNp8yYuIcue_39.289236_-77.860004@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434916,
+    "wof:geomhash":"ffa70a97c2bc7b7aec55fadb315a6b6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082647,
+            "locality_id":101731443,
+            "neighbourhood_id":85807793,
+            "region_id":85688589,
+            "venue_id":823452671
+        }
+    ],
+    "wof:id":823452671,
+    "wof:lastmodified":1463434916,
+    "wof:name":"Daily Grind",
+    "wof:parent_id":85807793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -77.860004,
+    39.289236,
+    -77.860004,
+    39.289236
+],
+  "geometry": {"coordinates":[-77.860004,39.289236],"type":"Point"}
+}

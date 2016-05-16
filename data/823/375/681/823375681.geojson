@@ -1,0 +1,73 @@
+{
+  "id": 823375681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.745983,38.353665,-81.745983,38.353665",
+    "geom:latitude":38.353665,
+    "geom:longitude":-81.745983,
+    "iso:country":"US",
+    "sg:address":"5527 Maccorkle Ave",
+    "sg:city":"South Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 768 2876",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "guard",
+        "patrol"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JVhHm6o6NfHTYY50VIzBa_38.353665_-81.745983@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431444,
+    "wof:geomhash":"25587337b082c8eb1f0527e2959d6503",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823375681
+        }
+    ],
+    "wof:id":823375681,
+    "wof:lastmodified":1463431444,
+    "wof:name":"Alert 1 Security",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard",
+        "patrol"
+    ]
+},
+  "bbox": [
+    -81.745983,
+    38.353665,
+    -81.745983,
+    38.353665
+],
+  "geometry": {"coordinates":[-81.745983,38.353665],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823387889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.569954,38.314597,-81.569954,38.314597",
+    "geom:latitude":38.314597,
+    "geom:longitude":-81.569954,
+    "iso:country":"US",
+    "sg:address":"5515 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 2138",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nQEqRkKS3jmAMMA02FTQO_38.314597_-81.569954@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431960,
+    "wof:geomhash":"c0660cbd2223d1ce896d8c45b8697917",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823387889
+        }
+    ],
+    "wof:id":823387889,
+    "wof:lastmodified":1463431960,
+    "wof:name":"CHI-Chis",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -81.569954,
+    38.314597,
+    -81.569954,
+    38.314597
+],
+  "geometry": {"coordinates":[-81.569954,38.314597],"type":"Point"}
+}

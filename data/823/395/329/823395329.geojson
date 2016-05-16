@@ -1,0 +1,73 @@
+{
+  "id": 823395329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.642871,38.363999,-81.642871,38.363999",
+    "geom:latitude":38.363999,
+    "geom:longitude":-81.642871,
+    "iso:country":"US",
+    "sg:address":"502 Washington St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 7034",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43SgO5ajxom2Ovdy9VRFhA_38.363999_-81.642871@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432341,
+    "wof:geomhash":"acafc0f9d3acfc58bd211dd2af5b745a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823395329
+        }
+    ],
+    "wof:id":823395329,
+    "wof:lastmodified":1463432341,
+    "wof:name":"West Side Video Mall",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -81.642871,
+    38.363999,
+    -81.642871,
+    38.363999
+],
+  "geometry": {"coordinates":[-81.642871,38.363999],"type":"Point"}
+}

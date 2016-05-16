@@ -1,0 +1,66 @@
+{
+  "id": 823365847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.08519,37.36401,-81.08519,37.36401",
+    "geom:latitude":37.36401,
+    "geom:longitude":-81.08519,
+    "iso:country":"US",
+    "sg:address":"199 Rogers St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 5059",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hKADyBDe2obvf6S1I5l82_37.364010_-81.085190@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431004,
+    "wof:geomhash":"7e1fd118728c2635a061e1fba9de1450",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823365847
+        }
+    ],
+    "wof:id":823365847,
+    "wof:lastmodified":1463431004,
+    "wof:name":"Princeton Mart",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.08519,
+    37.36401,
+    -81.08519,
+    37.36401
+],
+  "geometry": {"coordinates":[-81.08519,37.36401],"type":"Point"}
+}

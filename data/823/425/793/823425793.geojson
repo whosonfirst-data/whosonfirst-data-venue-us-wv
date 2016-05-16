@@ -1,0 +1,73 @@
+{
+  "id": 823425793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.52897,38.223873,-81.52897,38.223873",
+    "geom:latitude":38.223873,
+    "geom:longitude":-81.52897,
+    "iso:country":"US",
+    "sg:address":"1834 Park Ave",
+    "sg:city":"Belle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 4690",
+    "sg:postcode":"25015",
+    "sg:province":"WV",
+    "sg:tags":[
+        "therapy",
+        "provider"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MAb81FerDnHQzhqkKHmHo_38.223873_-81.528970@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433696,
+    "wof:geomhash":"9f5356a32f1c2495767953222c32f778",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823425793
+        }
+    ],
+    "wof:id":823425793,
+    "wof:lastmodified":1463433696,
+    "wof:name":"Rehab One Ltd",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapy",
+        "provider"
+    ]
+},
+  "bbox": [
+    -81.52897,
+    38.223873,
+    -81.52897,
+    38.223873
+],
+  "geometry": {"coordinates":[-81.52897,38.223873],"type":"Point"}
+}

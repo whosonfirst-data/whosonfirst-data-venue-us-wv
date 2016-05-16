@@ -1,0 +1,72 @@
+{
+  "id": 823383967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.565088,38.26714,-81.565088,38.26714",
+    "geom:latitude":38.26714,
+    "geom:longitude":-81.565088,
+    "iso:country":"US",
+    "sg:address":"1100 River East Dr",
+    "sg:city":"Belle",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 6685",
+    "sg:postcode":"25015",
+    "sg:province":"WV",
+    "sg:tags":[
+        "trucking"
+    ],
+    "sg:website":"www.con-way.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5s70KKV87hcvGQycAElilt_38.267140_-81.565088@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431809,
+    "wof:geomhash":"486bd0a96e22022a8ad6e11f91c52b3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823383967
+        }
+    ],
+    "wof:id":823383967,
+    "wof:lastmodified":1463431809,
+    "wof:name":"Con-Way Central Express",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -81.565088,
+    38.26714,
+    -81.565088,
+    38.26714
+],
+  "geometry": {"coordinates":[-81.565088,38.26714],"type":"Point"}
+}

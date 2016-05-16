@@ -1,0 +1,71 @@
+{
+  "id": 823381459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.119843,37.370979,-81.119843,37.370979",
+    "geom:latitude":37.370979,
+    "geom:longitude":-81.119843,
+    "iso:country":"US",
+    "sg:address":"344 Gott Rd",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 320 4019",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74bPifHrAwc9gY2AnjteBB_37.370979_-81.119843@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431712,
+    "wof:geomhash":"321f30fa5eba5ad4337438e3746c7839",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823381459
+        }
+    ],
+    "wof:id":823381459,
+    "wof:lastmodified":1463431712,
+    "wof:name":"Tri C Construction",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -81.119843,
+    37.370979,
+    -81.119843,
+    37.370979
+],
+  "geometry": {"coordinates":[-81.119843,37.370979],"type":"Point"}
+}

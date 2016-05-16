@@ -1,0 +1,74 @@
+{
+  "id": 823369683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.936497,39.652938,-79.936497,39.652938",
+    "geom:latitude":39.652938,
+    "geom:longitude":-79.936497,
+    "iso:country":"US",
+    "sg:address":"4000 Hampton Dr",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 598 2200",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.heiskellkingburnstallman.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731747,
+        102082587,
+        85819247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bH6ZPjmU56Tvcs43ok1Xu_39.652938_-79.936497@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431157,
+    "wof:geomhash":"645f9e3fa89e9ae8626e2dded2560def",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85819247,
+            "region_id":85688589,
+            "venue_id":823369683
+        }
+    ],
+    "wof:id":823369683,
+    "wof:lastmodified":1463431157,
+    "wof:name":"Heiskell King Burns Tallman",
+    "wof:parent_id":85819247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -79.936497,
+    39.652938,
+    -79.936497,
+    39.652938
+],
+  "geometry": {"coordinates":[-79.936497,39.652938],"type":"Point"}
+}

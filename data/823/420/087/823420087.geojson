@@ -1,0 +1,73 @@
+{
+  "id": 823420087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.085645,37.371681,-81.085645,37.371681",
+    "geom:latitude":37.371681,
+    "geom:longitude":-81.085645,
+    "iso:country":"US",
+    "sg:address":"208 N 1st St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 3914",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "county",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3okfxRP6K9yS32LFAu4j27_37.371681_-81.085645@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433469,
+    "wof:geomhash":"6a2f4c61b2b99aec5f6ed4f0371304f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823420087
+        }
+    ],
+    "wof:id":823420087,
+    "wof:lastmodified":1463433469,
+    "wof:name":"Mercer County Rescue Squad",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "protection"
+    ]
+},
+  "bbox": [
+    -81.085645,
+    37.371681,
+    -81.085645,
+    37.371681
+],
+  "geometry": {"coordinates":[-81.085645,37.371681],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 823448311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.092341,37.364582,-81.092341,37.364582",
+    "geom:latitude":37.364582,
+    "geom:longitude":-81.092341,
+    "iso:country":"US",
+    "sg:address":"1033 Stafford Dr",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 5990",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "control",
+        "weight"
+    ],
+    "sg:website":"www.weightwatchers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2v48HgolMqVR4Qd9rXvrWE_37.364582_-81.092341@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434753,
+    "wof:geomhash":"de711be418317dd50a61b2fd175f9b53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823448311
+        }
+    ],
+    "wof:id":823448311,
+    "wof:lastmodified":1463434753,
+    "wof:name":"Weight Watchers",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "weight"
+    ]
+},
+  "bbox": [
+    -81.092341,
+    37.364582,
+    -81.092341,
+    37.364582
+],
+  "geometry": {"coordinates":[-81.092341,37.364582],"type":"Point"}
+}

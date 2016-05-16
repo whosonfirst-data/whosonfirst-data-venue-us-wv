@@ -1,0 +1,71 @@
+{
+  "id": 823441935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.865546,39.641653,-80.865546,39.641653",
+    "geom:latitude":39.641653,
+    "geom:longitude":-80.865546,
+    "iso:country":"US",
+    "sg:address":"200 Main St",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 8224",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QFvgcj92Xqz1pMmQT7zIK_39.641653_-80.865546@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434444,
+    "wof:geomhash":"8dd9bf1654b1e71bd1226346d927f23d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823441935
+        }
+    ],
+    "wof:id":823441935,
+    "wof:lastmodified":1463434444,
+    "wof:name":"Wetzel County Clerk",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -80.865546,
+    39.641653,
+    -80.865546,
+    39.641653
+],
+  "geometry": {"coordinates":[-80.86554599999999,39.641653],"type":"Point"}
+}

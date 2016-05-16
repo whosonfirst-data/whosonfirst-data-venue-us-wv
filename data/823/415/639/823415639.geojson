@@ -1,0 +1,71 @@
+{
+  "id": 823415639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.863517,39.635486,-80.863517,39.635486",
+    "geom:latitude":39.635486,
+    "geom:longitude":-80.863517,
+    "iso:country":"US",
+    "sg:address":"225 Railroad St",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 845 5251",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "rail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BIs9Ftc5mKCQtZIcWet1E_39.635486_-80.863517@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433264,
+    "wof:geomhash":"d9cf46fc70abf3487cc46d3ea73f7ed8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823415639
+        }
+    ],
+    "wof:id":823415639,
+    "wof:lastmodified":1463433264,
+    "wof:name":"CSX",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rail"
+    ]
+},
+  "bbox": [
+    -80.863517,
+    39.635486,
+    -80.863517,
+    39.635486
+],
+  "geometry": {"coordinates":[-80.863517,39.635486],"type":"Point"}
+}

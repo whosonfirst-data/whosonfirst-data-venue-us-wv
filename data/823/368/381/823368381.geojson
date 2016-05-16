@@ -1,0 +1,71 @@
+{
+  "id": 823368381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.563108,39.262946,-81.563108,39.262946",
+    "geom:latitude":39.262946,
+    "geom:longitude":-81.563108,
+    "iso:country":"US",
+    "sg:address":"302 2nd St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 000 1111",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85829881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1S5BaAgsamsQcvznTxd5cp_39.262946_-81.563108@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431112,
+    "wof:geomhash":"c0be3aa420e089aa6f1af7495bb3d2bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85829881,
+            "region_id":85688589,
+            "venue_id":823368381
+        }
+    ],
+    "wof:id":823368381,
+    "wof:lastmodified":1463431112,
+    "wof:name":"Pond Creek Volunteer Fire Dept",
+    "wof:parent_id":85829881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -81.563108,
+    39.262946,
+    -81.563108,
+    39.262946
+],
+  "geometry": {"coordinates":[-81.563108,39.262946],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823410475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.611017,40.274204,-80.611017,40.274204",
+    "geom:latitude":40.274204,
+    "geom:longitude":-80.611017,
+    "iso:country":"US",
+    "sg:address":"1121 Charles St",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 1569",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vz9G7Ul7fxD48Pu0wtJ3V_40.274204_-80.611017@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433046,
+    "wof:geomhash":"e3d59eef041e0271f649108fd2f07ee6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823410475
+        }
+    ],
+    "wof:id":823410475,
+    "wof:lastmodified":1463433046,
+    "wof:name":"Central Market",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry"
+    ]
+},
+  "bbox": [
+    -80.611017,
+    40.274204,
+    -80.611017,
+    40.274204
+],
+  "geometry": {"coordinates":[-80.611017,40.274204],"type":"Point"}
+}

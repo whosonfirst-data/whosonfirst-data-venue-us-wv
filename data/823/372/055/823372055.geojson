@@ -1,0 +1,73 @@
+{
+  "id": 823372055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.988441,39.632794,-79.988441,39.632794",
+    "geom:latitude":39.632794,
+    "geom:longitude":-79.988441,
+    "iso:country":"US",
+    "sg:address":"138 W 4th St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 291 1781",
+    "sg:postcode":"26534",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818601,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uFvP4PMEeZuGpw92Vno9g_39.632794_-79.988441@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431286,
+    "wof:geomhash":"41a47edc33a88740faa5c1089b7d56be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85818601,
+            "region_id":85688589,
+            "venue_id":823372055
+        }
+    ],
+    "wof:id":823372055,
+    "wof:lastmodified":1463431286,
+    "wof:name":"Scott Robert & Son Truck LLC",
+    "wof:parent_id":85818601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -79.988441,
+    39.632794,
+    -79.988441,
+    39.632794
+],
+  "geometry": {"coordinates":[-79.98844099999999,39.632794],"type":"Point"}
+}

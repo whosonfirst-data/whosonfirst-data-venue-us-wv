@@ -1,0 +1,71 @@
+{
+  "id": 823391223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.600329,38.328448,-81.600329,38.328448",
+    "geom:latitude":38.328448,
+    "geom:longitude":-81.600329,
+    "iso:country":"US",
+    "sg:address":"3330 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 1990",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "communication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CZPQG9gXxG5ErhDkMvpCL_38.328448_-81.600329@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432127,
+    "wof:geomhash":"6949d4d1aa44b3df58e0cb20616b08a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823391223
+        }
+    ],
+    "wof:id":823391223,
+    "wof:lastmodified":1463432127,
+    "wof:name":"Kanawha City Communications",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication"
+    ]
+},
+  "bbox": [
+    -81.600329,
+    38.328448,
+    -81.600329,
+    38.328448
+],
+  "geometry": {"coordinates":[-81.600329,38.328448],"type":"Point"}
+}

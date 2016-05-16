@@ -1,0 +1,71 @@
+{
+  "id": 823439023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.457776,37.778545,-80.457776,37.778545",
+    "geom:latitude":37.778545,
+    "geom:longitude":-80.457776,
+    "iso:country":"US",
+    "sg:address":"219 Seneca Trl",
+    "sg:city":"Ronceverte",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 645 3331",
+    "sg:postcode":"24970",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28CxvVjwCFRW96HT5FfVBG_37.778545_-80.457776@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434326,
+    "wof:geomhash":"b3fee0dd313ff19dca4b17e152537117",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823439023
+        }
+    ],
+    "wof:id":823439023,
+    "wof:lastmodified":1463434326,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -80.457776,
+    37.778545,
+    -80.457776,
+    37.778545
+],
+  "geometry": {"coordinates":[-80.457776,37.778545],"type":"Point"}
+}

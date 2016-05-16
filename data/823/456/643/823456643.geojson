@@ -1,0 +1,83 @@
+{
+  "id": 823456643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.59777,40.619246,-80.59777,40.619246",
+    "geom:latitude":40.619246,
+    "geom:longitude":-80.59777,
+    "iso:country":"US",
+    "sg:address":"217 Washington St",
+    "sg:city":"Newell",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 2595",
+    "sg:postcode":"26050",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hYATBVCie6gBfOTPX1KgF_40.619246_-80.597770@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435120,
+    "wof:geomhash":"88c6f8cd96c9ea33043de4a9fbdd2f0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823456643
+        }
+    ],
+    "wof:id":823456643,
+    "wof:lastmodified":1463435120,
+    "wof:name":"Sal Maris Subs & Sandwiches",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -80.59777,
+    40.619246,
+    -80.59777,
+    40.619246
+],
+  "geometry": {"coordinates":[-80.59777,40.619246],"type":"Point"}
+}

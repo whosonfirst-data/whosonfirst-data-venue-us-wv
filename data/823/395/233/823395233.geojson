@@ -1,0 +1,73 @@
+{
+  "id": 823395233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.549313,38.233367,-81.549313,38.233367",
+    "geom:latitude":38.233367,
+    "geom:longitude":-81.549313,
+    "iso:country":"US",
+    "sg:address":"11428 Maccorkle Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 2180",
+    "sg:postcode":"25315",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wrwMu4QZKnaBzI4bC1PBL_38.233367_-81.549313@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432338,
+    "wof:geomhash":"21c45400fd59c0849c54e0ca4918b877",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823395233
+        }
+    ],
+    "wof:id":823395233,
+    "wof:lastmodified":1463432338,
+    "wof:name":"K & C Auto Repair",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -81.549313,
+    38.233367,
+    -81.549313,
+    38.233367
+],
+  "geometry": {"coordinates":[-81.549313,38.233367],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823407301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.136932,38.845692,-82.136932,38.845692",
+    "geom:latitude":38.845692,
+    "geom:longitude":-82.136932,
+    "iso:country":"US",
+    "sg:address":"703 Viand St",
+    "sg:city":"Point Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 675 2910",
+    "sg:postcode":"25550",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85983229,
+        102083675,
+        85824533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QMadfgwaFz88HA3HNNq50_38.845692_-82.136932@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432913,
+    "wof:geomhash":"c880e0cd056e2fd4acf3eb040e3000e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "neighbourhood_id":85824533,
+            "region_id":85688485,
+            "venue_id":823407301
+        }
+    ],
+    "wof:id":823407301,
+    "wof:lastmodified":1463432913,
+    "wof:name":"Magic Mirror Beauty Salon",
+    "wof:parent_id":85824533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -82.136932,
+    38.845692,
+    -82.136932,
+    38.845692
+],
+  "geometry": {"coordinates":[-82.136932,38.845692],"type":"Point"}
+}

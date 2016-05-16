@@ -1,0 +1,83 @@
+{
+  "id": 823443895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.592114,40.394132,-80.592114,40.394132",
+    "geom:latitude":40.394132,
+    "geom:longitude":-80.592114,
+    "iso:country":"US",
+    "sg:address":"3972 Main St",
+    "sg:city":"Weirton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 748 2870",
+    "sg:postcode":"26062",
+    "sg:province":"WV",
+    "sg:tags":[
+        "pr",
+        "cookie",
+        "cracker",
+        "mfg"
+    ],
+    "sg:website":"www.gussgoodies.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731371,
+        102082633,
+        85832497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ah8VF8z2p6idSInRE0Z8y_40.394132_-80.592114@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434537,
+    "wof:geomhash":"0327c61899b4329461637104da0cabc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731371,
+            "neighbourhood_id":85832497,
+            "region_id":85688589,
+            "venue_id":823443895
+        }
+    ],
+    "wof:id":823443895,
+    "wof:lastmodified":1463434537,
+    "wof:name":"Gus's Goodies",
+    "wof:parent_id":85832497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pr",
+        "cookie",
+        "cracker",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -80.592114,
+    40.394132,
+    -80.592114,
+    40.394132
+],
+  "geometry": {"coordinates":[-80.592114,40.394132],"type":"Point"}
+}

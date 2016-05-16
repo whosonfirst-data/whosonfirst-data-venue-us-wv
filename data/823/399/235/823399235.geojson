@@ -1,0 +1,73 @@
+{
+  "id": 823399235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.234001,37.256211,-81.234001,37.256211",
+    "geom:latitude":37.256211,
+    "geom:longitude":-81.234001,
+    "iso:country":"US",
+    "sg:address":"490 Cherry St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 324 0214",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4X0yuCLuzXMtbziqFlC5eu_37.256211_-81.234001@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432542,
+    "wof:geomhash":"328d84fc09a5847d58b8022b8d048d27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823399235
+        }
+    ],
+    "wof:id":823399235,
+    "wof:lastmodified":1463432542,
+    "wof:name":"Bluefield Orthopaedic Ctr",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.234001,
+    37.256211,
+    -81.234001,
+    37.256211
+],
+  "geometry": {"coordinates":[-81.23400100000001,37.256211],"type":"Point"}
+}

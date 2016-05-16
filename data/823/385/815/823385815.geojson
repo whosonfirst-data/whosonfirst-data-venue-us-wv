@@ -1,0 +1,71 @@
+{
+  "id": 823385815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.026565,39.450645,-78.026565,39.450645",
+    "geom:latitude":39.450645,
+    "geom:longitude":-78.026565,
+    "iso:country":"US",
+    "sg:address":"2292 Nollville Rd",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 267 4306",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Hx2dClZFALWEFr8yOBGu6_39.450645_-78.026565@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431879,
+    "wof:geomhash":"35ad4fa187328c805918a8c173621293",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823385815
+        }
+    ],
+    "wof:id":823385815,
+    "wof:lastmodified":1463431879,
+    "wof:name":"General Hauling",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -78.026565,
+    39.450645,
+    -78.026565,
+    39.450645
+],
+  "geometry": {"coordinates":[-78.02656500000001,39.450645],"type":"Point"}
+}

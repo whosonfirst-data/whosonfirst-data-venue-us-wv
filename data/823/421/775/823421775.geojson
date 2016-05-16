@@ -1,0 +1,71 @@
+{
+  "id": 823421775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.441285,37.801589,-80.441285,37.801589",
+    "geom:latitude":37.801589,
+    "geom:longitude":-80.441285,
+    "iso:country":"US",
+    "sg:address":"204 N Lee St",
+    "sg:city":"Lewisburg",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 647 5800",
+    "sg:postcode":"24901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "pottery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23c6vjB99YmMrkY06xablC_37.801589_-80.441285@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433534,
+    "wof:geomhash":"168920c268f13757c971b05855be07b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823421775
+        }
+    ],
+    "wof:id":823421775,
+    "wof:lastmodified":1463433534,
+    "wof:name":"Clayworks",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pottery"
+    ]
+},
+  "bbox": [
+    -80.441285,
+    37.801589,
+    -80.441285,
+    37.801589
+],
+  "geometry": {"coordinates":[-80.44128499999999,37.801589],"type":"Point"}
+}

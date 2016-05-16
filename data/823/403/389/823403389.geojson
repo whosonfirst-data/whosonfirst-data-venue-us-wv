@@ -1,0 +1,66 @@
+{
+  "id": 823403389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.137604,39.500555,-80.137604,39.500555",
+    "geom:latitude":39.500555,
+    "geom:longitude":-80.137604,
+    "iso:country":"US",
+    "sg:address":"100 Naomi St",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 367 2127",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731513,
+        102082601,
+        85825445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pnOCwzxADBciCRR48jjbV_39.500555_-80.137604@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432727,
+    "wof:geomhash":"f15be1ee8859121b19f71c21cd4b7b71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731513,
+            "neighbourhood_id":85825445,
+            "region_id":85688589,
+            "venue_id":823403389
+        }
+    ],
+    "wof:id":823403389,
+    "wof:lastmodified":1463432727,
+    "wof:name":"Barnes School",
+    "wof:parent_id":85825445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.137604,
+    39.500555,
+    -80.137604,
+    39.500555
+],
+  "geometry": {"coordinates":[-80.137604,39.500555],"type":"Point"}
+}

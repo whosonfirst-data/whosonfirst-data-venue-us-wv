@@ -1,0 +1,72 @@
+{
+  "id": 823453633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.991754,39.618508,-79.991754,39.618508",
+    "geom:latitude":39.618508,
+    "geom:longitude":-79.991754,
+    "iso:country":"US",
+    "sg:address":"9709 Mall Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/western/230644-great-american-cookies/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 983 4663",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818601,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58wKwbVDrPrkLQCaV7pYeP_39.618508_-79.991754@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434954,
+    "wof:geomhash":"0674eed109506f6db57dec081027a080",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85818601,
+            "region_id":85688589,
+            "venue_id":823453633
+        }
+    ],
+    "wof:id":823453633,
+    "wof:lastmodified":1463434954,
+    "wof:name":"Great American Cookies",
+    "wof:parent_id":85818601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -79.991754,
+    39.618508,
+    -79.991754,
+    39.618508
+],
+  "geometry": {"coordinates":[-79.991754,39.618508],"type":"Point"}
+}

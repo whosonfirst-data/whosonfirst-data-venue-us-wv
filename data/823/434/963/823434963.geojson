@@ -1,0 +1,73 @@
+{
+  "id": 823434963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.274587,39.315375,-80.274587,39.315375",
+    "geom:latitude":39.315375,
+    "geom:longitude":-80.274587,
+    "iso:country":"US",
+    "sg:address":"18 Clubview Dr",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 9265",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cosmetic",
+        "perfume"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85831189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ks6WmjbBVTuKK6AIvemyr_39.315375_-80.274587@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434123,
+    "wof:geomhash":"d0fb530be722912be9627311334b39c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85831189,
+            "region_id":85688589,
+            "venue_id":823434963
+        }
+    ],
+    "wof:id":823434963,
+    "wof:lastmodified":1463434123,
+    "wof:name":"Mary Kay Cosmetics",
+    "wof:parent_id":85831189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetic",
+        "perfume"
+    ]
+},
+  "bbox": [
+    -80.274587,
+    39.315375,
+    -80.274587,
+    39.315375
+],
+  "geometry": {"coordinates":[-80.274587,39.315375],"type":"Point"}
+}

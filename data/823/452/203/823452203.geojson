@@ -1,0 +1,73 @@
+{
+  "id": 823452203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.950719,39.624502,-79.950719,39.624502",
+    "geom:latitude":39.624502,
+    "geom:longitude":-79.950719,
+    "iso:country":"US",
+    "sg:address":"333 Green St",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 291 5139",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "place",
+        "worship",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cX3QrkCwIKOW69ORlVn53_39.624504_-79.950638@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463434898,
+    "wof:geomhash":"822141c838145cbd0accfd918b101935",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823452203
+        }
+    ],
+    "wof:id":823452203,
+    "wof:lastmodified":1463434898,
+    "wof:name":"Jones United Methodist Church",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "place",
+        "worship",
+        "church"
+    ]
+},
+  "bbox": [
+    -79.950719,
+    39.624502,
+    -79.950719,
+    39.624502
+],
+  "geometry": {"coordinates":[-79.95071900000001,39.624502],"type":"Point"}
+}

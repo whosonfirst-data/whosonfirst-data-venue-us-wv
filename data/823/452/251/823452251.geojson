@@ -1,0 +1,74 @@
+{
+  "id": 823452251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.197032,37.257645,-81.197032,37.257645",
+    "geom:latitude":37.257645,
+    "geom:longitude":-81.197032,
+    "iso:country":"US",
+    "sg:address":"3300 E Cumberland Rd",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/bramwell/181535-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 325 7858",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dNTIjKo0fG0SDdbasDwBG_37.257645_-81.197032@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434900,
+    "wof:geomhash":"29521f20a6aa68319fc2fdea68e737e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823452251
+        }
+    ],
+    "wof:id":823452251,
+    "wof:lastmodified":1463434900,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -81.197032,
+    37.257645,
+    -81.197032,
+    37.257645
+],
+  "geometry": {"coordinates":[-81.19703199999999,37.257645],"type":"Point"}
+}

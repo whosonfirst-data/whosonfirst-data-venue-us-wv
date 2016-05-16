@@ -1,0 +1,76 @@
+{
+  "id": 823452699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.313897,38.41245,-82.313897,38.41245",
+    "geom:latitude":38.41245,
+    "geom:longitude":-82.313897,
+    "iso:country":"US",
+    "sg:address":"6007 Us Route 60 E",
+    "sg:city":"Barboursville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/barboursville/139308-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 302 7500",
+    "sg:postcode":"25504",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85865435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zn1X1inava90Oq6aaiMCu_38.412450_-82.313897@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434917,
+    "wof:geomhash":"72c20d64751c2835a00ebb6fee948748",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85865435,
+            "region_id":85688589,
+            "venue_id":823452699
+        }
+    ],
+    "wof:id":823452699,
+    "wof:lastmodified":1463434917,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85865435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -82.313897,
+    38.41245,
+    -82.313897,
+    38.41245
+],
+  "geometry": {"coordinates":[-82.313897,38.41245],"type":"Point"}
+}

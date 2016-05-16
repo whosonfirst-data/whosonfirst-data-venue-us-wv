@@ -1,0 +1,71 @@
+{
+  "id": 823385265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.531613,38.220242,-81.531613,38.220242",
+    "geom:latitude":38.220242,
+    "geom:longitude":-81.531613,
+    "iso:country":"US",
+    "sg:address":"17 131st St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 6247",
+    "sg:postcode":"25315",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49WfMNM1jmCo3lwFSheKVZ_38.220242_-81.531613@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431859,
+    "wof:geomhash":"f22a1d1dd22a1ad2c99b5473c1ebdb2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823385265
+        }
+    ],
+    "wof:id":823385265,
+    "wof:lastmodified":1463431859,
+    "wof:name":"Chesapeake United Methodist",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.531613,
+    38.220242,
+    -81.531613,
+    38.220242
+],
+  "geometry": {"coordinates":[-81.53161299999999,38.220242],"type":"Point"}
+}

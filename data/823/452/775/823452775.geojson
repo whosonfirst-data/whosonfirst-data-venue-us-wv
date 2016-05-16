@@ -1,0 +1,74 @@
+{
+  "id": 823452775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.93788,38.45261,-81.93788,38.45261",
+    "geom:latitude":38.45261,
+    "geom:longitude":-81.93788,
+    "iso:country":"US",
+    "sg:address":"4150 State Route 34",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/teays/101057-captain-ds-seafood/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 757 8144",
+    "sg:postcode":"25526",
+    "sg:province":"WV",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731829,
+        102083381,
+        85868321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07io297nxXMjjLRWePdtna_38.452610_-81.937880@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434920,
+    "wof:geomhash":"82ee965c0fd27879aa08ecde655a4393",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731829,
+            "neighbourhood_id":85868321,
+            "region_id":85688589,
+            "venue_id":823452775
+        }
+    ],
+    "wof:id":823452775,
+    "wof:lastmodified":1463434920,
+    "wof:name":"Captain D's Seafood",
+    "wof:parent_id":85868321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -81.93788,
+    38.45261,
+    -81.93788,
+    38.45261
+],
+  "geometry": {"coordinates":[-81.93788000000001,38.45261],"type":"Point"}
+}

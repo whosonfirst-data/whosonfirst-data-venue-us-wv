@@ -1,0 +1,71 @@
+{
+  "id": 823406161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.793437,38.380673,-81.793437,38.380673",
+    "geom:latitude":38.380673,
+    "geom:longitude":-81.793437,
+    "iso:country":"US",
+    "sg:address":"2843 Maccorkle Ave",
+    "sg:city":"Saint Albans",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 727 2201",
+    "sg:postcode":"25177",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731773,
+        102083335,
+        85840775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZVEde9yuRIBgrJDvWTBK0_38.380673_-81.793437@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432863,
+    "wof:geomhash":"0410bd40ee038c5d81c5446047b43d9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731773,
+            "neighbourhood_id":85840775,
+            "region_id":85688589,
+            "venue_id":823406161
+        }
+    ],
+    "wof:id":823406161,
+    "wof:lastmodified":1463432863,
+    "wof:name":"El Rancho Motel",
+    "wof:parent_id":85840775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -81.793437,
+    38.380673,
+    -81.793437,
+    38.380673
+],
+  "geometry": {"coordinates":[-81.793437,38.380673],"type":"Point"}
+}

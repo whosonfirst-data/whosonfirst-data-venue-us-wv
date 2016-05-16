@@ -1,0 +1,77 @@
+{
+  "id": 823445105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.601105,38.339692,-81.601105,38.339692",
+    "geom:latitude":38.339692,
+    "geom:longitude":-81.601105,
+    "iso:country":"US",
+    "sg:address":"106 Dee Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 3273",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "operation",
+        "commercial",
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03MeEwskT6n1imDkjBDEEu_38.339692_-81.601105@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434599,
+    "wof:geomhash":"a801043b6bee83882ef1fe663132a2c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823445105
+        }
+    ],
+    "wof:id":823445105,
+    "wof:lastmodified":1463434599,
+    "wof:name":"Hillcrest Office Park Inc",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "operation",
+        "commercial",
+        "parks"
+    ]
+},
+  "bbox": [
+    -81.601105,
+    38.339692,
+    -81.601105,
+    38.339692
+],
+  "geometry": {"coordinates":[-81.601105,38.339692],"type":"Point"}
+}

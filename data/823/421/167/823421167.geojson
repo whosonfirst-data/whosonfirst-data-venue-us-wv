@@ -1,0 +1,76 @@
+{
+  "id": 823421167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.424307,38.400629,-82.424307,38.400629",
+    "geom:latitude":38.400629,
+    "geom:longitude":-82.424307,
+    "iso:country":"US",
+    "sg:address":"1822 16th St",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 523 1021",
+    "sg:postcode":"25701",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868303,
+        102083329,
+        102191575,
+        101731553,
+        85868305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49TNIHpR5Pm2GCKpDMoEpc_38.400629_-82.424307@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433512,
+    "wof:geomhash":"a2621fe459c167840662b5b11f129ed1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "neighbourhood_id":85868303,
+            "region_id":85688589,
+            "venue_id":823421167
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731553,
+            "neighbourhood_id":85868305,
+            "region_id":85688589,
+            "venue_id":823421167
+        }
+    ],
+    "wof:id":823421167,
+    "wof:lastmodified":1463433512,
+    "wof:name":"Rays Gun Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.424307,
+    38.400629,
+    -82.424307,
+    38.400629
+],
+  "geometry": {"coordinates":[-82.424307,38.400629],"type":"Point"}
+}

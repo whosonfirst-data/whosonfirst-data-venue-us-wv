@@ -1,0 +1,71 @@
+{
+  "id": 823433801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.221956,37.268282,-81.221956,37.268282",
+    "geom:latitude":37.268282,
+    "geom:longitude":-81.221956,
+    "iso:country":"US",
+    "sg:address":"600 Scott St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 327 8441",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tn3XcXVd7HgWnfDnOTjRJ_37.268282_-81.221956@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434053,
+    "wof:geomhash":"ff0d784fb269374945b0ed8b46aee1b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823433801
+        }
+    ],
+    "wof:id":823433801,
+    "wof:lastmodified":1463434053,
+    "wof:name":"Scott Street Baptist Church",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.221956,
+    37.268282,
+    -81.221956,
+    37.268282
+],
+  "geometry": {"coordinates":[-81.22195600000001,37.268282],"type":"Point"}
+}

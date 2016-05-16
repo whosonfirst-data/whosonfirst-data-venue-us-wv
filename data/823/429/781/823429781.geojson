@@ -1,0 +1,73 @@
+{
+  "id": 823429781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.608212,40.289663,-80.608212,40.289663",
+    "geom:latitude":40.289663,
+    "geom:longitude":-80.608212,
+    "iso:country":"US",
+    "sg:address":"2702 Commerce St",
+    "sg:city":"Wellsburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 737 3707",
+    "sg:postcode":"26070",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        101713143,
+        102084713,
+        85813807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Zky5bc5kMHvX8iixJ8AwD_40.289663_-80.608212@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433876,
+    "wof:geomhash":"0a7f9875ff35fa236baa2ff58728458b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084713,
+            "locality_id":101713143,
+            "neighbourhood_id":85813807,
+            "region_id":85688485,
+            "venue_id":823429781
+        }
+    ],
+    "wof:id":823429781,
+    "wof:lastmodified":1463433876,
+    "wof:name":"Wellsburg Unity Apartments",
+    "wof:parent_id":85813807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -80.608212,
+    40.289663,
+    -80.608212,
+    40.289663
+],
+  "geometry": {"coordinates":[-80.60821199999999,40.289663],"type":"Point"}
+}

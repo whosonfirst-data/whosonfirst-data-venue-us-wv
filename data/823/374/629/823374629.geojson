@@ -1,0 +1,75 @@
+{
+  "id": 823374629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.488753,38.408421,-81.488753,38.408421",
+    "geom:latitude":38.408421,
+    "geom:longitude":-81.488753,
+    "iso:country":"US",
+    "sg:address":"44 Morningside Dr",
+    "sg:city":"Elkview",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 965 1598",
+    "sg:postcode":"25071",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Df5sf9JIcMVNeNwQZ2GMA_38.408421_-81.488753@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431384,
+    "wof:geomhash":"d42930b3cb238e2c44725a81c1729390",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823374629
+        }
+    ],
+    "wof:id":823374629,
+    "wof:lastmodified":1463431384,
+    "wof:name":"Harper Electric Co",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.488753,
+    38.408421,
+    -81.488753,
+    38.408421
+],
+  "geometry": {"coordinates":[-81.488753,38.408421],"type":"Point"}
+}

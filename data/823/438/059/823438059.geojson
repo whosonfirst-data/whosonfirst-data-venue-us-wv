@@ -1,0 +1,73 @@
+{
+  "id": 823438059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.860641,39.653669,-80.860641,39.653669",
+    "geom:latitude":39.653669,
+    "geom:longitude":-80.860641,
+    "iso:country":"US",
+    "sg:address":"199 Wetzel St",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 447 2020",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "mixed",
+        "concrete"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tpNtAQ9QP5magXo6Mzly9_39.653669_-80.860641@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434281,
+    "wof:geomhash":"2cf036b9bd08884051132a67e6e493f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823438059
+        }
+    ],
+    "wof:id":823438059,
+    "wof:lastmodified":1463434281,
+    "wof:name":"Cardinal Concrete Co",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mixed",
+        "concrete"
+    ]
+},
+  "bbox": [
+    -80.860641,
+    39.653669,
+    -80.860641,
+    39.653669
+],
+  "geometry": {"coordinates":[-80.860641,39.653669],"type":"Point"}
+}

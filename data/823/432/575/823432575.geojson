@@ -1,0 +1,71 @@
+{
+  "id": 823432575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.097141,38.060293,-81.097141,38.060293",
+    "geom:latitude":38.060293,
+    "geom:longitude":-81.097141,
+    "iso:country":"US",
+    "sg:address":"100 Hresan Blvd",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 574 0770",
+    "sg:postcode":"25840",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10jqMTkD30iysUsVlaMRvL_38.060293_-81.097141@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434001,
+    "wof:geomhash":"f2cd2f6838e0fc0d1f04ea139ce79b41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823432575
+        }
+    ],
+    "wof:id":823432575,
+    "wof:lastmodified":1463434001,
+    "wof:name":"Fayette Continuous Care Ctr",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -81.097141,
+    38.060293,
+    -81.097141,
+    38.060293
+],
+  "geometry": {"coordinates":[-81.09714099999999,38.060293],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823445995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.723086,38.415019,-81.723086,38.415019",
+    "geom:latitude":38.415019,
+    "geom:longitude":-81.723086,
+    "iso:country":"US",
+    "sg:address":"4854 Klondike Rd",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 776 7132",
+    "sg:postcode":"25313",
+    "sg:province":"WV",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yhct5qYQpUwGSmi34Mwnz_38.415019_-81.723086@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434641,
+    "wof:geomhash":"29012523a875e1cdbb2734cdb8f82bcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823445995
+        }
+    ],
+    "wof:id":823445995,
+    "wof:lastmodified":1463434641,
+    "wof:name":"Allied American Excavatin",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.723086,
+    38.415019,
+    -81.723086,
+    38.415019
+],
+  "geometry": {"coordinates":[-81.723086,38.415019],"type":"Point"}
+}

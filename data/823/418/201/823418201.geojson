@@ -1,0 +1,75 @@
+{
+  "id": 823418201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.624073,38.348768,-81.624073,38.348768",
+    "geom:latitude":38.348768,
+    "geom:longitude":-81.624073,
+    "iso:country":"US",
+    "sg:address":"600 Morris St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 388 7130",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0u0MGpTbO2b2uoS7ZbOrUI_38.348768_-81.624073@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433389,
+    "wof:geomhash":"756a0b461fa2c19c0c5c6794c43eca17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823418201
+        }
+    ],
+    "wof:id":823418201,
+    "wof:lastmodified":1463433389,
+    "wof:name":"Henry Kinder & Assoc",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.624073,
+    38.348768,
+    -81.624073,
+    38.348768
+],
+  "geometry": {"coordinates":[-81.624073,38.348768],"type":"Point"}
+}

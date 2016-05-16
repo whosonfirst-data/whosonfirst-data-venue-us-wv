@@ -1,0 +1,73 @@
+{
+  "id": 823431295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.402847,38.46759,-81.402847,38.46759",
+    "geom:latitude":38.46759,
+    "geom:longitude":-81.402847,
+    "iso:country":"US",
+    "sg:address":"5479 Elk River Rd",
+    "sg:city":"Elkview",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 548 7887",
+    "sg:postcode":"25071",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "saw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3f2fikEB1aEAkydtImLwa6_38.467590_-81.402847@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433932,
+    "wof:geomhash":"d6c4637cb776620a0ecc04918f33d17d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823431295
+        }
+    ],
+    "wof:id":823431295,
+    "wof:lastmodified":1463433932,
+    "wof:name":"Harper's Sharpening Shop",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "saw"
+    ]
+},
+  "bbox": [
+    -81.402847,
+    38.46759,
+    -81.402847,
+    38.46759
+],
+  "geometry": {"coordinates":[-81.40284699999999,38.46759],"type":"Point"}
+}

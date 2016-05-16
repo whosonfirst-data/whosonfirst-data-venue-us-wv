@@ -1,0 +1,71 @@
+{
+  "id": 823372613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.21509,37.259987,-81.21509,37.259987",
+    "geom:latitude":37.259987,
+    "geom:longitude":-81.21509,
+    "iso:country":"US",
+    "sg:address":"511 Mountain View Ave",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 327 0021",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4u0sD4sq9COl5TaNvVXojm_37.259987_-81.215090@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431307,
+    "wof:geomhash":"8d403a24662a312d0de83df926746627",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823372613
+        }
+    ],
+    "wof:id":823372613,
+    "wof:lastmodified":1463431307,
+    "wof:name":"M Y Kanawati MD",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -81.21509,
+    37.259987,
+    -81.21509,
+    37.259987
+],
+  "geometry": {"coordinates":[-81.21509,37.259987],"type":"Point"}
+}

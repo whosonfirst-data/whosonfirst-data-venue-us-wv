@@ -1,0 +1,73 @@
+{
+  "id": 823374805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.569244,38.400677,-82.569244,38.400677",
+    "geom:latitude":38.400677,
+    "geom:longitude":-82.569244,
+    "iso:country":"US",
+    "sg:address":"800 Beech St",
+    "sg:city":"Kenova",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 6360",
+    "sg:postcode":"25530",
+    "sg:province":"WV",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731517,
+        102083365,
+        85806071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7N5VSUl4hI1xq3wSqX75bY_38.400677_-82.569244@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431395,
+    "wof:geomhash":"4da1cda1b5265c5ae9d62d0d22dfb242",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731517,
+            "neighbourhood_id":85806071,
+            "region_id":85688589,
+            "venue_id":823374805
+        }
+    ],
+    "wof:id":823374805,
+    "wof:lastmodified":1463431395,
+    "wof:name":"Dance Connection",
+    "wof:parent_id":85806071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -82.569244,
+    38.400677,
+    -82.569244,
+    38.400677
+],
+  "geometry": {"coordinates":[-82.569244,38.400677],"type":"Point"}
+}

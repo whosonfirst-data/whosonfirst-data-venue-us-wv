@@ -1,0 +1,72 @@
+{
+  "id": 823432299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.533585,38.405052,-81.533585,38.405052",
+    "geom:latitude":38.405052,
+    "geom:longitude":-81.533585,
+    "iso:country":"US",
+    "sg:address":"4768 Chimney Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 965 2780",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "elevator"
+    ],
+    "sg:website":"www.otis.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3c39oKdhvsdR7o60rd18xc_38.405052_-81.533585@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433979,
+    "wof:geomhash":"5808c096b92f294be989475dc7ae462d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823432299
+        }
+    ],
+    "wof:id":823432299,
+    "wof:lastmodified":1463433979,
+    "wof:name":"Otis Elevator Co",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elevator"
+    ]
+},
+  "bbox": [
+    -81.533585,
+    38.405052,
+    -81.533585,
+    38.405052
+],
+  "geometry": {"coordinates":[-81.533585,38.405052],"type":"Point"}
+}

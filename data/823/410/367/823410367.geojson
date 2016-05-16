@@ -1,0 +1,68 @@
+{
+  "id": 823410367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.932243,39.632772,-79.932243,39.632772",
+    "geom:latitude":39.632772,
+    "geom:longitude":-79.932243,
+    "iso:country":"US",
+    "sg:address":"1287 Richwood Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 6456",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85858573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AQNrMqQn7bLBIZEzC1b9V_39.632772_-79.932243@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433042,
+    "wof:geomhash":"669f994e89858a5f894dccf92770d582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85858573,
+            "region_id":85688589,
+            "venue_id":823410367
+        }
+    ],
+    "wof:id":823410367,
+    "wof:lastmodified":1463433042,
+    "wof:name":"Dairy Mart",
+    "wof:parent_id":85858573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.932243,
+    39.632772,
+    -79.932243,
+    39.632772
+],
+  "geometry": {"coordinates":[-79.932243,39.632772],"type":"Point"}
+}

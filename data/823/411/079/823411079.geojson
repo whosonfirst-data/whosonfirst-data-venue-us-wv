@@ -1,0 +1,73 @@
+{
+  "id": 823411079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.123816,39.482288,-80.123816,39.482288",
+    "geom:latitude":39.482288,
+    "geom:longitude":-80.123816,
+    "iso:country":"US",
+    "sg:address":"403 Kentucky Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 366 2435",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EiC4XXc2pT2VgZ6J9ihUY_39.482288_-80.123816@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433068,
+    "wof:geomhash":"446f093077fe080868c6bbd42caccffc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823411079
+        }
+    ],
+    "wof:id":823411079,
+    "wof:lastmodified":1463433068,
+    "wof:name":"Hawkins Storage Rental",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -80.123816,
+    39.482288,
+    -80.123816,
+    39.482288
+],
+  "geometry": {"coordinates":[-80.12381600000001,39.482288],"type":"Point"}
+}

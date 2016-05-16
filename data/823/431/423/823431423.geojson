@@ -1,0 +1,74 @@
+{
+  "id": 823431423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.354666,38.794423,-81.354666,38.794423",
+    "geom:latitude":38.794423,
+    "geom:longitude":-81.354666,
+    "iso:country":"US",
+    "sg:address":"811 Madison Ave",
+    "sg:city":"Spencer",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 927 0015",
+    "sg:postcode":"25276",
+    "sg:province":"WV",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "sg:website":"www.kvc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731535,
+        102083399,
+        85868331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bIiJRhTLOtdKI99YIUs05_38.794423_-81.354666@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433937,
+    "wof:geomhash":"ba0eb96e35c63e420ca8ee213bbb19a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083399,
+            "locality_id":101731535,
+            "neighbourhood_id":85868331,
+            "region_id":85688589,
+            "venue_id":823431423
+        }
+    ],
+    "wof:id":823431423,
+    "wof:lastmodified":1463433937,
+    "wof:name":"KVC Behavioral Healthcare",
+    "wof:parent_id":85868331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -81.354666,
+    38.794423,
+    -81.354666,
+    38.794423
+],
+  "geometry": {"coordinates":[-81.35466599999999,38.794423],"type":"Point"}
+}

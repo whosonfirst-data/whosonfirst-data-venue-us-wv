@@ -1,0 +1,71 @@
+{
+  "id": 823408999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.546536,39.240303,-81.546536,39.240303",
+    "geom:latitude":39.240303,
+    "geom:longitude":-81.546536,
+    "iso:country":"US",
+    "sg:address":"1615 Blizzard Dr",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 424 5225",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DbffKoZPivuG3EqHeKT3s_39.240303_-81.546536@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432986,
+    "wof:geomhash":"ab718333624ffc26d4d54aa77ae61ed5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823408999
+        }
+    ],
+    "wof:id":823408999,
+    "wof:lastmodified":1463432986,
+    "wof:name":"7-Eleven",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -81.546536,
+    39.240303,
+    -81.546536,
+    39.240303
+],
+  "geometry": {"coordinates":[-81.546536,39.240303],"type":"Point"}
+}

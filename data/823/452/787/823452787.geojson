@@ -1,0 +1,76 @@
+{
+  "id": 823452787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.999921,38.437393,-81.999921,38.437393",
+    "geom:latitude":38.437393,
+    "geom:longitude":-81.999921,
+    "iso:country":"US",
+    "sg:address":"3422 Teays Valley Rd",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/teays/80468-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 562 3028",
+    "sg:postcode":"25526",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731829,
+        102083381,
+        85868321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2flx8WxJU9KO2mOBdyzW12_38.437393_-81.999921@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434920,
+    "wof:geomhash":"29824f2fde9b9bcb1916e95f70578077",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731829,
+            "neighbourhood_id":85868321,
+            "region_id":85688589,
+            "venue_id":823452787
+        }
+    ],
+    "wof:id":823452787,
+    "wof:lastmodified":1463434920,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85868321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -81.999921,
+    38.437393,
+    -81.999921,
+    38.437393
+],
+  "geometry": {"coordinates":[-81.999921,38.437393],"type":"Point"}
+}

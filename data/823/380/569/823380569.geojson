@@ -1,0 +1,73 @@
+{
+  "id": 823380569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.202474,37.254795,-81.202474,37.254795",
+    "geom:latitude":37.254795,
+    "geom:longitude":-81.202474,
+    "iso:country":"US",
+    "sg:address":"3134 E Cumberland Rd",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 327 6048",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NGMuVfCB4Foltg5Ma6BhD_37.254795_-81.202474@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431667,
+    "wof:geomhash":"ac9c2f55a7bd7cc8d3560250b0ed14dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823380569
+        }
+    ],
+    "wof:id":823380569,
+    "wof:lastmodified":1463431667,
+    "wof:name":"Robo Auto Wash",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -81.202474,
+    37.254795,
+    -81.202474,
+    37.254795
+],
+  "geometry": {"coordinates":[-81.202474,37.254795],"type":"Point"}
+}

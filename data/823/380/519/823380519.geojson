@@ -1,0 +1,74 @@
+{
+  "id": 823380519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.732937,38.360309,-81.732937,38.360309",
+    "geom:latitude":38.360309,
+    "geom:longitude":-81.732937,
+    "iso:country":"US",
+    "sg:address":"907 Dunbar Ave",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 766 0215",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "sg:website":"www.dunbarfd.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mdY3xwn7NI1EWmib3polJ_38.360309_-81.732937@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431665,
+    "wof:geomhash":"8aaa0f2157003f387a065a8cd6e374ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823380519
+        }
+    ],
+    "wof:id":823380519,
+    "wof:lastmodified":1463431665,
+    "wof:name":"Dunbar Fire Department",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -81.732937,
+    38.360309,
+    -81.732937,
+    38.360309
+],
+  "geometry": {"coordinates":[-81.73293700000001,38.360309],"type":"Point"}
+}

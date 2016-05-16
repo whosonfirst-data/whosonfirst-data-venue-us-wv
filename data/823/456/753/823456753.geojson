@@ -1,0 +1,79 @@
+{
+  "id": 823456753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.529839,40.393559,-80.529839,40.393559",
+    "geom:latitude":40.393559,
+    "geom:longitude":-80.529839,
+    "iso:country":"US",
+    "sg:address":"601 Colliers Way",
+    "sg:city":"Weirton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 797 6217",
+    "sg:postcode":"26062",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "anesthesiology",
+        "surgeons"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731371,
+        102082633,
+        85854989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lOI7LKuEfNp20NHSevPia_40.393559_-80.529839@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435123,
+    "wof:geomhash":"808ae8747d933be730d18d308279a846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731371,
+            "neighbourhood_id":85854989,
+            "region_id":85688589,
+            "venue_id":823456753
+        }
+    ],
+    "wof:id":823456753,
+    "wof:lastmodified":1463435123,
+    "wof:name":"Pain Center, The",
+    "wof:parent_id":85854989,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "anesthesiology",
+        "surgeons"
+    ]
+},
+  "bbox": [
+    -80.529839,
+    40.393559,
+    -80.529839,
+    40.393559
+],
+  "geometry": {"coordinates":[-80.529839,40.393559],"type":"Point"}
+}

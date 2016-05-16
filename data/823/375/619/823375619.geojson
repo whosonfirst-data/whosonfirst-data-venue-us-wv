@@ -1,0 +1,75 @@
+{
+  "id": 823375619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.622369,38.338999,-81.622369,38.338999",
+    "geom:latitude":38.338999,
+    "geom:longitude":-81.622369,
+    "iso:country":"US",
+    "sg:address":"1546 Kanawha Blvd E",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 348 6808",
+    "sg:postcode":"25311",
+    "sg:province":"WV",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85850023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bytyjMw7RuKJTP6he3WSL_38.338999_-81.622369@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431441,
+    "wof:geomhash":"5ddf1b857ce4a589ea6c52c27e54684c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85850023,
+            "region_id":85688589,
+            "venue_id":823375619
+        }
+    ],
+    "wof:id":823375619,
+    "wof:lastmodified":1463431441,
+    "wof:name":"Charleston Housing Authority",
+    "wof:parent_id":85850023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [
+    -81.622369,
+    38.338999,
+    -81.622369,
+    38.338999
+],
+  "geometry": {"coordinates":[-81.62236900000001,38.338999],"type":"Point"}
+}

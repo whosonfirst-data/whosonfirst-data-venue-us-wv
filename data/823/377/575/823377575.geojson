@@ -1,0 +1,71 @@
+{
+  "id": 823377575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.146617,37.960579,-81.146617,37.960579",
+    "geom:latitude":37.960579,
+    "geom:longitude":-81.146617,
+    "iso:country":"US",
+    "sg:address":"5032 Greentown Rd",
+    "sg:city":"Oak Hill",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 465 5437",
+    "sg:postcode":"25901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "center",
+        "daycare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85823987,
+        102083359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_501YLlwREOCjm5bYiSk3OW_37.960579_-81.146617@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431538,
+    "wof:geomhash":"6e0559ca420801e86c872c703bc606cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083359,
+            "neighbourhood_id":85823987,
+            "region_id":85688589,
+            "venue_id":823377575
+        }
+    ],
+    "wof:id":823377575,
+    "wof:lastmodified":1463431538,
+    "wof:name":"Open Arms Center",
+    "wof:parent_id":85823987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center",
+        "daycare"
+    ]
+},
+  "bbox": [
+    -81.146617,
+    37.960579,
+    -81.146617,
+    37.960579
+],
+  "geometry": {"coordinates":[-81.14661700000001,37.960579],"type":"Point"}
+}

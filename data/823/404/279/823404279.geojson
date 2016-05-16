@@ -1,0 +1,71 @@
+{
+  "id": 823404279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.234149,37.255751,-81.234149,37.255751",
+    "geom:latitude":37.255751,
+    "geom:longitude":-81.234149,
+    "iso:country":"US",
+    "sg:address":"510 Cherry St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 323 2291",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "cardiologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OMx4dq5HdJuktZBNXJJsu_37.255751_-81.234149@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432773,
+    "wof:geomhash":"04d8641f8d595f2f1339dac4dcb3b642",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823404279
+        }
+    ],
+    "wof:id":823404279,
+    "wof:lastmodified":1463432773,
+    "wof:name":"Javed Cardiac Center",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cardiologist"
+    ]
+},
+  "bbox": [
+    -81.234149,
+    37.255751,
+    -81.234149,
+    37.255751
+],
+  "geometry": {"coordinates":[-81.234149,37.255751],"type":"Point"}
+}

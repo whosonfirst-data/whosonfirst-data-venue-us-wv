@@ -1,0 +1,71 @@
+{
+  "id": 823394147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.509467,38.403673,-82.509467,38.403673",
+    "geom:latitude":38.403673,
+    "geom:longitude":-82.509467,
+    "iso:country":"US",
+    "sg:address":"3602 Auburn Rd",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 429 2816",
+    "sg:postcode":"25704",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083365,
+        85857035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0L6AbDkMsDXGoPVGHb4TUP_38.403673_-82.509467@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432287,
+    "wof:geomhash":"6760b9cce770f001689235b3120c71b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731553,
+            "neighbourhood_id":85857035,
+            "region_id":85688589,
+            "venue_id":823394147
+        }
+    ],
+    "wof:id":823394147,
+    "wof:lastmodified":1463432287,
+    "wof:name":"Westmoreland United Methodist",
+    "wof:parent_id":85857035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -82.509467,
+    38.403673,
+    -82.509467,
+    38.403673
+],
+  "geometry": {"coordinates":[-82.509467,38.403673],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823403575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.490373,39.049895,-80.490373,39.049895",
+    "geom:latitude":39.049895,
+    "geom:longitude":-80.490373,
+    "iso:country":"US",
+    "sg:address":"827 US Hwy 33",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 269 4303",
+    "sg:postcode":"26452",
+    "sg:province":"WV",
+    "sg:tags":[
+        "automotive",
+        "towing",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85828579,
+        102083339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SgzRxesESn6QxDBVxTLe2_39.049895_-80.490373@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432734,
+    "wof:geomhash":"d8e15d70752db49528411cdf4d422acb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083339,
+            "neighbourhood_id":85828579,
+            "region_id":85688589,
+            "venue_id":823403575
+        }
+    ],
+    "wof:id":823403575,
+    "wof:lastmodified":1463432734,
+    "wof:name":"M & J Garage & Towing Inc",
+    "wof:parent_id":85828579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "towing",
+        "general"
+    ]
+},
+  "bbox": [
+    -80.490373,
+    39.049895,
+    -80.490373,
+    39.049895
+],
+  "geometry": {"coordinates":[-80.49037300000001,39.049895],"type":"Point"}
+}

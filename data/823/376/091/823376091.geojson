@@ -1,0 +1,73 @@
+{
+  "id": 823376091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.567585,38.398028,-82.567585,38.398028",
+    "geom:latitude":38.398028,
+    "geom:longitude":-82.567585,
+    "iso:country":"US",
+    "sg:address":"730 Oak St",
+    "sg:city":"Kenova",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 6136",
+    "sg:postcode":"25530",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731517,
+        102083365,
+        85806071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DEEJwSRyo9lOlcgYSXvvf_38.398028_-82.567585@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431462,
+    "wof:geomhash":"452e902903d8668f0e7eced128d077f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731517,
+            "neighbourhood_id":85806071,
+            "region_id":85688589,
+            "venue_id":823376091
+        }
+    ],
+    "wof:id":823376091,
+    "wof:lastmodified":1463431462,
+    "wof:name":"CHH Family Medical Ctr",
+    "wof:parent_id":85806071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -82.567585,
+    38.398028,
+    -82.567585,
+    38.398028
+],
+  "geometry": {"coordinates":[-82.56758499999999,38.398028],"type":"Point"}
+}

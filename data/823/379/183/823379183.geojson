@@ -1,0 +1,68 @@
+{
+  "id": 823379183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.981065,39.657103,-79.981065,39.657103",
+    "geom:latitude":39.657103,
+    "geom:longitude":-79.981065,
+    "iso:country":"US",
+    "sg:address":"3368 University Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 0115",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lp3D90ufzdUXWL550EUdn_39.657103_-79.981065@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431607,
+    "wof:geomhash":"c5ba7400ba3d37eff51820ab91dffd50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851419,
+            "region_id":85688589,
+            "venue_id":823379183
+        }
+    ],
+    "wof:id":823379183,
+    "wof:lastmodified":1463431607,
+    "wof:name":"Sellaros Overhead Door Service",
+    "wof:parent_id":85851419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.981065,
+    39.657103,
+    -79.981065,
+    39.657103
+],
+  "geometry": {"coordinates":[-79.981065,39.657103],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823455449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.022396,39.525162,-78.022396,39.525162",
+    "geom:latitude":39.525162,
+    "geom:longitude":-78.022396,
+    "iso:country":"US",
+    "sg:address":"1426 Cannon Hill Rd",
+    "sg:city":"Hedgesville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 754 8683",
+    "sg:postcode":"25427",
+    "sg:province":"WV",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85846047,
+        102083367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dtREUgcdShgMgQSfCYZ3j_39.525162_-78.022396@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435075,
+    "wof:geomhash":"22a78865d7700549327107e52103d99f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "neighbourhood_id":85846047,
+            "region_id":85688589,
+            "venue_id":823455449
+        }
+    ],
+    "wof:id":823455449,
+    "wof:lastmodified":1463435075,
+    "wof:name":"Barrett's Excavating & Hauling",
+    "wof:parent_id":85846047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -78.022396,
+    39.525162,
+    -78.022396,
+    39.525162
+],
+  "geometry": {"coordinates":[-78.022396,39.525162],"type":"Point"}
+}

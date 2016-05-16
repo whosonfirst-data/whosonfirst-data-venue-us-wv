@@ -1,0 +1,73 @@
+{
+  "id": 823433713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.298423,38.503799,-82.298423,38.503799",
+    "geom:latitude":38.503799,
+    "geom:longitude":-82.298423,
+    "iso:country":"US",
+    "sg:address":"6600 Ohio River Rd",
+    "sg:city":"Lesage",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 736 7788",
+    "sg:postcode":"25537",
+    "sg:province":"WV",
+    "sg:tags":[
+        "terminal",
+        "marine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85816671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aw48E4DIVUxWgzJElGcXY_38.503799_-82.298423@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434050,
+    "wof:geomhash":"d229242aeafefa59f2e6e7a06b099795",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85816671,
+            "region_id":85688589,
+            "venue_id":823433713
+        }
+    ],
+    "wof:id":823433713,
+    "wof:lastmodified":1463434050,
+    "wof:name":"Adams Trucking & Supply Inc",
+    "wof:parent_id":85816671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "terminal",
+        "marine"
+    ]
+},
+  "bbox": [
+    -82.298423,
+    38.503799,
+    -82.298423,
+    38.503799
+],
+  "geometry": {"coordinates":[-82.298423,38.503799],"type":"Point"}
+}

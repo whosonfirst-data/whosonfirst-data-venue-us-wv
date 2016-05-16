@@ -1,0 +1,71 @@
+{
+  "id": 823369119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.407479,38.404347,-82.407479,38.404347",
+    "geom:latitude":38.404347,
+    "geom:longitude":-82.407479,
+    "iso:country":"US",
+    "sg:address":"244 S Walnut St",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 522 8186",
+    "sg:postcode":"25705",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083329,
+        85868309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xqvc26NbMumBYAT4Nspb6_38.404347_-82.407479@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431137,
+    "wof:geomhash":"e01658ae2a5d52ee9340952661063941",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731553,
+            "neighbourhood_id":85868309,
+            "region_id":85688589,
+            "venue_id":823369119
+        }
+    ],
+    "wof:id":823369119,
+    "wof:lastmodified":1463431137,
+    "wof:name":"Collins Kitchens Bath",
+    "wof:parent_id":85868309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.407479,
+    38.404347,
+    -82.407479,
+    38.404347
+],
+  "geometry": {"coordinates":[-82.407479,38.404347],"type":"Point"}
+}

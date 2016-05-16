@@ -1,0 +1,73 @@
+{
+  "id": 823440975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.167542,39.44213,-80.167542,39.44213",
+    "geom:latitude":39.44213,
+    "geom:longitude":-80.167542,
+    "iso:country":"US",
+    "sg:address":"2031 Pleasant Valley Rd",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 368 9400",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85834381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60vqCSI24H23uWZmJ8Pe2z_39.442130_-80.167542@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434406,
+    "wof:geomhash":"d3a4da2741f5c488821b3bdd583d92b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85834381,
+            "region_id":85688589,
+            "venue_id":823440975
+        }
+    ],
+    "wof:id":823440975,
+    "wof:lastmodified":1463434406,
+    "wof:name":"Medical Services of America",
+    "wof:parent_id":85834381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -80.167542,
+    39.44213,
+    -80.167542,
+    39.44213
+],
+  "geometry": {"coordinates":[-80.167542,39.44213],"type":"Point"}
+}

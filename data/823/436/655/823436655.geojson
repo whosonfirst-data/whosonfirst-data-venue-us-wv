@@ -1,0 +1,71 @@
+{
+  "id": 823436655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.969392,39.609012,-79.969392,39.609012",
+    "geom:latitude":39.609012,
+    "geom:longitude":-79.969392,
+    "iso:country":"US",
+    "sg:address":"54 Don Knotts Blvd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 284 7210",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "national",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46LRzdw6fEIPXg7IsABkar_39.609012_-79.969392@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434205,
+    "wof:geomhash":"50bb1fe316b9e16e0e3bb30d9cd42cf2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823436655
+        }
+    ],
+    "wof:id":823436655,
+    "wof:lastmodified":1463434205,
+    "wof:name":"Huntington National Bank",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -79.969392,
+    39.609012,
+    -79.969392,
+    39.609012
+],
+  "geometry": {"coordinates":[-79.969392,39.609012],"type":"Point"}
+}

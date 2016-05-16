@@ -1,0 +1,76 @@
+{
+  "id": 823384875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.567711,38.246327,-81.567711,38.246327",
+    "geom:latitude":38.246327,
+    "geom:longitude":-81.567711,
+    "iso:country":"US",
+    "sg:address":"9106 Maccorkle Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 1300",
+    "sg:postcode":"25315",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rz4lLiNosRLUIpdjUt9Qn_38.246327_-81.567711@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431845,
+    "wof:geomhash":"f2bb7b7567f57e690678b6e17c08f226",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823384875
+        }
+    ],
+    "wof:id":823384875,
+    "wof:lastmodified":1463431845,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.567711,
+    38.246327,
+    -81.567711,
+    38.246327
+],
+  "geometry": {"coordinates":[-81.567711,38.246327],"type":"Point"}
+}

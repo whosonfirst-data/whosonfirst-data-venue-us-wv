@@ -1,0 +1,81 @@
+{
+  "id": 823455519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.987493,39.541785,-77.987493,39.541785",
+    "geom:latitude":39.541785,
+    "geom:longitude":-77.987493,
+    "iso:country":"US",
+    "sg:address":"3967 Hedgesville Rd",
+    "sg:city":"Hedgesville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 754 7945",
+    "sg:postcode":"25427",
+    "sg:province":"WV",
+    "sg:tags":[
+        "commercial",
+        "financing",
+        "saving",
+        "loan"
+    ],
+    "sg:website":"http://www.bbt.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85846047,
+        102083367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hPMDTtrmaPdb7MsD5dRo5_39.541785_-77.987493@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435078,
+    "wof:geomhash":"df1b66bd8db9c32e6625ac02847f99c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "neighbourhood_id":85846047,
+            "region_id":85688589,
+            "venue_id":823455519
+        }
+    ],
+    "wof:id":823455519,
+    "wof:lastmodified":1463435078,
+    "wof:name":"BB & T",
+    "wof:parent_id":85846047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "financing",
+        "saving",
+        "loan"
+    ]
+},
+  "bbox": [
+    -77.987493,
+    39.541785,
+    -77.987493,
+    39.541785
+],
+  "geometry": {"coordinates":[-77.987493,39.541785],"type":"Point"}
+}

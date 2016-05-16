@@ -1,0 +1,75 @@
+{
+  "id": 823388703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.472927,38.20573,-81.472927,38.20573",
+    "geom:latitude":38.20573,
+    "geom:longitude":-81.472927,
+    "iso:country":"US",
+    "sg:address":"2971 E Dupont Ave",
+    "sg:city":"Belle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 595 4001",
+    "sg:postcode":"25015",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ngMWVxltClai7WxJdHZuR_38.205730_-81.472927@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432014,
+    "wof:geomhash":"6d0d16e318f5562c0a125d2d3cdf9996",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823388703
+        }
+    ],
+    "wof:id":823388703,
+    "wof:lastmodified":1463432014,
+    "wof:name":"J L Knight Jr Inc",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.472927,
+    38.20573,
+    -81.472927,
+    38.20573
+],
+  "geometry": {"coordinates":[-81.472927,38.20573],"type":"Point"}
+}

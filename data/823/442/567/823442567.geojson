@@ -1,0 +1,71 @@
+{
+  "id": 823442567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.96375,39.652465,-79.96375,39.652465",
+    "geom:latitude":39.652465,
+    "geom:longitude":-79.96375,
+    "iso:country":"US",
+    "sg:address":"1109 Van Voorhis Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 598 3001",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "national",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85852025,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3paDTvyPBEajcfRdrNmv8a_39.652465_-79.963750@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434477,
+    "wof:geomhash":"aacbe2a213628dc5863f203bcdf0bc82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85852025,
+            "region_id":85688589,
+            "venue_id":823442567
+        }
+    ],
+    "wof:id":823442567,
+    "wof:lastmodified":1463434477,
+    "wof:name":"United National Bank",
+    "wof:parent_id":85852025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -79.96375,
+    39.652465,
+    -79.96375,
+    39.652465
+],
+  "geometry": {"coordinates":[-79.96375,39.652465],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823434719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.726356,38.322964,-81.726356,38.322964",
+    "geom:latitude":38.322964,
+    "geom:longitude":-81.726356,
+    "iso:country":"US",
+    "sg:address":"102 Mark Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 5824",
+    "sg:postcode":"25309",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bWXIJ3L2S3JPLlzN7s1T5_38.322964_-81.726356@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434115,
+    "wof:geomhash":"cf8ee1d7616cc078f84f1f9118b6f3b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823434719
+        }
+    ],
+    "wof:id":823434719,
+    "wof:lastmodified":1463434115,
+    "wof:name":"Morton Estep",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -81.726356,
+    38.322964,
+    -81.726356,
+    38.322964
+],
+  "geometry": {"coordinates":[-81.726356,38.322964],"type":"Point"}
+}

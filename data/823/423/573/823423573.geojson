@@ -1,0 +1,71 @@
+{
+  "id": 823423573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.865029,39.643043,-80.865029,39.643043",
+    "geom:latitude":39.643043,
+    "geom:longitude":-80.865029,
+    "iso:country":"US",
+    "sg:address":"128 North St",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 1191",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_600kQSyLZWFtUYFduBBmAh_39.643043_-80.865029@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433604,
+    "wof:geomhash":"6f0eb9f7fa92b8c9a3f5e957da79e21d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823423573
+        }
+    ],
+    "wof:id":823423573,
+    "wof:lastmodified":1463433604,
+    "wof:name":"Pawn Shop",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -80.865029,
+    39.643043,
+    -80.865029,
+    39.643043
+],
+  "geometry": {"coordinates":[-80.86502900000001,39.643043],"type":"Point"}
+}

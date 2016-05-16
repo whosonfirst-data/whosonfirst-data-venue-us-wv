@@ -1,0 +1,71 @@
+{
+  "id": 823378351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.033287,39.618151,-80.033287,39.618151",
+    "geom:latitude":39.618151,
+    "geom:longitude":-80.033287,
+    "iso:country":"US",
+    "sg:address":"2492 Fairmont Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 983 8375",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "gun",
+        "gunsmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818601,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rxaZtsFK6y2Rcn761NOdC_39.618151_-80.033287@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431571,
+    "wof:geomhash":"bb27b1d014167f81a85523e79d8c3c64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85818601,
+            "region_id":85688589,
+            "venue_id":823378351
+        }
+    ],
+    "wof:id":823378351,
+    "wof:lastmodified":1463431571,
+    "wof:name":"Colonial Arms Gun Shop",
+    "wof:parent_id":85818601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gun",
+        "gunsmith"
+    ]
+},
+  "bbox": [
+    -80.033287,
+    39.618151,
+    -80.033287,
+    39.618151
+],
+  "geometry": {"coordinates":[-80.033287,39.618151],"type":"Point"}
+}

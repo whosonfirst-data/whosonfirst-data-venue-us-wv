@@ -1,0 +1,71 @@
+{
+  "id": 823424293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.699135,38.366191,-81.699135,38.366191",
+    "geom:latitude":38.366191,
+    "geom:longitude":-81.699135,
+    "iso:country":"US",
+    "sg:address":"112 6th Ave SW",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 6039",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17FjcSpcDILiBSHMKzLGOt_38.366191_-81.699135@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433633,
+    "wof:geomhash":"cc32f7cb3a66da11d2b93f635871a6ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823424293
+        }
+    ],
+    "wof:id":823424293,
+    "wof:lastmodified":1463433633,
+    "wof:name":"Earl Hardway Construction",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -81.699135,
+    38.366191,
+    -81.699135,
+    38.366191
+],
+  "geometry": {"coordinates":[-81.699135,38.366191],"type":"Point"}
+}

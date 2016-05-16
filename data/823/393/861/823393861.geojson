@@ -1,0 +1,80 @@
+{
+  "id": 823393861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.663215,38.409111,-81.663215,38.409111",
+    "geom:latitude":38.409111,
+    "geom:longitude":-81.663215,
+    "iso:country":"US",
+    "sg:address":"180 Cobb Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 7838",
+    "sg:postcode":"25312",
+    "sg:province":"WV",
+    "sg:tags":[
+        "equipment",
+        "establishment",
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1og9fWsPyGCfDrud49ATkN_38.409111_-81.663215@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432270,
+    "wof:geomhash":"70393c6b54e693ca8f6734f29f253367",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823393861
+        }
+    ],
+    "wof:id":823393861,
+    "wof:lastmodified":1463432270,
+    "wof:name":"Donna's Upholstery",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "establishment",
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -81.663215,
+    38.409111,
+    -81.663215,
+    38.409111
+],
+  "geometry": {"coordinates":[-81.66321499999999,38.409111],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823420743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.983295,39.633455,-79.983295,39.633455",
+    "geom:latitude":39.633455,
+    "geom:longitude":-79.983295,
+    "iso:country":"US",
+    "sg:address":"300 Riverview Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 5233",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818601,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vAwt6yWWwZkjZunkPxWY4_39.633455_-79.983295@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433496,
+    "wof:geomhash":"4ce0715d7a3f4bda9214cce7070520bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85818601,
+            "region_id":85688589,
+            "venue_id":823420743
+        }
+    ],
+    "wof:id":823420743,
+    "wof:lastmodified":1463433496,
+    "wof:name":"Sainato Electric Inc",
+    "wof:parent_id":85818601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -79.983295,
+    39.633455,
+    -79.983295,
+    39.633455
+],
+  "geometry": {"coordinates":[-79.983295,39.633455],"type":"Point"}
+}

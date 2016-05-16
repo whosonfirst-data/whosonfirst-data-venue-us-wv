@@ -1,0 +1,71 @@
+{
+  "id": 823367861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.988987,38.45133,-81.988987,38.45133",
+    "geom:latitude":38.45133,
+    "geom:longitude":-81.988987,
+    "iso:country":"US",
+    "sg:address":"9 Sunnydale Dr",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 562 3124",
+    "sg:postcode":"25526",
+    "sg:province":"WV",
+    "sg:tags":[
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731829,
+        102083381,
+        85868321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kwsakAeA7yfog6ohDKv1i_38.451330_-81.988987@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431087,
+    "wof:geomhash":"a629709723ae6c5a29b898e4c978094f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731829,
+            "neighbourhood_id":85868321,
+            "region_id":85688589,
+            "venue_id":823367861
+        }
+    ],
+    "wof:id":823367861,
+    "wof:lastmodified":1463431087,
+    "wof:name":"Sunnydale Property Assoc Inc",
+    "wof:parent_id":85868321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "real estate"
+    ]
+},
+  "bbox": [
+    -81.988987,
+    38.45133,
+    -81.988987,
+    38.45133
+],
+  "geometry": {"coordinates":[-81.98898699999999,38.45133],"type":"Point"}
+}

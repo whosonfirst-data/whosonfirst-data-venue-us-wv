@@ -1,0 +1,74 @@
+{
+  "id": 823373621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.643652,38.358549,-81.643652,38.358549",
+    "geom:latitude":38.358549,
+    "geom:longitude":-81.643652,
+    "iso:country":"US",
+    "sg:address":"111 Wyoming St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 344 0720",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.capitolengineering.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48kQQ09LeAAxIw7K7y4R2t_38.358549_-81.643652@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431344,
+    "wof:geomhash":"f99a9b0c0a50a5f4071ba050d1e0cf79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823373621
+        }
+    ],
+    "wof:id":823373621,
+    "wof:lastmodified":1463431344,
+    "wof:name":"Capitol Engineering Inc",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -81.643652,
+    38.358549,
+    -81.643652,
+    38.358549
+],
+  "geometry": {"coordinates":[-81.643652,38.358549],"type":"Point"}
+}

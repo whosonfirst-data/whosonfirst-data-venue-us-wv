@@ -1,0 +1,73 @@
+{
+  "id": 823429403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.225447,37.254585,-81.225447,37.254585",
+    "geom:latitude":37.254585,
+    "geom:longitude":-81.225447,
+    "iso:country":"US",
+    "sg:address":"642 Melrose St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 327 7552",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_191b38t4sztVpBEca3zlOk_37.254585_-81.225447@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433858,
+    "wof:geomhash":"1c3b2c8c53f0b755824c6f9ef84664d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823429403
+        }
+    ],
+    "wof:id":823429403,
+    "wof:lastmodified":1463433858,
+    "wof:name":"Caudill Plumbing & Heating",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.225447,
+    37.254585,
+    -81.225447,
+    37.254585
+],
+  "geometry": {"coordinates":[-81.225447,37.254585],"type":"Point"}
+}

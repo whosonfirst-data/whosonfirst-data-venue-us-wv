@@ -1,0 +1,73 @@
+{
+  "id": 823420475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.205037,37.253647,-81.205037,37.253647",
+    "geom:latitude":37.253647,
+    "geom:longitude":-81.205037,
+    "iso:country":"US",
+    "sg:address":"3028 E Cumberland Rd",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 325 3691",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IdOxuy6vV7hEjBbLFFPHg_37.253647_-81.205037@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433487,
+    "wof:geomhash":"2dee163c493d027be79407eccb85799b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823420475
+        }
+    ],
+    "wof:id":823420475,
+    "wof:lastmodified":1463433487,
+    "wof:name":"CVS",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -81.205037,
+    37.253647,
+    -81.205037,
+    37.253647
+],
+  "geometry": {"coordinates":[-81.205037,37.253647],"type":"Point"}
+}

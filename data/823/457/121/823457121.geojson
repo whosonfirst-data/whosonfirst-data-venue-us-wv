@@ -1,0 +1,69 @@
+{
+  "id": 823457121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.983408,39.631723,-79.983408,39.631723",
+    "geom:latitude":39.631723,
+    "geom:longitude":-79.983408,
+    "iso:country":"US",
+    "sg:address":"871 Fairmont Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 2136",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85818601,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Yr40Fc3BqroelBbFXYPPQ_39.631723_-79.983408@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435146,
+    "wof:geomhash":"cc05cea7469840ed439b6c1880d588c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85818601,
+            "region_id":85688589,
+            "venue_id":823457121
+        }
+    ],
+    "wof:id":823457121,
+    "wof:lastmodified":1463435146,
+    "wof:name":"Petitte, Quentine",
+    "wof:parent_id":85818601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -79.983408,
+    39.631723,
+    -79.983408,
+    39.631723
+],
+  "geometry": {"coordinates":[-79.983408,39.631723],"type":"Point"}
+}

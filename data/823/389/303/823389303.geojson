@@ -1,0 +1,71 @@
+{
+  "id": 823389303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.612266,40.617656,-80.612266,40.617656",
+    "geom:latitude":40.617656,
+    "geom:longitude":-80.612266,
+    "iso:country":"US",
+    "sg:address":"908 Grant St",
+    "sg:city":"Newell",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 1998",
+    "sg:postcode":"26050",
+    "sg:province":"WV",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Kl6dLX6wavDayTOGFros9_40.617656_-80.612266@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432047,
+    "wof:geomhash":"35d9e2030d82b059bba0a126ed1a9d56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823389303
+        }
+    ],
+    "wof:id":823389303,
+    "wof:lastmodified":1463432047,
+    "wof:name":"Last Chance Saloon",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -80.612266,
+    40.617656,
+    -80.612266,
+    40.617656
+],
+  "geometry": {"coordinates":[-80.61226600000001,40.617656],"type":"Point"}
+}

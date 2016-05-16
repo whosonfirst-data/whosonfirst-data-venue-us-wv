@@ -1,0 +1,73 @@
+{
+  "id": 823384203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.645032,38.363702,-81.645032,38.363702",
+    "geom:latitude":38.363702,
+    "geom:longitude":-81.645032,
+    "iso:country":"US",
+    "sg:address":"420 Lee St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 343 5196",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "director",
+        "crematory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FlbC9OEqJBjP7MD8asXam_38.363702_-81.645032@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431817,
+    "wof:geomhash":"9eadf2a2195ea19bb66f440234157b17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823384203
+        }
+    ],
+    "wof:id":823384203,
+    "wof:lastmodified":1463431817,
+    "wof:name":"Wilson Funeral Home Inc",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director",
+        "crematory"
+    ]
+},
+  "bbox": [
+    -81.645032,
+    38.363702,
+    -81.645032,
+    38.363702
+],
+  "geometry": {"coordinates":[-81.645032,38.363702],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823395199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.932485,39.020728,-79.932485,39.020728",
+    "geom:latitude":39.020728,
+    "geom:longitude":-79.932485,
+    "iso:country":"US",
+    "sg:address":"720 Beverly Pike",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 637 2424",
+    "sg:postcode":"26250",
+    "sg:province":"WV",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cVdPC9cJsiQ9GoAeMHrXD_39.020728_-79.932485@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432337,
+    "wof:geomhash":"8ecf46d6e11f6be03421fa665e0615a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823395199
+        }
+    ],
+    "wof:id":823395199,
+    "wof:lastmodified":1463432337,
+    "wof:name":"Yee Z Food",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -79.932485,
+    39.020728,
+    -79.932485,
+    39.020728
+],
+  "geometry": {"coordinates":[-79.932485,39.020728],"type":"Point"}
+}

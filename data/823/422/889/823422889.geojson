@@ -1,0 +1,73 @@
+{
+  "id": 823422889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.964663,39.451055,-77.964663,39.451055",
+    "geom:latitude":39.451055,
+    "geom:longitude":-77.964663,
+    "iso:country":"US",
+    "sg:address":"124 E Addition St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 5398",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "skilled",
+        "intermediate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HwOqxeGs1NYhzdqFC0r2U_39.451055_-77.964663@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433573,
+    "wof:geomhash":"de861389765f69aa3f3fc489d32e8863",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823422889
+        }
+    ],
+    "wof:id":823422889,
+    "wof:lastmodified":1463433573,
+    "wof:name":"Care Haven Center",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled",
+        "intermediate"
+    ]
+},
+  "bbox": [
+    -77.964663,
+    39.451055,
+    -77.964663,
+    39.451055
+],
+  "geometry": {"coordinates":[-77.964663,39.451055],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 823446697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.117101,37.790454,-81.117101,37.790454",
+    "geom:latitude":37.790454,
+    "geom:longitude":-81.117101,
+    "iso:country":"US",
+    "sg:address":"308 Industrial Park Rd",
+    "sg:city":"Beaver",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 253 2616",
+    "sg:postcode":"25813",
+    "sg:province":"WV",
+    "sg:tags":[
+        "delivery",
+        "package"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Sz8rMNU3uksUMmHQS1Ck8_37.790454_-81.117101@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434680,
+    "wof:geomhash":"51d0600300f74717b6fca304d193caa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823446697
+        }
+    ],
+    "wof:id":823446697,
+    "wof:lastmodified":1463434680,
+    "wof:name":"Fedex",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "package"
+    ]
+},
+  "bbox": [
+    -81.117101,
+    37.790454,
+    -81.117101,
+    37.790454
+],
+  "geometry": {"coordinates":[-81.11710100000001,37.790454],"type":"Point"}
+}

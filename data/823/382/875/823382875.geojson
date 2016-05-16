@@ -1,0 +1,75 @@
+{
+  "id": 823382875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.989286,39.660941,-79.989286,39.660941",
+    "geom:latitude":39.660941,
+    "geom:longitude":-79.989286,
+    "iso:country":"US",
+    "sg:address":"437 Industrial Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 1110",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "bulk",
+        "station",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731749,
+        102082587,
+        85807277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dCZzPsSonyuQoYHOfu2Ey_39.660941_-79.989286@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431770,
+    "wof:geomhash":"1725c2d15bd0450b9e4738ad55206bd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731749,
+            "neighbourhood_id":85807277,
+            "region_id":85688589,
+            "venue_id":823382875
+        }
+    ],
+    "wof:id":823382875,
+    "wof:lastmodified":1463431770,
+    "wof:name":"Guttman Oil Co",
+    "wof:parent_id":85807277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk",
+        "station",
+        "oil"
+    ]
+},
+  "bbox": [
+    -79.989286,
+    39.660941,
+    -79.989286,
+    39.660941
+],
+  "geometry": {"coordinates":[-79.98928600000001,39.660941],"type":"Point"}
+}

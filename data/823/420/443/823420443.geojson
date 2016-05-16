@@ -1,0 +1,71 @@
+{
+  "id": 823420443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.247207,39.286773,-80.247207,39.286773",
+    "geom:latitude":39.286773,
+    "geom:longitude":-80.247207,
+    "iso:country":"US",
+    "sg:address":"333 E Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 842 2253",
+    "sg:postcode":"26330",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EOm1s1SDOA7IrUSdmkK87_39.286773_-80.247207@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433485,
+    "wof:geomhash":"60c9bcebca026d03c8f741c4f0e3b66e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823420443
+        }
+    ],
+    "wof:id":823420443,
+    "wof:lastmodified":1463433485,
+    "wof:name":"Jenna Maries Family Styling S",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -80.247207,
+    39.286773,
+    -80.247207,
+    39.286773
+],
+  "geometry": {"coordinates":[-80.247207,39.286773],"type":"Point"}
+}

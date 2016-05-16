@@ -1,0 +1,71 @@
+{
+  "id": 823393105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.703736,38.393004,-81.703736,38.393004",
+    "geom:latitude":38.393004,
+    "geom:longitude":-81.703736,
+    "iso:country":"US",
+    "sg:address":"136 Asbury Rd",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 7899",
+    "sg:postcode":"25312",
+    "sg:province":"WV",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lW4u7A9uQy5QD6pRcI1yv_38.393004_-81.703736@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432235,
+    "wof:geomhash":"a1e5f9fc8cce8680a3a06b621bcfd910",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823393105
+        }
+    ],
+    "wof:id":823393105,
+    "wof:lastmodified":1463432235,
+    "wof:name":"Ed Ray Construction",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -81.703736,
+    38.393004,
+    -81.703736,
+    38.393004
+],
+  "geometry": {"coordinates":[-81.70373600000001,38.393004],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823447139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.234755,37.253749,-81.234755,37.253749",
+    "geom:latitude":37.253749,
+    "geom:longitude":-81.234755,
+    "iso:country":"US",
+    "sg:address":"1321 Stadium Dr",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 327 7135",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FgKrn0u6Mw9RzXaxu9SeC_37.253749_-81.234755@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434699,
+    "wof:geomhash":"ad0175f3f2a329ee1274203624bc511d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823447139
+        }
+    ],
+    "wof:id":823447139,
+    "wof:lastmodified":1463434699,
+    "wof:name":"Harold L Goforth Jr DDS",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -81.234755,
+    37.253749,
+    -81.234755,
+    37.253749
+],
+  "geometry": {"coordinates":[-81.23475500000001,37.253749],"type":"Point"}
+}

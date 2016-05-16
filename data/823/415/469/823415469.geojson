@@ -1,0 +1,71 @@
+{
+  "id": 823415469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.573089,38.275528,-81.573089,38.275528",
+    "geom:latitude":38.275528,
+    "geom:longitude":-81.573089,
+    "iso:country":"US",
+    "sg:address":"7300 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 926 1200",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "policy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Yomspc9FC3FI2nYVyhLle_38.275528_-81.573089@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433257,
+    "wof:geomhash":"a3debc8dc763941c7c2fb3ee19cb0095",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823415469
+        }
+    ],
+    "wof:id":823415469,
+    "wof:lastmodified":1463433257,
+    "wof:name":"Record Management",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "policy"
+    ]
+},
+  "bbox": [
+    -81.573089,
+    38.275528,
+    -81.573089,
+    38.275528
+],
+  "geometry": {"coordinates":[-81.573089,38.275528],"type":"Point"}
+}

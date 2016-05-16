@@ -1,0 +1,75 @@
+{
+  "id": 823390531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.568445,38.318197,-81.568445,38.318197",
+    "geom:latitude":38.318197,
+    "geom:longitude":-81.568445,
+    "iso:country":"US",
+    "sg:address":"5407 Kanawha Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 5615",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "fund",
+        "counselor",
+        "raising"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ldE9vtHVlkrM2TyhvOyEi_38.318197_-81.568445@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432101,
+    "wof:geomhash":"d1144dfb3895a75d258ecf96ba8221ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823390531
+        }
+    ],
+    "wof:id":823390531,
+    "wof:lastmodified":1463432101,
+    "wof:name":"Peelers",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fund",
+        "counselor",
+        "raising"
+    ]
+},
+  "bbox": [
+    -81.568445,
+    38.318197,
+    -81.568445,
+    38.318197
+],
+  "geometry": {"coordinates":[-81.568445,38.318197],"type":"Point"}
+}

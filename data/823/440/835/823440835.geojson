@@ -1,0 +1,73 @@
+{
+  "id": 823440835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.955873,39.632801,-79.955873,39.632801",
+    "geom:latitude":39.632801,
+    "geom:longitude":-79.955873,
+    "iso:country":"US",
+    "sg:address":"1481 University Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 8231",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85851489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76PPCqvrR1KZlOEKyHcpZy_39.632801_-79.955873@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434401,
+    "wof:geomhash":"4e1e98cadbe70cdbc8ea682ccbc6b3ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85851489,
+            "region_id":85688589,
+            "venue_id":823440835
+        }
+    ],
+    "wof:id":823440835,
+    "wof:lastmodified":1463434401,
+    "wof:name":"St John's University Parish",
+    "wof:parent_id":85851489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -79.955873,
+    39.632801,
+    -79.955873,
+    39.632801
+],
+  "geometry": {"coordinates":[-79.955873,39.632801],"type":"Point"}
+}

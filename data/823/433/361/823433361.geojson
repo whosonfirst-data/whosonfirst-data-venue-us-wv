@@ -1,0 +1,73 @@
+{
+  "id": 823433361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.396708,38.413134,-82.396708,38.413134",
+    "geom:latitude":38.413134,
+    "geom:longitude":-82.396708,
+    "iso:country":"US",
+    "sg:address":"2953 Cleveland Ave",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 525 4405",
+    "sg:postcode":"25705",
+    "sg:province":"WV",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083329,
+        85868301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34gv1AVtXJDfTLCtcAnQns_38.413134_-82.396708@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434032,
+    "wof:geomhash":"ebed0a343cbde346a3eed94efd1e65bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731553,
+            "neighbourhood_id":85868301,
+            "region_id":85688589,
+            "venue_id":823433361
+        }
+    ],
+    "wof:id":823433361,
+    "wof:lastmodified":1463434032,
+    "wof:name":"Matheny's",
+    "wof:parent_id":85868301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -82.396708,
+    38.413134,
+    -82.396708,
+    38.413134
+],
+  "geometry": {"coordinates":[-82.396708,38.413134],"type":"Point"}
+}

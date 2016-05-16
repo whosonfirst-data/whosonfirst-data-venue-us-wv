@@ -1,0 +1,71 @@
+{
+  "id": 823429941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.878681,37.73907,-81.878681,37.73907",
+    "geom:latitude":37.73907,
+    "geom:longitude":-81.878681,
+    "iso:country":"US",
+    "sg:address":"105 S Bridge St",
+    "sg:city":"Man",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 583 2410",
+    "sg:postcode":"25635",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868319,
+        102083369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vrWINOoge3Iq8Nkjmu2Ql_37.739070_-81.878681@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433881,
+    "wof:geomhash":"92209d5ea246d72bef7e1a2ec082c932",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083369,
+            "neighbourhood_id":85868319,
+            "region_id":85688589,
+            "venue_id":823429941
+        }
+    ],
+    "wof:id":823429941,
+    "wof:lastmodified":1463433881,
+    "wof:name":"G & R Automotive Svc",
+    "wof:parent_id":85868319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -81.878681,
+    37.73907,
+    -81.878681,
+    37.73907
+],
+  "geometry": {"coordinates":[-81.878681,37.73907],"type":"Point"}
+}

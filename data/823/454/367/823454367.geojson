@@ -1,0 +1,76 @@
+{
+  "id": 823454367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.451747,37.796165,-80.451747,37.796165",
+    "geom:latitude":37.796165,
+    "geom:longitude":-80.451747,
+    "iso:country":"US",
+    "sg:address":"540 N Jefferson St Ste B2",
+    "sg:city":"Lewisburg",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 645 2422",
+    "sg:postcode":"24901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "inn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27oFouTnTrCS8iMCE2fRE2_37.796165_-80.451747@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435024,
+    "wof:geomhash":"109d06ec1032371b178400b8d056c117",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823454367
+        }
+    ],
+    "wof:id":823454367,
+    "wof:lastmodified":1463435024,
+    "wof:name":"Brier Properties",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inn"
+    ]
+},
+  "bbox": [
+    -80.451747,
+    37.796165,
+    -80.451747,
+    37.796165
+],
+  "geometry": {"coordinates":[-80.451747,37.796165],"type":"Point"}
+}

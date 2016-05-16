@@ -1,0 +1,71 @@
+{
+  "id": 823457193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.062995,39.720381,-80.062995,39.720381",
+    "geom:latitude":39.720381,
+    "geom:longitude":-80.062995,
+    "iso:country":"US",
+    "sg:address":"69 Peaceful Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 328 5690",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731749,
+        102082587,
+        85807277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WRogy8rshBrAKcE2T0stb_39.720381_-80.062995@1303262554"
+    },
+    "wof:country":"US",
+    "wof:created":1463435149,
+    "wof:geomhash":"bb479b1ecd7cad175f2885c2043e6f87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731749,
+            "neighbourhood_id":85807277,
+            "region_id":85688589,
+            "venue_id":823457193
+        }
+    ],
+    "wof:id":823457193,
+    "wof:lastmodified":1463435149,
+    "wof:name":"Kelley Electric",
+    "wof:parent_id":85807277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -80.062995,
+    39.720381,
+    -80.062995,
+    39.720381
+],
+  "geometry": {"coordinates":[-80.062995,39.720381],"type":"Point"}
+}

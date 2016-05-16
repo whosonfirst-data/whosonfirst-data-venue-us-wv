@@ -1,0 +1,73 @@
+{
+  "id": 823420235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.455189,37.783982,-80.455189,37.783982",
+    "geom:latitude":37.783982,
+    "geom:longitude":-80.455189,
+    "iso:country":"US",
+    "sg:address":"118 Seneca Trl",
+    "sg:city":"Lewisburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 645 3785",
+    "sg:postcode":"24901",
+    "sg:province":"WV",
+    "sg:tags":[
+        "photo",
+        "finishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731579,
+        102083375,
+        85808285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eQx7JDCrsV2G0WF0p25nP_37.783982_-80.455189@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433474,
+    "wof:geomhash":"b2ad35362e13fe92200cb1281b8ed710",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083375,
+            "locality_id":101731579,
+            "neighbourhood_id":85808285,
+            "region_id":85688589,
+            "venue_id":823420235
+        }
+    ],
+    "wof:id":823420235,
+    "wof:lastmodified":1463433474,
+    "wof:name":"Fast Foto",
+    "wof:parent_id":85808285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "finishing"
+    ]
+},
+  "bbox": [
+    -80.455189,
+    37.783982,
+    -80.455189,
+    37.783982
+],
+  "geometry": {"coordinates":[-80.455189,37.783982],"type":"Point"}
+}

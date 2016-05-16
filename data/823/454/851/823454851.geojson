@@ -1,0 +1,71 @@
+{
+  "id": 823454851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.968356,39.501788,-77.968356,39.501788",
+    "geom:latitude":39.501788,
+    "geom:longitude":-77.968356,
+    "iso:country":"US",
+    "sg:address":"25 Crimson Cir",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 596 2084",
+    "sg:postcode":"25403",
+    "sg:province":"WV",
+    "sg:tags":[
+        "analytical",
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85846047,
+        102083367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18wLRP5uCibz176Zv2g4GF_39.501788_-77.968356@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435054,
+    "wof:geomhash":"668dd2b6637c973423dbaee00137308a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "neighbourhood_id":85846047,
+            "region_id":85688589,
+            "venue_id":823454851
+        }
+    ],
+    "wof:id":823454851,
+    "wof:lastmodified":1463435054,
+    "wof:name":"Reliance Laboratories Inc",
+    "wof:parent_id":85846047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "analytical",
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -77.968356,
+    39.501788,
+    -77.968356,
+    39.501788
+],
+  "geometry": {"coordinates":[-77.968356,39.501788],"type":"Point"}
+}

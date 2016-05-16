@@ -1,0 +1,73 @@
+{
+  "id": 823398599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.505618,38.411241,-81.505618,38.411241",
+    "geom:latitude":38.411241,
+    "geom:longitude":-81.505618,
+    "iso:country":"US",
+    "sg:address":"105 Woodland Ave",
+    "sg:city":"Elkview",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 965 3108",
+    "sg:postcode":"25071",
+    "sg:province":"WV",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39wiQR69Cc6sM03TS6CFVN_38.411241_-81.505618@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432515,
+    "wof:geomhash":"f8424d0f63bca49b58099cc524389b93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823398599
+        }
+    ],
+    "wof:id":823398599,
+    "wof:lastmodified":1463432515,
+    "wof:name":"French Creek Farms",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.505618,
+    38.411241,
+    -81.505618,
+    38.411241
+],
+  "geometry": {"coordinates":[-81.505618,38.411241],"type":"Point"}
+}

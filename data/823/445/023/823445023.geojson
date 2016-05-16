@@ -1,0 +1,71 @@
+{
+  "id": 823445023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.700582,38.36669,-81.700582,38.36669",
+    "geom:latitude":38.36669,
+    "geom:longitude":-81.700582,
+    "iso:country":"US",
+    "sg:address":"149 7th Ave",
+    "sg:city":"South Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 6139",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wdIYZuBebJWLzxSP4kfKx_38.366690_-81.700582@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434593,
+    "wof:geomhash":"0ff5c4049f27a822f8986adea9567519",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823445023
+        }
+    ],
+    "wof:id":823445023,
+    "wof:lastmodified":1463434593,
+    "wof:name":"Burlington United Methodist",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.700582,
+    38.36669,
+    -81.700582,
+    38.36669
+],
+  "geometry": {"coordinates":[-81.700582,38.36669],"type":"Point"}
+}

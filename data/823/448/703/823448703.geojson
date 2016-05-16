@@ -1,0 +1,73 @@
+{
+  "id": 823448703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.633861,38.347518,-81.633861,38.347518",
+    "geom:latitude":38.347518,
+    "geom:longitude":-81.633861,
+    "iso:country":"US",
+    "sg:address":"1027 Virginia St E",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 347 7158",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69c0ty277vzccG9QxjMa2f_38.347518_-81.633861@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434766,
+    "wof:geomhash":"7425d5d1d0d165b0b7bcf20254d30d40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823448703
+        }
+    ],
+    "wof:id":823448703,
+    "wof:lastmodified":1463434766,
+    "wof:name":"US Interior Dept",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -81.633861,
+    38.347518,
+    -81.633861,
+    38.347518
+],
+  "geometry": {"coordinates":[-81.633861,38.347518],"type":"Point"}
+}

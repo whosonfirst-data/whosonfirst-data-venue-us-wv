@@ -1,0 +1,71 @@
+{
+  "id": 823426451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.335814,39.279953,-80.335814,39.279953",
+    "geom:latitude":39.279953,
+    "geom:longitude":-80.335814,
+    "iso:country":"US",
+    "sg:address":"134 W Pike St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 624 5962",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1L0hgnWNIl6eoG4m0hqFNK_39.279953_-80.335814@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433725,
+    "wof:geomhash":"4435811e0aead37dafd4d663efd3c04e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823426451
+        }
+    ],
+    "wof:id":823426451,
+    "wof:lastmodified":1463433725,
+    "wof:name":"Hobart Sales & Svc",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment"
+    ]
+},
+  "bbox": [
+    -80.335814,
+    39.279953,
+    -80.335814,
+    39.279953
+],
+  "geometry": {"coordinates":[-80.335814,39.279953],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 823452073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.931237,39.631495,-79.931237,39.631495",
+    "geom:latitude":39.631495,
+    "geom:longitude":-79.931237,
+    "iso:country":"US",
+    "sg:address":"1351 Sabraton Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 284 9227",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731747,
+        102082587,
+        85858573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WlHMHK3wtdQV9wrWBEhZx_39.631558_-79.931460@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463434894,
+    "wof:geomhash":"2b24ba6f4dafdb8a2d9411b9c413532b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731747,
+            "neighbourhood_id":85858573,
+            "region_id":85688589,
+            "venue_id":823452073
+        }
+    ],
+    "wof:id":823452073,
+    "wof:lastmodified":1463434894,
+    "wof:name":"Sabraton Auto Repair",
+    "wof:parent_id":85858573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -79.931237,
+    39.631495,
+    -79.931237,
+    39.631495
+],
+  "geometry": {"coordinates":[-79.931237,39.631495],"type":"Point"}
+}

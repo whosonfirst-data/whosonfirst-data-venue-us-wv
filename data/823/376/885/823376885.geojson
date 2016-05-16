@@ -1,0 +1,71 @@
+{
+  "id": 823376885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.565016,40.611607,-80.565016,40.611607",
+    "geom:latitude":40.611607,
+    "geom:longitude":-80.565016,
+    "iso:country":"US",
+    "sg:address":"340 Carolina Ave",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 0786",
+    "sg:postcode":"26034",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IlYzTCsW4ZSmGEL43cjiA_40.611607_-80.565016@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431501,
+    "wof:geomhash":"e556f0442c7527a60d3c03e177c1194e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823376885
+        }
+    ],
+    "wof:id":823376885,
+    "wof:lastmodified":1463431501,
+    "wof:name":"First Presbyterian Church",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -80.565016,
+    40.611607,
+    -80.565016,
+    40.611607
+],
+  "geometry": {"coordinates":[-80.565016,40.611607],"type":"Point"}
+}

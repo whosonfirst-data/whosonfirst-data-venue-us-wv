@@ -1,0 +1,74 @@
+{
+  "id": 823452461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.569564,38.314441,-81.569564,38.314441",
+    "geom:latitude":38.314441,
+    "geom:longitude":-81.569564,
+    "iso:country":"US",
+    "sg:address":"5615 Maccorkle Ave SE",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/belle/8687-hooters/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 926 8888",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "wing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OUFZhlfrPSsB3M8jcX8Gj_38.314441_-81.569564@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434908,
+    "wof:geomhash":"608ba7f8d8d362ce28aca4cab659549f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823452461
+        }
+    ],
+    "wof:id":823452461,
+    "wof:lastmodified":1463434908,
+    "wof:name":"Hooters",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing"
+    ]
+},
+  "bbox": [
+    -81.569564,
+    38.314441,
+    -81.569564,
+    38.314441
+],
+  "geometry": {"coordinates":[-81.569564,38.314441],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823416531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.962174,39.608541,-79.962174,39.608541",
+    "geom:latitude":39.608541,
+    "geom:longitude":-79.962174,
+    "iso:country":"US",
+    "sg:address":"446 Greenbag Rd",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 4416",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "federal",
+        "govt",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IzyDZ0qgLcP1XbM1ujI6j_39.608541_-79.962174@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433306,
+    "wof:geomhash":"902edbe8c8d2f9981bcf5dbdb28e08c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823416531
+        }
+    ],
+    "wof:id":823416531,
+    "wof:lastmodified":1463433306,
+    "wof:name":"Federal Correctional Institute",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "govt",
+        "institution"
+    ]
+},
+  "bbox": [
+    -79.962174,
+    39.608541,
+    -79.962174,
+    39.608541
+],
+  "geometry": {"coordinates":[-79.962174,39.608541],"type":"Point"}
+}

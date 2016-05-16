@@ -1,0 +1,71 @@
+{
+  "id": 823401043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.338819,39.279849,-80.338819,39.279849",
+    "geom:latitude":39.279849,
+    "geom:longitude":-80.338819,
+    "iso:country":"US",
+    "sg:address":"124 S 3rd St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 623 6339",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SLC1YkLOf0y8WPlofJsL1_39.279849_-80.338819@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432631,
+    "wof:geomhash":"73741afc449da9fdfba5de6c12f10ab5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823401043
+        }
+    ],
+    "wof:id":823401043,
+    "wof:lastmodified":1463432631,
+    "wof:name":"Pdq Print Shop Inc",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -80.338819,
+    39.279849,
+    -80.338819,
+    39.279849
+],
+  "geometry": {"coordinates":[-80.338819,39.279849],"type":"Point"}
+}

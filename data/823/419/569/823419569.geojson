@@ -1,0 +1,71 @@
+{
+  "id": 823419569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.035657,39.015588,-82.035657,39.015588",
+    "geom:latitude":39.015588,
+    "geom:longitude":-82.035657,
+    "iso:country":"US",
+    "sg:address":"839 2nd St",
+    "sg:city":"Mason",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 773 5721",
+    "sg:postcode":"25260",
+    "sg:province":"WV",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731555,
+        102082637,
+        85830595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tZ5QyMuHVXuCKnHRqdysu_39.015588_-82.035657@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433447,
+    "wof:geomhash":"3dab8c00c159a210b7ef464fb10e5ea7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082637,
+            "locality_id":101731555,
+            "neighbourhood_id":85830595,
+            "region_id":85688589,
+            "venue_id":823419569
+        }
+    ],
+    "wof:id":823419569,
+    "wof:lastmodified":1463433447,
+    "wof:name":"Bob's Market",
+    "wof:parent_id":85830595,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -82.035657,
+    39.015588,
+    -82.035657,
+    39.015588
+],
+  "geometry": {"coordinates":[-82.035657,39.015588],"type":"Point"}
+}

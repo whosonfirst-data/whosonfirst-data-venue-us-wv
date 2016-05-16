@@ -1,0 +1,73 @@
+{
+  "id": 823382029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.093235,37.364173,-81.093235,37.364173",
+    "geom:latitude":37.364173,
+    "geom:longitude":-81.093235,
+    "iso:country":"US",
+    "sg:address":"1121 Stafford Dr",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 9914",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XhSw5IUq3L7wqU13kH9Ib_37.364173_-81.093235@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431738,
+    "wof:geomhash":"8490d5e3314091f6d0b090e5ef7388ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823382029
+        }
+    ],
+    "wof:id":823382029,
+    "wof:lastmodified":1463431738,
+    "wof:name":"Rite Aid",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -81.093235,
+    37.364173,
+    -81.093235,
+    37.364173
+],
+  "geometry": {"coordinates":[-81.09323500000001,37.364173],"type":"Point"}
+}

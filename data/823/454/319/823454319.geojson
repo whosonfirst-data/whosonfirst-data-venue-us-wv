@@ -1,0 +1,71 @@
+{
+  "id": 823454319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.158046,37.345502,-81.158046,37.345502",
+    "geom:latitude":37.345502,
+    "geom:longitude":-81.158046,
+    "iso:country":"US",
+    "sg:address":"278 Timber Hill Dr",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Office Building",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 952 1593",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "park"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68R5Mq9BdK9SThF5bjY5OG_37.345502_-81.158046@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435015,
+    "wof:geomhash":"a18daf0cb702f86a54c10e297e5908da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823454319
+        }
+    ],
+    "wof:id":823454319,
+    "wof:lastmodified":1463435015,
+    "wof:name":"Bear Properties",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "park"
+    ]
+},
+  "bbox": [
+    -81.158046,
+    37.345502,
+    -81.158046,
+    37.345502
+],
+  "geometry": {"coordinates":[-81.158046,37.345502],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 823453477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.284754,39.273805,-80.284754,39.273805",
+    "geom:latitude":39.273805,
+    "geom:longitude":-80.284754,
+    "iso:country":"US",
+    "sg:address":"245 Emily Dr",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/bridgeport/65630-cicis-pizza-buffet/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 622 2396",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731625,
+        102082619,
+        85812589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lzxxy0oLFqLVSqW4GVquA_39.273805_-80.284754@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434949,
+    "wof:geomhash":"9f65bd1488efffee6ea1a43d2f36cb4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731625,
+            "neighbourhood_id":85812589,
+            "region_id":85688589,
+            "venue_id":823453477
+        }
+    ],
+    "wof:id":823453477,
+    "wof:lastmodified":1463434949,
+    "wof:name":"CiCi's Pizza Buffet",
+    "wof:parent_id":85812589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -80.284754,
+    39.273805,
+    -80.284754,
+    39.273805
+],
+  "geometry": {"coordinates":[-80.28475400000001,39.273805],"type":"Point"}
+}

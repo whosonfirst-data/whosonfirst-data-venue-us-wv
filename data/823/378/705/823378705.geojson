@@ -1,0 +1,84 @@
+{
+  "id": 823378705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.196932,37.767991,-81.196932,37.767991",
+    "geom:latitude":37.767991,
+    "geom:longitude":-81.196932,
+    "iso:country":"US",
+    "sg:address":"111 Randolph St",
+    "sg:city":"Beckley",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 253 1960",
+    "sg:postcode":"25801",
+    "sg:province":"WV",
+    "sg:tags":[
+        "therapist",
+        "physical",
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kwwjTBKk5KbAeaP2OngAE_37.767991_-81.196932@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431584,
+    "wof:geomhash":"a89ed8d3901d535524852af5bb4eeb15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823378705
+        }
+    ],
+    "wof:id":823378705,
+    "wof:lastmodified":1463431584,
+    "wof:name":"Marden Rehab Associates",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical",
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -81.196932,
+    37.767991,
+    -81.196932,
+    37.767991
+],
+  "geometry": {"coordinates":[-81.196932,37.767991],"type":"Point"}
+}

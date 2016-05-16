@@ -1,0 +1,76 @@
+{
+  "id": 823401933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.969109,39.455771,-77.969109,39.455771",
+    "geom:latitude":39.455771,
+    "geom:longitude":-77.969109,
+    "iso:country":"US",
+    "sg:address":"421 W John St",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 264 8779",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vPSLX8WVNQ6ww48ChVzeT_39.455771_-77.969109@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432670,
+    "wof:geomhash":"e6ad23baebe002aa5a5070aa769beb68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823401933
+        }
+    ],
+    "wof:id":823401933,
+    "wof:lastmodified":1463432670,
+    "wof:name":"Peyton's Place Hair Designs",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -77.969109,
+    39.455771,
+    -77.969109,
+    39.455771
+],
+  "geometry": {"coordinates":[-77.969109,39.455771],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 823454051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.387701,38.411168,-82.387701,38.411168",
+    "geom:latitude":38.411168,
+    "geom:longitude":-82.387701,
+    "iso:country":"US",
+    "sg:address":"3210 Washington Blvd",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/huntington/167473-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 522 3944",
+    "sg:postcode":"25705",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083329,
+        85868301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1paOQvCl3fNHv1c0onL702_38.411683_-82.387336@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434992,
+    "wof:geomhash":"b41fd11742d86600b7ee360696254b54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731553,
+            "neighbourhood_id":85868301,
+            "region_id":85688589,
+            "venue_id":823454051
+        }
+    ],
+    "wof:id":823454051,
+    "wof:lastmodified":1463434992,
+    "wof:name":"Burger King",
+    "wof:parent_id":85868301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -82.387701,
+    38.411168,
+    -82.387701,
+    38.411168
+],
+  "geometry": {"coordinates":[-82.38770100000001,38.411168],"type":"Point"}
+}

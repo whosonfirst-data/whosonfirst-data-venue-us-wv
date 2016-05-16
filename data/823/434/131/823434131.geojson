@@ -1,0 +1,71 @@
+{
+  "id": 823434131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.572322,38.253229,-81.572322,38.253229",
+    "geom:latitude":38.253229,
+    "geom:longitude":-81.572322,
+    "iso:country":"US",
+    "sg:address":"403 83rd St",
+    "sg:city":"Marmet",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 949 2806",
+    "sg:postcode":"25315",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NCuwptktDa2Sqjmuva2NA_38.253229_-81.572322@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434072,
+    "wof:geomhash":"a9cb4f7dc44dcbd7437ab1014f23f02d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823434131
+        }
+    ],
+    "wof:id":823434131,
+    "wof:lastmodified":1463434072,
+    "wof:name":"Vernon Price",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -81.572322,
+    38.253229,
+    -81.572322,
+    38.253229
+],
+  "geometry": {"coordinates":[-81.572322,38.253229],"type":"Point"}
+}

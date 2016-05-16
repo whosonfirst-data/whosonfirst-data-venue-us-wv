@@ -1,0 +1,68 @@
+{
+  "id": 823412249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.632515,38.352366,-81.632515,38.352366",
+    "geom:latitude":38.352366,
+    "geom:longitude":-81.632515,
+    "iso:country":"US",
+    "sg:address":"300 Summers St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 342 3234",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mfZceG7pspgDUBXpltOES_38.352366_-81.632515@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433112,
+    "wof:geomhash":"6c741c6b6b817d2a52432b3af8d25567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823412249
+        }
+    ],
+    "wof:id":823412249,
+    "wof:lastmodified":1463433112,
+    "wof:name":"Dodd Insurance",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.632515,
+    38.352366,
+    -81.632515,
+    38.352366
+],
+  "geometry": {"coordinates":[-81.632515,38.352366],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823405969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.849418,38.92299,-79.849418,38.92299",
+    "geom:latitude":38.92299,
+    "geom:longitude":-79.849418,
+    "iso:country":"US",
+    "sg:address":"120 1st St",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 4440",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2l0rtdqpfXBvCXZl5pG4kG_38.922990_-79.849418@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432857,
+    "wof:geomhash":"457973d84c158bc9ea120bccea3acc30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823405969
+        }
+    ],
+    "wof:id":823405969,
+    "wof:lastmodified":1463432857,
+    "wof:name":"Lohr & Barb Funeral Home",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -79.849418,
+    38.92299,
+    -79.849418,
+    38.92299
+],
+  "geometry": {"coordinates":[-79.849418,38.92299],"type":"Point"}
+}

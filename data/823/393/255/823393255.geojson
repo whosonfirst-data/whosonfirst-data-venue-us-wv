@@ -1,0 +1,71 @@
+{
+  "id": 823393255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.407888,39.203675,-80.407888,39.203675",
+    "geom:latitude":39.203675,
+    "geom:longitude":-80.407888,
+    "iso:country":"US",
+    "sg:address":"579 Main St",
+    "sg:city":"West Milford",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 745 3999",
+    "sg:postcode":"26451",
+    "sg:province":"WV",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85810773,
+        102082619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62EneDFMqfIAVMFzUV7TP3_39.203675_-80.407888@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432241,
+    "wof:geomhash":"5c1f27077b920944928fa3e2a4bd0f75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "neighbourhood_id":85810773,
+            "region_id":85688589,
+            "venue_id":823393255
+        }
+    ],
+    "wof:id":823393255,
+    "wof:lastmodified":1463432241,
+    "wof:name":"Ron's Used Car Sales 3 Lot",
+    "wof:parent_id":85810773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -80.407888,
+    39.203675,
+    -80.407888,
+    39.203675
+],
+  "geometry": {"coordinates":[-80.407888,39.203675],"type":"Point"}
+}

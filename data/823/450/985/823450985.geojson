@@ -1,0 +1,71 @@
+{
+  "id": 823450985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.959356,39.628732,-79.959356,39.628732",
+    "geom:latitude":39.628732,
+    "geom:longitude":-79.959356,
+    "iso:country":"US",
+    "sg:address":"1009 University Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 3311",
+    "sg:postcode":"26505",
+    "sg:province":"WV",
+    "sg:tags":[
+        "chambers",
+        "commerce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bXDhQO8SkyqKL2pRvYkqq_39.628732_-79.959356@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434851,
+    "wof:geomhash":"beebd9e69d0066daff30184a90c70936",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823450985
+        }
+    ],
+    "wof:id":823450985,
+    "wof:lastmodified":1463434851,
+    "wof:name":"Chamber Of Commerce",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chambers",
+        "commerce"
+    ]
+},
+  "bbox": [
+    -79.959356,
+    39.628732,
+    -79.959356,
+    39.628732
+],
+  "geometry": {"coordinates":[-79.959356,39.628732],"type":"Point"}
+}

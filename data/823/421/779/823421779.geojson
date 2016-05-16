@@ -1,0 +1,75 @@
+{
+  "id": 823421779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.110824,37.36322,-81.110824,37.36322",
+    "geom:latitude":37.36322,
+    "geom:longitude":-81.110824,
+    "iso:country":"US",
+    "sg:address":"116 12th St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 7600",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "organization",
+        "medical",
+        "surgical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kCXe2G0kmcRN5s2Q8cHuk_37.363220_-81.110824@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433534,
+    "wof:geomhash":"6ac2f24ac86f3567e02fd473883a74fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823421779
+        }
+    ],
+    "wof:id":823421779,
+    "wof:lastmodified":1463433534,
+    "wof:name":"Preferred Care Of The Va's",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "medical",
+        "surgical"
+    ]
+},
+  "bbox": [
+    -81.110824,
+    37.36322,
+    -81.110824,
+    37.36322
+],
+  "geometry": {"coordinates":[-81.11082399999999,37.36322],"type":"Point"}
+}

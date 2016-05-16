@@ -1,0 +1,80 @@
+{
+  "id": 823377167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.652662,38.369032,-81.652662,38.369032",
+    "geom:latitude":38.369032,
+    "geom:longitude":-81.652662,
+    "iso:country":"US",
+    "sg:address":"701 Garvin Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 296 8223",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "housing",
+        "apartment",
+        "authority"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IEhMlAFo55JdBkDAYwrKk_38.369032_-81.652662@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431517,
+    "wof:geomhash":"c719c3143427ce43eb719d7e2c497150",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823377167
+        }
+    ],
+    "wof:id":823377167,
+    "wof:lastmodified":1463431517,
+    "wof:name":"Highview Unity Apartments Inc",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housing",
+        "apartment",
+        "authority"
+    ]
+},
+  "bbox": [
+    -81.652662,
+    38.369032,
+    -81.652662,
+    38.369032
+],
+  "geometry": {"coordinates":[-81.65266200000001,38.369032],"type":"Point"}
+}

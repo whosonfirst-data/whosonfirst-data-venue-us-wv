@@ -1,0 +1,73 @@
+{
+  "id": 823415653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.971755,39.47596,-77.971755,39.47596",
+    "geom:latitude":39.47596,
+    "geom:longitude":-77.971755,
+    "iso:country":"US",
+    "sg:address":"103 Marcley Dr",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 263 0964",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85846047,
+        102083367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47VPRjxziGORQMEa1JVxfu_39.475960_-77.971755@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433265,
+    "wof:geomhash":"e4a2a9fc1555562f0174edf5b4eada6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "neighbourhood_id":85846047,
+            "region_id":85688589,
+            "venue_id":823415653
+        }
+    ],
+    "wof:id":823415653,
+    "wof:lastmodified":1463433265,
+    "wof:name":"BMA Martinburgs",
+    "wof:parent_id":85846047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ]
+},
+  "bbox": [
+    -77.971755,
+    39.47596,
+    -77.971755,
+    39.47596
+],
+  "geometry": {"coordinates":[-77.971755,39.47596],"type":"Point"}
+}

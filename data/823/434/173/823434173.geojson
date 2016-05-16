@@ -1,0 +1,73 @@
+{
+  "id": 823434173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.107635,37.380156,-81.107635,37.380156",
+    "geom:latitude":37.380156,
+    "geom:longitude":-81.107635,
+    "iso:country":"US",
+    "sg:address":"300 East Dr",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 4781",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60q1OZXkrIyQMMttzy4suC_37.380156_-81.107635@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434074,
+    "wof:geomhash":"1777ca08f8622861ba17164ba3c68098",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823434173
+        }
+    ],
+    "wof:id":823434173,
+    "wof:lastmodified":1463434074,
+    "wof:name":"Haun Auto Sales",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -81.107635,
+    37.380156,
+    -81.107635,
+    37.380156
+],
+  "geometry": {"coordinates":[-81.107635,37.380156],"type":"Point"}
+}

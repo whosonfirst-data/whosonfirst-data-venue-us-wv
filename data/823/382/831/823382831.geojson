@@ -1,0 +1,71 @@
+{
+  "id": 823382831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.846344,38.925905,-79.846344,38.925905",
+    "geom:latitude":38.925905,
+    "geom:longitude":-79.846344,
+    "iso:country":"US",
+    "sg:address":"324 Randolph Ave",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 1424",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NYrer5xJ7QOg0ENA5q93L_38.925905_-79.846344@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431768,
+    "wof:geomhash":"8dc61379ed60edc058124cbfcb6d3d8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823382831
+        }
+    ],
+    "wof:id":823382831,
+    "wof:lastmodified":1463431768,
+    "wof:name":"Mullens Law Office",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -79.846344,
+    38.925905,
+    -79.846344,
+    38.925905
+],
+  "geometry": {"coordinates":[-79.846344,38.925905],"type":"Point"}
+}

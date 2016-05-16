@@ -1,0 +1,75 @@
+{
+  "id": 823371505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.106951,39.490393,-80.106951,39.490393",
+    "geom:latitude":39.490393,
+    "geom:longitude":-80.106951,
+    "iso:country":"US",
+    "sg:address":"1800 Speedway St",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 367 5000",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "extruded",
+        "product",
+        "aluminum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vJISfWS6T5agkF0Qr9ebZ_39.490393_-80.106951@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431252,
+    "wof:geomhash":"c17b18e8ae722c7840b8d5277c2425ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823371505
+        }
+    ],
+    "wof:id":823371505,
+    "wof:lastmodified":1463431252,
+    "wof:name":"Alcan Aluminum Corp",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "extruded",
+        "product",
+        "aluminum"
+    ]
+},
+  "bbox": [
+    -80.106951,
+    39.490393,
+    -80.106951,
+    39.490393
+],
+  "geometry": {"coordinates":[-80.106951,39.490393],"type":"Point"}
+}

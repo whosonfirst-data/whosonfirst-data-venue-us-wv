@@ -1,0 +1,71 @@
+{
+  "id": 823386495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.568977,38.315453,-81.568977,38.315453",
+    "geom:latitude":38.315453,
+    "geom:longitude":-81.568977,
+    "iso:country":"US",
+    "sg:address":"5502 Noyes Ave",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 925 5266",
+    "sg:postcode":"25304",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85845161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4F68wf1PulHudf0NdRSpqV_38.315453_-81.568977@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431908,
+    "wof:geomhash":"d74bcac94f07415b7773fdfd44c69ed4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85845161,
+            "region_id":85688589,
+            "venue_id":823386495
+        }
+    ],
+    "wof:id":823386495,
+    "wof:lastmodified":1463431908,
+    "wof:name":"Westminster Presbyterian Chr",
+    "wof:parent_id":85845161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.568977,
+    38.315453,
+    -81.568977,
+    38.315453
+],
+  "geometry": {"coordinates":[-81.568977,38.315453],"type":"Point"}
+}

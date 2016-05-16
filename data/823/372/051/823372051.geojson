@@ -1,0 +1,73 @@
+{
+  "id": 823372051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.670946,38.476253,-81.670946,38.476253",
+    "geom:latitude":38.476253,
+    "geom:longitude":-81.670946,
+    "iso:country":"US",
+    "sg:address":"6302 Sissonville Dr",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 984 0016",
+    "sg:postcode":"25312",
+    "sg:province":"WV",
+    "sg:tags":[
+        "station",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3z2dgWvGQxF6ngkHS3K4p6_38.476253_-81.670946@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431285,
+    "wof:geomhash":"b2012e5017721890b786a85cb1c1e2df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823372051
+        }
+    ],
+    "wof:id":823372051,
+    "wof:lastmodified":1463431285,
+    "wof:name":"Go-Mart 79",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gas"
+    ]
+},
+  "bbox": [
+    -81.670946,
+    38.476253,
+    -81.670946,
+    38.476253
+],
+  "geometry": {"coordinates":[-81.670946,38.476253],"type":"Point"}
+}

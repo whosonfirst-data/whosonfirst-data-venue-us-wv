@@ -1,0 +1,71 @@
+{
+  "id": 823410257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.564548,38.358761,-82.564548,38.358761",
+    "geom:latitude":38.358761,
+    "geom:longitude":-82.564548,
+    "iso:country":"US",
+    "sg:address":"2151 Rte 75",
+    "sg:city":"Kenova",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 453 4621",
+    "sg:postcode":"25530",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731517,
+        102083365,
+        85806071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xcVJCmqZgmwgqTVv6ZRcV_38.358761_-82.564548@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433039,
+    "wof:geomhash":"fc016387b93dd4ea1c87f80301f32d07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083365,
+            "locality_id":101731517,
+            "neighbourhood_id":85806071,
+            "region_id":85688589,
+            "venue_id":823410257
+        }
+    ],
+    "wof:id":823410257,
+    "wof:lastmodified":1463433039,
+    "wof:name":"Adkins Air Conditioning & Htg",
+    "wof:parent_id":85806071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.564548,
+    38.358761,
+    -82.564548,
+    38.358761
+],
+  "geometry": {"coordinates":[-82.564548,38.358761],"type":"Point"}
+}

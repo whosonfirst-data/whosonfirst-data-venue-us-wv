@@ -1,0 +1,73 @@
+{
+  "id": 823423975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.101015,37.360464,-81.101015,37.360464",
+    "geom:latitude":37.360464,
+    "geom:longitude":-81.101015,
+    "iso:country":"US",
+    "sg:address":"1338 Stafford Dr",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 487 1023",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QShn1EwnpqsA67Zc4zB1a_37.360464_-81.101015@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433619,
+    "wof:geomhash":"419d17d5b48ed83d9350a2fd114e794b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823423975
+        }
+    ],
+    "wof:id":823423975,
+    "wof:lastmodified":1463433619,
+    "wof:name":"Sound Post",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [
+    -81.101015,
+    37.360464,
+    -81.101015,
+    37.360464
+],
+  "geometry": {"coordinates":[-81.101015,37.360464],"type":"Point"}
+}

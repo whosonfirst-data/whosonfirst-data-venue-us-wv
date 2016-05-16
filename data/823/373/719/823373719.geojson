@@ -1,0 +1,71 @@
+{
+  "id": 823373719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-78.037667,39.381426,-78.037667,39.381426",
+    "geom:latitude":39.381426,
+    "geom:longitude":-78.037667,
+    "iso:country":"US",
+    "sg:address":"192 Doe Run Rd",
+    "sg:city":"Inwood",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 229 1695",
+    "sg:postcode":"25428",
+    "sg:province":"WV",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1C2Zeo8budGo4PCVGUvkyE_39.381426_-78.037667@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431348,
+    "wof:geomhash":"99725bb05360e0b601e89609a348f228",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823373719
+        }
+    ],
+    "wof:id":823373719,
+    "wof:lastmodified":1463431348,
+    "wof:name":"Timber Ridge Heating & A/C",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -78.037667,
+    39.381426,
+    -78.037667,
+    39.381426
+],
+  "geometry": {"coordinates":[-78.037667,39.381426],"type":"Point"}
+}

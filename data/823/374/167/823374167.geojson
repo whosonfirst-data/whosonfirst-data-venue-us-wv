@@ -1,0 +1,73 @@
+{
+  "id": 823374167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.106287,37.369752,-81.106287,37.369752",
+    "geom:latitude":37.369752,
+    "geom:longitude":-81.106287,
+    "iso:country":"US",
+    "sg:address":"300 N Johnston St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 7517",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "high",
+        "junior"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1b2N7YvnfXaiFFqmLbYeEE_37.369752_-81.106287@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431365,
+    "wof:geomhash":"5066c31cb3acd871c0f896d8ec8dfb27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823374167
+        }
+    ],
+    "wof:id":823374167,
+    "wof:lastmodified":1463431365,
+    "wof:name":"Princeton Middle School",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "junior"
+    ]
+},
+  "bbox": [
+    -81.106287,
+    37.369752,
+    -81.106287,
+    37.369752
+],
+  "geometry": {"coordinates":[-81.10628699999999,37.369752],"type":"Point"}
+}

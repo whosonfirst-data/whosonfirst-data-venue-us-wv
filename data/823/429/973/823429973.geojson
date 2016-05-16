@@ -1,0 +1,73 @@
+{
+  "id": 823429973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.020172,39.34098,-80.020172,39.34098",
+    "geom:latitude":39.34098,
+    "geom:longitude":-80.020172,
+    "iso:country":"US",
+    "sg:address":"214 W Main St",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 265 3211",
+    "sg:postcode":"26354",
+    "sg:province":"WV",
+    "sg:tags":[
+        "county",
+        "counsel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731717,
+        102083351,
+        85849697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iTpXsyd5VkNr77ErIiHkw_39.340980_-80.020172@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433882,
+    "wof:geomhash":"9ffd7d9ce14e2caf250ef5e8e690f5f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083351,
+            "locality_id":101731717,
+            "neighbourhood_id":85849697,
+            "region_id":85688589,
+            "venue_id":823429973
+        }
+    ],
+    "wof:id":823429973,
+    "wof:lastmodified":1463433882,
+    "wof:name":"Taylor County Prosecuting Atty",
+    "wof:parent_id":85849697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "counsel"
+    ]
+},
+  "bbox": [
+    -80.020172,
+    39.34098,
+    -80.020172,
+    39.34098
+],
+  "geometry": {"coordinates":[-80.020172,39.34098],"type":"Point"}
+}

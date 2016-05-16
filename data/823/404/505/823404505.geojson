@@ -1,0 +1,71 @@
+{
+  "id": 823404505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.026118,38.430924,-82.026118,38.430924",
+    "geom:latitude":38.430924,
+    "geom:longitude":-82.026118,
+    "iso:country":"US",
+    "sg:address":"2660 Main St",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 397 4001",
+    "sg:postcode":"25526",
+    "sg:province":"WV",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731829,
+        102083381,
+        85868321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5O71WJyABFrf1j3Dl3N4DE_38.430924_-82.026118@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432787,
+    "wof:geomhash":"d085ed861ffd025853e6abc04df71b57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731829,
+            "neighbourhood_id":85868321,
+            "region_id":85688589,
+            "venue_id":823404505
+        }
+    ],
+    "wof:id":823404505,
+    "wof:lastmodified":1463432787,
+    "wof:name":"Old House",
+    "wof:parent_id":85868321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -82.026118,
+    38.430924,
+    -82.026118,
+    38.430924
+],
+  "geometry": {"coordinates":[-82.026118,38.430924],"type":"Point"}
+}

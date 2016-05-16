@@ -1,0 +1,69 @@
+{
+  "id": 823420435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.991569,37.846872,-81.991569,37.846872",
+    "geom:latitude":37.846872,
+    "geom:longitude":-81.991569,
+    "iso:country":"US",
+    "sg:address":"329 Main St",
+    "sg:city":"Red Jacket",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 426 6428",
+    "sg:postcode":"25601",
+    "sg:province":"WV",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868319,
+        102083369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eoq5CbZK4jVpf7x4BeoPf_37.846872_-81.991569@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433485,
+    "wof:geomhash":"9f4d91a4ba9f4dc2e704a3e2de9f3ff4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083369,
+            "neighbourhood_id":85868319,
+            "region_id":85688589,
+            "venue_id":823420435
+        }
+    ],
+    "wof:id":823420435,
+    "wof:lastmodified":1463433485,
+    "wof:name":"Matewan Red Jacket Med Clinic",
+    "wof:parent_id":85868319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -81.991569,
+    37.846872,
+    -81.991569,
+    37.846872
+],
+  "geometry": {"coordinates":[-81.991569,37.846872],"type":"Point"}
+}

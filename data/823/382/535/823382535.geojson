@@ -1,0 +1,71 @@
+{
+  "id": 823382535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.947025,39.620528,-79.947025,39.620528",
+    "geom:latitude":39.620528,
+    "geom:longitude":-79.947025,
+    "iso:country":"US",
+    "sg:address":"552 White Ave",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 292 8270",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85826231,
+        102082587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3q9irxZzhMqeSJLpjXjWC9_39.620528_-79.947025@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431758,
+    "wof:geomhash":"ef604f8f11a28f3496f789c47efb3054",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "neighbourhood_id":85826231,
+            "region_id":85688589,
+            "venue_id":823382535
+        }
+    ],
+    "wof:id":823382535,
+    "wof:lastmodified":1463431758,
+    "wof:name":"JB Edge Inc",
+    "wof:parent_id":85826231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -79.947025,
+    39.620528,
+    -79.947025,
+    39.620528
+],
+  "geometry": {"coordinates":[-79.947025,39.620528],"type":"Point"}
+}

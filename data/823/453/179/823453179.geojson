@@ -1,0 +1,73 @@
+{
+  "id": 823453179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.890459,37.670834,-80.890459,37.670834",
+    "geom:latitude":37.670834,
+    "geom:longitude":-80.890459,
+    "iso:country":"US",
+    "sg:address":"107 Main St",
+    "sg:city":"Hinton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/bluestone-river/206394-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"25951",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731641,
+        102083407,
+        85804037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45JiKRLKrD40FQFBgK1gdV_37.670834_-80.890459@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434937,
+    "wof:geomhash":"441d081bd6d97a9fa0a34269434cf64a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083407,
+            "locality_id":101731641,
+            "neighbourhood_id":85804037,
+            "region_id":85688589,
+            "venue_id":823453179
+        }
+    ],
+    "wof:id":823453179,
+    "wof:lastmodified":1463434937,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85804037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -80.890459,
+    37.670834,
+    -80.890459,
+    37.670834
+],
+  "geometry": {"coordinates":[-80.89045900000001,37.670834],"type":"Point"}
+}

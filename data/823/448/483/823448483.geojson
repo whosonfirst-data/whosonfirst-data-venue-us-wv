@@ -1,0 +1,72 @@
+{
+  "id": 823448483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-79.849561,38.925194,-79.849561,38.925194",
+    "geom:latitude":38.925194,
+    "geom:longitude":-79.849561,
+    "iso:country":"US",
+    "sg:address":"314 Davis Ave",
+    "sg:city":"Elkins",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 636 6000",
+    "sg:postcode":"26241",
+    "sg:province":"WV",
+    "sg:tags":[
+        "drinking"
+    ],
+    "sg:website":"www.beandersatduenorth.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731737,
+        102083361,
+        85824079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TnUSq5f4RWlh4CEBljIWl_38.925194_-79.849561@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434759,
+    "wof:geomhash":"516d244b642c0e9c428f5090657b9b3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083361,
+            "locality_id":101731737,
+            "neighbourhood_id":85824079,
+            "region_id":85688589,
+            "venue_id":823448483
+        }
+    ],
+    "wof:id":823448483,
+    "wof:lastmodified":1463434759,
+    "wof:name":"Beander's",
+    "wof:parent_id":85824079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -79.849561,
+    38.925194,
+    -79.849561,
+    38.925194
+],
+  "geometry": {"coordinates":[-79.84956099999999,38.925194],"type":"Point"}
+}

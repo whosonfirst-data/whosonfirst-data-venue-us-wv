@@ -1,0 +1,73 @@
+{
+  "id": 823443089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.938626,38.44916,-81.938626,38.44916",
+    "geom:latitude":38.44916,
+    "geom:longitude":-81.938626,
+    "iso:country":"US",
+    "sg:address":"4000 Teays Valley Rd",
+    "sg:city":"Scott Depot",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 757 4100",
+    "sg:postcode":"25560",
+    "sg:province":"WV",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731829,
+        102083381,
+        85868321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36sjbfz9qUeAgxSozv1NwS_38.449160_-81.938626@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434503,
+    "wof:geomhash":"ea093de4d872db18b84bce68a1ff7d31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731829,
+            "neighbourhood_id":85868321,
+            "region_id":85688589,
+            "venue_id":823443089
+        }
+    ],
+    "wof:id":823443089,
+    "wof:lastmodified":1463434503,
+    "wof:name":"High Density Computing",
+    "wof:parent_id":85868321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -81.938626,
+    38.44916,
+    -81.938626,
+    38.44916
+],
+  "geometry": {"coordinates":[-81.938626,38.44916],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 823439193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.625334,38.347852,-81.625334,38.347852",
+    "geom:latitude":38.347852,
+    "geom:longitude":-81.625334,
+    "iso:country":"US",
+    "sg:address":"501 Morris St",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 388 6301",
+    "sg:postcode":"25301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731793,
+        102083335,
+        85816783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DK9I6bWphSAS2lwYV3Awc_38.347852_-81.625334@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434333,
+    "wof:geomhash":"0e1da1fb2f8ca77912fe08ae3fb936cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85816783,
+            "region_id":85688589,
+            "venue_id":823439193
+        }
+    ],
+    "wof:id":823439193,
+    "wof:lastmodified":1463434333,
+    "wof:name":"Medical Rehabilitation Center",
+    "wof:parent_id":85816783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -81.625334,
+    38.347852,
+    -81.625334,
+    38.347852
+],
+  "geometry": {"coordinates":[-81.625334,38.347852],"type":"Point"}
+}

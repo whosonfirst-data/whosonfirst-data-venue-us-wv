@@ -1,0 +1,78 @@
+{
+  "id": 823433933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.646236,38.365183,-81.646236,38.365183",
+    "geom:latitude":38.365183,
+    "geom:longitude":-81.646236,
+    "iso:country":"US",
+    "sg:address":"619 Lee St W",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 345 8840",
+    "sg:postcode":"25302",
+    "sg:province":"WV",
+    "sg:tags":[
+        "network",
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85856363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6U6znK6YMl0Wl4Uw7iPzKO_38.365183_-81.646236@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434059,
+    "wof:geomhash":"6501f1d2cc044f3b402fec453873d718",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85856363,
+            "region_id":85688589,
+            "venue_id":823433933
+        }
+    ],
+    "wof:id":823433933,
+    "wof:lastmodified":1463434059,
+    "wof:name":"Quinn Communications Inc",
+    "wof:parent_id":85856363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "network",
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -81.646236,
+    38.365183,
+    -81.646236,
+    38.365183
+],
+  "geometry": {"coordinates":[-81.646236,38.365183],"type":"Point"}
+}

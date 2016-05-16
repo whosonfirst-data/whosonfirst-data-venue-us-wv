@@ -1,0 +1,73 @@
+{
+  "id": 823438569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.73829,38.358371,-81.73829,38.358371",
+    "geom:latitude":38.358371,
+    "geom:longitude":-81.73829,
+    "iso:country":"US",
+    "sg:address":"1100 Grosscup Ave",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 757 3131",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rQvPO6aVUZd9060NbYNid_38.358371_-81.738290@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434305,
+    "wof:geomhash":"70482fd71fd4cbdbbe7c0b87ff7c25b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823438569
+        }
+    ],
+    "wof:id":823438569,
+    "wof:lastmodified":1463434305,
+    "wof:name":"John W Neville Jr MD",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.73829,
+    38.358371,
+    -81.73829,
+    38.358371
+],
+  "geometry": {"coordinates":[-81.73829000000001,38.358371],"type":"Point"}
+}

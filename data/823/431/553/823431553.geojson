@@ -1,0 +1,71 @@
+{
+  "id": 823431553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.123744,39.479206,-80.123744,39.479206",
+    "geom:latitude":39.479206,
+    "geom:longitude":-80.123744,
+    "iso:country":"US",
+    "sg:address":"916 Morgantown Ave",
+    "sg:city":"Fairmont",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 363 2251",
+    "sg:postcode":"26554",
+    "sg:province":"WV",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731483,
+        102082601,
+        85821233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jVUd7NRinpjA0wQIApagE_39.479206_-80.123744@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433946,
+    "wof:geomhash":"8e23eeb3437c780fe1ca27ef030aa789",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082601,
+            "locality_id":101731483,
+            "neighbourhood_id":85821233,
+            "region_id":85688589,
+            "venue_id":823431553
+        }
+    ],
+    "wof:id":823431553,
+    "wof:lastmodified":1463433946,
+    "wof:name":"Fairmont Fire Dept",
+    "wof:parent_id":85821233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -80.123744,
+    39.479206,
+    -80.123744,
+    39.479206
+],
+  "geometry": {"coordinates":[-80.123744,39.479206],"type":"Point"}
+}

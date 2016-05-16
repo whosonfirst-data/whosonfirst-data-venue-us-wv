@@ -1,0 +1,73 @@
+{
+  "id": 823437519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.136626,38.832827,-82.136626,38.832827",
+    "geom:latitude":38.832827,
+    "geom:longitude":-82.136626,
+    "iso:country":"US",
+    "sg:address":"300 Wilson St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 675 2531",
+    "sg:postcode":"25106",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688485,
+        85633793,
+        85983229,
+        102083675,
+        85824533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62n2GNsXobiCrvTegCMdkw_38.832827_-82.136626@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434259,
+    "wof:geomhash":"a21c363de6ea853180c3ffe119a1144a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083675,
+            "locality_id":85983229,
+            "neighbourhood_id":85824533,
+            "region_id":85688485,
+            "venue_id":823437519
+        }
+    ],
+    "wof:id":823437519,
+    "wof:lastmodified":1463434259,
+    "wof:name":"Neville Automotive",
+    "wof:parent_id":85824533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -82.136626,
+    38.832827,
+    -82.136626,
+    38.832827
+],
+  "geometry": {"coordinates":[-82.13662600000001,38.832827],"type":"Point"}
+}

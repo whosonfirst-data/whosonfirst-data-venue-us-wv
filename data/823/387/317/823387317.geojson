@@ -1,0 +1,79 @@
+{
+  "id": 823387317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.68956,40.078028,-80.68956,40.078028",
+    "geom:latitude":40.078028,
+    "geom:longitude":-80.68956,
+    "iso:country":"US",
+    "sg:address":"1000 National Rd",
+    "sg:city":"Wheeling",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 232 8596",
+    "sg:postcode":"26003",
+    "sg:province":"WV",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101731295,
+        102082621,
+        85830083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xAqVyzuNsHF3RKZQ1L5Kh_40.078028_-80.689560@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431940,
+    "wof:geomhash":"5c5a82189ecb2e24cf403d1e773e7059",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082621,
+            "locality_id":101731295,
+            "neighbourhood_id":85830083,
+            "region_id":85688589,
+            "venue_id":823387317
+        }
+    ],
+    "wof:id":823387317,
+    "wof:lastmodified":1463431940,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85830083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -80.68956,
+    40.078028,
+    -80.68956,
+    40.078028
+],
+  "geometry": {"coordinates":[-80.68956,40.078028],"type":"Point"}
+}

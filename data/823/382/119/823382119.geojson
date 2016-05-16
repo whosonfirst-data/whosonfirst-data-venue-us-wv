@@ -1,0 +1,71 @@
+{
+  "id": 823382119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.038534,39.148285,-80.038534,39.148285",
+    "geom:latitude":39.148285,
+    "geom:longitude":-80.038534,
+    "iso:country":"US",
+    "sg:address":"212 Chestnut St",
+    "sg:city":"Philippi",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 457 5193",
+    "sg:postcode":"26416",
+    "sg:province":"WV",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0efSuG4XB28VdpXiKffSyp_39.148285_-80.038534@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431742,
+    "wof:geomhash":"6578e41fc6b1b35cc49a33b046cda731",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823382119
+        }
+    ],
+    "wof:id":823382119,
+    "wof:lastmodified":1463431742,
+    "wof:name":"Baughman Towers",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -80.038534,
+    39.148285,
+    -80.038534,
+    39.148285
+],
+  "geometry": {"coordinates":[-80.038534,39.148285],"type":"Point"}
+}

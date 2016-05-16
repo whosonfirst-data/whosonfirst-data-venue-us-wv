@@ -1,0 +1,73 @@
+{
+  "id": 823403379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.480959,38.405258,-81.480959,38.405258",
+    "geom:latitude":38.405258,
+    "geom:longitude":-81.480959,
+    "iso:country":"US",
+    "sg:address":"290 S Pinch Rd",
+    "sg:city":"Elkview",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 965 3380",
+    "sg:postcode":"25071",
+    "sg:province":"WV",
+    "sg:tags":[
+        "truck",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731793,
+        102083335,
+        85806307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69N1ot0ARc7IR1To5pep0t_38.405258_-81.480959@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432727,
+    "wof:geomhash":"bef4bfc6d848432d8383f71bcfabdff9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731793,
+            "neighbourhood_id":85806307,
+            "region_id":85688589,
+            "venue_id":823403379
+        }
+    ],
+    "wof:id":823403379,
+    "wof:lastmodified":1463432727,
+    "wof:name":"Riffle Truck & Trailer",
+    "wof:parent_id":85806307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "general"
+    ]
+},
+  "bbox": [
+    -81.480959,
+    38.405258,
+    -81.480959,
+    38.405258
+],
+  "geometry": {"coordinates":[-81.480959,38.405258],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823389367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.031614,39.143155,-80.031614,39.143155",
+    "geom:latitude":39.143155,
+    "geom:longitude":-80.031614,
+    "iso:country":"US",
+    "sg:address":"340 S Main St",
+    "sg:city":"Philippi",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 457 2800",
+    "sg:postcode":"26416",
+    "sg:province":"WV",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731283,
+        102082593,
+        85832167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wFVjt9QdFmfymA58gRkO9_39.143155_-80.031614@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432049,
+    "wof:geomhash":"24fe034b577eaaed8165a329310da83c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082593,
+            "locality_id":101731283,
+            "neighbourhood_id":85832167,
+            "region_id":85688589,
+            "venue_id":823389367
+        }
+    ],
+    "wof:id":823389367,
+    "wof:lastmodified":1463432049,
+    "wof:name":"Mary Myers MD",
+    "wof:parent_id":85832167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -80.031614,
+    39.143155,
+    -80.031614,
+    39.143155
+],
+  "geometry": {"coordinates":[-80.031614,39.143155],"type":"Point"}
+}

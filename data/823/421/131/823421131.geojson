@@ -1,0 +1,71 @@
+{
+  "id": 823421131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.987749,39.458213,-77.987749,39.458213",
+    "geom:latitude":39.458213,
+    "geom:longitude":-77.987749,
+    "iso:country":"US",
+    "sg:address":"910 Foxcroft Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 267 9913",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "optician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DPd2dWiAJCvP27frQDAJo_39.458213_-77.987749@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433510,
+    "wof:geomhash":"58be879aa16a97733a4a2e2edd612f64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823421131
+        }
+    ],
+    "wof:id":823421131,
+    "wof:lastmodified":1463433510,
+    "wof:name":"Stamper Optical",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "optician"
+    ]
+},
+  "bbox": [
+    -77.987749,
+    39.458213,
+    -77.987749,
+    39.458213
+],
+  "geometry": {"coordinates":[-77.98774899999999,39.458213],"type":"Point"}
+}

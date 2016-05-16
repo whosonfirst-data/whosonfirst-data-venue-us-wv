@@ -1,0 +1,75 @@
+{
+  "id": 823402861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.739461,38.360927,-81.739461,38.360927",
+    "geom:latitude":38.360927,
+    "geom:longitude":-81.739461,
+    "iso:country":"US",
+    "sg:address":"406 12th St",
+    "sg:city":"Dunbar",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 766 8225",
+    "sg:postcode":"25064",
+    "sg:province":"WV",
+    "sg:tags":[
+        "carwash",
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Rroq7qvws6pgUdGGpHP8Z_38.360927_-81.739461@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432706,
+    "wof:geomhash":"567093f99640f930beb3d49519f01776",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823402861
+        }
+    ],
+    "wof:id":823402861,
+    "wof:lastmodified":1463432706,
+    "wof:name":"Wanda's Car Wash",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash",
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -81.739461,
+    38.360927,
+    -81.739461,
+    38.360927
+],
+  "geometry": {"coordinates":[-81.73946100000001,38.360927],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823440649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.204623,39.390094,-81.204623,39.390094",
+    "geom:latitude":39.390094,
+    "geom:longitude":-81.204623,
+    "iso:country":"US",
+    "sg:address":"310 Washington St",
+    "sg:city":"St Marys",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 684 7669",
+    "sg:postcode":"26170",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731565,
+        102083345,
+        85814229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KD7U8J9Gq1Sn3gfQ54Eky_39.390094_-81.204623@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434389,
+    "wof:geomhash":"f06f4899c8f8559b947a90804d4fe1a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083345,
+            "locality_id":101731565,
+            "neighbourhood_id":85814229,
+            "region_id":85688589,
+            "venue_id":823440649
+        }
+    ],
+    "wof:id":823440649,
+    "wof:lastmodified":1463434389,
+    "wof:name":"St John's Catholic Church",
+    "wof:parent_id":85814229,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.204623,
+    39.390094,
+    -81.204623,
+    39.390094
+],
+  "geometry": {"coordinates":[-81.204623,39.390094],"type":"Point"}
+}

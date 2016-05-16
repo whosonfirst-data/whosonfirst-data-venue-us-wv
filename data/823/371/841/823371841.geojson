@@ -1,0 +1,71 @@
+{
+  "id": 823371841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.020788,38.428481,-82.020788,38.428481",
+    "geom:latitude":38.428481,
+    "geom:longitude":-82.020788,
+    "iso:country":"US",
+    "sg:address":"421 High School Ave",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 562 6439",
+    "sg:postcode":"25526",
+    "sg:province":"WV",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731829,
+        102083381,
+        85868321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07ApWNX5peC6XQqcWt045K_38.428481_-82.020788@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431277,
+    "wof:geomhash":"2cfb427323d9192d3a7f88ad098f8dcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "locality_id":101731829,
+            "neighbourhood_id":85868321,
+            "region_id":85688589,
+            "venue_id":823371841
+        }
+    ],
+    "wof:id":823371841,
+    "wof:lastmodified":1463431277,
+    "wof:name":"ID T Services",
+    "wof:parent_id":85868321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -82.020788,
+    38.428481,
+    -82.020788,
+    38.428481
+],
+  "geometry": {"coordinates":[-82.020788,38.428481],"type":"Point"}
+}

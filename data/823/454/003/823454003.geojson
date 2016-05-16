@@ -1,0 +1,76 @@
+{
+  "id": 823454003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.980006,39.447663,-77.980006,39.447663",
+    "geom:latitude":39.447663,
+    "geom:longitude":-77.980006,
+    "iso:country":"US",
+    "sg:address":"1002 Winchester Ave",
+    "sg:city":"Martinsburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/adam-stephens/80462-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 267 7600",
+    "sg:postcode":"25401",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731377,
+        102083367,
+        85806921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2brQVpYLJSWDwgjeuzjjip_39.447449_-77.980037@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463434990,
+    "wof:geomhash":"b03f2ff05efdd278874b874e55cae113",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083367,
+            "locality_id":101731377,
+            "neighbourhood_id":85806921,
+            "region_id":85688589,
+            "venue_id":823454003
+        }
+    ],
+    "wof:id":823454003,
+    "wof:lastmodified":1463434990,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85806921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -77.980006,
+    39.447663,
+    -77.980006,
+    39.447663
+],
+  "geometry": {"coordinates":[-77.980006,39.447663],"type":"Point"}
+}

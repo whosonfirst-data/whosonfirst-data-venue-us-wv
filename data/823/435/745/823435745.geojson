@@ -1,0 +1,73 @@
+{
+  "id": 823435745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.326497,38.39562,-82.326497,38.39562",
+    "geom:latitude":38.39562,
+    "geom:longitude":-82.326497,
+    "iso:country":"US",
+    "sg:address":"5850 Davis Creek Rd",
+    "sg:city":"Barboursville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 736 4599",
+    "sg:postcode":"25504",
+    "sg:province":"WV",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731837,
+        102083329,
+        85865435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NZ2aaZdmHgze8bCJYtbYy_38.395620_-82.326497@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434155,
+    "wof:geomhash":"ff3205c32cab35a0af0cc7ecfef721a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731837,
+            "neighbourhood_id":85865435,
+            "region_id":85688589,
+            "venue_id":823435745
+        }
+    ],
+    "wof:id":823435745,
+    "wof:lastmodified":1463434155,
+    "wof:name":"Muth's Auto Ctr",
+    "wof:parent_id":85865435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -82.326497,
+    38.39562,
+    -82.326497,
+    38.39562
+],
+  "geometry": {"coordinates":[-82.326497,38.39562],"type":"Point"}
+}

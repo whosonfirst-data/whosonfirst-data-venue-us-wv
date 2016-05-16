@@ -1,0 +1,73 @@
+{
+  "id": 823419437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.889699,38.479237,-81.889699,38.479237",
+    "geom:latitude":38.479237,
+    "geom:longitude":-81.889699,
+    "iso:country":"US",
+    "sg:address":"228 Rocky Step Rd",
+    "sg:city":"Scott Depot",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 757 6024",
+    "sg:postcode":"25560",
+    "sg:province":"WV",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        85868323,
+        102083381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uEN25rf3gdgwwK0OUlPKg_38.479237_-81.889699@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433442,
+    "wof:geomhash":"b3c9d6ee7114d53785c86103e6c661fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083381,
+            "neighbourhood_id":85868323,
+            "region_id":85688589,
+            "venue_id":823419437
+        }
+    ],
+    "wof:id":823419437,
+    "wof:lastmodified":1463433442,
+    "wof:name":"D & D Trucking",
+    "wof:parent_id":85868323,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -81.889699,
+    38.479237,
+    -81.889699,
+    38.479237
+],
+  "geometry": {"coordinates":[-81.88969899999999,38.479237],"type":"Point"}
+}

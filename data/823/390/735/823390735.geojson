@@ -1,0 +1,71 @@
+{
+  "id": 823390735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.556061,39.239696,-81.556061,39.239696",
+    "geom:latitude":39.239696,
+    "geom:longitude":-81.556061,
+    "iso:country":"US",
+    "sg:address":"1905 Gladstone St",
+    "sg:city":"Parkersburg",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 428 5740",
+    "sg:postcode":"26101",
+    "sg:province":"WV",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731687,
+        102083343,
+        85849931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lSMaWU4JZ0LWtTVF6HjBy_39.239696_-81.556061@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432110,
+    "wof:geomhash":"a2f2100bd9f9ac99203f7c3dfceaefac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083343,
+            "locality_id":101731687,
+            "neighbourhood_id":85849931,
+            "region_id":85688589,
+            "venue_id":823390735
+        }
+    ],
+    "wof:id":823390735,
+    "wof:lastmodified":1463432110,
+    "wof:name":"ABC Child Care",
+    "wof:parent_id":85849931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -81.556061,
+    39.239696,
+    -81.556061,
+    39.239696
+],
+  "geometry": {"coordinates":[-81.556061,39.239696],"type":"Point"}
+}

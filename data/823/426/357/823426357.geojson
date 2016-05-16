@@ -1,0 +1,75 @@
+{
+  "id": 823426357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.250934,37.709282,-81.250934,37.709282",
+    "geom:latitude":37.709282,
+    "geom:longitude":-81.250934,
+    "iso:country":"US",
+    "sg:address":"103 Front St",
+    "sg:city":"Hinton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 466 4099",
+    "sg:postcode":"25921",
+    "sg:province":"WV",
+    "sg:tags":[
+        "transmission",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        102191575,
+        85633793,
+        101732009,
+        102083349,
+        85805185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ERkRx0kxXHlO3pQifz23Z_37.709282_-81.250934@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433721,
+    "wof:geomhash":"c2ed89329e7c2a52d02a953e532909db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083349,
+            "locality_id":101732009,
+            "neighbourhood_id":85805185,
+            "region_id":85688589,
+            "venue_id":823426357
+        }
+    ],
+    "wof:id":823426357,
+    "wof:lastmodified":1463433721,
+    "wof:name":"Cales Garage",
+    "wof:parent_id":85805185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "general"
+    ]
+},
+  "bbox": [
+    -81.250934,
+    37.709282,
+    -81.250934,
+    37.709282
+],
+  "geometry": {"coordinates":[-81.250934,37.709282],"type":"Point"}
+}

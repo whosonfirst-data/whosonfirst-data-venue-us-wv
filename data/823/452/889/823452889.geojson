@@ -1,0 +1,76 @@
+{
+  "id": 823452889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.40066,38.391636,-82.40066,38.391636",
+    "geom:latitude":38.391636,
+    "geom:longitude":-82.40066,
+    "iso:country":"US",
+    "sg:address":"3080 16th Street Rd",
+    "sg:city":"Huntington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/hodges/195895-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 525 3851",
+    "sg:postcode":"25701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731553,
+        102083329,
+        85868309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_001sedwjsK5p1VJiNfRzCl_38.391636_-82.400660@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434924,
+    "wof:geomhash":"6f74629abc24124c8c85c0358a766fb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083329,
+            "locality_id":101731553,
+            "neighbourhood_id":85868309,
+            "region_id":85688589,
+            "venue_id":823452889
+        }
+    ],
+    "wof:id":823452889,
+    "wof:lastmodified":1463434924,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85868309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -82.40066,
+    38.391636,
+    -82.40066,
+    38.391636
+],
+  "geometry": {"coordinates":[-82.40066,38.391636],"type":"Point"}
+}

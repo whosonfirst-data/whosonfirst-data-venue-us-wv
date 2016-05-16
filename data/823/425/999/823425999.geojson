@@ -1,0 +1,73 @@
+{
+  "id": 823425999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.11585,37.369565,-81.11585,37.369565",
+    "geom:latitude":37.369565,
+    "geom:longitude":-81.11585,
+    "iso:country":"US",
+    "sg:address":"4001 W Main St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 2557",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "food",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WgAt5Uvtzw5wm07Zeqf7H_37.369565_-81.115850@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433707,
+    "wof:geomhash":"0b2049fa7b940ccb84d26910c37543ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823425999
+        }
+    ],
+    "wof:id":823425999,
+    "wof:lastmodified":1463433707,
+    "wof:name":"Tender Mercies Ministries",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "product"
+    ]
+},
+  "bbox": [
+    -81.11585,
+    37.369565,
+    -81.11585,
+    37.369565
+],
+  "geometry": {"coordinates":[-81.11584999999999,37.369565],"type":"Point"}
+}

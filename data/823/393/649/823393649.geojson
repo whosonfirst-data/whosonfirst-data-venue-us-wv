@@ -1,0 +1,71 @@
+{
+  "id": 823393649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.107803,37.347638,-81.107803,37.347638",
+    "geom:latitude":37.347638,
+    "geom:longitude":-81.107803,
+    "iso:country":"US",
+    "sg:address":"109 Willowbrook Rd",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 4444",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SmqgpRpFO16E1V41fBS0G_37.347638_-81.107803@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432257,
+    "wof:geomhash":"ef9cc681a51bf09047d3cc7d51815904",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823393649
+        }
+    ],
+    "wof:id":823393649,
+    "wof:lastmodified":1463432257,
+    "wof:name":"Mountain State Baptist Assn",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.107803,
+    37.347638,
+    -81.107803,
+    37.347638
+],
+  "geometry": {"coordinates":[-81.107803,37.347638],"type":"Point"}
+}

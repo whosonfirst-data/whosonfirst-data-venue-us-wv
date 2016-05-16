@@ -1,0 +1,75 @@
+{
+  "id": 823443065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.008419,39.348314,-80.008419,39.348314",
+    "geom:latitude":39.348314,
+    "geom:longitude":-80.008419,
+    "iso:country":"US",
+    "sg:address":"471 N Pike St",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 265 1264",
+    "sg:postcode":"26354",
+    "sg:province":"WV",
+    "sg:tags":[
+        "polishing",
+        "carwash",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731717,
+        102083351,
+        85849697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ewBebu3Yig5KmQqgX51Hj_39.348314_-80.008419@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434501,
+    "wof:geomhash":"3b00a7b6a3b6e0a0b6369c0ea686c2fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083351,
+            "locality_id":101731717,
+            "neighbourhood_id":85849697,
+            "region_id":85688589,
+            "venue_id":823443065
+        }
+    ],
+    "wof:id":823443065,
+    "wof:lastmodified":1463434501,
+    "wof:name":"Jack's Car Wash",
+    "wof:parent_id":85849697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "carwash",
+        "washing"
+    ]
+},
+  "bbox": [
+    -80.008419,
+    39.348314,
+    -80.008419,
+    39.348314
+],
+  "geometry": {"coordinates":[-80.008419,39.348314],"type":"Point"}
+}

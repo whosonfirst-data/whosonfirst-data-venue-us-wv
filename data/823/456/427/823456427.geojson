@@ -1,0 +1,71 @@
+{
+  "id": 823456427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.550616,40.623166,-80.550616,40.623166",
+    "geom:latitude":40.623166,
+    "geom:longitude":-80.550616,
+    "iso:country":"US",
+    "sg:address":"1108 Collins Memorial Dr",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 0801",
+    "sg:postcode":"26034",
+    "sg:province":"WV",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cQqKQoxjQMuxAaFIyeaGu_40.623166_-80.550616@1303262553"
+    },
+    "wof:country":"US",
+    "wof:created":1463435112,
+    "wof:geomhash":"7cda5e5727bfd770c6722cf6d1aa2e67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823456427
+        }
+    ],
+    "wof:id":823456427,
+    "wof:lastmodified":1463435112,
+    "wof:name":"E Eugene Robinson",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -80.550616,
+    40.623166,
+    -80.550616,
+    40.623166
+],
+  "geometry": {"coordinates":[-80.55061600000001,40.623166],"type":"Point"}
+}

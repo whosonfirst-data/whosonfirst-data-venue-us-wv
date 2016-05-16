@@ -1,0 +1,71 @@
+{
+  "id": 823396571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.220113,37.259673,-81.220113,37.259673",
+    "geom:latitude":37.259673,
+    "geom:longitude":-81.220113,
+    "iso:country":"US",
+    "sg:address":"117 North St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 327 6525",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pMBAVPRsW0CXZ3b50rIOD_37.259673_-81.220113@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432407,
+    "wof:geomhash":"840847c1c00c04f6bc04df2426fe57ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823396571
+        }
+    ],
+    "wof:id":823396571,
+    "wof:lastmodified":1463432407,
+    "wof:name":"Cut Above",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.220113,
+    37.259673,
+    -81.220113,
+    37.259673
+],
+  "geometry": {"coordinates":[-81.220113,37.259673],"type":"Point"}
+}

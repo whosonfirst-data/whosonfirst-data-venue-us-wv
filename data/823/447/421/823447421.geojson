@@ -1,0 +1,71 @@
+{
+  "id": 823447421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.861705,39.64557,-80.861705,39.64557",
+    "geom:latitude":39.64557,
+    "geom:longitude":-80.861705,
+    "iso:country":"US",
+    "sg:address":"508 Maple Ave",
+    "sg:city":"New Martinsville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 455 5176",
+    "sg:postcode":"26155",
+    "sg:province":"WV",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731345,
+        102083395,
+        85807907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Zl3NzXJFvBht0dwEp3Wef_39.645570_-80.861705@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434709,
+    "wof:geomhash":"e9019506b348b95873c963e4bf25ade7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083395,
+            "locality_id":101731345,
+            "neighbourhood_id":85807907,
+            "region_id":85688589,
+            "venue_id":823447421
+        }
+    ],
+    "wof:id":823447421,
+    "wof:lastmodified":1463434709,
+    "wof:name":"Mary Kay Cosmetics",
+    "wof:parent_id":85807907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -80.861705,
+    39.64557,
+    -80.861705,
+    39.64557
+],
+  "geometry": {"coordinates":[-80.861705,39.64557],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823442461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.575012,40.609605,-80.575012,40.609605",
+    "geom:latitude":40.609605,
+    "geom:longitude":-80.575012,
+    "iso:country":"US",
+    "sg:address":"77 Carolina Ave",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 387 0077",
+    "sg:postcode":"26034",
+    "sg:province":"WV",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731845,
+        102082633,
+        85827481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WUd1rwcNYKmH125vL3hzq_40.609605_-80.575012@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434469,
+    "wof:geomhash":"e7421fb0772a107c1ea93e3912eeb736",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082633,
+            "locality_id":101731845,
+            "neighbourhood_id":85827481,
+            "region_id":85688589,
+            "venue_id":823442461
+        }
+    ],
+    "wof:id":823442461,
+    "wof:lastmodified":1463434469,
+    "wof:name":"John Ludovici",
+    "wof:parent_id":85827481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -80.575012,
+    40.609605,
+    -80.575012,
+    40.609605
+],
+  "geometry": {"coordinates":[-80.575012,40.609605],"type":"Point"}
+}

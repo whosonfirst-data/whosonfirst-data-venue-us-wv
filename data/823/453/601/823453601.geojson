@@ -1,0 +1,74 @@
+{
+  "id": 823453601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.004805,39.654698,-80.004805,39.654698",
+    "geom:latitude":39.654698,
+    "geom:longitude":-80.004805,
+    "iso:country":"US",
+    "sg:address":"1201 University Town Centre Dr",
+    "sg:city":"Morgantown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/wv/western/98711-longhorn-steakhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 599 2100",
+    "sg:postcode":"26501",
+    "sg:province":"WV",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731749,
+        102082587,
+        85807277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rdwhk3SXxKFOJ3ekGDQbT_39.654698_-80.004805@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463434953,
+    "wof:geomhash":"78519026d84b2d5f445f3e6b19a355d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082587,
+            "locality_id":101731749,
+            "neighbourhood_id":85807277,
+            "region_id":85688589,
+            "venue_id":823453601
+        }
+    ],
+    "wof:id":823453601,
+    "wof:lastmodified":1463434953,
+    "wof:name":"LongHorn Steakhouse",
+    "wof:parent_id":85807277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -80.004805,
+    39.654698,
+    -80.004805,
+    39.654698
+],
+  "geometry": {"coordinates":[-80.004805,39.654698],"type":"Point"}
+}

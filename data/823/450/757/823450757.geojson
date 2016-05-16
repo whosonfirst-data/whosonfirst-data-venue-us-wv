@@ -1,0 +1,71 @@
+{
+  "id": 823450757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.220908,37.259184,-81.220908,37.259184",
+    "geom:latitude":37.259184,
+    "geom:longitude":-81.220908,
+    "iso:country":"US",
+    "sg:address":"205 North St",
+    "sg:city":"Bluefield",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 325 6462",
+    "sg:postcode":"24701",
+    "sg:province":"WV",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85849473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2abxmoUdJs31eMGWkZC7qF_37.259184_-81.220908@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463434844,
+    "wof:geomhash":"95e27f423b25fc813590611767748178",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85849473,
+            "region_id":85688589,
+            "venue_id":823450757
+        }
+    ],
+    "wof:id":823450757,
+    "wof:lastmodified":1463434844,
+    "wof:name":"Grant's Supermarket Inc",
+    "wof:parent_id":85849473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -81.220908,
+    37.259184,
+    -81.220908,
+    37.259184
+],
+  "geometry": {"coordinates":[-81.22090799999999,37.259184],"type":"Point"}
+}

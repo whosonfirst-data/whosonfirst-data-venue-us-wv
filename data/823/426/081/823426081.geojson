@@ -1,0 +1,72 @@
+{
+  "id": 823426081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.706092,38.365185,-81.706092,38.365185",
+    "geom:latitude":38.365185,
+    "geom:longitude":-81.706092,
+    "iso:country":"US",
+    "sg:address":"3100 Maccorkle Ave SW",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 744 7955",
+    "sg:postcode":"25303",
+    "sg:province":"WV",
+    "sg:tags":[
+        "delivery"
+    ],
+    "sg:website":"www.quickdeliveryservice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731771,
+        102083335,
+        85837449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aeIFw4FCW4fgxmJNIcB7C_38.365185_-81.706092@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463433710,
+    "wof:geomhash":"5896b26ba83ce313281ca2e86d787872",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083335,
+            "locality_id":101731771,
+            "neighbourhood_id":85837449,
+            "region_id":85688589,
+            "venue_id":823426081
+        }
+    ],
+    "wof:id":823426081,
+    "wof:lastmodified":1463433710,
+    "wof:name":"Quick Delivery Svc",
+    "wof:parent_id":85837449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -81.706092,
+    38.365185,
+    -81.706092,
+    38.365185
+],
+  "geometry": {"coordinates":[-81.706092,38.365185],"type":"Point"}
+}

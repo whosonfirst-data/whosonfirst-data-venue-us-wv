@@ -1,0 +1,71 @@
+{
+  "id": 823405303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.382671,38.796349,-81.382671,38.796349",
+    "geom:latitude":38.796349,
+    "geom:longitude":-81.382671,
+    "iso:country":"US",
+    "sg:address":"937 Ripley Rd",
+    "sg:city":"Spencer",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 927 6900",
+    "sg:postcode":"25276",
+    "sg:province":"WV",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731535,
+        102083399,
+        85868331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CMw3VfNQHeb5mZ5CSg1Wu_38.796349_-81.382671@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463432823,
+    "wof:geomhash":"1d775b3c01b90e0d5052b39427485207",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083399,
+            "locality_id":101731535,
+            "neighbourhood_id":85868331,
+            "region_id":85688589,
+            "venue_id":823405303
+        }
+    ],
+    "wof:id":823405303,
+    "wof:lastmodified":1463432823,
+    "wof:name":"Red Barn Wrecker Svc",
+    "wof:parent_id":85868331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -81.382671,
+    38.796349,
+    -81.382671,
+    38.796349
+],
+  "geometry": {"coordinates":[-81.382671,38.796349],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823373101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.091223,37.369119,-81.091223,37.369119",
+    "geom:latitude":37.369119,
+    "geom:longitude":-81.091223,
+    "iso:country":"US",
+    "sg:address":"608 Harrison St",
+    "sg:city":"Princeton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 425 2200",
+    "sg:postcode":"24740",
+    "sg:province":"WV",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731433,
+        102082639,
+        85813203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PjUSvHqTQXRUHsAuwMk9o_37.369119_-81.091223@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431325,
+    "wof:geomhash":"d98339304e95673ea41f0ae7d5f3c4cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082639,
+            "locality_id":101731433,
+            "neighbourhood_id":85813203,
+            "region_id":85688589,
+            "venue_id":823373101
+        }
+    ],
+    "wof:id":823373101,
+    "wof:lastmodified":1463431325,
+    "wof:name":"Topps Electronic Svc",
+    "wof:parent_id":85813203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [
+    -81.091223,
+    37.369119,
+    -81.091223,
+    37.369119
+],
+  "geometry": {"coordinates":[-81.091223,37.369119],"type":"Point"}
+}

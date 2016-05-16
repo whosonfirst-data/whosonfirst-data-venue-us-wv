@@ -1,0 +1,71 @@
+{
+  "id": 823369657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.335451,39.276666,-80.335451,39.276666",
+    "geom:latitude":39.276666,
+    "geom:longitude":-80.335451,
+    "iso:country":"US",
+    "sg:address":"411 Water St",
+    "sg:city":"Clarksburg",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 304 624 4100",
+    "sg:postcode":"26301",
+    "sg:province":"WV",
+    "sg:tags":[
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688589,
+        85633793,
+        101731623,
+        102082619,
+        85821689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wjzR9szT2qmsbrMilAfO9_39.276666_-80.335451@1294254474"
+    },
+    "wof:country":"US",
+    "wof:created":1463431156,
+    "wof:geomhash":"cb0d696f573424a89f42e329be86bb59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082619,
+            "locality_id":101731623,
+            "neighbourhood_id":85821689,
+            "region_id":85688589,
+            "venue_id":823369657
+        }
+    ],
+    "wof:id":823369657,
+    "wof:lastmodified":1463431156,
+    "wof:name":"UPS",
+    "wof:parent_id":85821689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courier"
+    ]
+},
+  "bbox": [
+    -80.335451,
+    39.276666,
+    -80.335451,
+    39.276666
+],
+  "geometry": {"coordinates":[-80.33545100000001,39.276666],"type":"Point"}
+}
