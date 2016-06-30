@@ -2,13 +2,14 @@
   "id": 253644521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.351251,38.455602,-82.351251,38.455602",
     "geom:latitude":38.455602,
     "geom:longitude":-82.351251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"83 Co Rd 12 S",
     "sg:city":"Proctorville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253644521,
-    "wof:lastmodified":1449064518,
+    "wof:lastmodified":1467090669,
     "wof:name":"Clothesline Plus",
     "wof:parent_id":85868299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.351251,38.455602,-82.351251,38.455602],
+  "bbox": [
+    -82.351251,
+    38.455602,
+    -82.351251,
+    38.455602
+],
   "geometry": {"coordinates":[-82.351251,38.455602],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185825969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.743898,40.015347,-80.743898,40.015347",
     "geom:latitude":40.015347,
     "geom:longitude":-80.743898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3301 Guernsey St",
     "sg:city":"Bellaire",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185825969,
-    "wof:lastmodified":1449006638,
+    "wof:lastmodified":1467090668,
     "wof:name":"Belmont Savings Bank",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "association"
     ]
 },
-  "bbox": [-80.743898,40.015347,-80.743898,40.015347],
+  "bbox": [
+    -80.743898,
+    40.015347,
+    -80.743898,
+    40.015347
+],
   "geometry": {"coordinates":[-80.743898,40.015347],"type":"Point"}
 }

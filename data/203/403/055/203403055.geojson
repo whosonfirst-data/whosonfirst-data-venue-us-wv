@@ -2,13 +2,14 @@
   "id": 203403055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.817193,39.857613,-80.817193,39.857613",
     "geom:latitude":39.857613,
     "geom:longitude":-80.817193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Pine St",
     "sg:city":"Powhatan Point",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203403055,
-    "wof:lastmodified":1449026596,
+    "wof:lastmodified":1467090668,
     "wof:name":"Captina Sportsman Club",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "membership"
     ]
 },
-  "bbox": [-80.817193,39.857613,-80.817193,39.857613],
+  "bbox": [
+    -80.817193,
+    39.857613,
+    -80.817193,
+    39.857613
+],
   "geometry": {"coordinates":[-80.817193,39.857613],"type":"Point"}
 }

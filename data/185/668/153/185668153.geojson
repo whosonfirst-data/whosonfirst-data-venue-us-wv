@@ -2,13 +2,14 @@
   "id": 185668153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.073881,40.016753,-81.073881,40.016753",
     "geom:latitude":40.016753,
     "geom:longitude":-81.073881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"233 N Main St",
     "sg:city":"Bethesda",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185668153,
-    "wof:lastmodified":1449007716,
+    "wof:lastmodified":1467090668,
     "wof:name":"United Methodist Church",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.073881,40.016753,-81.073881,40.016753],
+  "bbox": [
+    -81.073881,
+    40.016753,
+    -81.073881,
+    40.016753
+],
   "geometry": {"coordinates":[-81.073881,40.016753],"type":"Point"}
 }

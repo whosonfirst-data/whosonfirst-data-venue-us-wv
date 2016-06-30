@@ -2,13 +2,14 @@
   "id": 269947837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.3511,38.455576,-82.3511,38.455576",
     "geom:latitude":38.455576,
     "geom:longitude":-82.3511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Co Rd 12 S",
     "sg:city":"Proctorville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269947837,
-    "wof:lastmodified":1449037939,
+    "wof:lastmodified":1467090668,
     "wof:name":"Elmo Greer & Sons",
     "wof:parent_id":85868299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.3511,38.455576,-82.3511,38.455576],
+  "bbox": [
+    -82.3511,
+    38.455576,
+    -82.3511,
+    38.455576
+],
   "geometry": {"coordinates":[-82.3511,38.455576],"type":"Point"}
 }

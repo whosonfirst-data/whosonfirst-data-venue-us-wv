@@ -2,13 +2,14 @@
   "id": 270467725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.701494,39.282104,-81.701494,39.282104",
     "geom:latitude":39.282104,
     "geom:longitude":-81.701494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Terri Ln",
     "sg:city":"Little Hocking",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270467725,
-    "wof:lastmodified":1449010536,
+    "wof:lastmodified":1467090668,
     "wof:name":"Raycom Learning",
     "wof:parent_id":85845495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-81.701494,39.282104,-81.701494,39.282104],
+  "bbox": [
+    -81.701494,
+    39.282104,
+    -81.701494,
+    39.282104
+],
   "geometry": {"coordinates":[-81.701494,39.282104],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269873077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.714729,40.099172,-80.714729,40.099172",
     "geom:latitude":40.099172,
     "geom:longitude":-80.714729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 N 1st St",
     "sg:city":"Martins Ferry",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269873077,
-    "wof:lastmodified":1449036646,
+    "wof:lastmodified":1467090668,
     "wof:name":"ABF",
     "wof:parent_id":85851939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.714729,40.099172,-80.714729,40.099172],
-  "geometry": {"coordinates":[-80.714729,40.099172],"type":"Point"}
+  "bbox": [
+    -80.714729,
+    40.099172,
+    -80.714729,
+    40.099172
+],
+  "geometry": {"coordinates":[-80.71472900000001,40.099172],"type":"Point"}
 }

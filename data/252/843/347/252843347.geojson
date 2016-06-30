@@ -2,13 +2,14 @@
   "id": 252843347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.175333,39.987516,-81.175333,39.987516",
     "geom:latitude":39.987516,
     "geom:longitude":-81.175333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 N Arch St",
     "sg:city":"Barnesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252843347,
-    "wof:lastmodified":1449005505,
+    "wof:lastmodified":1467090668,
     "wof:name":"Buckeye Mortgage Co",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-81.175333,39.987516,-81.175333,39.987516],
-  "geometry": {"coordinates":[-81.175333,39.987516],"type":"Point"}
+  "bbox": [
+    -81.175333,
+    39.987516,
+    -81.175333,
+    39.987516
+],
+  "geometry": {"coordinates":[-81.17533299999999,39.987516],"type":"Point"}
 }

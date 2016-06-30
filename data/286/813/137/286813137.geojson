@@ -2,13 +2,14 @@
   "id": 286813137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.583665,39.273984,-81.583665,39.273984",
     "geom:latitude":39.273984,
     "geom:longitude":-81.583665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 Washington Blvd",
     "sg:city":"Belpre",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286813137,
-    "wof:lastmodified":1449015932,
+    "wof:lastmodified":1467090668,
     "wof:name":"Middlton Lloyd Doll Fctry Outl",
     "wof:parent_id":85845495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "doll"
     ]
 },
-  "bbox": [-81.583665,39.273984,-81.583665,39.273984],
+  "bbox": [
+    -81.583665,
+    39.273984,
+    -81.583665,
+    39.273984
+],
   "geometry": {"coordinates":[-81.583665,39.273984],"type":"Point"}
 }

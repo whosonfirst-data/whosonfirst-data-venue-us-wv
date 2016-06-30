@@ -2,13 +2,14 @@
   "id": 269713603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.715635,40.09892,-80.715635,40.09892",
     "geom:latitude":40.09892,
     "geom:longitude":-80.715635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Center St",
     "sg:city":"Martins Ferry",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269713603,
-    "wof:lastmodified":1449038763,
+    "wof:lastmodified":1467090669,
     "wof:name":"Martins Ferry Yacht Club",
     "wof:parent_id":85851939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "membership"
     ]
 },
-  "bbox": [-80.715635,40.09892,-80.715635,40.09892],
-  "geometry": {"coordinates":[-80.715635,40.09892],"type":"Point"}
+  "bbox": [
+    -80.715635,
+    40.09892,
+    -80.715635,
+    40.09892
+],
+  "geometry": {"coordinates":[-80.71563500000001,40.09892],"type":"Point"}
 }

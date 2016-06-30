@@ -2,13 +2,14 @@
   "id": 236049103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.61061,39.282346,-81.61061,39.282346",
     "geom:latitude":39.282346,
     "geom:longitude":-81.61061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2416 Norris St",
     "sg:city":"Belpre",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236049103,
-    "wof:lastmodified":1449003253,
+    "wof:lastmodified":1467090667,
     "wof:name":"Gilbert's Upholstery",
     "wof:parent_id":85845495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cover"
     ]
 },
-  "bbox": [-81.61061,39.282346,-81.61061,39.282346],
-  "geometry": {"coordinates":[-81.61061,39.282346],"type":"Point"}
+  "bbox": [
+    -81.61061,
+    39.282346,
+    -81.61061,
+    39.282346
+],
+  "geometry": {"coordinates":[-81.61060999999999,39.282346],"type":"Point"}
 }

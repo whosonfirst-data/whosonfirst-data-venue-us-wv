@@ -2,13 +2,14 @@
   "id": 203369037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.611051,39.279561,-81.611051,39.279561",
     "geom:latitude":39.279561,
     "geom:longitude":-81.611051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2411 Washington Blvd",
     "sg:city":"Belpre",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203369037,
-    "wof:lastmodified":1449026782,
+    "wof:lastmodified":1467090668,
     "wof:name":"Ephesians Four Networks Inc",
     "wof:parent_id":85845495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.611051,39.279561,-81.611051,39.279561],
+  "bbox": [
+    -81.611051,
+    39.279561,
+    -81.611051,
+    39.279561
+],
   "geometry": {"coordinates":[-81.611051,39.279561],"type":"Point"}
 }

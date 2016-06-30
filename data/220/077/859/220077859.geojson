@@ -2,13 +2,14 @@
   "id": 220077859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.758961,39.966508,-80.758961,39.966508",
     "geom:latitude":39.966508,
     "geom:longitude":-80.758961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Wegee Ln",
     "sg:city":"Shadyside",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":220077859,
-    "wof:lastmodified":1449074161,
+    "wof:lastmodified":1467090669,
     "wof:name":"All American Towing & Storage",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-80.758961,39.966508,-80.758961,39.966508],
+  "bbox": [
+    -80.758961,
+    39.966508,
+    -80.758961,
+    39.966508
+],
   "geometry": {"coordinates":[-80.758961,39.966508],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219588367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.813668,39.866794,-80.813668,39.866794",
     "geom:latitude":39.866794,
     "geom:longitude":-80.813668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"54761 Cove Rd",
     "sg:city":"Powhatan Point",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219588367,
-    "wof:lastmodified":1449073238,
+    "wof:lastmodified":1467090669,
     "wof:name":"Watkins World Shop",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "spice"
     ]
 },
-  "bbox": [-80.813668,39.866794,-80.813668,39.866794],
-  "geometry": {"coordinates":[-80.813668,39.866794],"type":"Point"}
+  "bbox": [
+    -80.813668,
+    39.866794,
+    -80.813668,
+    39.866794
+],
+  "geometry": {"coordinates":[-80.81366800000001,39.866794],"type":"Point"}
 }

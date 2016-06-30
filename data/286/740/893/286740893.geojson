@@ -2,13 +2,14 @@
   "id": 286740893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.453942,39.412601,-81.453942,39.412601",
     "geom:latitude":39.412601,
     "geom:longitude":-81.453942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"162 Front St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286740893,
-    "wof:lastmodified":1449016526,
+    "wof:lastmodified":1467090668,
     "wof:name":"Wine Shop The",
     "wof:parent_id":85824023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wine"
     ]
 },
-  "bbox": [-81.453942,39.412601,-81.453942,39.412601],
+  "bbox": [
+    -81.453942,
+    39.412601,
+    -81.453942,
+    39.412601
+],
   "geometry": {"coordinates":[-81.453942,39.412601],"type":"Point"}
 }

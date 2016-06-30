@@ -2,13 +2,14 @@
   "id": 203412669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.457531,39.422386,-81.457531,39.422386",
     "geom:latitude":39.422386,
     "geom:longitude":-81.457531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"532 4th St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":203412669,
-    "wof:lastmodified":1449025318,
+    "wof:lastmodified":1467090668,
     "wof:name":"AIG Life",
     "wof:parent_id":85824023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "investment"
     ]
 },
-  "bbox": [-81.457531,39.422386,-81.457531,39.422386],
+  "bbox": [
+    -81.457531,
+    39.422386,
+    -81.457531,
+    39.422386
+],
   "geometry": {"coordinates":[-81.457531,39.422386],"type":"Point"}
 }

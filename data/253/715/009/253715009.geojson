@@ -2,13 +2,14 @@
   "id": 253715009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.748101,39.972519,-80.748101,39.972519",
     "geom:latitude":39.972519,
     "geom:longitude":-80.748101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3809 Central Ave",
     "sg:city":"Shadyside",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253715009,
-    "wof:lastmodified":1449065176,
+    "wof:lastmodified":1467090669,
     "wof:name":"American Legion Post 521",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.748101,39.972519,-80.748101,39.972519],
-  "geometry": {"coordinates":[-80.748101,39.972519],"type":"Point"}
+  "bbox": [
+    -80.748101,
+    39.972519,
+    -80.748101,
+    39.972519
+],
+  "geometry": {"coordinates":[-80.74810100000001,39.972519],"type":"Point"}
 }

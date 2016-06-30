@@ -2,13 +2,14 @@
   "id": 203360683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.17737,39.987911,-81.17737,39.987911",
     "geom:latitude":39.987911,
     "geom:longitude":-81.17737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 W Main St",
     "sg:city":"Barnesville",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203360683,
-    "wof:lastmodified":1449026396,
+    "wof:lastmodified":1467090668,
     "wof:name":"Between The Lines Driving Acad",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "driving"
     ]
 },
-  "bbox": [-81.17737,39.987911,-81.17737,39.987911],
+  "bbox": [
+    -81.17737,
+    39.987911,
+    -81.17737,
+    39.987911
+],
   "geometry": {"coordinates":[-81.17737,39.987911],"type":"Point"}
 }

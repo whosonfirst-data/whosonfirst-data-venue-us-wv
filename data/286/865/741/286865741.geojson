@@ -2,13 +2,14 @@
   "id": 286865741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.621515,39.279724,-81.621515,39.279724",
     "geom:latitude":39.279724,
     "geom:longitude":-81.621515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2904 Washington Blvd",
     "sg:city":"Belpre",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286865741,
-    "wof:lastmodified":1449017403,
+    "wof:lastmodified":1467090668,
     "wof:name":"Miss Peggy's House",
     "wof:parent_id":85845495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-81.621515,39.279724,-81.621515,39.279724],
+  "bbox": [
+    -81.621515,
+    39.279724,
+    -81.621515,
+    39.279724
+],
   "geometry": {"coordinates":[-81.621515,39.279724],"type":"Point"}
 }

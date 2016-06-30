@@ -2,13 +2,14 @@
   "id": 269977515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.457019,39.419615,-81.457019,39.419615",
     "geom:latitude":39.419615,
     "geom:longitude":-81.457019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"423 3rd St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269977515,
-    "wof:lastmodified":1449039046,
+    "wof:lastmodified":1467090669,
     "wof:name":"Third Street Music",
     "wof:parent_id":85824023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.457019,39.419615,-81.457019,39.419615],
+  "bbox": [
+    -81.457019,
+    39.419615,
+    -81.457019,
+    39.419615
+],
   "geometry": {"coordinates":[-81.457019,39.419615],"type":"Point"}
 }

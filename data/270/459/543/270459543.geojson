@@ -2,13 +2,14 @@
   "id": 270459543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.761288,39.96719,-80.761288,39.96719",
     "geom:latitude":39.96719,
     "geom:longitude":-80.761288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 Kennedy Ln",
     "sg:city":"Shadyside",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270459543,
-    "wof:lastmodified":1449009635,
+    "wof:lastmodified":1467090668,
     "wof:name":"Carol Electric Inc",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electrical"
     ]
 },
-  "bbox": [-80.761288,39.96719,-80.761288,39.96719],
-  "geometry": {"coordinates":[-80.761288,39.96719],"type":"Point"}
+  "bbox": [
+    -80.761288,
+    39.96719,
+    -80.761288,
+    39.96719
+],
+  "geometry": {"coordinates":[-80.76128799999999,39.96719],"type":"Point"}
 }

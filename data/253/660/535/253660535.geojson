@@ -2,13 +2,14 @@
   "id": 253660535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.459548,39.411483,-81.459548,39.411483",
     "geom:latitude":39.411483,
     "geom:longitude":-81.459548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Maple St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":253660535,
-    "wof:lastmodified":1449065471,
+    "wof:lastmodified":1467090669,
     "wof:name":"Morehead Marketing Design",
     "wof:parent_id":85824023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor"
     ]
 },
-  "bbox": [-81.459548,39.411483,-81.459548,39.411483],
+  "bbox": [
+    -81.459548,
+    39.411483,
+    -81.459548,
+    39.411483
+],
   "geometry": {"coordinates":[-81.459548,39.411483],"type":"Point"}
 }

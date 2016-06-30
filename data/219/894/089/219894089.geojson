@@ -2,13 +2,14 @@
   "id": 219894089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.455637,39.414259,-81.455637,39.414259",
     "geom:latitude":39.414259,
     "geom:longitude":-81.455637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"290 Front St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219894089,
-    "wof:lastmodified":1449071842,
+    "wof:lastmodified":1467090669,
     "wof:name":"Renee Medley",
     "wof:parent_id":85824023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fashion"
     ]
 },
-  "bbox": [-81.455637,39.414259,-81.455637,39.414259],
+  "bbox": [
+    -81.455637,
+    39.414259,
+    -81.455637,
+    39.414259
+],
   "geometry": {"coordinates":[-81.455637,39.414259],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220071545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.734632,40.038234,-80.734632,40.038234",
     "geom:latitude":40.038234,
     "geom:longitude":-80.734632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5305 Guernsey St",
     "sg:city":"Bellaire",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220071545,
-    "wof:lastmodified":1449074552,
+    "wof:lastmodified":1467090669,
     "wof:name":"US Army Reserve",
     "wof:parent_id":85850201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "security"
     ]
 },
-  "bbox": [-80.734632,40.038234,-80.734632,40.038234],
+  "bbox": [
+    -80.734632,
+    40.038234,
+    -80.734632,
+    40.038234
+],
   "geometry": {"coordinates":[-80.734632,40.038234],"type":"Point"}
 }

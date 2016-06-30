@@ -2,13 +2,14 @@
   "id": 202663181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.342072,38.450737,-82.342072,38.450737",
     "geom:latitude":38.450737,
     "geom:longitude":-82.342072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Twp Rd 1248",
     "sg:city":"Proctorville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202663181,
-    "wof:lastmodified":1449061966,
+    "wof:lastmodified":1467090669,
     "wof:name":"Burd",
     "wof:parent_id":85868299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.342072,38.450737,-82.342072,38.450737],
+  "bbox": [
+    -82.342072,
+    38.450737,
+    -82.342072,
+    38.450737
+],
   "geometry": {"coordinates":[-82.342072,38.450737],"type":"Point"}
 }

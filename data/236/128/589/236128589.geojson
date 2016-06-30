@@ -2,13 +2,14 @@
   "id": 236128589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.452694,38.427958,-82.452694,38.427958",
     "geom:latitude":38.427958,
     "geom:longitude":-82.452694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 2nd Ave",
     "sg:city":"Chesapeake",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236128589,
-    "wof:lastmodified":1449002846,
+    "wof:lastmodified":1467090667,
     "wof:name":"TNT Heating & Cooling",
     "wof:parent_id":85868317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.452694,38.427958,-82.452694,38.427958],
-  "geometry": {"coordinates":[-82.452694,38.427958],"type":"Point"}
+  "bbox": [
+    -82.452694,
+    38.427958,
+    -82.452694,
+    38.427958
+],
+  "geometry": {"coordinates":[-82.45269399999999,38.427958],"type":"Point"}
 }

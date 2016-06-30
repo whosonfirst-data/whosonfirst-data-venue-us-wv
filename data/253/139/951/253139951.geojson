@@ -2,13 +2,14 @@
   "id": 253139951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.332836,38.493537,-82.332836,38.493537",
     "geom:latitude":38.493537,
     "geom:longitude":-82.332836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2947 Co Rd 12",
     "sg:city":"Proctorville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253139951,
-    "wof:lastmodified":1449063083,
+    "wof:lastmodified":1467090669,
     "wof:name":"Will S Contracting Aka W",
     "wof:parent_id":85868299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.332836,38.493537,-82.332836,38.493537],
+  "bbox": [
+    -82.332836,
+    38.493537,
+    -82.332836,
+    38.493537
+],
   "geometry": {"coordinates":[-82.332836,38.493537],"type":"Point"}
 }

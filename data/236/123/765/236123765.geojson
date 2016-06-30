@@ -2,13 +2,14 @@
   "id": 236123765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.661708,39.29978,-81.661708,39.29978",
     "geom:latitude":39.29978,
     "geom:longitude":-81.661708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1155 Woodlawn Ave",
     "sg:city":"Belpre",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236123765,
-    "wof:lastmodified":1449002469,
+    "wof:lastmodified":1467090667,
     "wof:name":"Quality Tank Testing Services",
     "wof:parent_id":85845495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trailer"
     ]
 },
-  "bbox": [-81.661708,39.29978,-81.661708,39.29978],
+  "bbox": [
+    -81.661708,
+    39.29978,
+    -81.661708,
+    39.29978
+],
   "geometry": {"coordinates":[-81.661708,39.29978],"type":"Point"}
 }

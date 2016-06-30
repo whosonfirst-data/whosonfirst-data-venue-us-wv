@@ -2,13 +2,14 @@
   "id": 220068237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.459441,39.412897,-81.459441,39.412897",
     "geom:latitude":39.412897,
     "geom:longitude":-81.459441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 Gilman Ave",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":220068237,
-    "wof:lastmodified":1449074447,
+    "wof:lastmodified":1467090669,
     "wof:name":"Earl's Style World",
     "wof:parent_id":85824023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.459441,39.412897,-81.459441,39.412897],
+  "bbox": [
+    -81.459441,
+    39.412897,
+    -81.459441,
+    39.412897
+],
   "geometry": {"coordinates":[-81.459441,39.412897],"type":"Point"}
 }

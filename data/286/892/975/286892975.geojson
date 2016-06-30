@@ -2,13 +2,14 @@
   "id": 286892975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.175166,39.960678,-81.175166,39.960678",
     "geom:latitude":39.960678,
     "geom:longitude":-81.175166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59421 Somerton Hwy",
     "sg:city":"Barnesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286892975,
-    "wof:lastmodified":1449015600,
+    "wof:lastmodified":1467090668,
     "wof:name":"M and M Excavating",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.175166,39.960678,-81.175166,39.960678],
+  "bbox": [
+    -81.175166,
+    39.960678,
+    -81.175166,
+    39.960678
+],
   "geometry": {"coordinates":[-81.175166,39.960678],"type":"Point"}
 }

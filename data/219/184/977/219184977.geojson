@@ -2,13 +2,14 @@
   "id": 219184977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.5902,39.279225,-81.5902,39.279225",
     "geom:latitude":39.279225,
     "geom:longitude":-81.5902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1413 King St",
     "sg:city":"Belpre",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219184977,
-    "wof:lastmodified":1449070987,
+    "wof:lastmodified":1467090669,
     "wof:name":"Steven Ahart",
     "wof:parent_id":85845495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.5902,39.279225,-81.5902,39.279225],
+  "bbox": [
+    -81.5902,
+    39.279225,
+    -81.5902,
+    39.279225
+],
   "geometry": {"coordinates":[-81.5902,39.279225],"type":"Point"}
 }

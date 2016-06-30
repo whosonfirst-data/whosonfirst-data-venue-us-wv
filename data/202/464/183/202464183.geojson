@@ -2,13 +2,14 @@
   "id": 202464183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.452884,39.415627,-81.452884,39.415627",
     "geom:latitude":39.415627,
     "geom:longitude":-81.452884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"227 3rd St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202464183,
-    "wof:lastmodified":1449060809,
+    "wof:lastmodified":1467090669,
     "wof:name":"Newhart & Montera",
     "wof:parent_id":85824023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.452884,39.415627,-81.452884,39.415627],
+  "bbox": [
+    -81.452884,
+    39.415627,
+    -81.452884,
+    39.415627
+],
   "geometry": {"coordinates":[-81.452884,39.415627],"type":"Point"}
 }

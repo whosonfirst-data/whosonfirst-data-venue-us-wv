@@ -2,13 +2,14 @@
   "id": 220027909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.341797,38.45394,-82.341797,38.45394",
     "geom:latitude":38.45394,
     "geom:longitude":-82.341797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Twp Rd 1251",
     "sg:city":"Proctorville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220027909,
-    "wof:lastmodified":1449074189,
+    "wof:lastmodified":1467090669,
     "wof:name":"Jerome Matt",
     "wof:parent_id":85868299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-82.341797,38.45394,-82.341797,38.45394],
+  "bbox": [
+    -82.341797,
+    38.45394,
+    -82.341797,
+    38.45394
+],
   "geometry": {"coordinates":[-82.341797,38.45394],"type":"Point"}
 }

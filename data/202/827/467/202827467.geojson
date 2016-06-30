@@ -2,13 +2,14 @@
   "id": 202827467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.968896,39.981563,-80.968896,39.981563",
     "geom:latitude":39.981563,
     "geom:longitude":-80.968896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46046 Belmont Centerville Rd",
     "sg:city":"Belmont",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202827467,
-    "wof:lastmodified":1449061018,
+    "wof:lastmodified":1467090669,
     "wof:name":"Smith Twp Garage",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-80.968896,39.981563,-80.968896,39.981563],
+  "bbox": [
+    -80.968896,
+    39.981563,
+    -80.968896,
+    39.981563
+],
   "geometry": {"coordinates":[-80.968896,39.981563],"type":"Point"}
 }

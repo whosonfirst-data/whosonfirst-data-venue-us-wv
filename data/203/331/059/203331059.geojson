@@ -2,13 +2,14 @@
   "id": 203331059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.355109,38.449462,-82.355109,38.449462",
     "geom:latitude":38.449462,
     "geom:longitude":-82.355109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"460 Twp Rd 1161",
     "sg:city":"Proctorville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203331059,
-    "wof:lastmodified":1449026092,
+    "wof:lastmodified":1467090668,
     "wof:name":"Easy Storage",
     "wof:parent_id":85868299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.355109,38.449462,-82.355109,38.449462],
+  "bbox": [
+    -82.355109,
+    38.449462,
+    -82.355109,
+    38.449462
+],
   "geometry": {"coordinates":[-82.355109,38.449462],"type":"Point"}
 }

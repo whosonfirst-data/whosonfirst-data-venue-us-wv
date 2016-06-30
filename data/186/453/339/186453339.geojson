@@ -2,13 +2,14 @@
   "id": 186453339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.453938,39.418753,-81.453938,39.418753",
     "geom:latitude":39.418753,
     "geom:longitude":-81.453938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 4th St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186453339,
-    "wof:lastmodified":1449052352,
+    "wof:lastmodified":1467090669,
     "wof:name":"Washington County Sheriff Dept",
     "wof:parent_id":85824023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sheriff"
     ]
 },
-  "bbox": [-81.453938,39.418753,-81.453938,39.418753],
-  "geometry": {"coordinates":[-81.453938,39.418753],"type":"Point"}
+  "bbox": [
+    -81.453938,
+    39.418753,
+    -81.453938,
+    39.418753
+],
+  "geometry": {"coordinates":[-81.45393799999999,39.418753],"type":"Point"}
 }

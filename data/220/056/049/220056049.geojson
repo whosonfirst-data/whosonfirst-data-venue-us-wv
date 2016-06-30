@@ -2,13 +2,14 @@
   "id": 220056049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.357584,38.4426,-82.357584,38.4426",
     "geom:latitude":38.4426,
     "geom:longitude":-82.357584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7575 State Rte 7",
     "sg:city":"Proctorville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220056049,
-    "wof:lastmodified":1449074240,
+    "wof:lastmodified":1467090669,
     "wof:name":"Pump N Clarks Shop",
     "wof:parent_id":85868299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dealer"
     ]
 },
-  "bbox": [-82.357584,38.4426,-82.357584,38.4426],
+  "bbox": [
+    -82.357584,
+    38.4426,
+    -82.357584,
+    38.4426
+],
   "geometry": {"coordinates":[-82.357584,38.4426],"type":"Point"}
 }

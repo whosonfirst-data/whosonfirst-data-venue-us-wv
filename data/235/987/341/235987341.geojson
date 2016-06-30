@@ -2,13 +2,14 @@
   "id": 235987341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.763703,39.963956,-80.763703,39.963956",
     "geom:latitude":39.963956,
     "geom:longitude":-80.763703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"56930 Wegee Rd",
     "sg:city":"Shadyside",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":235987341,
-    "wof:lastmodified":1449008434,
+    "wof:lastmodified":1467090668,
     "wof:name":"DDP & Assoc",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.763703,39.963956,-80.763703,39.963956],
-  "geometry": {"coordinates":[-80.763703,39.963956],"type":"Point"}
+  "bbox": [
+    -80.763703,
+    39.963956,
+    -80.763703,
+    39.963956
+],
+  "geometry": {"coordinates":[-80.76370300000001,39.963956],"type":"Point"}
 }

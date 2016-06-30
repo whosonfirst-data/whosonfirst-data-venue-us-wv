@@ -2,13 +2,14 @@
   "id": 202536805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.765244,40.133616,-80.765244,40.133616",
     "geom:latitude":40.133616,
     "geom:longitude":-80.765244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55899 Barnes Rd",
     "sg:city":"Martins Ferry",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202536805,
-    "wof:lastmodified":1449061629,
+    "wof:lastmodified":1467090669,
     "wof:name":"Langsdorf John",
     "wof:parent_id":85851939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-80.765244,40.133616,-80.765244,40.133616],
+  "bbox": [
+    -80.765244,
+    40.133616,
+    -80.765244,
+    40.133616
+],
   "geometry": {"coordinates":[-80.765244,40.133616],"type":"Point"}
 }

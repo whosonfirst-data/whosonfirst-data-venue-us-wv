@@ -2,13 +2,14 @@
   "id": 286493561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.059654,40.03485,-81.059654,40.03485",
     "geom:latitude":40.03485,
     "geom:longitude":-81.059654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41410 Palmer Rd",
     "sg:city":"Belmont",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286493561,
-    "wof:lastmodified":1449016115,
+    "wof:lastmodified":1467090668,
     "wof:name":"B K Mining & Construction Co",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.059654,40.03485,-81.059654,40.03485],
-  "geometry": {"coordinates":[-81.059654,40.03485],"type":"Point"}
+  "bbox": [
+    -81.059654,
+    40.03485,
+    -81.059654,
+    40.03485
+],
+  "geometry": {"coordinates":[-81.05965399999999,40.03485],"type":"Point"}
 }

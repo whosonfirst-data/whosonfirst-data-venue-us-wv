@@ -2,13 +2,14 @@
   "id": 186639557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.7491,39.971914,-80.7491,39.971914",
     "geom:latitude":39.971914,
     "geom:longitude":-80.7491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3911 Leona Ave",
     "sg:city":"Shadyside",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186639557,
-    "wof:lastmodified":1449053015,
+    "wof:lastmodified":1467090669,
     "wof:name":"Operative Plaster's & Cement",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.7491,39.971914,-80.7491,39.971914],
+  "bbox": [
+    -80.7491,
+    39.971914,
+    -80.7491,
+    39.971914
+],
   "geometry": {"coordinates":[-80.7491,39.971914],"type":"Point"}
 }

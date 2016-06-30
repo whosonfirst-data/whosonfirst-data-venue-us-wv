@@ -2,13 +2,14 @@
   "id": 186207829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.757775,40.019462,-80.757775,40.019462",
     "geom:latitude":40.019462,
     "geom:longitude":-80.757775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"64421 Hilltop Ave",
     "sg:city":"Bellaire",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186207829,
-    "wof:lastmodified":1449052239,
+    "wof:lastmodified":1467090669,
     "wof:name":"Bellaire Television Cable Co",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "television"
     ]
 },
-  "bbox": [-80.757775,40.019462,-80.757775,40.019462],
+  "bbox": [
+    -80.757775,
+    40.019462,
+    -80.757775,
+    40.019462
+],
   "geometry": {"coordinates":[-80.757775,40.019462],"type":"Point"}
 }

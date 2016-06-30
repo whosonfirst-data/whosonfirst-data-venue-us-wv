@@ -2,13 +2,14 @@
   "id": 270214121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.456537,39.417235,-81.456537,39.417235",
     "geom:latitude":39.417235,
     "geom:longitude":-81.456537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 2nd St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":270214121,
-    "wof:lastmodified":1449011056,
+    "wof:lastmodified":1467090668,
     "wof:name":"Marietta Cooperative Child Ctr",
     "wof:parent_id":85824023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "school"
     ]
 },
-  "bbox": [-81.456537,39.417235,-81.456537,39.417235],
+  "bbox": [
+    -81.456537,
+    39.417235,
+    -81.456537,
+    39.417235
+],
   "geometry": {"coordinates":[-81.456537,39.417235],"type":"Point"}
 }

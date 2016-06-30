@@ -2,13 +2,14 @@
   "id": 287051945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.038935,40.030439,-81.038935,40.030439",
     "geom:latitude":40.030439,
     "geom:longitude":-81.038935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E Barrister St",
     "sg:city":"Bethesda",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":287051945,
-    "wof:lastmodified":1449001207,
+    "wof:lastmodified":1467090667,
     "wof:name":"Hillcrest Bible Church",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.038935,40.030439,-81.038935,40.030439],
+  "bbox": [
+    -81.038935,
+    40.030439,
+    -81.038935,
+    40.030439
+],
   "geometry": {"coordinates":[-81.038935,40.030439],"type":"Point"}
 }

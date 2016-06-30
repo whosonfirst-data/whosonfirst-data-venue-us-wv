@@ -2,13 +2,14 @@
   "id": 286861093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.771774,40.035417,-80.771774,40.035417",
     "geom:latitude":40.035417,
     "geom:longitude":-80.771774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"56224 High Ridge Rd",
     "sg:city":"Bellaire",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286861093,
-    "wof:lastmodified":1449018061,
+    "wof:lastmodified":1467090668,
     "wof:name":"Rock Hill United Presby Church",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.771774,40.035417,-80.771774,40.035417],
-  "geometry": {"coordinates":[-80.771774,40.035417],"type":"Point"}
+  "bbox": [
+    -80.771774,
+    40.035417,
+    -80.771774,
+    40.035417
+],
+  "geometry": {"coordinates":[-80.77177399999999,40.035417],"type":"Point"}
 }

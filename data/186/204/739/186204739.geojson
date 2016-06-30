@@ -2,13 +2,14 @@
   "id": 186204739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.585545,39.274834,-81.585545,39.274834",
     "geom:latitude":39.274834,
     "geom:longitude":-81.585545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Washington Blvd",
     "sg:city":"Belpre",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186204739,
-    "wof:lastmodified":1449053099,
+    "wof:lastmodified":1467090669,
     "wof:name":"First Bank Of Ohio",
     "wof:parent_id":85845495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.585545,39.274834,-81.585545,39.274834],
+  "bbox": [
+    -81.585545,
+    39.274834,
+    -81.585545,
+    39.274834
+],
   "geometry": {"coordinates":[-81.585545,39.274834],"type":"Point"}
 }

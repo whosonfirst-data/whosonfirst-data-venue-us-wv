@@ -2,13 +2,14 @@
   "id": 236865597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.358259,38.442329,-82.358259,38.442329",
     "geom:latitude":38.442329,
     "geom:longitude":-82.358259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7532 State Rte 7",
     "sg:city":"Proctorville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236865597,
-    "wof:lastmodified":1449004271,
+    "wof:lastmodified":1467090667,
     "wof:name":"End Result",
     "wof:parent_id":85868299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.358259,38.442329,-82.358259,38.442329],
+  "bbox": [
+    -82.358259,
+    38.442329,
+    -82.358259,
+    38.442329
+],
   "geometry": {"coordinates":[-82.358259,38.442329],"type":"Point"}
 }

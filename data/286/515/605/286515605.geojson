@@ -2,13 +2,14 @@
   "id": 286515605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.712238,40.112104,-80.712238,40.112104",
     "geom:latitude":40.112104,
     "geom:longitude":-80.712238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1808 N 9th St",
     "sg:city":"Martins Ferry",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286515605,
-    "wof:lastmodified":1449015842,
+    "wof:lastmodified":1467090668,
     "wof:name":"Ohio State University",
     "wof:parent_id":85851939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "improvement"
     ]
 },
-  "bbox": [-80.712238,40.112104,-80.712238,40.112104],
+  "bbox": [
+    -80.712238,
+    40.112104,
+    -80.712238,
+    40.112104
+],
   "geometry": {"coordinates":[-80.712238,40.112104],"type":"Point"}
 }

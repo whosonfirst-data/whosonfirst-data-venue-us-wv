@@ -2,13 +2,14 @@
   "id": 286848043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.357953,38.449852,-82.357953,38.449852",
     "geom:latitude":38.449852,
     "geom:longitude":-82.357953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21602 State Rte 243",
     "sg:city":"Proctorville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286848043,
-    "wof:lastmodified":1449015583,
+    "wof:lastmodified":1467090668,
     "wof:name":"Riverview Apartments",
     "wof:parent_id":85868299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-82.357953,38.449852,-82.357953,38.449852],
-  "geometry": {"coordinates":[-82.357953,38.449852],"type":"Point"}
+  "bbox": [
+    -82.357953,
+    38.449852,
+    -82.357953,
+    38.449852
+],
+  "geometry": {"coordinates":[-82.35795299999999,38.449852],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219789565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.457276,38.429542,-82.457276,38.429542",
     "geom:latitude":38.429542,
     "geom:longitude":-82.457276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Winters Rd",
     "sg:city":"Chesapeake",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219789565,
-    "wof:lastmodified":1449071993,
+    "wof:lastmodified":1467090669,
     "wof:name":"Chesapeake Fire Dept",
     "wof:parent_id":85868317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-82.457276,38.429542,-82.457276,38.429542],
-  "geometry": {"coordinates":[-82.457276,38.429542],"type":"Point"}
+  "bbox": [
+    -82.457276,
+    38.429542,
+    -82.457276,
+    38.429542
+],
+  "geometry": {"coordinates":[-82.45727599999999,38.429542],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253477787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.080027,39.862425,-81.080027,39.862425",
     "geom:latitude":39.862425,
     "geom:longitude":-81.080027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52936 State Rte 26",
     "sg:city":"Beallsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253477787,
-    "wof:lastmodified":1449063322,
+    "wof:lastmodified":1467090669,
     "wof:name":"Switzerland-Ohio Country Club",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-81.080027,39.862425,-81.080027,39.862425],
+  "bbox": [
+    -81.080027,
+    39.862425,
+    -81.080027,
+    39.862425
+],
   "geometry": {"coordinates":[-81.080027,39.862425],"type":"Point"}
 }

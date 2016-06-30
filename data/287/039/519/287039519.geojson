@@ -2,13 +2,14 @@
   "id": 287039519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.455287,39.417988,-81.455287,39.417988",
     "geom:latitude":39.417988,
     "geom:longitude":-81.455287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 3rd St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":287039519,
-    "wof:lastmodified":1449001468,
+    "wof:lastmodified":1467090667,
     "wof:name":"Marty's Print Shop",
     "wof:parent_id":85824023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "commercial"
     ]
 },
-  "bbox": [-81.455287,39.417988,-81.455287,39.417988],
+  "bbox": [
+    -81.455287,
+    39.417988,
+    -81.455287,
+    39.417988
+],
   "geometry": {"coordinates":[-81.455287,39.417988],"type":"Point"}
 }

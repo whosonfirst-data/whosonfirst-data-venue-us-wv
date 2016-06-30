@@ -2,13 +2,14 @@
   "id": 387137371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.4577,39.533234,-78.4577,39.533234",
     "geom:latitude":39.533234,
     "geom:longitude":-78.4577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"93 Winchester St",
     "sg:city":"Paw Paw",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387137371,
-    "wof:lastmodified":1449059400,
+    "wof:lastmodified":1467090669,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.4577,39.533234,-78.4577,39.533234],
+  "bbox": [
+    -78.4577,
+    39.533234,
+    -78.4577,
+    39.533234
+],
   "geometry": {"coordinates":[-78.4577,39.533234],"type":"Point"}
 }

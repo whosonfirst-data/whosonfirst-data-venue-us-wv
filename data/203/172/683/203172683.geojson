@@ -2,13 +2,14 @@
   "id": 203172683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.150334,39.988217,-81.150334,39.988217",
     "geom:latitude":39.988217,
     "geom:longitude":-81.150334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61705 Sandy Ridge Rd",
     "sg:city":"Barnesville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203172683,
-    "wof:lastmodified":1449025680,
+    "wof:lastmodified":1467090668,
     "wof:name":"Rockwell Orchards",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "tree"
     ]
 },
-  "bbox": [-81.150334,39.988217,-81.150334,39.988217],
+  "bbox": [
+    -81.150334,
+    39.988217,
+    -81.150334,
+    39.988217
+],
   "geometry": {"coordinates":[-81.150334,39.988217],"type":"Point"}
 }

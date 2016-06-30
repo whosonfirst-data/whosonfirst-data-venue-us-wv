@@ -2,13 +2,14 @@
   "id": 236462471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.459453,39.411325,-81.459453,39.411325",
     "geom:latitude":39.411325,
     "geom:longitude":-81.459453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Maple St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":236462471,
-    "wof:lastmodified":1449005094,
+    "wof:lastmodified":1467090667,
     "wof:name":"Village Antiques & Textiles",
     "wof:parent_id":85824023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.459453,39.411325,-81.459453,39.411325],
+  "bbox": [
+    -81.459453,
+    39.411325,
+    -81.459453,
+    39.411325
+],
   "geometry": {"coordinates":[-81.459453,39.411325],"type":"Point"}
 }

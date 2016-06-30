@@ -2,13 +2,14 @@
   "id": 202528025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.17752,39.987696,-81.17752,39.987696",
     "geom:latitude":39.987696,
     "geom:longitude":-81.17752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"152 S Chestnut St",
     "sg:city":"Barnesville",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202528025,
-    "wof:lastmodified":1449060804,
+    "wof:lastmodified":1467090669,
     "wof:name":"Barnesville Tire Center",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "general"
     ]
 },
-  "bbox": [-81.17752,39.987696,-81.17752,39.987696],
+  "bbox": [
+    -81.17752,
+    39.987696,
+    -81.17752,
+    39.987696
+],
   "geometry": {"coordinates":[-81.17752,39.987696],"type":"Point"}
 }

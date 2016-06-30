@@ -2,13 +2,14 @@
   "id": 236343549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.455278,38.427432,-82.455278,38.427432",
     "geom:latitude":38.427432,
     "geom:longitude":-82.455278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 4th St",
     "sg:city":"Chesapeake",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236343549,
-    "wof:lastmodified":1449004096,
+    "wof:lastmodified":1467090667,
     "wof:name":"Meyers & Neville",
     "wof:parent_id":85868317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-82.455278,38.427432,-82.455278,38.427432],
-  "geometry": {"coordinates":[-82.455278,38.427432],"type":"Point"}
+  "bbox": [
+    -82.455278,
+    38.427432,
+    -82.455278,
+    38.427432
+],
+  "geometry": {"coordinates":[-82.45527800000001,38.427432],"type":"Point"}
 }

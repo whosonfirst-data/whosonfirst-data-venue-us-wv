@@ -2,13 +2,14 @@
   "id": 219361229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.405833,38.446535,-82.405833,38.446535",
     "geom:latitude":38.446535,
     "geom:longitude":-82.405833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Twp Rd 185",
     "sg:city":"Chesapeake",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219361229,
-    "wof:lastmodified":1449072974,
+    "wof:lastmodified":1467090669,
     "wof:name":"Raymond McDonald III",
     "wof:parent_id":85868317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-82.405833,38.446535,-82.405833,38.446535],
+  "bbox": [
+    -82.405833,
+    38.446535,
+    -82.405833,
+    38.446535
+],
   "geometry": {"coordinates":[-82.405833,38.446535],"type":"Point"}
 }

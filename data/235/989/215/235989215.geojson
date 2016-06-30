@@ -2,13 +2,14 @@
   "id": 235989215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.148896,39.993916,-81.148896,39.993916",
     "geom:latitude":39.993916,
     "geom:longitude":-81.148896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"62015 W Tacoma Rd",
     "sg:city":"Barnesville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":235989215,
-    "wof:lastmodified":1449008508,
+    "wof:lastmodified":1467090668,
     "wof:name":"Nationl Assctn of Retird Fed E",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "social"
     ]
 },
-  "bbox": [-81.148896,39.993916,-81.148896,39.993916],
-  "geometry": {"coordinates":[-81.148896,39.993916],"type":"Point"}
+  "bbox": [
+    -81.148896,
+    39.993916,
+    -81.148896,
+    39.993916
+],
+  "geometry": {"coordinates":[-81.14889599999999,39.993916],"type":"Point"}
 }

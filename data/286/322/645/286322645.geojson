@@ -2,13 +2,14 @@
   "id": 286322645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.175016,39.958322,-81.175016,39.958322",
     "geom:latitude":39.958322,
     "geom:longitude":-81.175016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59535 Somerton Hwy",
     "sg:city":"Barnesville",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":286322645,
-    "wof:lastmodified":1449015131,
+    "wof:lastmodified":1467090668,
     "wof:name":"Shop Phillips-Turner Corp",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "machine"
     ]
 },
-  "bbox": [-81.175016,39.958322,-81.175016,39.958322],
+  "bbox": [
+    -81.175016,
+    39.958322,
+    -81.175016,
+    39.958322
+],
   "geometry": {"coordinates":[-81.175016,39.958322],"type":"Point"}
 }

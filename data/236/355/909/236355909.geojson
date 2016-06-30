@@ -2,13 +2,14 @@
   "id": 236355909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.459584,39.410503,-81.459584,39.410503",
     "geom:latitude":39.410503,
     "geom:longitude":-81.459584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Gilman Ave",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236355909,
-    "wof:lastmodified":1449002386,
+    "wof:lastmodified":1467090667,
     "wof:name":"Triple Nickel Motorcycle Supl",
     "wof:parent_id":85824023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"
     ]
 },
-  "bbox": [-81.459584,39.410503,-81.459584,39.410503],
-  "geometry": {"coordinates":[-81.459584,39.410503],"type":"Point"}
+  "bbox": [
+    -81.459584,
+    39.410503,
+    -81.459584,
+    39.410503
+],
+  "geometry": {"coordinates":[-81.45958400000001,39.410503],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236676849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.467652,39.412742,-81.467652,39.412742",
     "geom:latitude":39.412742,
     "geom:longitude":-81.467652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Circle Dr",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236676849,
-    "wof:lastmodified":1449003826,
+    "wof:lastmodified":1467090667,
     "wof:name":"Schultheis's Consulting Engnr",
     "wof:parent_id":85820735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-81.467652,39.412742,-81.467652,39.412742],
+  "bbox": [
+    -81.467652,
+    39.412742,
+    -81.467652,
+    39.412742
+],
   "geometry": {"coordinates":[-81.467652,39.412742],"type":"Point"}
 }

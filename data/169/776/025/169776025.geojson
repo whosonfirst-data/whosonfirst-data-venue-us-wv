@@ -2,13 +2,14 @@
   "id": 169776025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.592914,39.276573,-81.592914,39.276573",
     "geom:latitude":39.276573,
     "geom:longitude":-81.592914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1618 Washington Blvd",
     "sg:city":"Belpre",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169776025,
-    "wof:lastmodified":1449033406,
+    "wof:lastmodified":1467090668,
     "wof:name":"Badger Lumber Co Inc",
     "wof:parent_id":85845495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.592914,39.276573,-81.592914,39.276573],
-  "geometry": {"coordinates":[-81.592914,39.276573],"type":"Point"}
+  "bbox": [
+    -81.592914,
+    39.276573,
+    -81.592914,
+    39.276573
+],
+  "geometry": {"coordinates":[-81.59291399999999,39.276573],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202392251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.453125,39.415826,-81.453125,39.415826",
     "geom:latitude":39.415826,
     "geom:longitude":-81.453125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 3rd St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202392251,
-    "wof:lastmodified":1449062157,
+    "wof:lastmodified":1467090669,
     "wof:name":"Bureau Of Employment Svc",
     "wof:parent_id":85824023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "outplacement"
     ]
 },
-  "bbox": [-81.453125,39.415826,-81.453125,39.415826],
+  "bbox": [
+    -81.453125,
+    39.415826,
+    -81.453125,
+    39.415826
+],
   "geometry": {"coordinates":[-81.453125,39.415826],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202999063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.453037,39.415958,-81.453037,39.415958",
     "geom:latitude":39.415958,
     "geom:longitude":-81.453037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 3rd St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202999063,
-    "wof:lastmodified":1449062340,
+    "wof:lastmodified":1467090669,
     "wof:name":"T & K Auto Parts & Svc Inc",
     "wof:parent_id":85824023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-81.453037,39.415958,-81.453037,39.415958],
-  "geometry": {"coordinates":[-81.453037,39.415958],"type":"Point"}
+  "bbox": [
+    -81.453037,
+    39.415958,
+    -81.453037,
+    39.415958
+],
+  "geometry": {"coordinates":[-81.45303699999999,39.415958],"type":"Point"}
 }

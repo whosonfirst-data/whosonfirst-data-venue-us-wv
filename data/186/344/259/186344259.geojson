@@ -2,13 +2,14 @@
   "id": 186344259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.454946,39.415245,-81.454946,39.415245",
     "geom:latitude":39.415245,
     "geom:longitude":-81.454946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Putnam St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186344259,
-    "wof:lastmodified":1449050403,
+    "wof:lastmodified":1467090669,
     "wof:name":"Cross Your Heart",
     "wof:parent_id":85824023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-81.454946,39.415245,-81.454946,39.415245],
-  "geometry": {"coordinates":[-81.454946,39.415245],"type":"Point"}
+  "bbox": [
+    -81.454946,
+    39.415245,
+    -81.454946,
+    39.415245
+],
+  "geometry": {"coordinates":[-81.45494600000001,39.415245],"type":"Point"}
 }

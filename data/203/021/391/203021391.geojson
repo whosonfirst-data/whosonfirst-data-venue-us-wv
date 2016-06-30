@@ -2,13 +2,14 @@
   "id": 203021391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.755456,39.966839,-80.755456,39.966839",
     "geom:latitude":39.966839,
     "geom:longitude":-80.755456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4624 Smithfield St",
     "sg:city":"Shadyside",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203021391,
-    "wof:lastmodified":1449026157,
+    "wof:lastmodified":1467090668,
     "wof:name":"Al's Masonry & Son Constr",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-80.755456,39.966839,-80.755456,39.966839],
+  "bbox": [
+    -80.755456,
+    39.966839,
+    -80.755456,
+    39.966839
+],
   "geometry": {"coordinates":[-80.755456,39.966839],"type":"Point"}
 }

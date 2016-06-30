@@ -2,13 +2,14 @@
   "id": 185691983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.458938,39.412798,-81.458938,39.412798",
     "geom:latitude":39.412798,
     "geom:longitude":-81.458938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"519 Fort St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185691983,
-    "wof:lastmodified":1449006739,
+    "wof:lastmodified":1467090668,
     "wof:name":"Mcsi Inc",
     "wof:parent_id":85824023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fiber"
     ]
 },
-  "bbox": [-81.458938,39.412798,-81.458938,39.412798],
+  "bbox": [
+    -81.458938,
+    39.412798,
+    -81.458938,
+    39.412798
+],
   "geometry": {"coordinates":[-81.458938,39.412798],"type":"Point"}
 }

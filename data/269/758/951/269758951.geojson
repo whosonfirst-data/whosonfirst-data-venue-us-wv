@@ -2,13 +2,14 @@
   "id": 269758951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.751797,39.969976,-80.751797,39.969976",
     "geom:latitude":39.969976,
     "geom:longitude":-80.751797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4210 Central Ave",
     "sg:city":"Shadyside",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":269758951,
-    "wof:lastmodified":1449036872,
+    "wof:lastmodified":1467090668,
     "wof:name":"Shadyside Fire Dept",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "volunteer"
     ]
 },
-  "bbox": [-80.751797,39.969976,-80.751797,39.969976],
+  "bbox": [
+    -80.751797,
+    39.969976,
+    -80.751797,
+    39.969976
+],
   "geometry": {"coordinates":[-80.751797,39.969976],"type":"Point"}
 }

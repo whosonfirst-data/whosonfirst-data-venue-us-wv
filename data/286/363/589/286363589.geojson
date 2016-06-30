@@ -2,13 +2,14 @@
   "id": 286363589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.181639,39.955345,-81.181639,39.955345",
     "geom:latitude":39.955345,
     "geom:longitude":-81.181639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59140 Wright Rd",
     "sg:city":"Barnesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286363589,
-    "wof:lastmodified":1449017746,
+    "wof:lastmodified":1467090668,
     "wof:name":"F & J Repair Svc",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-81.181639,39.955345,-81.181639,39.955345],
+  "bbox": [
+    -81.181639,
+    39.955345,
+    -81.181639,
+    39.955345
+],
   "geometry": {"coordinates":[-81.181639,39.955345],"type":"Point"}
 }

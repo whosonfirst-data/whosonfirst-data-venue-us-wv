@@ -2,13 +2,14 @@
   "id": 236643335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.744517,40.004857,-80.744517,40.004857",
     "geom:latitude":40.004857,
     "geom:longitude":-80.744517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1809 Belmont St",
     "sg:city":"Bellaire",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":236643335,
-    "wof:lastmodified":1449004718,
+    "wof:lastmodified":1467090667,
     "wof:name":"Classy Truckin",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "automobile"
     ]
 },
-  "bbox": [-80.744517,40.004857,-80.744517,40.004857],
+  "bbox": [
+    -80.744517,
+    40.004857,
+    -80.744517,
+    40.004857
+],
   "geometry": {"coordinates":[-80.744517,40.004857],"type":"Point"}
 }

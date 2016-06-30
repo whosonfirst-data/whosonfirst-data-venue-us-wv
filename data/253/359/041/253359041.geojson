@@ -2,13 +2,14 @@
   "id": 253359041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.746085,39.969826,-80.746085,39.969826",
     "geom:latitude":39.969826,
     "geom:longitude":-80.746085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3900 Grand Ave",
     "sg:city":"Shadyside",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":253359041,
-    "wof:lastmodified":1449062778,
+    "wof:lastmodified":1467090669,
     "wof:name":"Newhart's Body Shop",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-80.746085,39.969826,-80.746085,39.969826],
-  "geometry": {"coordinates":[-80.746085,39.969826],"type":"Point"}
+  "bbox": [
+    -80.746085,
+    39.969826,
+    -80.746085,
+    39.969826
+],
+  "geometry": {"coordinates":[-80.74608499999999,39.969826],"type":"Point"}
 }

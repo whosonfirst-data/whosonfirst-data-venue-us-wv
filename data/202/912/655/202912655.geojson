@@ -2,13 +2,14 @@
   "id": 202912655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.459823,39.408913,-81.459823,39.408913",
     "geom:latitude":39.408913,
     "geom:longitude":-81.459823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Gilman Ave",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202912655,
-    "wof:lastmodified":1449061377,
+    "wof:lastmodified":1467090669,
     "wof:name":"Henry Fearing House Museum",
     "wof:parent_id":85824023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "historical"
     ]
 },
-  "bbox": [-81.459823,39.408913,-81.459823,39.408913],
+  "bbox": [
+    -81.459823,
+    39.408913,
+    -81.459823,
+    39.408913
+],
   "geometry": {"coordinates":[-81.459823,39.408913],"type":"Point"}
 }

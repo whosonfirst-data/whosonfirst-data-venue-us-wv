@@ -2,13 +2,14 @@
   "id": 169822101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.124602,40.002274,-81.124602,40.002274",
     "geom:latitude":40.002274,
     "geom:longitude":-81.124602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37850 Barnesville Bethesda Rd",
     "sg:city":"Bethesda",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169822101,
-    "wof:lastmodified":1449035862,
+    "wof:lastmodified":1467090668,
     "wof:name":"Francis S Smith",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-81.124602,40.002274,-81.124602,40.002274],
+  "bbox": [
+    -81.124602,
+    40.002274,
+    -81.124602,
+    40.002274
+],
   "geometry": {"coordinates":[-81.124602,40.002274],"type":"Point"}
 }

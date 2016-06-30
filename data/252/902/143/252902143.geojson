@@ -2,13 +2,14 @@
   "id": 252902143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.747392,39.972715,-80.747392,39.972715",
     "geom:latitude":39.972715,
     "geom:longitude":-80.747392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3844 Central Ave",
     "sg:city":"Shadyside",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":252902143,
-    "wof:lastmodified":1449006209,
+    "wof:lastmodified":1467090668,
     "wof:name":"Village Dairy Bar",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.747392,39.972715,-80.747392,39.972715],
+  "bbox": [
+    -80.747392,
+    39.972715,
+    -80.747392,
+    39.972715
+],
   "geometry": {"coordinates":[-80.747392,39.972715],"type":"Point"}
 }

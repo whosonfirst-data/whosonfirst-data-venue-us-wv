@@ -2,13 +2,14 @@
   "id": 236848825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.436912,39.412693,-81.436912,39.412693",
     "geom:latitude":39.412693,
     "geom:longitude":-81.436912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"331 Pike St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236848825,
-    "wof:lastmodified":1449002020,
+    "wof:lastmodified":1467090667,
     "wof:name":"Getgo",
     "wof:parent_id":85838519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-81.436912,39.412693,-81.436912,39.412693],
-  "geometry": {"coordinates":[-81.436912,39.412693],"type":"Point"}
+  "bbox": [
+    -81.436912,
+    39.412693,
+    -81.436912,
+    39.412693
+],
+  "geometry": {"coordinates":[-81.43691200000001,39.412693],"type":"Point"}
 }

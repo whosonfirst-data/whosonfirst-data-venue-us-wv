@@ -2,13 +2,14 @@
   "id": 270526659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.176721,39.989686,-81.176721,39.989686",
     "geom:latitude":39.989686,
     "geom:longitude":-81.176721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 N Chestnut St",
     "sg:city":"Barnesville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270526659,
-    "wof:lastmodified":1449009362,
+    "wof:lastmodified":1467090668,
     "wof:name":"Barnesville Area Education",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.176721,39.989686,-81.176721,39.989686],
+  "bbox": [
+    -81.176721,
+    39.989686,
+    -81.176721,
+    39.989686
+],
   "geometry": {"coordinates":[-81.176721,39.989686],"type":"Point"}
 }

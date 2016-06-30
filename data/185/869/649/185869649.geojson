@@ -2,13 +2,14 @@
   "id": 185869649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.457627,39.532851,-78.457627,39.532851",
     "geom:latitude":39.532851,
     "geom:longitude":-78.457627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Winchester St",
     "sg:city":"Paw Paw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":185869649,
-    "wof:lastmodified":1449008091,
+    "wof:lastmodified":1467090668,
     "wof:name":"Town Of Paw Paw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-78.457627,39.532851,-78.457627,39.532851],
+  "bbox": [
+    -78.457627,
+    39.532851,
+    -78.457627,
+    39.532851
+],
   "geometry": {"coordinates":[-78.457627,39.532851],"type":"Point"}
 }

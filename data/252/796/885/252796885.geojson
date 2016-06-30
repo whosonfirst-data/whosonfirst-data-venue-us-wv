@@ -2,13 +2,14 @@
   "id": 252796885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.614529,39.279555,-81.614529,39.279555",
     "geom:latitude":39.279555,
     "geom:longitude":-81.614529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2603 Washington Blvd",
     "sg:city":"Belpre",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252796885,
-    "wof:lastmodified":1449005922,
+    "wof:lastmodified":1467090668,
     "wof:name":"A & B Autobody & Collision",
     "wof:parent_id":85845495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-81.614529,39.279555,-81.614529,39.279555],
+  "bbox": [
+    -81.614529,
+    39.279555,
+    -81.614529,
+    39.279555
+],
   "geometry": {"coordinates":[-81.614529,39.279555],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286387905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.163332,39.96812,-81.163332,39.96812",
     "geom:latitude":39.96812,
     "geom:longitude":-81.163332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59958 Cross Rd",
     "sg:city":"Barnesville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":286387905,
-    "wof:lastmodified":1449017708,
+    "wof:lastmodified":1467090668,
     "wof:name":"Thomas Burga Farm",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cattle"
     ]
 },
-  "bbox": [-81.163332,39.96812,-81.163332,39.96812],
+  "bbox": [
+    -81.163332,
+    39.96812,
+    -81.163332,
+    39.96812
+],
   "geometry": {"coordinates":[-81.163332,39.96812],"type":"Point"}
 }

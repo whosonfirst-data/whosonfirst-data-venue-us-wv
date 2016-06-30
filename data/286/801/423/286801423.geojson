@@ -2,13 +2,14 @@
   "id": 286801423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.455478,39.418128,-81.455478,39.418128",
     "geom:latitude":39.418128,
     "geom:longitude":-81.455478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Scammel St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286801423,
-    "wof:lastmodified":1449017606,
+    "wof:lastmodified":1467090668,
     "wof:name":"Archer Auto Parts Inc",
     "wof:parent_id":85824023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "parts"
     ]
 },
-  "bbox": [-81.455478,39.418128,-81.455478,39.418128],
+  "bbox": [
+    -81.455478,
+    39.418128,
+    -81.455478,
+    39.418128
+],
   "geometry": {"coordinates":[-81.455478,39.418128],"type":"Point"}
 }

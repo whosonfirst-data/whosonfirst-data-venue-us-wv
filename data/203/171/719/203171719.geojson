@@ -2,13 +2,14 @@
   "id": 203171719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.175043,39.985394,-81.175043,39.985394",
     "geom:latitude":39.985394,
     "geom:longitude":-81.175043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Clifton St",
     "sg:city":"Barnesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203171719,
-    "wof:lastmodified":1449026870,
+    "wof:lastmodified":1467090668,
     "wof:name":"Sewing Basket",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-81.175043,39.985394,-81.175043,39.985394],
+  "bbox": [
+    -81.175043,
+    39.985394,
+    -81.175043,
+    39.985394
+],
   "geometry": {"coordinates":[-81.175043,39.985394],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219281239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.465257,39.405563,-81.465257,39.405563",
     "geom:latitude":39.405563,
     "geom:longitude":-81.465257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"697 Virginia St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219281239,
-    "wof:lastmodified":1449073369,
+    "wof:lastmodified":1467090669,
     "wof:name":"Marietta Mining & Tools",
     "wof:parent_id":85824023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "bit"
     ]
 },
-  "bbox": [-81.465257,39.405563,-81.465257,39.405563],
-  "geometry": {"coordinates":[-81.465257,39.405563],"type":"Point"}
+  "bbox": [
+    -81.465257,
+    39.405563,
+    -81.465257,
+    39.405563
+],
+  "geometry": {"coordinates":[-81.46525699999999,39.405563],"type":"Point"}
 }

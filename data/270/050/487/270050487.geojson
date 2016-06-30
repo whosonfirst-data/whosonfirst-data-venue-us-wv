@@ -2,13 +2,14 @@
   "id": 270050487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.160352,39.988261,-81.160352,39.988261",
     "geom:latitude":39.988261,
     "geom:longitude":-81.160352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"326 Fairmont Ave",
     "sg:city":"Barnesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270050487,
-    "wof:lastmodified":1449009988,
+    "wof:lastmodified":1467090668,
     "wof:name":"K & J Machine Shop",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-81.160352,39.988261,-81.160352,39.988261],
+  "bbox": [
+    -81.160352,
+    39.988261,
+    -81.160352,
+    39.988261
+],
   "geometry": {"coordinates":[-81.160352,39.988261],"type":"Point"}
 }

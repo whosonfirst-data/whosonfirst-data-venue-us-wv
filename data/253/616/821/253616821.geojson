@@ -2,13 +2,14 @@
   "id": 253616821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.593403,39.27662,-81.593403,39.27662",
     "geom:latitude":39.27662,
     "geom:longitude":-81.593403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1614 Washington Blvd",
     "sg:city":"Belpre",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253616821,
-    "wof:lastmodified":1449065004,
+    "wof:lastmodified":1467090669,
     "wof:name":"Belpre Senior Citizens Ctr",
     "wof:parent_id":85845495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.593403,39.27662,-81.593403,39.27662],
+  "bbox": [
+    -81.593403,
+    39.27662,
+    -81.593403,
+    39.27662
+],
   "geometry": {"coordinates":[-81.593403,39.27662],"type":"Point"}
 }

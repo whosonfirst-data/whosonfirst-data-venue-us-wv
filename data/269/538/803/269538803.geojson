@@ -2,13 +2,14 @@
   "id": 269538803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.746838,40.014496,-80.746838,40.014496",
     "geom:latitude":40.014496,
     "geom:longitude":-80.746838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3180 Spruce St",
     "sg:city":"Bellaire",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":269538803,
-    "wof:lastmodified":1449036434,
+    "wof:lastmodified":1467090668,
     "wof:name":"Bellaire Window Cleaning Co",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "floor"
     ]
 },
-  "bbox": [-80.746838,40.014496,-80.746838,40.014496],
+  "bbox": [
+    -80.746838,
+    40.014496,
+    -80.746838,
+    40.014496
+],
   "geometry": {"coordinates":[-80.746838,40.014496],"type":"Point"}
 }

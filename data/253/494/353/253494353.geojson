@@ -2,13 +2,14 @@
   "id": 253494353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.13759,39.897575,-81.13759,39.897575",
     "geom:latitude":39.897575,
     "geom:longitude":-81.13759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55276 Washington St",
     "sg:city":"Somerton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253494353,
-    "wof:lastmodified":1449065453,
+    "wof:lastmodified":1467090669,
     "wof:name":"Somerton Church Of Christ",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.13759,39.897575,-81.13759,39.897575],
+  "bbox": [
+    -81.13759,
+    39.897575,
+    -81.13759,
+    39.897575
+],
   "geometry": {"coordinates":[-81.13759,39.897575],"type":"Point"}
 }

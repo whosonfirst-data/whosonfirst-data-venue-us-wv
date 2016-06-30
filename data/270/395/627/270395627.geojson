@@ -2,13 +2,14 @@
   "id": 270395627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.741861,40.029741,-80.741861,40.029741",
     "geom:latitude":40.029741,
     "geom:longitude":-80.741861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4614 Franklin St",
     "sg:city":"Bellaire",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270395627,
-    "wof:lastmodified":1449010722,
+    "wof:lastmodified":1467090668,
     "wof:name":"Muklewicz Home Repairs WA",
     "wof:parent_id":85850201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-80.741861,40.029741,-80.741861,40.029741],
+  "bbox": [
+    -80.741861,
+    40.029741,
+    -80.741861,
+    40.029741
+],
   "geometry": {"coordinates":[-80.741861,40.029741],"type":"Point"}
 }

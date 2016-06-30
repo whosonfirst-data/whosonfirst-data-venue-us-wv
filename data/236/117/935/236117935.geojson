@@ -2,13 +2,14 @@
   "id": 236117935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.45947,39.411326,-81.45947,39.411326",
     "geom:latitude":39.411326,
     "geom:longitude":-81.45947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Maple St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236117935,
-    "wof:lastmodified":1449003979,
+    "wof:lastmodified":1467090667,
     "wof:name":"WASCO Inc",
     "wof:parent_id":85824023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shipping"
     ]
 },
-  "bbox": [-81.45947,39.411326,-81.45947,39.411326],
+  "bbox": [
+    -81.45947,
+    39.411326,
+    -81.45947,
+    39.411326
+],
   "geometry": {"coordinates":[-81.45947,39.411326],"type":"Point"}
 }

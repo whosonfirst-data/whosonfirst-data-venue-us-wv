@@ -2,13 +2,14 @@
   "id": 219613493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.151142,39.988237,-81.151142,39.988237",
     "geom:latitude":39.988237,
     "geom:longitude":-81.151142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61830 Sandy Ridge Rd",
     "sg:city":"Barnesville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219613493,
-    "wof:lastmodified":1449072035,
+    "wof:lastmodified":1467090669,
     "wof:name":"Friends Center At Olney",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.151142,39.988237,-81.151142,39.988237],
-  "geometry": {"coordinates":[-81.151142,39.988237],"type":"Point"}
+  "bbox": [
+    -81.151142,
+    39.988237,
+    -81.151142,
+    39.988237
+],
+  "geometry": {"coordinates":[-81.15114199999999,39.988237],"type":"Point"}
 }

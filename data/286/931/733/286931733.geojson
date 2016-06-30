@@ -2,13 +2,14 @@
   "id": 286931733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.587263,39.277698,-81.587263,39.277698",
     "geom:latitude":39.277698,
     "geom:longitude":-81.587263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 Putnam Howe Dr",
     "sg:city":"Belpre",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":286931733,
-    "wof:lastmodified":1449017830,
+    "wof:lastmodified":1467090668,
     "wof:name":"Belpre Church Of The Nazarene",
     "wof:parent_id":85845495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.587263,39.277698,-81.587263,39.277698],
-  "geometry": {"coordinates":[-81.587263,39.277698],"type":"Point"}
+  "bbox": [
+    -81.587263,
+    39.277698,
+    -81.587263,
+    39.277698
+],
+  "geometry": {"coordinates":[-81.58726299999999,39.277698],"type":"Point"}
 }

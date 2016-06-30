@@ -2,13 +2,14 @@
   "id": 269610563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.742448,40.018742,-80.742448,40.018742",
     "geom:latitude":40.018742,
     "geom:longitude":-80.742448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3625 Guernsey St",
     "sg:city":"Bellaire",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":269610563,
-    "wof:lastmodified":1449038907,
+    "wof:lastmodified":1467090669,
     "wof:name":"St John's Central High School",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.742448,40.018742,-80.742448,40.018742],
+  "bbox": [
+    -80.742448,
+    40.018742,
+    -80.742448,
+    40.018742
+],
   "geometry": {"coordinates":[-80.742448,40.018742],"type":"Point"}
 }

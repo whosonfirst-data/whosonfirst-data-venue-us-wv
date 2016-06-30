@@ -2,13 +2,14 @@
   "id": 202857763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.80254,39.861342,-80.80254,39.861342",
     "geom:latitude":39.861342,
     "geom:longitude":-80.80254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"97 Main St",
     "sg:city":"Powhatan Point",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202857763,
-    "wof:lastmodified":1449061736,
+    "wof:lastmodified":1467090669,
     "wof:name":"Powhatan Senior Citizens Ctr",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-80.80254,39.861342,-80.80254,39.861342],
-  "geometry": {"coordinates":[-80.80254,39.861342],"type":"Point"}
+  "bbox": [
+    -80.80254,
+    39.861342,
+    -80.80254,
+    39.861342
+],
+  "geometry": {"coordinates":[-80.80253999999999,39.861342],"type":"Point"}
 }

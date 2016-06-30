@@ -2,13 +2,14 @@
   "id": 270095417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.160032,39.869893,-81.160032,39.869893",
     "geom:latitude":39.869893,
     "geom:longitude":-81.160032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36328 Mann Ridge Rd",
     "sg:city":"Jerusalem",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270095417,
-    "wof:lastmodified":1449009877,
+    "wof:lastmodified":1467090668,
     "wof:name":"Ohio Power Company",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.160032,39.869893,-81.160032,39.869893],
+  "bbox": [
+    -81.160032,
+    39.869893,
+    -81.160032,
+    39.869893
+],
   "geometry": {"coordinates":[-81.160032,39.869893],"type":"Point"}
 }

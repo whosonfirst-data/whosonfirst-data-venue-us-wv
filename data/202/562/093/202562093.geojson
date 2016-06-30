@@ -2,13 +2,14 @@
   "id": 202562093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.440114,38.518096,-82.440114,38.518096",
     "geom:latitude":38.518096,
     "geom:longitude":-82.440114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3188 Co Rd 36",
     "sg:city":"Chesapeake",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202562093,
-    "wof:lastmodified":1449061451,
+    "wof:lastmodified":1467090669,
     "wof:name":"Windsor Township Volunteer",
     "wof:parent_id":85868317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-82.440114,38.518096,-82.440114,38.518096],
-  "geometry": {"coordinates":[-82.440114,38.518096],"type":"Point"}
+  "bbox": [
+    -82.440114,
+    38.518096,
+    -82.440114,
+    38.518096
+],
+  "geometry": {"coordinates":[-82.44011399999999,38.518096],"type":"Point"}
 }

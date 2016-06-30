@@ -2,13 +2,14 @@
   "id": 252940493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.747589,39.969239,-80.747589,39.969239",
     "geom:latitude":39.969239,
     "geom:longitude":-80.747589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 E 40th St",
     "sg:city":"Shadyside",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":252940493,
-    "wof:lastmodified":1449005693,
+    "wof:lastmodified":1467090668,
     "wof:name":"Donald Ward",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-80.747589,39.969239,-80.747589,39.969239],
+  "bbox": [
+    -80.747589,
+    39.969239,
+    -80.747589,
+    39.969239
+],
   "geometry": {"coordinates":[-80.747589,39.969239],"type":"Point"}
 }

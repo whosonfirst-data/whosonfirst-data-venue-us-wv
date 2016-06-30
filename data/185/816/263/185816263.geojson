@@ -2,13 +2,14 @@
   "id": 185816263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.452395,39.410897,-81.452395,39.410897",
     "geom:latitude":39.410897,
     "geom:longitude":-81.452395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Front St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185816263,
-    "wof:lastmodified":1449007552,
+    "wof:lastmodified":1467090668,
     "wof:name":"Gold Line Jewelers",
     "wof:parent_id":85824023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-81.452395,39.410897,-81.452395,39.410897],
+  "bbox": [
+    -81.452395,
+    39.410897,
+    -81.452395,
+    39.410897
+],
   "geometry": {"coordinates":[-81.452395,39.410897],"type":"Point"}
 }

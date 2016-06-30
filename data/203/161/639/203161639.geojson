@@ -2,13 +2,14 @@
   "id": 203161639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.804294,39.862664,-80.804294,39.862664",
     "geom:latitude":39.862664,
     "geom:longitude":-80.804294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Mellott St",
     "sg:city":"Powhatan Point",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203161639,
-    "wof:lastmodified":1449025665,
+    "wof:lastmodified":1467090668,
     "wof:name":"Powhatan Point Fire Station",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-80.804294,39.862664,-80.804294,39.862664],
+  "bbox": [
+    -80.804294,
+    39.862664,
+    -80.804294,
+    39.862664
+],
   "geometry": {"coordinates":[-80.804294,39.862664],"type":"Point"}
 }

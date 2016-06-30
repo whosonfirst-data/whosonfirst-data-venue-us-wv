@@ -2,13 +2,14 @@
   "id": 270529711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.589904,39.277464,-81.589904,39.277464",
     "geom:latitude":39.277464,
     "geom:longitude":-81.589904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"706 Belrock Ave",
     "sg:city":"Belpre",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270529711,
-    "wof:lastmodified":1449009708,
+    "wof:lastmodified":1467090668,
     "wof:name":"Head Quarters",
     "wof:parent_id":85845495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-81.589904,39.277464,-81.589904,39.277464],
+  "bbox": [
+    -81.589904,
+    39.277464,
+    -81.589904,
+    39.277464
+],
   "geometry": {"coordinates":[-81.589904,39.277464],"type":"Point"}
 }

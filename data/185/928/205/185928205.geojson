@@ -2,13 +2,14 @@
   "id": 185928205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.736144,40.058704,-80.736144,40.058704",
     "geom:latitude":40.058704,
     "geom:longitude":-80.736144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57890 Moores Run Rd",
     "sg:city":"Bellaire",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185928205,
-    "wof:lastmodified":1449007995,
+    "wof:lastmodified":1467090668,
     "wof:name":"Riverview Bible Church",
     "wof:parent_id":85849773,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-80.736144,40.058704,-80.736144,40.058704],
+  "bbox": [
+    -80.736144,
+    40.058704,
+    -80.736144,
+    40.058704
+],
   "geometry": {"coordinates":[-80.736144,40.058704],"type":"Point"}
 }

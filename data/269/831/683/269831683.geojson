@@ -2,13 +2,14 @@
   "id": 269831683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.431877,39.411278,-81.431877,39.411278",
     "geom:latitude":39.411278,
     "geom:longitude":-81.431877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 Pike St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":269831683,
-    "wof:lastmodified":1449037552,
+    "wof:lastmodified":1467090668,
     "wof:name":"Lafayette Square Cinema 7",
     "wof:parent_id":85838519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "picture"
     ]
 },
-  "bbox": [-81.431877,39.411278,-81.431877,39.411278],
+  "bbox": [
+    -81.431877,
+    39.411278,
+    -81.431877,
+    39.411278
+],
   "geometry": {"coordinates":[-81.431877,39.411278],"type":"Point"}
 }

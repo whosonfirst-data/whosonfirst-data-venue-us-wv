@@ -2,13 +2,14 @@
   "id": 253626819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.350619,38.447847,-82.350619,38.447847",
     "geom:latitude":38.447847,
     "geom:longitude":-82.350619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"143 Twp Rd 1252",
     "sg:city":"Proctorville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253626819,
-    "wof:lastmodified":1449065809,
+    "wof:lastmodified":1467090669,
     "wof:name":"Hrc Realty Company LLC",
     "wof:parent_id":85868299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.350619,38.447847,-82.350619,38.447847],
-  "geometry": {"coordinates":[-82.350619,38.447847],"type":"Point"}
+  "bbox": [
+    -82.350619,
+    38.447847,
+    -82.350619,
+    38.447847
+],
+  "geometry": {"coordinates":[-82.35061899999999,38.447847],"type":"Point"}
 }

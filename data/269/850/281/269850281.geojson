@@ -2,13 +2,14 @@
   "id": 269850281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.454841,39.415327,-81.454841,39.415327",
     "geom:latitude":39.415327,
     "geom:longitude":-81.454841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Putnam St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":269850281,
-    "wof:lastmodified":1449037537,
+    "wof:lastmodified":1467090668,
     "wof:name":"Creating Memories Porters Flor",
     "wof:parent_id":85824023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.454841,39.415327,-81.454841,39.415327],
+  "bbox": [
+    -81.454841,
+    39.415327,
+    -81.454841,
+    39.415327
+],
   "geometry": {"coordinates":[-81.454841,39.415327],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219309367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.351598,38.4414,-82.351598,38.4414",
     "geom:latitude":38.4414,
     "geom:longitude":-82.351598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Twp Rd 1107",
     "sg:city":"Proctorville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219309367,
-    "wof:lastmodified":1449071184,
+    "wof:lastmodified":1467090669,
     "wof:name":"McCray Racing",
     "wof:parent_id":85868299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "accessory"
     ]
 },
-  "bbox": [-82.351598,38.4414,-82.351598,38.4414],
+  "bbox": [
+    -82.351598,
+    38.4414,
+    -82.351598,
+    38.4414
+],
   "geometry": {"coordinates":[-82.351598,38.4414],"type":"Point"}
 }

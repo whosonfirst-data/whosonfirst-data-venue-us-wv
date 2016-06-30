@@ -2,13 +2,14 @@
   "id": 269844591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.37608,38.446276,-82.37608,38.446276",
     "geom:latitude":38.446276,
     "geom:longitude":-82.37608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"625 State Rte 775",
     "sg:city":"Proctorville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269844591,
-    "wof:lastmodified":1449037152,
+    "wof:lastmodified":1467090668,
     "wof:name":"Hall Funeral Home",
     "wof:parent_id":85868299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-82.37608,38.446276,-82.37608,38.446276],
+  "bbox": [
+    -82.37608,
+    38.446276,
+    -82.37608,
+    38.446276
+],
   "geometry": {"coordinates":[-82.37608,38.446276],"type":"Point"}
 }

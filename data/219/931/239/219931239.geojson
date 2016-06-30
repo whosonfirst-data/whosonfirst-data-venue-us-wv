@@ -2,13 +2,14 @@
   "id": 219931239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.582018,39.273649,-81.582018,39.273649",
     "geom:latitude":39.273649,
     "geom:longitude":-81.582018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Lee St",
     "sg:city":"Belpre",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":219931239,
-    "wof:lastmodified":1449073598,
+    "wof:lastmodified":1467090669,
     "wof:name":"Specialist & Diagnostic Center",
     "wof:parent_id":85845495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-81.582018,39.273649,-81.582018,39.273649],
-  "geometry": {"coordinates":[-81.582018,39.273649],"type":"Point"}
+  "bbox": [
+    -81.582018,
+    39.273649,
+    -81.582018,
+    39.273649
+],
+  "geometry": {"coordinates":[-81.58201800000001,39.273649],"type":"Point"}
 }

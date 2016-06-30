@@ -2,13 +2,14 @@
   "id": 253461773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.294021,38.578804,-82.294021,38.578804",
     "geom:latitude":38.578804,
     "geom:longitude":-82.294021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"326 Co Rd 9",
     "sg:city":"Crown City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253461773,
-    "wof:lastmodified":1449063949,
+    "wof:lastmodified":1467090669,
     "wof:name":"Michael White",
     "wof:parent_id":85868299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-82.294021,38.578804,-82.294021,38.578804],
+  "bbox": [
+    -82.294021,
+    38.578804,
+    -82.294021,
+    38.578804
+],
   "geometry": {"coordinates":[-82.294021,38.578804],"type":"Point"}
 }

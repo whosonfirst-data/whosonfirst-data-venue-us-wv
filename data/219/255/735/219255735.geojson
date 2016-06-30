@@ -2,13 +2,14 @@
   "id": 219255735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.455034,39.417667,-81.455034,39.417667",
     "geom:latitude":39.417667,
     "geom:longitude":-81.455034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"323 3rd St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219255735,
-    "wof:lastmodified":1449072003,
+    "wof:lastmodified":1467090669,
     "wof:name":"Daryl Culp Photography",
     "wof:parent_id":85824023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-81.455034,39.417667,-81.455034,39.417667],
+  "bbox": [
+    -81.455034,
+    39.417667,
+    -81.455034,
+    39.417667
+],
   "geometry": {"coordinates":[-81.455034,39.417667],"type":"Point"}
 }

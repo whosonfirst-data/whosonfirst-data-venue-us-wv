@@ -2,13 +2,14 @@
   "id": 269641295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.431776,38.462911,-82.431776,38.462911",
     "geom:latitude":38.462911,
     "geom:longitude":-82.431776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Twp Rd 1348",
     "sg:city":"Chesapeake",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":269641295,
-    "wof:lastmodified":1449038232,
+    "wof:lastmodified":1467090668,
     "wof:name":"Bryan Black",
     "wof:parent_id":85868317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"
     ]
 },
-  "bbox": [-82.431776,38.462911,-82.431776,38.462911],
+  "bbox": [
+    -82.431776,
+    38.462911,
+    -82.431776,
+    38.462911
+],
   "geometry": {"coordinates":[-82.431776,38.462911],"type":"Point"}
 }

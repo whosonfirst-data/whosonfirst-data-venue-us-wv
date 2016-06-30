@@ -2,13 +2,14 @@
   "id": 169721241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.454706,39.413129,-81.454706,39.413129",
     "geom:latitude":39.413129,
     "geom:longitude":-81.454706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"258 Front St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169721241,
-    "wof:lastmodified":1449035963,
+    "wof:lastmodified":1467090668,
     "wof:name":"Brownie's Donut & Pastry Shop",
     "wof:parent_id":85824023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"
     ]
 },
-  "bbox": [-81.454706,39.413129,-81.454706,39.413129],
+  "bbox": [
+    -81.454706,
+    39.413129,
+    -81.454706,
+    39.413129
+],
   "geometry": {"coordinates":[-81.454706,39.413129],"type":"Point"}
 }

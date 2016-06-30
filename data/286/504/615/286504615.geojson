@@ -2,13 +2,14 @@
   "id": 286504615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.454006,39.41896,-81.454006,39.41896",
     "geom:latitude":39.41896,
     "geom:longitude":-81.454006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 4th St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":286504615,
-    "wof:lastmodified":1449015673,
+    "wof:lastmodified":1467090668,
     "wof:name":"Betsey Dormitory",
     "wof:parent_id":85824023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "social"
     ]
 },
-  "bbox": [-81.454006,39.41896,-81.454006,39.41896],
-  "geometry": {"coordinates":[-81.454006,39.41896],"type":"Point"}
+  "bbox": [
+    -81.454006,
+    39.41896,
+    -81.454006,
+    39.41896
+],
+  "geometry": {"coordinates":[-81.45400600000001,39.41896],"type":"Point"}
 }

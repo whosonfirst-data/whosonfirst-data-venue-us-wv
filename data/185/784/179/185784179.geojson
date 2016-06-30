@@ -2,13 +2,14 @@
   "id": 185784179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.584488,39.274483,-81.584488,39.274483",
     "geom:latitude":39.274483,
     "geom:longitude":-81.584488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1210 Washington Blvd",
     "sg:city":"Belpre",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185784179,
-    "wof:lastmodified":1449007668,
+    "wof:lastmodified":1467090668,
     "wof:name":"Wonder Bread Store",
     "wof:parent_id":85845495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.584488,39.274483,-81.584488,39.274483],
-  "geometry": {"coordinates":[-81.584488,39.274483],"type":"Point"}
+  "bbox": [
+    -81.584488,
+    39.274483,
+    -81.584488,
+    39.274483
+],
+  "geometry": {"coordinates":[-81.58448799999999,39.274483],"type":"Point"}
 }

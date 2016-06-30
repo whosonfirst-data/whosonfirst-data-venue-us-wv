@@ -2,13 +2,14 @@
   "id": 219215921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.432209,39.411412,-81.432209,39.411412",
     "geom:latitude":39.411412,
     "geom:longitude":-81.432209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"440 Pike St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219215921,
-    "wof:lastmodified":1449073312,
+    "wof:lastmodified":1467090669,
     "wof:name":"Uniglobe Cruise & Travel",
     "wof:parent_id":85838519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bureau"
     ]
 },
-  "bbox": [-81.432209,39.411412,-81.432209,39.411412],
+  "bbox": [
+    -81.432209,
+    39.411412,
+    -81.432209,
+    39.411412
+],
   "geometry": {"coordinates":[-81.432209,39.411412],"type":"Point"}
 }

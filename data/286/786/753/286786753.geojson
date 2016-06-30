@@ -2,13 +2,14 @@
   "id": 286786753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.800629,39.86401,-80.800629,39.86401",
     "geom:latitude":39.86401,
     "geom:longitude":-80.800629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Allen Ave",
     "sg:city":"Powhatan Point",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286786753,
-    "wof:lastmodified":1449015555,
+    "wof:lastmodified":1467090668,
     "wof:name":"Parkview Apts",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-80.800629,39.86401,-80.800629,39.86401],
+  "bbox": [
+    -80.800629,
+    39.86401,
+    -80.800629,
+    39.86401
+],
   "geometry": {"coordinates":[-80.800629,39.86401],"type":"Point"}
 }

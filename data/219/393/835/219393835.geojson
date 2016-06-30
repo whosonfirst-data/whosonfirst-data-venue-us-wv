@@ -2,13 +2,14 @@
   "id": 219393835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.453173,39.411757,-81.453173,39.411757",
     "geom:latitude":39.411757,
     "geom:longitude":-81.453173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Front St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219393835,
-    "wof:lastmodified":1449071502,
+    "wof:lastmodified":1467090669,
     "wof:name":"Aardvark Multi Media",
     "wof:parent_id":85824023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "multimedia"
     ]
 },
-  "bbox": [-81.453173,39.411757,-81.453173,39.411757],
-  "geometry": {"coordinates":[-81.453173,39.411757],"type":"Point"}
+  "bbox": [
+    -81.453173,
+    39.411757,
+    -81.453173,
+    39.411757
+],
+  "geometry": {"coordinates":[-81.45317300000001,39.411757],"type":"Point"}
 }

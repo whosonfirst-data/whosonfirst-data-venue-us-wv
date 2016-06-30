@@ -2,13 +2,14 @@
   "id": 270355317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.749012,39.969316,-80.749012,39.969316",
     "geom:latitude":39.969316,
     "geom:longitude":-80.749012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4055 Highland Ave",
     "sg:city":"Shadyside",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":270355317,
-    "wof:lastmodified":1449009296,
+    "wof:lastmodified":1467090668,
     "wof:name":"Contraguerros Carpet & Cleani",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.749012,39.969316,-80.749012,39.969316],
-  "geometry": {"coordinates":[-80.749012,39.969316],"type":"Point"}
+  "bbox": [
+    -80.749012,
+    39.969316,
+    -80.749012,
+    39.969316
+],
+  "geometry": {"coordinates":[-80.74901199999999,39.969316],"type":"Point"}
 }

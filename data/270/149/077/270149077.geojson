@@ -2,13 +2,14 @@
   "id": 270149077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.598974,39.283701,-81.598974,39.283701",
     "geom:latitude":39.283701,
     "geom:longitude":-81.598974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 Ashberry Dr",
     "sg:city":"Belpre",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270149077,
-    "wof:lastmodified":1449008666,
+    "wof:lastmodified":1467090668,
     "wof:name":"Frontier Commercial Painting",
     "wof:parent_id":85845495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.598974,39.283701,-81.598974,39.283701],
+  "bbox": [
+    -81.598974,
+    39.283701,
+    -81.598974,
+    39.283701
+],
   "geometry": {"coordinates":[-81.598974,39.283701],"type":"Point"}
 }

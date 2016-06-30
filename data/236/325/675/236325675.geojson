@@ -2,13 +2,14 @@
   "id": 236325675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.59705,39.276399,-81.59705,39.276399",
     "geom:latitude":39.276399,
     "geom:longitude":-81.59705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1710 Washington Blvd",
     "sg:city":"Belpre",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236325675,
-    "wof:lastmodified":1449002850,
+    "wof:lastmodified":1467090667,
     "wof:name":"Mc Cauley Webster & Emrick",
     "wof:parent_id":85845495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.59705,39.276399,-81.59705,39.276399],
+  "bbox": [
+    -81.59705,
+    39.276399,
+    -81.59705,
+    39.276399
+],
   "geometry": {"coordinates":[-81.59705,39.276399],"type":"Point"}
 }

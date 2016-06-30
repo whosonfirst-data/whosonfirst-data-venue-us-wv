@@ -2,13 +2,14 @@
   "id": 286707367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.709848,40.152939,-80.709848,40.152939",
     "geom:latitude":40.152939,
     "geom:longitude":-80.709848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"718 Market St",
     "sg:city":"Yorkville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":286707367,
-    "wof:lastmodified":1449017650,
+    "wof:lastmodified":1467090668,
     "wof:name":"Unisex Hair Designs By Brenda",
     "wof:parent_id":85851939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.709848,40.152939,-80.709848,40.152939],
-  "geometry": {"coordinates":[-80.709848,40.152939],"type":"Point"}
+  "bbox": [
+    -80.709848,
+    40.152939,
+    -80.709848,
+    40.152939
+],
+  "geometry": {"coordinates":[-80.70984799999999,40.152939],"type":"Point"}
 }

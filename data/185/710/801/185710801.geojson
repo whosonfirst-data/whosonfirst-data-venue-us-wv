@@ -2,13 +2,14 @@
   "id": 185710801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.805985,39.857931,-80.805985,39.857931",
     "geom:latitude":39.857931,
     "geom:longitude":-80.805985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"153 1st St",
     "sg:city":"Powhatan Point",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":185710801,
-    "wof:lastmodified":1449006697,
+    "wof:lastmodified":1467090668,
     "wof:name":"B & T Downtown",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "craft"
     ]
 },
-  "bbox": [-80.805985,39.857931,-80.805985,39.857931],
-  "geometry": {"coordinates":[-80.805985,39.857931],"type":"Point"}
+  "bbox": [
+    -80.805985,
+    39.857931,
+    -80.805985,
+    39.857931
+],
+  "geometry": {"coordinates":[-80.80598500000001,39.857931],"type":"Point"}
 }

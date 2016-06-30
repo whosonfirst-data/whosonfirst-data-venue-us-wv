@@ -2,13 +2,14 @@
   "id": 236857457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.44964,39.412166,-81.44964,39.412166",
     "geom:latitude":39.412166,
     "geom:longitude":-81.44964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Greene St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236857457,
-    "wof:lastmodified":1449003861,
+    "wof:lastmodified":1467090667,
     "wof:name":"RHDD Inc",
     "wof:parent_id":85824023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "assistance"
     ]
 },
-  "bbox": [-81.44964,39.412166,-81.44964,39.412166],
+  "bbox": [
+    -81.44964,
+    39.412166,
+    -81.44964,
+    39.412166
+],
   "geometry": {"coordinates":[-81.44964,39.412166],"type":"Point"}
 }

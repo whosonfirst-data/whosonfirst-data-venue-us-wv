@@ -2,13 +2,14 @@
   "id": 236329243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.714371,40.100041,-80.714371,40.100041",
     "geom:latitude":40.100041,
     "geom:longitude":-80.714371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Avondale Ave",
     "sg:city":"Martins Ferry",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236329243,
-    "wof:lastmodified":1449002381,
+    "wof:lastmodified":1467090667,
     "wof:name":"Huff Tamerra",
     "wof:parent_id":85851939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-80.714371,40.100041,-80.714371,40.100041],
+  "bbox": [
+    -80.714371,
+    40.100041,
+    -80.714371,
+    40.100041
+],
   "geometry": {"coordinates":[-80.714371,40.100041],"type":"Point"}
 }

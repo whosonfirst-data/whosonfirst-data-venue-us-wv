@@ -2,13 +2,14 @@
   "id": 253540705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.453933,39.412352,-81.453933,39.412352",
     "geom:latitude":39.412352,
     "geom:longitude":-81.453933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"167 Front St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":253540705,
-    "wof:lastmodified":1449063988,
+    "wof:lastmodified":1467090669,
     "wof:name":"Marietta Brewing Co",
     "wof:parent_id":85824023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brewery"
     ]
 },
-  "bbox": [-81.453933,39.412352,-81.453933,39.412352],
-  "geometry": {"coordinates":[-81.453933,39.412352],"type":"Point"}
+  "bbox": [
+    -81.453933,
+    39.412352,
+    -81.453933,
+    39.412352
+],
+  "geometry": {"coordinates":[-81.45393300000001,39.412352],"type":"Point"}
 }

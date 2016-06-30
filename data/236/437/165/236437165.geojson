@@ -2,13 +2,14 @@
   "id": 236437165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.436986,39.41272,-81.436986,39.41272",
     "geom:latitude":39.41272,
     "geom:longitude":-81.436986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"335 Pike St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":236437165,
-    "wof:lastmodified":1449004148,
+    "wof:lastmodified":1467090667,
     "wof:name":"Napoli's Pizza",
     "wof:parent_id":85838519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.436986,39.41272,-81.436986,39.41272],
+  "bbox": [
+    -81.436986,
+    39.41272,
+    -81.436986,
+    39.41272
+],
   "geometry": {"coordinates":[-81.436986,39.41272],"type":"Point"}
 }

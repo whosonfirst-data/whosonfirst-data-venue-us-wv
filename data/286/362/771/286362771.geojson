@@ -2,13 +2,14 @@
   "id": 286362771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.464024,38.439442,-82.464024,38.439442",
     "geom:latitude":38.439442,
     "geom:longitude":-82.464024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"188 Twp Rd 158",
     "sg:city":"Chesapeake",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286362771,
-    "wof:lastmodified":1449017092,
+    "wof:lastmodified":1467090668,
     "wof:name":"Central Ohio Landscape Co",
     "wof:parent_id":85868317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.464024,38.439442,-82.464024,38.439442],
-  "geometry": {"coordinates":[-82.464024,38.439442],"type":"Point"}
+  "bbox": [
+    -82.464024,
+    38.439442,
+    -82.464024,
+    38.439442
+],
+  "geometry": {"coordinates":[-82.46402399999999,38.439442],"type":"Point"}
 }

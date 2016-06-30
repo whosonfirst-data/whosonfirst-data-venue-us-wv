@@ -2,13 +2,14 @@
   "id": 219308363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.714532,40.101612,-80.714532,40.101612",
     "geom:latitude":40.101612,
     "geom:longitude":-80.714532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 Main St",
     "sg:city":"Martins Ferry",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219308363,
-    "wof:lastmodified":1449074027,
+    "wof:lastmodified":1467090669,
     "wof:name":"United Steelworkers Of America",
     "wof:parent_id":85851939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.714532,40.101612,-80.714532,40.101612],
-  "geometry": {"coordinates":[-80.714532,40.101612],"type":"Point"}
+  "bbox": [
+    -80.714532,
+    40.101612,
+    -80.714532,
+    40.101612
+],
+  "geometry": {"coordinates":[-80.71453200000001,40.101612],"type":"Point"}
 }

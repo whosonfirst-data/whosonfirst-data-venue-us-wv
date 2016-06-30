@@ -2,13 +2,14 @@
   "id": 253433311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.833479,40.012982,-80.833479,40.012982",
     "geom:latitude":40.012982,
     "geom:longitude":-80.833479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"64263 Sand Hill Rd",
     "sg:city":"Bellaire",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253433311,
-    "wof:lastmodified":1449063162,
+    "wof:lastmodified":1467090669,
     "wof:name":"Russell Furniture and Repairs",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.833479,40.012982,-80.833479,40.012982],
+  "bbox": [
+    -80.833479,
+    40.012982,
+    -80.833479,
+    40.012982
+],
   "geometry": {"coordinates":[-80.833479,40.012982],"type":"Point"}
 }

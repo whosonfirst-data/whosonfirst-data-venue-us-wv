@@ -2,13 +2,14 @@
   "id": 236970353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.373715,38.447278,-82.373715,38.447278",
     "geom:latitude":38.447278,
     "geom:longitude":-82.373715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Twp Rd 1130",
     "sg:city":"Proctorville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":236970353,
-    "wof:lastmodified":1449005180,
+    "wof:lastmodified":1467090668,
     "wof:name":"New Hope United Methodist Chr",
     "wof:parent_id":85868299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.373715,38.447278,-82.373715,38.447278],
+  "bbox": [
+    -82.373715,
+    38.447278,
+    -82.373715,
+    38.447278
+],
   "geometry": {"coordinates":[-82.373715,38.447278],"type":"Point"}
 }

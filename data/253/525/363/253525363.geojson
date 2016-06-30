@@ -2,13 +2,14 @@
   "id": 253525363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.595327,39.276477,-81.595327,39.276477",
     "geom:latitude":39.276477,
     "geom:longitude":-81.595327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1684 State Rte 618",
     "sg:city":"Belpre",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":253525363,
-    "wof:lastmodified":1449065149,
+    "wof:lastmodified":1467090669,
     "wof:name":"Lafarge North America",
     "wof:parent_id":85845495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "mfg"
     ]
 },
-  "bbox": [-81.595327,39.276477,-81.595327,39.276477],
+  "bbox": [
+    -81.595327,
+    39.276477,
+    -81.595327,
+    39.276477
+],
   "geometry": {"coordinates":[-81.595327,39.276477],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219211097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.153385,39.988296,-81.153385,39.988296",
     "geom:latitude":39.988296,
     "geom:longitude":-81.153385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"998 Shamrock Dr",
     "sg:city":"Barnesville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219211097,
-    "wof:lastmodified":1449071266,
+    "wof:lastmodified":1467090669,
     "wof:name":"Barnesville Elementary School",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.153385,39.988296,-81.153385,39.988296],
+  "bbox": [
+    -81.153385,
+    39.988296,
+    -81.153385,
+    39.988296
+],
   "geometry": {"coordinates":[-81.153385,39.988296],"type":"Point"}
 }

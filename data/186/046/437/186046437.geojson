@@ -2,13 +2,14 @@
   "id": 186046437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.136107,39.902243,-81.136107,39.902243",
     "geom:latitude":39.902243,
     "geom:longitude":-81.136107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55368 Stumptown Rd",
     "sg:city":"Barnesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186046437,
-    "wof:lastmodified":1449051864,
+    "wof:lastmodified":1467090669,
     "wof:name":"Stephen Property MGT LLC",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-81.136107,39.902243,-81.136107,39.902243],
+  "bbox": [
+    -81.136107,
+    39.902243,
+    -81.136107,
+    39.902243
+],
   "geometry": {"coordinates":[-81.136107,39.902243],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270382719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.458036,39.422906,-81.458036,39.422906",
     "geom:latitude":39.422906,
     "geom:longitude":-81.458036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 4th St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":270382719,
-    "wof:lastmodified":1449009264,
+    "wof:lastmodified":1467090668,
     "wof:name":"First Presbyterian Church Inc",
     "wof:parent_id":85824023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.458036,39.422906,-81.458036,39.422906],
-  "geometry": {"coordinates":[-81.458036,39.422906],"type":"Point"}
+  "bbox": [
+    -81.458036,
+    39.422906,
+    -81.458036,
+    39.422906
+],
+  "geometry": {"coordinates":[-81.45803600000001,39.422906],"type":"Point"}
 }

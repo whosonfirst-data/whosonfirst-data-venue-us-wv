@@ -2,13 +2,14 @@
   "id": 287002393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.46217,39.411646,-81.46217,39.411646",
     "geom:latitude":39.411646,
     "geom:longitude":-81.46217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 Harmar St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":287002393,
-    "wof:lastmodified":1449001398,
+    "wof:lastmodified":1467090667,
     "wof:name":"Franklin Fire Equipment Co",
     "wof:parent_id":85824023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "safety"
     ]
 },
-  "bbox": [-81.46217,39.411646,-81.46217,39.411646],
+  "bbox": [
+    -81.46217,
+    39.411646,
+    -81.46217,
+    39.411646
+],
   "geometry": {"coordinates":[-81.46217,39.411646],"type":"Point"}
 }

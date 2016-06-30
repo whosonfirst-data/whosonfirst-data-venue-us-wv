@@ -2,13 +2,14 @@
   "id": 186605517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.875613,40.034089,-80.875613,40.034089",
     "geom:latitude":40.034089,
     "geom:longitude":-80.875613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65140 Bull Run Rd",
     "sg:city":"Saint Clairsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186605517,
-    "wof:lastmodified":1449051678,
+    "wof:lastmodified":1467090669,
     "wof:name":"Frank Bartusek",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equine"
     ]
 },
-  "bbox": [-80.875613,40.034089,-80.875613,40.034089],
+  "bbox": [
+    -80.875613,
+    40.034089,
+    -80.875613,
+    40.034089
+],
   "geometry": {"coordinates":[-80.875613,40.034089],"type":"Point"}
 }

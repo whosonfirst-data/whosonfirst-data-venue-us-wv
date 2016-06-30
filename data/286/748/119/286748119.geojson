@@ -2,13 +2,14 @@
   "id": 286748119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.460112,39.414493,-81.460112,39.414493",
     "geom:latitude":39.414493,
     "geom:longitude":-81.460112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"415 Gilman Ave",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286748119,
-    "wof:lastmodified":1449017390,
+    "wof:lastmodified":1467090668,
     "wof:name":"Marietta Joint & Clutch",
     "wof:parent_id":85824023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-81.460112,39.414493,-81.460112,39.414493],
+  "bbox": [
+    -81.460112,
+    39.414493,
+    -81.460112,
+    39.414493
+],
   "geometry": {"coordinates":[-81.460112,39.414493],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203000297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.897658,40.043966,-80.897658,40.043966",
     "geom:latitude":40.043966,
     "geom:longitude":-80.897658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65938 Glencoe Rd",
     "sg:city":"Saint Clairsville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203000297,
-    "wof:lastmodified":1449025242,
+    "wof:lastmodified":1467090668,
     "wof:name":"Holub Farm and Greenhouse",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "operates"
     ]
 },
-  "bbox": [-80.897658,40.043966,-80.897658,40.043966],
-  "geometry": {"coordinates":[-80.897658,40.043966],"type":"Point"}
+  "bbox": [
+    -80.897658,
+    40.043966,
+    -80.897658,
+    40.043966
+],
+  "geometry": {"coordinates":[-80.89765800000001,40.043966],"type":"Point"}
 }

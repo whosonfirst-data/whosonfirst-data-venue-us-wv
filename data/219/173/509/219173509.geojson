@@ -2,13 +2,14 @@
   "id": 219173509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.619099,39.277092,-81.619099,39.277092",
     "geom:latitude":39.277092,
     "geom:longitude":-81.619099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 Beach Dr",
     "sg:city":"Belpre",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219173509,
-    "wof:lastmodified":1449071072,
+    "wof:lastmodified":1467090669,
     "wof:name":"John's Upholstery & Trim",
     "wof:parent_id":85845495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "upholstery"
     ]
 },
-  "bbox": [-81.619099,39.277092,-81.619099,39.277092],
-  "geometry": {"coordinates":[-81.619099,39.277092],"type":"Point"}
+  "bbox": [
+    -81.619099,
+    39.277092,
+    -81.619099,
+    39.277092
+],
+  "geometry": {"coordinates":[-81.61909900000001,39.277092],"type":"Point"}
 }

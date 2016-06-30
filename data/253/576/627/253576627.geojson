@@ -2,13 +2,14 @@
   "id": 253576627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.455897,38.42823,-82.455897,38.42823",
     "geom:latitude":38.42823,
     "geom:longitude":-82.455897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 3rd Ave",
     "sg:city":"Chesapeake",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253576627,
-    "wof:lastmodified":1449065075,
+    "wof:lastmodified":1467090669,
     "wof:name":"Heartland Biscuits",
     "wof:parent_id":85868317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-82.455897,38.42823,-82.455897,38.42823],
-  "geometry": {"coordinates":[-82.455897,38.42823],"type":"Point"}
+  "bbox": [
+    -82.455897,
+    38.42823,
+    -82.455897,
+    38.42823
+],
+  "geometry": {"coordinates":[-82.45589699999999,38.42823],"type":"Point"}
 }

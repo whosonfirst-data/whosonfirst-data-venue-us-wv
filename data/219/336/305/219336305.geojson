@@ -2,13 +2,14 @@
   "id": 219336305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.060608,40.034596,-81.060608,40.034596",
     "geom:latitude":40.034596,
     "geom:longitude":-81.060608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41462 Palmer Rd",
     "sg:city":"Belmont",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219336305,
-    "wof:lastmodified":1449070309,
+    "wof:lastmodified":1467090669,
     "wof:name":"B B R Drilling Co",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.060608,40.034596,-81.060608,40.034596],
+  "bbox": [
+    -81.060608,
+    40.034596,
+    -81.060608,
+    40.034596
+],
   "geometry": {"coordinates":[-81.060608,40.034596],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253325065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.330491,38.447095,-82.330491,38.447095",
     "geom:latitude":38.447095,
     "geom:longitude":-82.330491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Twp Rd 1244",
     "sg:city":"Proctorville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253325065,
-    "wof:lastmodified":1449063982,
+    "wof:lastmodified":1467090669,
     "wof:name":"Bethany McIntire",
     "wof:parent_id":85868299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.330491,38.447095,-82.330491,38.447095],
-  "geometry": {"coordinates":[-82.330491,38.447095],"type":"Point"}
+  "bbox": [
+    -82.330491,
+    38.447095,
+    -82.330491,
+    38.447095
+],
+  "geometry": {"coordinates":[-82.33049099999999,38.447095],"type":"Point"}
 }

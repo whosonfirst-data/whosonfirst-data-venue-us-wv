@@ -2,13 +2,14 @@
   "id": 253103539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.452938,39.413456,-81.452938,39.413456",
     "geom:latitude":39.413456,
     "geom:longitude":-81.452938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 2nd St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253103539,
-    "wof:lastmodified":1449064664,
+    "wof:lastmodified":1467090669,
     "wof:name":"Asylum Comics & Videos",
     "wof:parent_id":85824023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "comic"
     ]
 },
-  "bbox": [-81.452938,39.413456,-81.452938,39.413456],
+  "bbox": [
+    -81.452938,
+    39.413456,
+    -81.452938,
+    39.413456
+],
   "geometry": {"coordinates":[-81.452938,39.413456],"type":"Point"}
 }

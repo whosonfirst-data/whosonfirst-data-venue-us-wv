@@ -2,13 +2,14 @@
   "id": 186450263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.040147,39.883286,-81.040147,39.883286",
     "geom:latitude":39.883286,
     "geom:longitude":-81.040147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"54551 Crum Rd",
     "sg:city":"Beallsville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186450263,
-    "wof:lastmodified":1449052597,
+    "wof:lastmodified":1467090669,
     "wof:name":"Rockwell Design",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-81.040147,39.883286,-81.040147,39.883286],
+  "bbox": [
+    -81.040147,
+    39.883286,
+    -81.040147,
+    39.883286
+],
   "geometry": {"coordinates":[-81.040147,39.883286],"type":"Point"}
 }
