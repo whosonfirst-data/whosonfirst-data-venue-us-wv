@@ -2,14 +2,20 @@
   "id": 823432441,
   "type": "Feature",
   "properties": {
+    "addr:full":"901 Oakvale Rd Princeton WV 24740",
+    "addr:housenumber":"901",
+    "addr:postcode":"24740",
+    "addr:street":"Oakvale Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.054908,37.363361,-81.054908,37.363361",
     "geom:latitude":37.363361,
     "geom:longitude":-81.054908,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"901 Oakvale Rd",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102082639,
         85813203
     ],
+    "wof:brand_id":420573963,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7meprlQ57QTRpCSVrVnse5_37.363361_-81.054908@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433991,
-    "wof:geomhash":"addef46c252b669a6802d08bee39f29f",
+    "wof:geomhash":"55cdd8286e16eb26836ef68f253379c1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823432441,
-    "wof:lastmodified":1467090754,
+    "wof:lastmodified":1510603293,
     "wof:name":"Super 8 Motel",
     "wof:parent_id":85813203,
     "wof:placetype":"venue",

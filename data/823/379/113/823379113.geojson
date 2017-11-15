@@ -2,14 +2,20 @@
   "id": 823379113,
   "type": "Feature",
   "properties": {
+    "addr:full":"804 W Main St Bridgeport WV 26330",
+    "addr:housenumber":"804",
+    "addr:postcode":"26330",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.266683,39.281977,-80.266683,39.281977",
     "geom:latitude":39.281977,
     "geom:longitude":-80.266683,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"804 W Main St",
     "sg:city":"Bridgeport",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102082619,
         85812589
     ],
+    "wof:brand_id":420575149,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24KQ1dxerUiOtztvAhWlMj_39.281977_-80.266683@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431604,
-    "wof:geomhash":"7c07304cc3df1615ec6c8801f2fc9b84",
+    "wof:geomhash":"d565568bb31bd5bc2c6ba6c694624fcd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823379113,
-    "wof:lastmodified":1467090687,
+    "wof:lastmodified":1510602943,
     "wof:name":"Meineke Car Care Ctr",
     "wof:parent_id":85812589,
     "wof:placetype":"venue",

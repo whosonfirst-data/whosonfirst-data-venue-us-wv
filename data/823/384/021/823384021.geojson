@@ -2,14 +2,20 @@
   "id": 823384021,
   "type": "Feature",
   "properties": {
+    "addr:full":"2005 Holly St Fairmont WV 26554",
+    "addr:housenumber":"2005",
+    "addr:postcode":"26554",
+    "addr:street":"Holly St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.176031,39.404728,-80.176031,39.404728",
     "geom:latitude":39.404728,
     "geom:longitude":-80.176031,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2005 Holly St",
     "sg:city":"Fairmont",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102082601,
         85834381
     ],
+    "wof:brand_id":420574687,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WJZHxDXpidKoBm4mhQR2c_39.404728_-80.176031@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431811,
-    "wof:geomhash":"c24c9b288a67eac4e240e8f8dc79f035",
+    "wof:geomhash":"aafaff121e3f7356f1d18d52350388a9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823384021,
-    "wof:lastmodified":1467090693,
+    "wof:lastmodified":1510604336,
     "wof:name":"Prudential Insurance Co",
     "wof:parent_id":85834381,
     "wof:placetype":"venue",

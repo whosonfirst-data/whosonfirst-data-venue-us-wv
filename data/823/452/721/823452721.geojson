@@ -2,14 +2,20 @@
   "id": 823452721,
   "type": "Feature",
   "properties": {
+    "addr:full":"3436 Route 60 East Barboursville WV 25504",
+    "addr:housenumber":"3436",
+    "addr:postcode":"25504",
+    "addr:street":"Route 60 East",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.263798,38.411544,-82.263798,38.411544",
     "geom:latitude":38.411544,
     "geom:longitude":-82.263798,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3436 Route 60 East",
     "sg:city":"Barboursville",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102083329,
         85816671
     ],
+    "wof:brand_id":1125153179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3W4R4aqufUufSzaDU3KQyC_38.411544_-82.263798@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434918,
-    "wof:geomhash":"c21a78bdc3387c3848776ae517ab7d3f",
+    "wof:geomhash":"95d8cbead1623dd8a042b1855ea6bba8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823452721,
-    "wof:lastmodified":1467090780,
+    "wof:lastmodified":1510699297,
     "wof:name":"Sicilia's Pizzeria",
     "wof:parent_id":85816671,
     "wof:placetype":"venue",

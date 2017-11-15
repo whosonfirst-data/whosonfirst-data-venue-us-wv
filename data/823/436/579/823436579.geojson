@@ -2,14 +2,20 @@
   "id": 823436579,
   "type": "Feature",
   "properties": {
+    "addr:full":"530 Emily Dr Clarksburg WV 26301",
+    "addr:housenumber":"530",
+    "addr:postcode":"26301",
+    "addr:street":"Emily Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.280963,39.279594,-80.280963,39.279594",
     "geom:latitude":39.279594,
     "geom:longitude":-80.280963,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"530 Emily Dr",
     "sg:city":"Clarksburg",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102082619,
         85812589
     ],
+    "wof:brand_id":1125152207,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZD9geWJlzPYj2Op0A0xEv_39.279594_-80.280963@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434202,
-    "wof:geomhash":"1cd4ada1ab20cf1cfe0f83eddc94d8c8",
+    "wof:geomhash":"d1ef3b4b2f9853b6ece797fa537596ca",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823436579,
-    "wof:lastmodified":1467090760,
+    "wof:lastmodified":1510695057,
     "wof:name":"Goody's Family Clothing",
     "wof:parent_id":85812589,
     "wof:placetype":"venue",

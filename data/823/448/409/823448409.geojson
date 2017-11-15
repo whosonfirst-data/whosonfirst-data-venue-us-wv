@@ -2,14 +2,20 @@
   "id": 823448409,
   "type": "Feature",
   "properties": {
+    "addr:full":"302 30th St SE Charleston WV 25304",
+    "addr:housenumber":"302",
+    "addr:postcode":"25304",
+    "addr:street":"30Th St Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.606746,38.329312,-81.606746,38.329312",
     "geom:latitude":38.329312,
     "geom:longitude":-81.606746,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"302 30th St SE",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083335,
         85850023
     ],
+    "wof:brand_id":1125153717,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OocCUeSztRZ1MFrIaevQn_38.329312_-81.606746@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434756,
-    "wof:geomhash":"5a520df73eb90dcdfddee032a6c72da8",
+    "wof:geomhash":"f5704480b9d059be8adffa3fc82fca2e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823448409,
-    "wof:lastmodified":1467090774,
+    "wof:lastmodified":1510694613,
     "wof:name":"Ronald Mc Donald House",
     "wof:parent_id":85850023,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 823381001,
   "type": "Feature",
   "properties": {
+    "addr:full":"1337 Virginia St E Charleston WV 25301",
+    "addr:housenumber":"1337",
+    "addr:postcode":"25301",
+    "addr:street":"Virginia St E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":823381001,
-    "wof:lastmodified":1467090689,
+    "wof:lastmodified":1472655009,
     "wof:name":"Bastien & Martin",
     "wof:parent_id":85816783,
     "wof:placetype":"venue",

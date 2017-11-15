@@ -2,14 +2,20 @@
   "id": 823453597,
   "type": "Feature",
   "properties": {
+    "addr:full":"150 Clay St Morgantown WV 26501",
+    "addr:housenumber":"150",
+    "addr:postcode":"26501",
+    "addr:street":"Clay St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.962585,39.626315,-79.962585,39.626315",
     "geom:latitude":39.626315,
     "geom:longitude":-79.962585,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"150 Clay St",
     "sg:city":"Morgantown",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         85826231,
         102082587
     ],
+    "wof:brand_id":1125153179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5X8xRBqg82cY4AT4IiqJvM_39.626315_-79.962585@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434953,
-    "wof:geomhash":"b762dd0a4a0d3d49e5c4b3a74c8b603a",
+    "wof:geomhash":"22239f3376ad2dbb580ce22bded0f844",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823453597,
-    "wof:lastmodified":1467090781,
+    "wof:lastmodified":1510699296,
     "wof:name":"Sicilia's Pizzeria",
     "wof:parent_id":85826231,
     "wof:placetype":"venue",

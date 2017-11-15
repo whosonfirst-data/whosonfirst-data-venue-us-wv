@@ -2,14 +2,20 @@
   "id": 823371779,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Brian Dr Martinsburg WV 25401",
+    "addr:housenumber":"101",
+    "addr:postcode":"25401",
+    "addr:street":"Brian Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.984877,39.433939,-77.984877,39.433939",
     "geom:latitude":39.433939,
     "geom:longitude":-77.984877,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"101 Brian Dr",
     "sg:city":"Martinsburg",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083367,
         85806921
     ],
+    "wof:brand_id":1125156577,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7g7Mq5hyALFRACyogAMDyU_39.433939_-77.984877@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431275,
-    "wof:geomhash":"2fbb23ce53ce61c5cecf28226c82177b",
+    "wof:geomhash":"f8169bc023e10cd712a9cee4641741fe",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823371779,
-    "wof:lastmodified":1467090678,
+    "wof:lastmodified":1510696823,
     "wof:name":"Hagemeyer",
     "wof:parent_id":85806921,
     "wof:placetype":"venue",

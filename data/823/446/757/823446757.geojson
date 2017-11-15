@@ -2,14 +2,20 @@
   "id": 823446757,
   "type": "Feature",
   "properties": {
+    "addr:full":"4301 Camden Ave Parkersburg WV 26101",
+    "addr:housenumber":"4301",
+    "addr:postcode":"26101",
+    "addr:street":"Camden Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.526028,39.239027,-81.526028,39.239027",
     "geom:latitude":39.239027,
     "geom:longitude":-81.526028,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4301 Camden Ave",
     "sg:city":"Parkersburg",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083343,
         85849931
     ],
+    "wof:brand_id":1125152423,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JG5l6hmsy1T91tPQrCDNe_39.239027_-81.526028@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434682,
-    "wof:geomhash":"65df2faf4745c455d5902fd5f3a9786c",
+    "wof:geomhash":"b39d7aa9655c8674f870a40041f2f8a6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823446757,
-    "wof:lastmodified":1467090772,
+    "wof:lastmodified":1510693822,
     "wof:name":"Securitas Security Svc USA Inc",
     "wof:parent_id":85849931,
     "wof:placetype":"venue",

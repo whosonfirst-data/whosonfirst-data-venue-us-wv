@@ -2,14 +2,20 @@
   "id": 823431107,
   "type": "Feature",
   "properties": {
+    "addr:full":"710 Viand St Point Pleasant WV 25550",
+    "addr:housenumber":"710",
+    "addr:postcode":"25550",
+    "addr:street":"Viand St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.136772,38.845757,-82.136772,38.845757",
     "geom:latitude":38.845757,
     "geom:longitude":-82.136772,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"710 Viand St",
     "sg:city":"Point Pleasant",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083675,
         85824533
     ],
+    "wof:brand_id":1125150769,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7apgMde0N68wG3BYoqnjsk_38.845757_-82.136772@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433923,
-    "wof:geomhash":"62dc4d672c25093a7ba67b286f8c5c95",
+    "wof:geomhash":"3b839fcb12875845e51dcf5163284d1d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823431107,
-    "wof:lastmodified":1467090752,
+    "wof:lastmodified":1510697653,
     "wof:name":"Child Support Enforcement",
     "wof:parent_id":85824533,
     "wof:placetype":"venue",

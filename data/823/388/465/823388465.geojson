@@ -2,14 +2,20 @@
   "id": 823388465,
   "type": "Feature",
   "properties": {
+    "addr:full":"307 Federal St Bluefield WV 24701",
+    "addr:housenumber":"307",
+    "addr:postcode":"24701",
+    "addr:street":"Federal St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.222188,37.269013,-81.222188,37.269013",
     "geom:latitude":37.269013,
     "geom:longitude":-81.222188,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"307 Federal St",
     "sg:city":"Bluefield",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082639,
         85849473
     ],
+    "wof:brand_id":1125154931,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21PDEc8Z2vd2DSedz5ppDJ_37.269013_-81.222188@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431990,
-    "wof:geomhash":"b316d63c9e41ede184fac675467524f2",
+    "wof:geomhash":"2b6bdf05b6ce76988dadad4a3e7f7fe9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823388465,
-    "wof:lastmodified":1467090699,
+    "wof:lastmodified":1510613313,
     "wof:name":"Thyssen Krupp Elevator",
     "wof:parent_id":85849473,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823425019,
   "type": "Feature",
   "properties": {
+    "addr:full":"312 Main St Point Pleasant WV 25550",
+    "addr:housenumber":"312",
+    "addr:postcode":"25550",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.138891,38.84211,-82.138891,38.84211",
     "geom:latitude":38.84211,
     "geom:longitude":-82.138891,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"312 Main St",
     "sg:city":"Point Pleasant",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083675,
         85824533
     ],
+    "wof:brand_id":1125152049,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0441St6RRXPcr2HY2XoG48_38.842110_-82.138891@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433660,
-    "wof:geomhash":"d5fd76f37cf474b6bb0fad6efc38f6d3",
+    "wof:geomhash":"466cb942fce77cb106aade4ec8553e09",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823425019,
-    "wof:lastmodified":1467090745,
+    "wof:lastmodified":1510694909,
     "wof:name":"Main Street Cafe",
     "wof:parent_id":85824533,
     "wof:placetype":"venue",

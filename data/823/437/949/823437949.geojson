@@ -2,14 +2,20 @@
   "id": 823437949,
   "type": "Feature",
   "properties": {
+    "addr:full":"901 Bland St Bluefield WV 24701",
+    "addr:housenumber":"901",
+    "addr:postcode":"24701",
+    "addr:street":"Bland St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.221662,37.26504,-81.221662,37.26504",
     "geom:latitude":37.26504,
     "geom:longitude":-81.221662,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"901 Bland St",
     "sg:city":"Bluefield",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082639,
         85849473
     ],
+    "wof:brand_id":1125150403,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sG02iGs7Cc4P2O0HFKsgC_37.265040_-81.221662@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434277,
-    "wof:geomhash":"a8426890513a1519a40d870c28971e04",
+    "wof:geomhash":"efd02e433295661cb984aafd77b8d9d7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823437949,
-    "wof:lastmodified":1467090761,
+    "wof:lastmodified":1510693887,
     "wof:name":"Bethel AME Church",
     "wof:parent_id":85849473,
     "wof:placetype":"venue",

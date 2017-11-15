@@ -2,14 +2,20 @@
   "id": 823388817,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 River Walk Mall South Charleston WV 25303",
+    "addr:housenumber":"5",
+    "addr:postcode":"25303",
+    "addr:street":"River Walk Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.71388,38.363657,-81.71388,38.363657",
     "geom:latitude":38.363657,
     "geom:longitude":-81.71388,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5 River Walk Mall",
     "sg:city":"South Charleston",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083335,
         85837449
     ],
+    "wof:brand_id":1125154343,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YtSEfQDSUWdK3wRu9r3KM_38.363657_-81.713880@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463432019,
-    "wof:geomhash":"759013858717783c3edf20b236845023",
+    "wof:geomhash":"19b9836ea48f3a10bb2c421747e333f9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823388817,
-    "wof:lastmodified":1467090699,
+    "wof:lastmodified":1510698938,
     "wof:name":"National Bank Of Commerce",
     "wof:parent_id":85837449,
     "wof:placetype":"venue",

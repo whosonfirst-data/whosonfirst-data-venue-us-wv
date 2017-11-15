@@ -2,14 +2,20 @@
   "id": 823447441,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 E Park Ave Fairmont WV 26554",
+    "addr:housenumber":"300",
+    "addr:postcode":"26554",
+    "addr:street":"E Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.132352,39.483126,-80.132352,39.483126",
     "geom:latitude":39.483126,
     "geom:longitude":-80.132352,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 E Park Ave",
     "sg:city":"Fairmont",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082601,
         85821233
     ],
+    "wof:brand_id":1125157877,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XijW2Oi5LPZGNy5ACam8F_39.483126_-80.132352@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434709,
-    "wof:geomhash":"90b01d647eaac4bfb99af3b7405f98f0",
+    "wof:geomhash":"30c037b110e2f632b8b5e3b4915ccd5c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823447441,
-    "wof:lastmodified":1467090773,
+    "wof:lastmodified":1510693947,
     "wof:name":"Kwik Trip",
     "wof:parent_id":85821233,
     "wof:placetype":"venue",

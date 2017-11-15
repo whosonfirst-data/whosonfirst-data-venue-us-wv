@@ -2,14 +2,20 @@
   "id": 823410229,
   "type": "Feature",
   "properties": {
+    "addr:full":"202 Westmoreland Office Park Dunbar WV 25064",
+    "addr:housenumber":"202",
+    "addr:postcode":"25064",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.730757,38.361923,-81.730757,38.361923",
     "geom:latitude":38.361923,
     "geom:longitude":-81.730757,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"202 Westmoreland Office Park",
     "sg:city":"Dunbar",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102083335,
         85837449
     ],
+    "wof:brand_id":1125155587,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pOKAU2aAztCRkfdYziVu9_38.361923_-81.730757@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433038,
-    "wof:geomhash":"b99c666287d9263d11c4aeaf50b57831",
+    "wof:geomhash":"c0b8c661f1543e456530dcf81866dd0b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":823410229,
-    "wof:lastmodified":1467090727,
+    "wof:lastmodified":1510694029,
     "wof:name":"Contech Construction Prods Inc",
     "wof:parent_id":85837449,
     "wof:placetype":"venue",

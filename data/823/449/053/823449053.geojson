@@ -2,14 +2,20 @@
   "id": 823449053,
   "type": "Feature",
   "properties": {
+    "addr:full":"306 E Main St Milton WV 25541",
+    "addr:housenumber":"306",
+    "addr:postcode":"25541",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.127733,38.434718,-82.127733,38.434718",
     "geom:latitude":38.434718,
     "geom:longitude":-82.127733,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"306 E Main St",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083329,
         85816671
     ],
+    "wof:brand_id":1125151967,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ejPTdCDOscth7GIQH9zvA_38.434718_-82.127733@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434783,
-    "wof:geomhash":"e852cc6b2a564b75edba74329ee88f21",
+    "wof:geomhash":"5ca893002a171305b66481cd11acf0a6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823449053,
-    "wof:lastmodified":1467090775,
+    "wof:lastmodified":1510613283,
     "wof:name":"Video World",
     "wof:parent_id":85816671,
     "wof:placetype":"venue",

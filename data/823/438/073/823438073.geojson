@@ -2,14 +2,20 @@
   "id": 823438073,
   "type": "Feature",
   "properties": {
+    "addr:full":"550 W Main St Clarksburg WV 26301",
+    "addr:housenumber":"550",
+    "addr:postcode":"26301",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.343998,39.280507,-80.343998,39.280507",
     "geom:latitude":39.280507,
     "geom:longitude":-80.343998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"550 W Main St",
     "sg:city":"Clarksburg",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102082619,
         85821689
     ],
+    "wof:brand_id":420575349,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49AQ3j9CnJrhRgEBapwpwU_39.280507_-80.343998@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434282,
-    "wof:geomhash":"9dadcc1ba0e78d6ac62f14e5728a869e",
+    "wof:geomhash":"bb615b4fb5d0d82e8460a0a5b08b1209",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823438073,
-    "wof:lastmodified":1467090762,
+    "wof:lastmodified":1510602768,
     "wof:name":"Huntington National Bank",
     "wof:parent_id":85821689,
     "wof:placetype":"venue",

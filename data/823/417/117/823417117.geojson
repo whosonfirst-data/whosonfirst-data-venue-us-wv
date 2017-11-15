@@ -2,14 +2,20 @@
   "id": 823417117,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 Roxalana Business Park Dunbar WV 25064",
+    "addr:housenumber":"105",
+    "addr:postcode":"25064",
+    "addr:street":"Roxalana Business Park",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.729815,38.364203,-81.729815,38.364203",
     "geom:latitude":38.364203,
     "geom:longitude":-81.729815,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"105 Roxalana Business Park",
     "sg:city":"Dunbar",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083335,
         85837449
     ],
+    "wof:brand_id":1125158531,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5e6Tpw5fudy9k3IlAeEul7_38.364203_-81.729815@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433340,
-    "wof:geomhash":"8378922414aceb5964d4cd60bcfe5a52",
+    "wof:geomhash":"1f81e9e2dadb0f749da96a14061aa5f9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823417117,
-    "wof:lastmodified":1467090735,
+    "wof:lastmodified":1510698664,
     "wof:name":"Flowserve Corp",
     "wof:parent_id":85837449,
     "wof:placetype":"venue",

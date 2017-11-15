@@ -2,6 +2,10 @@
   "id": 823397161,
   "type": "Feature",
   "properties": {
+    "addr:full":"1602 Harper Rd Beckley WV 25801",
+    "addr:housenumber":"1602",
+    "addr:postcode":"25801",
+    "addr:street":"Harper Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":823397161,
-    "wof:lastmodified":1467090710,
+    "wof:lastmodified":1472655037,
     "wof:name":"Beckley-Raleigh Cnty Hlth Dept",
     "wof:parent_id":85805185,
     "wof:placetype":"venue",

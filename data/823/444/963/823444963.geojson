@@ -2,14 +2,20 @@
   "id": 823444963,
   "type": "Feature",
   "properties": {
+    "addr:full":"1256 N Eisenhower Dr Beckley WV 25801",
+    "addr:housenumber":"1256",
+    "addr:postcode":"25801",
+    "addr:street":"N Eisenhower Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.18116,37.802389,-81.18116,37.802389",
     "geom:latitude":37.802389,
     "geom:longitude":-81.18116,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1256 N Eisenhower Dr",
     "sg:city":"Beckley",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083349,
         85805185
     ],
+    "wof:brand_id":1125152207,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EdjzUTmA3mBooHg4KXQN3_37.802389_-81.181160@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434590,
-    "wof:geomhash":"9c619160ef89ac25f43eb9661de3bc7d",
+    "wof:geomhash":"dece1082495c662a9053954d53baae10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823444963,
-    "wof:lastmodified":1467090770,
+    "wof:lastmodified":1510695057,
     "wof:name":"Goody's Family Clothing",
     "wof:parent_id":85805185,
     "wof:placetype":"venue",

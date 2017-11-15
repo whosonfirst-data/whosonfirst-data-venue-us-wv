@@ -2,14 +2,20 @@
   "id": 823391047,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 Holly Ave Logan WV 25601",
+    "addr:housenumber":"105",
+    "addr:postcode":"25601",
+    "addr:street":"Holly Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.993085,37.857745,-81.993085,37.857745",
     "geom:latitude":37.857745,
     "geom:longitude":-81.993085,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"105 Holly Ave",
     "sg:city":"Logan",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85868319,
         102083369
     ],
+    "wof:brand_id":420574249,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IG8UJoGfTfMSFRxa1ZsgW_37.857745_-81.993085@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463432121,
-    "wof:geomhash":"f7f40b0e4fcdee7d0b492f0573a0fa50",
+    "wof:geomhash":"3b6068c29307af4d8bfc48e047f25f24",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":823391047,
-    "wof:lastmodified":1467090702,
+    "wof:lastmodified":1510603879,
     "wof:name":"Sears Roebuck & Co",
     "wof:parent_id":85868319,
     "wof:placetype":"venue",

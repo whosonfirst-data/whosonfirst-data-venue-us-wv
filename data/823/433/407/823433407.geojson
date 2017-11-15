@@ -2,14 +2,20 @@
   "id": 823433407,
   "type": "Feature",
   "properties": {
+    "addr:full":"155 Blue Angel Ln Beaver WV 25813",
+    "addr:housenumber":"155",
+    "addr:postcode":"25813",
+    "addr:street":"Blue Angel Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.113726,37.791727,-81.113726,37.791727",
     "geom:latitude":37.791727,
     "geom:longitude":-81.113726,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"155 Blue Angel Ln",
     "sg:city":"Beaver",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083349,
         85805185
     ],
+    "wof:brand_id":1125153491,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wGMnzAzp0J8EPu1oZFKcE_37.791727_-81.113726@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434034,
-    "wof:geomhash":"be07aecd8ed215f1be970b7c52e77cfd",
+    "wof:geomhash":"b4f77282f9ec83ad2597b9cd8c54ab7b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823433407,
-    "wof:lastmodified":1467090755,
+    "wof:lastmodified":1510712764,
     "wof:name":"US Commerce Dept",
     "wof:parent_id":85805185,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823415185,
   "type": "Feature",
   "properties": {
+    "addr:full":"690 Beverly Pike Elkins WV 26250",
+    "addr:housenumber":"690",
+    "addr:postcode":"26250",
+    "addr:street":"Beverly Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.933142,39.021256,-79.933142,39.021256",
     "geom:latitude":39.021256,
     "geom:longitude":-79.933142,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"690 Beverly Pike",
     "sg:city":"Elkins",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102082593,
         85832167
     ],
+    "wof:brand_id":420574093,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vM9HYG0uYw9akD7p2M1zJ_39.021256_-79.933142@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433236,
-    "wof:geomhash":"bacb9fa4ef5f132c81ccdccd75687124",
+    "wof:geomhash":"c6dcb6487cb9b21473d2364f3804e5f7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823415185,
-    "wof:lastmodified":1467090733,
+    "wof:lastmodified":1510604780,
     "wof:name":"Rite Aid Pharmacy",
     "wof:parent_id":85832167,
     "wof:placetype":"venue",

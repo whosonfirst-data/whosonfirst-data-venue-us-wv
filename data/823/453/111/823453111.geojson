@@ -2,14 +2,20 @@
   "id": 823453111,
   "type": "Feature",
   "properties": {
+    "addr:full":"1428 Robert C Byrd Dr Crab Orchard WV 25827",
+    "addr:housenumber":"1428",
+    "addr:postcode":"25827",
+    "addr:street":"Robert C Byrd Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.228082,37.74216,-81.228082,37.74216",
     "geom:latitude":37.74216,
     "geom:longitude":-81.228082,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1428 Robert C Byrd Dr",
     "sg:city":"Crab Orchard",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102083349,
         85805185
     ],
+    "wof:brand_id":1125153179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kdFJSJlHqJXNVFSgdPPcj_37.742160_-81.228082@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434934,
-    "wof:geomhash":"06f150a79810e7bb3282e7c3b0dc425a",
+    "wof:geomhash":"a4196ad05ff41f12202f07eb14525d20",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":823453111,
-    "wof:lastmodified":1467090780,
+    "wof:lastmodified":1510699297,
     "wof:name":"Sicilia's Pizzeria",
     "wof:parent_id":85805185,
     "wof:placetype":"venue",

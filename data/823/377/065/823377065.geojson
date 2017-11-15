@@ -2,14 +2,20 @@
   "id": 823377065,
   "type": "Feature",
   "properties": {
+    "addr:full":"9009 California Ave Charleston WV 25315",
+    "addr:housenumber":"9009",
+    "addr:postcode":"25315",
+    "addr:street":"California Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.567165,38.248695,-81.567165,38.248695",
     "geom:latitude":38.248695,
     "geom:longitude":-81.567165,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9009 California Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083335,
         85845161
     ],
+    "wof:brand_id":1125153453,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EeMot2pVUtOSv0oRAGfu3_38.248695_-81.567165@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431513,
-    "wof:geomhash":"8690ee7d5d1532a2bad0a07c8f701ab8",
+    "wof:geomhash":"811064d211f8759510e1a1cdd5c7745c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823377065,
-    "wof:lastmodified":1467090684,
+    "wof:lastmodified":1510699762,
     "wof:name":"Independent Order of Odd",
     "wof:parent_id":85845161,
     "wof:placetype":"venue",

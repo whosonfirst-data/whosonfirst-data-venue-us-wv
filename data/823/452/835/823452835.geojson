@@ -2,14 +2,20 @@
   "id": 823452835,
   "type": "Feature",
   "properties": {
+    "addr:full":"740 Stratton St Logan WV 25601",
+    "addr:housenumber":"740",
+    "addr:postcode":"25601",
+    "addr:street":"Stratton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.976985,37.842913,-81.976985,37.842913",
     "geom:latitude":37.842913,
     "geom:longitude":-81.976985,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"740 Stratton St",
     "sg:city":"Logan",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         85868319,
         102083369
     ],
+    "wof:brand_id":1125153179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Gc5FVgljYmKGTc9l21kxZ_37.842913_-81.976985@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434922,
-    "wof:geomhash":"eb75187437a51be4b311f70e539442de",
+    "wof:geomhash":"ef4c636b9198b665a61df62716efe40a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823452835,
-    "wof:lastmodified":1467090780,
+    "wof:lastmodified":1510699296,
     "wof:name":"Sicilia's Pizzeria",
     "wof:parent_id":85868319,
     "wof:placetype":"venue",

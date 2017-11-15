@@ -2,14 +2,20 @@
   "id": 823408325,
   "type": "Feature",
   "properties": {
+    "addr:full":"1208 Blizzard Dr Parkersburg WV 26101",
+    "addr:housenumber":"1208",
+    "addr:postcode":"26101",
+    "addr:street":"Blizzard Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.555213,39.247908,-81.555213,39.247908",
     "geom:latitude":39.247908,
     "geom:longitude":-81.555213,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1208 Blizzard Dr",
     "sg:city":"Parkersburg",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083343,
         85849931
     ],
+    "wof:brand_id":1125156981,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78O2paET2Jv6uyWBLpnvQ7_39.247908_-81.555213@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463432960,
-    "wof:geomhash":"953d50d5bfd8c15022ab5f648b165210",
+    "wof:geomhash":"d211b64d3d333f202e6d8c918b53501f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823408325,
-    "wof:lastmodified":1467090724,
+    "wof:lastmodified":1510613089,
     "wof:name":"J D Byrider Auto Sales",
     "wof:parent_id":85849931,
     "wof:placetype":"venue",

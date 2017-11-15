@@ -2,14 +2,20 @@
   "id": 823453135,
   "type": "Feature",
   "properties": {
+    "addr:full":"414 Guyandotte Ave Mullens WV 25882",
+    "addr:housenumber":"414",
+    "addr:postcode":"25882",
+    "addr:street":"Guyandotte Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.384053,37.580909,-81.384053,37.580909",
     "geom:latitude":37.580909,
     "geom:longitude":-81.384053,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"414 Guyandotte Ave",
     "sg:city":"Mullens",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102083379,
         85838593
     ],
+    "wof:brand_id":1125153179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_057SqcysFqXj2iiKGpvQnl_37.580909_-81.384053@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434935,
-    "wof:geomhash":"8e735ac54324ec3e7725998e630c680c",
+    "wof:geomhash":"bf70de9ebf0ef5b2e61fb1ddfde6d0f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":823453135,
-    "wof:lastmodified":1467090780,
+    "wof:lastmodified":1510699297,
     "wof:name":"Sicilia's Pizzeria",
     "wof:parent_id":85838593,
     "wof:placetype":"venue",

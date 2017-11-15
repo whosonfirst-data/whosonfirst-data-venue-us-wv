@@ -2,14 +2,20 @@
   "id": 823391743,
   "type": "Feature",
   "properties": {
+    "addr:full":"751 Chestnut Ridge Rd Morgantown WV 26505",
+    "addr:housenumber":"751",
+    "addr:postcode":"26505",
+    "addr:street":"Chestnut Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.959338,39.65791,-79.959338,39.65791",
     "geom:latitude":39.65791,
     "geom:longitude":-79.959338,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"751 Chestnut Ridge Rd",
     "sg:city":"Morgantown",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85852025,
         102082587
     ],
+    "wof:brand_id":420575871,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17wTs0R80bC1bwngFzXZFh_39.657910_-79.959338@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463432157,
-    "wof:geomhash":"484cb25b872ed2a21b204fe6c47c07ea",
+    "wof:geomhash":"a8eb1436c76da0a005722a03f250c9f3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":823391743,
-    "wof:lastmodified":1467090703,
+    "wof:lastmodified":1510602492,
     "wof:name":"Wine Rack",
     "wof:parent_id":85852025,
     "wof:placetype":"venue",

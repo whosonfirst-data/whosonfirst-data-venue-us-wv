@@ -2,14 +2,20 @@
   "id": 823435363,
   "type": "Feature",
   "properties": {
+    "addr:full":"542 Emily Dr Clarksburg WV 26301",
+    "addr:housenumber":"542",
+    "addr:postcode":"26301",
+    "addr:street":"Emily Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.281029,39.279538,-80.281029,39.279538",
     "geom:latitude":39.279538,
     "geom:longitude":-80.281029,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"542 Emily Dr",
     "sg:city":"Clarksburg",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102082619,
         85812589
     ],
+    "wof:brand_id":1125154487,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54oERHzmMYu9HZFKzQGAu2_39.279538_-80.281029@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434141,
-    "wof:geomhash":"4afc9782ad4bfe4a3a26ab917322d230",
+    "wof:geomhash":"2d1bf6ec58f30af38b19f39b8ad4c3aa",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823435363,
-    "wof:lastmodified":1467090758,
+    "wof:lastmodified":1510695955,
     "wof:name":"Shoe Dept",
     "wof:parent_id":85812589,
     "wof:placetype":"venue",

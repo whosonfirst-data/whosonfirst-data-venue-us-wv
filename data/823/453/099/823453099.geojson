@@ -2,14 +2,20 @@
   "id": 823453099,
   "type": "Feature",
   "properties": {
+    "addr:full":"2285 Grandview Rd Beaver WV 25813",
+    "addr:housenumber":"2285",
+    "addr:postcode":"25813",
+    "addr:street":"Grandview Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.06518,37.775399,-81.06518,37.775399",
     "geom:latitude":37.775399,
     "geom:longitude":-81.06518,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2285 Grandview Rd",
     "sg:city":"Beaver",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102083349,
         85805185
     ],
+    "wof:brand_id":1125153179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZKHwDg5qGmW73DhQ4h7Jj_37.775399_-81.065180@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434934,
-    "wof:geomhash":"5002ceb044892f76eb67ca75608f0af5",
+    "wof:geomhash":"5a68da2c4a5d2a21435cb5bf4735c67a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":823453099,
-    "wof:lastmodified":1467090780,
+    "wof:lastmodified":1510699297,
     "wof:name":"Sicilia's Pizzeria",
     "wof:parent_id":85805185,
     "wof:placetype":"venue",

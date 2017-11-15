@@ -2,14 +2,20 @@
   "id": 823455439,
   "type": "Feature",
   "properties": {
+    "addr:full":"9495 Hedgesville Rd Hedgesville WV 25427",
+    "addr:housenumber":"9495",
+    "addr:postcode":"25427",
+    "addr:street":"Hedgesville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.046641,39.583201,-78.046641,39.583201",
     "geom:latitude":39.583201,
     "geom:longitude":-78.046641,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9495 Hedgesville Rd",
     "sg:city":"Hedgesville",
     "sg:classifiers":[
@@ -45,13 +51,14 @@
         85846047,
         102083367
     ],
+    "wof:brand_id":1125154531,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5i9qX1Yr4iwgZZZg2j331F_39.583201_-78.046641@1303262553"
     },
     "wof:country":"US",
     "wof:created":1463435075,
-    "wof:geomhash":"186acbf24b8a2360d376e9a37b9b4c56",
+    "wof:geomhash":"9447c7186b9e34bc3f00b619f035c850",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":823455439,
-    "wof:lastmodified":1467090783,
+    "wof:lastmodified":1510693202,
     "wof:name":"Faith Bible Church",
     "wof:parent_id":85846047,
     "wof:placetype":"venue",

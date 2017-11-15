@@ -2,14 +2,20 @@
   "id": 823453955,
   "type": "Feature",
   "properties": {
+    "addr:full":"32 Capitol St Charleston WV 25301",
+    "addr:housenumber":"32",
+    "addr:postcode":"25301",
+    "addr:street":"Capitol St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.636699,38.348814,-81.636699,38.348814",
     "geom:latitude":38.348814,
     "geom:longitude":-81.636699,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"32 Capitol St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102083335,
         85816783
     ],
+    "wof:brand_id":1125153399,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FV5rnAhdvXX7JS4Cpn0lF_38.348679_-81.636646@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434982,
-    "wof:geomhash":"ac64ff67feb65fd5ba11915636c3c1c2",
+    "wof:geomhash":"bd07a705baf8c5b516beee9763b51d7d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":823453955,
-    "wof:lastmodified":1467090782,
+    "wof:lastmodified":1510697282,
     "wof:name":"Larry's Giant Subs",
     "wof:parent_id":85816783,
     "wof:placetype":"venue",

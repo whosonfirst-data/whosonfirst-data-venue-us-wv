@@ -2,14 +2,20 @@
   "id": 823408305,
   "type": "Feature",
   "properties": {
+    "addr:full":"4188 Washington St W Charleston WV 25313",
+    "addr:housenumber":"4188",
+    "addr:postcode":"25313",
+    "addr:street":"Washington St W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.712972,38.381245,-81.712972,38.381245",
     "geom:latitude":38.381245,
     "geom:longitude":-81.712972,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4188 Washington St W",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083335,
         85837449
     ],
+    "wof:brand_id":1125150341,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fXb5jjQlQPINiLNatbfZA_38.381245_-81.712972@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463432959,
-    "wof:geomhash":"5be4f96533e658b48570fad053868b16",
+    "wof:geomhash":"87a9886bb0bd31b839b031e17102558b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823408305,
-    "wof:lastmodified":1467090724,
+    "wof:lastmodified":1510697239,
     "wof:name":"Wic Program",
     "wof:parent_id":85837449,
     "wof:placetype":"venue",

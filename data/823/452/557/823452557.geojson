@@ -2,14 +2,20 @@
   "id": 823452557,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 R H L Blvd Charleston WV 25309",
+    "addr:housenumber":"201",
+    "addr:postcode":"25309",
+    "addr:street":"R H L Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.714417,38.328293,-81.714417,38.328293",
     "geom:latitude":38.328293,
     "geom:longitude":-81.714417,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"201 R H L Blvd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083335,
         85837449
     ],
+    "wof:brand_id":1125150011,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DoTSNgxQUfe5tzyU634rn_38.328293_-81.714417@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434912,
-    "wof:geomhash":"42ea15553206ee1816fa6e6eeb3668e6",
+    "wof:geomhash":"689931d318bd162603243ca21ab6f806",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823452557,
-    "wof:lastmodified":1467090780,
+    "wof:lastmodified":1510696622,
     "wof:name":"Logan's Roadhouse",
     "wof:parent_id":85837449,
     "wof:placetype":"venue",

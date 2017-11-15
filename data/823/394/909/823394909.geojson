@@ -2,14 +2,20 @@
   "id": 823394909,
   "type": "Feature",
   "properties": {
+    "addr:full":"122 N George St Charles Town WV 25414",
+    "addr:housenumber":"122",
+    "addr:postcode":"25414",
+    "addr:street":"N George St Charles Town",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.860348,39.289667,-77.860348,39.289667",
     "geom:latitude":39.289667,
     "geom:longitude":-77.860348,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"122 N George St",
     "sg:city":"Charles Town",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082647,
         85807793
     ],
+    "wof:brand_id":1125152131,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XFdHtj6NdwrQa3QpDXi1D_39.289667_-77.860348@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463432322,
-    "wof:geomhash":"1d3e72fe4bdcd9b2680b1ac886ec8ac1",
+    "wof:geomhash":"7d5d8a949808ab20b748b6329cec58e0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823394909,
-    "wof:lastmodified":1467090707,
+    "wof:lastmodified":1510695268,
     "wof:name":"CTX Mortgage Co",
     "wof:parent_id":85807793,
     "wof:placetype":"venue",

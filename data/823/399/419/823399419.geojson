@@ -2,14 +2,20 @@
   "id": 823399419,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Virginia St E Charleston WV 25301",
+    "addr:housenumber":"300",
+    "addr:postcode":"25301",
+    "addr:street":"Virginia St E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.6391,38.351814,-81.6391,38.351814",
     "geom:latitude":38.351814,
     "geom:longitude":-81.6391,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 Virginia St E",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083335,
         85816783
     ],
+    "wof:brand_id":1125157601,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CWNnp1KKtAKo40KLxVfQt_38.351814_-81.639100@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463432563,
-    "wof:geomhash":"ea1625cd8176bb160a9aaf81cd1faa0e",
+    "wof:geomhash":"655c8c4e429b366f7a44814698ff1890",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823399419,
-    "wof:lastmodified":1467090713,
+    "wof:lastmodified":1510695444,
     "wof:name":"Federal Public Defender",
     "wof:parent_id":85816783,
     "wof:placetype":"venue",

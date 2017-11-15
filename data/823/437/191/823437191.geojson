@@ -2,14 +2,20 @@
   "id": 823437191,
   "type": "Feature",
   "properties": {
+    "addr:full":"129 Meadow St Mt Hope WV 25880",
+    "addr:housenumber":"129",
+    "addr:postcode":"25880",
+    "addr:street":"Meadow St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.230634,37.871242,-81.230634,37.871242",
     "geom:latitude":37.871242,
     "geom:longitude":-81.230634,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"129 Meadow St",
     "sg:city":"Mt Hope",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083349,
         85805185
     ],
+    "wof:brand_id":420575467,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wfKB5wOcEAULB5KvCvCMs_37.871242_-81.230634@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434241,
-    "wof:geomhash":"4633155b79a9065e4d8e38f81f5b28cd",
+    "wof:geomhash":"a8261a63a295d0485dba4a4eb1cafb36",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823437191,
-    "wof:lastmodified":1467090760,
+    "wof:lastmodified":1510601963,
     "wof:name":"Frito-Lay Inc",
     "wof:parent_id":85805185,
     "wof:placetype":"venue",

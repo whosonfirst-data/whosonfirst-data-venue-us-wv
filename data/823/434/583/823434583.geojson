@@ -2,14 +2,20 @@
   "id": 823434583,
   "type": "Feature",
   "properties": {
+    "addr:full":"525 Carolina Ave Chester WV 26034",
+    "addr:housenumber":"525",
+    "addr:postcode":"26034",
+    "addr:street":"Carolina Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.561959,40.613726,-80.561959,40.613726",
     "geom:latitude":40.613726,
     "geom:longitude":-80.561959,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"525 Carolina Ave",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102082633,
         85827481
     ],
+    "wof:brand_id":420575633,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RG8l9d60ytsfWZm066pwJ_40.613726_-80.561959@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434110,
-    "wof:geomhash":"e2435baf15c1254a45ae6eca2e2925d4",
+    "wof:geomhash":"9a9bce4ae485fa8a999a3c65f581b097",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823434583,
-    "wof:lastmodified":1467090757,
+    "wof:lastmodified":1510602547,
     "wof:name":"Convenient Food Mart",
     "wof:parent_id":85827481,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823453033,
   "type": "Feature",
   "properties": {
+    "addr:full":"1044 N Eisenhower Dr Beckley WV 25801",
+    "addr:housenumber":"1044",
+    "addr:postcode":"25801",
+    "addr:street":"N Eisenhower Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.176953,37.797921,-81.176953,37.797921",
     "geom:latitude":37.797921,
     "geom:longitude":-81.176953,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1044 N Eisenhower Dr",
     "sg:city":"Beckley",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102083349,
         85805185
     ],
+    "wof:brand_id":1125153179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UCrzllFNeiq4cUqDVVZ9h_37.797921_-81.176953@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434930,
-    "wof:geomhash":"03443e4226abc6f1b5320f8b1ec8e122",
+    "wof:geomhash":"bff525a9b74371a2b849de338cbf187c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":823453033,
-    "wof:lastmodified":1467090780,
+    "wof:lastmodified":1510699297,
     "wof:name":"Sicilia's Pizzeria",
     "wof:parent_id":85805185,
     "wof:placetype":"venue",

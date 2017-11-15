@@ -2,14 +2,20 @@
   "id": 823434037,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 Airport Rd Huntington WV 25704",
+    "addr:housenumber":"1400",
+    "addr:postcode":"25704",
+    "addr:street":"Airport Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.559806,38.373924,-82.559806,38.373924",
     "geom:latitude":38.373924,
     "geom:longitude":-82.559806,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1400 Airport Rd",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083365,
         85857035
     ],
+    "wof:brand_id":1125152341,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PHtI4xVgE8BWizSkgF2vC_38.373924_-82.559806@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434068,
-    "wof:geomhash":"4abd9a1bc7a4f31dedb62cf9acbcf1a7",
+    "wof:geomhash":"48611d3f4e218d4f4b4c167029d04871",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823434037,
-    "wof:lastmodified":1467090756,
+    "wof:lastmodified":1510613375,
     "wof:name":"Federal Express Corporation",
     "wof:parent_id":85857035,
     "wof:placetype":"venue",

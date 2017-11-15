@@ -2,14 +2,20 @@
   "id": 823435219,
   "type": "Feature",
   "properties": {
+    "addr:full":"209 N 4th St Clarksburg WV 26301",
+    "addr:housenumber":"209",
+    "addr:postcode":"26301",
+    "addr:street":"N 4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.339772,39.281391,-80.339772,39.281391",
     "geom:latitude":39.281391,
     "geom:longitude":-80.339772,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"209 N 4th St",
     "sg:city":"Clarksburg",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082619,
         85821689
     ],
+    "wof:brand_id":1125151231,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09rfpWKfAxAgPmU6f3H8pj_39.281391_-80.339772@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434136,
-    "wof:geomhash":"69247fcd0ba09e845fee56657502a779",
+    "wof:geomhash":"5b2e48ff3b72486b0d4dba10b8602b45",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823435219,
-    "wof:lastmodified":1467090758,
+    "wof:lastmodified":1510694073,
     "wof:name":"Otis Elevator Company",
     "wof:parent_id":85821689,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823409501,
   "type": "Feature",
   "properties": {
+    "addr:full":"836 1st St New Martinsville WV 26155",
+    "addr:housenumber":"836",
+    "addr:postcode":"26155",
+    "addr:street":"1St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.859205,39.65141,-80.859205,39.65141",
     "geom:latitude":39.65141,
     "geom:longitude":-80.859205,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"836 1st St",
     "sg:city":"New Martinsville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083395,
         85807907
     ],
+    "wof:brand_id":420575395,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5M1npkhGdmahPskkNyEgE6_39.651410_-80.859205@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433002,
-    "wof:geomhash":"41b274514d4a3c57f8b861eddec5b45e",
+    "wof:geomhash":"d94d4d5c018c849c5f0958a5185a2775",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823409501,
-    "wof:lastmodified":1467090726,
+    "wof:lastmodified":1510602857,
     "wof:name":"Glass Doctor",
     "wof:parent_id":85807907,
     "wof:placetype":"venue",

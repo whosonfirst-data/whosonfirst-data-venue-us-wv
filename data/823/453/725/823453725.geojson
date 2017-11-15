@@ -2,14 +2,20 @@
   "id": 823453725,
   "type": "Feature",
   "properties": {
+    "addr:full":"353 Patteson Dr Morgantown WV 26505",
+    "addr:housenumber":"353",
+    "addr:postcode":"26505",
+    "addr:street":"Patteson Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.971545,39.650682,-79.971545,39.650682",
     "geom:latitude":39.650682,
     "geom:longitude":-79.971545,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"353 Patteson Dr",
     "sg:city":"Morgantown",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082587,
         85851419
     ],
+    "wof:brand_id":1125157837,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3K7V948WCX8iSbsLYsSehx_39.650682_-79.971545@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434958,
-    "wof:geomhash":"5380c0b03d5e085e79785bec098cdbc8",
+    "wof:geomhash":"f93da2ba90d17faea2b7d536b66123f2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823453725,
-    "wof:lastmodified":1467090781,
+    "wof:lastmodified":1510699729,
     "wof:name":"Eat N' Park",
     "wof:parent_id":85851419,
     "wof:placetype":"venue",

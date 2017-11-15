@@ -2,14 +2,20 @@
   "id": 823404707,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 8th St Marlinton WV 24954",
+    "addr:housenumber":"201",
+    "addr:postcode":"24954",
+    "addr:street":"8Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.094037,38.22324,-80.094037,38.22324",
     "geom:latitude":38.22324,
     "geom:longitude":-80.094037,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"201 8th St",
     "sg:city":"Marlinton",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102082613,
         85805067
     ],
+    "wof:brand_id":420575505,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cJed82uZYSLt2swbJ0Iuk_38.223240_-80.094037@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463432794,
-    "wof:geomhash":"38f1ec6d22d0b0bd661f0aa390850b7b",
+    "wof:geomhash":"d868d2acbaa18bb80465521eeb0de304",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823404707,
-    "wof:lastmodified":1467090720,
+    "wof:lastmodified":1510602392,
     "wof:name":"First-Citizens Bank & Trust Co",
     "wof:parent_id":85805067,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823453523,
   "type": "Feature",
   "properties": {
+    "addr:full":"124 Thompson Dr Bridgeport WV 26330",
+    "addr:housenumber":"124",
+    "addr:postcode":"26330",
+    "addr:street":"Thompson Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.273749,39.283533,-80.273749,39.283533",
     "geom:latitude":39.283533,
     "geom:longitude":-80.273749,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"124 Thompson Dr",
     "sg:city":"Bridgeport",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082619,
         85812589
     ],
+    "wof:brand_id":1125150755,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Xkvx5ir9sk7JLEtjJBFej_39.283533_-80.273749@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434950,
-    "wof:geomhash":"ef090f420cf4f168a20f0204d5766874",
+    "wof:geomhash":"e106a8e92a8b1def09ea5b47cbc73479",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823453523,
-    "wof:lastmodified":1467090781,
+    "wof:lastmodified":1510697586,
     "wof:name":"Vocelli Pizza",
     "wof:parent_id":85812589,
     "wof:placetype":"venue",

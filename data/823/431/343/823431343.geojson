@@ -2,14 +2,20 @@
   "id": 823431343,
   "type": "Feature",
   "properties": {
+    "addr:full":"331 Laidley St Charleston WV 25301",
+    "addr:housenumber":"331",
+    "addr:postcode":"25301",
+    "addr:street":"Laidley St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.633019,38.353238,-81.633019,38.353238",
     "geom:latitude":38.353238,
     "geom:longitude":-81.633019,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"331 Laidley St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083335,
         85816783
     ],
+    "wof:brand_id":1125159605,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MKFsvxUVtTIrftQKDULyy_38.353238_-81.633019@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433934,
-    "wof:geomhash":"2f4cfb338293bd37b495960a31261f92",
+    "wof:geomhash":"5f1892ba01054dcd4c92e18284038cd8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823431343,
-    "wof:lastmodified":1467090753,
+    "wof:lastmodified":1510695404,
     "wof:name":"Lincoln Property Company",
     "wof:parent_id":85816783,
     "wof:placetype":"venue",

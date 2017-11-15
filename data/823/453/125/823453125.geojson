@@ -2,14 +2,20 @@
   "id": 823453125,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 W Maple Ave Fayetteville WV 25840",
+    "addr:housenumber":"105",
+    "addr:postcode":"25840",
+    "addr:street":"W Maple Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.103784,38.052778,-81.103784,38.052778",
     "geom:latitude":38.052778,
     "geom:longitude":-81.103784,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"105 W Maple Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         85823987,
         102083359
     ],
+    "wof:brand_id":1125153179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OJqjmuFhxsxvyc2RhCOpm_38.052778_-81.103784@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434935,
-    "wof:geomhash":"71550faea5ac1a8241608045d6d4042e",
+    "wof:geomhash":"0a418a1ed4a0f9e0808df48694384161",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823453125,
-    "wof:lastmodified":1467090780,
+    "wof:lastmodified":1510699297,
     "wof:name":"Sicilia's Pizzeria",
     "wof:parent_id":85823987,
     "wof:placetype":"venue",

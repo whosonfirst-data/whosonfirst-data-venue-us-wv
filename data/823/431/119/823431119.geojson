@@ -2,14 +2,20 @@
   "id": 823431119,
   "type": "Feature",
   "properties": {
+    "addr:full":"124 Burning Spring Rd Belle WV 25015",
+    "addr:housenumber":"124",
+    "addr:postcode":"25015",
+    "addr:street":"Burning Spring Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.559398,38.268649,-81.559398,38.268649",
     "geom:latitude":38.268649,
     "geom:longitude":-81.559398,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"124 Burning Spring Rd",
     "sg:city":"Belle",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083335,
         85845161
     ],
+    "wof:brand_id":1125154069,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BPWbq02UHcsMPgUvoynjI_38.268649_-81.559398@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433924,
-    "wof:geomhash":"3adebff31d8d78d6ba63b0effaa63958",
+    "wof:geomhash":"bcebd6b06d10d10458e524e9fb359266",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823431119,
-    "wof:lastmodified":1467090752,
+    "wof:lastmodified":1510695325,
     "wof:name":"Perfect Touch",
     "wof:parent_id":85845161,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823426835,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 Elizabeth St Charleston WV 25311",
+    "addr:housenumber":"501",
+    "addr:postcode":"25311",
+    "addr:street":"Elizabeth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.614661,38.342489,-81.614661,38.342489",
     "geom:latitude":38.342489,
     "geom:longitude":-81.614661,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"501 Elizabeth St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083335,
         85850023
     ],
+    "wof:brand_id":1125152997,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ImpoYagTDmDSyjBCbKt7v_38.342489_-81.614661@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433740,
-    "wof:geomhash":"0e6d175460767c884c79bad35b12ea10",
+    "wof:geomhash":"6b0afe139c3016dc11e2fb4ca1e52db1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823426835,
-    "wof:lastmodified":1467090747,
+    "wof:lastmodified":1510695007,
     "wof:name":"Asbury United Methodist Church",
     "wof:parent_id":85850023,
     "wof:placetype":"venue",

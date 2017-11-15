@@ -2,14 +2,20 @@
   "id": 823438105,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Permele Cir Barboursville WV 25504",
+    "addr:housenumber":"5",
+    "addr:postcode":"25504",
+    "addr:street":"Permele Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.316321,38.405266,-82.316321,38.405266",
     "geom:latitude":38.405266,
     "geom:longitude":-82.316321,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5 Permele Cir",
     "sg:city":"Barboursville",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083329,
         85865435
     ],
+    "wof:brand_id":420574813,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PaiWk2JbjXLjdzmyazAJX_38.405266_-82.316321@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434283,
-    "wof:geomhash":"f0a430280ce6d14f4995e3dac48a4df0",
+    "wof:geomhash":"6676684cdaa921c86ea9ff7bb61f9f06",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823438105,
-    "wof:lastmodified":1467090762,
+    "wof:lastmodified":1510604574,
     "wof:name":"Kiwanis International Inc",
     "wof:parent_id":85865435,
     "wof:placetype":"venue",

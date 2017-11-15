@@ -2,14 +2,20 @@
   "id": 823425419,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 Main St Glen Jean WV 25880",
+    "addr:housenumber":"104",
+    "addr:postcode":"25880",
+    "addr:street":"Main St Glen Jean",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.159405,37.898329,-81.159405,37.898329",
     "geom:latitude":37.898329,
     "geom:longitude":-81.159405,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"104 Main St",
     "sg:city":"Glen Jean",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083359,
         85852821
     ],
+    "wof:brand_id":1125152177,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1F1uwP5Oy241A7gQy4kyuQ_37.898329_-81.159405@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433676,
-    "wof:geomhash":"596cfcfb0417027bf7997cd345b1514b",
+    "wof:geomhash":"b9faa8d6a6f86b2b3f2c887fc44429f6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823425419,
-    "wof:lastmodified":1467090745,
+    "wof:lastmodified":1510699945,
     "wof:name":"US Interior Dept",
     "wof:parent_id":85852821,
     "wof:placetype":"venue",

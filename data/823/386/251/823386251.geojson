@@ -2,14 +2,20 @@
   "id": 823386251,
   "type": "Feature",
   "properties": {
+    "addr:full":"505 17th St Vienna WV 26105",
+    "addr:housenumber":"505",
+    "addr:postcode":"26105",
+    "addr:street":"17Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.551287,39.315974,-81.551287,39.315974",
     "geom:latitude":39.315974,
     "geom:longitude":-81.551287,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"505 17th St",
     "sg:city":"Vienna",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083343,
         85819937
     ],
+    "wof:brand_id":1125157855,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39bh5g8toKWeSzIPlVBijs_39.315974_-81.551287@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431899,
-    "wof:geomhash":"fdad4e45cf44e13e16305bb10064debd",
+    "wof:geomhash":"85f1a6401483dba701a5ea2733a249bb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823386251,
-    "wof:lastmodified":1467090696,
+    "wof:lastmodified":1510699742,
     "wof:name":"Hair Trends",
     "wof:parent_id":85819937,
     "wof:placetype":"venue",

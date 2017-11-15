@@ -2,14 +2,20 @@
   "id": 823444807,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Summers St Charleston WV 25301",
+    "addr:housenumber":"5",
+    "addr:postcode":"25301",
+    "addr:street":"Summers St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.637242,38.349549,-81.637242,38.349549",
     "geom:latitude":38.349549,
     "geom:longitude":-81.637242,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5 Summers St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083335,
         85816783
     ],
+    "wof:brand_id":420575077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sgyZEsjOOlbHaJRreAhDB_38.349549_-81.637242@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434580,
-    "wof:geomhash":"9c6b238f8d7cf28b9ec984d8f6b35914",
+    "wof:geomhash":"dc33ad3c18d95a29ada569c704f38075",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823444807,
-    "wof:lastmodified":1467090770,
+    "wof:lastmodified":1510607666,
     "wof:name":"Central Parking System",
     "wof:parent_id":85816783,
     "wof:placetype":"venue",

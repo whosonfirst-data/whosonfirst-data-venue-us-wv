@@ -2,14 +2,20 @@
   "id": 823435797,
   "type": "Feature",
   "properties": {
+    "addr:full":"204 Lakeview Ct Parkersburg WV 26101",
+    "addr:housenumber":"204",
+    "addr:postcode":"26101",
+    "addr:street":"Lakeview Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.550744,39.296707,-81.550744,39.296707",
     "geom:latitude":39.296707,
     "geom:longitude":-81.550744,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"204 Lakeview Ct",
     "sg:city":"Parkersburg",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083343,
         85805293
     ],
+    "wof:brand_id":1125150323,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zjgXfUfgTXbb3DeTWajzH_39.296707_-81.550744@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434157,
-    "wof:geomhash":"12bf68de59bd961eb0f1478bed7aba43",
+    "wof:geomhash":"c50f260744c82fb0c7f121554cad3dca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823435797,
-    "wof:lastmodified":1467090758,
+    "wof:lastmodified":1510694572,
     "wof:name":"Family Christian Book Store",
     "wof:parent_id":85805293,
     "wof:placetype":"venue",

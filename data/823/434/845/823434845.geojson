@@ -2,14 +2,20 @@
   "id": 823434845,
   "type": "Feature",
   "properties": {
+    "addr:full":"2296 Joy Ln Culloden WV 25510",
+    "addr:housenumber":"2296",
+    "addr:postcode":"25510",
+    "addr:street":"Joy Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.044839,38.419105,-82.044839,38.419105",
     "geom:latitude":38.419105,
     "geom:longitude":-82.044839,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2296 Joy Ln",
     "sg:city":"Culloden",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083381,
         85868321
     ],
+    "wof:brand_id":1125156085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YdTKWYCkss1gcLHy1Xmwm_38.419105_-82.044839@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434119,
-    "wof:geomhash":"2d00a676a61822b27c346322be7d3c9e",
+    "wof:geomhash":"91ddc167bae18926040a50e197f925ec",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823434845,
-    "wof:lastmodified":1467090757,
+    "wof:lastmodified":1510699298,
     "wof:name":"Grace Fellowship Church",
     "wof:parent_id":85868321,
     "wof:placetype":"venue",

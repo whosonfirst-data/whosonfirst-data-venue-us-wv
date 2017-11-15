@@ -2,14 +2,20 @@
   "id": 252882183,
   "type": "Feature",
   "properties": {
+    "addr:full":"611 N Chestnut St Barnesville OH 43713",
+    "addr:housenumber":"611",
+    "addr:postcode":"43713",
+    "addr:street":"N Chestnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.176323,39.993474,-81.176323,39.993474",
     "geom:latitude":39.993474,
     "geom:longitude":-81.176323,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"611 N Chestnut St",
     "sg:city":"Barnesville",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102082591,
         85805801
     ],
+    "wof:brand_id":1125150545,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24W2gndkIGj6cHvabXdbXs_39.993474_-81.176323@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"762b172f6dcc78e52db57ffd91e4a76d",
+    "wof:geomhash":"32124af84e3edbad397641c2cce801b9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":252882183,
-    "wof:lastmodified":1467090668,
+    "wof:lastmodified":1510695848,
     "wof:name":"Dairy Mart Convenience Store",
     "wof:parent_id":85805801,
     "wof:placetype":"venue",

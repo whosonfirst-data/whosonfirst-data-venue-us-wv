@@ -2,14 +2,20 @@
   "id": 823453463,
   "type": "Feature",
   "properties": {
+    "addr:full":"822 W Pike St Clarksburg WV 26301",
+    "addr:housenumber":"822",
+    "addr:postcode":"26301",
+    "addr:street":"W Pike St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.35007,39.282468,-80.35007,39.282468",
     "geom:latitude":39.282468,
     "geom:longitude":-80.35007,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"822 W Pike St",
     "sg:city":"Clarksburg",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102082619,
         85821689
     ],
+    "wof:brand_id":1125153179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Tz8fX5B0hroTFpJIAK7ZG_39.282468_-80.350070@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434948,
-    "wof:geomhash":"593a9ca2ca4abcccb67742696c524e52",
+    "wof:geomhash":"e5c3c2814eb916a08c6945543a6e0541",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823453463,
-    "wof:lastmodified":1467090781,
+    "wof:lastmodified":1510699297,
     "wof:name":"Sicilia's Pizzeria",
     "wof:parent_id":85821689,
     "wof:placetype":"venue",

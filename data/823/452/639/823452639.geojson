@@ -2,14 +2,20 @@
   "id": 823452639,
   "type": "Feature",
   "properties": {
+    "addr:full":"1619 W King St Martinsburg WV 25401",
+    "addr:housenumber":"1619",
+    "addr:postcode":"25401",
+    "addr:street":"W King St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.987785,39.463885,-77.987785,39.463885",
     "geom:latitude":39.463885,
     "geom:longitude":-77.987785,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1619 W King St",
     "sg:city":"Martinsburg",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         85846047,
         102083367
     ],
+    "wof:brand_id":1125153179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IzHrsSCN6vD1IZDJUfhcQ_39.463885_-77.987785@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434915,
-    "wof:geomhash":"428c08a7ff27868dee34357f4b364cfb",
+    "wof:geomhash":"21f348e35521b4f1b6322e739e4b8098",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823452639,
-    "wof:lastmodified":1467090780,
+    "wof:lastmodified":1510699297,
     "wof:name":"Sicilia's Pizzeria",
     "wof:parent_id":85846047,
     "wof:placetype":"venue",

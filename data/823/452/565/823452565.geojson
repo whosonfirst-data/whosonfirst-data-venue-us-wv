@@ -2,14 +2,20 @@
   "id": 823452565,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Hillcrest Dr E Charleston WV 25311",
+    "addr:housenumber":"300",
+    "addr:postcode":"25311",
+    "addr:street":"Hillcrest Dr E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.60689,38.342198,-81.60689,38.342198",
     "geom:latitude":38.342198,
     "geom:longitude":-81.60689,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 Hillcrest Dr E",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102083335,
         85845161
     ],
+    "wof:brand_id":1125153179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20dONKoZ4yDSXoRHQm865B_38.342198_-81.606890@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434912,
-    "wof:geomhash":"dacb8d5283f23aff14aafa40d0402ac0",
+    "wof:geomhash":"5513aa40222ce4c797a0d42922827e6e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823452565,
-    "wof:lastmodified":1467090780,
+    "wof:lastmodified":1510699296,
     "wof:name":"Sicilia's Pizzeria",
     "wof:parent_id":85845161,
     "wof:placetype":"venue",

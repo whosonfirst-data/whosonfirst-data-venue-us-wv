@@ -2,14 +2,20 @@
   "id": 823420187,
   "type": "Feature",
   "properties": {
+    "addr:full":"415 Dickinson St Charleston WV 25301",
+    "addr:housenumber":"415",
+    "addr:postcode":"25301",
+    "addr:street":"Dickinson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.630339,38.351218,-81.630339,38.351218",
     "geom:latitude":38.351218,
     "geom:longitude":-81.630339,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"415 Dickinson St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083335,
         85816783
     ],
+    "wof:brand_id":1125155215,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aCxlzcvmsclGdHtAQMqc5_38.351218_-81.630339@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433473,
-    "wof:geomhash":"9a7354f4eafd43aa5ae8ffa872ddb6ad",
+    "wof:geomhash":"45ab92b0e492159be137717363da9a20",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823420187,
-    "wof:lastmodified":1467090739,
+    "wof:lastmodified":1510695367,
     "wof:name":"American Lung Assn",
     "wof:parent_id":85816783,
     "wof:placetype":"venue",

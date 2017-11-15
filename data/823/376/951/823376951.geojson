@@ -2,14 +2,20 @@
   "id": 823376951,
   "type": "Feature",
   "properties": {
+    "addr:full":"150 Clay St Morgantown WV 26501",
+    "addr:housenumber":"150",
+    "addr:postcode":"26501",
+    "addr:street":"Clay St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.961995,39.62679,-79.961995,39.62679",
     "geom:latitude":39.62679,
     "geom:longitude":-79.961995,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"150 Clay St",
     "sg:city":"Morgantown",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85826231,
         102082587
     ],
+    "wof:brand_id":1125159979,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UCLWlR5vFwLB25LrGqUuT_39.626790_-79.961995@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431504,
-    "wof:geomhash":"8cad4ac7123709657a0b650712681dc9",
+    "wof:geomhash":"c1f82e4d232dc2958ae370962a4c26e6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823376951,
-    "wof:lastmodified":1467090684,
+    "wof:lastmodified":1510698871,
     "wof:name":"Pearson Professional Ctr",
     "wof:parent_id":85826231,
     "wof:placetype":"venue",

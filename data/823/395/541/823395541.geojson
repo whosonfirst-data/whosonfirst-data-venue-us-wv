@@ -2,14 +2,20 @@
   "id": 823395541,
   "type": "Feature",
   "properties": {
+    "addr:full":"515 Pennsylvania Ave Charleston WV 25302",
+    "addr:housenumber":"515",
+    "addr:postcode":"25302",
+    "addr:street":"Pennsylvania Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.64169,38.359265,-81.64169,38.359265",
     "geom:latitude":38.359265,
     "geom:longitude":-81.64169,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"515 Pennsylvania Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083335,
         85816783
     ],
+    "wof:brand_id":1125152741,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xQnRqd1L8HQBRvUZkG2ll_38.359265_-81.641690@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463432349,
-    "wof:geomhash":"6d47d5522976f3a9002db911883fd1ca",
+    "wof:geomhash":"9a8e73dded40920ee1561c54f1db4f84",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823395541,
-    "wof:lastmodified":1467090708,
+    "wof:lastmodified":1510613103,
     "wof:name":"Speedway Superamerica LLC",
     "wof:parent_id":85816783,
     "wof:placetype":"venue",

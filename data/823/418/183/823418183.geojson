@@ -2,14 +2,20 @@
   "id": 823418183,
   "type": "Feature",
   "properties": {
+    "addr:full":"4441 Rosemar Rd Parkersburg WV 26104",
+    "addr:housenumber":"4441",
+    "addr:postcode":"26104",
+    "addr:street":"Rosemar Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.524876,39.295216,-81.524876,39.295216",
     "geom:latitude":39.295216,
     "geom:longitude":-81.524876,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4441 Rosemar Rd",
     "sg:city":"Parkersburg",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85818799,
         102083343
     ],
+    "wof:brand_id":1125152283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JDsLEzTUg0ZbxnlqT2BSd_39.295216_-81.524876@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433388,
-    "wof:geomhash":"e0931c759a19459ebd5f6d5202c13809",
+    "wof:geomhash":"49ed51f3cb6db93f32c023e03ee83aed",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823418183,
-    "wof:lastmodified":1467090737,
+    "wof:lastmodified":1510699427,
     "wof:name":"Gentiva Health Svc",
     "wof:parent_id":85818799,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823374647,
   "type": "Feature",
   "properties": {
+    "addr:full":"1300 Charles St Wellsburg WV 26070",
+    "addr:housenumber":"1300",
+    "addr:postcode":"26070",
+    "addr:street":"Charles St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.61012,40.276274,-80.61012,40.276274",
     "geom:latitude":40.276274,
     "geom:longitude":-80.61012,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1300 Charles St",
     "sg:city":"Wellsburg",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084713,
         85813807
     ],
+    "wof:brand_id":1125153121,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6s7VCIRCGnqhc1cqZbXnDg_40.276274_-80.610120@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431384,
-    "wof:geomhash":"70060ffeebad3c55a1b4a8b1e7efc1c6",
+    "wof:geomhash":"3c0f9f6b7cad80d0ed50fb3f2528ef0d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823374647,
-    "wof:lastmodified":1467090681,
+    "wof:lastmodified":1510699545,
     "wof:name":"St John's Catholic Church",
     "wof:parent_id":85813807,
     "wof:placetype":"venue",

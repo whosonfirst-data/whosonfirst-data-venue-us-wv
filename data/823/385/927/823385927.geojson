@@ -2,14 +2,20 @@
   "id": 823385927,
   "type": "Feature",
   "properties": {
+    "addr:full":"2504 Grant Ave St Albans WV 25177",
+    "addr:housenumber":"2504",
+    "addr:postcode":"25177",
+    "addr:street":"Grant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.802694,38.382091,-81.802694,38.382091",
     "geom:latitude":38.382091,
     "geom:longitude":-81.802694,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2504 Grant Ave",
     "sg:city":"St Albans",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083335,
         85840775
     ],
+    "wof:brand_id":1125150177,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33GwL1AjcJs1LCfCPxxJh6_38.382091_-81.802694@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431888,
-    "wof:geomhash":"50773261cf6ede1e2ff64a6ee0b0bd2b",
+    "wof:geomhash":"ae76f94b4721fcc82ae8ed7238db27b5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823385927,
-    "wof:lastmodified":1467090696,
+    "wof:lastmodified":1510694914,
     "wof:name":"Bethany Baptist Church",
     "wof:parent_id":85840775,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823379727,
   "type": "Feature",
   "properties": {
+    "addr:full":"993 Ripley Rd Spencer WV 25276",
+    "addr:housenumber":"993",
+    "addr:postcode":"25276",
+    "addr:street":"Ripley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.383614,38.795237,-81.383614,38.795237",
     "geom:latitude":38.795237,
     "geom:longitude":-81.383614,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"993 Ripley Rd",
     "sg:city":"Spencer",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083399,
         85868331
     ],
+    "wof:brand_id":1125155335,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Ib0KPHmKrop5qpuIM7YkW_38.795237_-81.383614@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431627,
-    "wof:geomhash":"1fa847b1b82725b414aea356802bc352",
+    "wof:geomhash":"bb24145e77157449d73237e50827928b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823379727,
-    "wof:lastmodified":1467090688,
+    "wof:lastmodified":1510696707,
     "wof:name":"Ancient Free & Accepted M",
     "wof:parent_id":85868331,
     "wof:placetype":"venue",

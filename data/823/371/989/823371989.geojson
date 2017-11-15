@@ -2,14 +2,20 @@
   "id": 823371989,
   "type": "Feature",
   "properties": {
+    "addr:full":"804 Greenbrier St Charleston WV 25311",
+    "addr:housenumber":"804",
+    "addr:postcode":"25311",
+    "addr:street":"Greenbrier St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.605248,38.346889,-81.605248,38.346889",
     "geom:latitude":38.346889,
     "geom:longitude":-81.605248,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"804 Greenbrier St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083335,
         85850023
     ],
+    "wof:brand_id":1125155399,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lkFRq7WtLuav6qaDykIY5_38.346889_-81.605248@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431283,
-    "wof:geomhash":"558d0d1f719b5bc54903a2628a2c708d",
+    "wof:geomhash":"092aebef625c76387f6dca4bca457f79",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823371989,
-    "wof:lastmodified":1467090678,
+    "wof:lastmodified":1510698647,
     "wof:name":"Money Concepts",
     "wof:parent_id":85850023,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823408873,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 Scott Ave Morgantown WV 26508",
+    "addr:housenumber":"20",
+    "addr:postcode":"26508",
+    "addr:street":"Scott Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.955236,39.58754,-79.955236,39.58754",
     "geom:latitude":39.58754,
     "geom:longitude":-79.955236,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"20 Scott Ave",
     "sg:city":"Morgantown",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85826231,
         102082587
     ],
+    "wof:brand_id":420574769,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4H5FyuSfsAoh2N5xU6GvrR_39.587540_-79.955236@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463432980,
-    "wof:geomhash":"49a85754f9eae5218091cda6c81dba35",
+    "wof:geomhash":"c7ddb6c3920519571732072ba64377dd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":823408873,
-    "wof:lastmodified":1467090725,
+    "wof:lastmodified":1510604081,
     "wof:name":"Ramada Inn",
     "wof:parent_id":85826231,
     "wof:placetype":"venue",

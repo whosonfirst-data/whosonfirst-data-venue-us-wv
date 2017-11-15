@@ -2,14 +2,20 @@
   "id": 823453819,
   "type": "Feature",
   "properties": {
+    "addr:full":"719 Fairmont Ave Fairmont WV 26554",
+    "addr:housenumber":"719",
+    "addr:postcode":"26554",
+    "addr:street":"Fairmont Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.150981,39.476531,-80.150981,39.476531",
     "geom:latitude":39.476531,
     "geom:longitude":-80.150981,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"719 Fairmont Ave",
     "sg:city":"Fairmont",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102082601,
         85821233
     ],
+    "wof:brand_id":1125153179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RSROtqmgTukcZTMfmASo8_39.476531_-80.150981@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434964,
-    "wof:geomhash":"f69e9d39b839115b7deab232230b8f50",
+    "wof:geomhash":"9f11ce7b54b5028ca42d7a8e1d46ba53",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823453819,
-    "wof:lastmodified":1467090781,
+    "wof:lastmodified":1510699296,
     "wof:name":"Sicilia's Pizzeria",
     "wof:parent_id":85821233,
     "wof:placetype":"venue",

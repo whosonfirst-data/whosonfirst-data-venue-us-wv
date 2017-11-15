@@ -2,14 +2,20 @@
   "id": 823432927,
   "type": "Feature",
   "properties": {
+    "addr:full":"988 State Rte 10 Logan WV 25601",
+    "addr:housenumber":"988",
+    "addr:postcode":"25601",
+    "addr:street":"State Rte 10",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.987876,37.874793,-81.987876,37.874793",
     "geom:latitude":37.874793,
     "geom:longitude":-81.987876,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"988 State Rte 10",
     "sg:city":"Logan",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85868319,
         102083369
     ],
+    "wof:brand_id":1125156401,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sW0A0XJ3n6dNa6tDTFtNG_37.874793_-81.987876@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434016,
-    "wof:geomhash":"3041a6a9c93387c55937f09c554a594f",
+    "wof:geomhash":"77e307f04e446a4d43348fdd49f7e5f0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":823432927,
-    "wof:lastmodified":1467090755,
+    "wof:lastmodified":1510695234,
     "wof:name":"Gino's Pizza",
     "wof:parent_id":85868319,
     "wof:placetype":"venue",

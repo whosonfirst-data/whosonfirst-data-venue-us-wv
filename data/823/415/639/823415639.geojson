@@ -2,14 +2,20 @@
   "id": 823415639,
   "type": "Feature",
   "properties": {
+    "addr:full":"225 Railroad St New Martinsville WV 26155",
+    "addr:housenumber":"225",
+    "addr:postcode":"26155",
+    "addr:street":"Railroad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.863517,39.635486,-80.863517,39.635486",
     "geom:latitude":39.635486,
     "geom:longitude":-80.863517,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"225 Railroad St",
     "sg:city":"New Martinsville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083395,
         85807907
     ],
+    "wof:brand_id":1125150929,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BIs9Ftc5mKCQtZIcWet1E_39.635486_-80.863517@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433264,
-    "wof:geomhash":"d9cf46fc70abf3487cc46d3ea73f7ed8",
+    "wof:geomhash":"277d4bca51b49049ea8a38d00aae2c9f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823415639,
-    "wof:lastmodified":1467090733,
+    "wof:lastmodified":1510694586,
     "wof:name":"CSX",
     "wof:parent_id":85807907,
     "wof:placetype":"venue",

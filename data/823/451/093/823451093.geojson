@@ -2,14 +2,20 @@
   "id": 823451093,
   "type": "Feature",
   "properties": {
+    "addr:full":"1458 28th St Huntington WV 25705",
+    "addr:housenumber":"1458",
+    "addr:postcode":"25705",
+    "addr:street":"28Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.399564,38.409112,-82.399564,38.409112",
     "geom:latitude":38.409112,
     "geom:longitude":-82.399564,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1458 28th St",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083329,
         85868309
     ],
+    "wof:brand_id":1125150351,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4aQBnlUZaz7vX96dMTytqv_38.409112_-82.399564@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434855,
-    "wof:geomhash":"32fdcc32a4b963ff47020348c9a98e12",
+    "wof:geomhash":"a381cdcf0c605088501b4ff69dffd64a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823451093,
-    "wof:lastmodified":1467090778,
+    "wof:lastmodified":1510697027,
     "wof:name":"Christ United Methodist Church",
     "wof:parent_id":85868309,
     "wof:placetype":"venue",

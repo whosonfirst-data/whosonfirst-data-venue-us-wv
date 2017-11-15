@@ -2,14 +2,20 @@
   "id": 823421075,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 D St Charleston WV 25303",
+    "addr:housenumber":"400",
+    "addr:postcode":"25303",
+    "addr:street":"D St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.695326,38.366994,-81.695326,38.366994",
     "geom:latitude":38.366994,
     "geom:longitude":-81.695326,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"400 D St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083335,
         85837449
     ],
+    "wof:brand_id":420575173,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0snnuA8kopOryEwnlRefML_38.366994_-81.695326@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433508,
-    "wof:geomhash":"29f3772fdf736b28af90694a6bec5791",
+    "wof:geomhash":"4d531be5ba1e2ad564a099cc027c6ecd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823421075,
-    "wof:lastmodified":1467090740,
+    "wof:lastmodified":1510602718,
     "wof:name":"United States Postal Service",
     "wof:parent_id":85837449,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823453159,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 S Center St Oak Hill WV 25901",
+    "addr:housenumber":"100",
+    "addr:postcode":"25901",
+    "addr:street":"S Center St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.139012,37.999152,-81.139012,37.999152",
     "geom:latitude":37.999152,
     "geom:longitude":-81.139012,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 S Center St",
     "sg:city":"Oak Hill",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85823987,
         102083359
     ],
+    "wof:brand_id":1125158905,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Du7t3eapJUVtSIlvkVup5_37.999152_-81.139012@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434936,
-    "wof:geomhash":"4734a44b576c95538ef246651cc86460",
+    "wof:geomhash":"be479e8a6da81eb9511038810ee591df",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823453159,
-    "wof:lastmodified":1467090781,
+    "wof:lastmodified":1510696683,
     "wof:name":"Acapulco",
     "wof:parent_id":85823987,
     "wof:placetype":"venue",

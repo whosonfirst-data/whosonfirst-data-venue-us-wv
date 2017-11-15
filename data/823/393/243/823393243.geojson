@@ -2,14 +2,20 @@
   "id": 823393243,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 Rosebud Plz Clarksburg WV 26301",
+    "addr:housenumber":"600",
+    "addr:postcode":"26301",
+    "addr:street":"Rosebud Plz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.371186,39.263165,-80.371186,39.263165",
     "geom:latitude":39.263165,
     "geom:longitude":-80.371186,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"600 Rosebud Plz",
     "sg:city":"Clarksburg",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85810773,
         102082619
     ],
+    "wof:brand_id":420575349,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LvEBfW03eGehTmowY2so0_39.263165_-80.371186@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463432240,
-    "wof:geomhash":"bd3bbf4f44c03045d4ba7b7bf6b3b515",
+    "wof:geomhash":"6124d5c1b9bd7925e3d3659cbb838f74",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":823393243,
-    "wof:lastmodified":1467090705,
+    "wof:lastmodified":1510602767,
     "wof:name":"Huntington National Bank",
     "wof:parent_id":85810773,
     "wof:placetype":"venue",

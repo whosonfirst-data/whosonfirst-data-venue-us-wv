@@ -2,14 +2,20 @@
   "id": 823401211,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Fletcher Sq Dunbar WV 25064",
+    "addr:housenumber":"4",
+    "addr:postcode":"25064",
+    "addr:street":"Fletcher Sq",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.736815,38.358897,-81.736815,38.358897",
     "geom:latitude":38.358897,
     "geom:longitude":-81.736815,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4 Fletcher Sq",
     "sg:city":"Dunbar",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102083335,
         85837449
     ],
+    "wof:brand_id":1125156527,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1asK1pbu99xkVmJH7rqPBl_38.358897_-81.736815@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463432639,
-    "wof:geomhash":"797cd8f35ba76d776c334deb37ae2128",
+    "wof:geomhash":"eb7ca0d42fd47f5032851c71769f6c28",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":823401211,
-    "wof:lastmodified":1467090715,
+    "wof:lastmodified":1510696819,
     "wof:name":"Beauty Alliance",
     "wof:parent_id":85837449,
     "wof:placetype":"venue",

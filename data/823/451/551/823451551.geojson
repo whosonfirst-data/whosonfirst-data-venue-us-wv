@@ -2,14 +2,20 @@
   "id": 823451551,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 E Dupont Ave Belle WV 25015",
+    "addr:housenumber":"300",
+    "addr:postcode":"25015",
+    "addr:street":"E Dupont Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.540566,38.234587,-81.540566,38.234587",
     "geom:latitude":38.234587,
     "geom:longitude":-81.540566,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 E Dupont Ave",
     "sg:city":"Belle",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083335,
         85845161
     ],
+    "wof:brand_id":420575349,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UwyKSi7zgNT2wcuvYBVbi_38.234587_-81.540566@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434875,
-    "wof:geomhash":"1778744aff8bf4a30cfd7a7b30dd7e24",
+    "wof:geomhash":"237c0d9020ee21408f7161943355e45b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823451551,
-    "wof:lastmodified":1467090779,
+    "wof:lastmodified":1510602768,
     "wof:name":"Huntington National Bank",
     "wof:parent_id":85845161,
     "wof:placetype":"venue",

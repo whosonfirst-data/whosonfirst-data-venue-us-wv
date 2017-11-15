@@ -2,14 +2,20 @@
   "id": 823453333,
   "type": "Feature",
   "properties": {
+    "addr:full":"1814 Blizzard Dr Parkersburg WV 26101",
+    "addr:housenumber":"",
+    "addr:postcode":"1814;26101",
+    "addr:street":"Blizzard Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.545207,39.239459,-81.545207,39.239459",
     "geom:latitude":39.239459,
     "geom:longitude":-81.545207,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1814 Blizzard Dr",
     "sg:city":"Parkersburg",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102083343,
         85849931
     ],
+    "wof:brand_id":1125153179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28EFj4uEguHZyJ4BnLKHUA_39.239459_-81.545207@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434943,
-    "wof:geomhash":"8898a0a175113167cfffed928a6be43c",
+    "wof:geomhash":"d6b9d9121fc3db071beb860eb3afa84e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823453333,
-    "wof:lastmodified":1467090781,
+    "wof:lastmodified":1510699296,
     "wof:name":"Sicilia's Pizzeria",
     "wof:parent_id":85849931,
     "wof:placetype":"venue",

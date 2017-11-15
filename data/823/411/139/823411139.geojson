@@ -2,14 +2,20 @@
   "id": 823411139,
   "type": "Feature",
   "properties": {
+    "addr:full":"225 Pikeview Dr Beckley WV 25801",
+    "addr:housenumber":"225",
+    "addr:postcode":"25801",
+    "addr:street":"Pikeview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.212283,37.797697,-81.212283,37.797697",
     "geom:latitude":37.797697,
     "geom:longitude":-81.212283,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"225 Pikeview Dr",
     "sg:city":"Beckley",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083349,
         85805185
     ],
+    "wof:brand_id":1125158821,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55thoQ8YSVypnMMvH2Tkia_37.797697_-81.212283@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433071,
-    "wof:geomhash":"c86e79973aa77f25cc34df1fb70ccc39",
+    "wof:geomhash":"2a67a76a820859707310d68ca6ca8445",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823411139,
-    "wof:lastmodified":1467090728,
+    "wof:lastmodified":1510696071,
     "wof:name":"Munchies",
     "wof:parent_id":85805185,
     "wof:placetype":"venue",

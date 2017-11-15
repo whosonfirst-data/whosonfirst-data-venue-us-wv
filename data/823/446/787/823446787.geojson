@@ -2,14 +2,20 @@
   "id": 823446787,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 Chappell Rd SE Charleston WV 25304",
+    "addr:housenumber":"700",
+    "addr:postcode":"25304",
+    "addr:street":"Chappell Rd Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.594163,38.32072,-81.594163,38.32072",
     "geom:latitude":38.32072,
     "geom:longitude":-81.594163,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"700 Chappell Rd SE",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083335,
         85845161
     ],
+    "wof:brand_id":1125155107,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KpQU2Q4lWrflj85j2cxPf_38.320720_-81.594163@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434683,
-    "wof:geomhash":"1138a2b6b0188949864c8d09b655a306",
+    "wof:geomhash":"be153c09db38575ebc5e20e68c407fa2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823446787,
-    "wof:lastmodified":1467090772,
+    "wof:lastmodified":1510699581,
     "wof:name":"Church Of The Good Shepherd",
     "wof:parent_id":85845161,
     "wof:placetype":"venue",

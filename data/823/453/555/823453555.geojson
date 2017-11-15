@@ -2,14 +2,20 @@
   "id": 823453555,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 Berlin Rd Weston WV 26452",
+    "addr:housenumber":"110",
+    "addr:postcode":"26452",
+    "addr:street":"Berlin Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.416468,39.019561,-80.416468,39.019561",
     "geom:latitude":39.019561,
     "geom:longitude":-80.416468,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"110 Berlin Rd",
     "sg:city":"Weston",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         85833241,
         102083339
     ],
+    "wof:brand_id":1125153179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Wofkoyrwd347b9tOCws7v_39.019561_-80.416468@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434951,
-    "wof:geomhash":"1f1d52dc292924dfb256d89f0fa58c92",
+    "wof:geomhash":"5f821f0b1e46eb1d7def37b656a7dce4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823453555,
-    "wof:lastmodified":1467090781,
+    "wof:lastmodified":1510699297,
     "wof:name":"Sicilia's Pizzeria",
     "wof:parent_id":85833241,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823441691,
   "type": "Feature",
   "properties": {
+    "addr:full":"1193 Winchester Ave Martinsburg WV 25401",
+    "addr:housenumber":"1193",
+    "addr:postcode":"25401",
+    "addr:street":"Winchester Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.985006,39.437048,-77.985006,39.437048",
     "geom:latitude":39.437048,
     "geom:longitude":-77.985006,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1193 Winchester Ave",
     "sg:city":"Martinsburg",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083367,
         85806921
     ],
+    "wof:brand_id":420575921,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6b6z7efD50hHRDE9lpu4QC_39.437048_-77.985006@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434432,
-    "wof:geomhash":"8c9e50bb73313c7fba8990656d96d61b",
+    "wof:geomhash":"e2c87e0fae9eb75fae8114b6c2f1d438",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823441691,
-    "wof:lastmodified":1467090766,
+    "wof:lastmodified":1510602713,
     "wof:name":"Economy Inn",
     "wof:parent_id":85806921,
     "wof:placetype":"venue",

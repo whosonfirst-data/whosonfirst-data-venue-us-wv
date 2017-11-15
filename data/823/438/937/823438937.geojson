@@ -2,14 +2,20 @@
   "id": 823438937,
   "type": "Feature",
   "properties": {
+    "addr:full":"411 Beckley Xing Beckley WV 25801",
+    "addr:housenumber":"411",
+    "addr:postcode":"25801",
+    "addr:street":"Beckley Xing",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.183515,37.802318,-81.183515,37.802318",
     "geom:latitude":37.802318,
     "geom:longitude":-81.183515,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"411 Beckley Xing",
     "sg:city":"Beckley",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083349,
         85805185
     ],
+    "wof:brand_id":1125156437,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LQbFHbD0XrdEdWRGFTiV3_37.802318_-81.183515@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434323,
-    "wof:geomhash":"64e3e7ca94e6203e53884959cc5b8db5",
+    "wof:geomhash":"d095dfc32642d29add75e9efd365dd4b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823438937,
-    "wof:lastmodified":1467090763,
+    "wof:lastmodified":1510696865,
     "wof:name":"Navy Recruiting Station",
     "wof:parent_id":85805185,
     "wof:placetype":"venue",

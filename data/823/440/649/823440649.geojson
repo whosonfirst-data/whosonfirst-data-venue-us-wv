@@ -2,14 +2,20 @@
   "id": 823440649,
   "type": "Feature",
   "properties": {
+    "addr:full":"310 Washington St St Marys WV 26170",
+    "addr:housenumber":"310",
+    "addr:postcode":"26170",
+    "addr:street":"Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.204623,39.390094,-81.204623,39.390094",
     "geom:latitude":39.390094,
     "geom:longitude":-81.204623,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"310 Washington St",
     "sg:city":"St Marys",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083345,
         85814229
     ],
+    "wof:brand_id":1125153121,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KD7U8J9Gq1Sn3gfQ54Eky_39.390094_-81.204623@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434389,
-    "wof:geomhash":"f06f4899c8f8559b947a90804d4fe1a9",
+    "wof:geomhash":"4c396850859b2795e6563dcf612ac3f2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823440649,
-    "wof:lastmodified":1467090765,
+    "wof:lastmodified":1510699545,
     "wof:name":"St John's Catholic Church",
     "wof:parent_id":85814229,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823411281,
   "type": "Feature",
   "properties": {
+    "addr:full":"185 Blue Angel Ln Beaver WV 25813",
+    "addr:housenumber":"185",
+    "addr:postcode":"25813",
+    "addr:street":"Blue Angel Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.116267,37.791703,-81.116267,37.791703",
     "geom:latitude":37.791703,
     "geom:longitude":-81.116267,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"185 Blue Angel Ln",
     "sg:city":"Beaver",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102083349,
         85805185
     ],
+    "wof:brand_id":1125159971,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34h51l728YVZ5d14XxpEOP_37.791703_-81.116267@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433076,
-    "wof:geomhash":"0a8f2076b3db55ebc01271d88d9961ad",
+    "wof:geomhash":"922292ca9f4db8e4332a1678cd37c14c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823411281,
-    "wof:lastmodified":1467090728,
+    "wof:lastmodified":1510698870,
     "wof:name":"Orkin Exterminating Co Inc",
     "wof:parent_id":85805185,
     "wof:placetype":"venue",

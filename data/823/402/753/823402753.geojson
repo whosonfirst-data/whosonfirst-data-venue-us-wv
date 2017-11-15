@@ -2,6 +2,10 @@
   "id": 823402753,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 Washington St E Charleston WV 25301",
+    "addr:housenumber":"1000",
+    "addr:postcode":"25301",
+    "addr:street":"Washington St E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":823402753,
-    "wof:lastmodified":1467090717,
+    "wof:lastmodified":1472655083,
     "wof:name":"Fairfield Inn",
     "wof:parent_id":85816783,
     "wof:placetype":"venue",

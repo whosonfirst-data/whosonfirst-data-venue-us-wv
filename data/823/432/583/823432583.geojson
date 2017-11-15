@@ -2,14 +2,20 @@
   "id": 823432583,
   "type": "Feature",
   "properties": {
+    "addr:full":"250 Grand Ave Bridgeport WV 26330",
+    "addr:housenumber":"250",
+    "addr:postcode":"26330",
+    "addr:street":"Grand Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.246786,39.284445,-80.246786,39.284445",
     "geom:latitude":39.284445,
     "geom:longitude":-80.246786,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"250 Grand Ave",
     "sg:city":"Bridgeport",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102082619,
         85812589
     ],
+    "wof:brand_id":1125150855,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5isBSmSx0sxNkfPJVOPS0F_39.284445_-80.246786@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434002,
-    "wof:geomhash":"8fb98faf8619f5480e50ed4d22d7990e",
+    "wof:geomhash":"2bf2cf1f98b1c0fd7288eead9f326fcd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":823432583,
-    "wof:lastmodified":1467090754,
+    "wof:lastmodified":1510694214,
     "wof:name":"Bankers Life & Casualty Co",
     "wof:parent_id":85812589,
     "wof:placetype":"venue",

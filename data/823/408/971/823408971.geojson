@@ -2,14 +2,20 @@
   "id": 823408971,
   "type": "Feature",
   "properties": {
+    "addr:full":"819 Mercer St Princeton WV 24740",
+    "addr:housenumber":"819",
+    "addr:postcode":"24740",
+    "addr:street":"Mercer St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.093509,37.369564,-81.093509,37.369564",
     "geom:latitude":37.369564,
     "geom:longitude":-81.093509,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"819 Mercer St",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082639,
         85813203
     ],
+    "wof:brand_id":1125154289,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HQPI80aacPpFDqHv1mERZ_37.369564_-81.093509@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463432985,
-    "wof:geomhash":"79b715cf50c5d45133c9b3f6f0177fd4",
+    "wof:geomhash":"94c7430ccc24a4aff40c6a2ba36e468d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823408971,
-    "wof:lastmodified":1467090725,
+    "wof:lastmodified":1510693860,
     "wof:name":"Charter Cmmnctons Holdings LLC",
     "wof:parent_id":85813203,
     "wof:placetype":"venue",

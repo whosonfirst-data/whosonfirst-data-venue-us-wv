@@ -2,14 +2,20 @@
   "id": 823371643,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Scott Ave Morgantown WV 26508",
+    "addr:housenumber":"300",
+    "addr:postcode":"26508",
+    "addr:street":"Scott Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.968706,39.584871,-79.968706,39.584871",
     "geom:latitude":39.584871,
     "geom:longitude":-79.968706,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 Scott Ave",
     "sg:city":"Morgantown",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85826231,
         102082587
     ],
+    "wof:brand_id":420574787,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pXyU105ydLzj1J2jnUdEw_39.584871_-79.968706@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431266,
-    "wof:geomhash":"85a1f820502bbb5a61cbf9abbe1d8c17",
+    "wof:geomhash":"b59dd598fc80cd2bf24ccdf0a58439b3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823371643,
-    "wof:lastmodified":1467090678,
+    "wof:lastmodified":1510603992,
     "wof:name":"American Cancer Society",
     "wof:parent_id":85826231,
     "wof:placetype":"venue",

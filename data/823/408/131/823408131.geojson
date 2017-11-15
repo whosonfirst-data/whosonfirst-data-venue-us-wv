@@ -2,14 +2,20 @@
   "id": 823408131,
   "type": "Feature",
   "properties": {
+    "addr:full":"1425 Jackson Ave Huntington WV 25704",
+    "addr:housenumber":"1425",
+    "addr:postcode":"25704",
+    "addr:street":"Jackson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.479,38.406872,-82.479,38.406872",
     "geom:latitude":38.406872,
     "geom:longitude":-82.479,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1425 Jackson Ave",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083329,
         85855709
     ],
+    "wof:brand_id":420575467,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZwtuHlfjGzX1BJ0YgctBB_38.406872_-82.479000@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463432952,
-    "wof:geomhash":"6bffe166a54ba25205551d2d0d4a6a6e",
+    "wof:geomhash":"1e47533be001735069bef0a5949ae440",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823408131,
-    "wof:lastmodified":1467090724,
+    "wof:lastmodified":1510601964,
     "wof:name":"Frito-Lay Inc",
     "wof:parent_id":85855709,
     "wof:placetype":"venue",

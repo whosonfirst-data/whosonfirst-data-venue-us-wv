@@ -2,14 +2,20 @@
   "id": 823393045,
   "type": "Feature",
   "properties": {
+    "addr:full":"146 Main St Clay WV 25043",
+    "addr:housenumber":"146",
+    "addr:postcode":"25043",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.085311,38.460535,-81.085311,38.460535",
     "geom:latitude":38.460535,
     "geom:longitude":-81.085311,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"146 Main St",
     "sg:city":"Clay",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85811219,
         102082627
     ],
+    "wof:brand_id":1125154353,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4C47m4AWqZ4CMwa2UcWHoF_38.460535_-81.085311@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463432233,
-    "wof:geomhash":"465c46f10c1ed789a693c31aede7e0cb",
+    "wof:geomhash":"c8317d2c6da63b03b31def8e5a793abf",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":823393045,
-    "wof:lastmodified":1467090705,
+    "wof:lastmodified":1510604930,
     "wof:name":"Picture Perfect",
     "wof:parent_id":85811219,
     "wof:placetype":"venue",

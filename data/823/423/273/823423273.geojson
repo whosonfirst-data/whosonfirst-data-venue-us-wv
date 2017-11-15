@@ -2,14 +2,20 @@
   "id": 823423273,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 Ford St Spring Hill WV 25309",
+    "addr:housenumber":"400",
+    "addr:postcode":"25309",
+    "addr:street":"Ford St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.729045,38.354529,-81.729045,38.354529",
     "geom:latitude":38.354529,
     "geom:longitude":-81.729045,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"400 Ford St",
     "sg:city":"Spring Hill",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083335,
         85837449
     ],
+    "wof:brand_id":420575353,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ll0B5r23vduCSguWHNhHT_38.354529_-81.729045@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433587,
-    "wof:geomhash":"e46329fccfaf573e0c8e625340791b56",
+    "wof:geomhash":"7ec32859a291a1e9411d8ef29f7b0863",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823423273,
-    "wof:lastmodified":1467090743,
+    "wof:lastmodified":1510601965,
     "wof:name":"Precision Tune Auto Care",
     "wof:parent_id":85837449,
     "wof:placetype":"venue",

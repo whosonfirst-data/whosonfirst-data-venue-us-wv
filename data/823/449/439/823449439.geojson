@@ -2,14 +2,20 @@
   "id": 823449439,
   "type": "Feature",
   "properties": {
+    "addr:full":"150 John St Weston WV 26452",
+    "addr:housenumber":"150",
+    "addr:postcode":"26452",
+    "addr:street":"John St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.453364,39.039223,-80.453364,39.039223",
     "geom:latitude":39.039223,
     "geom:longitude":-80.453364,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"150 John St",
     "sg:city":"Weston",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85833241,
         102083339
     ],
+    "wof:brand_id":420573779,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6a20IFWj7rOPqy0IEHbJeG_39.039223_-80.453364@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434796,
-    "wof:geomhash":"b96b10e36999cd7fa3ef3aeabd41df88",
+    "wof:geomhash":"50a31baff68e45adaa7ca37c07564de9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":823449439,
-    "wof:lastmodified":1467090776,
+    "wof:lastmodified":1510603561,
     "wof:name":"Edward Jones Co",
     "wof:parent_id":85833241,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823442989,
   "type": "Feature",
   "properties": {
+    "addr:full":"4605 Camden Ave Parkersburg WV 26101",
+    "addr:housenumber":"4605",
+    "addr:postcode":"26101",
+    "addr:street":"Camden Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.523256,39.235146,-81.523256,39.235146",
     "geom:latitude":39.235146,
     "geom:longitude":-81.523256,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4605 Camden Ave",
     "sg:city":"Parkersburg",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083343,
         85849931
     ],
+    "wof:brand_id":1125154013,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FSlYRVNSTXdcRlQjoST4P_39.235146_-81.523256@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434493,
-    "wof:geomhash":"05f39ab847f3b802f0448d0d94156721",
+    "wof:geomhash":"a0fb7f9b6e2bafb00c8b96ee6fc29588",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823442989,
-    "wof:lastmodified":1467090768,
+    "wof:lastmodified":1510695148,
     "wof:name":"US Army Dept",
     "wof:parent_id":85849931,
     "wof:placetype":"venue",

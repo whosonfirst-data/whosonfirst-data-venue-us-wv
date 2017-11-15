@@ -2,14 +2,20 @@
   "id": 823431197,
   "type": "Feature",
   "properties": {
+    "addr:full":"312 Merchant St Fairmont WV 26554",
+    "addr:housenumber":"312",
+    "addr:postcode":"26554",
+    "addr:street":"Merchant St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.142992,39.478216,-80.142992,39.478216",
     "geom:latitude":39.478216,
     "geom:longitude":-80.142992,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"312 Merchant St",
     "sg:city":"Fairmont",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102082601,
         85821233
     ],
+    "wof:brand_id":1125150109,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3soxYIhf0meo7O7gZycB18_39.478216_-80.142992@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433927,
-    "wof:geomhash":"23f3ced917452e2bb875d14b15cee76f",
+    "wof:geomhash":"a0a9618c31c5cf00d03d589ac61b1e3e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823431197,
-    "wof:lastmodified":1467090752,
+    "wof:lastmodified":1510694636,
     "wof:name":"Uswa",
     "wof:parent_id":85821233,
     "wof:placetype":"venue",

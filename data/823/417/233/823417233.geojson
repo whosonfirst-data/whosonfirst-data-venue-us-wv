@@ -2,14 +2,20 @@
   "id": 823417233,
   "type": "Feature",
   "properties": {
+    "addr:full":"1157 National Rd Wheeling WV 26003",
+    "addr:housenumber":"1157",
+    "addr:postcode":"26003",
+    "addr:street":"National Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.6839,40.074758,-80.6839,40.074758",
     "geom:latitude":40.074758,
     "geom:longitude":-80.6839,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1157 National Rd",
     "sg:city":"Wheeling",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102082621,
         85817519
     ],
+    "wof:brand_id":1125154149,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6d9qGvqRva5DZ0NuEEVzf2_40.074758_-80.683900@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433346,
-    "wof:geomhash":"c953c3ebaa2fed52aab86b5251bf88cc",
+    "wof:geomhash":"40e362188b32921bc5b20f4039ca738d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823417233,
-    "wof:lastmodified":1467090735,
+    "wof:lastmodified":1510694980,
     "wof:name":"Shear Madness",
     "wof:parent_id":85817519,
     "wof:placetype":"venue",

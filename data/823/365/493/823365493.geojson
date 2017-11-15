@@ -2,14 +2,20 @@
   "id": 823365493,
   "type": "Feature",
   "properties": {
+    "addr:full":"1801 Bigley Ave Charleston WV 25302",
+    "addr:housenumber":"1801",
+    "addr:postcode":"25302",
+    "addr:street":"Bigley Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.615111,38.36361,-81.615111,38.36361",
     "geom:latitude":38.36361,
     "geom:longitude":-81.615111,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1801 Bigley Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083335,
         85816783
     ],
+    "wof:brand_id":1125150141,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VXrHzHeugGxAA3abBMnzG_38.363610_-81.615111@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463430988,
-    "wof:geomhash":"aa9f3476a10612635ad880f6ea242f9d",
+    "wof:geomhash":"a99d957e8ca6a4505b4d9f3a1478c84b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823365493,
-    "wof:lastmodified":1467090670,
+    "wof:lastmodified":1510694772,
     "wof:name":"Wesley United Methodist Church",
     "wof:parent_id":85816783,
     "wof:placetype":"venue",

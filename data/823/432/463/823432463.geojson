@@ -2,14 +2,20 @@
   "id": 823432463,
   "type": "Feature",
   "properties": {
+    "addr:full":"1014 Winchester Ave Martinsburg WV 25401",
+    "addr:housenumber":"1014",
+    "addr:postcode":"25401",
+    "addr:street":"Winchester Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.980195,39.44703,-77.980195,39.44703",
     "geom:latitude":39.44703,
     "geom:longitude":-77.980195,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1014 Winchester Ave",
     "sg:city":"Martinsburg",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083367,
         85806921
     ],
+    "wof:brand_id":420574867,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50t7teT4NrD4STlFkqpx33_39.447030_-77.980195@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433992,
-    "wof:geomhash":"1d29b1bad37a709f1b3d51f0c8a2056f",
+    "wof:geomhash":"b9a19a8b593c636cfb1b6c4cff85326b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823432463,
-    "wof:lastmodified":1467090754,
+    "wof:lastmodified":1510604545,
     "wof:name":"Thrifty Car Rental",
     "wof:parent_id":85806921,
     "wof:placetype":"venue",

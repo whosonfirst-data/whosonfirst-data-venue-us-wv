@@ -2,14 +2,20 @@
   "id": 823406045,
   "type": "Feature",
   "properties": {
+    "addr:full":"2120 Harper Rd Beckley WV 25801",
+    "addr:housenumber":"2120",
+    "addr:postcode":"25801",
+    "addr:street":"Harper Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.218374,37.795884,-81.218374,37.795884",
     "geom:latitude":37.795884,
     "geom:longitude":-81.218374,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2120 Harper Rd",
     "sg:city":"Beckley",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102083349,
         85805185
     ],
+    "wof:brand_id":1125150099,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1z1rkWPIzgM5h4Y9cIA3yx_37.795884_-81.218374@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463432859,
-    "wof:geomhash":"e914353655c1365878ca3ed2d95b3638",
+    "wof:geomhash":"47fc6ce0a780ee3a50dcaa974112f2cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823406045,
-    "wof:lastmodified":1467090721,
+    "wof:lastmodified":1510695714,
     "wof:name":"Country Inn & Suites",
     "wof:parent_id":85805185,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823448063,
   "type": "Feature",
   "properties": {
+    "addr:full":"232 S Chestnut St Clarksburg WV 26301",
+    "addr:housenumber":"232",
+    "addr:postcode":"26301",
+    "addr:street":"S Chestnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.345014,39.279937,-80.345014,39.279937",
     "geom:latitude":39.279937,
     "geom:longitude":-80.345014,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"232 S Chestnut St",
     "sg:city":"Clarksburg",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082619,
         85821689
     ],
+    "wof:brand_id":1125158953,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uxhRFa18Ck4vbANidtGf0_39.279937_-80.345014@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434744,
-    "wof:geomhash":"610c7b68db6dc6e7c0b7e5f61a4f972f",
+    "wof:geomhash":"07f5a31d5fc8d6eb31781cd01e23204b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823448063,
-    "wof:lastmodified":1467090774,
+    "wof:lastmodified":1510613229,
     "wof:name":"Central Church Of Christ",
     "wof:parent_id":85821689,
     "wof:placetype":"venue",

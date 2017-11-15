@@ -2,14 +2,20 @@
   "id": 823390035,
   "type": "Feature",
   "properties": {
+    "addr:full":"1226 W Main St Bridgeport WV 26330",
+    "addr:housenumber":"1226",
+    "addr:postcode":"26330",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.277591,39.28105,-80.277591,39.28105",
     "geom:latitude":39.28105,
     "geom:longitude":-80.277591,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1226 W Main St",
     "sg:city":"Bridgeport",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082619,
         85812589
     ],
+    "wof:brand_id":420575349,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6quQJI6EPk5Zc5SD8DW3V4_39.281050_-80.277591@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463432078,
-    "wof:geomhash":"19e5a4b9046b036c54e1ae1b5f352634",
+    "wof:geomhash":"61d4b752de3be2ec3b00b3b74b268526",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823390035,
-    "wof:lastmodified":1467090701,
+    "wof:lastmodified":1510602768,
     "wof:name":"Huntington National Bank",
     "wof:parent_id":85812589,
     "wof:placetype":"venue",

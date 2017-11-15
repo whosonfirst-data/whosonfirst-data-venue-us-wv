@@ -2,14 +2,20 @@
   "id": 823401395,
   "type": "Feature",
   "properties": {
+    "addr:full":"328 E Main St Bridgeport WV 26330",
+    "addr:housenumber":"328",
+    "addr:postcode":"26330",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.246852,39.287207,-80.246852,39.287207",
     "geom:latitude":39.287207,
     "geom:longitude":-80.246852,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"328 E Main St",
     "sg:city":"Bridgeport",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102082619,
         85812589
     ],
+    "wof:brand_id":1125150545,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5a94cMltJVeDAQvngYgIDH_39.287207_-80.246852@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463432647,
-    "wof:geomhash":"4076715e92c10eeba230ffeec171ca31",
+    "wof:geomhash":"84b4483c5df6637e5286a799645d0799",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823401395,
-    "wof:lastmodified":1467090715,
+    "wof:lastmodified":1510695848,
     "wof:name":"Dairy Mart Convenience Store",
     "wof:parent_id":85812589,
     "wof:placetype":"venue",

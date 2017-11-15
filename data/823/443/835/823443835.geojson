@@ -2,14 +2,20 @@
   "id": 823443835,
   "type": "Feature",
   "properties": {
+    "addr:full":"340 Stewart St Morgantown WV 26505",
+    "addr:housenumber":"340",
+    "addr:postcode":"26505",
+    "addr:street":"Stewart St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.951256,39.639672,-79.951256,39.639672",
     "geom:latitude":39.639672,
     "geom:longitude":-79.951256,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"340 Stewart St",
     "sg:city":"Morgantown",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102082587,
         85851489
     ],
+    "wof:brand_id":1125157881,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LDiVIXpcfFkYz96PyLk5E_39.639672_-79.951256@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434535,
-    "wof:geomhash":"63876f27e44e0c3ab1f36362c69de8f6",
+    "wof:geomhash":"b8ac07b6b3b1d463e36b2e6e97a9471f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823443835,
-    "wof:lastmodified":1467090769,
+    "wof:lastmodified":1510693912,
     "wof:name":"La Weight Loss Centers Inc",
     "wof:parent_id":85851489,
     "wof:placetype":"venue",

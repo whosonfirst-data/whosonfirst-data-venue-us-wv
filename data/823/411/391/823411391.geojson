@@ -2,14 +2,20 @@
   "id": 823411391,
   "type": "Feature",
   "properties": {
+    "addr:full":"5129 Heath Creek Rd Barboursville WV 25504",
+    "addr:housenumber":"5129",
+    "addr:postcode":"25504",
+    "addr:street":"Heath Creek Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.295978,38.347396,-82.295978,38.347396",
     "geom:latitude":38.347396,
     "geom:longitude":-82.295978,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5129 Heath Creek Rd",
     "sg:city":"Barboursville",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083329,
         85865435
     ],
+    "wof:brand_id":1125153979,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lgJzhilBT54mqIEBfoMg5_38.347396_-82.295978@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433081,
-    "wof:geomhash":"73205cbafa824a32ea34c947b707bdf4",
+    "wof:geomhash":"fbbc54bc0e076dde729e61179ec33264",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823411391,
-    "wof:lastmodified":1467090728,
+    "wof:lastmodified":1510698959,
     "wof:name":"Mike's Barber Shop",
     "wof:parent_id":85865435,
     "wof:placetype":"venue",

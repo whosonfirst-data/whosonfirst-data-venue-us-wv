@@ -2,14 +2,20 @@
   "id": 823379241,
   "type": "Feature",
   "properties": {
+    "addr:full":"170 Airport Rd Charleston WV 25311",
+    "addr:housenumber":"170",
+    "addr:postcode":"25311",
+    "addr:street":"Airport Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.595009,38.369273,-81.595009,38.369273",
     "geom:latitude":38.369273,
     "geom:longitude":-81.595009,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"170 Airport Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -29,13 +35,14 @@
         102530929,
         85688589
     ],
+    "wof:brand_id":420574215,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4r54NbXVeROJn4FrU3DBSD_38.369273_-81.595009@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431609,
-    "wof:geomhash":"852b6059b7d9fcd51cb83f34caef0e6f",
+    "wof:geomhash":"eee49e1ce0d1004618b65112e6634769",
     "wof:hierarchy":[
         {
             "campus_id":102530929,
@@ -45,7 +52,7 @@
         }
     ],
     "wof:id":823379241,
-    "wof:lastmodified":1467090687,
+    "wof:lastmodified":1510604721,
     "wof:name":"Avis Rent A Car",
     "wof:parent_id":102530929,
     "wof:placetype":"venue",

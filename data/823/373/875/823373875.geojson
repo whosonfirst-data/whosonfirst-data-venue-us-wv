@@ -2,14 +2,20 @@
   "id": 823373875,
   "type": "Feature",
   "properties": {
+    "addr:full":"6580 Maccorkle Ave Saint Albans WV 25177",
+    "addr:housenumber":"6580",
+    "addr:postcode":"25177",
+    "addr:street":"Maccorkle Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.77316,38.372949,-81.77316,38.372949",
     "geom:latitude":38.372949,
     "geom:longitude":-81.77316,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6580 Maccorkle Ave",
     "sg:city":"Saint Albans",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083335,
         85840775
     ],
+    "wof:brand_id":1125155643,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1h7JMjRirQGuom09TOUlkM_38.372949_-81.773160@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431353,
-    "wof:geomhash":"c667d53bee14c383e4d5771592cefcf2",
+    "wof:geomhash":"d98bdbef0b45e2f21fe4f8c7cb00cd29",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823373875,
-    "wof:lastmodified":1467090680,
+    "wof:lastmodified":1510697976,
     "wof:name":"Nationsrent Inc",
     "wof:parent_id":85840775,
     "wof:placetype":"venue",

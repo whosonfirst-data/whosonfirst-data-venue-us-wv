@@ -2,14 +2,20 @@
   "id": 823365543,
   "type": "Feature",
   "properties": {
+    "addr:full":"195 Wetzel St New Martinsville WV 26155",
+    "addr:housenumber":"195",
+    "addr:postcode":"26155",
+    "addr:street":"Wetzel St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.860671,39.653675,-80.860671,39.653675",
     "geom:latitude":39.653675,
     "geom:longitude":-80.860671,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"195 Wetzel St",
     "sg:city":"New Martinsville",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083395,
         85807907
     ],
+    "wof:brand_id":1125152099,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1D5YUc3xZvDcXAK4JgFqpZ_39.653675_-80.860671@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463430990,
-    "wof:geomhash":"f500e5b52f21613d8df927a70398339b",
+    "wof:geomhash":"91ae06e9dedb8a2f6bc1c407a60826bc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823365543,
-    "wof:lastmodified":1467090670,
+    "wof:lastmodified":1510696863,
     "wof:name":"Martin Marietta Aggregates",
     "wof:parent_id":85807907,
     "wof:placetype":"venue",

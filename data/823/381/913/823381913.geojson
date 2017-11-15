@@ -2,14 +2,20 @@
   "id": 823381913,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Woodcrest Addition Princeton WV 24740",
+    "addr:housenumber":"2",
+    "addr:postcode":"24740",
+    "addr:street":"Woodcrest Addition",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.052534,37.367244,-81.052534,37.367244",
     "geom:latitude":37.367244,
     "geom:longitude":-81.052534,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2 Woodcrest Addition",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102082639,
         85813203
     ],
+    "wof:brand_id":1125153143,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0q3bF58RqyLcnI7iFhLmTT_37.367244_-81.052534@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431734,
-    "wof:geomhash":"048a1d23b621d60226972a196f8cb15b",
+    "wof:geomhash":"0c15a4ae1ed5e66a4d4ef650002edf41",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823381913,
-    "wof:lastmodified":1467090691,
+    "wof:lastmodified":1510613263,
     "wof:name":"Civitan International",
     "wof:parent_id":85813203,
     "wof:placetype":"venue",

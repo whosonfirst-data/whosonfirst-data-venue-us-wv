@@ -2,14 +2,20 @@
   "id": 823393729,
   "type": "Feature",
   "properties": {
+    "addr:full":"10701 Maccorkle Ave Charleston WV 25315",
+    "addr:housenumber":"10701",
+    "addr:postcode":"25315",
+    "addr:street":"Maccorkle Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.557268,38.239152,-81.557268,38.239152",
     "geom:latitude":38.239152,
     "geom:longitude":-81.557268,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10701 Maccorkle Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083335,
         85845161
     ],
+    "wof:brand_id":1125152633,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74xFjVIKX3pwkLJwemWTr9_38.239152_-81.557268@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463432262,
-    "wof:geomhash":"840beb39cd32c028a377b79f3687aca0",
+    "wof:geomhash":"cb8741df03971ea56d030d0d029812a2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823393729,
-    "wof:lastmodified":1467090705,
+    "wof:lastmodified":1510697376,
     "wof:name":"Waste Water Treatment Plant",
     "wof:parent_id":85845161,
     "wof:placetype":"venue",

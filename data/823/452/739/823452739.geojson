@@ -2,14 +2,20 @@
   "id": 823452739,
   "type": "Feature",
   "properties": {
+    "addr:full":"3028 Champion Dr Barboursville WV 25504",
+    "addr:housenumber":"3028",
+    "addr:postcode":"25504",
+    "addr:street":"Champion Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.287977,38.421307,-82.287977,38.421307",
     "geom:latitude":38.421307,
     "geom:longitude":-82.287977,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3028 Champion Dr",
     "sg:city":"Barboursville",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102083329,
         85816671
     ],
+    "wof:brand_id":1125154847,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Gv60QB1Wb0UQfJp5nRG72_38.421307_-82.287977@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434919,
-    "wof:geomhash":"24357d0de78a3979a4ce3931886e3927",
+    "wof:geomhash":"de556adcdc19b4ca8913122e652b4a0c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823452739,
-    "wof:lastmodified":1467090780,
+    "wof:lastmodified":1510695720,
     "wof:name":"Bellacino's Pizza & Grinders",
     "wof:parent_id":85816671,
     "wof:placetype":"venue",

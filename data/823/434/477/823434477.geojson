@@ -2,14 +2,20 @@
   "id": 823434477,
   "type": "Feature",
   "properties": {
+    "addr:full":"212 John St Elkins WV 26241",
+    "addr:housenumber":"212",
+    "addr:postcode":"26241",
+    "addr:street":"John St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.845728,38.923927,-79.845728,38.923927",
     "geom:latitude":38.923927,
     "geom:longitude":-79.845728,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"212 John St",
     "sg:city":"Elkins",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083361,
         85824079
     ],
+    "wof:brand_id":1125150919,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BpB48YUw1B3lx1UdpA18k_38.923927_-79.845728@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434101,
-    "wof:geomhash":"fd0939e43be5ce387e1dc42c3b5f05a5",
+    "wof:geomhash":"1db86b0847230925968519f9ea89f800",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823434477,
-    "wof:lastmodified":1467090757,
+    "wof:lastmodified":1510613226,
     "wof:name":"Grace Episcopal Church",
     "wof:parent_id":85824079,
     "wof:placetype":"venue",

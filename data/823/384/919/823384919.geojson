@@ -2,14 +2,20 @@
   "id": 823384919,
   "type": "Feature",
   "properties": {
+    "addr:full":"2300 Dry Creek Rd Milton WV 25541",
+    "addr:housenumber":"2300",
+    "addr:postcode":"25541",
+    "addr:street":"Dry Creek Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.148191,38.420185,-82.148191,38.420185",
     "geom:latitude":38.420185,
     "geom:longitude":-82.148191,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2300 Dry Creek Rd",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083329,
         85816671
     ],
+    "wof:brand_id":1125158423,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3m5ickJj0kYRWh80It8L24_38.420185_-82.148191@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431846,
-    "wof:geomhash":"dbb65189cf06ec43ce0e532e8711deb7",
+    "wof:geomhash":"283458b07b9a4ede2407e9be522a5d18",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823384919,
-    "wof:lastmodified":1467090694,
+    "wof:lastmodified":1510694766,
     "wof:name":"Wine Cellar",
     "wof:parent_id":85816671,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823376443,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 Kanawha Blvd W Charleston WV 25302",
+    "addr:housenumber":"13",
+    "addr:postcode":"25302",
+    "addr:street":"Kanawha Blvd W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.645881,38.355396,-81.645881,38.355396",
     "geom:latitude":38.355396,
     "geom:longitude":-81.645881,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13 Kanawha Blvd W",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102083335,
         85816783
     ],
+    "wof:brand_id":420574719,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0e9wLr5uvHUs9LwSHOskpZ_38.355396_-81.645881@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431480,
-    "wof:geomhash":"1876f6caadcf3795682aa86ff37be07c",
+    "wof:geomhash":"53cd6662efb607abf9de7a427a70398e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":823376443,
-    "wof:lastmodified":1467090684,
+    "wof:lastmodified":1510608791,
     "wof:name":"A G Edwards & Sons Inc",
     "wof:parent_id":85816783,
     "wof:placetype":"venue",

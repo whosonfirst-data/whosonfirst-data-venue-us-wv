@@ -2,14 +2,20 @@
   "id": 823379505,
   "type": "Feature",
   "properties": {
+    "addr:full":"5312 Maccorkle Ave Charleston WV 25309",
+    "addr:housenumber":"5312",
+    "addr:postcode":"25309",
+    "addr:street":"Maccorkle Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.742155,38.353784,-81.742155,38.353784",
     "geom:latitude":38.353784,
     "geom:longitude":-81.742155,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5312 Maccorkle Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083335,
         85837449
     ],
+    "wof:brand_id":420574659,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MmSNXHZ2bIxnvbd9iq1wP_38.353784_-81.742155@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431619,
-    "wof:geomhash":"9a56d48bdbf4f91ab7cb7fd07f4a9039",
+    "wof:geomhash":"0a2f3a05ab720654b9cf0b01d3b5b7a2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823379505,
-    "wof:lastmodified":1467090687,
+    "wof:lastmodified":1510604045,
     "wof:name":"Mail Boxes Etc",
     "wof:parent_id":85837449,
     "wof:placetype":"venue",

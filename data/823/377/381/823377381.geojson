@@ -2,14 +2,20 @@
   "id": 823377381,
   "type": "Feature",
   "properties": {
+    "addr:full":"981 Dunbar Village Plz Dunbar WV 25064",
+    "addr:housenumber":"981",
+    "addr:postcode":"25064",
+    "addr:street":"Dunbar Village Plz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.736888,38.358721,-81.736888,38.358721",
     "geom:latitude":38.358721,
     "geom:longitude":-81.736888,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"981 Dunbar Village Plz",
     "sg:city":"Dunbar",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083335,
         85837449
     ],
+    "wof:brand_id":420575349,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aLYIS7LKNO622Kjr5Sf06_38.358721_-81.736888@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431530,
-    "wof:geomhash":"c453b007dc48158b0865ea703569f00b",
+    "wof:geomhash":"f69ac5cc295427dd5f0e06e8ba37f708",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823377381,
-    "wof:lastmodified":1467090685,
+    "wof:lastmodified":1510602766,
     "wof:name":"Huntington National Bank",
     "wof:parent_id":85837449,
     "wof:placetype":"venue",

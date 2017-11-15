@@ -2,14 +2,20 @@
   "id": 823447437,
   "type": "Feature",
   "properties": {
+    "addr:full":"1814 Gihon Rd Parkersburg WV 26101",
+    "addr:housenumber":"",
+    "addr:postcode":"1814;26101",
+    "addr:street":"Gihon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.559699,39.232487,-81.559699,39.232487",
     "geom:latitude":39.232487,
     "geom:longitude":-81.559699,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1814 Gihon Rd",
     "sg:city":"Parkersburg",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083343,
         85849931
     ],
+    "wof:brand_id":1125156261,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5o8LAapYu11mH9rGU5YvyE_39.232487_-81.559699@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434709,
-    "wof:geomhash":"92cf9c5b8a44da7ade6ecf1888ac11a5",
+    "wof:geomhash":"ddb36116622f3240030403d82b733805",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823447437,
-    "wof:lastmodified":1467090773,
+    "wof:lastmodified":1510699969,
     "wof:name":"Jehovahs Wtnesses Kingdom Hall",
     "wof:parent_id":85849931,
     "wof:placetype":"venue",

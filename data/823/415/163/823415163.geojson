@@ -2,14 +2,20 @@
   "id": 823415163,
   "type": "Feature",
   "properties": {
+    "addr:full":"130 S 4th Ave Paden City WV 26159",
+    "addr:housenumber":"130",
+    "addr:postcode":"26159",
+    "addr:street":"S 4Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.935014,39.603379,-80.935014,39.603379",
     "geom:latitude":39.603379,
     "geom:longitude":-80.935014,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"130 S 4th Ave",
     "sg:city":"Paden City",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083395,
         85807907
     ],
+    "wof:brand_id":1125155849,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qAPuh2Oleg64FeXlvcJ3R_39.603379_-80.935014@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433235,
-    "wof:geomhash":"e8393cb5ddecb819a62e7d3dfb953aab",
+    "wof:geomhash":"d5f3b1418e8a8e01eb2e0f7929469bd3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823415163,
-    "wof:lastmodified":1467090733,
+    "wof:lastmodified":1510697489,
     "wof:name":"St Paul United Methodist Chr",
     "wof:parent_id":85807907,
     "wof:placetype":"venue",

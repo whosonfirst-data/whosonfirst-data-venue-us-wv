@@ -2,14 +2,20 @@
   "id": 823368901,
   "type": "Feature",
   "properties": {
+    "addr:full":"99 Kanawha St Parkersburg WV 26101",
+    "addr:housenumber":"99",
+    "addr:postcode":"26101",
+    "addr:street":"Kanawha St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.535337,39.255146,-81.535337,39.255146",
     "geom:latitude":39.255146,
     "geom:longitude":-81.535337,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"99 Kanawha St",
     "sg:city":"Parkersburg",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083343,
         85849931
     ],
+    "wof:brand_id":1125152099,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VKkPKSwHsOH7zKKTSBdfm_39.255146_-81.535337@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431130,
-    "wof:geomhash":"3b278b0fb4b5cdef54549726ee97a1a3",
+    "wof:geomhash":"f21ab14d991427690c607f3b003af7c5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823368901,
-    "wof:lastmodified":1467090674,
+    "wof:lastmodified":1510696863,
     "wof:name":"Martin Marietta Aggregates",
     "wof:parent_id":85849931,
     "wof:placetype":"venue",

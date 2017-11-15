@@ -2,14 +2,20 @@
   "id": 823454489,
   "type": "Feature",
   "properties": {
+    "addr:full":"34 R H L Blvd Charleston WV 25309",
+    "addr:housenumber":"34",
+    "addr:postcode":"25309",
+    "addr:street":"R H L Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.713129,38.335966,-81.713129,38.335966",
     "geom:latitude":38.335966,
     "geom:longitude":-81.713129,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"34 R H L Blvd",
     "sg:city":"Charleston",
     "sg:classifiers":[],
@@ -25,13 +31,14 @@
         102083335,
         85837449
     ],
+    "wof:brand_id":1125159195,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LEcse6XUzcjzu9iwI6Fr9_38.335966_-81.713129@1303262553"
     },
     "wof:country":"US",
     "wof:created":1463435032,
-    "wof:geomhash":"d9fc7bb730757911d792acfa8ef25fc5",
+    "wof:geomhash":"66a5ccbfcde2a9dbfab1ccacbc9ee234",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -43,7 +50,7 @@
         }
     ],
     "wof:id":823454489,
-    "wof:lastmodified":1467090782,
+    "wof:lastmodified":1510694590,
     "wof:name":"China Gourmet",
     "wof:parent_id":85837449,
     "wof:placetype":"venue",

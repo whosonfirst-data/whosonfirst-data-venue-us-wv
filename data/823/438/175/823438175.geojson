@@ -2,6 +2,10 @@
   "id": 823438175,
   "type": "Feature",
   "properties": {
+    "addr:full":"345 High St Morgantown WV 26505",
+    "addr:housenumber":"345",
+    "addr:postcode":"26505",
+    "addr:street":"High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":823438175,
-    "wof:lastmodified":1467090762,
+    "wof:lastmodified":1472655110,
     "wof:name":"High Street Banquet Ctr",
     "wof:parent_id":85851489,
     "wof:placetype":"venue",

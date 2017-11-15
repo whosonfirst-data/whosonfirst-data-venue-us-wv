@@ -2,14 +2,20 @@
   "id": 823424475,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 Grand Ave Bridgeport WV 26330",
+    "addr:housenumber":"220",
+    "addr:postcode":"26330",
+    "addr:street":"Grand Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.246347,39.284778,-80.246347,39.284778",
     "geom:latitude":39.284778,
     "geom:longitude":-80.246347,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"220 Grand Ave",
     "sg:city":"Bridgeport",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102082619,
         85812589
     ],
+    "wof:brand_id":1125156317,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Q4Iql3xf6YU4limqlo7v0_39.284778_-80.246347@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433640,
-    "wof:geomhash":"9bec352a189baf278a7b3d177bc28219",
+    "wof:geomhash":"54a12f08cd560b7df98b9176aaa16cdc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":823424475,
-    "wof:lastmodified":1467090744,
+    "wof:lastmodified":1510693711,
     "wof:name":"United American Insurance Co",
     "wof:parent_id":85812589,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823367485,
   "type": "Feature",
   "properties": {
+    "addr:full":"4813 Maccorkle Ave SE Charleston WV 25304",
+    "addr:housenumber":"4813",
+    "addr:postcode":"25304",
+    "addr:street":"Maccorkle Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.579314,38.319983,-81.579314,38.319983",
     "geom:latitude":38.319983,
     "geom:longitude":-81.579314,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4813 Maccorkle Ave SE",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102083335,
         85845161
     ],
+    "wof:brand_id":1125152535,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MJwPnse0XTykifEDWRhMn_38.319983_-81.579314@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431074,
-    "wof:geomhash":"0d6804c98373c674b38e49b9c39e52f5",
+    "wof:geomhash":"cdfdd584f617b8578cda724736b07a21",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":823367485,
-    "wof:lastmodified":1467090672,
+    "wof:lastmodified":1510696759,
     "wof:name":"Monumental Life Insurance Co",
     "wof:parent_id":85845161,
     "wof:placetype":"venue",

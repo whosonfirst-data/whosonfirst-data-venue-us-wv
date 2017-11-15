@@ -2,14 +2,20 @@
   "id": 823449523,
   "type": "Feature",
   "properties": {
+    "addr:full":"499 US Hwy 33 Weston WV 26452",
+    "addr:housenumber":"499",
+    "addr:postcode":"26452",
+    "addr:street":"Us Hwy 33",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.475912,39.046103,-80.475912,39.046103",
     "geom:latitude":39.046103,
     "geom:longitude":-80.475912,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"499 US Hwy 33",
     "sg:city":"Weston",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083339,
         85808257
     ],
+    "wof:brand_id":1125155607,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CkINX3BRMrm0IqyioQOET_39.046103_-80.475912@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434800,
-    "wof:geomhash":"13579f1bc0ad1f42e3fe4523e4661625",
+    "wof:geomhash":"a801cc77a10d19d982c056c5922c20a2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823449523,
-    "wof:lastmodified":1467090776,
+    "wof:lastmodified":1510613384,
     "wof:name":"Forestry Division",
     "wof:parent_id":85808257,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823395885,
   "type": "Feature",
   "properties": {
+    "addr:full":"3657 Teays Valley Rd Hurricane WV 25526",
+    "addr:housenumber":"3657",
+    "addr:postcode":"25526",
+    "addr:street":"Teays Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.976018,38.444779,-81.976018,38.444779",
     "geom:latitude":38.444779,
     "geom:longitude":-81.976018,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3657 Teays Valley Rd",
     "sg:city":"Hurricane",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083381,
         85868321
     ],
+    "wof:brand_id":1125150137,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0x1nHmTnbQ6VHeSxy7BqjP_38.444779_-81.976018@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463432371,
-    "wof:geomhash":"5f9fdb49d08bd349673a28906d180731",
+    "wof:geomhash":"bdca3a233ecb5b5641cccdf664268994",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823395885,
-    "wof:lastmodified":1467090708,
+    "wof:lastmodified":1510696874,
     "wof:name":"Perfect Nails",
     "wof:parent_id":85868321,
     "wof:placetype":"venue",

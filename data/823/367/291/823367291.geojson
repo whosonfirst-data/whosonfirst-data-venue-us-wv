@@ -2,14 +2,20 @@
   "id": 823367291,
   "type": "Feature",
   "properties": {
+    "addr:full":"722 Beverly Pike Elkins WV 26250",
+    "addr:housenumber":"722",
+    "addr:postcode":"26250",
+    "addr:street":"Beverly Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.93241,39.020628,-79.93241,39.020628",
     "geom:latitude":39.020628,
     "geom:longitude":-79.93241,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"722 Beverly Pike",
     "sg:city":"Elkins",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102082593,
         85832167
     ],
+    "wof:brand_id":1125156917,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fsxpLlodY4RF87tXgLvJL_39.020628_-79.932410@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431068,
-    "wof:geomhash":"7b9e2688866695ae2ea4e1c07290a0fb",
+    "wof:geomhash":"8b04f00d8284dcd379640c4b6b6377ec",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823367291,
-    "wof:lastmodified":1467090672,
+    "wof:lastmodified":1510698504,
     "wof:name":"Bob Evans Farms Restaurant",
     "wof:parent_id":85832167,
     "wof:placetype":"venue",

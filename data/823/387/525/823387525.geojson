@@ -2,14 +2,20 @@
   "id": 823387525,
   "type": "Feature",
   "properties": {
+    "addr:full":"26 Capitol St Charleston WV 25301",
+    "addr:housenumber":"26",
+    "addr:postcode":"25301",
+    "addr:street":"Capitol St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.636598,38.348724,-81.636598,38.348724",
     "geom:latitude":38.348724,
     "geom:longitude":-81.636598,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"26 Capitol St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083335,
         85816783
     ],
+    "wof:brand_id":1125151913,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bRS6wpRkYX38DxDFUrKwM_38.348724_-81.636598@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431947,
-    "wof:geomhash":"be56346dd0195b0661014c809f80a776",
+    "wof:geomhash":"ad41e223661da6fc7ade73ed823a673b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823387525,
-    "wof:lastmodified":1467090698,
+    "wof:lastmodified":1510699395,
     "wof:name":"Steak Escape",
     "wof:parent_id":85816783,
     "wof:placetype":"venue",

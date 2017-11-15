@@ -2,14 +2,20 @@
   "id": 823437883,
   "type": "Feature",
   "properties": {
+    "addr:full":"79 N Pax Ave Mount Hope WV 25880",
+    "addr:housenumber":"79",
+    "addr:postcode":"25880",
+    "addr:street":"N Pax Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.180653,37.895841,-81.180653,37.895841",
     "geom:latitude":37.895841,
     "geom:longitude":-81.180653,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"79 N Pax Ave",
     "sg:city":"Mount Hope",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083359,
         85852821
     ],
+    "wof:brand_id":1125154207,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CEbgwUcjDoYKrce3z39EF_37.895841_-81.180653@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434275,
-    "wof:geomhash":"26f5774c08343e09e65f35afc72d23cf",
+    "wof:geomhash":"a446b0f06431779598479e4d0d0e42ac",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823437883,
-    "wof:lastmodified":1467090761,
+    "wof:lastmodified":1510694736,
     "wof:name":"Georgia-Pacific",
     "wof:parent_id":85852821,
     "wof:placetype":"venue",

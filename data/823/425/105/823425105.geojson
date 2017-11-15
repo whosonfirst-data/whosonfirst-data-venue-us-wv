@@ -2,14 +2,20 @@
   "id": 823425105,
   "type": "Feature",
   "properties": {
+    "addr:full":"1220 Ohio Ave Dunbar WV 25064",
+    "addr:housenumber":"1220",
+    "addr:postcode":"25064",
+    "addr:street":"Ohio Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.740577,38.359674,-81.740577,38.359674",
     "geom:latitude":38.359674,
     "geom:longitude":-81.740577,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1220 Ohio Ave",
     "sg:city":"Dunbar",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083335,
         85837449
     ],
+    "wof:brand_id":1125152085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cmVtdqurXNCWVANwQRPNs_38.359674_-81.740577@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433663,
-    "wof:geomhash":"3846385bb48c59e84c3b353497cd492b",
+    "wof:geomhash":"1d79b41ae13291d4b19e88ae00f3c22e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823425105,
-    "wof:lastmodified":1467090745,
+    "wof:lastmodified":1510695086,
     "wof:name":"Creative Cuts",
     "wof:parent_id":85837449,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823413133,
   "type": "Feature",
   "properties": {
+    "addr:full":"2107 Pike St Parkersburg WV 26101",
+    "addr:housenumber":"2107",
+    "addr:postcode":"26101",
+    "addr:street":"Pike St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.54182,39.234082,-81.54182,39.234082",
     "geom:latitude":39.234082,
     "geom:longitude":-81.54182,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2107 Pike St",
     "sg:city":"Parkersburg",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083343,
         85849931
     ],
+    "wof:brand_id":420574093,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PFsJUM9BLz4aDQQtTMwin_39.234082_-81.541820@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433143,
-    "wof:geomhash":"177aff4f3c6de8d144af1c0bd5820d69",
+    "wof:geomhash":"336f7b91b4ece613a8dc3edb95ebc9ac",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823413133,
-    "wof:lastmodified":1467090730,
+    "wof:lastmodified":1510604779,
     "wof:name":"Rite Aid Pharmacy",
     "wof:parent_id":85849931,
     "wof:placetype":"venue",

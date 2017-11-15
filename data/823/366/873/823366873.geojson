@@ -2,14 +2,20 @@
   "id": 823366873,
   "type": "Feature",
   "properties": {
+    "addr:full":"3701 Maccorkle Ave SE Charleston WV 25304",
+    "addr:housenumber":"3701",
+    "addr:postcode":"25304",
+    "addr:street":"Maccorkle Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.594641,38.327821,-81.594641,38.327821",
     "geom:latitude":38.327821,
     "geom:longitude":-81.594641,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3701 Maccorkle Ave SE",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083335,
         85845161
     ],
+    "wof:brand_id":1125155329,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mrvCuz0VEwrlY7s7yaB6L_38.327821_-81.594641@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431052,
-    "wof:geomhash":"44db8ceb25a833ba57f187b3fa75e387",
+    "wof:geomhash":"1e610cbd17320de896d341a07bda7f85",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823366873,
-    "wof:lastmodified":1467090671,
+    "wof:lastmodified":1510697759,
     "wof:name":"Advanced Physical Therapy",
     "wof:parent_id":85845161,
     "wof:placetype":"venue",

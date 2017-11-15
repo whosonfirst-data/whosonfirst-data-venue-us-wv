@@ -2,14 +2,20 @@
   "id": 823416355,
   "type": "Feature",
   "properties": {
+    "addr:full":"527 Palmer Ave Logan WV 25601",
+    "addr:housenumber":"527",
+    "addr:postcode":"25601",
+    "addr:street":"Palmer Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.974827,37.914542,-81.974827,37.914542",
     "geom:latitude":37.914542,
     "geom:longitude":-81.974827,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"527 Palmer Ave",
     "sg:city":"Logan",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85868319,
         102083369
     ],
+    "wof:brand_id":1125154627,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RyjkEAIrSiRndWn4nHBqf_37.914542_-81.974827@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433297,
-    "wof:geomhash":"7ca542d21d990bf7c34a0c6f566725b9",
+    "wof:geomhash":"48e3625960dc95c8c3a088ba819f55d6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":823416355,
-    "wof:lastmodified":1467090734,
+    "wof:lastmodified":1510695410,
     "wof:name":"Curl Up & Dye",
     "wof:parent_id":85868319,
     "wof:placetype":"venue",

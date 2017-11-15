@@ -2,14 +2,20 @@
   "id": 823450685,
   "type": "Feature",
   "properties": {
+    "addr:full":"405 9th St Fairmont WV 26554",
+    "addr:housenumber":"405",
+    "addr:postcode":"26554",
+    "addr:street":"9Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.15252,39.473888,-80.15252,39.473888",
     "geom:latitude":39.473888,
     "geom:longitude":-80.15252,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"405 9th St",
     "sg:city":"Fairmont",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102082601,
         85821233
     ],
+    "wof:brand_id":1125150541,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08z4tfygiul0jd8JftV1ht_39.473888_-80.152520@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434841,
-    "wof:geomhash":"ef1daa8497c25e1f5e626ff83d67f1e1",
+    "wof:geomhash":"dbb55edd606ca4d995596b3eaeb56725",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823450685,
-    "wof:lastmodified":1467090777,
+    "wof:lastmodified":1510695851,
     "wof:name":"Christ Episcopal Church",
     "wof:parent_id":85821233,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823448059,
   "type": "Feature",
   "properties": {
+    "addr:full":"1737 Harper Rd Beckley WV 25801",
+    "addr:housenumber":"1737",
+    "addr:postcode":"25801",
+    "addr:street":"Harper Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.20357,37.788039,-81.20357,37.788039",
     "geom:latitude":37.788039,
     "geom:longitude":-81.20357,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1737 Harper Rd",
     "sg:city":"Beckley",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083349,
         85805185
     ],
+    "wof:brand_id":1125152277,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VxwxzqODBNAHAEoC7rznO_37.788039_-81.203570@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434744,
-    "wof:geomhash":"4f8c378797dfcb8fd4dd2786515a7dd9",
+    "wof:geomhash":"65a59575e5728106c7e7367da6c40a08",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823448059,
-    "wof:lastmodified":1467090774,
+    "wof:lastmodified":1510613252,
     "wof:name":"Fresenius Medical Care",
     "wof:parent_id":85805185,
     "wof:placetype":"venue",

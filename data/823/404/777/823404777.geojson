@@ -2,14 +2,20 @@
   "id": 823404777,
   "type": "Feature",
   "properties": {
+    "addr:full":"218 Church St Lewisburg WV 24901",
+    "addr:housenumber":"218",
+    "addr:postcode":"24901",
+    "addr:street":"Church St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.449156,37.800995,-80.449156,37.800995",
     "geom:latitude":37.800995,
     "geom:longitude":-80.449156,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"218 Church St",
     "sg:city":"Lewisburg",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083375,
         85808285
     ],
+    "wof:brand_id":1125153417,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5avEqc2xzdyaHoMB4CohGn_37.800995_-80.449156@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463432796,
-    "wof:geomhash":"766edfce0e46de2506c4265f410dab29",
+    "wof:geomhash":"3be379c2c2a9b7ab68dae0a8c6885973",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":823404777,
-    "wof:lastmodified":1467090720,
+    "wof:lastmodified":1510695027,
     "wof:name":"St James Episcopal Church",
     "wof:parent_id":85808285,
     "wof:placetype":"venue",

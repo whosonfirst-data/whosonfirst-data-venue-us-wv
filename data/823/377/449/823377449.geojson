@@ -2,14 +2,20 @@
   "id": 823377449,
   "type": "Feature",
   "properties": {
+    "addr:full":"960 Roosevelt Blvd Eleanor WV 25070",
+    "addr:housenumber":"960",
+    "addr:postcode":"25070",
+    "addr:street":"Roosevelt Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.937403,38.538603,-81.937403,38.538603",
     "geom:latitude":38.538603,
     "geom:longitude":-81.937403,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"960 Roosevelt Blvd",
     "sg:city":"Eleanor",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85868323,
         102083381
     ],
+    "wof:brand_id":1125158417,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2b7dkCY0KS9JBQGccsTS46_38.538603_-81.937403@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431533,
-    "wof:geomhash":"a050c3d3e6b616ca3ad86d55d2ffd898",
+    "wof:geomhash":"69b9110849f5a1521bb2236a39758e61",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":823377449,
-    "wof:lastmodified":1467090685,
+    "wof:lastmodified":1510697115,
     "wof:name":"Unique Designs",
     "wof:parent_id":85868323,
     "wof:placetype":"venue",

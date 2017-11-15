@@ -2,14 +2,20 @@
   "id": 823383127,
   "type": "Feature",
   "properties": {
+    "addr:full":"5024 College Pkwy Parkersburg WV 26104",
+    "addr:housenumber":"5024",
+    "addr:postcode":"26104",
+    "addr:street":"College Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.527707,39.302673,-81.527707,39.302673",
     "geom:latitude":39.302673,
     "geom:longitude":-81.527707,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5024 College Pkwy",
     "sg:city":"Parkersburg",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85818799,
         102083343
     ],
+    "wof:brand_id":420575231,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pw2vZCzOCUVOgHRRStIKf_39.302673_-81.527707@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431778,
-    "wof:geomhash":"b86e70cbc3a56bfc11b1461db3713d51",
+    "wof:geomhash":"e6126d6fcda0f11fdf5312405882e385",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":823383127,
-    "wof:lastmodified":1467090692,
+    "wof:lastmodified":1510602878,
     "wof:name":"Horace Mann Insurance Co",
     "wof:parent_id":85818799,
     "wof:placetype":"venue",

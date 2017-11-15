@@ -2,14 +2,20 @@
   "id": 823368047,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 Foxcroft Ave Martinsburg WV 25401",
+    "addr:housenumber":"800",
+    "addr:postcode":"25401",
+    "addr:street":"Foxcroft Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.987875,39.456779,-77.987875,39.456779",
     "geom:latitude":39.456779,
     "geom:longitude":-77.987875,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"800 Foxcroft Ave",
     "sg:city":"Martinsburg",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083367,
         85806921
     ],
+    "wof:brand_id":1125156471,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Anb7HPdStJiK3h5cXFIYp_39.456779_-77.987875@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431100,
-    "wof:geomhash":"c93b201c6e48171a75c28ed15d72e12b",
+    "wof:geomhash":"a9959eca617abc0f83d10740cb141fe9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823368047,
-    "wof:lastmodified":1467090673,
+    "wof:lastmodified":1510696795,
     "wof:name":"Rex TV & Appliances",
     "wof:parent_id":85806921,
     "wof:placetype":"venue",

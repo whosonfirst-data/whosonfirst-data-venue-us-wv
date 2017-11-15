@@ -2,14 +2,20 @@
   "id": 823436201,
   "type": "Feature",
   "properties": {
+    "addr:full":"1409 Greenbrier St Charleston WV 25311",
+    "addr:housenumber":"1409",
+    "addr:postcode":"25311",
+    "addr:street":"Greenbrier St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.584128,38.364748,-81.584128,38.364748",
     "geom:latitude":38.364748,
     "geom:longitude":-81.584128,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1409 Greenbrier St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083335,
         85806307
     ],
+    "wof:brand_id":1125154569,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nxc1Vh3uidJfxhlXumO4q_38.364748_-81.584128@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434182,
-    "wof:geomhash":"d3f29b3a515508f88aa1bf0281764790",
+    "wof:geomhash":"daa974e277204c7fdfe60a4d9b2218eb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823436201,
-    "wof:lastmodified":1467090759,
+    "wof:lastmodified":1510695259,
     "wof:name":"St Paul Travelers",
     "wof:parent_id":85806307,
     "wof:placetype":"venue",

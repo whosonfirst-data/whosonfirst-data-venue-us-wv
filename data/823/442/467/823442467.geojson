@@ -2,14 +2,20 @@
   "id": 823442467,
   "type": "Feature",
   "properties": {
+    "addr:full":"419 9th St Marlinton WV 24954",
+    "addr:housenumber":"419",
+    "addr:postcode":"24954",
+    "addr:street":"9Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.093577,38.221421,-80.093577,38.221421",
     "geom:latitude":38.221421,
     "geom:longitude":-80.093577,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"419 9th St",
     "sg:city":"Marlinton",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082613,
         85805067
     ],
+    "wof:brand_id":1125150139,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gFfIdoku8fSsfAFVU1ovS_38.221421_-80.093577@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434469,
-    "wof:geomhash":"42e21debad2892d13498dcbeef899d38",
+    "wof:geomhash":"e58b30b2a986e12da079fa2169d99198",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823442467,
-    "wof:lastmodified":1467090767,
+    "wof:lastmodified":1510696879,
     "wof:name":"St John's Episcopal Church",
     "wof:parent_id":85805067,
     "wof:placetype":"venue",

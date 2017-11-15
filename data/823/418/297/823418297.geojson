@@ -2,14 +2,20 @@
   "id": 823418297,
   "type": "Feature",
   "properties": {
+    "addr:full":"1509 Bigley Ave Charleston WV 25302",
+    "addr:housenumber":"1509",
+    "addr:postcode":"25302",
+    "addr:street":"Bigley Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.622453,38.361481,-81.622453,38.361481",
     "geom:latitude":38.361481,
     "geom:longitude":-81.622453,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1509 Bigley Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083335,
         85816783
     ],
+    "wof:brand_id":1125155283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_099RxHGUpsaIWAhPzxBt0v_38.361481_-81.622453@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433393,
-    "wof:geomhash":"491307b9687473a3dbc9de2d9facb2bb",
+    "wof:geomhash":"d0a65ebec8ec8398a86e0135eb176bb0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823418297,
-    "wof:lastmodified":1467090737,
+    "wof:lastmodified":1510695023,
     "wof:name":"Mount Calvary Baptist Church",
     "wof:parent_id":85816783,
     "wof:placetype":"venue",

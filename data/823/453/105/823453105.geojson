@@ -2,14 +2,20 @@
   "id": 823453105,
   "type": "Feature",
   "properties": {
+    "addr:full":"868 Ritter Dr Beaver WV 25813",
+    "addr:housenumber":"868",
+    "addr:postcode":"25813",
+    "addr:street":"Ritter Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.131422,37.748288,-81.131422,37.748288",
     "geom:latitude":37.748288,
     "geom:longitude":-81.131422,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"868 Ritter Dr",
     "sg:city":"Beaver",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102083349,
         85805185
     ],
+    "wof:brand_id":1125154847,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jUKvMNPIm4v5kuOX4ifrr_37.748288_-81.131422@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434934,
-    "wof:geomhash":"9491944ea5f0c53f5715afafb1660658",
+    "wof:geomhash":"afc4628355b00b2ad7ed8034457973e6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":823453105,
-    "wof:lastmodified":1467090780,
+    "wof:lastmodified":1510695721,
     "wof:name":"Bellacino's Pizza & Grinders",
     "wof:parent_id":85805185,
     "wof:placetype":"venue",

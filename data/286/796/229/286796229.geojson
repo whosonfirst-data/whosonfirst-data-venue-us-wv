@@ -2,14 +2,20 @@
   "id": 286796229,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 Franklin St Marietta OH 45750",
+    "addr:housenumber":"301",
+    "addr:postcode":"45750",
+    "addr:street":"Franklin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.461005,39.413382,-81.461005,39.413382",
     "geom:latitude":39.413382,
     "geom:longitude":-81.461005,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"301 Franklin St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102083343,
         85824023
     ],
+    "wof:brand_id":1125158831,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lpt6S5YPwacoflGm5zfrl_39.413382_-81.461005@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"a388f861aaa88923042d544391346529",
+    "wof:geomhash":"88f44d5fedc5f5245537e4710fd47ff1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":286796229,
-    "wof:lastmodified":1467090668,
+    "wof:lastmodified":1510695708,
     "wof:name":"Open Door Baptist Church",
     "wof:parent_id":85824023,
     "wof:placetype":"venue",

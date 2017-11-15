@@ -2,14 +2,20 @@
   "id": 823413579,
   "type": "Feature",
   "properties": {
+    "addr:full":"99 J D Anderson Dr Morgantown WV 26505",
+    "addr:housenumber":"99",
+    "addr:postcode":"26505",
+    "addr:street":"J D Anderson Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.952778,39.660477,-79.952778,39.660477",
     "geom:latitude":39.660477,
     "geom:longitude":-79.952778,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"99 J D Anderson Dr",
     "sg:city":"Morgantown",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85852025,
         102082587
     ],
+    "wof:brand_id":1125158123,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hLn8u0VgbPLWxb7mGAsq8_39.660477_-79.952778@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433158,
-    "wof:geomhash":"6acee585cb1625e263cc1811f5270122",
+    "wof:geomhash":"7e66ed97a4ebcdfe72799ae810dfc588",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":823413579,
-    "wof:lastmodified":1467090731,
+    "wof:lastmodified":1510695053,
     "wof:name":"Lab Corp",
     "wof:parent_id":85852025,
     "wof:placetype":"venue",

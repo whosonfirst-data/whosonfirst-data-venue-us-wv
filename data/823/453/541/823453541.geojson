@@ -2,14 +2,20 @@
   "id": 823453541,
   "type": "Feature",
   "properties": {
+    "addr:full":"142 S Main St Philippi WV 26416",
+    "addr:housenumber":"142",
+    "addr:postcode":"26416",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.035818,39.147289,-80.035818,39.147289",
     "geom:latitude":39.147289,
     "geom:longitude":-80.035818,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"142 S Main St",
     "sg:city":"Philippi",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102082593,
         85832167
     ],
+    "wof:brand_id":1125153179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QPOZxcwXiKAwQKcdcq21K_39.147289_-80.035818@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434951,
-    "wof:geomhash":"9bc6dacc6d7119781594e6a7d23cf59f",
+    "wof:geomhash":"d34ef817702c07d4b45215f83a604349",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823453541,
-    "wof:lastmodified":1467090781,
+    "wof:lastmodified":1510699297,
     "wof:name":"Sicilia's Pizzeria",
     "wof:parent_id":85832167,
     "wof:placetype":"venue",

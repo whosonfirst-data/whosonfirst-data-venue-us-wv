@@ -2,14 +2,20 @@
   "id": 823375245,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Lee St E Charleston WV 25301",
+    "addr:housenumber":"500",
+    "addr:postcode":"25301",
+    "addr:street":"Lee St E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.6346,38.352425,-81.6346,38.352425",
     "geom:latitude":38.352425,
     "geom:longitude":-81.6346,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"500 Lee St E",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083335,
         85816783
     ],
+    "wof:brand_id":420574961,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4N0MM8Cf15tA2CrXutNTnJ_38.352425_-81.634600@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431427,
-    "wof:geomhash":"fce7a6605c5a95016b140efee6ff7c93",
+    "wof:geomhash":"faa9828bcce701efc4be9f8fca621aae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823375245,
-    "wof:lastmodified":1467090682,
+    "wof:lastmodified":1510604135,
     "wof:name":"Smith Barney",
     "wof:parent_id":85816783,
     "wof:placetype":"venue",

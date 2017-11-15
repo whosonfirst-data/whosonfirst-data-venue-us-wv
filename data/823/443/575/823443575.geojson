@@ -2,14 +2,20 @@
   "id": 823443575,
   "type": "Feature",
   "properties": {
+    "addr:full":"507 23rd St Vienna WV 26105",
+    "addr:housenumber":"507",
+    "addr:postcode":"26105",
+    "addr:street":"23Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.551528,39.321483,-81.551528,39.321483",
     "geom:latitude":39.321483,
     "geom:longitude":-81.551528,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"507 23rd St",
     "sg:city":"Vienna",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083343,
         85819937
     ],
+    "wof:brand_id":1125153393,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WSkEdHDQkwnfae5OcYdJr_39.321483_-81.551528@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434527,
-    "wof:geomhash":"70845b432e5180c4d0103f0665e23ec7",
+    "wof:geomhash":"08f3c065cae7ab3b01292405457d4a4e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823443575,
-    "wof:lastmodified":1467090768,
+    "wof:lastmodified":1510697281,
     "wof:name":"John's Barber Shop",
     "wof:parent_id":85819937,
     "wof:placetype":"venue",

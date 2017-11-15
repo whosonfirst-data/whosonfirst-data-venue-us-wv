@@ -2,14 +2,20 @@
   "id": 823422715,
   "type": "Feature",
   "properties": {
+    "addr:full":"3669 New Hope Rd Princeton WV 24740",
+    "addr:housenumber":"3669",
+    "addr:postcode":"24740",
+    "addr:street":"New Hope Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.157802,37.344379,-81.157802,37.344379",
     "geom:latitude":37.344379,
     "geom:longitude":-81.157802,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3669 New Hope Rd",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082639,
         85849473
     ],
+    "wof:brand_id":1125156691,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rrb3hxthcdIBgA7U8HY6u_37.344379_-81.157802@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433567,
-    "wof:geomhash":"e944fde49557afe776a60d537c41c661",
+    "wof:geomhash":"45a2fd6545f5a7c9e02bd5c2862fbb52",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823422715,
-    "wof:lastmodified":1467090742,
+    "wof:lastmodified":1510697127,
     "wof:name":"Acme Markets Inc",
     "wof:parent_id":85849473,
     "wof:placetype":"venue",

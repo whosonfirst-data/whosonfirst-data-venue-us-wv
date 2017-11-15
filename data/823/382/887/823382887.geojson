@@ -2,14 +2,20 @@
   "id": 823382887,
   "type": "Feature",
   "properties": {
+    "addr:full":"1403 Johnson Ave Bridgeport WV 26330",
+    "addr:housenumber":"1403",
+    "addr:postcode":"26330",
+    "addr:street":"Johnson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.277166,39.301486,-80.277166,39.301486",
     "geom:latitude":39.301486,
     "geom:longitude":-80.277166,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1403 Johnson Ave",
     "sg:city":"Bridgeport",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082619,
         85831189
     ],
+    "wof:brand_id":1125152751,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jhBHjghYw8uShKGTyc5Pq_39.301486_-80.277166@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431770,
-    "wof:geomhash":"6c6210f909f81cd393ddf8ee8f00005f",
+    "wof:geomhash":"9fd79026e4f1bc1f9b443e60c17e9e6f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823382887,
-    "wof:lastmodified":1467090692,
+    "wof:lastmodified":1510693929,
     "wof:name":"Wesco Distributing Inc",
     "wof:parent_id":85831189,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823454057,
   "type": "Feature",
   "properties": {
+    "addr:full":"5110 Us Route 60 Huntington WV 25705",
+    "addr:housenumber":"5110",
+    "addr:postcode":"25705",
+    "addr:street":"Us Route 60",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.34294,38.412666,-82.34294,38.412666",
     "geom:latitude":38.412666,
     "geom:longitude":-82.34294,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5110 Us Route 60",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083329,
         85856091
     ],
+    "wof:brand_id":1125150445,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PMAY2koQSDgrbIg2dmbPu_38.412555_-82.342230@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434992,
-    "wof:geomhash":"3d09ccb3206e0ecbf07a61698645bd18",
+    "wof:geomhash":"9eadce82fbdc2161cc6fc56fd2f0692e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823454057,
-    "wof:lastmodified":1467090782,
+    "wof:lastmodified":1510697659,
     "wof:name":"Penn Station",
     "wof:parent_id":85856091,
     "wof:placetype":"venue",

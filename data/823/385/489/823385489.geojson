@@ -2,14 +2,20 @@
   "id": 823385489,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Dents Run Rd Morgantown WV 26501",
+    "addr:housenumber":"300",
+    "addr:postcode":"26501",
+    "addr:street":"Dents Run Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.989268,39.622645,-79.989268,39.622645",
     "geom:latitude":39.622645,
     "geom:longitude":-79.989268,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 Dents Run Rd",
     "sg:city":"Morgantown",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85818601,
         102082587
     ],
+    "wof:brand_id":1125150835,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aF4dhKrQkFO7vEc40clkS_39.622645_-79.989268@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431866,
-    "wof:geomhash":"5b13ba35a887567d2562b82cb851c909",
+    "wof:geomhash":"fe289a4befd5cc1e50f56bdb9a2e8c39",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823385489,
-    "wof:lastmodified":1467090695,
+    "wof:lastmodified":1510695415,
     "wof:name":"Lincare Inc",
     "wof:parent_id":85818601,
     "wof:placetype":"venue",

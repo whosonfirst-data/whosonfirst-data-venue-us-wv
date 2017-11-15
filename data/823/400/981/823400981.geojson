@@ -2,14 +2,20 @@
   "id": 823400981,
   "type": "Feature",
   "properties": {
+    "addr:full":"410 Water St Clarksburg WV 26301",
+    "addr:housenumber":"410",
+    "addr:postcode":"26301",
+    "addr:street":"Water St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.335599,39.276691,-80.335599,39.276691",
     "geom:latitude":39.276691,
     "geom:longitude":-80.335599,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"410 Water St",
     "sg:city":"Clarksburg",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102082619,
         85821689
     ],
+    "wof:brand_id":1125152349,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28mMZgReKfRuQN8pj1jqo5_39.276691_-80.335599@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463432629,
-    "wof:geomhash":"64f26e996f70de7166bb5d2a314e19a0",
+    "wof:geomhash":"e0d694eb6b76fa4a7a163c4028b3c6fc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823400981,
-    "wof:lastmodified":1467090715,
+    "wof:lastmodified":1510613376,
     "wof:name":"Hair Etc",
     "wof:parent_id":85821689,
     "wof:placetype":"venue",

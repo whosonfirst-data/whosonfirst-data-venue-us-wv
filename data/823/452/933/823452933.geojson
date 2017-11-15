@@ -2,14 +2,20 @@
   "id": 823452933,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 Washington Ave Huntington WV 25704",
+    "addr:housenumber":"1401",
+    "addr:postcode":"25704",
+    "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.480987,38.412682,-82.480987,38.412682",
     "geom:latitude":38.412682,
     "geom:longitude":-82.480987,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1401 Washington Ave",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102083329,
         85855709
     ],
+    "wof:brand_id":1125153179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rCWefUmWCnpC6DxxuTsAu_38.412682_-82.480987@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434926,
-    "wof:geomhash":"5744a0be398feaa12ef521ff0dea985e",
+    "wof:geomhash":"324a9a8d1a46904ba2b9575b8becd7b3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":823452933,
-    "wof:lastmodified":1467090780,
+    "wof:lastmodified":1510699297,
     "wof:name":"Sicilia's Pizzeria",
     "wof:parent_id":85855709,
     "wof:placetype":"venue",

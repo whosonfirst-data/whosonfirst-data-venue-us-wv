@@ -2,14 +2,20 @@
   "id": 823449099,
   "type": "Feature",
   "properties": {
+    "addr:full":"603 Morris St Charleston WV 25301",
+    "addr:housenumber":"603",
+    "addr:postcode":"25301",
+    "addr:street":"Morris St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.624147,38.3488,-81.624147,38.3488",
     "geom:latitude":38.3488,
     "geom:longitude":-81.624147,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"603 Morris St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083335,
         85816783
     ],
+    "wof:brand_id":1125159731,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5J8yvE7ZqNdj3NGDqDqXUK_38.348800_-81.624147@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434784,
-    "wof:geomhash":"2744fed0530fee345bc64767197f8080",
+    "wof:geomhash":"8a701431c30e3d7b6fd7ed2ff873bdd4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823449099,
-    "wof:lastmodified":1467090775,
+    "wof:lastmodified":1510698013,
     "wof:name":"US Food & Drug Adm",
     "wof:parent_id":85816783,
     "wof:placetype":"venue",

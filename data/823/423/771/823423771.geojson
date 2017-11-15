@@ -2,14 +2,20 @@
   "id": 823423771,
   "type": "Feature",
   "properties": {
+    "addr:full":"1900 Pike St Parkersburg WV 26101",
+    "addr:housenumber":"1900",
+    "addr:postcode":"26101",
+    "addr:street":"Pike St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.542218,39.238684,-81.542218,39.238684",
     "geom:latitude":39.238684,
     "geom:longitude":-81.542218,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1900 Pike St",
     "sg:city":"Parkersburg",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083343,
         85849931
     ],
+    "wof:brand_id":1125159647,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TtoPChYAGlEPL14jprRzf_39.238684_-81.542218@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433612,
-    "wof:geomhash":"763d42b55e36cbb874b66c828e6be904",
+    "wof:geomhash":"4b08f5c90f7964a42682a009c20b936e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823423771,
-    "wof:lastmodified":1467090743,
+    "wof:lastmodified":1510694691,
     "wof:name":"Pepsi-Cola Co",
     "wof:parent_id":85849931,
     "wof:placetype":"venue",

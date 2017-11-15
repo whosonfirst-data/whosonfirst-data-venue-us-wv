@@ -2,14 +2,20 @@
   "id": 823444985,
   "type": "Feature",
   "properties": {
+    "addr:full":"5199 Yeich Ave Huntington WV 25705",
+    "addr:housenumber":"5199",
+    "addr:postcode":"25705",
+    "addr:street":"Yeich Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.343626,38.412164,-82.343626,38.412164",
     "geom:latitude":38.412164,
     "geom:longitude":-82.343626,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5199 Yeich Ave",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083329,
         85856091
     ],
+    "wof:brand_id":1125155137,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Pr8cA5e7UUSPxhg5OxDfL_38.412164_-82.343626@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434592,
-    "wof:geomhash":"2d7717d545528035eb271341eadece28",
+    "wof:geomhash":"e3e7472467cc4bdf0c5cfa924f26b290",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823444985,
-    "wof:lastmodified":1467090770,
+    "wof:lastmodified":1510699325,
     "wof:name":"Guardian Auto Glass",
     "wof:parent_id":85856091,
     "wof:placetype":"venue",

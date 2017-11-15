@@ -2,14 +2,20 @@
   "id": 823424919,
   "type": "Feature",
   "properties": {
+    "addr:full":"319 Sunset Dr Beckley WV 25801",
+    "addr:housenumber":"319",
+    "addr:postcode":"25801",
+    "addr:street":"Sunset Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.204417,37.793093,-81.204417,37.793093",
     "geom:latitude":37.793093,
     "geom:longitude":-81.204417,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"319 Sunset Dr",
     "sg:city":"Beckley",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102083349,
         85805185
     ],
+    "wof:brand_id":1125154401,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nS9pGCN91dFMRva30VDNY_37.793093_-81.204417@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433656,
-    "wof:geomhash":"0c2c0c6aa634e30f1d04bfca766d9563",
+    "wof:geomhash":"b697f7792a1afdbe8618e3ab6f1ca60a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823424919,
-    "wof:lastmodified":1467090745,
+    "wof:lastmodified":1510697805,
     "wof:name":"Calvary Assembly Of God",
     "wof:parent_id":85805185,
     "wof:placetype":"venue",

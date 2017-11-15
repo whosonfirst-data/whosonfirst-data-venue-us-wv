@@ -2,6 +2,10 @@
   "id": 823391545,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 Pennsylvania Ave Charleston WV 25302",
+    "addr:housenumber":"900",
+    "addr:postcode":"25302",
+    "addr:street":"Pennsylvania Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":823391545,
-    "wof:lastmodified":1467090703,
+    "wof:lastmodified":1472655058,
     "wof:name":"Insurance Testing Corporation",
     "wof:parent_id":85816783,
     "wof:placetype":"venue",

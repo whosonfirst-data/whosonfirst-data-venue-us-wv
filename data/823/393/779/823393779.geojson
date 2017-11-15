@@ -2,14 +2,20 @@
   "id": 823393779,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 Bridge Street Plz Wheeling WV 26003",
+    "addr:housenumber":"103",
+    "addr:postcode":"26003",
+    "addr:street":"Bridge Street Plz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.662483,40.041558,-80.662483,40.041558",
     "geom:latitude":40.041558,
     "geom:longitude":-80.662483,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"103 Bridge Street Plz",
     "sg:city":"Wheeling",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102082621,
         85840717
     ],
+    "wof:brand_id":420575223,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6z8wGPGNeRp32WGXOwsmAe_40.041558_-80.662483@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463432265,
-    "wof:geomhash":"908bcda0ab13d6c688995d5fddb424cb",
+    "wof:geomhash":"e410b5ae2643c0e5cbebc53514477ef4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823393779,
-    "wof:lastmodified":1467090705,
+    "wof:lastmodified":1510602904,
     "wof:name":"China Wok",
     "wof:parent_id":85840717,
     "wof:placetype":"venue",

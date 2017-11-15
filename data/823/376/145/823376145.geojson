@@ -2,14 +2,20 @@
   "id": 823376145,
   "type": "Feature",
   "properties": {
+    "addr:full":"155 16th St Wheeling WV 26003",
+    "addr:housenumber":"155",
+    "addr:postcode":"26003",
+    "addr:street":"16Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.715454,40.064657,-80.715454,40.064657",
     "geom:latitude":40.064657,
     "geom:longitude":-80.715454,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"155 16th St",
     "sg:city":"Wheeling",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102082621,
         85816921
     ],
+    "wof:brand_id":420575633,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YF1zDHicNJiYwGFraxpXs_40.064657_-80.715454@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431464,
-    "wof:geomhash":"e5a314f76ea4d1d363e513a0778f757a",
+    "wof:geomhash":"45f6ab103b4770322d5c61862d9b15c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823376145,
-    "wof:lastmodified":1467090683,
+    "wof:lastmodified":1510602547,
     "wof:name":"Convenient Food Mart",
     "wof:parent_id":85816921,
     "wof:placetype":"venue",

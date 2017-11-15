@@ -2,14 +2,20 @@
   "id": 823452485,
   "type": "Feature",
   "properties": {
+    "addr:full":"3509 Maccorkle Ave SE Charleston WV 25304",
+    "addr:housenumber":"3509",
+    "addr:postcode":"25304",
+    "addr:street":"Maccorkle Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.598435,38.328264,-81.598435,38.328264",
     "geom:latitude":38.328264,
     "geom:longitude":-81.598435,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3509 Maccorkle Ave SE",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -46,13 +52,14 @@
         102083335,
         85845161
     ],
+    "wof:brand_id":1125151305,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2z9i2OIFfgpfjeDGZlaDpc_38.328264_-81.598435@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434909,
-    "wof:geomhash":"218ffb627427e3260c96ca19a7c632c3",
+    "wof:geomhash":"b09ced807ae8f580ec1e34c13be7c05e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":823452485,
-    "wof:lastmodified":1467090780,
+    "wof:lastmodified":1510693902,
     "wof:name":"Donut Connection",
     "wof:parent_id":85845161,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823448093,
   "type": "Feature",
   "properties": {
+    "addr:full":"612 Fairmont Ave Fairmont WV 26554",
+    "addr:housenumber":"612",
+    "addr:postcode":"26554",
+    "addr:street":"Fairmont Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.149937,39.477857,-80.149937,39.477857",
     "geom:latitude":39.477857,
     "geom:longitude":-80.149937,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"612 Fairmont Ave",
     "sg:city":"Fairmont",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102082601,
         85821233
     ],
+    "wof:brand_id":1125150239,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26mWRuenKnBhxkjNybAxBH_39.477857_-80.149937@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434745,
-    "wof:geomhash":"08047116ad98569ba5ea5a0910ef3026",
+    "wof:geomhash":"09e4c08da7007a6316c4320b49e895b0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823448093,
-    "wof:lastmodified":1467090774,
+    "wof:lastmodified":1510696771,
     "wof:name":"Grease Monkey",
     "wof:parent_id":85821233,
     "wof:placetype":"venue",

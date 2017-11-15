@@ -2,14 +2,20 @@
   "id": 823453393,
   "type": "Feature",
   "properties": {
+    "addr:full":"1142 S Bridge St New Martinsville WV 26155",
+    "addr:housenumber":"1142",
+    "addr:postcode":"26155",
+    "addr:street":"S Bridge St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.85863,39.655333,-80.85863,39.655333",
     "geom:latitude":39.655333,
     "geom:longitude":-80.85863,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1142 S Bridge St",
     "sg:city":"New Martinsville",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102083395,
         85807907
     ],
+    "wof:brand_id":1125153179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Zg6yXon2u8boLeYmEnwoQ_39.655333_-80.858630@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434945,
-    "wof:geomhash":"79dc030ec75d515b53a6ded9156ab231",
+    "wof:geomhash":"6856641526aaca872a7b9d4d89d48e94",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823453393,
-    "wof:lastmodified":1467090781,
+    "wof:lastmodified":1510699297,
     "wof:name":"Sicilia's Pizzeria",
     "wof:parent_id":85807907,
     "wof:placetype":"venue",

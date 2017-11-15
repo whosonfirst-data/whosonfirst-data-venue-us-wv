@@ -2,14 +2,20 @@
   "id": 823421447,
   "type": "Feature",
   "properties": {
+    "addr:full":"1225 Park Ave Charleston WV 25302",
+    "addr:housenumber":"1225",
+    "addr:postcode":"25302",
+    "addr:street":"Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.647709,38.371402,-81.647709,38.371402",
     "geom:latitude":38.371402,
     "geom:longitude":-81.647709,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1225 Park Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083335,
         85856363
     ],
+    "wof:brand_id":420575813,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WW7yu93NdfoqvTlXRLLpx_38.371402_-81.647709@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433522,
-    "wof:geomhash":"2e23f641277f7de36dbe36d7f7f76536",
+    "wof:geomhash":"39ebc861b34f03591afa366b4ccc0c98",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823421447,
-    "wof:lastmodified":1467090741,
+    "wof:lastmodified":1510602737,
     "wof:name":"Xerox",
     "wof:parent_id":85856363,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823422749,
   "type": "Feature",
   "properties": {
+    "addr:full":"2309 Gihon Rd Parkersburg WV 26101",
+    "addr:housenumber":"2309",
+    "addr:postcode":"26101",
+    "addr:street":"Gihon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.549373,39.232216,-81.549373,39.232216",
     "geom:latitude":39.232216,
     "geom:longitude":-81.549373,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2309 Gihon Rd",
     "sg:city":"Parkersburg",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083343,
         85849931
     ],
+    "wof:brand_id":1125155607,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5i65FH8HXYw7LuuwLNvhhL_39.232216_-81.549373@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433568,
-    "wof:geomhash":"9152915ae0c1b0b07bd4974ec0eb5f14",
+    "wof:geomhash":"d7114ec36a449209bd7d897bb9422131",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823422749,
-    "wof:lastmodified":1467090742,
+    "wof:lastmodified":1510613384,
     "wof:name":"Forestry Division",
     "wof:parent_id":85849931,
     "wof:placetype":"venue",

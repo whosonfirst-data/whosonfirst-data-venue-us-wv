@@ -2,14 +2,20 @@
   "id": 823423591,
   "type": "Feature",
   "properties": {
+    "addr:full":"5808 Maccorkle Ave Saint Albans WV 25177",
+    "addr:housenumber":"5808",
+    "addr:postcode":"25177",
+    "addr:street":"Maccorkle Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.751943,38.355946,-81.751943,38.355946",
     "geom:latitude":38.355946,
     "geom:longitude":-81.751943,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5808 Maccorkle Ave",
     "sg:city":"Saint Albans",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083335,
         85837449
     ],
+    "wof:brand_id":420575297,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6y18pg672LBeRaXI22Klru_38.355946_-81.751943@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433605,
-    "wof:geomhash":"7ba2d0e0ce1063e34d22007077723326",
+    "wof:geomhash":"54f2e4f5a7711f6aff3d2a911c0fdad4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823423591,
-    "wof:lastmodified":1467090743,
+    "wof:lastmodified":1510602930,
     "wof:name":"AT&T Wireless",
     "wof:parent_id":85837449,
     "wof:placetype":"venue",

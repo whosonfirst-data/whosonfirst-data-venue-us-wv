@@ -2,14 +2,20 @@
   "id": 823440071,
   "type": "Feature",
   "properties": {
+    "addr:full":"183 E Main St Salem WV 26426",
+    "addr:housenumber":"183",
+    "addr:postcode":"26426",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.552688,39.282204,-80.552688,39.282204",
     "geom:latitude":39.282204,
     "geom:longitude":-80.552688,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"183 E Main St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85810773,
         102082619
     ],
+    "wof:brand_id":1125154081,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3p7MkiocscNyaeuVWDZmxZ_39.282204_-80.552688@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434367,
-    "wof:geomhash":"85ff8b779b0f48333fc1f19949163311",
+    "wof:geomhash":"4a48bbe657b82d3a64953881d0453439",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":823440071,
-    "wof:lastmodified":1467090764,
+    "wof:lastmodified":1510613293,
     "wof:name":"Salem United Methodist Church",
     "wof:parent_id":85810773,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823378807,
   "type": "Feature",
   "properties": {
+    "addr:full":"1114 Quarrier St Charleston WV 25301",
+    "addr:housenumber":"1114",
+    "addr:postcode":"25301",
+    "addr:street":"Quarrier St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.63053,38.346568,-81.63053,38.346568",
     "geom:latitude":38.346568,
     "geom:longitude":-81.63053,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1114 Quarrier St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102083335,
         85816783
     ],
+    "wof:brand_id":420575737,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Cs6I6EJgHvmvumAgWTkxv_38.346568_-81.630530@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431588,
-    "wof:geomhash":"d08217310edcd5963205478c153bc7d4",
+    "wof:geomhash":"59871251302e534238fdec1919770e98",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823378807,
-    "wof:lastmodified":1467090687,
+    "wof:lastmodified":1510602696,
     "wof:name":"YWCA",
     "wof:parent_id":85816783,
     "wof:placetype":"venue",

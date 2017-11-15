@@ -2,14 +2,20 @@
   "id": 823434883,
   "type": "Feature",
   "properties": {
+    "addr:full":"3135 16th St Huntington WV 25701",
+    "addr:housenumber":"3135",
+    "addr:postcode":"25701",
+    "addr:street":"16Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.411699,38.395214,-82.411699,38.395214",
     "geom:latitude":38.395214,
     "geom:longitude":-82.411699,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3135 16th St",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         101731553,
         85868309
     ],
+    "wof:brand_id":1125150769,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3blK5EkRvMR4KWELoNORb1_38.395214_-82.411699@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434121,
-    "wof:geomhash":"c45be2a1896ed3797184c478b05bcb30",
+    "wof:geomhash":"f3092b9d94e0a9505cdb0a25e67a18bb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":823434883,
-    "wof:lastmodified":1467090757,
+    "wof:lastmodified":1510697652,
     "wof:name":"Child Support Enforcement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

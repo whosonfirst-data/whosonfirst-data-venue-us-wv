@@ -2,14 +2,20 @@
   "id": 823452613,
   "type": "Feature",
   "properties": {
+    "addr:full":"1016 S Queen St Martinsburg WV 25401",
+    "addr:housenumber":"1016",
+    "addr:postcode":"25401",
+    "addr:street":"S Queen St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.966688,39.447424,-77.966688,39.447424",
     "geom:latitude":39.447424,
     "geom:longitude":-77.966688,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1016 S Queen St",
     "sg:city":"Martinsburg",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083367,
         85806921
     ],
+    "wof:brand_id":420573901,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3y7TxhI7k3HjzZcAajmUH3_39.447424_-77.966688@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434914,
-    "wof:geomhash":"6df5a23b055c815dfd4015fe77b69ba7",
+    "wof:geomhash":"e6ec606b08e9c0c53c5926830e47cbe3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823452613,
-    "wof:lastmodified":1467090780,
+    "wof:lastmodified":1510603345,
     "wof:name":"Dairy Queen",
     "wof:parent_id":85806921,
     "wof:placetype":"venue",

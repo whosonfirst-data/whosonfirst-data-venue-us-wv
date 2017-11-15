@@ -2,14 +2,20 @@
   "id": 823401575,
   "type": "Feature",
   "properties": {
+    "addr:full":"302 Teays Ln Scott Depot WV 25526",
+    "addr:housenumber":"302",
+    "addr:postcode":"25526",
+    "addr:street":"Teays Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.950447,38.441115,-81.950447,38.441115",
     "geom:latitude":38.441115,
     "geom:longitude":-81.950447,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"302 Teays Ln",
     "sg:city":"Scott Depot",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083381,
         85868321
     ],
+    "wof:brand_id":1125154343,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59oR9ApNsz6PCNYfKgi0sr_38.441115_-81.950447@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463432653,
-    "wof:geomhash":"b30b4c73e464ee7b16647c87be39158d",
+    "wof:geomhash":"252532a39e340293a807c807f0cbcf29",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823401575,
-    "wof:lastmodified":1467090716,
+    "wof:lastmodified":1510698938,
     "wof:name":"National Bank Of Commerce",
     "wof:parent_id":85868321,
     "wof:placetype":"venue",

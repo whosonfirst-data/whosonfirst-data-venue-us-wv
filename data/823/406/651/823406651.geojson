@@ -2,14 +2,20 @@
   "id": 823406651,
   "type": "Feature",
   "properties": {
+    "addr:full":"532 Teel Rd Beckley WV 25801",
+    "addr:housenumber":"532",
+    "addr:postcode":"25801",
+    "addr:street":"Teel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.208247,37.8052,-81.208247,37.8052",
     "geom:latitude":37.8052,
     "geom:longitude":-81.208247,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"532 Teel Rd",
     "sg:city":"Beckley",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083349,
         85805185
     ],
+    "wof:brand_id":1125151223,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2A80c3CROzDA7CnYQzLxvZ_37.805200_-81.208247@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463432885,
-    "wof:geomhash":"89a4663c824ca6203ee6369d34acb431",
+    "wof:geomhash":"6835fb1110b37c04931f5641642faa65",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823406651,
-    "wof:lastmodified":1467090722,
+    "wof:lastmodified":1510697269,
     "wof:name":"Indoff Inc",
     "wof:parent_id":85805185,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823454497,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 Kramer St Charleston WV 25309",
+    "addr:housenumber":"1000",
+    "addr:postcode":"25309",
+    "addr:street":"Kramer St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.70927,38.34239,-81.70927,38.34239",
     "geom:latitude":38.34239,
     "geom:longitude":-81.70927,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1000 Kramer St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083335,
         85837449
     ],
+    "wof:brand_id":1125151471,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66GvKvthrCoFVTC8lTA1H2_38.342390_-81.709270@1303262553"
     },
     "wof:country":"US",
     "wof:created":1463435033,
-    "wof:geomhash":"f4ff790a5d110213f182e93004e8cdf5",
+    "wof:geomhash":"89364a4e866befe9f0ae8acd215fbd52",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823454497,
-    "wof:lastmodified":1467090782,
+    "wof:lastmodified":1510698972,
     "wof:name":"Hertz Equipment Rental",
     "wof:parent_id":85837449,
     "wof:placetype":"venue",

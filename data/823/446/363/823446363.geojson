@@ -2,14 +2,20 @@
   "id": 823446363,
   "type": "Feature",
   "properties": {
+    "addr:full":"65 S Mill Ave Mount Hope WV 25880",
+    "addr:housenumber":"65",
+    "addr:postcode":"25880",
+    "addr:street":"S Mill Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.168794,37.891548,-81.168794,37.891548",
     "geom:latitude":37.891548,
     "geom:longitude":-81.168794,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"65 S Mill Ave",
     "sg:city":"Mount Hope",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083359,
         85852821
     ],
+    "wof:brand_id":1125151913,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VAaLWQW1bKgOFt8UJFpIf_37.891548_-81.168794@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434667,
-    "wof:geomhash":"39a5a421781655e983be311c9e5417a5",
+    "wof:geomhash":"d4bc4c9c910f42be63a92612aff75c8f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823446363,
-    "wof:lastmodified":1467090772,
+    "wof:lastmodified":1510699396,
     "wof:name":"Steak Escape",
     "wof:parent_id":85852821,
     "wof:placetype":"venue",

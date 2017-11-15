@@ -2,14 +2,20 @@
   "id": 823415407,
   "type": "Feature",
   "properties": {
+    "addr:full":"113 W Main St Paden City WV 26159",
+    "addr:housenumber":"113",
+    "addr:postcode":"26159",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.934411,39.604126,-80.934411,39.604126",
     "geom:latitude":39.604126,
     "geom:longitude":-80.934411,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"113 W Main St",
     "sg:city":"Paden City",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083395,
         85807907
     ],
+    "wof:brand_id":1125153043,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rUCXsWN6LwVYZ0MjYktfu_39.604126_-80.934411@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433254,
-    "wof:geomhash":"b83b66ed3eb71b434047b63894907dfa",
+    "wof:geomhash":"3c4bb0ced1a9cad0e60ecebd9eef6949",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823415407,
-    "wof:lastmodified":1467090733,
+    "wof:lastmodified":1510697674,
     "wof:name":"Mane Event",
     "wof:parent_id":85807907,
     "wof:placetype":"venue",

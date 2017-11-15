@@ -2,14 +2,20 @@
   "id": 823377813,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Harman Ave Grafton WV 26354",
+    "addr:housenumber":"1",
+    "addr:postcode":"26354",
+    "addr:street":"Harman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.003318,39.345417,-80.003318,39.345417",
     "geom:latitude":39.345417,
     "geom:longitude":-80.003318,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 Harman Ave",
     "sg:city":"Grafton",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083351,
         85849697
     ],
+    "wof:brand_id":1125158933,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Il5MioFZ22KJWWiH6LaHC_39.345417_-80.003318@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431548,
-    "wof:geomhash":"141bb54e1b285951418dd003a72972bf",
+    "wof:geomhash":"626470ba69fce67ccb3d228d5c2fce2e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823377813,
-    "wof:lastmodified":1467090685,
+    "wof:lastmodified":1510694264,
     "wof:name":"Bloomers",
     "wof:parent_id":85849697,
     "wof:placetype":"venue",

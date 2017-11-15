@@ -2,14 +2,20 @@
   "id": 823385127,
   "type": "Feature",
   "properties": {
+    "addr:full":"3625 Jefferson St Parkersburg WV 26104",
+    "addr:housenumber":"3625",
+    "addr:postcode":"26104",
+    "addr:street":"Jefferson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.516188,39.287414,-81.516188,39.287414",
     "geom:latitude":39.287414,
     "geom:longitude":-81.516188,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3625 Jefferson St",
     "sg:city":"Parkersburg",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85818799,
         102083343
     ],
+    "wof:brand_id":420575865,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_386lMphrwJmDI8L2cgViUv_39.287414_-81.516188@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431854,
-    "wof:geomhash":"e80e596a7760048e3b3f03774292fc4a",
+    "wof:geomhash":"2e0f63127415dd389d9568e3d029e0f6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823385127,
-    "wof:lastmodified":1467090695,
+    "wof:lastmodified":1510602526,
     "wof:name":"US Air Force Recruiting",
     "wof:parent_id":85818799,
     "wof:placetype":"venue",

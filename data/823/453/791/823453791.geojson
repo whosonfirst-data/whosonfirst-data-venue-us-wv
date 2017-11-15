@@ -2,14 +2,20 @@
   "id": 823453791,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 Hornbeck Rd Morgantown WV 26508",
+    "addr:housenumber":"215",
+    "addr:postcode":"26508",
+    "addr:street":"Hornbeck Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.960329,39.5815,-79.960329,39.5815",
     "geom:latitude":39.5815,
     "geom:longitude":-79.960329,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"215 Hornbeck Rd",
     "sg:city":"Morgantown",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         85826231,
         102082587
     ],
+    "wof:brand_id":1125153179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tlE4bxStvs59Qb4jU1Oal_39.581500_-79.960329@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434962,
-    "wof:geomhash":"62b3aaa1c8fe48e63e21a94afb6b44a7",
+    "wof:geomhash":"54c72285e8f4adbd1d9af4b0e0b72b6c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823453791,
-    "wof:lastmodified":1467090781,
+    "wof:lastmodified":1510699296,
     "wof:name":"Sicilia's Pizzeria",
     "wof:parent_id":85826231,
     "wof:placetype":"venue",

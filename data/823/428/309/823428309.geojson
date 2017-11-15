@@ -2,14 +2,20 @@
   "id": 823428309,
   "type": "Feature",
   "properties": {
+    "addr:full":"1620 Park Ave Parkersburg WV 26101",
+    "addr:housenumber":"1620",
+    "addr:postcode":"26101",
+    "addr:street":"Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.532843,39.268886,-81.532843,39.268886",
     "geom:latitude":39.268886,
     "geom:longitude":-81.532843,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1620 Park Ave",
     "sg:city":"Parkersburg",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083343,
         85818775
     ],
+    "wof:brand_id":1125151831,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LEKbyoB3WqtTi5s4dPmuB_39.268886_-81.532843@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433800,
-    "wof:geomhash":"2eaeed4083bfad504e4db5c96adc19de",
+    "wof:geomhash":"d4369c1d941e08ee542f0a58ef6bcabc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823428309,
-    "wof:lastmodified":1467090749,
+    "wof:lastmodified":1510700056,
     "wof:name":"Christian Science Society",
     "wof:parent_id":85818775,
     "wof:placetype":"venue",

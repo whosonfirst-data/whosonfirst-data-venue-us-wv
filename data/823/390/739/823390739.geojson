@@ -2,14 +2,20 @@
   "id": 823390739,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Summers St Charleston WV 25301",
+    "addr:housenumber":"300",
+    "addr:postcode":"25301",
+    "addr:street":"Summers St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.632515,38.352366,-81.632515,38.352366",
     "geom:latitude":38.352366,
     "geom:longitude":-81.632515,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 Summers St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083335,
         85816783
     ],
+    "wof:brand_id":1125159979,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_705zI9d6CjpcYGMiOlo7TM_38.352366_-81.632515@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463432110,
-    "wof:geomhash":"6c741c6b6b817d2a52432b3af8d25567",
+    "wof:geomhash":"17e57151c16f7418ed904d79917c5d39",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823390739,
-    "wof:lastmodified":1467090702,
+    "wof:lastmodified":1510698871,
     "wof:name":"Pearson Professional Ctr",
     "wof:parent_id":85816783,
     "wof:placetype":"venue",

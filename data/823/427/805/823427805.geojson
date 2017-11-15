@@ -2,14 +2,20 @@
   "id": 823427805,
   "type": "Feature",
   "properties": {
+    "addr:full":"614 Florida St Charleston WV 25302",
+    "addr:housenumber":"614",
+    "addr:postcode":"25302",
+    "addr:street":"Florida St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.659201,38.368308,-81.659201,38.368308",
     "geom:latitude":38.368308,
     "geom:longitude":-81.659201,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"614 Florida St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083335,
         85856363
     ],
+    "wof:brand_id":1125159015,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6YjklzwMjMaImGYV7twJZu_38.368308_-81.659201@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433782,
-    "wof:geomhash":"fd77b64a5725871319b8875286ff57dd",
+    "wof:geomhash":"826535fc5a2b566721082fd8e253cf12",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823427805,
-    "wof:lastmodified":1467090748,
+    "wof:lastmodified":1510696103,
     "wof:name":"Hope Community Church",
     "wof:parent_id":85856363,
     "wof:placetype":"venue",

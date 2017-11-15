@@ -2,14 +2,20 @@
   "id": 823434853,
   "type": "Feature",
   "properties": {
+    "addr:full":"3312 University Ave Morgantown WV 26505",
+    "addr:housenumber":"3312",
+    "addr:postcode":"26505",
+    "addr:street":"University Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.979457,39.656847,-79.979457,39.656847",
     "geom:latitude":39.656847,
     "geom:longitude":-79.979457,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3312 University Ave",
     "sg:city":"Morgantown",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102082587,
         85851419
     ],
+    "wof:brand_id":1125150545,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mJ6MFfDw3HPIo6m0uGO5G_39.656847_-79.979457@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434120,
-    "wof:geomhash":"ab1181fec5781ccece04a981d7a0960a",
+    "wof:geomhash":"3732e67f341115cea9aa42dcd5f1a98b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823434853,
-    "wof:lastmodified":1467090757,
+    "wof:lastmodified":1510695848,
     "wof:name":"Dairy Mart Convenience Store",
     "wof:parent_id":85851419,
     "wof:placetype":"venue",

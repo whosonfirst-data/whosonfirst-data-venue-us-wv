@@ -2,14 +2,20 @@
   "id": 823453831,
   "type": "Feature",
   "properties": {
+    "addr:full":"2202 Pleasant Valley Rd Fairmont WV 26554",
+    "addr:housenumber":"2202",
+    "addr:postcode":"26554",
+    "addr:street":"Pleasant Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.166895,39.443006,-80.166895,39.443006",
     "geom:latitude":39.443006,
     "geom:longitude":-80.166895,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2202 Pleasant Valley Rd",
     "sg:city":"Fairmont",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102082601,
         85834381
     ],
+    "wof:brand_id":1125153179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DJtFXG2EZmMDLQInXIXvh_39.443006_-80.166895@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434964,
-    "wof:geomhash":"2bf5f50d48e10e43e2663f68ffb98319",
+    "wof:geomhash":"fd431f6fb5858400750531f34d1293c5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823453831,
-    "wof:lastmodified":1467090781,
+    "wof:lastmodified":1510699296,
     "wof:name":"Sicilia's Pizzeria",
     "wof:parent_id":85834381,
     "wof:placetype":"venue",

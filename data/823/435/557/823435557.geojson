@@ -2,14 +2,20 @@
   "id": 823435557,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 W Pike St Clarksburg WV 26301",
+    "addr:housenumber":"500",
+    "addr:postcode":"26301",
+    "addr:street":"W Pike St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.343046,39.281406,-80.343046,39.281406",
     "geom:latitude":39.281406,
     "geom:longitude":-80.343046,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"500 W Pike St",
     "sg:city":"Clarksburg",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082619,
         85821689
     ],
+    "wof:brand_id":1125156497,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HpBqKvx5ePUZymIaPDD7f_39.281406_-80.343046@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434148,
-    "wof:geomhash":"20f9fb77043bfe8aae56fb6c31f0e6bf",
+    "wof:geomhash":"906534d3477397cd55579ea3b497caa7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823435557,
-    "wof:lastmodified":1467090758,
+    "wof:lastmodified":1510693939,
     "wof:name":"US District Court Clerk",
     "wof:parent_id":85821689,
     "wof:placetype":"venue",

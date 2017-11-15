@@ -2,14 +2,20 @@
   "id": 823368961,
   "type": "Feature",
   "properties": {
+    "addr:full":"1451 Earl L Core Rd Morgantown WV 26505",
+    "addr:housenumber":"1451",
+    "addr:postcode":"26505",
+    "addr:street":"Earl L Core Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.921746,39.610582,-79.921746,39.610582",
     "geom:latitude":39.610582,
     "geom:longitude":-79.921746,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1451 Earl L Core Rd",
     "sg:city":"Morgantown",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102082587,
         85807831
     ],
+    "wof:brand_id":420573815,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OMSw0EEsDu2BlCOm9VK1T_39.610582_-79.921746@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431132,
-    "wof:geomhash":"11f8608a682ad411ed58bf1bddbcebf1",
+    "wof:geomhash":"fb01020890431e2fb9618c850f19b65a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":823368961,
-    "wof:lastmodified":1467090674,
+    "wof:lastmodified":1510603434,
     "wof:name":"Rent-A-Center",
     "wof:parent_id":85807831,
     "wof:placetype":"venue",

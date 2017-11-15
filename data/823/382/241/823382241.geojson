@@ -2,14 +2,20 @@
   "id": 823382241,
   "type": "Feature",
   "properties": {
+    "addr:full":"150 Grand Central Ave Parkersburg WV 26105",
+    "addr:housenumber":"150",
+    "addr:postcode":"26105",
+    "addr:street":"Grand Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.553091,39.311209,-81.553091,39.311209",
     "geom:latitude":39.311209,
     "geom:longitude":-81.553091,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"150 Grand Central Ave",
     "sg:city":"Parkersburg",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083343,
         85819937
     ],
+    "wof:brand_id":1125151913,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OhICWLiZwkO6pTi4YaiQq_39.311209_-81.553091@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431746,
-    "wof:geomhash":"037a7f3c031ed6b663bf3293863e2d39",
+    "wof:geomhash":"f480d0ec4420cdb46ce3fabf9151baf5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823382241,
-    "wof:lastmodified":1467090691,
+    "wof:lastmodified":1510699396,
     "wof:name":"Steak Escape",
     "wof:parent_id":85819937,
     "wof:placetype":"venue",

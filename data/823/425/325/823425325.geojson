@@ -2,14 +2,20 @@
   "id": 823425325,
   "type": "Feature",
   "properties": {
+    "addr:full":"316 Riverview Ave Logan WV 25601",
+    "addr:housenumber":"316",
+    "addr:postcode":"25601",
+    "addr:street":"Riverview Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.000426,37.84831,-82.000426,37.84831",
     "geom:latitude":37.84831,
     "geom:longitude":-82.000426,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"316 Riverview Ave",
     "sg:city":"Logan",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85868319,
         102083369
     ],
+    "wof:brand_id":420573963,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nkYVy74SXey8FmYBxizDQ_37.848310_-82.000426@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433673,
-    "wof:geomhash":"540c4c18fbae87933caefe2f79d7386d",
+    "wof:geomhash":"7a11280b4071a123ea8433858b77ed34",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":823425325,
-    "wof:lastmodified":1467090745,
+    "wof:lastmodified":1510603290,
     "wof:name":"Super 8 Motel",
     "wof:parent_id":85868319,
     "wof:placetype":"venue",

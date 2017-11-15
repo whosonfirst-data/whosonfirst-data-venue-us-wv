@@ -2,14 +2,20 @@
   "id": 823406803,
   "type": "Feature",
   "properties": {
+    "addr:full":"2109 Pike St Parkersburg WV 26101",
+    "addr:housenumber":"2109",
+    "addr:postcode":"26101",
+    "addr:street":"Pike St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.541764,39.234284,-81.541764,39.234284",
     "geom:latitude":39.234284,
     "geom:longitude":-81.541764,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2109 Pike St",
     "sg:city":"Parkersburg",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083343,
         85849931
     ],
+    "wof:brand_id":1125153713,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kJZ8ExNi47BNn3rTnXIIz_39.234284_-81.541764@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463432891,
-    "wof:geomhash":"3699ab31c7fa43c1ac2c6491133e006d",
+    "wof:geomhash":"c1240f73d5d92193148ccc6e673c51d2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823406803,
-    "wof:lastmodified":1467090722,
+    "wof:lastmodified":1510694614,
     "wof:name":"Rentway",
     "wof:parent_id":85849931,
     "wof:placetype":"venue",

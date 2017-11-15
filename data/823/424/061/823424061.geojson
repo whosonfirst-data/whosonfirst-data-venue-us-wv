@@ -2,14 +2,20 @@
   "id": 823424061,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Bland St Bluefield WV 24701",
+    "addr:housenumber":"200",
+    "addr:postcode":"24701",
+    "addr:street":"Bland St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.223135,37.269221,-81.223135,37.269221",
     "geom:latitude":37.269221,
     "geom:longitude":-81.223135,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 Bland St",
     "sg:city":"Bluefield",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102082639,
         85849473
     ],
+    "wof:brand_id":420575745,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11Fl5pYnjatUTlggXIov1w_37.269221_-81.223135@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433623,
-    "wof:geomhash":"6327e086e31801a557f362589fa7d983",
+    "wof:geomhash":"64ab6a28ec5b757c81918f65833133c8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823424061,
-    "wof:lastmodified":1467090744,
+    "wof:lastmodified":1510602837,
     "wof:name":"Communications Workers-America",
     "wof:parent_id":85849473,
     "wof:placetype":"venue",

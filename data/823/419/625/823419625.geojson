@@ -2,14 +2,20 @@
   "id": 823419625,
   "type": "Feature",
   "properties": {
+    "addr:full":"40 Webb Dr White Sulphur Springs WV 24986",
+    "addr:housenumber":"40",
+    "addr:postcode":"24986",
+    "addr:street":"Webb Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.287896,37.789511,-80.287896,37.789511",
     "geom:latitude":37.789511,
     "geom:longitude":-80.287896,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"40 Webb Dr",
     "sg:city":"White Sulphur Springs",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083375,
         85808285
     ],
+    "wof:brand_id":1125155297,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FCBR4bhjMX0irbuJ2Q0tg_37.789511_-80.287896@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433449,
-    "wof:geomhash":"a6f549900134e555f9485d7385c54562",
+    "wof:geomhash":"672037f33140ed2d10febf0b5086296f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823419625,
-    "wof:lastmodified":1467090738,
+    "wof:lastmodified":1510693794,
     "wof:name":"Ruritan National Corp",
     "wof:parent_id":85808285,
     "wof:placetype":"venue",

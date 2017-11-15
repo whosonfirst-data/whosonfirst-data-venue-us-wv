@@ -2,14 +2,20 @@
   "id": 823379379,
   "type": "Feature",
   "properties": {
+    "addr:full":"508 Emily Dr Clarksburg WV 26301",
+    "addr:housenumber":"508",
+    "addr:postcode":"26301",
+    "addr:street":"Emily Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.280837,39.27969,-80.280837,39.27969",
     "geom:latitude":39.27969,
     "geom:longitude":-80.280837,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"508 Emily Dr",
     "sg:city":"Clarksburg",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102082619,
         85812589
     ],
+    "wof:brand_id":1125156877,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20HhtctcMk5zo1LMRMZsT3_39.279690_-80.280837@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431615,
-    "wof:geomhash":"117f3b2e29a7155d26fd4659e4d7e168",
+    "wof:geomhash":"f7403fe53a675b92f91faf1f31925401",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823379379,
-    "wof:lastmodified":1467090687,
+    "wof:lastmodified":1510696998,
     "wof:name":"Video Warehouse",
     "wof:parent_id":85812589,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823452449,
   "type": "Feature",
   "properties": {
+    "addr:full":"166 Summers St Charleston WV 25301",
+    "addr:housenumber":"166",
+    "addr:postcode":"25301",
+    "addr:street":"Summers St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.634922,38.351213,-81.634922,38.351213",
     "geom:latitude":38.351213,
     "geom:longitude":-81.634922,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"166 Summers St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102083335,
         85816783
     ],
+    "wof:brand_id":1125153179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lDnQEyFxRz9ZmeL8NPozP_38.351213_-81.634922@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434907,
-    "wof:geomhash":"e9d5d442e8a074497724393cdb807a73",
+    "wof:geomhash":"7b13aaadb89a20ea838fd626bab1d112",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":823452449,
-    "wof:lastmodified":1467090780,
+    "wof:lastmodified":1510699297,
     "wof:name":"Sicilia's Pizzeria",
     "wof:parent_id":85816783,
     "wof:placetype":"venue",

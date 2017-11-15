@@ -2,14 +2,20 @@
   "id": 823451781,
   "type": "Feature",
   "properties": {
+    "addr:full":"2995 University Ave Morgantown WV 26505",
+    "addr:housenumber":"2995",
+    "addr:postcode":"26505",
+    "addr:street":"University Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.965549,39.650222,-79.965549,39.650222",
     "geom:latitude":39.650222,
     "geom:longitude":-79.965549,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2995 University Ave",
     "sg:city":"Morgantown",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082587,
         85847767
     ],
+    "wof:brand_id":1125157283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TmK2tmcqjD30rLFlbaN1W_39.650029_-79.965405@1293134755"
     },
     "wof:country":"US",
     "wof:created":1463434883,
-    "wof:geomhash":"1743c036c2b01e44bdb9f9acdb201416",
+    "wof:geomhash":"75862f20fe1b24a9fd9ccb02072510f3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823451781,
-    "wof:lastmodified":1467090779,
+    "wof:lastmodified":1510696751,
     "wof:name":"Travel Network",
     "wof:parent_id":85847767,
     "wof:placetype":"venue",

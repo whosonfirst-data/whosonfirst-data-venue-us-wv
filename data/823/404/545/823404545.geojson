@@ -2,14 +2,20 @@
   "id": 823404545,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 Tolley Dr Bridgeport WV 26330",
+    "addr:housenumber":"102",
+    "addr:postcode":"26330",
+    "addr:street":"Tolley Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.280751,39.281223,-80.280751,39.281223",
     "geom:latitude":39.281223,
     "geom:longitude":-80.280751,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"102 Tolley Dr",
     "sg:city":"Bridgeport",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102082619,
         85812589
     ],
+    "wof:brand_id":420575581,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FSZO9QjpvJyBE32MPDrnG_39.281223_-80.280751@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463432789,
-    "wof:geomhash":"98723e83a635314929d8da270947da19",
+    "wof:geomhash":"d777799e8e9a3bc5d990e433db9acfec",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823404545,
-    "wof:lastmodified":1467090719,
+    "wof:lastmodified":1510602442,
     "wof:name":"Nationwide Mutual Insurance",
     "wof:parent_id":85812589,
     "wof:placetype":"venue",

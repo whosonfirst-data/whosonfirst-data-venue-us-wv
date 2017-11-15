@@ -2,14 +2,20 @@
   "id": 823374469,
   "type": "Feature",
   "properties": {
+    "addr:full":"606 Tennessee Ave Charleston WV 25302",
+    "addr:housenumber":"606",
+    "addr:postcode":"25302",
+    "addr:street":"Tennessee Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.641161,38.360903,-81.641161,38.360903",
     "geom:latitude":38.360903,
     "geom:longitude":-81.641161,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"606 Tennessee Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083335,
         85856363
     ],
+    "wof:brand_id":1125154889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OVuFyUAvR2PlrkdbIuXK4_38.360903_-81.641161@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431378,
-    "wof:geomhash":"c7fd73e88b598bb1f8d50751c09d2a99",
+    "wof:geomhash":"a556d194c16e52dbda3cb3daf18d2ad6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823374469,
-    "wof:lastmodified":1467090681,
+    "wof:lastmodified":1510697718,
     "wof:name":"International Union-Oper Engrs",
     "wof:parent_id":85856363,
     "wof:placetype":"venue",

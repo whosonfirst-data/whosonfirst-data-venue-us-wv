@@ -2,14 +2,20 @@
   "id": 823378479,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 North St New Martinsville WV 26155",
+    "addr:housenumber":"311",
+    "addr:postcode":"26155",
+    "addr:street":"North St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.857751,39.642266,-80.857751,39.642266",
     "geom:latitude":39.642266,
     "geom:longitude":-80.857751,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"311 North St",
     "sg:city":"New Martinsville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083395,
         85807907
     ],
+    "wof:brand_id":1125155607,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5k5jUXhkAzKUAu0rHqmRqN_39.642266_-80.857751@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431576,
-    "wof:geomhash":"04d81024c078a93619c7e8a142960f56",
+    "wof:geomhash":"d91d29957301516e87df008fa8339338",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823378479,
-    "wof:lastmodified":1467090686,
+    "wof:lastmodified":1510613384,
     "wof:name":"Forestry Division",
     "wof:parent_id":85807907,
     "wof:placetype":"venue",

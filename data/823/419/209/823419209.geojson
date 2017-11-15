@@ -2,14 +2,20 @@
   "id": 823419209,
   "type": "Feature",
   "properties": {
+    "addr:full":"135 Court St Welch WV 24801",
+    "addr:housenumber":"135",
+    "addr:postcode":"24801",
+    "addr:street":"Court St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.583101,37.433141,-81.583101,37.433141",
     "geom:latitude":37.433141,
     "geom:longitude":-81.583101,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"135 Court St",
     "sg:city":"Welch",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85809677,
         102083405
     ],
+    "wof:brand_id":1125156305,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3iIEiBQSjsCboLnfk6n8wU_37.433141_-81.583101@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433434,
-    "wof:geomhash":"0694dbb1b77779eee5188c59b13578b9",
+    "wof:geomhash":"ff979a8cab2aac57df35a5805a734267",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":823419209,
-    "wof:lastmodified":1467090738,
+    "wof:lastmodified":1510698776,
     "wof:name":"St James Baptist Church",
     "wof:parent_id":85809677,
     "wof:placetype":"venue",

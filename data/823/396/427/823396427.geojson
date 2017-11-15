@@ -2,14 +2,20 @@
   "id": 823396427,
   "type": "Feature",
   "properties": {
+    "addr:full":"947 Main St Barboursville WV 25504",
+    "addr:housenumber":"947",
+    "addr:postcode":"25504",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.29157,38.408618,-82.29157,38.408618",
     "geom:latitude":38.408618,
     "geom:longitude":-82.29157,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"947 Main St",
     "sg:city":"Barboursville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083329,
         85816671
     ],
+    "wof:brand_id":1125155431,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GOWkXQGiSWPOmZOsL9wor_38.408618_-82.291570@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463432389,
-    "wof:geomhash":"2c6a6dfb58d7464455f025f2ad7eb0ef",
+    "wof:geomhash":"27dfd01e4f9537b5741bcdbbcc9f5441",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823396427,
-    "wof:lastmodified":1467090709,
+    "wof:lastmodified":1510694943,
     "wof:name":"St Andrew's Episcopal Church",
     "wof:parent_id":85816671,
     "wof:placetype":"venue",

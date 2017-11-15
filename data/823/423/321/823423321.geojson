@@ -2,14 +2,20 @@
   "id": 823423321,
   "type": "Feature",
   "properties": {
+    "addr:full":"317 Riverside Dr St Marys WV 26170",
+    "addr:housenumber":"317",
+    "addr:postcode":"26170",
+    "addr:street":"Riverside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.207152,39.391565,-81.207152,39.391565",
     "geom:latitude":39.391565,
     "geom:longitude":-81.207152,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"317 Riverside Dr",
     "sg:city":"St Marys",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083345,
         85814229
     ],
+    "wof:brand_id":1125150919,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QePtYQsio4Yl0yUJ4laVr_39.391565_-81.207152@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433589,
-    "wof:geomhash":"289e7bc009ffd72b4ff9201cfe079b46",
+    "wof:geomhash":"9136f27ad063fefbd94d50066a920649",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823423321,
-    "wof:lastmodified":1467090743,
+    "wof:lastmodified":1510613227,
     "wof:name":"Grace Episcopal Church",
     "wof:parent_id":85814229,
     "wof:placetype":"venue",

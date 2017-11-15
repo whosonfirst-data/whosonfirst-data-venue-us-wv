@@ -2,14 +2,20 @@
   "id": 823452367,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 Crossings Mall Elkview WV 25071",
+    "addr:housenumber":"205",
+    "addr:postcode":"25071",
+    "addr:street":"Crossings Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.471032,38.445951,-81.471032,38.445951",
     "geom:latitude":38.445951,
     "geom:longitude":-81.471032,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"205 Crossings Mall",
     "sg:city":"Elkview",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102083335,
         85806307
     ],
+    "wof:brand_id":1125153179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yRmRXm2FV8h528eungI5M_38.445951_-81.471032@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434905,
-    "wof:geomhash":"5504d3315e4213b181d7ada412c42a07",
+    "wof:geomhash":"df4da80373cdd057dd8aaa0aa33ac3c8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823452367,
-    "wof:lastmodified":1467090780,
+    "wof:lastmodified":1510699296,
     "wof:name":"Sicilia's Pizzeria",
     "wof:parent_id":85806307,
     "wof:placetype":"venue",

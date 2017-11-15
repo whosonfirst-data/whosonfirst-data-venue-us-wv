@@ -2,14 +2,20 @@
   "id": 823415367,
   "type": "Feature",
   "properties": {
+    "addr:full":"828 Madison Ave Morgantown WV 26501",
+    "addr:housenumber":"828",
+    "addr:postcode":"26501",
+    "addr:street":"Madison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.967131,39.612568,-79.967131,39.612568",
     "geom:latitude":39.612568,
     "geom:longitude":-79.967131,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"828 Madison Ave",
     "sg:city":"Morgantown",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85826231,
         102082587
     ],
+    "wof:brand_id":1125152167,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gZSRVbIfN9SQVW3w91UlS_39.612568_-79.967131@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433253,
-    "wof:geomhash":"df3cc8cb9cc8a0d1411eb806563282a1",
+    "wof:geomhash":"7f0b7ec860e6750f54ddf51bc7cf3867",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":823415367,
-    "wof:lastmodified":1467090733,
+    "wof:lastmodified":1510693951,
     "wof:name":"Order of Eastern Star of",
     "wof:parent_id":85826231,
     "wof:placetype":"venue",

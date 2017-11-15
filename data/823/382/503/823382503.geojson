@@ -2,14 +2,20 @@
   "id": 823382503,
   "type": "Feature",
   "properties": {
+    "addr:full":"11704 Maccorkle Ave Charleston WV 25315",
+    "addr:housenumber":"11704",
+    "addr:postcode":"25315",
+    "addr:street":"Maccorkle Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.544926,38.230086,-81.544926,38.230086",
     "geom:latitude":38.230086,
     "geom:longitude":-81.544926,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11704 Maccorkle Ave",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102083335,
         85845161
     ],
+    "wof:brand_id":1125152413,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QlWjzyK7tKOYkLLxhspP7_38.230086_-81.544926@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431757,
-    "wof:geomhash":"b332706cbb4b08f8e89b8d10f869c1ab",
+    "wof:geomhash":"4502b2165d498d4ac911aeaa1fc57735",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":823382503,
-    "wof:lastmodified":1467090691,
+    "wof:lastmodified":1510694882,
     "wof:name":"Loomis Fargo & Co",
     "wof:parent_id":85845161,
     "wof:placetype":"venue",

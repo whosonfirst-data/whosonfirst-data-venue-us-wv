@@ -2,14 +2,20 @@
   "id": 823452499,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Alex Ln Charleston WV 25304",
+    "addr:housenumber":"100",
+    "addr:postcode":"25304",
+    "addr:street":"Alex Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.563273,38.305722,-81.563273,38.305722",
     "geom:latitude":38.305722,
     "geom:longitude":-81.563273,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 Alex Ln",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102083335,
         85845161
     ],
+    "wof:brand_id":1125153179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7G5ehxtBeopDEjGOBUgO1x_38.305722_-81.563273@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434909,
-    "wof:geomhash":"d40975873907b3c6abbe099b0a617ab1",
+    "wof:geomhash":"194addc9722e488aa0172cddb9212b1e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823452499,
-    "wof:lastmodified":1467090780,
+    "wof:lastmodified":1510699297,
     "wof:name":"Sicilia's Pizzeria",
     "wof:parent_id":85845161,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823453365,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 Grand Central Ave Vienna WV 26105",
+    "addr:housenumber":"701",
+    "addr:postcode":"26105",
+    "addr:street":"Grand Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.550487,39.305076,-81.550487,39.305076",
     "geom:latitude":39.305076,
     "geom:longitude":-81.550487,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"701 Grand Central Ave",
     "sg:city":"Vienna",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102083343,
         85805293
     ],
+    "wof:brand_id":1125153179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YKDBZBL4D7gfRsfDcWoym_39.305076_-81.550487@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434944,
-    "wof:geomhash":"100fb1aa63489a407b85a913cc8d4e9b",
+    "wof:geomhash":"c3f54ef61fd4dc394958a3893fea87b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":823453365,
-    "wof:lastmodified":1467090781,
+    "wof:lastmodified":1510699297,
     "wof:name":"Sicilia's Pizzeria",
     "wof:parent_id":85805293,
     "wof:placetype":"venue",

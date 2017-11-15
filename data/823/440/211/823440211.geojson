@@ -2,14 +2,20 @@
   "id": 823440211,
   "type": "Feature",
   "properties": {
+    "addr:full":"963 Dunbar Village Plz Dunbar WV 25064",
+    "addr:housenumber":"963",
+    "addr:postcode":"25064",
+    "addr:street":"Dunbar Village Plz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.737003,38.358694,-81.737003,38.358694",
     "geom:latitude":38.358694,
     "geom:longitude":-81.737003,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"963 Dunbar Village Plz",
     "sg:city":"Dunbar",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083335,
         85837449
     ],
+    "wof:brand_id":1125152907,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XJmVShNWZ7cc19CFn4iD0_38.358694_-81.737003@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434372,
-    "wof:geomhash":"05903c70de815f7269e33b4dfb41d24c",
+    "wof:geomhash":"e06c1033e489ebb090050d8b6577b978",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823440211,
-    "wof:lastmodified":1467090764,
+    "wof:lastmodified":1510695168,
     "wof:name":"Smoker Friendly",
     "wof:parent_id":85837449,
     "wof:placetype":"venue",

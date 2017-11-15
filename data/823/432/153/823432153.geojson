@@ -2,14 +2,20 @@
   "id": 823432153,
   "type": "Feature",
   "properties": {
+    "addr:full":"3441 US Hwy 60 Barboursville WV 25504",
+    "addr:housenumber":"3441",
+    "addr:postcode":"25504",
+    "addr:street":"Us Hwy 60",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.261592,38.413748,-82.261592,38.413748",
     "geom:latitude":38.413748,
     "geom:longitude":-82.261592,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3441 US Hwy 60",
     "sg:city":"Barboursville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083329,
         85816671
     ],
+    "wof:brand_id":420574769,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4L1ULtR6xse7DheaBuK8n2_38.413748_-82.261592@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433973,
-    "wof:geomhash":"6261cf5eeffec3e88b457e33a86d71bf",
+    "wof:geomhash":"44647b0667e5ffec74847725865052da",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823432153,
-    "wof:lastmodified":1467090754,
+    "wof:lastmodified":1510604081,
     "wof:name":"Ramada Inn",
     "wof:parent_id":85816671,
     "wof:placetype":"venue",

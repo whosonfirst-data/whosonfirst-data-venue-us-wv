@@ -2,14 +2,20 @@
   "id": 823443097,
   "type": "Feature",
   "properties": {
+    "addr:full":"5875 Davis Creek Rd Barboursville WV 25504",
+    "addr:housenumber":"5875",
+    "addr:postcode":"25504",
+    "addr:street":"Davis Creek Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.319863,38.40347,-82.319863,38.40347",
     "geom:latitude":38.40347,
     "geom:longitude":-82.319863,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5875 Davis Creek Rd",
     "sg:city":"Barboursville",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083329,
         85865435
     ],
+    "wof:brand_id":1125153677,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43sTgwHMoUj3NV1r9NankR_38.403470_-82.319863@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434503,
-    "wof:geomhash":"f9ffb65149a2e0af0d0f2c331253f6f6",
+    "wof:geomhash":"ddff539128a0e4540d52ef5741e3d11d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823443097,
-    "wof:lastmodified":1467090768,
+    "wof:lastmodified":1510697774,
     "wof:name":"Clayton Homes Inc",
     "wof:parent_id":85865435,
     "wof:placetype":"venue",

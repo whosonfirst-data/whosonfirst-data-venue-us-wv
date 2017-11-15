@@ -2,6 +2,10 @@
   "id": 823388641,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 Virginia St E Charleston WV 25301",
+    "addr:housenumber":"501",
+    "addr:postcode":"25301",
+    "addr:street":"Virginia St E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":823388641,
-    "wof:lastmodified":1467090699,
+    "wof:lastmodified":1472655046,
     "wof:name":"Charleston Police-Inventory",
     "wof:parent_id":85816783,
     "wof:placetype":"venue",

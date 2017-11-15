@@ -2,14 +2,20 @@
   "id": 823405521,
   "type": "Feature",
   "properties": {
+    "addr:full":"886 Chestnut Ridge Rd Morgantown WV 26505",
+    "addr:housenumber":"886",
+    "addr:postcode":"26505",
+    "addr:street":"Chestnut Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.954592,39.65795,-79.954592,39.65795",
     "geom:latitude":39.65795,
     "geom:longitude":-79.954592,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"886 Chestnut Ridge Rd",
     "sg:city":"Morgantown",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85852025,
         102082587
     ],
+    "wof:brand_id":1125150905,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pPmtKfD2GrHgHZJ4S37Xr_39.657950_-79.954592@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463432841,
-    "wof:geomhash":"2be57e2ddb62e148749d9d9ec8b0b01c",
+    "wof:geomhash":"b8162087c8a5ec679c682a32b60c97c5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823405521,
-    "wof:lastmodified":1467090721,
+    "wof:lastmodified":1510696729,
     "wof:name":"Small Business Development Ctr",
     "wof:parent_id":85852025,
     "wof:placetype":"venue",

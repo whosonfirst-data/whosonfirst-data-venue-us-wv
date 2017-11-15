@@ -2,14 +2,20 @@
   "id": 823414849,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 49th St SE Charleston WV 25304",
+    "addr:housenumber":"300",
+    "addr:postcode":"25304",
+    "addr:street":"49Th St Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.578701,38.320437,-81.578701,38.320437",
     "geom:latitude":38.320437,
     "geom:longitude":-81.578701,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 49th St SE",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083335,
         85845161
     ],
+    "wof:brand_id":1125150001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kLuB8aR6iU26ApIRVUbKy_38.320437_-81.578701@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433217,
-    "wof:geomhash":"6e541ff7dbbe1564a306510c63a349e8",
+    "wof:geomhash":"b1ba605d595daac4ba83771731636681",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823414849,
-    "wof:lastmodified":1467090732,
+    "wof:lastmodified":1510698740,
     "wof:name":"Sisters Of St Joseph",
     "wof:parent_id":85845161,
     "wof:placetype":"venue",

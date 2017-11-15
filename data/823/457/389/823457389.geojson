@@ -2,14 +2,20 @@
   "id": 823457389,
   "type": "Feature",
   "properties": {
+    "addr:full":"596 Willey St Morgantown WV 26505",
+    "addr:housenumber":"596",
+    "addr:postcode":"26505",
+    "addr:street":"Willey St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.950855,39.631591,-79.950855,39.631591",
     "geom:latitude":39.631591,
     "geom:longitude":-79.950855,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"596 Willey St",
     "sg:city":"Morgantown",
     "sg:classifiers":[
@@ -45,13 +51,14 @@
         102082587,
         85858573
     ],
+    "wof:brand_id":1125150009,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0q5PLS1FMS4sOOmuoGOe2m_39.631591_-79.950855@1303262554"
     },
     "wof:country":"US",
     "wof:created":1463435157,
-    "wof:geomhash":"8b6c50dda4a1edb298127505c46c33de",
+    "wof:geomhash":"ea1094721e414ec8269fd7ba3d908361",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":823457389,
-    "wof:lastmodified":1467090786,
+    "wof:lastmodified":1510698741,
     "wof:name":"Church of Jesus Christ of Latter-Day Saints",
     "wof:parent_id":85858573,
     "wof:placetype":"venue",

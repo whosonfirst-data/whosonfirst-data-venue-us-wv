@@ -2,14 +2,20 @@
   "id": 823424723,
   "type": "Feature",
   "properties": {
+    "addr:full":"126 Vine St Fairmont WV 26554",
+    "addr:housenumber":"126",
+    "addr:postcode":"26554",
+    "addr:street":"Vine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.113914,39.48566,-80.113914,39.48566",
     "geom:latitude":39.48566,
     "geom:longitude":-80.113914,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"126 Vine St",
     "sg:city":"Fairmont",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082601,
         85821233
     ],
+    "wof:brand_id":420575465,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Y5d2sjztIervC2Hr3ElYi_39.485660_-80.113914@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433649,
-    "wof:geomhash":"d50ea9c143e92dfbfecdf289d511b5ea",
+    "wof:geomhash":"c8894af09a094e60c68818f010de7f2f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823424723,
-    "wof:lastmodified":1467090744,
+    "wof:lastmodified":1510602103,
     "wof:name":"Ferguson Enterprises Inc",
     "wof:parent_id":85821233,
     "wof:placetype":"venue",

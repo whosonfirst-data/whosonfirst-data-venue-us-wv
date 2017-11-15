@@ -2,14 +2,20 @@
   "id": 823376993,
   "type": "Feature",
   "properties": {
+    "addr:full":"309 10th St Fairmont WV 26554",
+    "addr:housenumber":"309",
+    "addr:postcode":"26554",
+    "addr:street":"10Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.151769,39.472194,-80.151769,39.472194",
     "geom:latitude":39.472194,
     "geom:longitude":-80.151769,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"309 10th St",
     "sg:city":"Fairmont",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082601,
         85821233
     ],
+    "wof:brand_id":1125150771,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qidRQhss6dSxHFW22zcMt_39.472194_-80.151769@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431506,
-    "wof:geomhash":"5865c408fbd06366e0053e778cb406c3",
+    "wof:geomhash":"21a0178c817f879838595cba6a5d16ca",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823376993,
-    "wof:lastmodified":1467090684,
+    "wof:lastmodified":1510698792,
     "wof:name":"Hairport",
     "wof:parent_id":85821233,
     "wof:placetype":"venue",

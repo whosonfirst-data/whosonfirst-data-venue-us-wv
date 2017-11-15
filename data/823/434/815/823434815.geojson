@@ -2,14 +2,20 @@
   "id": 823434815,
   "type": "Feature",
   "properties": {
+    "addr:full":"418 Main St Sophia WV 25921",
+    "addr:housenumber":"418",
+    "addr:postcode":"25921",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.249795,37.707635,-81.249795,37.707635",
     "geom:latitude":37.707635,
     "geom:longitude":-81.249795,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"418 Main St",
     "sg:city":"Sophia",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083349,
         85805185
     ],
+    "wof:brand_id":1125152701,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zK4njTkv12VnZr4yRI5fU_37.707635_-81.249795@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434118,
-    "wof:geomhash":"61eacf93e41641af0c0f141684e8b325",
+    "wof:geomhash":"6025df1ffdd956982c0d86304f78f890",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823434815,
-    "wof:lastmodified":1467090757,
+    "wof:lastmodified":1510697052,
     "wof:name":"China One",
     "wof:parent_id":85805185,
     "wof:placetype":"venue",

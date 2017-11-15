@@ -2,14 +2,20 @@
   "id": 823421047,
   "type": "Feature",
   "properties": {
+    "addr:full":"3601 Camden Ave Parkersburg WV 26101",
+    "addr:housenumber":"3601",
+    "addr:postcode":"26101",
+    "addr:street":"Camden Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.531505,39.247676,-81.531505,39.247676",
     "geom:latitude":39.247676,
     "geom:longitude":-81.531505,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3601 Camden Ave",
     "sg:city":"Parkersburg",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083343,
         85849931
     ],
+    "wof:brand_id":1125156237,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GlrPxIwIFZFfaOiLgGqZO_39.247676_-81.531505@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433507,
-    "wof:geomhash":"ec0a0d516ae2ee5b34009c2df22b0eaa",
+    "wof:geomhash":"bc64136a349be5502e444100b281b966",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823421047,
-    "wof:lastmodified":1467090740,
+    "wof:lastmodified":1510694065,
     "wof:name":"Four Seasons Sunrooms",
     "wof:parent_id":85849931,
     "wof:placetype":"venue",

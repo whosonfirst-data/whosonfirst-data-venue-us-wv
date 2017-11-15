@@ -2,14 +2,20 @@
   "id": 823452689,
   "type": "Feature",
   "properties": {
+    "addr:full":"3790 Hedgesville Rd Hedgesville WV 25427",
+    "addr:housenumber":"",
+    "addr:postcode":"3790;25427",
+    "addr:street":"Hedgesville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.983608,39.5369,-77.983608,39.5369",
     "geom:latitude":39.5369,
     "geom:longitude":-77.983608,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3790 Hedgesville Rd",
     "sg:city":"Hedgesville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         85846047,
         102083367
     ],
+    "wof:brand_id":1125153179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KWFtWmKxPIgVVN57fJGLN_39.536900_-77.983608@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434916,
-    "wof:geomhash":"dde8b949e06f3c425b85f938e40368ea",
+    "wof:geomhash":"c33ab70c4c1b8f2b00c51f8d808bc5aa",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823452689,
-    "wof:lastmodified":1467090780,
+    "wof:lastmodified":1510699297,
     "wof:name":"Sicilia's Pizzeria",
     "wof:parent_id":85846047,
     "wof:placetype":"venue",

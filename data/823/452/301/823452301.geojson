@@ -2,14 +2,20 @@
   "id": 823452301,
   "type": "Feature",
   "properties": {
+    "addr:full":"109 Courthouse Rd Princeton WV 24740",
+    "addr:housenumber":"109",
+    "addr:postcode":"24740",
+    "addr:street":"Courthouse Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.107103,37.359435,-81.107103,37.359435",
     "geom:latitude":37.359435,
     "geom:longitude":-81.107103,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"109 Courthouse Rd",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102082639,
         85813203
     ],
+    "wof:brand_id":1125153179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78ciIX8xTSybDk0fXchkp5_37.359435_-81.107103@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434902,
-    "wof:geomhash":"033a3e9a2f0fae2ee17914aad1af51ad",
+    "wof:geomhash":"b4f79fa05fe13884a603802df43c2221",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823452301,
-    "wof:lastmodified":1467090779,
+    "wof:lastmodified":1510699297,
     "wof:name":"Sicilia's Pizzeria",
     "wof:parent_id":85813203,
     "wof:placetype":"venue",

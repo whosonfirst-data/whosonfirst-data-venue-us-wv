@@ -2,14 +2,20 @@
   "id": 823453387,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 9th St Vienna WV 26105",
+    "addr:housenumber":"100",
+    "addr:postcode":"26105",
+    "addr:street":"9Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.554181,39.30847,-81.554181,39.30847",
     "geom:latitude":39.30847,
     "geom:longitude":-81.554181,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 9th St",
     "sg:city":"Vienna",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083343,
         85805293
     ],
+    "wof:brand_id":1125150011,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3L9WZ6GsLaeZ2C7O3vmDPu_39.308470_-81.554181@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434944,
-    "wof:geomhash":"87075522f4551adb906b411cf9b125f6",
+    "wof:geomhash":"cb9848dfbfea4a58352cb377aaf7cbea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823453387,
-    "wof:lastmodified":1467090781,
+    "wof:lastmodified":1510696622,
     "wof:name":"Logan's Roadhouse",
     "wof:parent_id":85805293,
     "wof:placetype":"venue",

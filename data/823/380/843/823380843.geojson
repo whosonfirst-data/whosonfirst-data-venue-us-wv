@@ -2,14 +2,20 @@
   "id": 823380843,
   "type": "Feature",
   "properties": {
+    "addr:full":"5711 Maccorkle Ave SE Charleston WV 25304",
+    "addr:housenumber":"5711",
+    "addr:postcode":"25304",
+    "addr:street":"Maccorkle Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.567224,38.313045,-81.567224,38.313045",
     "geom:latitude":38.313045,
     "geom:longitude":-81.567224,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5711 Maccorkle Ave SE",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083335,
         85845161
     ],
+    "wof:brand_id":1125152907,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JGOgIr7LhLHh0YcTOeQIl_38.313045_-81.567224@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431684,
-    "wof:geomhash":"ca9a1d0992c09e5afe24edbb8efce2fe",
+    "wof:geomhash":"f47da5e4427daa9d3d0fbe0f983ba703",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823380843,
-    "wof:lastmodified":1467090689,
+    "wof:lastmodified":1510695167,
     "wof:name":"Smoker Friendly",
     "wof:parent_id":85845161,
     "wof:placetype":"venue",

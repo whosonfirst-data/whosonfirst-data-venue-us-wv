@@ -2,14 +2,20 @@
   "id": 823372441,
   "type": "Feature",
   "properties": {
+    "addr:full":"3983 Teays Valley Rd Hurricane WV 25526",
+    "addr:housenumber":"3983",
+    "addr:postcode":"25526",
+    "addr:street":"Teays Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.939426,38.448826,-81.939426,38.448826",
     "geom:latitude":38.448826,
     "geom:longitude":-81.939426,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3983 Teays Valley Rd",
     "sg:city":"Hurricane",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083381,
         85868321
     ],
+    "wof:brand_id":1125156637,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lDKM6zzAphTmnCgOBF6vs_38.448826_-81.939426@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431301,
-    "wof:geomhash":"f3ff72747729cc6b31a70a802fc2a278",
+    "wof:geomhash":"1e75a99996b03411c6e3aa1ea0636c0c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823372441,
-    "wof:lastmodified":1467090679,
+    "wof:lastmodified":1510697172,
     "wof:name":"Rehabilitation Service",
     "wof:parent_id":85868321,
     "wof:placetype":"venue",

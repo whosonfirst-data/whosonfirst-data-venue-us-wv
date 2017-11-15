@@ -2,14 +2,20 @@
   "id": 823377867,
   "type": "Feature",
   "properties": {
+    "addr:full":"1271 Stafford Dr Princeton WV 24740",
+    "addr:housenumber":"1271",
+    "addr:postcode":"24740",
+    "addr:street":"Stafford Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.097207,37.362006,-81.097207,37.362006",
     "geom:latitude":37.362006,
     "geom:longitude":-81.097207,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1271 Stafford Dr",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082639,
         85813203
     ],
+    "wof:brand_id":1125150195,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kB6ePVQea6Ryi1rHZNc2Z_37.362006_-81.097207@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431549,
-    "wof:geomhash":"f43662e15534337ce9d4f142a6673337",
+    "wof:geomhash":"5d4ac29df106183fdd453559a4b8d246",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823377867,
-    "wof:lastmodified":1467090685,
+    "wof:lastmodified":1510694266,
     "wof:name":"American General Finance Corp",
     "wof:parent_id":85813203,
     "wof:placetype":"venue",

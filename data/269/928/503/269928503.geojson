@@ -2,14 +2,20 @@
   "id": 269928503,
   "type": "Feature",
   "properties": {
+    "addr:full":"316 Greene St Marietta OH 45750",
+    "addr:housenumber":"316",
+    "addr:postcode":"45750",
+    "addr:street":"Greene St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.448041,39.413001,-81.448041,39.413001",
     "geom:latitude":39.413001,
     "geom:longitude":-81.448041,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"316 Greene St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -37,12 +43,13 @@
         102083343,
         85824023
     ],
+    "wof:brand_id":1125159739,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NNYl9Nw4QAHGmv78LonvI_39.413001_-81.448041@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"9f75f8f27553aefee6176587953005d2",
+    "wof:geomhash":"8de0eaf0c212a43cc504a1ade46f914e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":269928503,
-    "wof:lastmodified":1467090669,
+    "wof:lastmodified":1510698014,
     "wof:name":"Valley National Gases Inc",
     "wof:parent_id":85824023,
     "wof:placetype":"venue",

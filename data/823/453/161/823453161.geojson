@@ -2,14 +2,20 @@
   "id": 823453161,
   "type": "Feature",
   "properties": {
+    "addr:full":"108 Jones Ave Oak Hill WV 25901",
+    "addr:housenumber":"108",
+    "addr:postcode":"25901",
+    "addr:street":"Jones Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.148648,37.972385,-81.148648,37.972385",
     "geom:latitude":37.972385,
     "geom:longitude":-81.148648,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"108 Jones Ave",
     "sg:city":"Oak Hill",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         85823987,
         102083359
     ],
+    "wof:brand_id":1125153179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lICyQC6EuZq3xt2NK0u7O_37.972385_-81.148648@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434936,
-    "wof:geomhash":"1c18e25d25751c7bd68e9e20744d04d5",
+    "wof:geomhash":"ba4065e4a4bd73c8c2baccaa64ad3943",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823453161,
-    "wof:lastmodified":1467090781,
+    "wof:lastmodified":1510699297,
     "wof:name":"Sicilia's Pizzeria",
     "wof:parent_id":85823987,
     "wof:placetype":"venue",

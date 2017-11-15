@@ -2,14 +2,20 @@
   "id": 823369937,
   "type": "Feature",
   "properties": {
+    "addr:full":"310 Capitol St Charleston WV 25301",
+    "addr:housenumber":"310",
+    "addr:postcode":"25301",
+    "addr:street":"Capitol St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.632225,38.351236,-81.632225,38.351236",
     "geom:latitude":38.351236,
     "geom:longitude":-81.632225,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"310 Capitol St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083335,
         85816783
     ],
+    "wof:brand_id":1125151859,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5t2h23Wm3yWlI3moJMA2JB_38.351236_-81.632225@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431166,
-    "wof:geomhash":"f0581c6d7934a46f54e8dfcd3f7d5159",
+    "wof:geomhash":"e727735927acc21ac8e8e5025638e865",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823369937,
-    "wof:lastmodified":1467090675,
+    "wof:lastmodified":1510696693,
     "wof:name":"Scottrade Inc",
     "wof:parent_id":85816783,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823374321,
   "type": "Feature",
   "properties": {
+    "addr:full":"1916 Jefferson St Bluefield WV 24701",
+    "addr:housenumber":"1916",
+    "addr:postcode":"24701",
+    "addr:street":"Jefferson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.219083,37.255984,-81.219083,37.255984",
     "geom:latitude":37.255984,
     "geom:longitude":-81.219083,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1916 Jefferson St",
     "sg:city":"Bluefield",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102082639,
         85849473
     ],
+    "wof:brand_id":420575691,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qeqDTc40GqbQjLM16QNmT_37.255984_-81.219083@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431371,
-    "wof:geomhash":"c40e2b0c7b854e69e80ebc2e7110f6f8",
+    "wof:geomhash":"44753a5def66b92893d4b86fd714c908",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823374321,
-    "wof:lastmodified":1467090681,
+    "wof:lastmodified":1510602691,
     "wof:name":"Mothers Against Drunk Driving",
     "wof:parent_id":85849473,
     "wof:placetype":"venue",

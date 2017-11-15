@@ -2,14 +2,20 @@
   "id": 823453761,
   "type": "Feature",
   "properties": {
+    "addr:full":"550 Suncrest Town Centre Dr Morgantown WV 26505",
+    "addr:housenumber":"550",
+    "addr:postcode":"26505",
+    "addr:street":"Suncrest Town Centre Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.965686,39.657698,-79.965686,39.657698",
     "geom:latitude":39.657698,
     "geom:longitude":-79.965686,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"550 Suncrest Town Centre Dr",
     "sg:city":"Morgantown",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         85852025,
         102082587
     ],
+    "wof:brand_id":1125154983,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1coIWuk8aONd249BuV5BBC_39.657698_-79.965686@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434960,
-    "wof:geomhash":"a47aef43bd1270b27534ea003ae52bd5",
+    "wof:geomhash":"62e88afed6dd61b5fec34e717c47fd4c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823453761,
-    "wof:lastmodified":1467090781,
+    "wof:lastmodified":1510695873,
     "wof:name":"Damon's Grill",
     "wof:parent_id":85852025,
     "wof:placetype":"venue",

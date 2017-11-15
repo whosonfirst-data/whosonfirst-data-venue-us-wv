@@ -2,14 +2,20 @@
   "id": 823369813,
   "type": "Feature",
   "properties": {
+    "addr:full":"460 N Mercer St Bluefield WV 24701",
+    "addr:housenumber":"460",
+    "addr:postcode":"24701",
+    "addr:street":"N Mercer St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.226726,37.272821,-81.226726,37.272821",
     "geom:latitude":37.272821,
     "geom:longitude":-81.226726,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"460 N Mercer St",
     "sg:city":"Bluefield",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102082639,
         85849473
     ],
+    "wof:brand_id":1125151109,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CXeAIaBCUXzKuDOAP9cA3_37.272821_-81.226726@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431162,
-    "wof:geomhash":"53abd78bdc5e646ba5d99c1fe544e80d",
+    "wof:geomhash":"e1d8ac4a401a2dbc701ac68b598f6b11",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823369813,
-    "wof:lastmodified":1467090675,
+    "wof:lastmodified":1510697586,
     "wof:name":"Great American Cookie Co",
     "wof:parent_id":85849473,
     "wof:placetype":"venue",

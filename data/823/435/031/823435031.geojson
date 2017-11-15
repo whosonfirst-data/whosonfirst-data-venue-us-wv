@@ -2,14 +2,20 @@
   "id": 823435031,
   "type": "Feature",
   "properties": {
+    "addr:full":"1047 Stafford Dr Princeton WV 24740",
+    "addr:housenumber":"1047",
+    "addr:postcode":"24740",
+    "addr:street":"Stafford Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.092419,37.36453,-81.092419,37.36453",
     "geom:latitude":37.36453,
     "geom:longitude":-81.092419,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1047 Stafford Dr",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102082639,
         85813203
     ],
+    "wof:brand_id":1125151091,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4agmkvqPK3c4e6MPw7CuN4_37.364530_-81.092419@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434129,
-    "wof:geomhash":"221fab4513cacd886856f5be4e2acdc6",
+    "wof:geomhash":"f899e441d4e21bce8f8a20d6cc0b8ca7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823435031,
-    "wof:lastmodified":1467090757,
+    "wof:lastmodified":1510699976,
     "wof:name":"Southern States Cooperative",
     "wof:parent_id":85813203,
     "wof:placetype":"venue",

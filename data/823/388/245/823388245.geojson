@@ -2,14 +2,20 @@
   "id": 823388245,
   "type": "Feature",
   "properties": {
+    "addr:full":"650 Beechurst Ave Morgantown WV 26505",
+    "addr:housenumber":"650",
+    "addr:postcode":"26505",
+    "addr:street":"Beechurst Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.961878,39.641506,-79.961878,39.641506",
     "geom:latitude":39.641506,
     "geom:longitude":-79.961878,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"650 Beechurst Ave",
     "sg:city":"Morgantown",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082587,
         85847767
     ],
+    "wof:brand_id":1125152741,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QKb9JzHrDMdWNljyEyky0_39.641506_-79.961878@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431982,
-    "wof:geomhash":"d7af19fdcdd1f522d9d88bd8c1d1141d",
+    "wof:geomhash":"3276f4cfed2c624b1661684f96f8397b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823388245,
-    "wof:lastmodified":1467090699,
+    "wof:lastmodified":1510613104,
     "wof:name":"Speedway Superamerica LLC",
     "wof:parent_id":85847767,
     "wof:placetype":"venue",

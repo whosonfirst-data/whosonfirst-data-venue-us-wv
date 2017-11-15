@@ -2,14 +2,20 @@
   "id": 823433155,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Market Dr Charleston WV 25302",
+    "addr:housenumber":"300",
+    "addr:postcode":"25302",
+    "addr:street":"Market Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.631396,38.362133,-81.631396,38.362133",
     "geom:latitude":38.362133,
     "geom:longitude":-81.631396,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 Market Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083335,
         85856363
     ],
+    "wof:brand_id":1125152207,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6X0QU8KX7Tf2yjvFspo6n4_38.362133_-81.631396@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434025,
-    "wof:geomhash":"a8ff8800719821216e725e7e7ad1e921",
+    "wof:geomhash":"807c585ef2c28d100f8c305cf4a0cac0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823433155,
-    "wof:lastmodified":1467090755,
+    "wof:lastmodified":1510695057,
     "wof:name":"Goody's Family Clothing",
     "wof:parent_id":85856363,
     "wof:placetype":"venue",

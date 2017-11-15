@@ -2,14 +2,20 @@
   "id": 823425317,
   "type": "Feature",
   "properties": {
+    "addr:full":"447 Palmer Ave Logan WV 25601",
+    "addr:housenumber":"447",
+    "addr:postcode":"25601",
+    "addr:street":"Palmer Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.974639,37.914703,-81.974639,37.914703",
     "geom:latitude":37.914703,
     "geom:longitude":-81.974639,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"447 Palmer Ave",
     "sg:city":"Logan",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85868319,
         102083369
     ],
+    "wof:brand_id":420575551,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ufGQQPYE0YWEDaXug0ORR_37.914703_-81.974639@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433672,
-    "wof:geomhash":"554102ecde3daa577c3567b00301f651",
+    "wof:geomhash":"1d3d16d3e07747f81262527a7efb6673",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":823425317,
-    "wof:lastmodified":1467090745,
+    "wof:lastmodified":1510602968,
     "wof:name":"Aerus Electrolux",
     "wof:parent_id":85868319,
     "wof:placetype":"venue",

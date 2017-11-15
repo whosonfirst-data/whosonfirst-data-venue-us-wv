@@ -2,14 +2,20 @@
   "id": 823414389,
   "type": "Feature",
   "properties": {
+    "addr:full":"1115 Courtland Rd Weirton WV 26062",
+    "addr:housenumber":"1115",
+    "addr:postcode":"26062",
+    "addr:street":"Courtland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.607173,40.394969,-80.607173,40.394969",
     "geom:latitude":40.394969,
     "geom:longitude":-80.607173,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1115 Courtland Rd",
     "sg:city":"Weirton",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082633,
         85832497
     ],
+    "wof:brand_id":1125151313,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1E0f5EELOxj5eJGOhKq7Eh_40.394969_-80.607173@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433201,
-    "wof:geomhash":"2b5e176f7ca5c0e1790e6cb445f726e9",
+    "wof:geomhash":"6f06802e8fd5d64e9085b1d13d3f7f8c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823414389,
-    "wof:lastmodified":1467090732,
+    "wof:lastmodified":1510696943,
     "wof:name":"Lesco Service Ctr",
     "wof:parent_id":85832497,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823403719,
   "type": "Feature",
   "properties": {
+    "addr:full":"122 Windsor Ct Fayetteville WV 25832",
+    "addr:housenumber":"122",
+    "addr:postcode":"25832",
+    "addr:street":"Windsor Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.132822,37.736964,-81.132822,37.736964",
     "geom:latitude":37.736964,
     "geom:longitude":-81.132822,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"122 Windsor Ct",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083349,
         85805185
     ],
+    "wof:brand_id":1125151001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ff1rrHVLw1XLKLGktIXfQ_37.736964_-81.132822@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463432740,
-    "wof:geomhash":"e85e1e1f78842f5a81e6d8670f71bd12",
+    "wof:geomhash":"603310e52678af4f2f33b00b181dcbec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823403719,
-    "wof:lastmodified":1467090718,
+    "wof:lastmodified":1510695765,
     "wof:name":"Beauti Control Cosmetics Inc",
     "wof:parent_id":85805185,
     "wof:placetype":"venue",

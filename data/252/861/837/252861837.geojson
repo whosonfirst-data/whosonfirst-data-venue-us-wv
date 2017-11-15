@@ -2,6 +2,10 @@
   "id": 252861837,
   "type": "Feature",
   "properties": {
+    "addr:full":"617 Twp Rd 1233 Proctorville OH 45669",
+    "addr:housenumber":"617;1233",
+    "addr:postcode":"45669",
+    "addr:street":"Twp Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":252861837,
-    "wof:lastmodified":1467090668,
+    "wof:lastmodified":1472655005,
     "wof:name":"J H Systems Inc",
     "wof:parent_id":85868299,
     "wof:placetype":"venue",

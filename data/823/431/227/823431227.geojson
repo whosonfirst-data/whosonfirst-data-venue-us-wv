@@ -2,14 +2,20 @@
   "id": 823431227,
   "type": "Feature",
   "properties": {
+    "addr:full":"32 New Hope Rd Princeton WV 24740",
+    "addr:housenumber":"32",
+    "addr:postcode":"24740",
+    "addr:street":"New Hope Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.113006,37.366557,-81.113006,37.366557",
     "geom:latitude":37.366557,
     "geom:longitude":-81.113006,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"32 New Hope Rd",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082639,
         85813203
     ],
+    "wof:brand_id":420575097,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3usfvKiUdxVAPMnFJqos01_37.366557_-81.113006@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433928,
-    "wof:geomhash":"7d3d7375a50ef353576e9cb03eea1695",
+    "wof:geomhash":"446f5e9e9b2700d280349dbdb5c98581",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823431227,
-    "wof:lastmodified":1467090752,
+    "wof:lastmodified":1510602919,
     "wof:name":"Laboratory Corporation America",
     "wof:parent_id":85813203,
     "wof:placetype":"venue",

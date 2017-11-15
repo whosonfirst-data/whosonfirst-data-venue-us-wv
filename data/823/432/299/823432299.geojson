@@ -2,14 +2,20 @@
   "id": 823432299,
   "type": "Feature",
   "properties": {
+    "addr:full":"4768 Chimney Dr Charleston WV 25302",
+    "addr:housenumber":"4768",
+    "addr:postcode":"25302",
+    "addr:street":"Chimney Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.533585,38.405052,-81.533585,38.405052",
     "geom:latitude":38.405052,
     "geom:longitude":-81.533585,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4768 Chimney Dr",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083335,
         85806307
     ],
+    "wof:brand_id":1125153635,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3c39oKdhvsdR7o60rd18xc_38.405052_-81.533585@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433979,
-    "wof:geomhash":"5808c096b92f294be989475dc7ae462d",
+    "wof:geomhash":"ac627b2db0dd6632b99ecdc0d1775d73",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823432299,
-    "wof:lastmodified":1467090754,
+    "wof:lastmodified":1510695774,
     "wof:name":"Otis Elevator Co",
     "wof:parent_id":85806307,
     "wof:placetype":"venue",

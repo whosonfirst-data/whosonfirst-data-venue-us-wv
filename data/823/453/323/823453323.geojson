@@ -2,14 +2,20 @@
   "id": 823453323,
   "type": "Feature",
   "properties": {
+    "addr:full":"2900 Pike St Parkersburg WV 26101",
+    "addr:housenumber":"2900",
+    "addr:postcode":"26101",
+    "addr:street":"Pike St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.541652,39.224968,-81.541652,39.224968",
     "geom:latitude":39.224968,
     "geom:longitude":-81.541652,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2900 Pike St",
     "sg:city":"Parkersburg",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102083343,
         85849931
     ],
+    "wof:brand_id":1125153179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5n0Lk9ADDzF3IQBclxCK7W_39.224968_-81.541652@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434942,
-    "wof:geomhash":"54a1c48a4508791d63636a95f89d8b7d",
+    "wof:geomhash":"a690d3abcaf6bcd0d0221c98a87a8ef4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823453323,
-    "wof:lastmodified":1467090781,
+    "wof:lastmodified":1510699296,
     "wof:name":"Sicilia's Pizzeria",
     "wof:parent_id":85849931,
     "wof:placetype":"venue",

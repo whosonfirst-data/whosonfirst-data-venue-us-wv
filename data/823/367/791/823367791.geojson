@@ -2,14 +2,20 @@
   "id": 823367791,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 S George St Charles Town WV 25414",
+    "addr:housenumber":"311",
+    "addr:postcode":"25414",
+    "addr:street":"S George St Charles Town",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.858892,39.287436,-77.858892,39.287436",
     "geom:latitude":39.287436,
     "geom:longitude":-77.858892,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"311 S George St",
     "sg:city":"Charles Town",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102082647,
         85807793
     ],
+    "wof:brand_id":1125155993,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SXaBp8TFv78eDOimYT0tD_39.287436_-77.858892@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431085,
-    "wof:geomhash":"31745377a6151f043af1e84d13d8ca2c",
+    "wof:geomhash":"42c1f0ee879892656c0c5a5e6993289c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823367791,
-    "wof:lastmodified":1467090673,
+    "wof:lastmodified":1510694033,
     "wof:name":"St James Catholic Church",
     "wof:parent_id":85807793,
     "wof:placetype":"venue",

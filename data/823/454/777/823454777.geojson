@@ -2,14 +2,20 @@
   "id": 823454777,
   "type": "Feature",
   "properties": {
+    "addr:full":"930 Foxcroft Ave Martinsburg WV 25401",
+    "addr:housenumber":"930",
+    "addr:postcode":"25401",
+    "addr:street":"Foxcroft Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.986441,39.447256,-77.986441,39.447256",
     "geom:latitude":39.447256,
     "geom:longitude":-77.986441,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"930 Foxcroft Ave",
     "sg:city":"Martinsburg",
     "sg:classifiers":[
@@ -48,13 +54,14 @@
         102083367,
         85806921
     ],
+    "wof:brand_id":1125152903,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Cxf8xq1LzUoDvMDQEo0wb_39.447256_-77.986441@1303262553"
     },
     "wof:country":"US",
     "wof:created":1463435051,
-    "wof:geomhash":"1f904c48b31e58b6f4ab356f20d2c956",
+    "wof:geomhash":"f0922486bcafa32fae0093ad11d396c4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -66,7 +73,7 @@
         }
     ],
     "wof:id":823454777,
-    "wof:lastmodified":1467090783,
+    "wof:lastmodified":1510695169,
     "wof:name":"Quiznos Classic Subs",
     "wof:parent_id":85806921,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823452773,
   "type": "Feature",
   "properties": {
+    "addr:full":"3099 Washington Ave Hurricane WV 25526",
+    "addr:housenumber":"3099",
+    "addr:postcode":"25526",
+    "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.020118,38.436372,-82.020118,38.436372",
     "geom:latitude":38.436372,
     "geom:longitude":-82.020118,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3099 Washington Ave",
     "sg:city":"Hurricane",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102083381,
         85868321
     ],
+    "wof:brand_id":1125153179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1o8Ld60X3bFdq906z2lFfD_38.436372_-82.020118@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463434920,
-    "wof:geomhash":"012268768be2605c227732fe5b0776d9",
+    "wof:geomhash":"e5e0c45795449ac8118806e32ee77511",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823452773,
-    "wof:lastmodified":1467090780,
+    "wof:lastmodified":1510699297,
     "wof:name":"Sicilia's Pizzeria",
     "wof:parent_id":85868321,
     "wof:placetype":"venue",

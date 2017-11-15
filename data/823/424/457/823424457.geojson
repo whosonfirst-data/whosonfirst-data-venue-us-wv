@@ -2,14 +2,20 @@
   "id": 823424457,
   "type": "Feature",
   "properties": {
+    "addr:full":"874 Fairmont Rd Morgantown WV 26501",
+    "addr:housenumber":"874",
+    "addr:postcode":"26501",
+    "addr:street":"Fairmont Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.983879,39.631416,-79.983879,39.631416",
     "geom:latitude":39.631416,
     "geom:longitude":-79.983879,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"874 Fairmont Rd",
     "sg:city":"Morgantown",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85818601,
         102082587
     ],
+    "wof:brand_id":420575687,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XJnxxwo0AQRLwCibSG4k4_39.631416_-79.983879@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433639,
-    "wof:geomhash":"0264a6ad9891b217dfa3dc5389bd7dc8",
+    "wof:geomhash":"1f5e75b826fe239962997eab23539097",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":823424457,
-    "wof:lastmodified":1467090744,
+    "wof:lastmodified":1510602539,
     "wof:name":"Lovely Nails",
     "wof:parent_id":85818601,
     "wof:placetype":"venue",

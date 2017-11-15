@@ -2,14 +2,20 @@
   "id": 823437787,
   "type": "Feature",
   "properties": {
+    "addr:full":"801 Lincoln Dr South Charleston WV 25309",
+    "addr:housenumber":"801",
+    "addr:postcode":"25309",
+    "addr:street":"Lincoln Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.740806,38.349824,-81.740806,38.349824",
     "geom:latitude":38.349824,
     "geom:longitude":-81.740806,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"801 Lincoln Dr",
     "sg:city":"South Charleston",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083335,
         85837449
     ],
+    "wof:brand_id":1125158611,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WKOy7nk7gzk2NnOEAmBUV_38.349824_-81.740806@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434271,
-    "wof:geomhash":"eaafb0a646231ac53d389d9396ac75de",
+    "wof:geomhash":"a7a39dbe357e7381db45415ea5d8dbaa",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823437787,
-    "wof:lastmodified":1467090761,
+    "wof:lastmodified":1510697762,
     "wof:name":"Putt Putt Golf & Games",
     "wof:parent_id":85837449,
     "wof:placetype":"venue",

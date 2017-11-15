@@ -2,14 +2,20 @@
   "id": 823386219,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 Main St Logan WV 25601",
+    "addr:housenumber":"220",
+    "addr:postcode":"25601",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.993173,37.847259,-81.993173,37.847259",
     "geom:latitude":37.847259,
     "geom:longitude":-81.993173,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"220 Main St",
     "sg:city":"Logan",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85868319,
         102083369
     ],
+    "wof:brand_id":1125154903,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YYRWXb1V8CjLKIx5WagQ7_37.847259_-81.993173@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431898,
-    "wof:geomhash":"2a1576baa91412e898f269e550e7c238",
+    "wof:geomhash":"e30bdb9ac39b787632d3ee3f38c38ba9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":823386219,
-    "wof:lastmodified":1467090696,
+    "wof:lastmodified":1510697535,
     "wof:name":"Massachusetts Mutual-Blue Chip",
     "wof:parent_id":85868319,
     "wof:placetype":"venue",

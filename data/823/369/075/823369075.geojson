@@ -2,14 +2,20 @@
   "id": 823369075,
   "type": "Feature",
   "properties": {
+    "addr:full":"81 Bridge Street Plz Wheeling WV 26003",
+    "addr:housenumber":"81",
+    "addr:postcode":"26003",
+    "addr:street":"Bridge Street Plz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.662593,40.041466,-80.662593,40.041466",
     "geom:latitude":40.041466,
     "geom:longitude":-80.662593,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"81 Bridge Street Plz",
     "sg:city":"Wheeling",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102082621,
         85840717
     ],
+    "wof:brand_id":1125151885,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Z3NRThboNTP7DlWxTdvnu_40.041466_-80.662593@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431136,
-    "wof:geomhash":"edb07e40ae13f8cfef528593c503a543",
+    "wof:geomhash":"45593aeb0b5c39bc60ac94a3157dbc73",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823369075,
-    "wof:lastmodified":1467090674,
+    "wof:lastmodified":1510613116,
     "wof:name":"Fiesta Hair & Tanning",
     "wof:parent_id":85840717,
     "wof:placetype":"venue",

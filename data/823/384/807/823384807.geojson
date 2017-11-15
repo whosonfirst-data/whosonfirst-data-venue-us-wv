@@ -2,14 +2,20 @@
   "id": 823384807,
   "type": "Feature",
   "properties": {
+    "addr:full":"314 Oakvale Rd Princeton WV 24740",
+    "addr:housenumber":"314",
+    "addr:postcode":"24740",
+    "addr:street":"Oakvale Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.06919,37.365242,-81.06919,37.365242",
     "geom:latitude":37.365242,
     "geom:longitude":-81.06919,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"314 Oakvale Rd",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082639,
         85813203
     ],
+    "wof:brand_id":1125155157,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AaCURpwRoqzfZAKTpHN16_37.365242_-81.069190@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431843,
-    "wof:geomhash":"3d6883849e4e8e5d138892d1fb7277d1",
+    "wof:geomhash":"230bcde338211bb5b44237ed9436ee43",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823384807,
-    "wof:lastmodified":1467090694,
+    "wof:lastmodified":1510697623,
     "wof:name":"Maranatha Baptist Church",
     "wof:parent_id":85813203,
     "wof:placetype":"venue",

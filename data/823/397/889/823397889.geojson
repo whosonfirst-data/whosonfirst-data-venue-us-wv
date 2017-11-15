@@ -2,14 +2,20 @@
   "id": 823397889,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 Lebanon Ln Beckley WV 25801",
+    "addr:housenumber":"111",
+    "addr:postcode":"25801",
+    "addr:street":"Lebanon Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.186647,37.776256,-81.186647,37.776256",
     "geom:latitude":37.776256,
     "geom:longitude":-81.186647,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"111 Lebanon Ln",
     "sg:city":"Beckley",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083349,
         85805185
     ],
+    "wof:brand_id":420575201,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kvWCzZf59OM2lBVfyDh88_37.776256_-81.186647@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463432477,
-    "wof:geomhash":"2bbba6850998f8b002ab1c6d250a5993",
+    "wof:geomhash":"5037f60e5f4664341a5e31434f255d5e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823397889,
-    "wof:lastmodified":1467090711,
+    "wof:lastmodified":1510602698,
     "wof:name":"Consumer Credit Counseling Svc",
     "wof:parent_id":85805185,
     "wof:placetype":"venue",

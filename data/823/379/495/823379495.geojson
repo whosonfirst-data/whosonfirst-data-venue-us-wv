@@ -2,14 +2,20 @@
   "id": 823379495,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 Federal St Bluefield WV 24701",
+    "addr:housenumber":"401",
+    "addr:postcode":"24701",
+    "addr:street":"Federal St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.222055,37.268614,-81.222055,37.268614",
     "geom:latitude":37.268614,
     "geom:longitude":-81.222055,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"401 Federal St",
     "sg:city":"Bluefield",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102082639,
         85849473
     ],
+    "wof:brand_id":1125151231,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HH1PEVuw5Pr428UknSdXv_37.268614_-81.222055@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431619,
-    "wof:geomhash":"ad4cf8eb8c4e443f620bce91ee20acb7",
+    "wof:geomhash":"3e750a229402169e9b4c0ecf06c630ce",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823379495,
-    "wof:lastmodified":1467090687,
+    "wof:lastmodified":1510694073,
     "wof:name":"Otis Elevator Company",
     "wof:parent_id":85849473,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823428937,
   "type": "Feature",
   "properties": {
+    "addr:full":"4000 Murdoch Ave Parkersburg WV 26105",
+    "addr:housenumber":"4000",
+    "addr:postcode":"26105",
+    "addr:street":"Murdoch Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.548318,39.300611,-81.548318,39.300611",
     "geom:latitude":39.300611,
     "geom:longitude":-81.548318,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4000 Murdoch Ave",
     "sg:city":"Parkersburg",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083343,
         85805293
     ],
+    "wof:brand_id":420575315,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YjM5eBrhPPvsEuNFTxnVv_39.300611_-81.548318@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433836,
-    "wof:geomhash":"865606b5a04ddcb70ac838a0a3fe2be5",
+    "wof:geomhash":"92da0d5ce09f631fb1a68c5ac3ce2539",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823428937,
-    "wof:lastmodified":1467090750,
+    "wof:lastmodified":1510602477,
     "wof:name":"T J Maxx",
     "wof:parent_id":85805293,
     "wof:placetype":"venue",

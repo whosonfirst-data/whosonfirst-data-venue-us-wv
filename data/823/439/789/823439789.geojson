@@ -2,14 +2,20 @@
   "id": 823439789,
   "type": "Feature",
   "properties": {
+    "addr:full":"3419 Norwood Rd Huntington WV 25705",
+    "addr:housenumber":"3419",
+    "addr:postcode":"25705",
+    "addr:street":"Norwood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.387336,38.395996,-82.387336,38.395996",
     "geom:latitude":38.395996,
     "geom:longitude":-82.387336,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3419 Norwood Rd",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083329,
         85868301
     ],
+    "wof:brand_id":1125150879,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ySJLBl1oDu3P0s82qtx6g_38.395996_-82.387336@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434357,
-    "wof:geomhash":"81caae4618bdb10d83342fce7794ec34",
+    "wof:geomhash":"adda0e5f625f44d08ac3aa0b91bade30",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823439789,
-    "wof:lastmodified":1467090764,
+    "wof:lastmodified":1510613216,
     "wof:name":"Service Master",
     "wof:parent_id":85868301,
     "wof:placetype":"venue",

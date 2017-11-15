@@ -2,14 +2,20 @@
   "id": 823375549,
   "type": "Feature",
   "properties": {
+    "addr:full":"148 Stollings Ave Logan WV 25601",
+    "addr:housenumber":"148",
+    "addr:postcode":"25601",
+    "addr:street":"Stollings Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.966093,37.840856,-81.966093,37.840856",
     "geom:latitude":37.840856,
     "geom:longitude":-81.966093,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"148 Stollings Ave",
     "sg:city":"Logan",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85868319,
         102083369
     ],
+    "wof:brand_id":420574549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4A9LFqoFsMgHJUFeGViXuh_37.840856_-81.966093@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431439,
-    "wof:geomhash":"36e7b38c72098df1da807a4c861587b0",
+    "wof:geomhash":"7c071f5d79662ecf95091afcc657a799",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":823375549,
-    "wof:lastmodified":1467090683,
+    "wof:lastmodified":1510604090,
     "wof:name":"Blimpie Subs & Salads",
     "wof:parent_id":85868319,
     "wof:placetype":"venue",
