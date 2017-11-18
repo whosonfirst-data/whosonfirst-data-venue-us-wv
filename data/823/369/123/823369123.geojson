@@ -7,13 +7,16 @@
     "addr:postcode":"25801",
     "addr:street":"Robert C Byrd Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.185103,37.807176,-81.185103,37.807176",
     "geom:latitude":37.807176,
     "geom:longitude":-81.185103,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4072 Robert C Byrd Dr",
     "sg:city":"Beckley",
     "sg:classifiers":[
@@ -41,11 +44,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":343974611,
         "sg:id":"SG_3dGhvjmsZjPJXkX2fZYjdJ_37.807176_-81.185103@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431137,
-    "wof:geomhash":"cc86b2d9ea7109d4f142f66f6aa622a4",
+    "wof:geomhash":"76e2930a32d49fc34f3686979c953b41",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +62,17 @@
         }
     ],
     "wof:id":823369123,
-    "wof:lastmodified":1472655011,
+    "wof:lastmodified":1510943751,
     "wof:name":"McDonalds",
     "wof:parent_id":85805185,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wv",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        823453019
+    ],
+    "wof:supersedes":[
+        823453019
+    ],
     "wof:tags":[
         "eating"
     ]

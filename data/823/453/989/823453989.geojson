@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.615765,38.340079,-81.615765,38.340079",
     "geom:latitude":38.340079,
     "geom:longitude":-81.615765,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1631 Washington St E",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1463434990,
-    "wof:geomhash":"9a3aad6bf2881478fec9b21998c0e3f4",
+    "wof:geomhash":"6dbdb8d87c4988e5bd4b7b5cc8c8a852",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":823453989,
-    "wof:lastmodified":1472655172,
+    "wof:lastmodified":1510942219,
     "wof:name":"Domino's Pizza",
     "wof:parent_id":85850023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823454511
+    ],
     "wof:tags":[
         "american",
         "wing",

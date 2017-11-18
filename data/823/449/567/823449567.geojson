@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.63189,38.351544,-81.63189,38.351544",
     "geom:latitude":38.351544,
     "geom:longitude":-81.63189,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"405 Capitol St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463434801,
-    "wof:geomhash":"4d711ca66d7a9e027c8d1fe8d11e79d5",
+    "wof:geomhash":"7db1d6f2cb15f0816b619b0e619fe4bb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":823449567,
-    "wof:lastmodified":1472655164,
+    "wof:lastmodified":1510943280,
     "wof:name":"Rowland Land Co LTD",
     "wof:parent_id":85816783,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823440517
+    ],
     "wof:tags":[
         "company",
         "land"

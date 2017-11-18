@@ -7,13 +7,16 @@
     "addr:postcode":"26505",
     "addr:street":"Van Voorhis Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.963418,39.656011,-79.963418,39.656011",
     "geom:latitude":39.656011,
     "geom:longitude":-79.963418,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1137 Van Voorhis Rd",
     "sg:city":"Morgantown",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"US",
     "wof:created":1463435154,
-    "wof:geomhash":"b7e7b3fcc736b0b3aad4897ce96af9f0",
+    "wof:geomhash":"641544f02e4ebf24e2ba2478d45cec7c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":823457311,
-    "wof:lastmodified":1472655144,
+    "wof:lastmodified":1510944089,
     "wof:name":"Kassar's Food & Gifts",
     "wof:parent_id":85852025,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823453717
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

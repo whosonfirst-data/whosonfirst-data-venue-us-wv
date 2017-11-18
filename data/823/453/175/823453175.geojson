@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.133214,37.991214,-81.133214,37.991214",
     "geom:latitude":37.991214,
     "geom:longitude":-81.133214,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1552 Main St E",
     "sg:city":"Oak Hill",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1463434937,
-    "wof:geomhash":"9fe66d4d75a250715548c4083d36785c",
+    "wof:geomhash":"e22a9142234f3864f1a64b9e333e7207",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":823453175,
-    "wof:lastmodified":1472655127,
+    "wof:lastmodified":1510942166,
     "wof:name":"McDonald's",
     "wof:parent_id":85823987,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823368219
+    ],
     "wof:tags":[
         "burger",
         "american"

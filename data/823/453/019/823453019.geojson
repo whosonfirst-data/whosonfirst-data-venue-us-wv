@@ -7,13 +7,16 @@
     "addr:postcode":"25801",
     "addr:street":"Robert C Byrd Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.185402,37.809613,-81.185402,37.809613",
     "geom:latitude":37.809613,
     "geom:longitude":-81.185402,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4072 Robert C Byrd Dr",
     "sg:city":"Beckley",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1463434930,
-    "wof:geomhash":"71f044d74b4698f1160310f519e943de",
+    "wof:geomhash":"3e468f4f835e7571e841b98d1f4c9b12",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +62,17 @@
         }
     ],
     "wof:id":823453019,
-    "wof:lastmodified":1472655120,
+    "wof:lastmodified":1510943751,
     "wof:name":"McDonald's",
     "wof:parent_id":85805185,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wv",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        823369123
+    ],
+    "wof:supersedes":[
+        823369123
+    ],
     "wof:tags":[
         "burger",
         "american"

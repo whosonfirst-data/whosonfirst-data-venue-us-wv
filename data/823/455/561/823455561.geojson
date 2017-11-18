@@ -7,13 +7,16 @@
     "addr:postcode":"25428",
     "addr:street":"Sader Dr Ste 3",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.038651,39.36264,-78.038651,39.36264",
     "geom:latitude":39.36264,
     "geom:longitude":-78.038651,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"119 Sader Dr Ste 3",
     "sg:city":"Inwood",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1463435080,
-    "wof:geomhash":"4113fa18d4d985a1e4864afd0ca6019f",
+    "wof:geomhash":"335ea413408630a9149d7694c1a6cc76",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":823455561,
-    "wof:lastmodified":1472655162,
+    "wof:lastmodified":1510941304,
     "wof:name":"Illusions",
     "wof:parent_id":85806921,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823455725
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

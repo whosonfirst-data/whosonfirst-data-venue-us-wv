@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.529839,40.393559,-80.529839,40.393559",
     "geom:latitude":40.393559,
     "geom:longitude":-80.529839,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"601 Colliers Way",
     "sg:city":"Weirton",
     "sg:classifiers":[
@@ -53,11 +55,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":463309395,
         "sg:id":"SG_5XMxTVZcqWwh81XrvmHXRc_40.393559_-80.529839@1303262554"
     },
     "wof:country":"US",
     "wof:created":1463435123,
-    "wof:geomhash":"808ae8747d933be730d18d308279a846",
+    "wof:geomhash":"c7483e2059bdcbd6c85739bec88b48ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,13 +73,15 @@
         }
     ],
     "wof:id":823456759,
-    "wof:lastmodified":1472655170,
+    "wof:lastmodified":1510944127,
     "wof:name":"Weirton Medical Center",
     "wof:parent_id":85854989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823409023
+    ],
     "wof:tags":[
         "medical",
         "surgery"

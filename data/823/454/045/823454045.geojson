@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.485995,38.411386,-82.485995,38.411386",
     "geom:latitude":38.411386,
     "geom:longitude":-82.485995,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1701 Washington Ave",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1463434992,
-    "wof:geomhash":"7ae361c3466e1cf0a415409058f73121",
+    "wof:geomhash":"51771c7abcc4987298b5876613a4439b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":823454045,
-    "wof:lastmodified":1472655124,
+    "wof:lastmodified":1510943893,
     "wof:name":"Hardee's",
     "wof:parent_id":85855709,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823420803
+    ],
     "wof:tags":[
         "burger",
         "american"

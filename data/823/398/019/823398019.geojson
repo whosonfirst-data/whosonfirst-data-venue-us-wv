@@ -7,6 +7,7 @@
     "addr:postcode":"25015",
     "addr:street":"E Dupont Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-81.502184,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2700 E Dupont Ave",
     "sg:city":"Belle",
     "sg:classifiers":[
@@ -56,12 +57,14 @@
         }
     ],
     "wof:id":823398019,
-    "wof:lastmodified":1510699917,
+    "wof:lastmodified":1510941650,
     "wof:name":"Shoney's",
     "wof:parent_id":85845161,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823419115
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
