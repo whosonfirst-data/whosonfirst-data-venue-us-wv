@@ -14,6 +14,7 @@
     "geom:longitude":-78.967854,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"204 Washington St",
     "sg:city":"Moorefield",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1463431273,
-    "wof:geomhash":"0690f3d1276dd68e087614d3aacf0f2e",
+    "wof:geomhash":"c71f768ba11242d6ce9e0674619e9103",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +57,15 @@
         }
     ],
     "wof:id":823371743,
-    "wof:lastmodified":1472655044,
+    "wof:lastmodified":1534535366,
     "wof:name":"Hardy County Clerk's Office",
     "wof:parent_id":85851815,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823389595
+    ],
     "wof:tags":[
         "county"
     ]

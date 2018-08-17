@@ -7,6 +7,7 @@
     "addr:postcode":"26301",
     "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.338755,39.27917,-80.338755,39.27917",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.338755,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"222 W Main St",
     "sg:city":"Clarksburg",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463433414,
-    "wof:geomhash":"a932fe56843aa384f4e276cd5ab0c277",
+    "wof:geomhash":"b8049b31495a709118eb2619546847d2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":823418697,
-    "wof:lastmodified":1472655133,
+    "wof:lastmodified":1534535367,
     "wof:name":"Clarksburg Finance Dept",
     "wof:parent_id":85821689,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823422819
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "city",

@@ -7,6 +7,7 @@
     "addr:postcode":"25303",
     "addr:street":"3Rd Ave Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.691583,38.366343,-81.691583,38.366343",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.691583,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"434 3rd Ave SW",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463431336,
-    "wof:geomhash":"81f798761fe416c9bd330b53434830ff",
+    "wof:geomhash":"64760b94cb6915f514279077141a4243",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":823373389,
-    "wof:lastmodified":1472655044,
+    "wof:lastmodified":1534535368,
     "wof:name":"Party King Inc",
     "wof:parent_id":85837449,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823454463
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "party",

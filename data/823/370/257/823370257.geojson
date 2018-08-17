@@ -2,18 +2,23 @@
   "id": 823370257,
   "type": "Feature",
   "properties": {
-    "addr:full":"11 E Main St Grafton WV 26354",
+    "addr:city":"Grafton",
+    "addr:full":"11 East Main St Grafton, Wv 26534",
+    "addr:house_number":"11",
     "addr:housenumber":"11",
-    "addr:postcode":"26354",
+    "addr:postcode":"26534",
+    "addr:road":"East Main St",
+    "addr:state":"WV",
     "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.018696,39.340688,-80.018696,39.340688",
-    "geom:latitude":39.340688,
-    "geom:longitude":-80.018696,
+    "geom:bbox":"-80.01869,39.34132,-80.01869,39.34132",
+    "geom:latitude":39.34132,
+    "geom:longitude":-80.01869,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"11 E Main St",
     "sg:city":"Grafton",
     "sg:classifiers":[
@@ -31,21 +36,25 @@
         "information",
         "tourist"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529581
+    ],
     "wof:belongsto":[
-        85688589,
+        85849697,
         85633793,
         101731717,
         102083351,
-        85849697
+        85688589
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409400285,
         "sg:id":"SG_2ebNJTP0jX8bBRd384RKYa_39.340688_-80.018696@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431185,
-    "wof:geomhash":"a21d33f2850311b0fa5f838147e23f7f",
+    "wof:geomhash":"66abc9ed0f49c23b8a1f99995a5bbb7d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,8 +66,8 @@
         }
     ],
     "wof:id":823370257,
-    "wof:lastmodified":1472655015,
-    "wof:name":"Mother's Day Shrine",
+    "wof:lastmodified":1534535369,
+    "wof:name":"International Mother'S Day Shrine & Museum",
     "wof:parent_id":85849697,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wv",
@@ -70,10 +79,10 @@
     ]
 },
   "bbox": [
-    -80.018696,
-    39.340688,
-    -80.018696,
-    39.340688
+    -80.01869,
+    39.34132,
+    -80.01869,
+    39.34132
 ],
-  "geometry": {"coordinates":[-80.01869600000001,39.340688],"type":"Point"}
+  "geometry": {"coordinates":[-80.01869000000001,39.34132],"type":"Point"}
 }

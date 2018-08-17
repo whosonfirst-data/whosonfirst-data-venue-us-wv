@@ -7,6 +7,7 @@
     "addr:postcode":"25301",
     "addr:street":"Lee St E",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.633039,38.350742,-81.633039,38.350742",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.633039,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"900 Lee St E",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1463432854,
-    "wof:geomhash":"82de5b319798bef7ba8d59a50defd4a0",
+    "wof:geomhash":"8c59775f3f84fe96f6a4c2142341f40a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":823405901,
-    "wof:lastmodified":1472655083,
+    "wof:lastmodified":1534535367,
     "wof:name":"West Virginia Indep Colleges",
     "wof:parent_id":85816783,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823427813
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

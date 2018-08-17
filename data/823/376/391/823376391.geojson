@@ -2,18 +2,24 @@
   "id": 823376391,
   "type": "Feature",
   "properties": {
-    "addr:full":"915 2nd St Moundsville WV 26041",
+    "addr:city":"Moundsville",
+    "addr:full":"915 2Nd St Moundsville, Wv 26041-1422",
+    "addr:house_number":"915",
     "addr:housenumber":"915",
-    "addr:postcode":"26041",
+    "addr:phone":"+1 304-845-6022",
+    "addr:postcode":"26041-1422",
+    "addr:road":"2Nd St",
+    "addr:state":"WV",
     "addr:street":"2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.742702,39.923532,-80.742702,39.923532",
-    "geom:latitude":39.923532,
-    "geom:longitude":-80.742702,
+    "geom:bbox":"-80.74189,39.92348,-80.74189,39.92348",
+    "geom:latitude":39.92348,
+    "geom:longitude":-80.74189,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"915 2nd St",
     "sg:city":"Moundsville",
     "sg:classifiers":[
@@ -31,18 +37,20 @@
         "gallery"
     ],
     "sg:website":"www.marxtoymuseum.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405400088,
         "sg:id":"SG_3haHkFBL1n8VSPEdfoSOt4_39.923532_-80.742702@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431478,
-    "wof:geomhash":"ae2c912456506bbfe941b5e5ec37d0d3",
+    "wof:geomhash":"01ac708353fb6ad575f36b087594953e",
     "wof:hierarchy":[],
     "wof:id":823376391,
-    "wof:lastmodified":1472655034,
+    "wof:lastmodified":1534535369,
     "wof:name":"Marx Toy Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -54,10 +62,10 @@
     ]
 },
   "bbox": [
-    -80.742702,
-    39.923532,
-    -80.742702,
-    39.923532
+    -80.74189,
+    39.92348,
+    -80.74189,
+    39.92348
 ],
-  "geometry": {"coordinates":[-80.74270199999999,39.923532],"type":"Point"}
+  "geometry": {"coordinates":[-80.74189,39.92348],"type":"Point"}
 }

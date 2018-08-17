@@ -2,18 +2,24 @@
   "id": 823443725,
   "type": "Feature",
   "properties": {
-    "addr:full":"301 W Washington St Lewisburg WV 24901",
+    "addr:city":"Lewisburg",
+    "addr:full":"301 West Washington St Lewisburg, Wv 24901-1324",
+    "addr:house_number":"301",
     "addr:housenumber":"301",
-    "addr:postcode":"24901",
+    "addr:phone":"+1 304-645-3398",
+    "addr:postcode":"24901-1324",
+    "addr:road":"West Washington St",
+    "addr:state":"WV",
     "addr:street":"W Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.455571,37.805083,-80.455571,37.805083",
-    "geom:latitude":37.805083,
-    "geom:longitude":-80.455571,
+    "geom:bbox":"-80.45509,37.80497,-80.45509,37.80497",
+    "geom:latitude":37.80497,
+    "geom:longitude":-80.45509,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"301 W Washington St",
     "sg:city":"Lewisburg",
     "sg:classifiers":[
@@ -31,18 +37,22 @@
         "shop",
         "gift"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528301
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405400022,
         "sg:id":"SG_2HxJ5Lx97OKGAmmE9uXyZ1_37.805083_-80.455571@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463434532,
-    "wof:geomhash":"bc7c48c170010304efe37da2bfe902d8",
+    "wof:geomhash":"4ddb8eb5e6dbc1afa1b706864d45f6ee",
     "wof:hierarchy":[],
     "wof:id":823443725,
-    "wof:lastmodified":1472655153,
+    "wof:lastmodified":1534535370,
     "wof:name":"North House Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -55,10 +65,10 @@
     ]
 },
   "bbox": [
-    -80.455571,
-    37.805083,
-    -80.455571,
-    37.805083
+    -80.45509,
+    37.80497,
+    -80.45509,
+    37.80497
 ],
-  "geometry": {"coordinates":[-80.45557100000001,37.805083],"type":"Point"}
+  "geometry": {"coordinates":[-80.45509,37.80497],"type":"Point"}
 }

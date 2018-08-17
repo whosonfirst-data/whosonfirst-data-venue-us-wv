@@ -2,18 +2,24 @@
   "id": 823397219,
   "type": "Feature",
   "properties": {
-    "addr:full":"311 D St Charleston WV 25303",
+    "addr:city":"South Charleston",
+    "addr:full":"311 D St South Charleston, Wv 25303",
+    "addr:house_number":"311",
     "addr:housenumber":"311",
+    "addr:phone":"+1 304-744-9711",
     "addr:postcode":"25303",
+    "addr:road":"D St",
+    "addr:state":"WV",
     "addr:street":"D St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-81.694717,38.366037,-81.694717,38.366037",
-    "geom:latitude":38.366037,
-    "geom:longitude":-81.694717,
+    "geom:bbox":"-81.68709,38.36129,-81.68709,38.36129",
+    "geom:latitude":38.36129,
+    "geom:longitude":-81.68709,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"311 D St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -27,21 +33,25 @@
     "sg:phone":"+1 304 744 9711",
     "sg:postcode":"25303",
     "sg:province":"WV",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530929
+    ],
     "wof:belongsto":[
-        85688589,
+        85837449,
         85633793,
         101731771,
         102083335,
-        85837449
+        85688589
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405400011,
         "sg:id":"SG_71h09BvDBZh0VN3kh4mxl3_38.366037_-81.694717@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463432439,
-    "wof:geomhash":"5fcb72ca9154884a0164faa47b2bcf3c",
+    "wof:geomhash":"25a03ae8f69584afd1ee0a19930d6791",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +63,7 @@
         }
     ],
     "wof:id":823397219,
-    "wof:lastmodified":1472655037,
+    "wof:lastmodified":1534535369,
     "wof:name":"South Charleston Museum",
     "wof:parent_id":85837449,
     "wof:placetype":"venue",
@@ -63,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -81.694717,
-    38.366037,
-    -81.694717,
-    38.366037
+    -81.68709,
+    38.36129,
+    -81.68709,
+    38.36129
 ],
-  "geometry": {"coordinates":[-81.694717,38.366037],"type":"Point"}
+  "geometry": {"coordinates":[-81.68709,38.36129],"type":"Point"}
 }

@@ -7,6 +7,7 @@
     "addr:postcode":"26101",
     "addr:street":"18Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.549662,39.276739,-81.549662,39.276739",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.549662,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"600 18th St",
     "sg:city":"Parkersburg",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1463434467,
-    "wof:geomhash":"c88bb9aef7f3688b6009d6ee421a387a",
+    "wof:geomhash":"b7af03914cb1c688522b098a234cce6b",
     "wof:hierarchy":[],
     "wof:id":823442415,
-    "wof:lastmodified":1472655125,
+    "wof:lastmodified":1534535368,
     "wof:name":"Cabaniss Patricia S MD Facog",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823450831
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

@@ -14,6 +14,7 @@
     "geom:longitude":-81.614488,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1900 Kanawha Blvd E",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463431400,
-    "wof:geomhash":"b5708abfead3e2bb357135c7e023a7fd",
+    "wof:geomhash":"d6b48ae7556c075848a3a28203eb331e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":823374937,
-    "wof:lastmodified":1472655083,
+    "wof:lastmodified":1534535366,
     "wof:name":"State Auditor",
     "wof:parent_id":85850023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823440833
+    ],
     "wof:tags":[
         "state",
         "taxation"

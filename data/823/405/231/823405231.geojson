@@ -14,6 +14,7 @@
     "geom:longitude":-81.636095,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"707 Virginia St E",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463432821,
-    "wof:geomhash":"c358e19fc003015346f0d5e3b4da135f",
+    "wof:geomhash":"b8287b68fc59ae416cdd3b47e263ea6b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":823405231,
-    "wof:lastmodified":1472655040,
+    "wof:lastmodified":1534535367,
     "wof:name":"Ellis & Ellis P L L C",
     "wof:parent_id":85816783,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823397313
+    ],
     "wof:tags":[
         "accountant",
         "public",

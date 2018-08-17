@@ -7,6 +7,7 @@
     "addr:postcode":"25420",
     "addr:street":"Apple Harvest Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.077201,39.408442,-78.077201,39.408442",
@@ -14,6 +15,7 @@
     "geom:longitude":-78.077201,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8552 Apple Harvest Dr",
     "sg:city":"Gerrardstown",
     "sg:classifiers":[
@@ -61,7 +63,7 @@
     },
     "wof:country":"US",
     "wof:created":1463435072,
-    "wof:geomhash":"70fef2584a27aa273dfdf4eb61e4328c",
+    "wof:geomhash":"7bb585012829b14bce2012fe3d510d26",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -73,12 +75,14 @@
         }
     ],
     "wof:id":823455375,
-    "wof:lastmodified":1472655147,
+    "wof:lastmodified":1534535369,
     "wof:name":"Tender Loving Pet Care",
     "wof:parent_id":85806921,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823455389
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "specialty",

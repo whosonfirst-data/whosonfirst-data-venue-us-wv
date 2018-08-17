@@ -2,18 +2,24 @@
   "id": 823410875,
   "type": "Feature",
   "properties": {
-    "addr:full":"1016 Avery St Parkersburg WV 26101",
+    "addr:city":"Parkersburg",
+    "addr:full":"1016 Avery St Parkersburg, Wv 26101",
+    "addr:house_number":"1016",
     "addr:housenumber":"1016",
+    "addr:phone":"+1 304-485-1152",
     "addr:postcode":"26101",
+    "addr:road":"Avery St",
+    "addr:state":"WV",
     "addr:street":"Avery St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-81.552886,39.269673,-81.552886,39.269673",
-    "geom:latitude":39.269673,
-    "geom:longitude":-81.552886,
+    "geom:bbox":"-81.5537,39.26839,-81.5537,39.26839",
+    "geom:latitude":39.26839,
+    "geom:longitude":-81.5537,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1016 Avery St",
     "sg:city":"Parkersburg",
     "sg:classifiers":[
@@ -27,19 +33,23 @@
     "sg:phone":"+1 304 485 1152",
     "sg:postcode":"26101",
     "sg:province":"WV",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530893
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405400010,
         "sg:id":"SG_6UsuaeE4pJz7WrU9tuNtKv_39.269673_-81.552886@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433061,
-    "wof:geomhash":"cbad91eb9ca9b8892f41b58548e9b260",
+    "wof:geomhash":"7ccc5458cf9ce4760ab06ad2e31da837",
     "wof:hierarchy":[],
     "wof:id":823410875,
-    "wof:lastmodified":1472655091,
-    "wof:name":"Sumnerites Museum & Community",
+    "wof:lastmodified":1534535369,
+    "wof:name":"Sumnerites Museum And Community Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wv",
@@ -48,10 +58,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -81.552886,
-    39.269673,
-    -81.552886,
-    39.269673
+    -81.5537,
+    39.26839,
+    -81.5537,
+    39.26839
 ],
-  "geometry": {"coordinates":[-81.552886,39.269673],"type":"Point"}
+  "geometry": {"coordinates":[-81.55370000000001,39.26839],"type":"Point"}
 }

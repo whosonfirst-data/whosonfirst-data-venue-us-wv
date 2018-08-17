@@ -14,6 +14,7 @@
     "geom:longitude":-80.553448,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 Carolina Ave",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -53,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1463435111,
-    "wof:geomhash":"0ff4a0bd42a83ae5c9940817f3d27097",
+    "wof:geomhash":"f10504e07b37e2554e1c8e6c90288d6c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -65,13 +66,15 @@
         }
     ],
     "wof:id":823456401,
-    "wof:lastmodified":1472655157,
+    "wof:lastmodified":1534535369,
     "wof:name":"Manypenny Ellen L",
     "wof:parent_id":85827481,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823390283
+    ],
     "wof:tags":[
         "attorney",
         "return",

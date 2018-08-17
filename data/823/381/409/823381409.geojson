@@ -14,6 +14,7 @@
     "geom:longitude":-81.632578,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"350 Capitol St",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463431710,
-    "wof:geomhash":"f29c73ce047827712f8aff85786d5aa8",
+    "wof:geomhash":"a5ea01798ef1f176036c66c155b75064",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":823381409,
-    "wof:lastmodified":1472655027,
+    "wof:lastmodified":1534535366,
     "wof:name":"Management Information Svc Ofc",
     "wof:parent_id":85816783,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823415081
+    ],
     "wof:tags":[
         "govt",
         "state",

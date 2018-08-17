@@ -14,6 +14,7 @@
     "geom:longitude":-80.339547,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"301 W Main St",
     "sg:city":"Clarksburg",
     "sg:classifiers":[
@@ -41,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1463433967,
-    "wof:geomhash":"452ab1c893986cce0dcf32c4154696e5",
+    "wof:geomhash":"07c1e20745d6a2017424819526035db3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,13 +54,15 @@
         }
     ],
     "wof:id":823431989,
-    "wof:lastmodified":1472655175,
+    "wof:lastmodified":1534535367,
     "wof:name":"Harrison County Planning Comm",
     "wof:parent_id":85821689,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823371631
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,6 +7,7 @@
     "addr:postcode":"24901",
     "addr:street":"N Jefferson St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-80.428302,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"520 N Jefferson St",
     "sg:city":"Lewisburg",
     "sg:classifiers":[
@@ -41,12 +42,14 @@
     "wof:geomhash":"a96b146e7533027383efc488aa434689",
     "wof:hierarchy":[],
     "wof:id":823444531,
-    "wof:lastmodified":1511999715,
+    "wof:lastmodified":1534535368,
     "wof:name":"Mc Donald's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823452323
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

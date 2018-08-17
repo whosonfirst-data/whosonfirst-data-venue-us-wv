@@ -7,6 +7,7 @@
     "addr:postcode":"25313",
     "addr:street":"New Goff Mountain Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-81.798526,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"412 New Goff Mountain Rd",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -44,12 +45,14 @@
     "wof:geomhash":"cee22a268fbb7e8ead1758e9b7017e12",
     "wof:hierarchy":[],
     "wof:id":823421495,
-    "wof:lastmodified":1511320554,
+    "wof:lastmodified":1534535368,
     "wof:name":"Golden Corral",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823452599
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

@@ -7,6 +7,7 @@
     "addr:postcode":"25702",
     "addr:street":"1St Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.401089,38.43072,-82.401089,38.43072",
@@ -14,6 +15,7 @@
     "geom:longitude":-82.401089,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2828 1st Ave",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -39,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1463433649,
-    "wof:geomhash":"7f17ea79802fd3ccad7e0707a04b6d4f",
+    "wof:geomhash":"8eee2cc9efb58c916fda27972a0b83dc",
     "wof:hierarchy":[],
     "wof:id":823424745,
-    "wof:lastmodified":1472655144,
+    "wof:lastmodified":1534535367,
     "wof:name":"Gilbert A Garza Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823428737
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

@@ -14,6 +14,7 @@
     "geom:longitude":-81.602061,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3100 Maccorkle Ave SE",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1463433697,
-    "wof:geomhash":"6fcf1a8f0d8552cc91608865b4a28592",
+    "wof:geomhash":"b001913d65933c730530551d23e121a8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":823425815,
-    "wof:lastmodified":1472655152,
+    "wof:lastmodified":1534535367,
     "wof:name":"R Thomas Linger Jr MD",
     "wof:parent_id":85845161,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823372349
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

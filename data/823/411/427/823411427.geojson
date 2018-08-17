@@ -14,6 +14,7 @@
     "geom:longitude":-81.634189,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1018 Kanawha Blvd E",
     "sg:city":"Charleston",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1463433082,
-    "wof:geomhash":"4753b76e8515fe992a9ec1021552d297",
+    "wof:geomhash":"e9dd04a8143bd892e0e4964f9d349d38",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":823411427,
-    "wof:lastmodified":1472655081,
+    "wof:lastmodified":1534535367,
     "wof:name":"James M Cagle",
     "wof:parent_id":85816783,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wv",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823396631
+    ],
     "wof:tags":[
         "attorney"
     ]

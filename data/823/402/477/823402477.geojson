@@ -2,18 +2,23 @@
   "id": 823402477,
   "type": "Feature",
   "properties": {
-    "addr:full":"1500 W Main St Princeton WV 24740",
+    "addr:city":"Princeton",
+    "addr:full":"1500 W Main Street Princeton, Wv 24740-2627",
+    "addr:house_number":"1500",
     "addr:housenumber":"1500",
-    "addr:postcode":"24740",
+    "addr:postcode":"24740-2627",
+    "addr:road":"W Main Street",
+    "addr:state":"WV",
     "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-81.103028,37.366074,-81.103028,37.366074",
-    "geom:latitude":37.366074,
-    "geom:longitude":-81.103028,
+    "geom:bbox":"-81.103,37.36616,-81.103,37.36616",
+    "geom:latitude":37.36616,
+    "geom:longitude":-81.103,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1500 W Main St",
     "sg:city":"Princeton",
     "sg:classifiers":[
@@ -30,21 +35,25 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531089
+    ],
     "wof:belongsto":[
-        85688589,
+        85813203,
         85633793,
         101731433,
         102082639,
-        85813203
+        85688589
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405400225,
         "sg:id":"SG_03FUWsvHq89qT5bYEHiFlM_37.366074_-81.103028@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463432692,
-    "wof:geomhash":"c3161331fbce9d75aa1667b8e01e4872",
+    "wof:geomhash":"4980b9217085bfe2c61681809687abcf",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":823402477,
-    "wof:lastmodified":1472655065,
+    "wof:lastmodified":1534535370,
     "wof:name":"Those Who Served War Museum",
     "wof:parent_id":85813203,
     "wof:placetype":"venue",
@@ -68,10 +77,10 @@
     ]
 },
   "bbox": [
-    -81.103028,
-    37.366074,
-    -81.103028,
-    37.366074
+    -81.103,
+    37.36616,
+    -81.103,
+    37.36616
 ],
-  "geometry": {"coordinates":[-81.10302799999999,37.366074],"type":"Point"}
+  "geometry": {"coordinates":[-81.10299999999999,37.36616],"type":"Point"}
 }

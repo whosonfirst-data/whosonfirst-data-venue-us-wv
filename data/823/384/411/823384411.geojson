@@ -2,18 +2,24 @@
   "id": 823384411,
   "type": "Feature",
   "properties": {
-    "addr:full":"509 Ewart Ave Beckley WV 25801",
+    "addr:city":"Beckley",
+    "addr:full":"509 Ewart Ave Beckley, Wv 25802-2514",
+    "addr:house_number":"509",
     "addr:housenumber":"509",
-    "addr:postcode":"25801",
+    "addr:phone":"+1 304-252-3730",
+    "addr:postcode":"25802-2514",
+    "addr:road":"Ewart Ave",
+    "addr:state":"WV",
     "addr:street":"Ewart Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-81.196919,37.784866,-81.196919,37.784866",
-    "geom:latitude":37.784866,
-    "geom:longitude":-81.196919,
+    "geom:bbox":"-81.19737,37.78454,-81.19737,37.78454",
+    "geom:latitude":37.78454,
+    "geom:longitude":-81.19737,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"509 Ewart Ave",
     "sg:city":"Beckley",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 304 252 3730",
     "sg:postcode":"25801",
     "sg:province":"WV",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527995
+    ],
     "wof:belongsto":[
         85688589,
         102191575,
@@ -38,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405400003,
         "sg:id":"SG_4DRkxLrx28TBnq48wGfC1Y_37.784866_-81.196919@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463431824,
-    "wof:geomhash":"20b157804493658fad41a28f63998e03",
+    "wof:geomhash":"dfde977f7dc62f6024f12a7ba941fe31",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,8 +65,8 @@
         }
     ],
     "wof:id":823384411,
-    "wof:lastmodified":1472655052,
-    "wof:name":"Youth Museum Of Southern WV",
+    "wof:lastmodified":1534535366,
+    "wof:name":"Youth Museum Of Southern West Virginia",
     "wof:parent_id":85805185,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wv",
@@ -65,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -81.196919,
-    37.784866,
-    -81.196919,
-    37.784866
+    -81.19737,
+    37.78454,
+    -81.19737,
+    37.78454
 ],
-  "geometry": {"coordinates":[-81.19691899999999,37.784866],"type":"Point"}
+  "geometry": {"coordinates":[-81.19737000000001,37.78454],"type":"Point"}
 }

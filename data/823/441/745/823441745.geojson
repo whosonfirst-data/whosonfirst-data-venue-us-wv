@@ -7,6 +7,7 @@
     "addr:postcode":"25015",
     "addr:street":"E Dupont Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.502184,38.203899,-81.502184,38.203899",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.502184,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2700 E Dupont Ave",
     "sg:city":"Belle",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1463434434,
-    "wof:geomhash":"e6ccb3d3cdbd6f2820455c02f7ab8b65",
+    "wof:geomhash":"9ce8f8cfbd88a0e9191300193c2f18ea",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":823441745,
-    "wof:lastmodified":1472655151,
+    "wof:lastmodified":1534535368,
     "wof:name":"Jan's Hallmark",
     "wof:parent_id":85845161,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823450547
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"

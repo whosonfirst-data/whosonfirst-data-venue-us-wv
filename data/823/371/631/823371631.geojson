@@ -7,6 +7,7 @@
     "addr:postcode":"26301",
     "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.339547,39.279288,-80.339547,39.279288",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.339547,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"301 W Main St",
     "sg:city":"Clarksburg",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1463431265,
-    "wof:geomhash":"452ab1c893986cce0dcf32c4154696e5",
+    "wof:geomhash":"07c1e20745d6a2017424819526035db3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":823371631,
-    "wof:lastmodified":1472655034,
+    "wof:lastmodified":1534535367,
     "wof:name":"Planning Commission",
     "wof:parent_id":85821689,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823431989
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "development"

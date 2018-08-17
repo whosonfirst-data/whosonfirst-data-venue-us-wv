@@ -2,18 +2,24 @@
   "id": 823451631,
   "type": "Feature",
   "properties": {
-    "addr:full":"316 Washington Ave Wheeling WV 26003",
+    "addr:city":"Wheeling",
+    "addr:full":"316 Washington Ave Wheeling, Wv 26003",
+    "addr:house_number":"316",
     "addr:housenumber":"316",
+    "addr:phone":"+1 304-243-2096",
     "addr:postcode":"26003",
+    "addr:road":"Washington Ave",
+    "addr:state":"WV",
     "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.690437,40.067871,-80.690437,40.067871",
-    "geom:latitude":40.067871,
-    "geom:longitude":-80.690437,
+    "geom:bbox":"-80.69066,40.06775,-80.69066,40.06775",
+    "geom:latitude":40.06775,
+    "geom:longitude":-80.69066,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"316 Washington Ave",
     "sg:city":"Wheeling",
     "sg:classifiers":[
@@ -31,7 +37,10 @@
         "university"
     ],
     "sg:website":"http://www.wju.edu",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531661
+    ],
     "wof:belongsto":[
         85688589,
         102191575,
@@ -42,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409504361,
         "sg:id":"SG_0HDiuyMomr9l4cZMblnZaI_40.067492_-80.690799@1293134755"
     },
     "wof:country":"US",
     "wof:created":1463434878,
-    "wof:geomhash":"3bcb63505ea01389946eb876c0915f1e",
+    "wof:geomhash":"6960d7fc0d237e7e69a9fc1fad95b664",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,8 +69,8 @@
         }
     ],
     "wof:id":823451631,
-    "wof:lastmodified":1472655166,
-    "wof:name":"Wheeling Jesuit University Inc",
+    "wof:lastmodified":1534535370,
+    "wof:name":"Wju Art Gallery",
     "wof:parent_id":85830083,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wv",
@@ -71,10 +81,10 @@
     ]
 },
   "bbox": [
-    -80.690437,
-    40.067871,
-    -80.690437,
-    40.067871
+    -80.69066,
+    40.06775,
+    -80.69066,
+    40.06775
 ],
-  "geometry": {"coordinates":[-80.690437,40.067871],"type":"Point"}
+  "geometry": {"coordinates":[-80.69065999999999,40.06775],"type":"Point"}
 }

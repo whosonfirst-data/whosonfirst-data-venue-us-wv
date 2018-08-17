@@ -7,6 +7,7 @@
     "addr:postcode":"26501",
     "addr:street":"Bethel Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.004966,39.675956,-80.004966,39.675956",
@@ -14,6 +15,7 @@
     "geom:longitude":-80.004966,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"823 Bethel Rd",
     "sg:city":"Morgantown",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463431361,
-    "wof:geomhash":"ca71ec97b5219f361df5137b4614405e",
+    "wof:geomhash":"a55b42f8a4e5982cd5031dd22cf97afe",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":823374073,
-    "wof:lastmodified":1472655009,
+    "wof:lastmodified":1534535369,
     "wof:name":"Mountaineer Chem-Dry",
     "wof:parent_id":85807277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-wv",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823457245
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners",

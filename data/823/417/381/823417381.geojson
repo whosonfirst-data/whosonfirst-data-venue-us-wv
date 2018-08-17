@@ -2,18 +2,24 @@
   "id": 823417381,
   "type": "Feature",
   "properties": {
-    "addr:full":"2200 Market St Wheeling WV 26003",
+    "addr:city":"Wheeling",
+    "addr:full":"2200 Market Street Wheeling, Wv 26003-3836",
+    "addr:house_number":"2200",
     "addr:housenumber":"2200",
-    "addr:postcode":"26003",
+    "addr:phone":"+1 304-233-7540",
+    "addr:postcode":"26003-3836",
+    "addr:road":"Market Street",
+    "addr:state":"WV",
     "addr:street":"Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-80.72379,40.05905,-80.72379,40.05905",
-    "geom:latitude":40.05905,
-    "geom:longitude":-80.72379,
+    "geom:bbox":"-80.7233,40.05978,-80.7233,40.05978",
+    "geom:latitude":40.05978,
+    "geom:longitude":-80.7233,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2200 Market St",
     "sg:city":"Wheeling",
     "sg:classifiers":[
@@ -32,18 +38,22 @@
         "artist"
     ],
     "sg:website":"www.artworksaroundtown.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531661
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8405400236,
         "sg:id":"SG_0qzQxyQ8UbnWgvFcCaW4aq_40.059050_-80.723790@1294254474"
     },
     "wof:country":"US",
     "wof:created":1463433356,
-    "wof:geomhash":"f2f17fc453cc45d4a4b1d246d49b6d8d",
+    "wof:geomhash":"4df5cef83e3721376076ede2532fd604",
     "wof:hierarchy":[],
     "wof:id":823417381,
-    "wof:lastmodified":1472655114,
+    "wof:lastmodified":1534535369,
     "wof:name":"Art Works Around Town",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -56,10 +66,10 @@
     ]
 },
   "bbox": [
-    -80.72379,
-    40.05905,
-    -80.72379,
-    40.05905
+    -80.7233,
+    40.05978,
+    -80.7233,
+    40.05978
 ],
-  "geometry": {"coordinates":[-80.72378999999999,40.05905],"type":"Point"}
+  "geometry": {"coordinates":[-80.72329999999999,40.05978],"type":"Point"}
 }
